@@ -114,7 +114,7 @@ if __name__ == '__main__':
         except:
             continue
         ## skidanje samog teksta akta u html foramtu
-        fajl = io.open("../aktovi/"+str(brojac)+".html", mode="w", encoding="utf-8")
+        fajl = io.open("../data/aktovi/"+str(brojac)+".html", mode="w", encoding="utf-8")
         fajl.write(article.get_attribute('innerHTML'))
         fajl.close()
         
