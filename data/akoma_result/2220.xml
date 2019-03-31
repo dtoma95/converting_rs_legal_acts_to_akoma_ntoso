@@ -1,0 +1,641 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1993/63-2898/main"/>
+					<FRBRuri value="/rs/act/1993/63-2898"/>
+					<FRBRdate date="1993" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2008/59-3/srp@/main"/>
+					<FRBRuri value="/rs/act/2008/59-3/srp@"/>
+					<FRBRdate date="2008" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2008/59-3/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2008/59-3/srp@.akn"/>
+					<FRBRdate date="2008" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1993-8-17" name="службени гласник рс" number="63" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="10. Социјална заштита и друштвена брига о деци" value="10. социјална заштита и друштвена брига о деци"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1993-07-28" id="usvajanje"/>
+				<step date="1993-08-25" id="stupanje_na_snagu"/>
+				<step date="1993-08-25" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="63/1993-2898" id="e1" type="generation"/>
+				<eventRef date="10/2006-104" id="e2" type="amendment"/>
+				<eventRef date="36/2008-8" id="e3" type="amendment"/>
+				<eventRef date="59/2008-3" id="e4" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Престао је да важи <ref>члан 7. </ref>ст. 5. и 9. Правилника (види <ref>члан 79. </ref>Правилника – 36/2008-8).Правилник је престао да важи у делу који уређује евиденцију и документацију центара за социјални рад и саветовалишта за брак и породицу (види <ref>члан 94. </ref>Правилника – 59/2008-3).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 50. став 3. </ref><ref>члана 62. став 2. </ref>и <ref>члана 70. став 2. </ref>Закона о социјалној заштити и обезбеђивању социјалне сигурности грађана (&quot;<ref id="ref6" href="/rs/act/91/35/srp@">Службени гласник РС&quot;, бр. 35/91</ref> и 33/93),</p>
+		</preamble>
+		<preface>
+			<authority>Министар за рад борачка и социјална питања доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>О ВОЂЕЊУ ЕВИДЕНЦИЈЕ О КОРИСНИЦИМА И ДОКУМЕНТАЦИЈЕ О СТРУЧНОМ РАДУ У УСТАНОВАМА СОЦИЈАЛНЕ ЗАШТИТЕ</title>
+			<date>„Службени гласник РС&quot;, број 63 од 17. августа 1993, 10 од 3. фебруара 2006, 36 од 8. априла. 2008 (др. правилник), 59 од 11. јуна 2008 (др. правилник)</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се садржај и начин вођења евиденције о корисницима и документације о стручном раду у установама социјалне заштите, као и садржај обрасца захтева за остваривање права на материјално обезбеђење и налаза и мишљења центра за социјални рад о чињеницама о којима се не води службена евиденција.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Евиденција о корисницима у смислу овог правилника је регистар, матична књига, лични картон, лични лист, скраћени лични лист, лист праћења рада на заштити корисника, лични лист корисника установа за смештај деце и омладине, лист о социјално анамнестичким подацима за лица која се упућују у дом за пензионере и стара лица, и протокол за кориснике саветовалишта за брак и породицу.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Документација о стручном раду у смислу овог правилника је програм и извештај о раду установе, планови и извештаји о раду тимова и група стручних сарадника, план и извештај о раду стручних сарадника, књига записника са састанка стручних тимова и група стручних сарадника, дневник рада, књига пријема, премештаја и отпуста корисника и књига дежурства.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Регистар воде центар за социјални рад и саветовалиште за брак и породицу, било да је организациони део центра, или друге установе социјалне заштите.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Центар за социјални рад води регистар на Обрасцу број 1, у облику тврдо укоричене књиге, величине 24 х 33,5 цм.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Саветовалиште за брак и породицу води регистар на Обрасцу број 1а, у облику тврдо укоричене књиге, величине 24 х 33,5 цм.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>У регистар који води центар за социјални рад евидентирају се сва лица која се први пут обраћају центру ради остваривања неког облика, мере или услуге социјалног рада, осим оних лица која траже уверење или препоруку.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>При остваривању права на материјално обезбеђење у регистар се евидентира само подносилац захтева, а чланови његове породице се уписују уколико се за њих тражи и коришћење неког другог облика, мере или услуге социјалног рада.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>Поласци се уписују хронолошким редом, а нови регистар се отвара када се достигне регистарски број од 20.000.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>У регистар који води саветовалиште за брак и породицу уписују се сва лица која се први пут обраћају саветовалишту.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Нови регистар се отвара сваке пете године.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Матичну књигу воде установе за смештај корисника у облику тврдо укоричене књиге пресавијене на два једнака дела у којој се подаци уписују хронолошким редом.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Матична књига установа за смештај деце и омладине води се на Обрасцу број 2, величине 30 х 42 цм.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>Матична књига прихватилишта за децу и омладину води се на Обрасцу број 2а, величине 30 х 42 цм.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>Матична књига прихватилишта за децу и омладину води се на Обрасцу 2б, величине 30 х 42 цм.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav5">
+						<content>
+							<p>Матична књига установа за смештај деце и омладине ометене у развоју води се на Обрасцу број 2г, величине 30 х 42 цм.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav6">
+						<content>
+							<p>Матична књига установа за смештај пензионера и старих лица води се на Обрасцу број 2д, величине 30 х 42 цм.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav7">
+						<content>
+							<p>Све установе воде једну матичну књигу осим центра за породични смештај деце који, због специфичности услуга и начина пружања заштите, одвојено води матичну књигу деце на породичном смештају и матичну књигу хранитељских породица.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav8">
+						<content>
+							<p>Нова матична књига се отвара сваке пете године осим матичне књиге хранитељских породица која се отвара након попуњености свих места за упис.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Лични картон се води за кориснике центра за социјални рад, саветовалишта за брак и породицу и прихватилишта за одрасла и стара лица.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Центар за социјални рад води лични картон на Обрасцу број 3, величине 14 х 21 цм на чврстом картону.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>Саветовалиште за брак и породицу води лични картон на Обрасцу број 3а, величине 14 х 21 цм на чврстом картону.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav4">
+						<content>
+							<p>Прихватилиште за одрасла и стара лица води лични картон на Обрасцу број 3б, величине 14 х 21 цм на чврстом картону.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav5">
+						<content>
+							<p>Лични картони се уређују по азбучном реду у оквиру активне и пасивне картотеке.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Лични картон који воде центар за социјални рад и прихватилиште за одрасле и стара лица, отвара се за свако лице које је евидентирано у регистру а за лица која су евидентирана у регистру саветовалишта лични картон се отвара након процене стручних радника о потреби коришћења услуга саветовалишта.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>На личном картону подносиоца захтева за материјално обезбеђење у центру за социјални рад уписују се и чланови његове породице, за које тражи коришћење овог права (име и година рођења).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Установе социјалне заштите воде лични лист за сваког корисника, а саветовалишта за брак и породицу воде протокол за кориснике.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Центар за социјални рад лични лист води на Обрасцу број 4, величине 29,5 х 42 цм, који је пресавијен на два једнака дела и има 8 страна.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>Установе за смештај деце и омладине лични лист корисника воде на Обрасцу број 5, величине 29,5 х 42 цм, који је пресавијен на два једнака дела и има 4 стране.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav4">
+						<content>
+							<p>Дом за стара лица лист о социјално анамнестичким подацима води на Обрасцу ДС-2, величине 29,5 х 42 цм, који је пресавијен на два једнака дела и има 4 стране.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav5">
+						<content>
+							<p>Саветовалиште за брак и породицу протокол за кориснике води на Обрасцу број 4б, величине 29,5 х 21 цм, који има 6 страна.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Центар за социјални рад води лични лист за сва лица уписана у регистар, осим за лица која подносе захтев за материјално обезбеђење и за одрасла и остарела лица која се упућују на смештај у дом за пензионере и стара лица.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Уколико се заштита пружа и другим члановима исте породице, тада се лични лист води само за једног члана а за остале чланове породице скраћени лични лист на Обрасцу број 4ц, величине 29,5 х 21 цм који има 2 стране.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav3">
+						<content>
+							<p>За одрасла и остарела лица, која се упућују на смештај у дом за пензионере и стара лица води се лист о социоанамнестичким подацима и скраћени лични лист.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav4">
+						<content>
+							<p>За лица која траже једнократне услуге центра води се само скраћени лични лист.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav5">
+						<content>
+							<p>Код подносиоца захтева за материјално обезбеђење, као и за оне који искључиво користе ово право, уместо личног листа попуњава се захтев за остваривање права на материјално обезбеђење.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Лист праћења рада на заштити корисника води се за свако лице, односно породицу, у свим установама социјалне заштите, на Обрасцу број 4а, величине 29,5 х 21 цм, који има 2 стране.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav2">
+						<content>
+							<p>Установе социјалне заштите воде само један лист праћења у коме хронолошки бележе битне податке сви стручни радници ангажовани на реализацији заштите тог лица, односно породице.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Програм и извештај о раду установе, планове и извештаје о раду тимова и група стручних срадника, план и извештај о раду стручних сарадника и књигу записника са састанка стручних тимова и група стручних сарадника воде све установе социјалне заштите.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav2">
+						<content>
+							<p>Установе за смештај корисника поред документације из става 1. овог члана воде: дневник рада, књигу пријема, премештаја и отпуста корисника и књигу дежурства.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan14">
+				<num>14.</num>
+				<content>
+					<clause id="clan14-stav1">
+						<content>
+							<p>Установа социјалне заштите формира досије корисника у који се хронолошким редом групише целокупна евиденција и документација која се односи на корисника.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav2">
+						<content>
+							<p>Досије корисника садржи: лични лист, лист праћења рада на заштити корисника и документацију насталу у поступку решавања о праву корисника у складу са законом и правилима стручног социјалног рада.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav3">
+						<content>
+							<p>Омот досијеа води се на Обрасцу број 6, а чине га чврсте папирне корице величине 33 х 46 цм, пресавијене на 2 једнака дела на чијој се насловној страни уписују: назив установе социјалне заштите; ознака поверљивости, број уписа у регистар или матичну књигу; презиме и име корисника и његова адреса; датум формирања, архивирања и реактивирања, а на унутрашњој страни омота досијеа врши се попис аката и прилога по хронолошком реду.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav4">
+						<content>
+							<p>Сва досијеа се групишу у активна и пасивна према редном броју уписа у регистар и тако груписана одвојено се чувају у за то наменски одређеним просторима.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan15">
+				<num>15.</num>
+				<content>
+					<clause id="clan15-stav1">
+						<content>
+							<p>У центру за социјални рад се у досијеу хронолошким редом уређује целокупна документација и групише у виду предмета према пруженим облицима и мерама заштите, на чијим је омотима уписан класификациони знак из јединствене класификације аката и предмета.</p>
+						</content>
+					</clause>
+					<clause id="clan15-stav2">
+						<content>
+							<p>Када су више планова једне породице корисници центра формира се породични досије. У тим случајевима врши се избор носиоца породичног досијеа, а на омоту поред регистарског броја носиоца, уписују се и регистарски бројеви свих чланова породице.</p>
+						</content>
+					</clause>
+					<clause id="clan15-stav3">
+						<content>
+							<p>У породичном досијеу се посебно групише документација за сваког члана породице, ако користе различите облике и мере заштите.</p>
+						</content>
+					</clause>
+					<clause id="clan15-stav4">
+						<content>
+							<p>На унутрашњој страни омота досијеа врши се попис аката, а ако досије садржи више предмета онда се не врши попис аката, већ се у рубрику &quot;попис аката&quot; уписују класификациони бројеви предмета које досије садржи, на чијим је омотима извршен попис аката.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan16">
+				<num>16.</num>
+				<content>
+					<clause id="clan16-stav1">
+						<content>
+							<p>Лицу које се обраћа центру само за пружање једнократних услуга као што су: једнократна новчана помоћ, мишљење о психофизичкој зрелости малолетника за склапање брака, давање мишљења о социо економским и другим битним условима за доношење одлуке о прекиду трудноће, давање мишљења о обавези издржавања у поступку отпуста из држављанства и сагласности за располагање имовином малолетника не формира се досије.</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav2">
+						<content>
+							<p>За такво лице формира се предмет према прописима о канцеларијском пословању а при првом јављању спроводи се поступак евидентирања у прописана средства евиденције.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan17">
+				<num>17.</num>
+				<content>
+					<clause id="clan17-stav1">
+						<content>
+							<p>Захтев за остваривање права на материјално обезбеђење подноси се на Обрасцу МО, величине 29,5 х 21 цм који има четири стране и Обрасцу МО-1 величине 29,5 х 21 цм који има две стране.</p>
+						</content>
+					</clause>
+					<clause id="clan17-stav2">
+						<content>
+							<p>Налаз и мишљење о чињеницама о којима се не води службена евиденција даје се на Обрасцу МО-2, величине 29,5 х 21 цм који има две стране.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan18">
+				<num>18.</num>
+				<content>
+					<clause id="clan18-stav1">
+						<content>
+							<p>Обрасци утврђени овим правилником одштампани су уз овај правилник и чине његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan18-stav2">
+						<content>
+							<p>Када се обрасци утврђени овим правилником штампају и воде двојезично, исте су величине.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>ПРЕЛАЗНЕ И ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla5-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="gla5-clan19-stav1">
+								<content>
+									<p>Даном ступања на снагу овог правилника престаје да важи Правилник о обрасцима који се користе у поступку остваривања права на материјално обезбеђење (&quot;<ref id="ref7" href="/rs/act/91/44/srp@">Службени гласник РС&quot;, број 44/91</ref>).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla5-clan20-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у &quot;Службеном гласнику Републике Србије&quot;.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan20-stav2">
+								<content>
+									<p>Број 110-00-59/93-10</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan20-stav3">
+								<content>
+									<p>У Београду, 28. јула 1993. године</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan20-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan20-stav5">
+								<content>
+									<p>Никола Ристивојевић, с.р.</p>
+								</content>
+							</clause>
+							<став id="gla5-clan20-stav6">
+								<img height="571" id="Picture 2" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/f80cd182-47b9-48f1-b043-f95935ca6287.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="431"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav7">
+								<img height="443" id="Picture 3" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/a1690264-7d6f-4816-892d-34e61f1f96a0.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav8">
+								<img height="446" id="Picture 4" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/2b45ae20-3de1-494f-bbd8-98e48ec8a173.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav9">
+								<img height="445" id="Picture 5" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/cbc70d1a-143d-42c2-9648-ecaa00ffef2c.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav10">
+								<img height="433" id="Picture 6" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/083de29f-7557-4b80-8ad0-764ec5f1d4a3.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="604"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav11">
+								<img height="827" id="Picture 7" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/f2ddd3fd-9df0-4ea1-9f9e-f05ec9b09366.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav12">
+								<img height="798" id="Picture 8" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/0ddef54d-2f86-4145-a160-983f06446f5c.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="604"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav13">
+								<img height="796" id="Picture 9" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/756abf4d-e2fa-4d5c-b302-71a909c495b8.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav14">
+								<img height="774" id="Picture 10" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/2ba5303d-41e6-48cb-9804-14ea10cbc323.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav15">
+								<img height="792" id="Picture 11" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/afd83752-2b38-41c0-af4d-55e3d5ba1c8d.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="604"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav16">
+								<img height="818" id="Picture 12" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/951b7ea5-7832-4580-9048-ec203ccb7afa.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav17">
+								<img height="815" id="Picture 13" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/30ab19de-cb84-4836-be9c-258bb6acb62c.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav18">
+								<img height="814" id="Picture 14" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/d6c48404-b427-41e1-a0d9-73bb8908a7c7.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav19">
+								<img height="811" id="Picture 15" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/31f81a67-d115-4b0e-8ce3-f5c08a36301b.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav20">
+								<img height="813" id="Picture 16" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/2976e608-560c-4db1-96ca-15b15052a77f.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav21">
+								<img height="812" id="Picture 17" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/548933a5-7752-4f99-b99e-71081ee97fd7.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav22">
+								<img height="832" id="Picture 18" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/86648475-bae6-4306-83a6-54b68a678a6f.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="604"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav23">
+								<img height="810" id="Picture 19" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/7f05cdc7-fdb9-46fd-b2aa-986ee42adac0.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="604"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav24">
+								<img height="808" id="Picture 20" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/1d476cf6-960a-4196-b70d-54405a0be4d9.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav25">
+								<img height="807" id="Picture 21" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/36a0d6dd-3ee0-4ab1-8eb3-ecee7bb9f22e.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav26">
+								<img height="824" id="Picture 22" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/760dd2f5-0fa4-4bde-89f6-73577894ec9f.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav27">
+								<img height="813" id="Picture 23" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/6122401c-ef69-45f6-b208-cfe04639b7e6.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="604"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav28">
+								<img height="815" id="Picture 24" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/ecff7633-aeac-4b1a-96f0-bb7e6811ce48.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav29">
+								<img height="812" id="Picture 25" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/8bb545a8-94d0-46be-928c-8926fa0a005c.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav30">
+								<img height="825" id="Picture 26" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/ac79b37c-492c-4f69-8433-5fa4c07db1e6.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav31">
+								<img height="805" id="Picture 27" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/398fa7c5-d1f6-48e8-8aa9-e70eb13f7182.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav32">
+								<img height="780" id="Picture 28" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/75f5190b-277a-4ae2-b9f6-dc68893b0942.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav33">
+								<img height="840" id="Picture 29" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/152af25b-20e3-4f10-947d-bf0da6d63d0c.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="604"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav34">
+								<img height="775" id="Picture 30" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/df1ff083-a2b0-4c85-8eb8-4ea4c476de58.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav35">
+								<img height="713" id="Picture 31" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/f86b5ac7-689e-4b1a-a6e2-7714cc06d91e.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav36">
+								<img height="713" id="Picture 32" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/c055a062-95ab-4b28-b6b4-10ab33643238.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav37">
+								<img height="810" id="Picture 33" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/78b90cb6-c6f0-4836-b77b-8e147c015490.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav38">
+								<img height="848" id="Picture 34" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/94d8e1a3-c196-4694-9549-c96d5a6c9c3c.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav39">
+								<img height="809" id="Picture 35" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/4a722d75-8fe1-428d-a744-e590975b5c96.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav40">
+								<img height="820" id="Picture 36" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/731046fe-a201-49b1-a51b-0accba051e07.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav41">
+								<img height="452" id="Picture 37" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/08747132-0cea-4857-bc70-a7de1cc4db5f.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="604"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav42">
+								<img height="820" id="Picture 38" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/bb65fafd-7d10-46e1-96f8-4ea166a4436f.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav43">
+								<img height="805" id="Picture 39" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/d167d32e-61fa-4f78-9cc1-d90e79c373dc.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav44">
+								<img height="449" id="Picture 40" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/fa20e527-aed1-474a-b44e-36fc7841eec2.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="605"/>
+								<content/>
+							</став>
+							<став id="gla5-clan20-stav45">
+								<img height="845" id="Picture 41" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/e6581e7d-a2fe-4628-9afe-cbc84611ca52.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416779&amp;regactid=416779" width="344"/>
+								<content/>
+							</став>
+							<clause id="gla5-clan20-stav46">
+								<content>
+									<p>У Обрасцу МО-2, у делу „НАЛАЗ И МИШЉЕЊЕ О ЧИЊЕНИЦАМА О КОЈИМА СЕ НЕ ВОДИ СЛУЖБЕНА ЕВИДЕНЦИЈА”, у ставу 1. тачка 4. реч: „квартал” брише се.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan20-stav47">
+								<content>
+									<p>У ставу 2. реч: „квартал” брише се.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

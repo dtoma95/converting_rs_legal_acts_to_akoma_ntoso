@@ -1,0 +1,327 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1997/53-1163/main"/>
+					<FRBRuri value="/rs/act/1997/53-1163"/>
+					<FRBRdate date="1997" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/69-10/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/69-10/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/69-10/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/69-10/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1997-11-27" name="службени гласник републике србије" number="53" showAs="Службени гласник Републике Србије"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="VII РАДНИ ОДНОСИ И ЗАПОШЉАВАЊЕ" value="vii радни односи и запошљавање"/>
+				<keyword id="grupa" showAs="2. Радни односи у државним органима, аутономним покрајинама и јединицама локалне самоуправе" value="2. радни односи у државним органима, аутономним покрајинама и јединицама локалне самоуправе"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1997-11-25" id="usvajanje"/>
+				<step date="1997-12-03" id="stupanje_na_snagu"/>
+				<step date="1997-12-03" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="53/1997-1163" id="e1" type="generation"/>
+				<eventRef date="56/1997-1221" id="e2" type="amendment"/>
+				<eventRef date="69/2011-10" id="e3" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступа на снагу осмог дана од дана објављивања* у „Службеном гласнику Републике Србије”, односно 3. децембра 1997. године. (види <ref>члан 10. </ref>Уредбе),</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 52. став 2. </ref>Закона о радним односима у државним оранима („<ref id="ref2" href="/rs/act/91/48/srp@">Службени гласник РС”, бр. 48/91</ref> и 66/91),</p>
+			<p>Влада Републике Србије доноси</p>
+		</preamble>
+		<preface>
+			<title>УРЕДБУ</title>
+			<authority>о  признањима за обављање послова у државним органима*</authority>
+			<title>„Службени гласник Републике Србије”, бр. 53 од 27. новембра 1997, 56 од 9. децембра 1997 - исправка, 69 од 19. септембра 2011.</title>
+			<date>*<ref id="ref3" href="/rs/act/1997/56/srp@">Службени гласник РС, број 56/1997</ref></date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овом уредбом утврђују се врсте признања и услови и поступак за њихову доделу постављеним и запосленим лицима у министарствима, посебним организацијама, судовима, јавним тужилаштвима, Републичком јавном правобранилаштву, као и судијама за прекршаје.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Ова уредба примењује се и на запослена и постављена лица у стручној служби председника Републике, Народне скупштине, Владе Републике Србије (у даљем тексту: Влада), Уставног суда и Управи за заједничке послове републичких органа.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Признања се додељују у виду:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> новчане награде,</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> поклона,</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> захвалнице.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Новчана награда се додељује:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> за успешно обављање послова од нарочитог значаја за рад државних* ограна;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> за посебан допринос у обезбеђивању и унапређивању правног система у одговарајућој области;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> за успешан рад у повременом радном телу Владе или Народне скупштине;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> за дуготрајно ангажовање на пословима изван редовног радног времена.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>*<ref id="ref4" href="/rs/act/1997/56/srp@">Службени гласник РС, број 56/1997</ref></heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Поклон се додељује:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> за посебан допринос раду државних органа;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> за истовремено успешно обављање више послова из надлежности државних органа;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> за посебан допринос у припреми нацрта закона, плана, програма, пројеката или сличних аката.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Захвалница се додељује:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> за значајан допринос у оснивању установа од значаја за остваривање функција државних органа;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> за успешну сарадњу са другим државним органима;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> за исказане организаторске способности;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> за дугогодишњи савестан и професионални рад.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Новчана награда може износити највише пет просечних зарада које су у претходном месецу по запосленом исплаћене у Републици Србији, према подацима републичког органа надлежног за послове статистике.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Изузетно, износ новчане награде  може бити већи због успешне реализације задатака који су од нарочитог интереса  за Републику Србију.*</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>Поклон се додељује у пригодном облику и његова вредност може износити највише три просечне зараде које су у претходном месецу по запосленом исплаћене у Републици Србији, према подацима републичког органа надлежног за послове статистике.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav4">
+						<content>
+							<p>Захвалница се додељује у писменом облику.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<heading>*<ref id="ref5" href="/rs/act/2011/69/srp@">Службени гласник РС, број   69/2011</ref></heading>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Одлуку о додели признања постављеним лицима и судијама за прекршаје доноси Влада.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Одлуку о додели новчане награде запосленим лицима доноси Влада.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>Одлуку о додели поклона и захвалница запосленим лицима доноси старешина државног органа.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Доделу признања постављеном лицу предлаже старешина државног органа, а доделу признања постављеном лицу које је старешина државног органа* предлаже председник Владе.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Доделу признања судији за прекршаје предлаже старешина органа за прекршаје, а доделу признања старешини органа за прекршаје* предлаже министар правде.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>Доделу новчане награде запосленим лицима предлаже старешина државног органа.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<heading>*<ref id="ref6" href="/rs/act/1997/56/srp@">Службени гласник РС, број 56/1997</ref></heading>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Предлог за доделу новчане награде мора бити образложен и садржати податке о доприносу лица чије се награђивање предлаже.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Предлог за доделу поклона мора садржати облик у коме поклон треба доделити.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Ова уредба ступа на снагу осмог дана од дана објављивања* у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>*<ref id="ref7" href="/rs/act/1997/56/srp@">Службени гласник РС, број 56/1997</ref></p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>05 број 110-3191/97</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav4">
+						<content>
+							<p>У Београду, 25. новембра 1997. године.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav5">
+						<content>
+							<p>Влада Републике Србије</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav6">
+						<content>
+							<p>Потпредседник,</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav7">
+						<content>
+							<p>проф. др Ратко Марковић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

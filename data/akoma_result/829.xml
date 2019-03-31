@@ -1,0 +1,499 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1996/13-8/main"/>
+					<FRBRuri value="/rs/act/1996/13-8"/>
+					<FRBRdate date="1996" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1996/39-1/srp@/main"/>
+					<FRBRuri value="/rs/act/1996/39-1/srp@"/>
+					<FRBRdate date="1996" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1996/39-1/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1996/39-1/srp@.akn"/>
+					<FRBRdate date="1996" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1996-3-22" name="службени лист срј" number="13" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="VIII РАЗВОЈ" value="viii развој"/>
+				<keyword id="grupa" showAs="4. Квалитет предмета опште употребе и животних намирница" value="4. квалитет предмета опште употребе и животних намирница"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1996-03-14" id="usvajanje"/>
+				<step date="1996-03-30" id="stupanje_na_snagu"/>
+				<step date="1996-03-30" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="13/1996-8" id="e1" type="generation"/>
+				<eventRef date="39/1996-1" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<body>
+			<clause id="stav1">
+				<content>
+					<p>На основу <ref>члана 3. </ref>Закона о контроли квалитета пољопривредних и прехрамбених производа у спољнотрговинском промету (“<ref id="ref1" href="/rs/act/95/12/srp@">Службени лист СРЈ”, бр. 12/95</ref>), Савезна влада доноси</p>
+				</content>
+			</clause>
+			<clause id="stav2">
+				<content>
+					<p>ОДЛУКУ</p>
+				</content>
+			</clause>
+			<clause id="stav3">
+				<content>
+					<p>о одређивању пољопривредних и прехрамбених производа и њихових прерађевина намењених увозу, односно извозу који подлежу контроли квалитета</p>
+				</content>
+			</clause>
+			<clause id="stav4">
+				<content>
+					<p>&quot;Службени лист СРЈ&quot;, бр. 13 од 22. марта 1996, 39 од 23. августа 1996.</p>
+				</content>
+			</clause>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Контроли квалитета подлежу следећи пољопривредни и прехрамбени производи и њихове прерађевине намењени увозу, односно извозу (у даљем тексту: производи):</heading>
+				<content>
+					<clause id="od1-stav1">
+						<content>
+							<p>А. ПРОИЗВОДИ НАМЕЊЕНИ УВОЗУ:</p>
+							<point id="od1-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> месо стоке за клање, перади и дивљачи (свеже, расхлађено, замрзнуто);</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> други кланични производи и јестиви делови стоке за клање, перади и дивљачи (свежи, расхлађени, замрзнути);</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> остало месо и јестиви месни други кланични производи (свежи, расхлађени, замрзнути – зечеви, жабе);</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> производи од меса стоке за клање, перади и дивљачи (со-љени, саламурени, сушени, димљени, термички обрађени и др.);</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> рибе, ракови, шкољкаши, пужеви, морски јежеви и корњаче;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> производи од риба, ракова, шкољкаша, пужеви, морских јежева, жаба и корњача (сушени, сољени, димљени, термички обрађени и сл.);</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> млеко, производи од млека, сирила и млекарске културе;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> сладолед и прашак за сладолед;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> живинска и птичија јаја осим јаја за приплод и елеукотична јаја, као и производи од истих;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> јужно воће и производи од јужног воћа;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> континентално воће и производи од тог воћа;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> лубенице и диње и производи од тог воћа;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> поврће и производи од поврћа;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac14">
+								<num>14)</num>
+								<content>
+									<p> јестиве печурке и производи од јестивих печурки;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac15">
+								<num>15)</num>
+								<content>
+									<p> пектински препарати;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac16">
+								<num>16)</num>
+								<content>
+									<p> кикирики и производи од кикирикија;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac17">
+								<num>17)</num>
+								<content>
+									<p> кафа, производи од кафе и сурогата кафе;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac18">
+								<num>18)</num>
+								<content>
+									<p> чај, мешавине чаја и производи од чаја;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac19">
+								<num>19)</num>
+								<content>
+									<p> зачини, екстрати зачина и мешавине зачина;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac20">
+								<num>20)</num>
+								<content>
+									<p> сенф и сировине за производњу сенфа;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac21">
+								<num>21)</num>
+								<content>
+									<p> натријум глутаминат;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac22">
+								<num>22)</num>
+								<content>
+									<p> кухињска со и со за прехрамбену индустрију;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac23">
+								<num>23)</num>
+								<content>
+									<p> супе, чорбе, концентрати за супе, сосови, додаци јелима и сродни производи;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac24">
+								<num>24)</num>
+								<content>
+									<p> пекарски квасац, прашак за пециво и прашак за пудинг;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac25">
+								<num>25)</num>
+								<content>
+									<p> сировине и производи који се употребљавају за производњу дијетских производа и дечије хране;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac26">
+								<num>26)</num>
+								<content>
+									<p> адитиви и други додатни састојци за прехрамбену индуст-рију;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac27">
+								<num>27)</num>
+								<content>
+									<p> житарице за људску исхану (неољуштена или другачије обрађена зрна);</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac28">
+								<num>28)</num>
+								<content>
+									<p> пиринач (у љусци, ољуштени, полиран, глазиран и сл.);</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac29">
+								<num>29)</num>
+								<content>
+									<p> семе за птице;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac30">
+								<num>30)</num>
+								<content>
+									<p> млински и пекарски производи, тестенине и брзо смрзнута теста;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac31">
+								<num>31)</num>
+								<content>
+									<p> слад, скроб, инулин и глутен;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac32">
+								<num>32)</num>
+								<content>
+									<p> кекс и производи сродни кексу;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac33">
+								<num>33)</num>
+								<content>
+									<p> уљно семење, семе и плодови за прехрамбену индустрију и лековито биље;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac34">
+								<num>34)</num>
+								<content>
+									<p> масноће и уља животињског и биљног порекла и њихови производи намењени за прехрамбену индустрију;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac35">
+								<num>35)</num>
+								<content>
+									<p> сировине биљног порекла за производњу масти и уља намењених за прехрамбену индустрију;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac36">
+								<num>36)</num>
+								<content>
+									<p> мајонез, маргарин и производи слични мајонезу и маргарину;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac37">
+								<num>37)</num>
+								<content>
+									<p> шећер, скроб и њихови производи;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac38">
+								<num>38)</num>
+								<content>
+									<p> остали сахариди и њихови производи;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac39">
+								<num>39)</num>
+								<content>
+									<p> сировине за производњу шећера и скроба;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac40">
+								<num>40)</num>
+								<content>
+									<p> мед и други пчелињи производи;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac41">
+								<num>41)</num>
+								<content>
+									<p> какао и производи од какаа, чоколада и производи слични чоколади, крем производи, бомбоне и бомбонски производи;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac42">
+								<num>42)</num>
+								<content>
+									<p> грожђе и производи од грожђа;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac43">
+								<num>43)</num>
+								<content>
+									<p> вино и производи од вина;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac44">
+								<num>44)</num>
+								<content>
+									<p> алкохолна пића (природна ракија, жестока алкохолна пића, ликери, вермути и друга алкохолна пића);</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac45">
+								<num>45)</num>
+								<content>
+									<p> еколошка средства;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac46">
+								<num>46)</num>
+								<content>
+									<p> пиво;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac47">
+								<num>47)</num>
+								<content>
+									<p> сировине и полупроизводи за производњу пива;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac48">
+								<num>48)</num>
+								<content>
+									<p> безалкохолна пића и минералне воде;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac49">
+								<num>49)</num>
+								<content>
+									<p> сировине и полупроизводи за производњу алкохолних и безалкохолних пића;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac50">
+								<num>50)</num>
+								<content>
+									<p> шпирит (етилалкохол) и сировине за производњу шпи-рита;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac51">
+								<num>51)</num>
+								<content>
+									<p> сирће и сирћетна киселина;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac52">
+								<num>52)</num>
+								<content>
+									<p> сточна храна (хранива, предсмеше, крмне смеше и др.) и додаци сточној храни;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac53">
+								<num>53)</num>
+								<content>
+									<p> дуван сиров или непрерађен, цигаре, цигарилоси и цигарете од дувана и замене дувана и остали прерађени дуван.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="od1-stav2">
+						<content>
+							<p>Б. ПРОИЗВОДИ НАМЕЊЕНИ ИЗВОЗУ:</p>
+							<point id="od1-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> говеда за клање, укључујући јунад и телад;</p>
+								</content>
+							</point>
+							<point id="od1-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> коњи за клање и друге категорије коња и ждребади осим коња и ждребади за приплод;</p>
+								</content>
+							</point>
+							<point id="od1-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> месо говеђе, телеће и јунеће (свеже, расхлађено, замрзнуто);</p>
+								</content>
+							</point>
+							<point id="od1-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> прерађевине од меса и рибе;</p>
+								</content>
+							</point>
+							<point id="od1-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> млеко, производи од млека, сирила и млекарске културе.*</p>
+								</content>
+							</point>
+							<point id="od1-stav2-tac6">
+								<num>6)</num>
+								<content>
+									<p>* вино, ракија од шљива и остала ферментисана и алкохолна пића;</p>
+								</content>
+							</point>
+							<point id="od1-stav2-tac7">
+								<num>7)</num>
+								<content>
+									<p>* далматинска кадуља;</p>
+								</content>
+							</point>
+							<point id="od1-stav2-tac8">
+								<num>8)</num>
+								<content>
+									<p>* дуван сиров или непрерађен.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="od1-stav3">
+						<content>
+							<p>*<ref id="ref2" href="/rs/act/1996/39/srp@">Службени лист СРЈ, број 39/1996</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Даном ступања на снагу ове одлуке престаје да важи Одлука о одређивању пољопривредних и прехрамбених производа и њихових прерађевина који подлежу контроли квалитета у спољнотрговинском промету („<ref id="ref3" href="/rs/act/79/55/srp@">Службени лист СФРЈ”, бр. 55/79, 61/80</ref> и 47/81).</heading>
+				<content>
+					<тачка id="od2-tac3">
+						<num>3.</num>
+						<content>
+							<p> Ова одлука ступа на снагу осмог дана од дана објављивања у „Службеном листу СРЈ”.</p>
+						</content>
+					</тачка>
+					<clause id="od2-stav1">
+						<content>
+							<p>Савезна влада</p>
+						</content>
+					</clause>
+					<clause id="od2-stav2">
+						<content>
+							<p>Е. п. бр. 84,</p>
+							<тачка id="od2-stav2-tac14">
+								<num>14.</num>
+								<content>
+									<p> марта 1996. године</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="od2-stav3">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od2-stav4">
+						<content>
+							<p>Председник</p>
+						</content>
+					</clause>
+					<clause id="od2-stav5">
+						<content>
+							<p>др  Радоје Контић,  с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

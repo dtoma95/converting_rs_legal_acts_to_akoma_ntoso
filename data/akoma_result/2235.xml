@@ -1,0 +1,813 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2014/145-110/main"/>
+					<FRBRuri value="/rs/act/2014/145-110"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2014/145-110/srp@/main"/>
+					<FRBRuri value="/rs/act/2014/145-110/srp@"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2014/145-110/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2014/145-110/srp@.akn"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2014-12-29" name="службени гласник рс" number="145" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="3. Семе и садни материјал" value="3. семе и садни материјал"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2014-12-24" id="usvajanje"/>
+				<step date="2015-01-06" id="stupanje_na_snagu"/>
+				<step date="2015-01-06" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 5. став 2. </ref>Закона о признавању сорти пољопривредног биља („<ref id="ref4" href="/rs/act/10/30/srp@">Службени гласник РС”, број 30/10</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде и заштите животне средине доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о методама испитивања сорте уљане тикве (Cucurbita pepo L.) ради признавања сорте</title>
+			<date>&quot;Службени      гласник РС&quot;, број 145 од 29. децембра 2014.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се методе испитивања сорте уљане тикве (у даљем тексту: сорта) на огледном пољу и у лабораторији, ради признавања сорте.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Методама из <ref>члана 1. овог</ref> правилника испитују се одређене битне особине сорте, ради утврђивања:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> производне и употребне вредности сорте (VCU тест);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> различитости, униформности и стабилности сорте (DUS тест).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Методе испитивања сорте су скуп поступака и података које предузима, односно прикупља правно лице, предузетник или физичко лице којe испуњава услове прописане законом којим се уређује признавање сорти пољопривредног биља за вршење испитивања сорте (у даљем тексту: извођач огледа).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Производна и употребна вредност сорте (VCU тест) утврђује се на основу резултата испитивања одређених битних особина сорте које се односе на:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> принос свежих плодова са семеном (kg/елементарној парцели);</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> принос ваздушно сувог семена (kg/елементарној парцели);</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> садржај влаге у семену (%);</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> маса 1.000 семена;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> садржај уља у семену;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> толерантност на болести и штеточине;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> тип раста (бокораст, полупузав, пузав);</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> ранозрелост (ране, средње ране, касне);</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> присуство или одсуство љуске на површини семена.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Сорта се испитује тако што се битне особине из става 1. овог члана сорте која се испитује упоређују са битним особинама једне или више сорти стандард, у складу са законом којим се уређује признавање сорти пољопривредног биља.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Сорта се испитује у једном или више огледа постављених на огледном пољу на више локалитета. Оглед чине елементарне парцеле на којима се врши испитивање.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Оглед из става 1. овог члана изводи се по плану „потпуно случајног блок система” у четири понављања.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Сорта се испитује на огледном пољу у складу са захтевом за признавање сорте у коjeм власник сорте, односно његов овлашћени заступник предлаже да се сорта испита.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>За испитивање на огледном пољу доставља се семе сорте које је испитаног квалитета, здравствено исправно и нетретирано инсектицидима и фунгицидима.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Предусев на целој површини огледног поља на коме се врши испитивање сорте мора да буде иста култура.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Сорта се на истом огледном пољу може испитивати најмање после четири године, под условом да у том периоду нису сејане биљне врсте из фамилија Solanaceae и Cucurbitaceae.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>Сорта се испитује на земљишту које је пре сетве испитано на присутност земљишних штеточина и, по потреби, изводи се предсетвено третирање инсектицидима.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>Количине минералних ђубрива, време и начин њихове примене, као и остале агротехничке мере примењују се на огледном пољу тако да буду у складу са највишим нивоом технологије производње уљане тикве, а ради испољавања генетског потенцијала сорте.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Сетву сорти у једном огледу треба обавити истог дана и у року који се у том локалитету сматра оптималним.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Сетва се обавља ручно, у редове – кућице, с тим да се у сваку кућицу стављају по три семенке на дубину од 3–4 cm.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>Проређивање у кућицама се обавља чим биљке развију прва 2–3 права листа, при чему се у кућици оставља по једна биљка. Приликом проређивања на елементарним парцелама се остављају биљке сличне развијености.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Оглед за испитивање сорте поставља се са елементима датим у Табели – Eлементи огледа за испитивања сорте.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Табела – Елементи огледа за испитивања сорте</p>
+						</content>
+					</clause>
+					<став id="clan9-stav3">
+						<table class="tabela-sa-borderom">
+							
+					
+							<tbody>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Елементи огледа</p>
+										
+							
+									</td>
+									
+							
+									<td>
+							</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>дужина елементарне парцеле</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>6 m</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>ширина елементарне парцеле</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>6 m</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>површина елементарне парцеле</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>36 m²</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>број редова по елементарној парцели</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>4</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>размак између редова</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>1,5 m </p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>размак у реду</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>0,50 m </p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>број биљака у реду</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>13</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>број биљака на елементарној парцели</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>52</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>размак између елементарних парцела</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>3 m</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>размак између блокова (понављања)</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>3 m</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>заштитни појас </p>
+										
+								
+										<p>(око целог огледа минимум)</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>2 реда</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+					
+							</tbody>
+							
+				
+						</table>
+						
+				
+						<content/>
+					</став>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>У периоду вегетације сорте на огледном пољу евидентирају се:</p>
+							<point id="clan10-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> датум сетве;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> датум ницања (када је више од 75% никлих биљака);</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> датум заметања првог плода на биљци ( на 75% биљака);</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> датум технолошке зрелости – бербе;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> број продуктивних биљака по елементарној парцели;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> број зрелих плодова по биљци и елементарној парцели (незрели и неразвијени плодови се не узимају у обзир).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>У току испитивања сорте на огледном пољу врши се праћење и оцењивање толерантности на следеће болести: пламењача листа (Pseudoperonospora cubensis), пепелница листа (Erysiphe cichoracearum и Erysiphе polygoni), вироза (мозаик, жутица, деформација биљних органа) и трулеж плода (Colletotrichum lagenarium и Pseudomonas lachrymans).</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Оцењивање толерантности на трулеж плода из става 1. овог члана врши се у моменту бербе.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav3">
+						<content>
+							<p>Оцена из става 1. овог члана изражава се у процентима (%) од укупног броја биљака на елементарној парцели.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Ако се у току испитивања сорте на огледном пољу појаве биљне штеточине у значајнијем броју врши се њихово евидентирање.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Непосредно пред бербу утврђује се тип раста (бокораст, полупузав, пузав), ранозрелост (ране, средње ране, касне), присуство или одсуство љуске на површини семена, као и број биљака на елементарној парцели у свим понављањима.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav2">
+						<content>
+							<p>Дозвољено одступање броја биљака на елементарној парцели је 15% празних места од укупног броја биљака на елементарној парцели.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan14">
+				<num>14.</num>
+				<content>
+					<clause id="clan14-stav1">
+						<content>
+							<p>Извођач огледа обавља бербу уљаних тикви у технолошкој зрелости.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav2">
+						<content>
+							<p>Убирање плодова и вађење семена се врши ручно.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav3">
+						<content>
+							<p>Извађено семе се одмах суши у сушарама или на сунцу (природно сушење).</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav4">
+						<content>
+							<p>Ако се семе суши на сунцу (природно сушење) дебљина слоја влажног семена у почетку не сме да прелази 2–3 cm.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav5">
+						<content>
+							<p>Сушење из става 4. овог члана врши се 8–10 % влаге у семену.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan15">
+				<num>15.</num>
+				<content>
+					<clause id="clan15-stav1">
+						<content>
+							<p>Непосредно након бербе утврђује се:</p>
+							<point id="clan15-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> принос свежих плодова са семеном у kg/елементарној парцели;</p>
+								</content>
+							</point>
+							<point id="clan15-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> принос ваздушно сувог семена у kg/елементарној парцели;</p>
+								</content>
+							</point>
+							<point id="clan15-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> садржај влаге у семену у процентима (%).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan15-stav2">
+						<content>
+							<p>Принос ваздушно сувог семена из става 1. тачка 2) овог члана утврђује се тако што се семе суши на температури од 40ºС до константне масе, уз редовно мешање семена ради спречавања слепљења.</p>
+						</content>
+					</clause>
+					<clause id="clan15-stav3">
+						<content>
+							<p>Садржај влаге у семену из става 1. тачка 3) овог члана утврђује се на основу три самлевена узорка по сорти, непосредно после сушења у сушарама на 105ºС до константне масе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan16">
+				<num>16.</num>
+				<content>
+					<clause id="clan16-stav1">
+						<content>
+							<p>Анализе у лабораторији обухватају утврђивање:</p>
+							<point id="clan16-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> садржаја влаге у семену у процентима (%);</p>
+								</content>
+							</point>
+							<point id="clan16-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> масе 1.000 семена;</p>
+								</content>
+							</point>
+							<point id="clan16-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> садржаја уља у семену.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan16-stav2">
+						<content>
+							<p>Узорак семена за анализу у лабораторији узима се из jедног просечног узорка формираног из свих понављања са једног локалитета након бербе према упутству лабораторије која ће радити анализе.</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav3">
+						<content>
+							<p>Узорак из става 2. овог члана пакује се у натрон или платнену кесу, затвара, обележава додељеним шифрованим ознакама као и сорта у огледу и доставља се на лабораторијску анализу.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan17">
+				<num>17.</num>
+				<content>
+					<clause id="clan17-stav1">
+						<content>
+							<p>Извођач огледа који испитује сорту на огледном пољу евидентира: назив извођача огледа; име и презиме одговорног лица за извођење огледа; локалитет на коме се изводи оглед; тип земљишта и садржај хранљивих материја у земљишту на коме се налази огледно поље; предусев; обављене агротехничке мере; податке из чл. 10–13. и <ref>члана 15. овог</ref> правилника, као и друге податке који утичу на принос испитиване сорте (оштећења од дивљачи, птица, штеточина, природних непогода и друго).</p>
+						</content>
+					</clause>
+					<clause id="clan17-stav2">
+						<content>
+							<p>Извођач огледа који испитује сорту у лабораторији евидентира податке из <ref>члана 16. овог</ref> правилника, као и назив лабораторије, одговорно лице за извођење анализе и локалитет и шифровану ознаку сорте са локалитета на коме се изводи оглед.</p>
+						</content>
+					</clause>
+					<clause id="clan17-stav3">
+						<content>
+							<p>Подаци из ст. 1. и 2. овог члана саставни су део годишњих и коначних резултата испитивања.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan18">
+				<num>18.</num>
+				<content>
+					<clause id="clan18-stav1">
+						<content>
+							<p>Различитост, униформност и стабилност сорте (DUS тест) испитује се методом одређенoм техничким упутством за тестирање различитости, униформности и стабилности сорте.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan19">
+				<num>19.</num>
+				<content>
+					<clause id="clan19-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan19-stav2">
+						<content>
+							<p>Број 110-00-187/2014-09</p>
+						</content>
+					</clause>
+					<clause id="clan19-stav3">
+						<content>
+							<p>У Београду, 24. децембра 2014. године</p>
+						</content>
+					</clause>
+					<clause id="clan19-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan19-stav5">
+						<content>
+							<p>проф. др Снежана Богосављевић Бошковић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

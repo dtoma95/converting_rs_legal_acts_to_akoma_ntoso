@@ -1,0 +1,290 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1991/36-599/main"/>
+					<FRBRuri value="/rs/act/1991/36-599"/>
+					<FRBRdate date="1991" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1991/36-599/srp@/main"/>
+					<FRBRuri value="/rs/act/1991/36-599/srp@"/>
+					<FRBRdate date="1991" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1991/36-599/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1991/36-599/srp@.akn"/>
+					<FRBRdate date="1991" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1991-5-17" name="службени лист сфрј" number="36" showAs="Службени лист СФРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="4. Заштита биља" value="4. заштита биља"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1991-03-20" id="usvajanje"/>
+				<step date="1991-05-25" id="stupanje_na_snagu"/>
+				<step date="1991-05-25" id="primena"/>
+			</workflow>
+		</meta>
+		<preface>
+			<authority>На основу <ref>члана 32. став 4. </ref>и <ref>члана 38. </ref>Закона о заштити биља од болести и штеточина које угрожавају целу земљу (“<ref id="ref3" href="/rs/act/89/74/srp@">Службени лист СФРЈ”, бр. 74/89</ref>), савезни секретар за пољопривреду доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>О УСЛОВИМА ПОД КОЈИМА ПРЕДУЗЕЋА, ОДНОСНО ДРУГА ПРАВНА ЛИЦА МОГУ ВРШИТИ БИОЛОШКА ПРЕДИСПИТИВАЊА И ИСПИТИВАЊА ФИЗИЧКИХ, ХЕМИЈСКИХ И БИОЛОШКИХ СВОЈСТАВА СРЕДСТАВА ЗА ЗАШТИТУ БИЉА</title>
+			<date>„Службени лист СФРЈ”, број 36 од 17. V 1991.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Биолошка предиспитивања средстава за заштиту биља (у даљем тексту: предиспитивања) која су произведена од нове активне материје могу вршити предузећа, односно друга правна лица која се баве пословима заштите биља и која у погледу опреме, уређаја, објеката и кадрова испуњавају услове прописане овим правилником.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Физичка, хемијска и биолошка својства средстава за заштиту биља ради стављања у промет (у даљем тексту: званична испитивања) могу испитивати предузећа, односно друга правна лица која су регистрована за ,послове заштите биља или фитофармације и која у погледу опреме, уређаја, објеката и кадрова испуњавају услове прописане овим правилником.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Предиспитивање средстава за заштиту биља могу вршити предузећа, односно друга правна лица која имају:</p>
+							<alinea id="clan2-stav1-ali1">
+								<content>
+									<p>тручњаке са научним звањем из области заштите биља;</p>
+								</content>
+							</alinea>
+							<alinea id="clan2-stav1-ali2">
+								<content>
+									<p>ехничко особље оспособљено за стручно извођење огледа у лабораторији и пољским условима;</p>
+								</content>
+							</alinea>
+							<alinea id="clan2-stav1-ali3">
+								<content>
+									<p>бјекте и опрему за биолошка испитивања средстава за заштиту биља.</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Предиспитивања средстава за заштиту биља могу се вршити само у микроогледима за она средства за која постоје подаци о хемијским и токсиколошким својствима.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Предузећима, односно другим правним лицима која врше предиспитивање, поред узорака средстава, мора се доставити на коришћење и документација о хемијским и токсиколошким (оралним, дермалним и инхалационим) својствима средстава за заштиту биља.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Предузећа, односно друга правна лица која врше предиспитивање дужна су да сваке године до 15. децембра доставе савезном органу управе надлежном за послове заштите биља извештаје о извршеним испитивањима, као и општа запажања о деловању средства.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Предузећа, односно друга правна лица из <ref>члана 1. став 2. овог</ref> правилника могу вршити:</p>
+							<point id="clan6-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> физичка, хемијска и биолошка испитивања средстава за заштиту биља;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> само физичка и хемијска испитивања средстава за заштиту биља;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> само биолошка испитивања средстава за заштиту биља.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Комплетна физичка, хемијска и биолошка испитивања могу вршити предузећа, односно друга правна лица која имају:</p>
+							<alinea id="clan7-stav1-ali1">
+								<content>
+									<p>тручњаке са научним звањем из области заштите биља;</p>
+								</content>
+							</alinea>
+							<alinea id="clan7-stav1-ali2">
+								<content>
+									<p>тручњаке са научним звањем из области хемијско-технолошких наука за утврђивање физичких и хемијских својстава средстава за заштиту биља;</p>
+								</content>
+							</alinea>
+							<alinea id="clan7-stav1-ali3">
+								<content>
+									<p>ехничко особље оспособљено за стручно извођење огледа у лабораторији и пољским условима;</p>
+								</content>
+							</alinea>
+							<alinea id="clan7-stav1-ali4">
+								<content>
+									<p>бјекте и опрему за биолошко испитивање средстава за заштиту биља;</p>
+								</content>
+							</alinea>
+							<alinea id="clan7-stav1-ali5">
+								<content>
+									<p>прему и уређаје за квалитативно и квантитативно одређивање физичко-хемијских својстава средстава за заштиту биља и њихових активних материја.</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Физичка и хемијска испитивања могу вршити предузећа, односно друга правна лица која имају:</p>
+							<alinea id="clan8-stav1-ali1">
+								<content>
+									<p>тручњаке са научним звањем из области хемијско-технолошких наука за утврђивање физичких и хемијских својстава средстава за заштиту биља;</p>
+								</content>
+							</alinea>
+							<alinea id="clan8-stav1-ali2">
+								<content>
+									<p>прему и уређаје за квалитативно и квантитативно одређивање физичко-хемијских својстава средстава за заштиту биља и њихових активних материја.</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Биолошка испитивања могу вршити предузећа, односно друга правна лица која имају:</p>
+							<alinea id="clan9-stav1-ali1">
+								<content>
+									<p>тручњаке са научним звањем из области заштите биља;</p>
+								</content>
+							</alinea>
+							<alinea id="clan9-stav1-ali2">
+								<content>
+									<p>ехничко особље оспособљено за стручно извођење огледа у лабораторији и пољским условима;</p>
+								</content>
+							</alinea>
+							<alinea id="clan9-stav1-ali3">
+								<content>
+									<p>бјекте и опрему за биолошка испитивања средстава за заштиту биља.</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Предузећа, односно друга правна лица која испуњавају услове прописане овим правилником подносе савезном органу управе надлежном за послове заштите биља захтев са документацијом ради регистровања у року од три месеца од дана објављивања овог правилника у „Службеном листу СФРЈ”.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Даном ступања на снагу овог правилника престају да важе Правилник о условима које морају да испуњавају организације удруженог рада које врше испитивање физичких, хемијских и биолошких својстава средстава за заштиту биља („<ref id="ref4" href="/rs/act/83/3/srp@">Службени лист СФРЈ”, бр. 3/83</ref>) и Правилник о условима под којима организације удруженог рада могу вршити биолошка испитивања средстава за заштиту биља која су произведена од нових активних материја („<ref id="ref5" href="/rs/act/83/3/srp@">Службени лист СФРЈ”, бр. 3/83</ref>).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном листу СФРЈ”.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav2">
+						<content>
+							<p>Бр. 6/0-04-185/001</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<section id="od20">
+				<num>20.</num>
+				<heading> марта 1991. године</heading>
+				<content>
+					<clause id="od20-clan12-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od20-clan12-stav2">
+						<content>
+							<p>Савезни секретар</p>
+						</content>
+					</clause>
+					<clause id="od20-clan12-stav3">
+						<content>
+							<p>за пољопривреду</p>
+						</content>
+					</clause>
+					<clause id="od20-clan12-stav4">
+						<content>
+							<p>др Стево Мирјанић, с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

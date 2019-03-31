@@ -1,0 +1,3706 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1990/30-1042/main"/>
+					<FRBRuri value="/rs/act/1990/30-1042"/>
+					<FRBRdate date="1990" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1990/30-1042/srp@/main"/>
+					<FRBRuri value="/rs/act/1990/30-1042/srp@"/>
+					<FRBRdate date="1990" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1990/30-1042/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1990/30-1042/srp@.akn"/>
+					<FRBRdate date="1990" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1990-6-15" name="службени лист сфрј" number="30" showAs="Службени лист СФРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="2. Војска Србије" value="2. војска србије"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1990-03-27" id="usvajanje"/>
+				<step date="1990-06-23" id="stupanje_na_snagu"/>
+				<step date="1990-06-23" id="primena"/>
+			</workflow>
+		</meta>
+		<preface>
+			<authority>На основу <ref>члана 20. став 2. </ref>Закона о здравственом осигурању војних осигураника („<ref id="ref13" href="/rs/act/72/13/srp@">Службени лист СФРЈ“, бр. 13/72, 67/73</ref> и 58/76), у сагласности са савезним секретаром за народну одбрану, Скупштина Заједнице социјалног осигурања војних осигураника доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о индикацијама за протетичка и ортопедска средства, стоматолошке надокнаде, очна  и слушна помагала и санитарне справе</title>
+			<date>„Службени лист СФРЈ”, број 30 од 15.  јуна 1990.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОСНОВНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником утврђују се индикације за протетичка и ортотичка средства, стоматолошке надокнаде, очна и слушна помагала и санитарне справе (у даљем тексту: помагала), стандарди за материјал од ког се израђују та средства, односно справе и рокови трајања тих средстава и справа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Помагала из <ref>члана 1. овог</ref> правилника обезбеђују се војним осигураницима и члановима њихових породица (у даљем тексту: осигурана лица) на терет средстава Фонда здравственог осигурања војних осигураника, на основу предлога лекара одговарајуће специјаности (ортопеда, хирурга, офталмолога, оториноларинголога, неуролога, неурохирурга, гинеколога, зубног лекара, зубног лекара одговарајуће специјалности, лекара специјалисте за физикалну медицину и рехабилитацију и лекара специјалисте за пластичну хирургију).</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav2">
+								<content>
+									<p>Предлог за помагала из чл. 33. и 34. овог правилника може дати и други лекар појединац.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav3">
+								<content>
+									<p>Предлог за израду помагала садржи све потребне медицинске и техничке услове за израду помагала.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Израда нових помагала пре истека рока трајања старих помагала врши се само под условима и на начин прописаним овим правилником.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla1-clan4-stav1">
+								<content>
+									<p>У остваривању права на пмагала осигурана лица учествују у сношењу трошкова коришћења тог вида здравствене заштити увисини прописаној Одлуком Скупштине Заједнице социјалног осигурања војних осигураника којом се регулише учешће војних осигураника и чланова њихових породица у сношењу трошкова коришћења здравствене заштите.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla1-clan5-stav1">
+								<content>
+									<p>Права на помагала осигурана лица остварују у складу са одредбама правилника којим је прописан начин остваривања права из здравственог осигурања војних лица осигураника и чланова њихових породица.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ВРСТЕ ПОМАГАЛА И ИНДИКАЦИЈЕ ЗА ЊИХОВО ДОБИЈАЊЕ</heading>
+				<content>
+					<article id="gla2-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla2-clan6-stav1">
+								<content>
+									<p>Под условима прописаним овим правилником, осигурана лица могу добити следећа помагала:</p>
+									<point id="gla2-clan6-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> протетичка средства;</p>
+										</content>
+									</point>
+									<point id="gla2-clan6-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> ортотичка средства;</p>
+										</content>
+									</point>
+									<point id="gla2-clan6-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> ортопедску и специјалну обућу;</p>
+										</content>
+									</point>
+									<point id="gla2-clan6-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> инвалидска колица;</p>
+										</content>
+									</point>
+									<point id="gla2-clan6-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> очна помагала;</p>
+										</content>
+									</point>
+									<point id="gla2-clan6-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> слушна помагала;</p>
+										</content>
+									</point>
+									<point id="gla2-clan6-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> помагала за омогућавање главног говора;</p>
+										</content>
+									</point>
+									<point id="gla2-clan6-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> зубнопротетичка средства;</p>
+										</content>
+									</point>
+									<point id="gla2-clan6-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> друга помагала и санитарне справе.</p>
+										</content>
+									</point>
+									<тачка id="gla2-clan6-stav1-tac1">
+										<num>1.</num>
+										<content>
+											<p> Протетичка средства</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla2-clan7-stav1">
+								<content>
+									<p>Протетичко средство даје се осигураном лицу коме недостаје цео горњи, односно доњи екстемитет или његов део. Зависно од меидицинских и техничких индикација при ампутацији горњих екстремитета, осигураном лицу се могу дати механичка, електронска или пнеуматска протетичка средства.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav2">
+								<content>
+									<p>Уз протетичко средство за горњи екстремитет, осигураном лицу се дају кожне рукавице и естетска рукавица, а уз механичко протетичко средство за горњи екстремитет – и вештачка механичка шака са естетском рукавицом и функционална хватаљка. Уместо функционалне хватаљке, осигураном лицу се могу, на његов захтев, дати радни наставци.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav3">
+								<content>
+									<p>Осигураном лицу коме је ампутиран доњи екстремитет даје се и: протетичко средство за купање, пар обичних ципела (по потреби са уграђеним улошком за ногу), под условом да не користи ортопедску и специјалну обућу, пар артикулационих гума, резервна гарнитура каиша и кључ.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav4">
+								<content>
+									<p>Уз протетичко средство за горњи или доњи екстремитет, осигураном лицу се даје и чарапа за патрљак која испуњава медицинско-техничке услове.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav5">
+								<content>
+									<p>Осигураном лицу – возачу, власнику моторног возила, којем је горњи или доњи екстремитет ампутиран, одузет или оштећен за најмање 60% даје се и уређај за безбедно руковање моторним возилом, који може бити механички или аутоматски (саксомат).</p>
+									<тачка id="gla2-clan7-stav5-tac2">
+										<num>2.</num>
+										<content>
+											<p> Ортотичка средства</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>Ортотичка средства (апарати за горње и доње екстремитете, укључујући и електронске и пнеуматске апарате, појасеви, суспензоријуми, корсети и ортопедски улошци) дају се осигураном лицу коме су потребни ради омогућавања ослонца, спречавања деформитета, кориговања постојећих деформитета и контролисања невољних покрета.</p>
+									<тачка id="gla2-clan8-stav1-tac3">
+										<num>3.</num>
+										<content>
+											<p> Ортопедска и специјална обућа</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>Ортопедска обућа даје се осигураном лицу:</p>
+									<point id="gla2-clan9-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> ако му је нога краћа за више од 2,5 cm, без обзира на то да ли је скраћење привидно или стварно;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> ако има јаче деформисан скочни зглоб или стопало услед ишчашења, прелома или коштаних израштаја већих размера, јаче изражену деформацију палца и ако се обућа мора израдити према гипсаном отиску;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> ако има укочен зглоб (ankуlosis);</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> ако има петно стопало (pes calcaneus);</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> ако има коњско стопало (pes equinus);</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> ако има уврнуто стопало (pes equino-varus);</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> ако има унутрашњу деформацију стопала (pes varus adductus);</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> ако има изразито трофичне промене на стопалима;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> ако болује од елефантијазе;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> ако има паралитично или паретично стопало;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> ако има excavatus стопала јаког степена, урођен или стечен;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac12">
+										<num>12)</num>
+										<content>
+											<p> ако има супердуктус палца или другог прста на стопалу;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac13">
+										<num>13)</num>
+										<content>
+											<p> ако нема најмање три прста или палац на једном стопалу или оба стопала;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac14">
+										<num>14)</num>
+										<content>
+											<p> ако има изврнуто стопало (pes plano-valgus);</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac15">
+										<num>15)</num>
+										<content>
+											<p> ако има деформацију стопала после дубоких опекотина;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac16">
+										<num>16)</num>
+										<content>
+											<p> ако има вулнерабилну кожу стопала после операције и постопекотинских секвела.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla2-clan10-stav1">
+								<content>
+									<p>Осигураном лицу – детету до навршене 14. године живота даје се ортопедска обућа;</p>
+									<point id="gla2-clan10-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> ако му је нога краћа за 1,5 cm, или више, без обзира на то дали је скраћење привидно или стварно;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> ако има сувише уздигнут свод стопала (pes excavatus);</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> ако има спуштен свод стопала (pes planus);</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> ако има стопало типа pes plano-varus, pes plano valgus или digitus contractus.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav2">
+								<content>
+									<p>Деца до навршене треће године живота која имају спуштен свод стопала (pes planus) не добијају ортопедску обућу.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla2-clan11-stav1">
+								<content>
+									<p>Ортопедска обућа је саставни део помагала ако је осигураном лицу:</p>
+									<point id="gla2-clan11-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> потребно ортотичко средство (апарат) у споју са обућом;</p>
+										</content>
+									</point>
+									<point id="gla2-clan11-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> потребна метална сандала или ортотичко средство (апарат) са металном сандалом;</p>
+										</content>
+									</point>
+									<point id="gla2-clan11-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> потребно вештачко стопало или део вештачког стопала;</p>
+										</content>
+									</point>
+									<point id="gla2-clan11-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> одсечен део ножја или доножја, а не користи ортотичко средство (апарат).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla2-clan12-stav1">
+								<content>
+									<p>Специјална обућа, са гуменим уметком уместо шнира, даје се осигураном лицу:</p>
+									<point id="gla2-clan12-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> коме је ампутирана рука изнад ручног зглоба или коме су оштећени прсти (најмање три, међу њима палац или кажипрст) једне руке, тако да се њоме не може служити;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> коме су потпуно одузети два или три главна нерва исте руке (Nn radialis, medianus, ulnaris);</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> коме је укочен лакат једне руке под углом већим од 900, рачунајући неутрални положај од 0°;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> коме су кук, колено или кичмени стуб укочени у толикој мери да не може обути ципелу (ankуlosis genu, aknуloasis coxae, ankуlosis lumbalis col. vertebralis);</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> које је слепо.</p>
+										</content>
+									</point>
+									<тачка id="gla2-clan12-stav1-tac4">
+										<num>4.</num>
+										<content>
+											<p> Инвалидска колица</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla2-clan13-stav1">
+								<content>
+									<p>Право на инвалидска колица (собна или теренска) има осигурано лице:</p>
+									<point id="gla2-clan13-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> ако су му ампутиране обе нове изнад или испод колена или је једна нога ампутирана изнад, а друга испод колена;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> ако му је ампутирана једна нога, а због прогресивног обољења или предвиђеног погоршавања стања друге ноге не може се омогућити ход и употреба протезе;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> ако су му ампутиране једна нога и једна рука;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> ако су му потпуно одузети доњи екстемитети, па, и поред употребе ортотичког средства (апарата), већи део времена проводи у колицима;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> ако има тешке деформативне или запаљиве процесе на великим зглобовима доњих екстремитета, као и у случају политраума;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> ако су му потпуно инострано одузете рука и нога, а оспособљавање за кретање није индицирано из других медицинских разлога (срчана обољења и сл.).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan13-stav2">
+								<content>
+									<p>Теренска инвалидска колица дају се осигураном лицу ако се медицинском рехабилитацијом оспособи за самостално урпављање таквим колицима, што утврђује лекар одговарајуће специјалности.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan13-stav3">
+								<content>
+									<p>Инвалидска собна колица на електрични погон дају се осигураном лицу коме је повреда или обољење кичменог стуба проузроковало квадриплегију.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan13-stav4">
+								<content>
+									<p>Осигураном лицу које се налази на професионалној рехабилитацији, као и осигураном лицу које похађа наставу дају се на употребу, поред собних инвалидских колица, и теренска инвалидска колица која су технички опремљена за кретање на отвореном простору.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan13-stav5">
+								<content>
+									<p>Колица са уграђеним електричним мотором дају се осигураном лицу – војном инвалиду који не користи право на путничко моторно возило прописано законом којим се уређују основна права војних инвалида и породица палих бораца.</p>
+									<тачка id="gla2-clan13-stav5-tac5">
+										<num>5.</num>
+										<content>
+											<p> Очна помагала</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla2-clan14-stav1">
+								<content>
+									<p>Зависно од индикација прописаних ових правилником, осигурано лице добија наочаре и друга очна помагала. Наочаре са стаклима или од оптичке пластике у диоптрији дају се осигураном лицу за корекцију оштрине вида на даљину и близину у случају аметропије или презбиопије.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan14-stav2">
+								<content>
+									<p>Наочаре са млечним стаклима дају се осигураном лицу које има диплопију и монокуларну афакију и у случају анизокорије.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan14-stav3">
+								<content>
+									<p>Наочаре са тамним или фотосензитивним стаклима без диоптрије дају се осигураном лицу у случајевима:</p>
+									<point id="gla2-clan14-stav3-tac1">
+										<num>1)</num>
+										<content>
+											<p> унакажења спољашњих делова ока – капака (ентропиум, ектропиум већег степена, енофталмус, корнеосинблефарон);</p>
+										</content>
+									</point>
+									<point id="gla2-clan14-stav3-tac2">
+										<num>2)</num>
+										<content>
+											<p> фликтенулозног кератокоњуктивитиса;</p>
+										</content>
+									</point>
+									<point id="gla2-clan14-stav3-tac3">
+										<num>3)</num>
+										<content>
+											<p> обољења предњег сегмента ока (паренхиматозни кератити, склерозни кератити, херпетични – дисциформни, дентрични кератити, иридоциклит) које траје више од два месеца, ако није потребно ношење завоја;</p>
+										</content>
+									</point>
+									<point id="gla2-clan14-stav3-tac4">
+										<num>4)</num>
+										<content>
+											<p> обољења очног дна и очног живца (хориодит, хориоретинит, ретинит, неурит, неуроретинит, atrofia incompleta nervi optici) ако процес није саниран;</p>
+										</content>
+									</point>
+									<point id="gla2-clan14-stav3-tac5">
+										<num>5)</num>
+										<content>
+											<p> интраокуларних операција (катаракте, глаукома), вађења страног тела из ока, компликације после операције (ирит) и крвављења у стакластом делу ока и др.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan14-stav4">
+								<content>
+									<p>Наочаре са тамном или фотесензитивним стаклима без диоптрије и са заштитом са стране, односно оклузиом уметањем потребног додатка на обичне тамне наочари дају се осигураном лицу у случају аблације ретине, пролећног катара, псеудофакације или афакије, ако постоји феномен бљештања.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan14-stav5">
+								<content>
+									<p>Наочаре са тамним или фотосензитивним стаклима без диоптрије са стенопеичним отвором дају се осигураном лицу у случају аблације ретине и крвављења у стакластом делу ока.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla2-clan15-stav1">
+								<content>
+									<p>Наочаре са тамним или фотосензитивним стаклима у диоптријама, поред наочара из <ref>члана 14. став 2. овог</ref> правилника, дају се осигураном лицу код којег, поред обољења из <ref>члана 14. став 2. овог</ref> правилника, постоји истовремено и неко од обољења из <ref>члана 14. </ref>ст. 3, 4. и 5. овог правилника.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan15-stav2">
+								<content>
+									<p>Осигураном лицу коме се дају наочаре са тамним или фотосензитивним стаклима у диоптријама из става 1. овог члана не дају се наочаре са обичним тамним или фотосензитивним стаклима.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan15-stav3">
+								<content>
+									<p>Наочаре са тамним стаклима од пластичне масе дају се осигураном лицу које је слепо.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="gla2-clan16-stav1">
+								<content>
+									<p>Наочаре са бифокалним или мултифокалним стаклима дају се осигураном лицу код кога се утврди неопходна професионална потреба за корекцијом оштрине вида на близину и на даљину.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan16-stav2">
+								<content>
+									<p>Фреснелове призме од 4 PD до 20 PD дају се осигураном лицу ако постоји индикација за лечење поремећеног бинокуларног вида и амблиопије (слабовидости).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="gla2-clan17-stav1">
+								<content>
+									<p>Наочаре са специјалним системом сочива (телескопске наочаре) дају се осигураном лицу са слабим видом високог степена, коме се оштрина вида на оба ока не може побољшати обичним стаклима за корекцију вида.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan18">
+						<num>18.</num>
+						<content/>
+					</article>
+					<subsection id="gla2-podod1">
+						<num>а</num>
+						<heading> Контактна сочива се дају осигураном лицу у случају:</heading>
+						<content>
+							<point id="gla2-podod1-clan18-tac1">
+								<num>1)</num>
+								<content>
+									<p> кератоконуса;</p>
+								</content>
+							</point>
+							<point id="gla2-podod1-clan18-tac2">
+								<num>2)</num>
+								<content>
+									<p> анизометропије веће од 3 D;</p>
+								</content>
+							</point>
+							<point id="gla2-podod1-clan18-tac3">
+								<num>3)</num>
+								<content>
+									<p> аметропије веће од 4 D;</p>
+								</content>
+							</point>
+							<point id="gla2-podod1-clan18-tac4">
+								<num>4)</num>
+								<content>
+									<p> албинизма;</p>
+								</content>
+							</point>
+							<point id="gla2-podod1-clan18-tac5">
+								<num>5)</num>
+								<content>
+									<p> аниридије;</p>
+								</content>
+							</point>
+							<point id="gla2-podod1-clan18-tac6">
+								<num>6)</num>
+								<content>
+									<p> аметропије код које се не може постићи нормална оштрина вида вида наочарима, без обзира на величину рефракције;</p>
+								</content>
+							</point>
+							<point id="gla2-podod1-clan18-tac7">
+								<num>7)</num>
+								<content>
+									<p> афакије;</p>
+								</content>
+							</point>
+							<point id="gla2-podod1-clan18-tac8">
+								<num>8)</num>
+								<content>
+									<p> прогресивне миопије;</p>
+								</content>
+							</point>
+							<point id="gla2-podod1-clan18-tac9">
+								<num>9)</num>
+								<content>
+									<p> промена на кожи носа и лица (осетљивост, неуралгија).</p>
+								</content>
+							</point>
+							<clause id="gla2-podod1-clan18-stav1">
+								<content>
+									<p>Контактна сочива из става 1. овог члана дају се осигураном лицу ако се утврди да то лице подноси контактна сочива.</p>
+								</content>
+							</clause>
+						</content>
+					</subsection>
+					<subsection id="gla2-podod2">
+						<num>б</num>
+						<heading> Козметичка сочива дају се осигураном лицу према индикацијама.</heading>
+						<content>
+							<article id="gla2-podod2-clan19">
+								<num>19.</num>
+								<content>
+									<clause id="gla2-podod2-clan19-stav1">
+										<content>
+											<p>Терапијска контактна сочива дају се осигураном лицу у случају:</p>
+											<point id="gla2-podod2-clan19-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> булозне кератопатије;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan19-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> синдрома сувог ока;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan19-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> дистрофије рожњаче;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan19-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> корнеалних улкуса;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan19-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> стања после кератопластике;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan19-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> стања после перфоативне повреде рожњаче;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan19-stav1-tac7">
+												<num>7)</num>
+												<content>
+													<p> других стања према индикацијама.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod2-clan20">
+								<num>20.</num>
+								<content>
+									<clause id="gla2-podod2-clan20-stav1">
+										<content>
+											<p>Осигураном лицу дају се и очне протезе, и то:</p>
+											<point id="gla2-podod2-clan20-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> очна протеза од пластичне масе, при анофталмусу (недостатак ока);</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan20-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> љуспаста, кад није потребно да се врши енуклеација;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan20-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> магнетна, која се уграђује приликом енуклеације очне јабучице;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan20-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> орбитална протеза или епитеза, ако поред недостатка очне јабучице постоји и унакажење очне регије.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla2-podod2-clan20-stav2">
+										<content>
+											<p>У случају унакаженоти ока, осигураном лицу се даје тамна очна повеска.</p>
+										</content>
+									</clause>
+									<clause id="gla2-podod2-clan20-stav3">
+										<content>
+											<p>Влажна комора даје се осигураном лицу или оштећењу ока са смањеном функцијом сузних жлезда.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod2-clan21">
+								<num>21.</num>
+								<content>
+									<clause id="gla2-podod2-clan21-stav1">
+										<content>
+											<p>Слепом осигураном лицу дају се металне таблице за писање Брајевим писмом, сат и штап.</p>
+										</content>
+									</clause>
+									<clause id="gla2-podod2-clan21-stav2">
+										<content>
+											<p>Брајева писаћа машина даје се слепом осигураном лицу – детету које се налази на школовању и другом лицу ако је обучено на Брајевом писму.</p>
+										</content>
+									</clause>
+									<clause id="gla2-podod2-clan21-stav3">
+										<content>
+											<p>Магнетофон и магнетофонске траке или касетофон дају се слепом осигураном лицу – детету на школовању и другим слепим осигураним лицима ако су чланови библиотеке за слепе.</p>
+										</content>
+									</clause>
+									<clause id="gla2-podod2-clan21-stav4">
+										<content>
+											<p>Изузетно од одредбе става 3. овог члана, слепом осигураном лицу – детету које се налази на школовању и другом осигураном лицу које је члан библиотеке за слепе, уместо магнетофона или касетофона, може се дати репродуктор.</p>
+											<тачка id="gla2-podod2-clan21-stav4-tac6">
+												<num>6.</num>
+												<content>
+													<p> Слушна помагала</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod2-clan22">
+								<num>22.</num>
+								<content>
+									<clause id="gla2-podod2-clan22-stav1">
+										<content>
+											<p>Слушни апарат (амплификатор) даје се осигураном лицу код кога је губитак слуха на оба уха већи од 40 децибела у говорним фреквенцијама, а коме се слух лечењем не може побољшати испод те границе, ако се тоналним и говорним аудиометријским испитивањем, као и тестирањем карактеристика амплификатора утврди да се може постићи задовољавајући рехабилитациони ефекат.</p>
+										</content>
+									</clause>
+									<clause id="gla2-podod2-clan22-stav2">
+										<content>
+											<p>Слушни апарат даје се:</p>
+											<point id="gla2-podod2-clan22-stav2-tac1">
+												<num>1)</num>
+												<content>
+													<p> деци предшколског узраста одмах по утврђивању степена оштећења слуха ако се, с обзиром на ментално стање и степен оштећења слуха, може очекивати развој говора уз спровођење стручног рехабилитационог поступка са слушним амплификатором;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan22-stav2-tac2">
+												<num>2)</num>
+												<content>
+													<p> деци на школовању ако им се додељивањем слушног апарата омогућује праћење наставе;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan22-stav2-tac3">
+												<num>3)</num>
+												<content>
+													<p> деци са тешким оштећењем слуха у случајевима у којима се може олакшати праћење наставе у специјалним одељењима за наглуву децу или у заводима – домовима за такву децу;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan22-stav2-tac4">
+												<num>4)</num>
+												<content>
+													<p> осталим осигураним лицима ако им употреба слушног апарата омогућава повољнији рехабилитациони ефекат или радни, односно социјални контакт.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla2-podod2-clan22-stav3">
+										<content>
+											<p>Слушни апарат се не даје потпуно глувим лицима.</p>
+											<тачка id="gla2-podod2-clan22-stav3-tac7">
+												<num>7.</num>
+												<content>
+													<p> Помагала за омогућавање гласног говора</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod2-clan23">
+								<num>23.</num>
+								<content>
+									<clause id="gla2-podod2-clan23-stav1">
+										<content>
+											<p>Апарат за омогућавање гласног говора (вештачки гркљан на основу електричног вибратора – мегафон) даје се осигураном лицу које је трајно изгубило моћ говора због болести, повреде или оперативног захвата на гркљану ако се тестирањем утврди да се помоћу таквог апарата може постићи задовољавајући рехабилитациони ефекат, а учење езофагеалног говора није дало задовољајући резултат.</p>
+											<тачка id="gla2-podod2-clan23-stav1-tac8">
+												<num>8.</num>
+												<content>
+													<p> Зубнопротетичка средства</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod2-clan24">
+								<num>24.</num>
+								<content>
+									<clause id="gla2-podod2-clan24-stav1">
+										<content>
+											<p>Осигураним лицима обезбеђују се зубнопротетичка средства, и то:</p>
+											<point id="gla2-podod2-clan24-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> све врсте круница и ливене металне надоградње;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan24-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> покретне и непокретне протезе;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan24-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> оптуратуре, ресекционе протезе и епитезе;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan24-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> шине код пародонтопатије;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan24-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> ортопедско-ортодонска помагала;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan24-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> протетичке надокнаде код аномалија вилица и зуба;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan24-stav1-tac7">
+												<num>7)</num>
+												<content>
+													<p> све врсте система за ретенцију зубних протеза;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan24-stav1-tac8">
+												<num>8)</num>
+												<content>
+													<p> све врсте нагризних шина.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod2-clan25">
+								<num>25.</num>
+								<content>
+									<clause id="gla2-podod2-clan25-stav1">
+										<content>
+											<p>Осигураним лицима стављају се зубне крунице:</p>
+											<point id="gla2-podod2-clan25-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> кад је деструирана круна зуба, а није довољно само пломбирање;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan25-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> на зубе – носаче непокретних протеза;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan25-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> на зубе – носаче кукица (по потреби);</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan25-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> ако то захтева положај зуба;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan25-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> ради регулисања висине загрижаја.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla2-podod2-clan25-stav2">
+										<content>
+											<p>Ливене пломбе стављају се осигураном лицу:</p>
+											<point id="gla2-podod2-clan25-stav2-tac1">
+												<num>1)</num>
+												<content>
+													<p> ако се квар зуба не може на бољи начин санирати;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan25-stav2-tac2">
+												<num>2)</num>
+												<content>
+													<p> ради регулисања висине загрижаја;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan25-stav2-tac3">
+												<num>3)</num>
+												<content>
+													<p> ради израде дводелних мостова и преноса притиска парцијалних покретних протеза.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod2-clan26">
+								<num>26.</num>
+								<content>
+									<clause id="gla2-podod2-clan26-stav1">
+										<content>
+											<p>Зубнопротетичка средства из <ref>члана 24. овог</ref> правилника обезбеђују се осигураном лицу ако му недостаје један зуб или више зуба, односно ако му је оштећена вилица или меко ткиво.</p>
+										</content>
+									</clause>
+									<clause id="gla2-podod2-clan26-stav2">
+										<content>
+											<p>Осигураном лицу се не обезбеђују:</p>
+											<point id="gla2-podod2-clan26-stav2-tac1">
+												<num>1)</num>
+												<content>
+													<p> покретне и непокретне протезе – ако му недостаје један од молара или други премолар, једнострано или обострано;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan26-stav2-tac2">
+												<num>2)</num>
+												<content>
+													<p> непокретне протезе – привесци уназад, осим ако недостаје латерални секутић, односно први премолар.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla2-podod2-clan26-stav3">
+										<content>
+											<p>Осигураном лицу се не обезбеђују истовремено мост и парцијална покретна протеза на преосталим зубима, осим кад недостаје горњи латерални секутић или ако се повезују преостали зуби у једну целину израдом непокретне конструкције која ће носити разне врсте система за ретенцију парцијалних покретних протеза.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod2-clan27">
+								<num>27.</num>
+								<content>
+									<clause id="gla2-podod2-clan27-stav1">
+										<content>
+											<p>Покретна протеза обезбеђује се, по правилу, осигураном лицу коме недостају више од три зуба један до другог у пределу премолара или молара.</p>
+										</content>
+									</clause>
+									<clause id="gla2-podod2-clan27-stav2">
+										<content>
+											<p>Непокретна протеза обезбеђује се осигураном лицу коме недостаје више од три зуба један од другог, кад размак између зуба носача, оклузија и артикулација, то дозвољавају или ако недостају четири секутића.</p>
+										</content>
+									</clause>
+									<clause id="gla2-podod2-clan27-stav3">
+										<content>
+											<p>Као носач непокретне протезе може се користити и умњак ако је довољно чврст и стабилан и ако обезбеђује ношење такве протезе за предвиђени рок трајања.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod2-clan28">
+								<num>28.</num>
+								<content>
+									<clause id="gla2-podod2-clan28-stav1">
+										<content>
+											<p>На основу медицинских индикација, осигураном лицу се обезбеђује покретна или непокретна протеза (привремена и имедијатна).</p>
+										</content>
+									</clause>
+									<clause id="gla2-podod2-clan28-stav2">
+										<content>
+											<p>Осигураном лицу се не обезбеђује привремена или имедијатна протеза ако постоје индикације за обезбеђење трајне протезе.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod2-clan29">
+								<num>29.</num>
+								<content>
+									<clause id="gla2-podod2-clan29-stav1">
+										<content>
+											<p>На основу медицинских индикација, осигураном лицу обезбеђује се еносални орални имплантат:</p>
+											<point id="gla2-podod2-clan29-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> као носач непокретне или покретне протезе у унилатералним или билатерално безубним седлима иза очњака;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan29-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> ако носач непокретног или покретног протетичког рада, ако му услед уметнутог безубног седла недостају четири и више зуба;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan29-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> ако има прелом доње вилице (безубе или парцијално безубе са дефектом или без дефекта кости) ради имобилизације и израде непокретног или покретног протетичког рада, односно супраструктуре.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod2-clan30">
+								<num>30.</num>
+								<content>
+									<clause id="gla2-podod2-clan30-stav1">
+										<content>
+											<p>Оптуратори, ресекционе протезе и епитезе и протетичке надокнаде код аномалија вилица и зуба обезбеђују се осигураном лицу као самостално или додатно зубнопротетичко средство ако је оштећено коштано или меко ткиво вилице и лица.</p>
+										</content>
+									</clause>
+									<clause id="gla2-podod2-clan30-stav2">
+										<content>
+											<p>Шине, као основно или додатно зубнопротетичко средство у лечењу пародонтопатије, обезбеђују се осигураном лицу са додатком вештачких зуба или без тог додатка.</p>
+										</content>
+									</clause>
+									<clause id="gla2-podod2-clan30-stav3">
+										<content>
+											<p>Ортопедско-ортодонтска помагала обезбеђују се осигураном лицу код аномалије вилице и зуба.</p>
+											<тачка id="gla2-podod2-clan30-stav3-tac9">
+												<num>9.</num>
+												<content>
+													<p> Друга помагала и санитарне справе</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod2-clan31">
+								<num>31.</num>
+								<content>
+									<clause id="gla2-podod2-clan31-stav1">
+										<content>
+											<p>Кожне рукавице дају се осигураном лицу:</p>
+											<point id="gla2-podod2-clan31-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> коме су потпуно одузета два главна нерва на истој руци (улнарис, радиалис, медианус);</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan31-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> коме је одузет брахијални прексус на једној руци, тако да прсте те руке не може употребљавати;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan31-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> коме су ампуритана најмање два прста једне шаке;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan31-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> коме су услед повреде или обољења прста деформисани, тако да не може носити готове рукавице;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan31-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> коме су ампутирани или одузети један или оба доња екстремитета, ако мора да користи штаке или штапове, без обзира на то да ли носи протетичко, односно ортотичко средство;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan31-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> које на штакама има трофичне промене јачег степена или теже васкуларно обољење са променама на прстима;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan31-stav1-tac7">
+												<num>7)</num>
+												<content>
+													<p> коме је услед анкилозе великих зглобова доњих екстремитета потребна употреба штаке или штапова, односно штапа;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan31-stav1-tac8">
+												<num>8)</num>
+												<content>
+													<p> које је слепо;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan31-stav1-tac9">
+												<num>9)</num>
+												<content>
+													<p> које има анкилозу или контрактуру лакта до 900.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod2-clan32">
+								<num>32.</num>
+								<content>
+									<clause id="gla2-podod2-clan32-stav1">
+										<content>
+											<p>Гумена чарапа (натколеница или доколеница) даје се осигураном лицу које има:</p>
+											<point id="gla2-podod2-clan32-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> проширене вене на нози;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan32-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> изражене откоке на нози, а гумена чарапа није контраиндицирана.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla2-podod2-clan32-stav2">
+										<content>
+											<p>Гумена чарапа за скочни зглоб даје се осигураном лицу које има лабав скочни зглоб или хронични посттрауматски и деформативни артритис скочног зглоба.</p>
+										</content>
+									</clause>
+									<clause id="gla2-podod2-clan32-stav3">
+										<content>
+											<p>Гумена коленица даје се осигураном лицу које има лабав колени зглоб или хронични посттрауматски и деформативни артритис колена.</p>
+										</content>
+									</clause>
+									<clause id="gla2-podod2-clan32-stav4">
+										<content>
+											<p>Гумена чарапа, гумена чарапа за скочни зглоб и гумена коленица могу се заменити еластичним завојем.</p>
+										</content>
+									</clause>
+									<clause id="gla2-podod2-clan32-stav5">
+										<content>
+											<p>После ампутације или реампутације горњег или доњег екстремитета осигураном лицу се даје еластични завој у фази припреме патрљка за протезу, и то у случају ампутације натколенице – три комада, а у случају осталих ампутација – два комада.</p>
+										</content>
+									</clause>
+									<clause id="gla2-podod2-clan32-stav6">
+										<content>
+											<p>Осигураном лицу женског пола које носи протезу за доњи екстремитет даје се пар гумених и естетских чарапа.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod2-clan33">
+								<num>33.</num>
+								<content>
+									<clause id="gla2-podod2-clan33-stav1">
+										<content>
+											<p>Зависно од медицинских индикација, осигураном лицу дају се и следећа помоћна помагала, и то:</p>
+											<point id="gla2-podod2-clan33-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> утези – у случају настајања умбилаксе, ингвиналне или феморалне херније;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan33-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> суспензоријум – у случају настајања скроталне херније или трауматских или инфламаторних промена на мошницама или тестисима, као и у случају обољења од variococellae;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan33-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> појас – у случају: настајања умбиликалне или неке друге врсте херније предњег трбушног зида, спуштеног стомака за најмање 7 cm, мобилног бубрега, гравидитета са изузетно слабим трбушним мишићима, већих оперативних захвата на стомаку ако постоји изразита слабост трбушног зида, као и у случају јаче израженог висећег стомака са слабим трбушним зидом;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan33-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> штапови или штаке – ако се тим помагалом омогућује или побољшава кретање (стајање и ход);</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan33-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> ортопедски улошци – у случају спуштеног свода стопала;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan33-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> кожна капа или шубара – у случају дефекта костију лобање, ако је слепо или болује од епилепсије или ако има трајни губитак косе;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan33-stav1-tac7">
+												<num>7)</num>
+												<content>
+													<p> перика – ако је у јачој мери изражена трајна ћелавост као последица скалпирања коже главе, однсоно ако је изражена трајна и потпуна ћелавост услед повреде или болести;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan33-stav1-tac8">
+												<num>8)</num>
+												<content>
+													<p> вештачка дојка – у случају ампутације дојке;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan33-stav1-tac9">
+												<num>9)</num>
+												<content>
+													<p> средства естетске рестаурације (вештачки нос, вештачка ушна шкољка, вештачки део лица) ако постоји одређени дефект лица или главе, а пластична операција није индикована или не постоји могућност да се њоме коригује постојећи дефект или ако осигурано лице не пристаје на пластичну операцију;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan33-stav1-tac10">
+												<num>10)</num>
+												<content>
+													<p> кожни прслук или вунени џемпер – ако му је услед обољења или повреде кичменог стуба, односно обољења плућа признато својство инвалида I или II групе;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan33-stav1-tac11">
+												<num>11)</num>
+												<content>
+													<p> компресивна одела (комплетна или делимична) у периоду рехабилитације опекотина, ради превенције хипертрофичних ожиљака (келоида) и контрактура;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan33-stav1-tac12">
+												<num>12)</num>
+												<content>
+													<p> привремене индивидулане или динамичне шине у превенцији контрактура после опекотина и оперативних захвата за врат и екстремитете.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod2-clan34">
+								<num>34.</num>
+								<content>
+									<clause id="gla2-podod2-clan34-stav1">
+										<content>
+											<p>Осигураном лицу дају се и следећа помагала и санитарне справе:</p>
+											<point id="gla2-podod2-clan34-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> појас са кесом за измет ако се црево празни преко вештачког отвора на трбушном зиду;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan34-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> кеса за мокраћу (урин рецептор) – ако се по савременим методама лечења не може регулисати вољно пражњење мокраћне бешике;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan34-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> кесе за уростому са заштитним прстеном, појасом и заштитним пастама;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan34-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> пенис-клеме за инконтиненцију;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan34-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> навлака за пенис за инконтиненцију;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan34-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> ноћни судови (гуска, лопата) ако је непокретно или ако услед болести лежи у постељи дуже од три месеца;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan34-stav1-tac7">
+												<num>7)</num>
+												<content>
+													<p> пластични шприц од 2 сm3 за једнократну употребу или аутоинјектор – ако болује од шећерне болести, а индицирано је давање инсулина;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan34-stav1-tac8">
+												<num>8)</num>
+												<content>
+													<p> џепна пљуваоница – ако болује од туберкулозе плућа;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan34-stav1-tac9">
+												<num>9)</num>
+												<content>
+													<p> ендотрахеална канила (два комада) – ако је извршена трахеотомија;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan34-stav1-tac10">
+												<num>10)</num>
+												<content>
+													<p> стални катетер (шест комада) – ако је немогуће пражњење мокраћне бешике слободном дренажом;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan34-stav1-tac11">
+												<num>11)</num>
+												<content>
+													<p> гумирани подметач за постељу – ако лежи у постељи, а постоји уринарна или фекална инконтиненција;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan34-stav1-tac12">
+												<num>12)</num>
+												<content>
+													<p> антидекубитално јастуче или антидекубитални котур – ако услед обољења или повреде лежи у постељи дуже од два месеца, а постоји опасност од декубитуса – улцерације;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan34-stav1-tac13">
+												<num>13)</num>
+												<content>
+													<p> антидекубитални душек – ако је непокретно услед повреда или обољења, а постоји опасност од настанка декубитуса;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan34-stav1-tac14">
+												<num>14)</num>
+												<content>
+													<p> концентратор за кисеоник на електрични погон за континуирану оксигену терапију у кућним условима код хроничне плућне инсуфицијенције након клиничког испитивања (изнајмљивање);</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan34-stav1-tac15">
+												<num>15)</num>
+												<content>
+													<p> црево и левак за вештачку исхрану – ако се храни вештачки преко отвора на зиду желуца;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan34-stav1-tac16">
+												<num>16)</num>
+												<content>
+													<p> болеснички кревет – постеља – ако је непокретно, а потребна му је промена положаја у лежећем ставу;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan34-stav1-tac17">
+												<num>17)</num>
+												<content>
+													<p> електростимулатор за централну одузетост перонеалне мускулатуре;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan34-stav1-tac18">
+												<num>18)</num>
+												<content>
+													<p> распршивач и инхалатор или боца са кисеоником са системом за давање кисеоника – ако болује од дуготрајних респираторних обољења са непрекидним дисајним тегобама.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>РОКОВИ ТРАЈАЊА ПОМАГАЛА</heading>
+				<content>
+					<article id="gla3-clan35">
+						<num>35.</num>
+						<content>
+							<clause id="gla3-clan35-stav1">
+								<content>
+									<p>Зависно од узраста, занимања и врсте посла, осигурана лица у погледу рокова трајања помагала из <ref>члана 36. </ref>разврстана су у следеће групе;</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan35-stav2">
+								<content>
+									<p>I група – осигурана лица до навршене седме године живота;</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan35-stav3">
+								<content>
+									<p>II група – осигурана лица преко седам до навршених 18 година живота;</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan35-stav4">
+								<content>
+									<p>III група – осигурана лица преко навршених 18 година живота;</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan35-stav5">
+								<content>
+									<p>IV група – осигурана лица која због услова и начина рада интензивније користе помагала, односно која их користе уз теже физичке напоре (дуже стајање, дуже ходање, ходање по неравном терену и сл.).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan36">
+						<num>36.</num>
+						<content>
+							<clause id="gla3-clan36-stav1">
+								<content>
+									<p>Рокови трајања помагала према групама из <ref>члана 35. овог</ref> правилника износе, и то за:</p>
+								</content>
+							</clause>
+							<став id="gla3-clan36-stav2">
+								<table border="0" cellpadding="0" cellspacing="0" class="auto-style10" style="width:100.0%" width="100%">
+									
+	
+									<tbody>
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p/>
+												
+		
+											</td>
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		I
+  група</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		II
+  група</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		III
+  група</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		IV
+  група</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		1)
+  протезе за горњи екстремитет</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		осам
+  месеци</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		једна
+  година и шест месеци</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		две
+  године</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		две
+  године</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		2)
+  протеза за доњи екстремитет</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		шест
+  месеци</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		девет
+  месеци</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		две
+  године</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		18
+  месеци</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		3)
+  протезе за купање</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		две
+  године</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		три
+  године</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		пет
+  година</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		пет
+  година</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		4)
+  ортотичка средства</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		шест
+  месеци</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		две
+  године</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		једна
+  година и шест месеци</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		5)
+  ортопедску обућу</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		шест
+  месеци</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		шест
+  месеци</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		шест
+  месеци</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		шест
+  месеци</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		6)
+  кожне рукавице</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		две
+  године</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		две
+  године</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		7)
+  утеге</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		три
+  месеца</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		осам
+  месеци</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		8)
+  суспензоријум</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		три
+  месеца</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		осам
+  месеци</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		9)
+  појас</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		три
+  месеца</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		осам
+  месеци</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		10)
+  штапове и штаке – ако се носи протеза</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		једна
+  година и шест месеци</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		две
+  године</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		две
+  године</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		–
+  ако се не носи протеза</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		девет
+  месеци</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		десет
+  месеци</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		десет
+  месеци</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		десет
+  месеци</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		11)
+  ортопедске улошке</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		шест
+  месеци</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		осам
+  месеци</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		осам
+  месеци</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		осам
+  месеци</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		12)
+  кожну капу или шубару</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		две
+  године и шест месеци</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		две
+  године и шест месеци</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		три
+  године</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		три
+  године</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		13)
+  перику</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		једна
+  година и шест месеци</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		две
+  године</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		две
+  године</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		две
+  године</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		14)
+  појас са кесом за измет и кесу за измет ком. 200</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		четири
+  месеца</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		четири
+  месеца</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		четири
+  месеца</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		четири
+  месеца</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		15)
+  ноћни суд</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p/>
+												
+		
+											</td>
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		три
+  године</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		три
+  године</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		три
+  године</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		16)
+  кесе за уростому са штитним прстеном, појасом и заштитним пастама</p>
+												
+		
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		три
+  дана</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		три
+  дана</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		три
+  дана</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		три
+  дана</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		17)
+  пенис-клеме за инконти-ненцију</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		три
+  месеца</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		три
+  месеца</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		три
+  месеца</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		три
+  месеца</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		18)
+  навлаку за пенис за инконтиненцију</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		седам
+  дана</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		седам
+  дана</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		седам
+  дана</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		седам
+  дана</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		19)
+  шприц за инјекције, ку-тију за стерилизацију и пинцету</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p/>
+												
+		
+											</td>
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		20)
+  џепну пљуваоницу</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p/>
+												
+		
+											</td>
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		три
+  године</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		три
+  године</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		три
+  године</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		21)
+  ендотрахеалну канилу – металну</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p/>
+												
+		
+											</td>
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		–
+  гумену или од пластичне масе</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p/>
+												
+		
+											</td>
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		шест
+  месеци</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		шест
+  месеци</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		шест
+  месеци</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		22)
+  стални катетер</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p/>
+												
+		
+											</td>
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		два
+  месеца</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		два
+  месеца</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		два
+  месеца</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		23)
+  гумирани подметач за постељу</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p/>
+												
+		
+											</td>
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		24)
+  антидекубитално јастуче или антидекубитални котур</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p/>
+												
+		
+											</td>
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		две
+  године</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		две
+  године</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		две
+  године</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		25)
+  душек</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p/>
+												
+		
+											</td>
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		три
+  године</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		три
+  године</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		три
+  године</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		26)
+  распршивач и инхалатор</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p/>
+												
+		
+											</td>
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		27)
+  црево за вештачку исхрану</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p/>
+												
+		
+											</td>
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		три
+  месеца</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		три
+  месеца</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		три
+  месеца</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		28)
+  компресивна одела</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p/>
+												
+		
+											</td>
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		једна
+  година</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td class="auto-style9" style="width:30.0%;" valign="top" width="30%">
+												
+		
+												<p>
+		29)
+  привремене индивиду-алне статичке или динамичке шине</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p/>
+												
+		
+											</td>
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p/>
+												
+		
+											</td>
+											<td class="auto-style9" style="width:18.0%;" valign="top" width="18%">
+												
+		
+												<p>
+		две
+  године</p>
+											</td>
+											
+		
+											<td class="auto-style9" style="width:17.0%;" valign="top" width="17%">
+												
+		
+												<p>
+		две
+  године</p>
+											</td>
+											
+	
+										</tr>
+										
+
+									</tbody>
+								</table>
+								
+
+								<content/>
+							</став>
+						</content>
+					</article>
+					<article id="gla3-clan37">
+						<num>37.</num>
+						<content>
+							<clause id="gla3-clan37-stav1">
+								<content>
+									<p>Рокови трајања помагала без обзира на групе из <ref>члана 35. овог</ref> правилника износе, и то за:</p>
+									<point id="gla3-clan37-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> уређај за безбедно управљање моторним возилом аутоматски (саксомат) – пет година, а механички – три године;</p>
+										</content>
+									</point>
+									<point id="gla3-clan37-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> болеснички кревет – постељу – девет година;</p>
+										</content>
+									</point>
+									<point id="gla3-clan37-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> инвалидска колица – четири године;</p>
+										</content>
+									</point>
+									<point id="gla3-clan37-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> гумене и естетске чарапе – шест месеци;</p>
+										</content>
+									</point>
+									<point id="gla3-clan37-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> еластични завој – један месец;</p>
+										</content>
+									</point>
+									<point id="gla3-clan37-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> вештачку дојку – једну годину;</p>
+										</content>
+									</point>
+									<point id="gla3-clan37-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> вештачки нос, вештачку ушну шкољку и вештачки део лица – две године;</p>
+										</content>
+									</point>
+									<point id="gla3-clan37-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> кожни прслук и вунени џемпер – четири године;</p>
+										</content>
+									</point>
+									<point id="gla3-clan37-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> кесу за мокраћу (шест комада) – једну годину.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan37-stav2">
+								<content>
+									<p>Осигураном лицу дају се само једанпут електростимлатор и Брајова писаћа машина.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan38">
+						<num>38.</num>
+						<content>
+							<clause id="gla3-clan38-stav1">
+								<content>
+									<p>Рокови трајања очних помагала износе, и то за:</p>
+									<point id="gla3-clan38-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> оквире наочара;</p>
+											<alinea id="gla3-clan38-stav1-tac1-ali1">
+												<content>
+													<p>а осигурана лица – децу до седам година живота – према медицинским индикацијама;</p>
+												</content>
+											</alinea>
+											<alinea id="gla3-clan38-stav1-tac1-ali2">
+												<content>
+													<p>а осигурана лица – децу преко седам година до навршених 16 година живота – једну годину;</p>
+												</content>
+											</alinea>
+											<alinea id="gla3-clan38-stav1-tac1-ali3">
+												<content>
+													<p>а осигурана слепа лица – једну годину и два месеца;</p>
+												</content>
+											</alinea>
+											<alinea id="gla3-clan38-stav1-tac1-ali4">
+												<content>
+													<p>а остала осигурана лица – две године;</p>
+												</content>
+											</alinea>
+										</content>
+									</point>
+									<point id="gla3-clan38-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> стакла у диоптријама:</p>
+											<alinea id="gla3-clan38-stav1-tac2-ali1">
+												<content>
+													<p>а осигурана лица – децу до седам година живота – према медицинским индикацијама;</p>
+												</content>
+											</alinea>
+											<alinea id="gla3-clan38-stav1-tac2-ali2">
+												<content>
+													<p>а осигурана лица – децу преко седам до 16 година живота – једну годину;</p>
+												</content>
+											</alinea>
+											<alinea id="gla3-clan38-stav1-tac2-ali3">
+												<content>
+													<p>а остала осигурана лица – две године;</p>
+												</content>
+											</alinea>
+										</content>
+									</point>
+									<point id="gla3-clan38-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> млечна стакла – две године и шест месеци;</p>
+										</content>
+									</point>
+									<point id="gla3-clan38-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> тамна или фотосензитивна стакла у диоптријама и без диоптрије – као рокови трајања из тачке 2. овог члана;</p>
+										</content>
+									</point>
+									<point id="gla3-clan38-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> тамна стакла од пластичне масе – једну годину и шест месеци;</p>
+										</content>
+									</point>
+									<point id="gla3-clan38-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> биофокална стакла и Фреснелове призме – две године;</p>
+										</content>
+									</point>
+									<point id="gla3-clan38-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> наочаре са специјалним системом сочива (телескопске наочаре) – четири године;</p>
+										</content>
+									</point>
+									<point id="gla3-clan38-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> контактна сочива тврда и силиконска – две године, а за мека – једну годину;</p>
+										</content>
+									</point>
+									<point id="gla3-clan38-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> очне протезе:</p>
+											<alinea id="gla3-clan38-stav1-tac9-ali1">
+												<content>
+													<p>а осигурана лица до 20 година живота – према медицинским индикацијама;</p>
+												</content>
+											</alinea>
+											<alinea id="gla3-clan38-stav1-tac9-ali2">
+												<content>
+													<p>а остала осигурана лица – две године;</p>
+												</content>
+											</alinea>
+										</content>
+									</point>
+									<point id="gla3-clan38-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> очне повеске – шест месеци;</p>
+										</content>
+									</point>
+									<point id="gla3-clan38-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> влажну комору – три године;</p>
+										</content>
+									</point>
+									<point id="gla3-clan38-stav1-tac12">
+										<num>12)</num>
+										<content>
+											<p> металне таблице за писање Брајовим писмом – три године;</p>
+										</content>
+									</point>
+									<point id="gla3-clan38-stav1-tac13">
+										<num>13)</num>
+										<content>
+											<p> сат за слепе – пет година;</p>
+										</content>
+									</point>
+									<point id="gla3-clan38-stav1-tac14">
+										<num>14)</num>
+										<content>
+											<p> штап за слепе – две године;</p>
+										</content>
+									</point>
+									<point id="gla3-clan38-stav1-tac15">
+										<num>15)</num>
+										<content>
+											<p> магнетофон – седам година;</p>
+										</content>
+									</point>
+									<point id="gla3-clan38-stav1-tac16">
+										<num>16)</num>
+										<content>
+											<p> магнетофонску траку – шест месеци;</p>
+										</content>
+									</point>
+									<point id="gla3-clan38-stav1-tac17">
+										<num>17)</num>
+										<content>
+											<p> репродуктор – седам година.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan39">
+						<num>39.</num>
+						<content>
+							<clause id="gla3-clan39-stav1">
+								<content>
+									<p>Рок трајања слушног апарата за децу до седам година живота износи две године, за лица преко седам до 16 година живота – три године, а за остала осигурана лица – четири године.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan39-stav2">
+								<content>
+									<p>Апарат за омогућавање гласног говора обезбеђује се осигураном лицу само једанпут.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan39-stav3">
+								<content>
+									<p>Осигураном лицу обезбеђују се делови апарата из става 2. овог члана по истеку гарантног рока, као и потребне оправке на начин предвиђен за слушна помагала.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan39-stav4">
+								<content>
+									<p>Нови апарат из става 2. овог члана обезбеђуе се осигураном лицу ако поправка оштећеног апарата није могућа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan40">
+						<num>40.</num>
+						<content>
+							<clause id="gla3-clan40-stav1">
+								<content>
+									<p>Рок трајања зубнопротетичких средстава износи, и то за:</p>
+									<point id="gla3-clan40-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> крунице, ливене пломбе и непокретне протезе – четири године;</p>
+										</content>
+									</point>
+									<point id="gla3-clan40-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> крунице на зубима носачима покретних парцијалних протеза – три године;</p>
+										</content>
+									</point>
+									<point id="gla3-clan40-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> крунице од акрилата – две године;</p>
+										</content>
+									</point>
+									<point id="gla3-clan40-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> покретне парцијалне протезе од акрилата – три године;</p>
+										</content>
+									</point>
+									<point id="gla3-clan40-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> покретне тоталне протезе од акрилата – четири године;</p>
+										</content>
+									</point>
+									<point id="gla3-clan40-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> покретне протезе са металном плочом – пет година;</p>
+										</content>
+									</point>
+									<point id="gla3-clan40-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> имедијатне парцијалне протезе – шест месеци;</p>
+										</content>
+									</point>
+									<point id="gla3-clan40-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> имедијатне тоталне протезе – једну годину.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan40-stav2">
+								<content>
+									<p>Зубнопротетичка средства из <ref>члана 24. овог</ref> правилника за која у ставу 1. овог члана није одређен рок трајања обезбеђују се осигураном лицу према предлогу лекара појединца.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan40-stav3">
+								<content>
+									<p>Рокови из става 1. овог члана теку од дана кад је осигураном лицу намештено зубнопротетичко средство.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan40-stav4">
+								<content>
+									<p>Пре истека прописаних рокова из овог члана, осигураном лицу обезбеђује се ново протетичко средство ако је постојеће постало неупотребљиво услед анатомско-патолошких и функционалних промена. Оправданост израде новог протетичког средства чини војни лекар појединац – специјалиста.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan41">
+						<num>41.</num>
+						<content>
+							<clause id="gla3-clan41-stav1">
+								<content>
+									<p>Рокови трајања помагала, одређени овим правилником, рачунају се од дана уручења помагала осигураном лицу.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan41-stav2">
+								<content>
+									<p>По истеку прописаног рока трајања помагала добијеног по овом правилнику, осим ортопедске обуће, обичних ципела, специјалних ципела и помагала из <ref>члана 32. овог</ref> правилника, осигурано лице може добити ново помагало само ако је помагало које користи дотрајало, ако функционално не одговара или ако је услед оштећења постало неупотребљиво.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan41-stav3">
+								<content>
+									<p>Пре истека рокова трајања помагала предвиђених овим правилником, израдиће се осигураном лицу ново помагало, односно поправиће се већ дато помагало ако је неупотребљивост помагала настала услед анатомских или функционалних промена, односно ако је неупотребљивост помагала настала после истека гарантног рока услед неиздржљивости материјала од кога је оно израђено.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan41-stav4">
+								<content>
+									<p>Пре истека рока трајања протезе, лежиште протезе може се заменити ако код осигураног лица коме су ампутирани горњи или доњи екстремитети настане знатна атрофија патрљка, па због тога мора да носи три навлаке или више навлака (чарапа) на патрљку.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan42">
+						<num>42.</num>
+						<content>
+							<clause id="gla3-clan42-stav1">
+								<content>
+									<p>Стакло у диоптријама осигурано лице добија и пре истека одређеног рока трајања ако се разлика у сферној корекцији измени за 0,5 или у цилиндричној корекцији за 0,25 диоптрија.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan42-stav2">
+								<content>
+									<p>Телескопске наочаре и контактна сочива могу се, у случају потребе, доделити и пре истека одређеног рока трајања ако је то, по мишљењу клинике за очне болести, потребно осигураном лицу.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan42-stav3">
+								<content>
+									<p>Пре истека прописаног рока трајања, осигураном лицу се даје ново очно помагало и у случају неупотребљивости помагала која је натала услед повреде на раду или других околности, а на предлог лекара специјалисте.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan43">
+						<num>43.</num>
+						<content>
+							<clause id="gla3-clan43-stav1">
+								<content>
+									<p>Инвалидска колица, болеснички кревет – постеља, електростимулатор за централну одузетост перонеалне мускулатуре и боца са кисеоником враћају се органу који је одобрио њихову набавку кад престане потреба коришћења.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ИЗРАДА И НАБАВКА ПОМАГАЛА</heading>
+				<content>
+					<article id="gla4-clan44">
+						<num>44.</num>
+						<content>
+							<clause id="gla4-clan44-stav1">
+								<content>
+									<p>За помагала предвиђена овим правилником важе они типови и стандардни делови помагала који се обезбеђују осигураницима – радницима на територији Југославије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan45">
+						<num>45.</num>
+						<content>
+							<clause id="gla4-clan45-stav1">
+								<content>
+									<p>Осигураном лицу обезбеђују се протезе, лежишта протеза и саставни делови протеза израђени од стандардног материјала који испуњава техничко-медицинске услове.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan46">
+						<num>46.</num>
+						<content>
+							<clause id="gla4-clan46-stav1">
+								<content>
+									<p>Кожне рукавице израђују се од стандардне коже, постављене крзном или фланелом.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan46-stav2">
+								<content>
+									<p>Кожне рукавице постављају се крзном у случајевима из <ref>члана 31. </ref>тач. 1, 2, 6. и 7, а фланелом у случајевима из тач. 3, 4, 5, 8. и 9. истог члана.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan47">
+						<num>47.</num>
+						<content>
+							<clause id="gla4-clan47-stav1">
+								<content>
+									<p>Ортопедска обућа израђује се од стандардне коже, у облику који је прилагођен облику стопала под оптерећењен.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan48">
+						<num>48.</num>
+						<content>
+							<clause id="gla4-clan48-stav1">
+								<content>
+									<p>Оквири за наочаре који се обезбеђују осигураним лицима израђују се од пластичне масе, с тим што крилца оквира морају бити појачана арматуром од метала.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan48-stav2">
+								<content>
+									<p>Очне протезе израђују се од пластичне масе, стакла, порцулана или неке друге материје подесне за ту врсту помагала.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan48-stav3">
+								<content>
+									<p>Ако стандардни облик и величина очне протезе не одговарају облику и величини конјуктивалне врећице, очна протеза се израђује по мери.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan49">
+						<num>49.</num>
+						<content>
+							<clause id="gla4-clan49-stav1">
+								<content>
+									<p>Брајова писаћа машина, магнетофон, касетофон и репродуктор, који се дају као помагала под условима прописаним овим правилником, набављају се преко савеза слепих републике, односно аутономне покрајине.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan50">
+						<num>50.</num>
+						<content>
+							<clause id="gla4-clan50-stav1">
+								<content>
+									<p>Слушни апарат даје се осигураном лицу на основу налаза и мишљења лекара специјалисте за болести уха, носа и грла, који има могућност да вокалним и тоналним аудиолошким испитивањима, као и стручним тестирањем карактеристика аплификатора одреди рехабилитациони ефекат и осигура рехабилитациони поступак и на основу тога, уз оториноларинголошку дијагнозу, утврди да осигураном лицу треба доделити апарат одређених електроакустичких карактеристика који ће најбоље одговарати у датом случају оштећења слуха.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan50-stav2">
+								<content>
+									<p>Под условима из става 1. овог члана, осигурано лице добија један од стандардних облика слушног апарата који му одговара по својим електроакустичким карактеристикама.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan51">
+						<num>51.</num>
+						<content>
+							<clause id="gla4-clan51-stav1">
+								<content>
+									<p>Апарат за омогућавање гласног говора из <ref>члана 23. овог</ref> правилника даје се на основу предлога лекара специјалисте за болести уха, носа и грла.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan52">
+						<num>52.</num>
+						<content>
+							<clause id="gla4-clan52-stav1">
+								<content>
+									<p>Ако здравствена установа изради зубнопротетичко средство од племенитог метала, осигурано лице надокнађује здравственој установи разлику између вредности стандардног материјала и племенитог метала, рачунајући највише 2,00 грама стандардне легуре по једном члану, круници или ливеној надоградњи.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan52-stav2">
+								<content>
+									<p>Осигурано лице које племенити метал за израду зубнопротетичког средства набави само има право на накнаду трошкова до износа вредности стандардне легуре потребне за израду зубнопротетичког средства, али највише до 2,00 грама те легуре по једног члану, круници, односно ливеној надоградњи.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan52-stav3">
+								<content>
+									<p>Изузетно, при изради телескоп-круна (спољашња и унутрашња круна) признаје се право на накнаду трошкова за сваку телескоп-круну у вредности до 3,00 грама стандардне легуре.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan52-stav4">
+								<content>
+									<p>При изради зубнопротетичких средстава из ст. 1. и 2. овог члана, вредност племенитог метала, односно стандардне легуре обрачунава се према цени племенитог метала, односно стандардне легуре утврђеној на дан испоруке зубнопротетичког средства осигураном лицу.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla5-clan53">
+						<num>53.</num>
+						<content>
+							<clause id="gla5-clan53-stav1">
+								<content>
+									<p>Даном ступања на снагу овог правилника престају да важе Правилник о индикацијама за протетичка и ортотичка средства и санитарне справе, стандардима за материјал и роковима трајања тих средстава и справа („<ref id="ref14" href="/rs/act/83/17/srp@">Службени лист СФРЈ”, бр. 17/83</ref> и 15/85), Правилник о индикацијама, стандардима за материјале и роковима трајања за очна и слушна помагала и помагала за омогућавање гласног говора („<ref id="ref15" href="/rs/act/83/17/srp@">Службени лист СФРЈ”, бр. 17/83</ref> и 30/86) и Правилник о индикацијама за зубнопротетичку помоћ, зубнопротетичка средства, стандардима за материјал од ког се израђују зубнопротетичка средства и роковима трајања тих средстава („<ref id="ref16" href="/rs/act/77/16/srp@">Службени лист СФРЈ”, бр. 16/77</ref>).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan54">
+						<num>54.</num>
+						<content>
+							<clause id="gla5-clan54-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном листу СФРЈ”.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan54-stav2">
+								<content>
+									<p>Скупштина заједнице социјалног осигурања</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan54-stav3">
+								<content>
+									<p>војних осигураника</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan54-stav4">
+								<content>
+									<p>Бр. 114-1</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<section id="gla5-od27">
+						<num>27.</num>
+						<heading> марта 1990. године</heading>
+						<content>
+							<clause id="gla5-od27-clan54-stav1">
+								<content>
+									<p>Београд</p>
+								</content>
+							</clause>
+							<clause id="gla5-od27-clan54-stav2">
+								<content>
+									<p>Председник Председништва</p>
+								</content>
+							</clause>
+							<clause id="gla5-od27-clan54-stav3">
+								<content>
+									<p>генерал-пуковник у пензији,</p>
+								</content>
+							</clause>
+							<clause id="gla5-od27-clan54-stav4">
+								<content>
+									<p>Дане Петковски, с. р.</p>
+								</content>
+							</clause>
+						</content>
+					</section>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

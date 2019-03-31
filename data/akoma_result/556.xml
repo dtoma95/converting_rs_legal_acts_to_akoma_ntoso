@@ -1,0 +1,923 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2009/40-10/main"/>
+					<FRBRuri value="/rs/act/2009/40-10"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/69-11/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/69-11/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/69-11/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/69-11/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2009-5-29" name="службени гласник рс" number="40" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="5. Високо образовање" value="5. високо образовање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2009-05-18" id="usvajanje"/>
+				<step date="2009-06-06" id="stupanje_na_snagu"/>
+				<step date="2009-06-06" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="40/2009-10" id="e1" type="generation"/>
+				<eventRef date="69/2011-11" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 99. став 6. </ref>Закона о високом образовању („<ref id="ref2" href="/rs/act/05/76/srp@">Службени гласник РС”, бр. 76/05, 100/07</ref> – аутентично тумачење и 97/08),</p>
+		</preamble>
+		<preface>
+			<authority>Министар просвете доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о садржају јавних исправа које издаје високошколска установа</title>
+			<date>“Службени гласник РС”, бр. 40 од 29. маја 2009,  69 од 19. септембра 2011.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се садржај студентске књижице (индекса), дипломе о стеченом високом образовању и додатка дипломи.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Лицу које стекне статус студента високошколска установа издаје студентску књижицу (индекс).</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Индекс је јединствен за све високошколске установе.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Индекс је у облику књиге величине 105 x 160 mm, а када се штампа двојезично величине 120 x 190 mm.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav4">
+						<content>
+							<p>Корице индекса су у тврдом повезу бордо боје, са златним словима на насловној страни.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav5">
+						<content>
+							<p>Странице индекса штампају се на 80-грамској хартији, тониране су светлом бојом и на свакој десној страни у позадини текста налази се грб Републике Србије.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav6">
+						<content>
+							<p>Преко података на унутрашњој страни корица лепи се самоуништавајућа транспарентна холограмска темперевидент фолија величине 75 x 90 mm.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav7">
+						<content>
+							<p>Садржај индекса дат је на Обрасцу број 1 који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Високошколска установа издаје диплому:</p>
+							<тачка id="clan3-stav1-tac1">
+								<num>1.</num>
+								<content>
+									<p> лицу које заврши основне, односно специјалистичке студије;</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>1а лицу које оствари најмање 240 ЕСПБ бодова на основним академским студијама и мастер академским студијама;*</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<section id="od2">
+				<num>2.</num>
+				<heading> лицу које заврши дипломске академске студије, односно интегрисане основне и мастер академске студије*;</heading>
+				<content>
+					<тачка id="od2-clan3-tac3">
+						<num>3.</num>
+						<content>
+							<p> лицу које заврши докторске академске студије.</p>
+						</content>
+					</тачка>
+					<clause id="od2-clan3-stav1">
+						<content>
+							<p>Диплома из става 1. овог члана у облику је листа величине 245 x 345 mm, а када се штампа двојезично величине 290 x 420 mm, штампа се на 200-грамској хартији, садржи холограмску заштитну налепницу*, серијски број и лого самосталне високошколске установе који се налази у позадини текста.</p>
+						</content>
+					</clause>
+					<clause id="od2-clan3-stav2">
+						<content>
+							<p>Изглед и садржај холограмске заштитне налепнице утврђује се општим актом самосталне високошколске установе.*</p>
+						</content>
+					</clause>
+					<clause id="od2-clan3-stav3">
+						<content>
+							<p>Садржај дипломе из става 1. овог члана дат је на обрасцима бр. 2, 3 и 4 који су одштампани уз овај правилник и чине његов саставни део.</p>
+						</content>
+					</clause>
+					<article id="od2-clan4">
+						<num>4.</num>
+						<heading>*<ref id="ref3" href="/rs/act/2011/69/srp@">Службени гласник РС, број   69/2011</ref></heading>
+						<content>
+							<clause id="od2-clan4-stav1">
+								<content>
+									<p>Високошколска установа издаје диплому:</p>
+									<тачка id="od2-clan4-stav1-tac1">
+										<num>1.</num>
+										<content>
+											<p> лицу које заврши основне, односно специјалистичке студије на студијском програму за стицање заједничке дипломе;</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od2-clan4-stav2">
+								<content>
+									<p>1а лицу које оствари најмање 240 ЕСПБ бодова на основним академским студијама и мастер академским студијама;*</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<section id="od2">
+						<num>2.</num>
+						<heading> лицу које заврши  мастер академске студије*, односно интегрисане основне и  мастер академске студије* на студијском програму за стицање заједничке дипломе;</heading>
+						<content>
+							<тачка id="od2-clan4-tac3">
+								<num>3.</num>
+								<content>
+									<p> лицу које заврши докторске академске студије на студијском програму за стицање заједничке дипломе.</p>
+								</content>
+							</тачка>
+							<clause id="od2-clan4-stav1">
+								<content>
+									<p>Диплома из става 1. овог члана у облику је листа величине 245 x 345 mm, а када се штампа двојезично величине 290 x 420 mm, штампа се на 200-грамској хартији, садржи холограмску заштитну налепницу*, серијски број и лого самосталне високошколске установе који се налази у позадини текста.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan4-stav2">
+								<content>
+									<p>Изглед и садржај холограмске заштитне налепнице утврђује се општим актом самосталне високошколске установе.*</p>
+								</content>
+							</clause>
+							<clause id="od2-clan4-stav3">
+								<content>
+									<p>Садржај дипломе из става 1. овог члана дат је на обрасцима бр. 2а, 3а и 4а који су одштампани уз овај правилник и чине његов саставни део.</p>
+								</content>
+							</clause>
+							<article id="od2-clan5">
+								<num>5.</num>
+								<heading>*<ref id="ref4" href="/rs/act/2011/69/srp@">Службени гласник РС, број   69/2011</ref></heading>
+								<content>
+									<clause id="od2-clan5-stav1">
+										<content>
+											<p>Високошколска установа уз диплому из чл. 3. и 4. овог правилника издаје додатак дипломи.</p>
+										</content>
+									</clause>
+									<clause id="od2-clan5-stav2">
+										<content>
+											<p>Додатак дипломи штампа се на 100-грамској хартији, садржи до осам страница у облику листова чије су појединачне величине 210 x 297 mm, а када се штампа двојезично садржи до десет страница истих димензија.</p>
+										</content>
+									</clause>
+									<clause id="od2-clan5-stav3">
+										<content>
+											<p>Садржај додатка дипломи утврђен је на Обрасцу бр. 5 који је одштампан уз овај правилник и чини његов саставни део.</p>
+										</content>
+									</clause>
+									<clause id="od2-clan5-stav4">
+										<content>
+											<p>Додатак дипломи попуњава се у складу са Упутством за попуњавање додатка дипломи, које је одштампано уз овај правилник и чини његов саставни део.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="od2-clan6">
+								<num>6.</num>
+								<content>
+									<clause id="od2-clan6-stav1">
+										<content>
+											<p>Када се настава остварује на језику националне мањине, односно на неком од светских језика, обрасци јавних исправа из чл. 3–5. овог правилника штампају се двојезично, на српском језику ћириличким писмом и на језику и писму на којем се настава изводи.</p>
+										</content>
+									</clause>
+									<clause id="od2-clan6-stav2">
+										<content>
+											<p>У обрасцима јавних исправа из става 1. овог члана текст на језику и писму на коме се настава изводи исписује се испод текста на српском језику.*</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="od2-clan7">
+								<num>7.</num>
+								<heading>*<ref id="ref5" href="/rs/act/2011/69/srp@">Службени гласник РС, број   69/2011</ref></heading>
+								<content>
+									<clause id="od2-clan7-stav1">
+										<content>
+											<p>Јавне исправе из чл. 3–5. овог правилника високошколска установа издаје и на енглеском језику.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="od2-clan8">
+								<num>8.</num>
+								<content>
+									<clause id="od2-clan8-stav1">
+										<content>
+											<p>Ако се приликом попуњавања обрасца јавне исправе са серијским бројем погреши, образац се прецртава двема паралелним дијагоналним линијама црвене боје и записнички се констатује да се образац са одређеним серијским бројем не може користити за издавање јавне исправе.</p>
+										</content>
+									</clause>
+									<clause id="od2-clan8-stav2">
+										<content>
+											<p>Записник и образац из става 1. овог члана чува самостална високошколска установа у складу са прописима којима се уређује канцеларијско пословање.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="od2-clan9">
+								<num>9.</num>
+								<content>
+									<clause id="od2-clan9-stav1">
+										<content>
+											<p>Одредбе чл. 3–7. овог правилника примењују се на издавање дипломе о стеченом високом образовању и додатка дипломи за студијски програм који се изводи у складу са Законом о високом образовању  *.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="od2-clan10">
+								<num>10.</num>
+								<heading>*<ref id="ref6" href="/rs/act/2011/69/srp@">Службени гласник РС, број   69/2011</ref></heading>
+								<content>
+									<clause id="od2-clan10-stav1">
+										<content>
+											<p>Даном ступања на снагу овог правилника престаје да важи Правилник о садржају јавних исправа које издаје високошколска установа (<ref id="ref7" href="/rs/act/06/21/srp@">,,Службени гласник РС’’, бр. 21/06, 66/06</ref> и 8/07).</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="od2-clan11">
+								<num>11.</num>
+								<content>
+									<clause id="od2-clan11-stav1">
+										<content>
+											<p>Овај правилник ступа на снагу осмог дана од дана објављивања у ,,Службеном гласнику Републике Србије’’, осим <ref>члана 2. </ref>који ће се примењивати на издавање индекса почев од уписа на студије у школској 2009/2010. години.</p>
+										</content>
+									</clause>
+									<clause id="od2-clan11-stav2">
+										<content>
+											<p>Број 110-00-50/2009-11</p>
+										</content>
+									</clause>
+									<clause id="od2-clan11-stav3">
+										<content>
+											<p>У Београду, 18. маја 2009. године</p>
+										</content>
+									</clause>
+									<clause id="od2-clan11-stav4">
+										<content>
+											<p>Министар,</p>
+										</content>
+									</clause>
+									<clause id="od2-clan11-stav5">
+										<content>
+											<p>др  Жарко Обрадовић, с.р.</p>
+										</content>
+									</clause>
+									<став id="od2-clan11-stav6">
+										<img height="863" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/6c2ce328-b7f1-45d9-a956-2ae160cf3b5a.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417757&amp;regactid=417757" width="573"/>
+										<content/>
+									</став>
+									<clause id="od2-clan11-stav7">
+										<content>
+											<p>*<ref id="ref8" href="/rs/act/2011/69/srp@">Службени гласник РС, број   69/2011</ref></p>
+										</content>
+									</clause>
+									<став id="od2-clan11-stav8">
+										<img height="862" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/36b01346-d938-4fb8-9401-04e6034cab9b.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417757&amp;regactid=417757" width="573"/>
+										 
+										<content/>
+									</став>
+									<став id="od2-clan11-stav9">
+										<img height="863" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/dc8df1f4-2c91-4d26-9e89-fc1a3a023c73.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417757&amp;regactid=417757" width="575"/>
+										<content/>
+									</став>
+									<став id="od2-clan11-stav10">
+										<img height="863" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/f71124d3-1810-4162-92bc-589561143249.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417757&amp;regactid=417757" width="573"/>
+										<content/>
+									</став>
+									<став id="od2-clan11-stav11">
+										<img height="863" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/419dcfc8-a6e6-41a8-acd4-431375d85327.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417757&amp;regactid=417757" width="557"/>
+										<content/>
+									</став>
+									<став id="od2-clan11-stav12">
+										<img height="863" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/bafe16fc-42b5-4317-b971-a6a698c1e7ee.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417757&amp;regactid=417757" width="557"/>
+										<content/>
+									</став>
+									<став id="od2-clan11-stav13">
+										<img height="863" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/e3bd692a-9a17-46a2-a7f6-d0076391cf7b.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417757&amp;regactid=417757" width="557"/>
+										<content/>
+									</став>
+									<став id="od2-clan11-stav14">
+										<img height="862" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/9d15be2c-598e-4086-8ee2-6fdae07ef996.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417757&amp;regactid=417757" width="581"/>
+										<content/>
+									</став>
+									<став id="od2-clan11-stav15">
+										<img height="862" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/2510d8dd-f127-4c0e-8b60-66661835c7ac.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417757&amp;regactid=417757" width="579"/>
+										<content/>
+									</став>
+									<став id="od2-clan11-stav16">
+										<img height="851" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/f65de01f-01d0-4ac5-bd73-41d50616f92f.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417757&amp;regactid=417757" width="575"/>
+										<content/>
+									</став>
+									<став id="od2-clan11-stav17">
+										<img alt="pravilnik-javne-isprave_Page_1.tiff" height="842" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik-javne-isprav_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417757&amp;regactid=417757" width="596"/>
+										<content/>
+									</став>
+									<став id="od2-clan11-stav18">
+										<img alt="pravilnik-javne-isprave_Page_2.tiff" height="842" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik-javne-ispra_opt1.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417757&amp;regactid=417757" width="596"/>
+										<content/>
+									</став>
+									<став id="od2-clan11-stav19">
+										<img alt="pravilnik-javne-isprave_Page_3.tiff" height="842" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik-javne-ispra_opt2.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417757&amp;regactid=417757" width="596"/>
+										<content/>
+									</став>
+									<став id="od2-clan11-stav20">
+										<img alt="pravilnik-javne-isprave_Page_4.tiff" height="842" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik-javne-ispra_opt3.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417757&amp;regactid=417757" width="596"/>
+										<content/>
+									</став>
+									<clause id="od2-clan11-stav21">
+										<content>
+											<p>*Образац бр. 5 – Додатак дипломи замењен је новим  Обрасцем бр. 5 –Додатак дипломи објављеним у броју 69/2011</p>
+										</content>
+									</clause>
+									<став id="od2-clan11-stav22">
+										<img border="0" height="47" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/cb21cca0-4c62-4a07-88a6-12e407a356f6.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417757&amp;regactid=417757" width="135"/>
+										<content/>
+									</став>
+									<clause id="od2-clan11-stav23">
+										<content>
+											<p>Упутство за попуњавање додатка дипломи</p>
+										</content>
+									</clause>
+									<clause id="od2-clan11-stav24">
+										<content>
+											<p>Основна структура додатка дипломи</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</section>
+				</content>
+			</section>
+			<section id="od1">
+				<num>1.</num>
+				<heading> ПОДАЦИ О ИМАОЦУ ДИПЛОМЕ</heading>
+				<content>
+					<тачка id="od1-clan11-tac1">
+						<num>1.</num>
+						<content>
+							<p>1. Име</p>
+							<тачка id="od1-clan11-tac1">
+								<num>1.</num>
+								<content>
+									<p>2. Презиме</p>
+									<тачка id="od1-clan11-tac1">
+										<num>1.</num>
+										<content>
+											<p>3 Датум рођења (дан/месец/година)</p>
+											<тачка id="od1-clan11-tac1">
+												<num>1.</num>
+												<content>
+													<p>4. Број индекса студента и ЈМБГ</p>
+												</content>
+											</тачка>
+										</content>
+									</тачка>
+								</content>
+							</тачка>
+						</content>
+					</тачка>
+					<тачка id="od1-clan11-tac2">
+						<num>2.</num>
+						<content>
+							<p> ПОДАЦИ О СТЕЧЕНОЈ ДИПЛОМИ</p>
+							<тачка id="od1-clan11-tac2">
+								<num>2.</num>
+								<content>
+									<p>1. Стечени (стручни, академски, научни) назив</p>
+									<тачка id="od1-clan11-tac2">
+										<num>2.</num>
+										<content>
+											<p>2. Научна/уметничка/стручна област (или области) студија</p>
+											<тачка id="od1-clan11-tac2">
+												<num>2.</num>
+												<content>
+													<p>3. Назив и статус високошколске установе која издаје диплому</p>
+													<тачка id="od1-clan11-tac2">
+														<num>2.</num>
+														<content>
+															<p>4. Назив и статус високошколске установе која организује студије (уколико се разликује од 2.3.)</p>
+															<тачка id="od1-clan11-tac2">
+																<num>2.</num>
+																<content>
+																	<p>5. Језик (језици) на коме се одржава настава/испити</p>
+																</content>
+															</тачка>
+														</content>
+													</тачка>
+												</content>
+											</тачка>
+										</content>
+									</тачка>
+								</content>
+							</тачка>
+						</content>
+					</тачка>
+					<тачка id="od1-clan11-tac3">
+						<num>3.</num>
+						<content>
+							<p> ПОДАЦИ О ВРСТИ И СТЕПЕНУ СТУДИЈА</p>
+							<тачка id="od1-clan11-tac3">
+								<num>3.</num>
+								<content>
+									<p>1. Врста и степен студија</p>
+									<тачка id="od1-clan11-tac3">
+										<num>3.</num>
+										<content>
+											<p>2. Дужина трајања студија (у годинама)</p>
+											<тачка id="od1-clan11-tac3">
+												<num>3.</num>
+												<content>
+													<p>3. Услови уписа</p>
+												</content>
+											</тачка>
+										</content>
+									</тачка>
+								</content>
+							</тачка>
+						</content>
+					</тачка>
+					<тачка id="od1-clan11-tac4">
+						<num>4.</num>
+						<content>
+							<p> ПОДАЦИ О САДРЖАЈУ И ПОСТИГНУТИМ РЕЗУЛТАТИМА</p>
+							<тачка id="od1-clan11-tac4">
+								<num>4.</num>
+								<content>
+									<p>1. Начин студирања</p>
+									<тачка id="od1-clan11-tac4">
+										<num>4.</num>
+										<content>
+											<p>2. Назив и циљеви студијског програма</p>
+											<тачка id="od1-clan11-tac4">
+												<num>4.</num>
+												<content>
+													<p>3. Појединости студијског програма и постигнуте оцене</p>
+													<тачка id="od1-clan11-tac4">
+														<num>4.</num>
+														<content>
+															<p>4. Начин оцењивања</p>
+															<тачка id="od1-clan11-tac4">
+																<num>4.</num>
+																<content>
+																	<p>5. Просечна оцена и успех</p>
+																</content>
+															</тачка>
+														</content>
+													</тачка>
+												</content>
+											</тачка>
+										</content>
+									</тачка>
+								</content>
+							</тачка>
+						</content>
+					</тачка>
+					<тачка id="od1-clan11-tac5">
+						<num>5.</num>
+						<content>
+							<p> ПОДАЦИ О НАМЕНИ СТЕЧЕНОГ НАЗИВА</p>
+							<тачка id="od1-clan11-tac5">
+								<num>5.</num>
+								<content>
+									<p>1. Приступ даљим студијама</p>
+									<тачка id="od1-clan11-tac5">
+										<num>5.</num>
+										<content>
+											<p>2. Професионални статус</p>
+										</content>
+									</тачка>
+								</content>
+							</тачка>
+						</content>
+					</тачка>
+					<тачка id="od1-clan11-tac6">
+						<num>6.</num>
+						<content>
+							<p> ДОДАТНЕ ИНФОРМАЦИЈЕ</p>
+							<тачка id="od1-clan11-tac6">
+								<num>6.</num>
+								<content>
+									<p>1. Додатне информације о студенту</p>
+									<тачка id="od1-clan11-tac6">
+										<num>6.</num>
+										<content>
+											<p>2. Извори додатних информација о високошколској установи</p>
+										</content>
+									</тачка>
+								</content>
+							</тачка>
+						</content>
+					</тачка>
+					<тачка id="od1-clan11-tac7">
+						<num>7.</num>
+						<content>
+							<p> ОВЕРА ДОДАТКА ДИПЛОМИ</p>
+							<тачка id="od1-clan11-tac7">
+								<num>7.</num>
+								<content>
+									<p>1. Број и датум</p>
+									<тачка id="od1-clan11-tac7">
+										<num>7.</num>
+										<content>
+											<p>2. Одговорно лице</p>
+											<тачка id="od1-clan11-tac7">
+												<num>7.</num>
+												<content>
+													<p>3. Печат и потпис</p>
+												</content>
+											</тачка>
+										</content>
+									</тачка>
+								</content>
+							</тачка>
+						</content>
+					</тачка>
+					<тачка id="od1-clan11-tac8">
+						<num>8.</num>
+						<content>
+							<p> ПОДАЦИ О СИСТЕМУ ВИСОКОГ ОБРАЗОВАЊА У РЕПУБЛИЦИ СРБИЈИ</p>
+						</content>
+					</тачка>
+					<clause id="od1-clan11-stav1">
+						<content>
+							<p>Попуњавање додатка дипломи</p>
+						</content>
+					</clause>
+					<clause id="od1-clan11-stav2">
+						<content>
+							<p>На почетку додатка дипломе у горњем десном углу уноси се назив и лого самосталне високошколске установе а у левом горњем углу назив и лого високошколске установе. Испод наслова: ДОДАТАК ДИПЛОМИ наводи се број дипломе, датум издавања и серијски број дипломе.</p>
+							<тачка id="od1-clan11-stav2-tac1">
+								<num>1.</num>
+								<content>
+									<p> ПОДАЦИ О ИМАОЦУ ДИПЛОМЕ</p>
+									<тачка id="od1-clan11-stav2-tac1">
+										<num>1.</num>
+										<content>
+											<p>1. Име</p>
+										</content>
+									</тачка>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="od1-clan11-stav3">
+						<content>
+							<p>Навести пуно име или имена, уколико их има више</p>
+						</content>
+					</clause>
+					<section id="od1">
+						<num>1.</num>
+						<heading>2. Презиме</heading>
+						<content>
+							<clause id="od1-clan11-stav1">
+								<content>
+									<p>Навести пуно презиме или презимена, ако их има више.</p>
+									<тачка id="od1-clan11-stav1-tac1">
+										<num>1.</num>
+										<content>
+											<p>3. Датум рођења (дан/месец/година)</p>
+											<тачка id="od1-clan11-stav1-tac1">
+												<num>1.</num>
+												<content>
+													<p>4. Број индекса студента и ЈМБГ</p>
+												</content>
+											</тачка>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav2">
+								<content>
+									<p>У прву рубрику (поље) уписује се број индекса студента, а у другу лични број студента (ЈМБГ).</p>
+									<тачка id="od1-clan11-stav2-tac2">
+										<num>2.</num>
+										<content>
+											<p> ПОДАЦИ О СТЕЧЕНОЈ ДИПЛОМИ</p>
+											<тачка id="od1-clan11-stav2-tac2">
+												<num>2.</num>
+												<content>
+													<p>1. Стечени (стручни, академски, научни) назив</p>
+												</content>
+											</тачка>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav3">
+								<content>
+									<p>Дати пуни назив стеченог назива на српском језику из Листе стручних, академских и научних назива с назнаком звања одговарајућег степена студија, коју је усвојио Национални савет за високо образовање. Дати и скраћеницу стеченог назива из Листе стручних, академских и научних назива коју је усвојио Национални савет за високо образовање.</p>
+									<тачка id="od1-clan11-stav3-tac2">
+										<num>2.</num>
+										<content>
+											<p>2. Научна/уметничка/стручна област (или области) студија</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav4">
+								<content>
+									<p>Назначити област акредитованог студијског програма у складу са Правилником о научним, уметничким, односно стручним областима у оквиру образовно-научних, односно образовно-уметничких поља.</p>
+									<тачка id="od1-clan11-stav4-tac2">
+										<num>2.</num>
+										<content>
+											<p>3. Назив и статус високошколске установе која издаје диплому</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav5">
+								<content>
+									<p>Навести пун назив и статус високошколске установе која издаје диплому.</p>
+									<тачка id="od1-clan11-stav5-tac2">
+										<num>2.</num>
+										<content>
+											<p>4. Назив и статус високошколске установе која организује студије (уколико се разликује од 2.3)</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav6">
+								<content>
+									<p>У случају да постоји разлика, навести исте елементе као и у 2.3.</p>
+									<тачка id="od1-clan11-stav6-tac2">
+										<num>2.</num>
+										<content>
+											<p>5. Језик (језици) на коме се одржава настава</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav7">
+								<content>
+									<p>Навести језик (или језике) извођења наставе.</p>
+									<тачка id="od1-clan11-stav7-tac3">
+										<num>3.</num>
+										<content>
+											<p> ПОДАЦИ О ВРСТИ И СТЕПЕНУ СТУДИЈА</p>
+											<тачка id="od1-clan11-stav7-tac3">
+												<num>3.</num>
+												<content>
+													<p>1. Врста и степен студија</p>
+												</content>
+											</тачка>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav8">
+								<content>
+									<p>Назначити прецизно врсту и степен студија у складу са Законом о високом образовању.</p>
+									<тачка id="od1-clan11-stav8-tac3">
+										<num>3.</num>
+										<content>
+											<p>2. Дужина трајања студија</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav9">
+								<content>
+									<p>Назначити трајање студијског програма у годинама.</p>
+									<тачка id="od1-clan11-stav9-tac3">
+										<num>3.</num>
+										<content>
+											<p>3. Услови уписа</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav10">
+								<content>
+									<p>Навести услове уписа у складу са Законом о високом образовању, статутом самосталне високошколске установе и студијским програмом.</p>
+									<тачка id="od1-clan11-stav10-tac4">
+										<num>4.</num>
+										<content>
+											<p> ПОДАЦИ О САДРЖАЈУ И ПОСТИГНУТИМ РЕЗУЛТАТИМА</p>
+											<тачка id="od1-clan11-stav10-tac4">
+												<num>4.</num>
+												<content>
+													<p>1. Начин студирања</p>
+												</content>
+											</тачка>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav11">
+								<content>
+									<p>Назначити да ли су студије завршене на даљину.</p>
+									<тачка id="od1-clan11-stav11-tac4">
+										<num>4.</num>
+										<content>
+											<p>2. Назив и циљеви студијског програма</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav12">
+								<content>
+									<p>Навести назив и циљеве студијског програма.</p>
+									<тачка id="od1-clan11-stav12-tac4">
+										<num>4.</num>
+										<content>
+											<p>3. Појединости студијског програма и постигнуте оцене</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav13">
+								<content>
+									<p>Детаљно приказати све елементе студијског програма (предмети, курсеви и др.), укључујући и податке о њиховом трајању (број сати предавања, вежби и осталих активности предвиђених за одређени предмет) и оптерећењу студента у њиховом савлађивању изражено у ЕСПБ. Навести положене испите и постигнуте резултате, уз навођење добијених оцена, као и просечну оцену свих положених испита. Назначити да ли постоји завршни рад, наслов рада, језик, начин одбране, добијену оцену и комисију за оцену и одбрану рада.</p>
+									<тачка id="od1-clan11-stav13-tac4">
+										<num>4.</num>
+										<content>
+											<p>4. Начин оцењивања</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav14">
+								<content>
+									<p>У овом одељку се наводи систем оцењивања како је дат у обрасцу додатка дипломе.</p>
+									<тачка id="od1-clan11-stav14-tac4">
+										<num>4.</num>
+										<content>
+											<p>5. Просечна оцена и успех</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav15">
+								<content>
+									<p>Овде се даје просечна оцена на свим испитима и њено описно значење: 6,00 до 6,99 – довољан; 7,00 до 7,99 – добар; 8,00 до 8,99 – врло добар; 9,00 до 9,49 – изузетно добар и 9,50 до 10,00 – одличан.</p>
+									<тачка id="od1-clan11-stav15-tac5">
+										<num>5.</num>
+										<content>
+											<p> ПОДАЦИ О НАМЕНИ СТЕЧЕНОГ НАЗИВА</p>
+											<тачка id="od1-clan11-stav15-tac5">
+												<num>5.</num>
+												<content>
+													<p>1. Приступ даљим студијама</p>
+												</content>
+											</тачка>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav16">
+								<content>
+									<p>Навести да ли се са добијеном дипломом може приступити даљем високошколском образовању у националном образовном систему (могућност уписа на специјалистичке, дипломске или докторске студије). При том назначити и важеће стандарде и прописе за проходност према вишим нивоима студија (нпр. потребна средња оцена за упис одређених студија).</p>
+									<тачка id="od1-clan11-stav16-tac5">
+										<num>5.</num>
+										<content>
+											<p>2. Професионални статус</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav17">
+								<content>
+									<p>Назначити професионални статус носиоца дипломе/квалификације у смислу стеченог назива (инжењер пољопривреде, струковни инжењер пољопривреде, дипломирани инжењер пољопривреде – мастер) и компетенције стечене завршетком студијског програма.</p>
+									<тачка id="od1-clan11-stav17-tac6">
+										<num>6.</num>
+										<content>
+											<p> ДОДАТНЕ ИНФОРМАЦИЈЕ</p>
+											<тачка id="od1-clan11-stav17-tac6">
+												<num>6.</num>
+												<content>
+													<p>1. Додатне информације о студенту</p>
+												</content>
+											</тачка>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav18">
+								<content>
+									<p>Навести све додатне информације које су корисне за процену природе, нивоа и употребљивости дипломе, као што су обука/студирање у одређеном периоду у некој другој институцији/компанији/земљи или друге битне информације о институцији у којој је одређена диплома стечена.</p>
+									<тачка id="od1-clan11-stav18-tac6">
+										<num>6.</num>
+										<content>
+											<p>2. Извор додатних информација о установи</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav19">
+								<content>
+									<p>Назначити друге изворе информација које пружају увид у детаље у погледу стечене дипломе (интернет страница институције; национални информациони центар и сл.).</p>
+									<тачка id="od1-clan11-stav19-tac7">
+										<num>7.</num>
+										<content>
+											<p> ОВЕРА ДОДАТКА ДИПЛОМИ</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav20">
+								<content>
+									<p>Додатак дипломи важи уз диплому. У случају студијског програма за стицање заједничке дипломе, додатак дипломи оверавају све високошколске установе које учествују у извођењу програма.</p>
+									<тачка id="od1-clan11-stav20-tac7">
+										<num>7.</num>
+										<content>
+											<p>1. Број и датум</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav21">
+								<content>
+									<p>Датум издавања додатка дипломи, не мора бити исти као и датум издавања дипломе.</p>
+									<тачка id="od1-clan11-stav21-tac7">
+										<num>7.</num>
+										<content>
+											<p>2. Одговорно лице</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav22">
+								<content>
+									<p>Званична позиција (функција) лица које потписује документ, презиме и име.</p>
+									<тачка id="od1-clan11-stav22-tac7">
+										<num>7.</num>
+										<content>
+											<p>3. Печат и потпис</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav23">
+								<content>
+									<p>Званична овера и потпис овлашћене особе, као код одговарајуће дипломе.</p>
+									<тачка id="od1-clan11-stav23-tac8">
+										<num>8.</num>
+										<content>
+											<p> ПОДАЦИ О НАЦИОНАЛНОМ СИСТЕМУ ВИСОКОГ ОБРАЗОВАЊА</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav24">
+								<content>
+									<p>У овом поглављу се наводе основни елементи националног образовног система (услови за упис, врсте и нивои система високог образовања и називи који се стичу завршетком студија). Подаци о националном систему високог образовања укључујући и графички приказ система високог образовања, утврђени су овим правилником и саставни су део додатка дипломи.</p>
+								</content>
+							</clause>
+						</content>
+					</section>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

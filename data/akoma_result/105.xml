@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2005/21-1/main"/>
+					<FRBRuri value="/rs/act/2005/21-1"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2005/24-1/srp@/main"/>
+					<FRBRuri value="/rs/act/2005/24-1/srp@"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2005/24-1/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2005/24-1/srp@.akn"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2005-5-27" name="службени лист сцг“" number="21" showAs="Службени лист СЦГ“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="IV ЈАВНИ ПРИХОДИ" value="iv јавни приходи"/>
+				<keyword id="grupa" showAs="4. Јавни зајмови" value="4. јавни зајмови"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2005-05-25" id="usvajanje"/>
+				<step date="2005-05-28" id="stupanje_na_snagu"/>
+				<step date="2005-05-28" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="21/2005-1" id="e1" type="generation"/>
+				<eventRef date="24/2005-1" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу <ref>члана 6. </ref>Уредбе о чланству Савезне Републике Југославије у Међународном монетарном фонду и другим међународним финансијским организацијама (“<ref id="ref1" href="/rs/act/96/40/srp@">Службени лист СРЈ”, бр. 40/96</ref>), Савет министара доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о издавању  некаматоносне непреносиве обвезнице ради измиривања  обавеза Србије и Црне Горе по основу попуне капитала Међународног  удружења  за развој (Резолуције бр. 150, 174, 183, 184 и 194)</title>
+			<date>„Службени лист СЦГ“, бр. 21 од 27. маја 2005, 25 од 24. јуна 2005.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Ради измиривања обавеза Србије и Црне Горе по основу попуне капитала Међународног удружења за развој (Резолуције бр. 150, 174, 183, 184 и 194) издаје се некаматоносна непреносива обвезница номиналне вредности од 703.658,00 динара.*</heading>
+				<content>
+					<clause id="od1-stav1">
+						<content>
+							<p>*<ref id="ref2" href="/rs/act/2005/25/srp@">Службени лист СЦГ, број 25/2005</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Оригинал обвезнице на српском и енглеском језику Министарство за међународне економске односе Србије и Црне Горе депоноваће код Народне банке Србије.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>Фотокопија обвезнице доставиће се Међународном удружењу за развој.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Ова одлука ступа на снагу наредног дана од дана објављивања у “Службеном листу СЦГ”.</heading>
+				<content>
+					<clause id="od3-stav1">
+						<content>
+							<p>Савет министара</p>
+						</content>
+					</clause>
+					<clause id="od3-stav2">
+						<content>
+							<p>Е. п. бр. 140</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od25">
+				<num>25.</num>
+				<heading> маја 2005. године</heading>
+				<content>
+					<clause id="od25-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od25-stav2">
+						<content>
+							<p>Председник</p>
+						</content>
+					</clause>
+					<clause id="od25-stav3">
+						<content>
+							<p>Србије и Црне Горе</p>
+						</content>
+					</clause>
+					<clause id="od25-stav4">
+						<content>
+							<p>Светозар Маровић,  с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

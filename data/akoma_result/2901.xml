@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1996/7-190/main"/>
+					<FRBRuri value="/rs/act/1996/7-190"/>
+					<FRBRdate date="1996" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1996/7-190/srp@/main"/>
+					<FRBRuri value="/rs/act/1996/7-190/srp@"/>
+					<FRBRdate date="1996" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1996/7-190/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1996/7-190/srp@.akn"/>
+					<FRBRdate date="1996" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1996-2-23" name="службени гласникрс" number="7" showAs="Службени гласникРС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Решење" value="решење"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="10. Култура" value="10. култура"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1996-02-13" id="usvajanje"/>
+				<step date="" id="stupanje_na_snagu"/>
+				<step date="" id="primena"/>
+			</workflow>
+		</meta>
+		<body/>
+	</act>
+</akomaNtoso>

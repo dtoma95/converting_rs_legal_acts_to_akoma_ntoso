@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2009/66-14/main"/>
+					<FRBRuri value="/rs/act/2009/66-14"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2016/3-37/srp@/main"/>
+					<FRBRuri value="/rs/act/2016/3-37/srp@"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2016/3-37/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2016/3-37/srp@.akn"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2009-8-18" name="службени гласник рс“" number="66" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="9. Боравак странаца" value="9. боравак странаца"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2009-08-06" id="usvajanje"/>
+				<step date="2009-08-19" id="stupanje_na_snagu"/>
+				<step date="2009-08-19" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="66/2009-14" id="e1" type="generation"/>
+				<eventRef date="3/2016-37" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 66. став 4. </ref>Закона о странцима („<ref id="ref2" href="/rs/act/08/97/srp@">Службени гласник РС”, број 97/08</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар унутрашњих послова доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о изгледу обрасца, садржини и начину издавања личне карте за странца</title>
+			<date>„Службени гласник РС“, бр. 66 од 18. августа 2009, 3 од 15. јануара 2016.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником се прописује изглед обрасца, садржина и начин издавања личне карте за странца.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Странцу коме је одобрено стално настањење или привремени боравак издаје се лична карта за странца на посебном обрасцу.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Образац личне карте за странца је књижица правоугаоног облика, димензија 136 x 94 mm, са корицама плаве боје. Образац садржи 10 страница, укључујући корице.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>На страницама преовлађују светло плави тонови са текстом који је црне боје. Заштитни елемент је микротекст РЕПУБЛИКА СРБИЈА.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav4">
+						<content>
+							<p>Образац личне карте за странца је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Захтев за издавање личне карте за странца се подноси лично организационој јединици Министарства унутрашњих послова надлежној за послове странаца према месту пребивалишта, односно боравишта странца.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Уз захтев из става 1. овог члана прилажу се две фотографије димензија 30 x 40 mm које верно приказују лице за које се тражи издавање личне карте за странца.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Док се не стекну техничке и друге могућности за издавање личне карте за странца према овом правилнику може се издавати лична карта за странца према раније важећим прописима, с тим да рок њеног важења не може бити дужи од рока утврђеног чланом 88. Закона о странцима.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>01 број 1089/2009-17</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>У Београду, 6. августа 2009. године</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav5">
+						<content>
+							<p>Ивица Дачић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav6">
+						<content>
+							<p>Прилози:</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav7">
+						<content>
+							<p>НАПОМЕНА ИЗДАВАЧА: Правилником о   измени Правилника о изгледу обрасца, садржини и начину издавања личне карте   за странца (&quot;<ref id="ref3" href="/rs/act/2016/3/srp@">Службени гласник РС&quot;, број 3/2016</ref>) измењен је образац личне   карте за странца (види <ref>члан 1. </ref>Правилника - 3/2016-37).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

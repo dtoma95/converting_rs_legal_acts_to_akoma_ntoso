@@ -1,0 +1,361 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1995/30-1110/main"/>
+					<FRBRuri value="/rs/act/1995/30-1110"/>
+					<FRBRdate date="1995" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1995/37-1341/srp@/main"/>
+					<FRBRuri value="/rs/act/1995/37-1341/srp@"/>
+					<FRBRdate date="1995" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1995/37-1341/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1995/37-1341/srp@.akn"/>
+					<FRBRdate date="1995" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1995-8-7" name="службени гласник рс" number="30" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="10. Култура" value="10. култура"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1995-06-21" id="usvajanje"/>
+				<step date="1995-08-15" id="stupanje_na_snagu"/>
+				<step date="1995-08-15" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="30/1995-1110" id="e1" type="generation"/>
+				<eventRef date="37/1995-1341" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>Special value.</p>
+			<p>На основу <ref>члана 62. став 2. </ref>Закона о културним добрима („<ref id="ref2" href="/rs/act/94/71/srp@">Службени гласник РС“, број 71/94</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар културе доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>О ПОДАЦИМА КОЈИ СЕ УПИСУЈУ У РЕГИСТАР, НАЧИНУ ВОЂЕЊА РЕГИСТРА И ЦЕНТРАЛНОГ РЕГИСТРА НЕПОКРЕТНИХ КУЛТУРНИХ ДОБАРА И О ДОКУМЕНТАЦИЈИ О ОВИМ КУЛТУРНИМ ДОБРИМА</title>
+			<date>&quot;Службени гласник РС&quot;, бр.  30 од 7. августа 1995, 37 од 20. септембра 1995.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се који се подаци уписују у регистар, на који начин се води регистар и централни регистар споменика културе, просторних културно-историјских целина, археолошких налазишта и знаменитих места (у даљем тексту: непокретна културна добра) и која се документација о овим културним добрима образује и чува уз регистар, као и начин на који се културна добра уписују у регистре.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Регистар непокретних културних добара (у даљем тексту: регистар) и централни регистар непокретних културних добара (у даљем тексту: централни регистар) воде се по врстама непокретних културних добара, и то за: споменике културе, просторне културно-историјске целине, археолошка налазишта и знаменита места.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Регистар води завод за заштиту споменика културе који врши делатност заштите непокретних културних добара на територији на којој се налази непокретно културно добро које се уписије у регистар.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Централни регистар непокретних културних добара по врстама води Републички завод за заштиту споменика културе у Београду.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Регистар и централни регистар воде се на обрасцу 0-1 величине 30х40 центиметара у који се уписују следећи подаци: редни број, назив културног добра и сажет опис с основним одликама и стањем, место где се културно добро налази – општина, насељено место, адреса катастарске парцеле културног добра, границе заштићене околине с пописом катастарских парцела и укупна површина; датум уписа у регистар; датум уписа у централни регистар; основ за упис у регистар; број и датум службеног гласила којим се објављују акти којима се утврђује културно добро и утврђује да је културно добро од изузетног , односно од великог значаја, облик својине на културном добру; број и датум уписа забележбе у земљишне књиге надлежног суда; место за напомену и потпис овлашћеног лица које је извршило упис и печат установе заштите која води регистар.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Регистар се води у облику књиге чији су листови означени редним бројем, а укупан број страна оверен печатом установе заштите која води регистар.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Централни регистар се води на одвојеним листовима.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Културна добра уписују се у регистар по редним бројевима.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Подаци у регистар уписују се писаћом машином.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Централни регистар се води на основу пријаве коју установа заштите која води регистар доставља Републичком заводу за заштиту споменика културе у Београду, на обрасцу 0-2, величина 30х40 цм.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>У образац пријаве из става 1. овог члана уписују се следећи подаци: редни број регистра; назив културног добра и сажет опис са основним одликама и стањем; место где се културно добро налази – општина, насељено место, адреса катастарске парцеле културног добра, границе заштићене околине са пописом катастарских парцела и укупна површина; број и датум службеног гласила у коме је објављен акт о утврђивању културног добра; основ за упис у регистар; број и датум службеног гласила у коме је објављен акт којим је утврђено да је културно добро од изузетног, односно великог значаја; подаци у чијој се својини налази културно добро; број уписа у земљишне књиге надлежног суда; број досијеа; напомена; датум и потпис овлашћеног лица које је културно добро уписало у регистар и место и печат установе заштите која води регистар.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Културна добра се уписују у централни регистар, по редном броју.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Подаци у централни регистар уписују се писаћом машином.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Непокретна културна добра чију целину чине више објеката, односно покретне ствари у њима од посебног културног и историјског значаја, уписују се под једним редним бројем у регистар, односно централни регистар, с тим што се за све објекте, односно ствари наводи само назив и сажет опис с основним одликама.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Ако се у регистар и централни регистар подаци погрешно упишу, овлашћено лице које води регистар прецртаће их црвеним мастилом тако да остану јасни, а затим ће уписати тачне податке.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Брисање непокретног културног добра из регистра и централног регистра врши се тако да се црвеним мастилом дијагонално прецртају сви подаци. У рубрици „напомена&quot; црвеним мастилом се уписује број и датум доношења акта на основу кога се врши брисање културног добра из регистра уз навођење разлога због којих је извршено брисање (уништење, нестанак, крађа, односно губљење својства од посебног културног и историјског значаја, трајно изношење или извоз у иностранство и др.).*</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<heading>* „<ref id="ref3" href="/rs/act/95/37/srp@">Службени гласник РС”, број 37/95</ref></heading>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Исправке у регистру и централном регистру и брисање културног добра из регистра оверавају се потписом овлашћеног лица за вођење регистра и печатом установе заштите.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Уз регистар и централни регистар образује се и чува следећа документација:</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<subsection id="podod1">
+				<num>а</num>
+				<heading> Општа документација:</heading>
+				<content>
+					<point id="podod1-clan13-tac1">
+						<num>1)</num>
+						<content>
+							<p> акт о утврђивању културног добра и друга акта о стављању под заштиту,</p>
+						</content>
+					</point>
+					<point id="podod1-clan13-tac2">
+						<num>2)</num>
+						<content>
+							<p> извод из земљишне књиге надлежног суда да је извршена забележба;</p>
+						</content>
+					</point>
+					<point id="podod1-clan13-tac3">
+						<num>3)</num>
+						<content>
+							<p> акт о утврђивању културног добра од изузетног , односно од великог значаја;</p>
+						</content>
+					</point>
+				</content>
+			</subsection>
+			<subsection id="podod2">
+				<num>б</num>
+				<heading> Техничка документација:</heading>
+				<content>
+					<point id="podod2-clan13-tac1">
+						<num>1)</num>
+						<content>
+							<p> ситуациони план,</p>
+						</content>
+					</point>
+					<point id="podod2-clan13-tac2">
+						<num>2)</num>
+						<content>
+							<p> план основе,</p>
+						</content>
+					</point>
+					<point id="podod2-clan13-tac3">
+						<num>3)</num>
+						<content>
+							<p> пресеци,</p>
+						</content>
+					</point>
+					<point id="podod2-clan13-tac4">
+						<num>4)</num>
+						<content>
+							<p> други значајни детаљи;</p>
+						</content>
+					</point>
+				</content>
+			</subsection>
+			<subsection id="podod3">
+				<num>в</num>
+				<heading> Фото документација:</heading>
+				<content>
+					<point id="podod3-clan13-tac1">
+						<num>1)</num>
+						<content>
+							<p> снимак опшштег изгледа 18х24 цм,</p>
+						</content>
+					</point>
+					<point id="podod3-clan13-tac2">
+						<num>2)</num>
+						<content>
+							<p> снимци карактеристичних детаља 18х24 цм.</p>
+						</content>
+					</point>
+					<article id="podod3-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="podod3-clan14-stav1">
+								<content>
+									<p>Установа заштите која је извршила упис културног добра у регистар у року од 30 дана од дана уписа, доставља Републичком заводу за заштиту споменика културе испуњену пријаву за упис у регистар на обрасцу 0-2 и копију документације из <ref>члана 13. овог</ref> правилника.</p>
+								</content>
+							</clause>
+							<clause id="podod3-clan14-stav2">
+								<content>
+									<p>Републички завод за заштиту споменика културе извршиће упис културног добра у централни регистар у року од 15 дана од дана пријема пријаве из става 1. овог члана и о томе истовремено обавести установу заштите на основу чије пријаве је извршен упис у централни регистар.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod3-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="podod3-clan15-stav1">
+								<content>
+									<p>Регистар, централни регистар и документација која се води уз регистар, микрофилмује се и копира у два примерка.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod3-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="podod3-clan16-stav1">
+								<content>
+									<p>Обрасци 0-1 и 0-2 одштампани су уз овај правилник и чине његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod3-clan17">
+						<num>17.</num>
+						<content/>
+					</article>
+					<article id="podod3-clan18">
+						<num>18.</num>
+						<heading>Даном ступања на снагу овог правилника престаје да важи Правилник о подацима који се уписују у регистар, начину вођења регистра и централног регистра непокретних културних добара и о документацији о овим културним добрима („<ref id="ref4" href="/rs/act/90/22/srp@">Службени гласник РС”, број 22/90</ref>)</heading>
+						<content>
+							<clause id="podod3-clan18-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="podod3-clan18-stav2">
+								<content>
+									<p>Број 630-4181/95-02</p>
+								</content>
+							</clause>
+							<clause id="podod3-clan18-stav3">
+								<content>
+									<p>У Београду, 21. јуна 1995. године</p>
+								</content>
+							</clause>
+							<clause id="podod3-clan18-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="podod3-clan18-stav5">
+								<content>
+									<p>др Нада Поповић-Перишић, с.р.</p>
+								</content>
+							</clause>
+							<став id="podod3-clan18-stav6">
+								<img height="1100" id="Picture 2" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/56e968c0-92f8-4a41-8103-2a975ec4e630.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425375&amp;regactid=425375" width="800"/>
+								<content/>
+							</став>
+						</content>
+					</article>
+				</content>
+			</subsection>
+		</body>
+	</act>
+</akomaNtoso>

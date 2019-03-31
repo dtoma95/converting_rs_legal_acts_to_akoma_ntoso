@@ -1,0 +1,1177 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1998/25-7/main"/>
+					<FRBRuri value="/rs/act/1998/25-7"/>
+					<FRBRdate date="1998" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1998/25-7/srp@/main"/>
+					<FRBRuri value="/rs/act/1998/25-7/srp@"/>
+					<FRBRdate date="1998" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1998/25-7/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1998/25-7/srp@.akn"/>
+					<FRBRdate date="1998" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1998-5-22" name="службени лист срј" number="25" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правила" value="правила"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="4. Задруге" value="4. задруге"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1997-06-26" id="usvajanje"/>
+				<step date="1998-05-30" id="stupanje_na_snagu"/>
+				<step date="1998-05-30" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 85. став 1. тачка 1</ref>. Закона о задругама (“<ref id="ref1" href="/rs/act/96/41/srp@">Службени лист СРЈ”, бр. 41/96</ref> и 12/98), Скупштина Задруженог савеза Југославије доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОПШТА ПРАВИЛА</authority>
+			<title>Задружног савеза Југославије</title>
+			<date>„Службени лист СРЈ”, број 25 од 22. маја 1998.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОСНОВНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилима утврђује се примена задружних принципа: добровољности, солидарности, демократичности, економског учешћа, једнаког права управљања, самосталности, задружног обазовања и међузадружне сарадње, као и друга питања од значаја за рад и пословање земљорадничких задруга.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Ова правила и општи акти за њихово извршавање односе се на све земљорадничке задруге (у даљем тексту: задруга) и њихове савезе.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav2">
+								<content>
+									<p>Ова правила и општи акти за њихово извршавање сходно се примењују на друге врсте задруга, осим на омладинске и студентске и стамбене задруге и њихове савезе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Ради заштите законитости, традиције, угледа и интереса задругарства, задружни савез који врши задружну ревизију (у даљем тексту: ревизијски савез) има право и обавезу да предузме одговарајуће мере, укључујући и подношење захтева за покретање поступка ликвидације, брисања из судског регистра, ускраћивање пореских олакшица и предузимање других мера од стране надлежних инспекцијских и других органа, ако задруга у поступку задружне ревизије не отклони утврђене неправилности у оснивању и пословању.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla1-clan4-stav1">
+								<content>
+									<p>Задруга се оснива и послује са уделима задругара, стеченом и наслеђеном задружном имовином, као и другим приходима које задруга стиче својим пословањем.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan4-stav2">
+								<content>
+									<p>За пословање и рад задруга могу се користити средства домаћих и страних физичких и правних лица, која могу бити предмет заједничких улагања, што се уређује уговором задруге и улагача.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan4-stav3">
+								<content>
+									<p>Удео задругара уплаћује се приликом оснивања или приступања у задругу а у једнаком фиксном износу или у неновчаним средствима (земљиште, покретна и непокретна имовина, хартије од вредности и друго).</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan4-stav4">
+								<content>
+									<p>Ближи услови у вези са висином, роком и начином уплате удела утврђују се општим актом задруге на основу критеријума утврђених овим правилима и другим општим актима Задружног савеза Југославије (у даљем тексту: Савез).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla1-clan5-stav1">
+								<content>
+									<p>Ради остваривања социјалне функције задруге Савез предлаже надлежним органима доношење прописа и мера којима се утврђују олакшице и друге погодности за рад задруга и задругара.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan5-stav2">
+								<content>
+									<p>Задруга може користити олакшице и друге погодности у пословању, утврђене законом и другим приписима, ако послује у складу са Законом о задругама (у даљем тексту: Закон) и овим правилима.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ЗАДРУЖНИ ПРИНЦИПИ</heading>
+				<content>
+					<article id="gla2-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla2-clan6-stav1">
+								<content>
+									<p>Принцип добровољности заснива се на слободно изражној вољи при оснивању, приступању и иступању из задруге.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav2">
+								<content>
+									<p>Принцип добровољности подразумева и добровољно преузимање права и обавеза.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav3">
+								<content>
+									<p>Принцип добровољности не односи се на прописане и преузете обавезе задруге и задругара.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla2-clan7-stav1">
+								<content>
+									<p>Принцип солидарности заснива се на начелу узајамности и самопомоћи, као традиционалним вредностима задругарства.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav2">
+								<content>
+									<p>Задруга се нарочито придржава принципа солидарности приликом коришћења задружних фондова, као и у случајевима повреде на раду, теже болести, несреће у домаћинству, породици и сл.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>Принцип демократичности заснива се на томе да сва лица која испуњавају услове утврђене Законом, овим правилима и правилима задруге, могу под истим условима стећи статус задругара и имати иста права, без обзира на националну, верску, политичку и полну припадност.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav2">
+								<content>
+									<p>Задруге су демократске организације својих чланова, који активно учествују у утврђивању односа у задрузи и у доношењу и спровођењу одлука.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav3">
+								<content>
+									<p>Задруга је дужна да обезбеди потпуну једнакост и равноправност својих задругара на демократским начелима.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>Принцип економског учешћа заснива се на обезбеђењу права задругара да, на равноправним основама, стичу добит, односно вишак прихода над расходима за личне и заједничке потребе.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav2">
+								<content>
+									<p>Задруга стиче средства својим пословањем и радом задругара.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav3">
+								<content>
+									<p>Учешће задругара у расподели средстава мора бити сразмерно њиховом доприносу.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla2-clan10-stav1">
+								<content>
+									<p>Принцип једнаког права управљања заснива се на једнаком праву гласа свих задругара у управљању задругом.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav2">
+								<content>
+									<p>Принцип једнаког права управљања спроводи се непосредно или преко изабраних представника у органима задруге.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla2-clan11-stav1">
+								<content>
+									<p>Принцип самосталности заснива се на задружној аутономији по којој су задруге и задружни савези самосталне и независне организације у односу на политичке, верске и друге организације и органе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla2-clan12-stav1">
+								<content>
+									<p>Принцип задружног образовања заснива се на обавези задруге да, у границама могућности и стварних потреба, врши образовање, стручно усавршавање и информисање задругара и запослених у задрузи, на основу јединственог програма који утврђује и спроводи Савез.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla2-clan13-stav1">
+								<content>
+									<p>Принцип међузадружне сарадње заснива се на обавези задруге да сарађује са другим задругама.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan13-stav2">
+								<content>
+									<p>Савез координира међузадружну сарадњу и сарађује са другим задружним савезима у земљи и иностранству.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ПРИМЕНА ЗАДРУЖНИХ ПРИНЦИПА</heading>
+				<content>
+					<section id="gla3-od1">
+						<num>1.</num>
+						<heading> Оснивање и пословање задруге</heading>
+						<content>
+							<article id="gla3-od1-clan14">
+								<num>14.</num>
+								<content>
+									<clause id="gla3-od1-clan14-stav1">
+										<content>
+											<p>Задруга се оснива да би задругарима омогућила да својим радом и средствима остваре дипунска средства и за задовољење социјалних, културних, образовних и других личних и заједничких потреба.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od1-clan15">
+								<num>15.</num>
+								<content>
+									<clause id="gla3-od1-clan15-stav1">
+										<content>
+											<p>Задруга обезбеђује задругарима одговарајућу правну и социјалну сигурност за време радног ангажовања.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od1-clan15-stav2">
+										<content>
+											<p>Организованом производњом и радом преко задруге, задругари обезбеђују средства и већу сигурност, виши стандард, задружну солидарност и стицање знања потребних за одговрајућу производњу.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od1-clan16">
+								<num>16.</num>
+								<content>
+									<clause id="gla3-od1-clan16-stav1">
+										<content>
+											<p>Задругу могу основати физичка лица, у складу са Законом.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od1-clan16-stav2">
+										<content>
+											<p>Задругу не могу основати правна лица.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od1-clan16-stav3">
+										<content>
+											<p>Задругари који су стекли статус задругара као оснивачи задруге и задругари који су тај статус стакли после оснивања задруге имају иста права и обавезе.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od1-clan17">
+								<num>17.</num>
+								<content>
+									<clause id="gla3-od1-clan17-stav1">
+										<content>
+											<p>Средства за оснивање и почетак рада задруге обезбеђују оснивачи.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od1-clan17-stav2">
+										<content>
+											<p>На основу средстава уложених за оснивање и почетак рада задруге не могу се стицати друга права, осим права на повраћај валоризованог удела.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od1-clan18">
+								<num>18.</num>
+								<content>
+									<clause id="gla3-od1-clan18-stav1">
+										<content>
+											<p>Физичко или правно лице не може бити власник задруге.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od1-clan18-stav2">
+										<content>
+											<p>Средства задруге су у задружној својини.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od1-clan19">
+								<num>19.</num>
+								<content>
+									<clause id="gla3-od1-clan19-stav1">
+										<content>
+											<p>Савез пружа информације, стручну и другу помоћ при оснивању задруге, ради оснивања оптималног броја задруга, заштите и развоја задругарства.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od1-clan20">
+								<num>20.</num>
+								<content>
+									<clause id="gla3-od1-clan20-stav1">
+										<content>
+											<p>Задруга обезбеђује одговарајуће материјалне, организационе, просторне, кадровске и друге услове ради постизања веће продуктивности у производњи, промету и преради, доради и повећања стандарда задругара у складу са циљевима оснивања задруге и општим актом Савеза.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od1-clan21">
+								<num>21.</num>
+								<content>
+									<clause id="gla3-od1-clan21-stav1">
+										<content>
+											<p>Задруга је дужна да се упише у задружни регистар који води Савез.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od1-clan21-stav2">
+										<content>
+											<p>Савез из става 1. овог члана издаје потврду да је задруга уписана у задружни регистар.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od1-clan21-stav3">
+										<content>
+											<p>Потврду о упису у задружни регистар задруга доставља организацији која обавља послове платног промета уз захтев за отварање жиро-рачуна.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od1-clan22">
+								<num>22.</num>
+								<content>
+									<clause id="gla3-od1-clan22-stav1">
+										<content>
+											<p>Задруга може обављати послове са незадругарима и за незадругаре, ако је то у интересу задругара, с тим да број незадругара не може бити већи од укупног броја задругара.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od1-clan22-stav2">
+										<content>
+											<p>Послови из става 1. овог члана немају карактер заједничке производње у смислу прописа којима се уређују порези и доприноси.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</section>
+					<section id="gla3-od2">
+						<num>2.</num>
+						<heading> Услови и начин стицања статуса задругара</heading>
+						<content>
+							<article id="gla3-od2-clan23">
+								<num>23.</num>
+								<content>
+									<clause id="gla3-od2-clan23-stav1">
+										<content>
+											<p>Задругар може бити лице које испуњава услове прописане за оснивање те задруге.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan24">
+								<num>24.</num>
+								<content>
+									<clause id="gla3-od2-clan24-stav1">
+										<content>
+											<p>Уз захтев за стицање статуса задругара подносе се и докази о испуњењу услова.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan24-stav2">
+										<content>
+											<p>Подаци о доказима из става 1. овог члана уписују се у књигу задругара.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan25">
+								<num>25.</num>
+								<content>
+									<clause id="gla3-od2-clan25-stav1">
+										<content>
+											<p>Исто лице не може бити истовремено задругар у више општих задруга, осим када је друга задруга специјализована (житарска, воћарска, виноградарска, сточарска, пчеларска, домаће радиности и др.) ако је то утврђено задружним прописима и колективним уговором.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan26">
+								<num>26.</num>
+								<content>
+									<clause id="gla3-od2-clan26-stav1">
+										<content>
+											<p>Задруга води уредну евиденцију о задругарима, који чине:</p>
+											<point id="gla3-od2-clan26-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> захтев за пријем;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan26-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> одлуку о пријему;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan26-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> приступна пријава;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan26-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> књига задругара;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan26-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> подаци о исплати и други подаци о задругару.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan26-stav2">
+										<content>
+											<p>Облик и садржај образаца за стицање статуса задругара и начин вођења евиденције из става 1. овог члана утврђује Савез.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan26-stav3">
+										<content>
+											<p>Задруга може уносити и друге податке у евиденцију из става 1. овог члана.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan27">
+								<num>27.</num>
+								<content>
+									<clause id="gla3-od2-clan27-stav1">
+										<content>
+											<p>Супротно је задружним принципима и овим правилима:</p>
+											<point id="gla3-od2-clan27-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> условљавање задругара чланством у одређеној задрузи;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan27-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> преузимање задругара од стране друге задруге без њихове претходне сагласности, односно непоштовање принципа добровољности и поступка за стицање статуса задругара прописаног Законом, овим правилима и правилима задруге.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan28">
+								<num>28.</num>
+								<content>
+									<clause id="gla3-od2-clan28-stav1">
+										<content>
+											<p>Лица која су била запослена у задрузи не могу бити оснивачи друге опште или специјализоване задруге, нити заснивати радни однос у другој општој и истој специјализованој задрузи, у року од годину дана од дана престанка статуса запосленог у тој задрузи, осим у случају престанка рада задруге или ако скупштина задруге другачије не одлучи.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan29">
+								<num>29.</num>
+								<content>
+									<clause id="gla3-od2-clan29-stav1">
+										<content>
+											<p>Правилима задруге утврђују се права и обавезе задругара, у обиму који не може бити мањи од обима права и обавеза утврђених Законом и општим актом Савеза.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan29-stav2">
+										<content>
+											<p>Права и обавезе задругара не могу се преносити на друга лица, осим у случајевима утврђеним Законом.</p>
+											<тачка id="gla3-od2-clan29-stav2-tac3">
+												<num>3.</num>
+												<content>
+													<p> Предмет и начин пословања (делатност задруге)</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan30">
+								<num>30.</num>
+								<content>
+									<clause id="gla3-od2-clan30-stav1">
+										<content>
+											<p>Предмет пословања (делатност) задруге јесте организовање производње на газдинствима задругара, производња, прерада и продаје пољопривредно-прехрамбених и других производа, снабдевање задругара репродукционим материјалом, енергентима, средствима за производњу, деловима за пољопривредну механизацију и опрему и другом робом, вршење промета роба задругара и за задругаре, организовање штедно-кредитних послова, као и обављање других врста производње, промета роба и вршење услуга.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan30-stav2">
+										<content>
+											<p>Задруга може у одређеној мери поред ових делатности да врши и друге делатности, односно послове који служе делатности, а који се уобичајено врше уз ту делатност или доприносе потпунијем искоришћавању капацитета и материјала који се употребљавају за вршење делатности.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan31">
+								<num>31.</num>
+								<content>
+									<clause id="gla3-od2-clan31-stav1">
+										<content>
+											<p>Задруга послује са незадругарима у име и за рачун задругара, у своје име, а за рачун задругара или у своје име и за свој рачун.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan31-stav2">
+										<content>
+											<p>Услови и начин пословања задруге са задругарима и трећим лицима уређују се правилима задруге.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan32">
+								<num>32.</num>
+								<content>
+									<clause id="gla3-od2-clan32-stav1">
+										<content>
+											<p>Задругари међусобне односе регулишу правилима задруге.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan32-stav2">
+										<content>
+											<p>Односи између задруге и незадругара уређују се уговором.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan32-stav3">
+										<content>
+											<p>Извршавање обавеза задруге према задругарима у новцу или роби уређује се уговором.</p>
+											<тачка id="gla3-od2-clan32-stav3-tac4">
+												<num>4.</num>
+												<content>
+													<p> Приход задруге</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan33">
+								<num>33.</num>
+								<content>
+									<clause id="gla3-od2-clan33-stav1">
+										<content>
+											<p>Средства остварена заједничком производњом задругара чине приход задруге.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan33-stav2">
+										<content>
+											<p>Приход задруге чине и средства остварена у производњи на задружној економији, преради, доради и из других делатности.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan33-stav3">
+										<content>
+											<p>Средства из ст. 1. и 2. овог члана састоје се од:</p>
+											<point id="gla3-od2-clan33-stav3-tac1">
+												<num>1)</num>
+												<content>
+													<p> средстава која се исплаћују задругару за производе које је произвео на свом газдинству и средстава из пословања задруге остварених из осталих делатности;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan33-stav3-tac2">
+												<num>2)</num>
+												<content>
+													<p> средства за трошкове пословања и друге заједничке потребе;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan33-stav3-tac3">
+												<num>3)</num>
+												<content>
+													<p> средства за плаћање пореза, доприноса и других обавеза.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan33-stav4">
+										<content>
+											<p>Средства из тач. 1. до 3. став 3. овог члана немају карактер личних примања из радног односа нити карактер провизије, односно накнаде за извршене услуге на тржишту.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan34">
+								<num>34.</num>
+								<content>
+									<clause id="gla3-od2-clan34-stav1">
+										<content>
+											<p>Годишњим рачуном утврђују се стварни трошкови и део добити, односно вишак прихода над расходима који се уноси у обавезни резервни фонд, а по потреби и у друге фондове, у проценту утврђеном задружним правилима.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan35">
+								<num>35.</num>
+								<content>
+									<clause id="gla3-od2-clan35-stav1">
+										<content>
+											<p>Средства остварена радом и пословањем задруге су у задружној својини и она се не могу претварати у друге облике својијне.</p>
+											<тачка id="gla3-od2-clan35-stav1-tac5">
+												<num>5.</num>
+												<content>
+													<p> Управљање задругом</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan36">
+								<num>36.</num>
+								<content>
+									<clause id="gla3-od2-clan36-stav1">
+										<content>
+											<p>Задругом управљају задругари на принципу један задругар један глас.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan36-stav2">
+										<content>
+											<p>У скупштину и надзорни одбор задруге могу бити изабрани само задругари, а у управни одбор и један запослени, ако задруга има више од 50 запослених.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan36-stav3">
+										<content>
+											<p>Ако скупштину чине представници задругара, њихов број не може бити мањи од 21.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan36-stav4">
+										<content>
+											<p>Управни одбор има најмање пет чланова.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan36-stav5">
+										<content>
+											<p>Надзорни одбор има најмање три члана.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan36-stav6">
+										<content>
+											<p>Директор задруге мора бити у сталном радном односу и бира се на пет година са могућношћу поновног избора.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan36-stav7">
+										<content>
+											<p>Директор има овлашћење да потписује уговоре и врши друге правне радње, као и да заступа задругу.</p>
+											<тачка id="gla3-od2-clan36-stav7-tac6">
+												<num>6.</num>
+												<content>
+													<p> Задружна сарадња</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan37">
+								<num>37.</num>
+								<content>
+									<clause id="gla3-od2-clan37-stav1">
+										<content>
+											<p>Задруга је део задружног система који чини: задругар, задруга и задружни савез.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan37-stav2">
+										<content>
+											<p>Сваки део задружног система води рачуна о интересима система као целине.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan37-stav3">
+										<content>
+											<p>Задругар, поред личних интереса, води рачуна о интересу других задругара и задруге.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan37-stav4">
+										<content>
+											<p>Задруга послује у интересу задругара, уважавајући интересе других задруга са којима оснива задружни савез, на територијалном принципу, ради координације и задовољавања заједничких интереса на задружним принципима и начелима пословног морала.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan38">
+								<num>38.</num>
+								<content>
+									<clause id="gla3-od2-clan38-stav1">
+										<content>
+											<p>Супротно је задружним принципима, интересима задругарства и овим правилима да се на подручју једне територијалне јединице оснива више од једног задружног савеза.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan38-stav2">
+										<content>
+											<p>Задружни савез основан за одређену територијалну јединицу може, сагласно Закону и овим правилима, имати у свом називу ознаку те територијалне јединице и представљати задруге, само ако у свом чланству има више од половине задруга регистрованих на територији која је назначена у називу савеза.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan38-stav3">
+										<content>
+											<p>Савези основани на нижем нивоу територијалног организовања дужни су да сарађују и усаглашавају рад и деловање са савезом основаним на вишем нивоу територијалног организовања, ради обезбеђења јединственог система представљања, организовања, рада, стручног и другог информисања свих задруга.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan39">
+								<num>39.</num>
+								<content>
+									<clause id="gla3-od2-clan39-stav1">
+										<content>
+											<p>Задружни савез Југославије повезује, штити и заступа интересе свих земљорадничких задруга и других врста задруга на које се ова правила сходно примењују, пред надлежним државним и другим органима и врши јавна овлашћења утврђена Законом, ради обезбеђења јединства система задругарства и једнаких услова за рад и развој земљорадничких задруга и других врста задруга на која се ова правила сходно примењују.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan40">
+								<num>40.</num>
+								<content>
+									<clause id="gla3-od2-clan40-stav1">
+										<content>
+											<p>Савез основан на вишем нивоу територијалног организовања може, ради рационалнијег и економичнијег пословања, обављати стручне, информативне и друге послове за савезе основане на нижем нивоу територијалног организовања.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan41">
+								<num>41.</num>
+								<content>
+									<clause id="gla3-od2-clan41-stav1">
+										<content>
+											<p>Средства за рад Савеза обезбеђују чланице уплатом чланарине.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan41-stav2">
+										<content>
+											<p>Основицу за утврђивање чланарине којом чланице обезбеђују средства за рад Савеза чине остварене бруто зараде без умањења по основу ослобађања и олакшица.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan41-stav3">
+										<content>
+											<p>Чланице Савеза плаћају чланарину по стопи 0,60% од основице.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan41-stav4">
+										<content>
+											<p>Чланарина се уплаћује на жиро-рачун Савеза број: 40806-603-2-14104, с позивом на број 05-740000, на дан уплате пореза и доприноса на зараде.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan41-stav5">
+										<content>
+											<p>Задруге чланице Савеза које немају запослене, плаћају чланарину у паушалном износу у висини од 50% од просечне месечне нето зараде у привреди СРЈ, важећи на дан уплате. Уплата се врши одједном за целу годину.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan42">
+								<num>42.</num>
+								<content>
+									<clause id="gla3-od2-clan42-stav1">
+										<content>
+											<p>Средства за обављање задружне ревизије и вршење других јавних овлашћења од стране надлежног савеза, обезбеђују задруге уплатом задружног доприноса или на други начин, у складу са општим актом Савеза и јединственом методологијом, односно упутством.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan43">
+								<num>43.</num>
+								<content>
+									<clause id="gla3-od2-clan43-stav1">
+										<content>
+											<p>Супротан је задружним принципима и овим правилима сваки облик нелојалне конкуренције између задругара, запослених у задрузи, задруга и савеза.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan44">
+								<num>44.</num>
+								<content>
+									<clause id="gla3-od2-clan44-stav1">
+										<content>
+											<p>Задругари, запослени у задругама, задруге и савези дужни су да се у свом раду и међусобним односима придржавају Закона, ових правила и норми пословног морала, водећи рачуна да се другом не нанесе материјална штета, не наруши лични и колективни углед, те да се штити и уважава интерес свих у систему задругарства.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan45">
+								<num>45.</num>
+								<content>
+									<clause id="gla3-od2-clan45-stav1">
+										<content>
+											<p>Није у складу са задружним принципима и овим правилима да задругари, задруге и савези воде судске спорове и јавну полемику са својим члановима или међусобно, пре него што исцрпе све друге могућности да настали спор реше договором, путем задружне арбитраже, суда части и задружне ревизије.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan46">
+								<num>46.</num>
+								<content>
+									<clause id="gla3-od2-clan46-stav1">
+										<content>
+											<p>Задругари, запослени у задрузи, задруге и савези, дужни су да, одговорно и савесно, представљају и штите интересе задругара, задруге, савеза и задругарства у целини.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan47">
+								<num>47.</num>
+								<content>
+									<clause id="gla3-od2-clan47-stav1">
+										<content>
+											<p>Задруге и савези су дужни да предузму одговарајуће мере, ради спречавања појава којима се наноси штета и угрожава углед и интерес задругарства као целине.</p>
+											<тачка id="gla3-od2-clan47-stav1-tac7">
+												<num>7.</num>
+												<content>
+													<p> Задружна арбитража и Суд части</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan48">
+								<num>48.</num>
+								<content>
+									<clause id="gla3-od2-clan48-stav1">
+										<content>
+											<p>Задругари, задруге и савези стараће се да не дође до међусобних спорова.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan49">
+								<num>49.</num>
+								<content>
+									<clause id="gla3-od2-clan49-stav1">
+										<content>
+											<p>За решавање спорова у задрузи и савезима може се организовати арбитража, а у Савезу – Суд части.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan50">
+								<num>50.</num>
+								<content>
+									<clause id="gla3-od2-clan50-stav1">
+										<content>
+											<p>Арбитража у задрузи решава спорове између задругара и спорове између задругара и задруге.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan50-stav2">
+										<content>
+											<p>Арбитража решава спорове, ако је то предвиђено правилима задруге.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan50-stav3">
+										<content>
+											<p>Састав и организација арбитраже из става 1. овог члана, начин избора и поступак у стварима из надлежности арбитраже, утврђује се општим актом здруге.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan51">
+								<num>51.</num>
+								<content>
+									<clause id="gla3-od2-clan51-stav1">
+										<content>
+											<p>Арбитража у задружном савезу решава:</p>
+											<point id="gla3-od2-clan51-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> Спорове између задругара и задруге, ако се спор није могао решити у задрузи;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan51-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> спорове између задругара;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan51-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> спорове између задруге и савеза.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan51-stav2">
+										<content>
+											<p>Арбитража решава спорове ако је то предвиђено правилима Савеза.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan51-stav3">
+										<content>
+											<p>Надлежност, састав и организација арбитраже из става 1. овог члана, начин избора и поступак из надлежности арбитраже, утврђују се општим актом савеза.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan52">
+								<num>52.</num>
+								<content>
+									<clause id="gla3-od2-clan52-stav1">
+										<content>
+											<p>Суд части одлучује о повредама одредби ових правила, задружних принципа, о нелојалној конкуренцији, о повредама моралних норми пословања и о нарушавању интереса задружног система као целине.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan52-stav2">
+										<content>
+											<p>Суд части ослучује и о неизвршавању обавеза према Савезу. Надлежност, састав и организација Суда части, начин избора и поступак у стварима из његове надлежности, утврђују се општим актом Савеза.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan52-stav3">
+										<content>
+											<p>Суд части може изрећи:</p>
+											<point id="gla3-od2-clan52-stav3-tac1">
+												<num>1)</num>
+												<content>
+													<p> опомену;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan52-stav3-tac2">
+												<num>2)</num>
+												<content>
+													<p> јавну опомену;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan52-stav3-tac3">
+												<num>3)</num>
+												<content>
+													<p> опомену пред подношење пријаве за покретање поступка од стране надлежног инспекцијског или другог државног органа;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan52-stav3-tac4">
+												<num>4)</num>
+												<content>
+													<p> искључење из Савеза.</p>
+												</content>
+											</point>
+											<тачка id="gla3-od2-clan52-stav3-tac8">
+												<num>8.</num>
+												<content>
+													<p> Задружни регистар и задружна статистика</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan53">
+								<num>53.</num>
+								<content>
+									<clause id="gla3-od2-clan53-stav1">
+										<content>
+											<p>Задружни регистар и здружну статистику води Савез.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan54">
+								<num>54.</num>
+								<content>
+									<clause id="gla3-od2-clan54-stav1">
+										<content>
+											<p>Све задруге и савези обавезни су да, по методологији и роковима које утврди Савез, благовремено достављају тачне и потпуне податке од значаја за вођење задружног регистра и задружне статистике.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan54-stav2">
+										<content>
+											<p>Подаци које задруга означи пословном тајном, не могу се давати трећим лицима без сагласности задруге.</p>
+											<тачка id="gla3-od2-clan54-stav2-tac9">
+												<num>9.</num>
+												<content>
+													<p> Задружна ревизија</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan55">
+								<num>55.</num>
+								<content>
+									<clause id="gla3-od2-clan55-stav1">
+										<content>
+											<p>Задружни савез Југославије обезбеђује обављање задружне ревизије на начин утврђен Законом и правилима о задружној ревизији.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan55-stav2">
+										<content>
+											<p>Задружна ревизија је обавезна за све задруге.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan56">
+								<num>56.</num>
+								<content>
+									<clause id="gla3-od2-clan56-stav1">
+										<content>
+											<p>Задруге и задружни савези су дужни да обезбеде средства, податке, документа и друге услове за вршење задружне ревизије.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan57">
+								<num>57.</num>
+								<content>
+									<clause id="gla3-od2-clan57-stav1">
+										<content>
+											<p>Ревизијски савез је дужан да поднесе пријаву надлежном органу за покретање поступка ако, на основу извештаја о задружној ревизији, оцени да је учињено:</p>
+											<point id="gla3-od2-clan57-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> кривично дело;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan57-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> привредни преступ;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan57-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> прекршај.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ПРЕЛАЗНЕ И ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla4-clan58">
+						<num>58.</num>
+						<content>
+							<clause id="gla4-clan58-stav1">
+								<content>
+									<p>Председник Савеза стара се о спровођењу ових правила и даје одговарајућа упутства и стручна мишљења.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan59">
+						<num>59.</num>
+						<content>
+							<clause id="gla4-clan59-stav1">
+								<content>
+									<p>Постојеће задруге су дужне да усагласе своју организацију, пословање и опште акте са овим правилима.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan60">
+						<num>60.</num>
+						<content>
+							<clause id="gla4-clan60-stav1">
+								<content>
+									<p>Постојеће задруге су дужне да потврду о упису у задружни регистар доставе организацији која обавља послове платног промета у року од пет месеци од дана ступања на снагу ових правила.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan61">
+						<num>61.</num>
+						<content>
+							<clause id="gla4-clan61-stav1">
+								<content>
+									<p>Ова правила ступају на снагу осмог дана од дана објављивања у “Службеном листу СРЈ”.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan61-stav2">
+								<content>
+									<p>Бр. 26000/1</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<section id="gla4-od26">
+						<num>26.</num>
+						<heading> јуна 1997. године</heading>
+						<content>
+							<clause id="gla4-od26-clan61-stav1">
+								<content>
+									<p>Београд</p>
+								</content>
+							</clause>
+							<clause id="gla4-od26-clan61-stav2">
+								<content>
+									<p>Председник</p>
+								</content>
+							</clause>
+							<clause id="gla4-od26-clan61-stav3">
+								<content>
+									<p>Предраг Думановић,  с. р.</p>
+								</content>
+							</clause>
+							<clause id="gla4-od26-clan61-stav4">
+								<content>
+									<p>Председник Скупштине</p>
+								</content>
+							</clause>
+							<clause id="gla4-od26-clan61-stav5">
+								<content>
+									<p>Милан Кузмановић,  с. р.</p>
+								</content>
+							</clause>
+						</content>
+					</section>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

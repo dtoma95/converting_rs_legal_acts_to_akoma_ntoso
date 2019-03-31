@@ -1,0 +1,274 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2011/16-40/main"/>
+					<FRBRuri value="/rs/act/2011/16-40"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/16-40/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/16-40/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/16-40/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/16-40/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2011-3-11" name="службени гласник рс" number="16" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="VI СВОЈИНСКИ И ОБЛИГАЦИОНИ, ПОРОДИЧНИ И БРАЧНИ ОДНОСИ" value="vi својински и облигациони, породични и брачни односи"/>
+				<keyword id="grupa" showAs="8. Задужбине, фондације и фондови" value="8. задужбине, фондације и фондови"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-03-04" id="usvajanje"/>
+				<step date="2011-03-12" id="stupanje_na_snagu"/>
+				<step date="2011-03-12" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 57. став 4. </ref>Закона о задужбинама и фондацијама („<ref id="ref2" href="/rs/act/10/88/srp@">Службени гласник РС”, број 88/10</ref>),</p>
+			<p>Министар културе доноси</p>
+		</preamble>
+		<preface>
+			<title>ПРАВИЛНИК</title>
+			<authority>о садржини и начину вођења Регистра представништава страних задужбина и фондација</authority>
+			<title>&quot;Службени гласник РС&quot;,      број 16 од 11. марта 2011.</title>
+			<date>Садржина Правилника</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником уређује се садржина и начин вођења Регистра представништава страних задужбина и фондација (у даљем тексту: Регистар).</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Регистар се води као јединствена, централна, јавна електронска база података о представништвима страних задужбина и фондација које обављају своју делатност на територији Републике Србије.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav3">
+						<content>
+							<p>У Регистар се уписују подаци о представништвима страних задужбина и фондација, промене уписаних података као и брисање представништва стране задужбине и фондације из Регистра.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>Подаци који се уписују у Регистар</heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>У Регистар се уписују подаци о представништвима страних задужбина и фондација, и то:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив стране задужбине и фондације;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> циљеви стране задужбине и фондације;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> седиште и адреса стране задужбине и фондације;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> назив, седиште и адреса представништва стране задужбине и фондације у Републици Србији и његових огранака, ако има огранке;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> име лица овлашћеног за заступање стране задужбине и фондације у Републици Србији;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> број и датум решења о упису у Регистар представништава страних задужбина и фондација;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> број и датум решења о брисању из Регистра представништава страних задужбина и фондација;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> матични број и порески идентификациони број (ПИБ) представништва стране задужбине, односно фондације.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>Упис у Регистар</heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Упис представништва стране задужбине и фондације у Регистар врши се на основу поднете пријаве за упис, прописане документације која мора бити у оригиналу или овереној фотокопији и доказа о уплати накнаде за упис у Регистар.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Подаци о матичном броју и пореском идентификационом броју (ПИБ) представништва стране задужбине и фондације уписују се у Регистар по службеној дужности, на основу одлуке надлежног органа за доделу матичног броја, односно пореског идентификационог броја.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>Документација за упис</heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Уз пријаву за упис представништва стране задужбине и фондације у Регистар подноси се:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> оверен превод акта о регистрацији задужбине и фондације у матичној држави или потврда (изјава) оверена од стране суда или јавног бележника да задужбина или фондација има својство правног лица и без уписа у одговарајући регистар;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> оверен превод одлуке надлежног органа стране задужбине и фондације о отварању представништва и лицу овлашћеном за заступање представништва у Републици Србији;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> оверен превод извода из оснивачког акта или статута из којег су видљиви циљеви стране задужбине и фондације;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> фотокопија личне карте или пасоша лица овлашћеног за заступање представништва у Републици Србији;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> доказ о уплати таксе за доделу матичног броја;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> доказ о уплати накнаде за упис у Регистар.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<heading>Упис промене података</heading>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Уз пријаву за упис промене података у Регистар подноси се:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> оверен превод одлуке надлежног органа стране задужбине и фондације о промени података;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> доказ о уплати накнаде за упис промене података у Регистар.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<heading>Брисање</heading>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Уз пријаву за брисање из Регистра подносе се:</p>
+							<point id="clan6-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> докази на основу којих се утврђују чињенице из <ref>члана 60. </ref>Закона о задужбинама и фондацијама;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> доказ о уплати накнаде за брисање из Регистра.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<heading>Ступање на снагу</heading>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Број 110-00-4/2011-07</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>У Београду, 4. марта 2011. године</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav5">
+						<content>
+							<p>Небојша Брадић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

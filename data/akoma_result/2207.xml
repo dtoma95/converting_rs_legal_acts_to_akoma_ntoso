@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1980/51-1590/main"/>
+					<FRBRuri value="/rs/act/1980/51-1590"/>
+					<FRBRdate date="1980" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1980/51-1590/srp@/main"/>
+					<FRBRuri value="/rs/act/1980/51-1590/srp@"/>
+					<FRBRdate date="1980" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1980/51-1590/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1980/51-1590/srp@.akn"/>
+					<FRBRdate date="1980" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1980-9-12" name="службени лист сфрј" number="51" showAs="Службени лист СФРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Наредба" value="наредба"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="3. Војна опрема, наоружање и роба двоструке намене" value="3. војна опрема, наоружање и роба двоструке намене"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1980-09-08" id="usvajanje"/>
+				<step date="1980-09-20" id="stupanje_na_snagu"/>
+				<step date="1980-09-20" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 91. тачка 2</ref>. Закона о производњи наоружања и војне опреме („<ref id="ref2" href="/rs/act/79/30/srp@">Службени лист СФРЈ“, бр. 30/79</ref>), савезни секретар за народну одбрану издаје</p>
+		</preamble>
+		<preface>
+			<authority>НАРЕДБУ</authority>
+			<title>о одређивању средстава која се сматрају наоружањем и војном опремом</title>
+			<date>„Службени лист СФРЈ”, број 51 од 12.  септембра 1980.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Као средства наоружања и војне опреме, у смислу <ref>члана 5. </ref>Закона о производњи наоружања и војне опреме, сматрају се:</heading>
+				<content>
+					<point id="od1-tac1">
+						<num>1)</num>
+						<content>
+							<p> све врсте оружја и оруђа (хладно оружје, пиштољи, пушке, аутомати, митраљези, ручни бацачи, минобацачи, топови, хаубице и др.), осим ловачког и спортског оружја;</p>
+						</content>
+					</point>
+					<point id="od1-tac2">
+						<num>2)</num>
+						<content>
+							<p> све врсте авиона, хеликоптера, једрилица и лебделица и њихова опрема, падобрани и падобранска десантна опрема, који су намењени за војне потребе;</p>
+						</content>
+					</point>
+					<point id="od1-tac3">
+						<num>3)</num>
+						<content>
+							<p> све врсте ратних бродова и других борбених пловних објеката, бродови помоћне намене и њихова специфична опрема намењена за војне потребе;</p>
+						</content>
+					</point>
+					<point id="od1-tac4">
+						<num>4)</num>
+						<content>
+							<p> средства веза, криптозаштите, противелектронског обезбеђења, радио и радио-техничког извиђања (командовања) и безбедности, која су намењена за војне потребе;</p>
+						</content>
+					</point>
+					<point id="od1-tac5">
+						<num>5)</num>
+						<content>
+							<p> све врсте возила која су намењена за војне потребе (борбена, неборбена и друга специјална моторна возила), осим путничких;</p>
+						</content>
+					</point>
+					<point id="od1-tac6">
+						<num>6)</num>
+						<content>
+							<p> висећи, монтажни и лансирани мостови, понтонски паркови и пловни објекти и извиђачки и десантни чамци, који су намењени за војне потребе;</p>
+						</content>
+					</point>
+					<point id="od1-tac7">
+						<num>7)</num>
+						<content>
+							<p> муниција и њени елементи за све врсте оружја и оруђа из тачке 1. одредба под 1 ове наредбе, осим муниције за ловачко и спортско оружје;</p>
+						</content>
+					</point>
+					<point id="od1-tac8">
+						<num>8)</num>
+						<content>
+							<p> све врсте ракета и уређаја за лансирање и навођење, осим за одбрану од града и за ватромет;</p>
+						</content>
+					</point>
+					<point id="od1-tac9">
+						<num>9)</num>
+						<content>
+							<p> све врсте бомби, торпеда, мина и распрскавајућих средстава;</p>
+						</content>
+					</point>
+					<point id="od1-tac10">
+						<num>10)</num>
+						<content>
+							<p> барут, све врсте експлозива и запаљива, димна и осветљавајућа средства, осим ловачког барута и привредног експлозива,</p>
+						</content>
+					</point>
+					<point id="od1-tac11">
+						<num>11)</num>
+						<content>
+							<p> опрема и средства за минирање и разминирање, маскирање и камуфлажу, која су намењена за војне потребе;</p>
+						</content>
+					</point>
+					<point id="od1-tac12">
+						<num>12)</num>
+						<content>
+							<p> уређаји и инструменти за ваздушно, површинско и подводно осматрање, идентификацију и легитимисање, за оријентацију и навигацију, за управљање и вођење, радари, инфрацрвени уређаји, ласери и нишанске справе, који су конструисани и произведени за војне потребе;</p>
+						</content>
+					</point>
+					<point id="od1-tac13">
+						<num>13)</num>
+						<content>
+							<p> средства за противнуклеарну, противхемијску и противбиолошку заштиту, средства за детекцију, дозиметрију и идентификацију и средства и материје за деконтаминацију, која су намењена за војне потребе;</p>
+						</content>
+					</point>
+					<point id="od1-tac14">
+						<num>14)</num>
+						<content>
+							<p> специјални алати и амбалажа за транспорт и чување средстава из тачке 1. одредбе под 1 до 13 ове наредбе;</p>
+						</content>
+					</point>
+					<point id="od1-tac15">
+						<num>15)</num>
+						<content>
+							<p> технолошка, ремонта и експлоатациона документација за средства из тачке 1. одредбе под 1 до 14 ове наредбе;</p>
+						</content>
+					</point>
+					<point id="od1-tac16">
+						<num>16)</num>
+						<content>
+							<p> материјална права на технологију (право на патент, право на индустријски узорак или модел, право на заштитни знак, право на техничку и технолошку документацију и право на знање и искуство);</p>
+						</content>
+					</point>
+					<point id="od1-tac17">
+						<num>17)</num>
+						<content>
+							<p> све врсте друге опреме која је произведена по стандарду народне одбране.</p>
+						</content>
+					</point>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Ова наредба ступа на снагу осмог дана од дана објављивања у „Службеним листу СФРЈ”.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>Бр. 26</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od8">
+				<num>8.</num>
+				<heading> септембра 1980. године</heading>
+				<content>
+					<clause id="od8-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od8-stav2">
+						<content>
+							<p>Савезни секретар</p>
+						</content>
+					</clause>
+					<clause id="od8-stav3">
+						<content>
+							<p>за народну одбрану</p>
+						</content>
+					</clause>
+					<clause id="od8-stav4">
+						<content>
+							<p>генерал армије,</p>
+						</content>
+					</clause>
+					<clause id="od8-stav5">
+						<content>
+							<p>Никола Љубичић, с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

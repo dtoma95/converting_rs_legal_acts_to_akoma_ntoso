@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2018/69-34/main"/>
+					<FRBRuri value="/rs/act/2018/69-34"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/69-34/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/69-34/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/69-34/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/69-34/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2018-9-14" name="службени гласник рс" number="69" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Индекс" value="индекс"/>
+				<keyword id="oblast" showAs="XII ГРАЂЕВИНАРСТВО, ГРАЂЕВИНСКО ЗЕМЉИШТЕ И КОМУНАЛНОСТАМБЕНЕ ДЕЛАТНОСТИ" value="xii грађевинарство, грађевинско земљиште и комуналностамбене делатности"/>
+				<keyword id="grupa" showAs="3. Становање и одржавање стамбених зграда" value="3. становање и одржавање стамбених зграда"/>
+			</classification>
+		</meta>
+		<body/>
+	</act>
+</akomaNtoso>

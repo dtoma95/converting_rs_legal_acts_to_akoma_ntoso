@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1986/9-211/main"/>
+					<FRBRuri value="/rs/act/1986/9-211"/>
+					<FRBRdate date="1986" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1986/34-1053/srp@/main"/>
+					<FRBRuri value="/rs/act/1986/34-1053/srp@"/>
+					<FRBRdate date="1986" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1986/34-1053/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1986/34-1053/srp@.akn"/>
+					<FRBRdate date="1986" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1986-2-28" name="службени лист сфрј" number="9" showAs="Службени лист СФРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="14. Заштита од зрачења и нуклеарна сигурност" value="14. заштита од зрачења и нуклеарна сигурност"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1985-12-12" id="usvajanje"/>
+				<step date="1986-03-08" id="stupanje_na_snagu"/>
+				<step date="1986-03-08" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="9/1986-211" id="e1" type="generation"/>
+				<eventRef date="34/1986-1053" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 37. став 2. </ref>Закона о заштити од јонизујућих зрачења и о посебним мерама сигурности при коришћењу нуклеарне енергије (“<ref id="ref1" href="/rs/act/84/62/srp@">Службени лист СФРЈ”, бр. 62/84</ref>), Савезно извршно веће доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>О ПРИМЕНИ СТРАНИХ СТАНДАРДА ПРИ ИСПИТИВАЊУ ЕФИКАСНОСТИ ЗАДРЖАВАЊА МОЛЕКУСКОГ И ОРГАНСКОГ ЈОДА НА ИНПРЕГНИСАНОМ АКТИВНОМ УГЉУ ЗА ФИЛТРЕ СПЕЦИЈАЛНЕ НАМЕНЕ</title>
+			<date>„Службени лист СФРЈ”, бр. 9 од 28.   фебруара 1986, 34 од 24   јуна 1986.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> При испитивању ефикасности задржавања молекулског и органског јода на импрегнисаном активном угљу за филтре за специјалне намене, до доношења одговарајућих прописа о југословенским стандардима примењују се стандарди Сједињених Америчких Држава, и то:</heading>
+				<content>
+					<point id="od1-tac1">
+						<num>1)</num>
+						<content>
+							<p> Стандард ASTM D 3803–1979;</p>
+						</content>
+					</point>
+					<point id="od1-tac2">
+						<num>2)</num>
+						<content>
+							<p> Стандард ANSI/AMSE N 509–1980;</p>
+						</content>
+					</point>
+					<point id="od1-tac3">
+						<num>3)</num>
+						<content>
+							<p> Стандард ANSI/AMSE N 510–1980.</p>
+						</content>
+					</point>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading>    Брисана (види тачку 1. Одлуке – 34/86 – 1053).</heading>
+				<content/>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Ова одлука ступа на снагу осмог дана од дана објављивања у “Службеном листу СФРЈ”.</heading>
+				<content>
+					<clause id="od3-stav1">
+						<content>
+							<p>Е. п . бр. 533</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od12">
+				<num>12.</num>
+				<heading> децембра 1985. године</heading>
+				<content>
+					<clause id="od12-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od12-stav2">
+						<content>
+							<p>Савезно извршно веће</p>
+						</content>
+					</clause>
+					<clause id="od12-stav3">
+						<content>
+							<p>Председник,</p>
+						</content>
+					</clause>
+					<clause id="od12-stav4">
+						<content>
+							<p>Милка Планинц, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,183 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2011/46-69/main"/>
+					<FRBRuri value="/rs/act/2011/46-69"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/46-69/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/46-69/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/46-69/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/46-69/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2011-6-24" name="службени гласник рс" number="46" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="5. Шуме и шумско земљиште" value="5. шуме и шумско земљиште"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-06-06" id="usvajanje"/>
+				<step date="2011-07-02" id="stupanje_na_snagu"/>
+				<step date="2011-07-02" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 56. став 4. </ref>Закона о шумама („<ref id="ref1" href="/rs/act/10/30/srp@">Службени гласник РС”, број 30/10</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, трговине, шумарства и водопривреде доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о билансу шумског репродуктивног материјала</title>
+			<date>&quot;Службени гласник РС&quot;, број 46 од 24. јуна   2011.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником ближе се прописује садржина, начин вођења и израде биланса шумског репродуктивног материјала (у даљем тексту: Биланс).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Биланс садржи:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> врсте шумског дрвећа које се користе или ће се користити за подизање и обнављање шума у Републици Србији (у даљем тексту: шумско дрвеће) у периоду од наредних пет година, a које се утврђују на основу података из планских докумената газдовања шумама, као и других планских докумената којима се прописује подизање и обнављање шума;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> количине семена шумског дрвећа које се налазе на залихама код регистрованих добављача шумског репродуктивног материјала, приказане по години производње, категорији и објекту производње, а које се утврђују на основу обавештења које добављачи шумског семена достављају министарству надлежном за послове шумарства (у даљем тексту: Министарство) у складу са законом којим се уређује репродуктивни материјал шумског дрвећа, као и на основу записника надлежног шумарског инспектора;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> количине садног материјала шумског дрвећа које се налазе у производњи, приказане по старости, категорији и начину производње, а које се утврђују на основу записника о контроли производње и обавештења које произвођачи и увозници репродуктивног материјала достављају Министарству у складу са законом којим се којим се уређује репродуктивни материјал шумског дрвећа;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> количине шумског семена и шумског садног материјала потребне за подизање и обнављање шума у Републици Србији у периоду од пет година које се утврђују у односу на врсте шумског дрвећа, категорије репродуктивног материјала и регионе провенијенције, а на основу података из:</p>
+									<item id="clan2-stav1-tac4-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> програма развоја шумарства на територији Републике Србије и аутономне покрајине,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> планова развоја шумских подручја, односно националних паркова,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> основа газдовања шумама,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> пољопривредних основа и годишњих програма заштите, уређења и коришћења пољопривредног земљишта,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> других планских докумената којима се прописује подизање шума.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Ради утврђивања количина из става 1. тачка 3) овог члана, предузеће или друго правно лице коме су поверени стручни послови контроле производње доставља Министарству, у електронском облику, записник о извршеној контроли производње у складу са законом којим се уређује репродуктивни материјал шумског дрвећа.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Биланс се израђује на основу упоредних показатеља производње и залиха шумског репродуктивног материјала и петогодишњих потреба за шумским репродуктивном материјалом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Биланс се води у електронском облику и објављује се на интернет страници Министарства до 31. децембра текуће године за период од наредних пет година.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Број 110-00-15/2011-09</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>У Београду, 6. јуна 2011. године</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav5">
+						<content>
+							<p>Душан Петровић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,249 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1990/42-1269/main"/>
+					<FRBRuri value="/rs/act/1990/42-1269"/>
+					<FRBRdate date="1990" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1992/49-922/srp@/main"/>
+					<FRBRuri value="/rs/act/1992/49-922/srp@"/>
+					<FRBRdate date="1992" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1992/49-922/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1992/49-922/srp@.akn"/>
+					<FRBRdate date="1992" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1990-7-27" name="службени лист сфрј" number="42" showAs="Службени лист СФРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="6. Слободне зоне" value="6. слободне зоне"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1990-05-22" id="usvajanje"/>
+				<step date="1990-07-28" id="stupanje_na_snagu"/>
+				<step date="1990-07-28" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="42/1990-1269" id="e1" type="generation"/>
+				<eventRef date="49/1992-922" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Престале су да важе одредбе Правилника које се односе на царинске зоне (види <ref>члан 10. </ref>Уредбе – СРЈ 49/1992-922).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>Редакцијски   пречишћен   текст</p>
+		</preamble>
+		<preface>
+			<authority>На основу <ref>члана 11. став 2. </ref>и <ref>члана 27. став 2 </ref>Закона о слободним царинским зонама („<ref id="ref4" href="/rs/act/90/3/srp@">Службени лист СФРЈ“, бр. 3/90</ref>), директор Савезне управе царина доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>О МЕРАМА ЦАРИНСКОГ НАДЗОРА И О НАЧИНУ ВОЂЕЊА ЕВИДЕНЦИЈЕ У СЛОБОДНИМ И ЦАРИНСКИМ ЗОНАМА*</title>
+			<date>„Службени лист СФРЈ”, број 42 од 27. јула 1990, „Службени лист СРЈ”, број 49 од 11. децембра 1992.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се мере царинског надзора и начин вођења евиденције о роби која се увози, извози и смешта у слободну и царинску зону.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Ради обезбеђења царинског надзора, подручје слободне, односно царинске зоне или део слободне, односно царинске зоне, ако се слободна, односно царинска зона састоји од више делова, морају бити, сагласно чл. 10. и 19. Закона о слободним и царинским зонама, ограђени, обележени и уређени тако да се обезбеде сви услови за спровођење мера царинског надзора на целом подручју тих зона.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Ограда слободне, односно царинске зоне, односно делова тих зона мора бити урађена тако да се роба која се увози, извози или смешта у слободну, односно царинску зону може уносити, односно износити само кроз за то одређен улаз, односно излаз.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Слободна, односно царинска зона мора бити видно обележена и означена као слободна, односно царинска зона и то како на улазу у зону, односно излазу из зоне, тако и са морске, односно речне стране.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Ограда и улаз у слободну, односно царинску зону, односно излаз из њих морају бити ноћу осветљени.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Земљиште на коме се налази слободна, односно царинска зона мора бити очишћено и поравнато.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Роба која се увози, извози, провози и смешта у слободну, односно царинску зону, осим извозно оцарињене робе, пријављује се царинарници пријавом за увоз и провоз робе или изјавом о терету, уз коју се прилажу исправе по којима је роба допремљена у слободну, односно царинску зону.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Извозно оцарињена роба пријављује се царинарници, ради смештаја у слободну, односно царинску зону, по извозној царинској декларацији.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Као исправа по којој се роба пријављује царинарници може се прихватити и налог за смештај робе у слободну, односно царинску зону, ако садржи све податке из пријаве за увоз и провоз робе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Царински надзор на подручју слободне, односно царинске зоне, састоји се од контроле врсте и количине робе која се увози, провози или смешта у слободну, односно царинску зону и од контроле података и стања евиденције корисника, односно оснивача слободне, односно царинске зоне и од проверавања стања робе и поређења тог стања са стањем наведеним у исправама које прате робу и евиденцији.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Евиденција о пословању у слободној, односно царинској зони води се на основу картотеке. Картотека се води тако да се за сваку врсту робе води посебна картица у којој се књижење врши хронолошки, на основу података из исправа које прате робу. На картицама се назначава веза са одговарајућим исправама.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Царинарница оверава картице и води њихов регистар.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>Евиденција се раздужује уношењем података о роби из увозне, односно извозне царинске декларације, пропратнице, одлазећег манифеста или друге одговарајуће царинске исправе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Картица из <ref>члана 10. овог</ref> правилника мора да садржи: назив корисника слободне зоне, односно назив оснивача, односно корисника царинске зоне, податке о врсти и количини робе, број исправе на основу које је роба пријављена у слободну, односно царинску зону, као и друге податке неопходне за евиденцију о роби.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>На картицама се мора назначити намена робе (увозна, извозна, провозна или домаћа роба која се смешта у слободну, односно царинску зону), које морају бити одвојене по намени робе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Ако се мења намена робе, корисник слободне, односно оснивач царинске зоне доставља царинарници примерак налога на основу кога се мења намена робе, односно исправе на основу којих се мења корисник робе, и то у року од 48 часова од добијања налога, односно исправа.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan14">
+				<num>14.</num>
+				<content>
+					<clause id="clan14-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу наредног дана од дана објављивања у „Службеном листу СФРЈ”.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav2">
+						<content>
+							<p>01/05 број Д-4765/1</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<section id="od22">
+				<num>22.</num>
+				<heading> маја 1990. године</heading>
+				<content>
+					<clause id="od22-clan14-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od22-clan14-stav2">
+						<content>
+							<p>Вд директора</p>
+						</content>
+					</clause>
+					<clause id="od22-clan14-stav3">
+						<content>
+							<p>Савезне управе царина,</p>
+						</content>
+					</clause>
+					<clause id="od22-clan14-stav4">
+						<content>
+							<p>Звонко Пошчић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

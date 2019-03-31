@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2005/18-25/main"/>
+					<FRBRuri value="/rs/act/2005/18-25"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2005/18-25/srp@/main"/>
+					<FRBRuri value="/rs/act/2005/18-25/srp@"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2005/18-25/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2005/18-25/srp@.akn"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2005-2-24" name="службени гласник рс" number="18" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Закон" value="закон"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="1. Привредна друштва, предузећа и предузетници" value="1. привредна друштва, предузећа и предузетници"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2005-02-17" id="usvajanje"/>
+				<step date="2005-07-01" id="stupanje_na_snagu"/>
+				<step date="2005-07-01" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Закон је ступио на снагу 1. јула 2005. године (види <ref>члан 3. </ref>Закона).</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<title>ЗАКОН</title>
+			<title>о  престанку важења Закона о оснивању Јавног предузећа за ваздушни саобраћај</title>
+			<date>„Службени гласник РС”, број  18 од 24. фебруара 2005.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Даном ступања на снагу овог закона престаје да важи Закон о оснивању Јавног предузећа за ваздушни саобраћај („<ref id="ref1" href="/rs/act/92/9/srp@">Службени гласник РС”, број 9/92</ref>).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Даном почетка рада Јавно предузеће за ваздушни саобраћај „ЈАТ  AIRWАYS” преузима права, обавезе, средства, запослене, документацију и предмете у вршењу јавних овлашћења Јавног предузећа „ЈУГОСЛОВЕНСКИ АЕРОТРАНСПОРТ” и оснивачка права и обавезе тог предузећа у предузећима чији је оснивач, осим оснивачких права и обавеза тог предузећа у Јавном предузећу Аеродром „Београд”, основаног Одлуком Управног одбора Јавног предузећа „ЈУГОСЛОВЕНСКИ АЕРОТРАНСПОРТ”, број 01 од 13. марта 1992. године.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Даном уписа у одговарајући регистар Јавног предузећа за ваздушни саобраћај „ЈАТ АIRWАYS” престаје са радом Јавно предузеће „ЈУГОСЛОВЕНСКИ АЕРОТРАНСПОРТ”.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Овај закон ступа на снагу 1. јула 2005. године.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

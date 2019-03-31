@@ -1,0 +1,927 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2015/19-16/main"/>
+					<FRBRuri value="/rs/act/2015/19-16"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2017/71-37/srp@/main"/>
+					<FRBRuri value="/rs/act/2017/71-37/srp@"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2017/71-37/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2017/71-37/srp@.akn"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2015-2-20" name="службени гласник рс" number="19" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="14. Детективска делатност и приватно обезбеђење" value="14. детективска делатност и приватно обезбеђење"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2015-02-18" id="usvajanje"/>
+				<step date="2015-02-28" id="stupanje_na_snagu"/>
+				<step date="2015-02-28" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="19/2015-16" id="e1" type="generation"/>
+				<eventRef date="71/2017-37" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу <ref>члана 33. став 2. </ref>Закона о приватном обезбеђењу („<ref id="ref10" href="/rs/act/13/104/srp@">Службени гласник РС”, број 104/13</ref>),</p>
+			<p>Министар унутрашњих послова доноси</p>
+		</preamble>
+		<preface>
+			<title>ПРАВИЛНИК</title>
+			<authority>о начину вршења послова техничке заштите и коришћења техничких средстава</authority>
+			<title>&quot;Службени гласник РС&quot;, бр. 19 од 20.   фебруара 2015, 71 од 21. јула 2017.</title>
+			<date>Предмет уређивања</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником ближе се прописује начин вршења послова техничке заштите и коришћења техничких средстава у обављању послова приватног обезбеђења.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>Техничка заштита</heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Техничка заштита представља скуп радњи којима се непосредно или посредно заштићују људи и њихова имовина, а изводи се техничким средствима, уређајима и системима техничке заштите којима је основна намена спречавање противправних радњи усмерених према штићеним лицима или имовини као што су:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> противпровално деловање;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> противпрепадно деловање;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> противдиверзионо и противсаботажно деловање.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>Систем техничке заштите</heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Систем техничке заштите представља повезивање средстава и уређаја који заједно чине функционалну целину.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Средствима, уређајима и системима техничке заштите сматрају се они који су изведени, одржавани и сервисирани у складу са одредбама овог правилника.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>Средства и уређаји</heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Средствима и уређајима техничке заштите у смислу овог правилника, сматрају се:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> средства и уређаји за физичко спречавање недозвољеног уласка лица у штићени објекат и простор који му припада (у даљем тексту: штићени објекат), а нарочито:</p>
+									<item id="clan4-stav1-tac1-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> ограде,</p>
+										</content>
+									</item>
+									<item id="clan4-stav1-tac1-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> рампе и барикаде,</p>
+										</content>
+									</item>
+									<item id="clan4-stav1-tac1-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> противпровална врата,</p>
+										</content>
+									</item>
+									<item id="clan4-stav1-tac1-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> све врсте брава са серијским бројем или кодом,</p>
+										</content>
+									</item>
+									<item id="clan4-stav1-tac1-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> специјалне грађевинске конструкције,</p>
+										</content>
+									</item>
+									<item id="clan4-stav1-tac1-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> непробојна стакла и сличне конструкције,</p>
+										</content>
+									</item>
+									<item id="clan4-stav1-tac1-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> опрема за смештај, чување и пренос вредности, предмета и докумената (касе, трезори и сл.),</p>
+										</content>
+									</item>
+									<item id="clan4-stav1-tac1-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> уређаји за детекцију металних предмета,</p>
+										</content>
+									</item>
+									<item id="clan4-stav1-tac1-podtac9">
+										<num>(9)</num>
+										<content>
+											<p> рендгенски уређаји за контролу пртљага,</p>
+										</content>
+									</item>
+									<item id="clan4-stav1-tac1-podtac10">
+										<num>(10)</num>
+										<content>
+											<p> друга механичка и/или електро-механичка средства и уређаји прописани у поступку извођења техничке заштите;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> електронски безбедносни системи који омогућују   ефикасну заштиту штићеног објеката, а нарочито:</p>
+									<item id="clan4-stav1-tac2-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> противпровални и противпрепадни алармни   системи (важећи стандарди серије SRPS EN 50130, 50131 и 50136),</p>
+										</content>
+									</item>
+									<item id="clan4-stav1-tac2-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> системи контроле приступа (важећи стандарди   серије SRPS EN 50133),</p>
+										</content>
+									</item>
+									<item id="clan4-stav1-tac2-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> системи којима се обавља стални надзор над   штићеним објектом с једног места (важећи стандарди серије SRPS EN 50518),</p>
+										</content>
+									</item>
+									<item id="clan4-stav1-tac2-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> интегрални системи заштите с најмање једним   (1) надзорним местом унутар штићеног објеката (контролна соба),</p>
+										</content>
+									</item>
+									<item id="clan4-stav1-tac2-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> системи видео обезбеђења (важећи стандард   серије SRPS EN 50132);</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> противдиверзиони и противсаботажни елементи:</p>
+									<item id="clan4-stav1-tac3-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> специјална ручна огледала за преглед подножја возила,</p>
+										</content>
+									</item>
+									<item id="clan4-stav1-tac3-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> детектори метала и јонизујућег зрачења и др.;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> системи за електро-хемијску заштиту новца и других вредности;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> системи за глобално позиционирање (ГПС сателитско праћење).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Системима из става 1. тачка 2) овог члана омогућава се израда плана поступања у ванредним догађајима (провала и сл.), реконструкција догађаја, односно околности које су претходиле наступању ванредног догађаја, надзор над радом лица задужених за безбедност објеката и успостављањепрописаног радног режима на објекту,заштита поверљивих података и информација од пословног и другог интереса који су похрањени у рачунарима и меморијским медијима.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Заштита поверљивих података и информација из става 2. овог члана мора имати минимално три нивоа:</p>
+							<point id="clan4-stav3-tac1">
+								<num>1)</num>
+								<content>
+									<p> физичка баријера приступа просторији у којој се налазе подаци;</p>
+								</content>
+							</point>
+							<point id="clan4-stav3-tac2">
+								<num>2)</num>
+								<content>
+									<p> механичко закључавање рачунара (хардверска заштита);</p>
+								</content>
+							</point>
+							<point id="clan4-stav3-tac3">
+								<num>3)</num>
+								<content>
+									<p> заштита помоћу лозинке, шифре и биометриjских података (софтверска заштита).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan4-stav4">
+						<content>
+							<p>*<ref id="ref11" href="/rs/act/2017/71/srp@">Службени гласник РС, број 71/2017</ref></p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<heading>Извођење техничке заштите</heading>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Извођењем техничке заштите сматра се:</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>брисана је ранија тачка 1) (види <ref>члан 2.   </ref>Правилника - 71/2017-37)</p>
+							<point id="clan5-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> израда плана система техничке заштите;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> дефинисање пројектног задатка;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> пројектовање система техничке заштите;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> монтажа, повезивање и програмирање система техничке заштите;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> стручни надзор над извођењем радова;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac6">
+								<num>6)</num>
+								<content>
+									<p> обављање техничког пријема система техничке заштите;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac7">
+								<num>7)</num>
+								<content>
+									<p> одржавање и сервисирање система техничке заштите;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac8">
+								<num>8)</num>
+								<content>
+									<p> обука корисника и употреба система техничке заштите.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>*<ref id="ref12" href="/rs/act/2017/71/srp@">Службени гласник РС, број 71/2017</ref></p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<heading>Брисан је ранији назив   изнад <ref>члана 6</ref>. (види <ref>члан 3. </ref>Правилника - 71/2017-37)</heading>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Брисан је (види члан   3. Правилника - 71/2017-37)</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<heading>Брисан је ранији назив   изнад <ref>члана 7</ref>. (види <ref>члан 4. </ref>Правилника - 71/2017-37)</heading>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Брисан је (види члан   4. Правилника - 71/2017-37)</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<heading>План система техничке заштите</heading>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Планирање система техничке заштите врши се на   основу акта о процени ризика у заштити лица, имовине и пословања израђеног   по стандарду серије СРПС А.Л2.003.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>На основу акта из става 1. овог члана, штићени   објекти се категоризују у једну од пет категорија, и то у:</p>
+							<point id="clan8-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> I категорију – НАЈВИШИ СТЕПЕН ЗАШТИТЕ –   утврђено постојање изразито великог ризика;</p>
+								</content>
+							</point>
+							<point id="clan8-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> II категорију – ВИСОКИ СТЕПЕН ЗАШТИТЕ –   утврђено постојање великог ризика;</p>
+								</content>
+							</point>
+							<point id="clan8-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> III категорију – ВИШИ СТЕПЕН ЗАШТИТЕ – утврђено   постојање умерено великог ризика;</p>
+								</content>
+							</point>
+							<point id="clan8-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> IV категорију – СРЕДЊИ СТЕПЕН ЗАШТИТЕ –   утврђено постојање малог ризика;</p>
+								</content>
+							</point>
+							<point id="clan8-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> V категорију – МИНИМАЛНИ СТЕПЕН ЗАШТИТЕ –   утврђено постојање занемарљивог ризика.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>За штићене објекте I, II и III категорије обавезна   је уградња система техничке заштите.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav4">
+						<content>
+							<p>*<ref id="ref13" href="/rs/act/2017/71/srp@">Службени гласник РС, број 71/2017</ref></p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<heading>Пројектни задатак</heading>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>На основу израђеног Плана система техничке заштите и посебних захтева власника или корисника објекта, израђује се пројектни задатак.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Пројектним задатком утврђују се сви параметри потребни за израду пројекта система техничке заштите, а нарочито:</p>
+							<point id="clan9-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> врста техничке заштите;</p>
+								</content>
+							</point>
+							<point id="clan9-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> смештај центра техничке заштите (контролни панели, централе, дигитални видео рекордери и др.);</p>
+								</content>
+							</point>
+							<point id="clan9-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> смештај уређаја и опреме (детектори, камере и др. сензори);</p>
+								</content>
+							</point>
+							<point id="clan9-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> начин полагања инсталација (каблова за повезивање).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<heading>Пројектовање система техничке заштите</heading>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Пројектовање система техничке заштите обухвата:</p>
+							<point id="clan10-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> имплементацију плана система техничке заштите;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> избор уређаја и опреме;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> израду пројектне документације.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Пројектна документација и примена посебних прописа</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<heading>*<ref id="ref14" href="/rs/act/2017/71/srp@">Службени гласник РС, број 71/2017</ref></heading>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Брисан је ранији став 1. (види <ref>члан 6.   </ref>Правилника - 71/2017-37)</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Пројекат система техничке заштите мора бити израђен у складу са прописима који уређују послове пројектовања.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav3">
+						<content>
+							<p>Акт о процени ризика у планирању система техничке заштите, план система   техничке заштите и пројектни задатак, чине саставни део пројекта система   техничке заштите.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav4">
+						<content>
+							<p>*<ref id="ref15" href="/rs/act/2017/71/srp@">Службени гласник РС, број 71/2017</ref></p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<heading>Брисан је ранији назив   изнад <ref>члана 12</ref> (види <ref>члан 7. </ref>Правилника - 71/2017-37)</heading>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>За уградњу система техничке заштите као и појединачних уређаја техничке заштите за I категорију обaвезно се израђује пројекат, у складу са прописима о планирању и изградњи.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav2">
+						<content>
+							<p>За уградњу система техничке заштите за II и   III категорију штићених објеката израђује се пројекат изведеног објекта, а   за IV и V категорију штићених објеката графички приказ распореда уграђених   уређаја и система техничке заштите.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav3">
+						<content>
+							<p>*<ref id="ref16" href="/rs/act/2017/71/srp@">Службени гласник РС, број 71/2017</ref></p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<heading>Чување и евиденција пројеката</heading>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Правно лице или предузетник приватног обезбеђења   израђивач пројектне документације дужан је да осигура безбедно чување   пројеката техничке заштите као и да води евиденцију о свим израђеним   копијама. Свака израђена копија мора бити бројчано означена.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav2">
+						<content>
+							<p>Копију пројекта, односно увид у пројектну документацију могу имати лица која имају лиценцу за вршење послова техничке заштите.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav3">
+						<content>
+							<p>Када се то назначи у плану система техничке заштите за одређене   категорије објеката, пројекат техничке заштите не може бити део идејног,   главног или грађевинског пројекта и подлеже заштити тајности у складу са   посебним законом.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav4">
+						<content>
+							<p>*<ref id="ref17" href="/rs/act/2017/71/srp@">Службени гласник РС, број 71/2017</ref></p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan14">
+				<num>14.</num>
+				<heading>Монтажа, повезивање и програмирање система техничке заштите</heading>
+				<content>
+					<clause id="clan14-stav1">
+						<content>
+							<p>Монтажом система техничке заштите сматра се:</p>
+							<point id="clan14-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> постављање инсталација;</p>
+								</content>
+							</point>
+							<point id="clan14-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> уградња уређаја и опреме;</p>
+								</content>
+							</point>
+							<point id="clan14-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> програмирање, подешавање (параметрисање) и испитивање система техничке заштите као и његово пуштање у рад;</p>
+								</content>
+							</point>
+							<point id="clan14-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> верификација уређаја и опреме, односно система и технички пријем;</p>
+								</content>
+							</point>
+							<point id="clan14-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> израда упутстава за руковање;</p>
+								</content>
+							</point>
+							<point id="clan14-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> обуку особља.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan15">
+				<num>15.</num>
+				<heading>Припремни радови</heading>
+				<content>
+					<clause id="clan15-stav1">
+						<content>
+							<p>Постављању инсталација техничке заштите и уградњи уређаја и опреме претходе припремни радови.</p>
+						</content>
+					</clause>
+					<clause id="clan15-stav2">
+						<content>
+							<p>Припремни радови укључују постављање кабловских полица и инсталацијских цеви и каблова до спојних тачака.</p>
+						</content>
+					</clause>
+					<clause id="clan15-stav3">
+						<content>
+							<p>Извођење припремних радова техничке заштите не сматра се техничком заштитом у смислу одредаба овог правилника.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan16">
+				<num>16.</num>
+				<heading>Радови у извођењу техничке заштите</heading>
+				<content>
+					<clause id="clan16-stav1">
+						<content>
+							<p>Припремне радове у извођењу техничке заштите могу вршити и правна и физичка лица која нису лиценцирана за вршење послова техничке заштите.</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav2">
+						<content>
+							<p>При обављању припремних радова у изради техничке заштите, правна и физичка лица из става 1. овог члана не могу имати увид у делове пројекта из <ref>члана 10. овог</ref> правилника.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan17">
+				<num>17.</num>
+				<heading>Инсталације техничке заштите</heading>
+				<content>
+					<clause id="clan17-stav1">
+						<content>
+							<p>Извођење инсталација техничке заштите обухвата испитивање и спајање водова од спојних тачака до средстава и уређаја техничке заштите и врше их правна лица и предузетници који су лиценцирани за вршење послова монтаже, пуштања у рад, одржавања система техничке заштите и обуке корисника (у даљем тексту: извођач).</p>
+						</content>
+					</clause>
+					<clause id="clan17-stav2">
+						<content>
+							<p>Инсталације техничке заштите морају бити изведене у складу са прописима који уређују услове постављања електротехничких инсталација.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan18">
+				<num>18.</num>
+				<heading>Уградња уређаја и опреме</heading>
+				<content>
+					<clause id="clan18-stav1">
+						<content>
+							<p>Након постављања и испитивања инсталација техничке заштите уграђују се уређаји и опрема.</p>
+						</content>
+					</clause>
+					<clause id="clan18-stav2">
+						<content>
+							<p>Уређаји и опрема уграђују се и подешавају (параметрирају) сходно пројектној документацији и упутствима произвођача уређаја и опреме.</p>
+						</content>
+					</clause>
+					<clause id="clan18-stav3">
+						<content>
+							<p>Свако појединачно средство, уређај или систем техничке заштите мора имати упутства за руковање која се похрањују у безбедносној каси власника или корисника објеката.</p>
+						</content>
+					</clause>
+					<clause id="clan18-stav4">
+						<content>
+							<p>Верификација уређаја и опреме, односно система техничке заштите који су уграђени у објекат, обавља се пуштањем у пробни рад, а исправност се утврђује издатом потврдом.</p>
+						</content>
+					</clause>
+					<clause id="clan18-stav5">
+						<content>
+							<p>Обуку особља које ће управљати средствима, уређајима или системима техничке заштите врши извођач.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan19">
+				<num>19.</num>
+				<heading>Даљински мониторинг</heading>
+				<content>
+					<clause id="clan19-stav1">
+						<content>
+							<p>Систем техничке заштите може бити повезан на контролни центар за даљински мониторинг.</p>
+						</content>
+					</clause>
+					<clause id="clan19-stav2">
+						<content>
+							<p>Контролни центар образују правно лице и предузетник за приватно обезбеђење у складу са Законом.</p>
+						</content>
+					</clause>
+					<clause id="clan19-stav3">
+						<content>
+							<p>Правно лице и предузетник из става 2. овог члана морају израдити писане процедуре за интервенције по дојави аларма за сваки штићени објекат, који садржи попис простора обухваћених дојавним зонама, шему надзираног објекта сa унетим дојавним зонама, као и упутства и податке који одређују поименична задужења сваког члана дежурног патролног тима. Процедуре се штите у складу са прописима о заштити пословне тајне, чувају се у контролном центру и пре интервенције достављају вођи дежурног патролног тима за интервенцију по примљеном аларму.</p>
+						</content>
+					</clause>
+					<clause id="clan19-stav4">
+						<content>
+							<p>Свака интервенција патролног тима, било да се ради о лажној дојави или стварном догађају, мора бити евидентирана и потврђена извештајем од стране вође патролног тима, који се саставља одмах по завршетку интервенције, а садржи време дојаве, време изласка и доласка на место догађаја, затечено стање, начин интервенције, време завршетка интервенције и време повратка у контролни центар (полазну позицију), као и потпис вође патролног тима.</p>
+						</content>
+					</clause>
+					<clause id="clan19-stav5">
+						<content>
+							<p>Уколико се ради о стварној дојави, дежурни оператер контролног центра одмах обавештава одговарајуће јавне службе (полицију, ватрогасце, хитну медицинску помоћ и др.) и даје основне информације потребне за излазак на место догађаја (врста, место и време догађаја, безбедан правац доласка, постојање опасних и запаљивих материја у објекту, број угрожених лица и сл.).</p>
+						</content>
+					</clause>
+					<clause id="clan19-stav6">
+						<content>
+							<p>Ако правна лица и предузетници лиценцирани за вршење послова монтаже, пуштања у рад и одржавања система техничке заштите и обуке корисника имају контролни центар, дужни су обезбедити техничку интервенцију по дојавном сигналу. Техничка интервенција подразумева отклањање техничких проблема код корисника система у уговором одређеном року, а по јасно идентификованој дојави која се разликује од дојаве аларма у контролни центар.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan20">
+				<num>20.</num>
+				<heading>Стручни надзор над извођењем радова</heading>
+				<content>
+					<clause id="clan20-stav1">
+						<content>
+							<p>Стручни надзор нас извођењем послова техничке заштите може обављати правно лице или предузетник које поседује лиценцу за обављање послова надзора, на начин и под условима утврђеним Законом и прописима о планирању и изградњи.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan21">
+				<num>21.</num>
+				<heading>Технички пријем</heading>
+				<content>
+					<clause id="clan21-stav1">
+						<content>
+							<p>Техничким пријемом система техничке заштите сматра се:</p>
+							<point id="clan21-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> провера исправности и функционалности свих уређаја и опреме који чине систем техничке заштите;</p>
+								</content>
+							</point>
+							<point id="clan21-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> провера усклађености система техничке заштите са пројектом, односно скицом;</p>
+								</content>
+							</point>
+							<point id="clan21-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> провера обучености особља;</p>
+								</content>
+							</point>
+							<point id="clan21-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> провера корисничких упутстава за руковање;</p>
+								</content>
+							</point>
+							<point id="clan21-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> провера доказа квалитета уграђене опреме,   сагласно серији стандарда којој припада тај производ.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan21-stav2">
+						<content>
+							<p>Технички пријем из става 1. овог члана обављају овлашћени представник инвеститора или корисник и извођач.</p>
+						</content>
+					</clause>
+					<clause id="clan21-stav3">
+						<content>
+							<p>О обављеном техничком пријему саставља се записник који потписују лица из става 2. овог члана.</p>
+						</content>
+					</clause>
+					<clause id="clan21-stav4">
+						<content>
+							<p>Извођач издаје инвеститору или кориснику потврду да је систем техничке заштите изведен у складу са одредбама овог правилника. Саставни део потврде је записник из става 3. овог члана.</p>
+						</content>
+					</clause>
+					<article id="clan21.а">
+						<num>21а</num>
+						<heading>*<ref id="ref18" href="/rs/act/2017/71/srp@">Службени гласник РС, број 71/2017</ref></heading>
+						<content>
+							<clause id="clan21.а-stav1">
+								<content>
+									<p>Власник или корисник штићеног објекта дужан је да   обезбеди одржавање уграђеног система техничке заштите и његових делова у   исправном стању.</p>
+								</content>
+							</clause>
+							<clause id="clan21.а-stav2">
+								<content>
+									<p>Правно лице или предузетник за приватно обезбеђење   дужан је да обезбеди одржавање и сервисирање уређаја и система техничке   заштите о чему са власником или корисником штићеног објекта закључује   уговор.</p>
+								</content>
+							</clause>
+							<clause id="clan21.а-stav3">
+								<content>
+									<p>*<ref id="ref19" href="/rs/act/2017/71/srp@">Службени гласник РС, број 71/2017</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</article>
+			<article id="clan22">
+				<num>22.</num>
+				<heading>Завршна одредба</heading>
+				<content>
+					<clause id="clan22-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan22-stav2">
+						<content>
+							<p>01 број 01-10423/14-5</p>
+						</content>
+					</clause>
+					<clause id="clan22-stav3">
+						<content>
+							<p>У Београду, 18. фебруара 2015. године</p>
+						</content>
+					</clause>
+					<clause id="clan22-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan22-stav5">
+						<content>
+							<p>др Небојша Стефановић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan22-stav6">
+						<content>
+							<p>ОДРЕДБЕ КОЈЕ НИСУ УНЕТЕ У &quot;ПРЕЧИШЋЕН   ТЕКСТ&quot; ПРАВИЛНИКА</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<heading>Правилник о изменама и допунама   Правилника о начину вршења послова техничке заштите и коришћења техничких средстава: &quot;<ref id="ref20" href="/rs/act/2017/71/srp@">Службени гласник РС&quot;, број 71/2017</ref>-37</heading>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Изглед и садржина Потврде о изведеном систему техничке заштите,   Записника о обављеном техничком пријему система техничке заштите и Записника   о одржавању система техничке заштите дати су у прилозима 1, 2. и 3. који су   одштампани уз овај правилник и чине његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Правна и физичка лица корисници услуга техничке заштите, односно   уређаја, опреме и система техничке заштите, дужни су да начин коришћења   уређаја, средстава и система техничке заштите ускладе са одредбама овог   правилника у року од 12 месеци од дана његовог ступања на снагу.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у   ,,Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav2">
+						<content>
+							<p>Прилози</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav3">
+						<content>
+							<p>НАПОМЕНА ИЗДАВАЧА: Правилником о изменама и допунама   Правилника о начину вршења послова техничке заштите и коришћења техничких средстава   (&quot;<ref id="ref21" href="/rs/act/2017/71/srp@">Службени гласник РС&quot;, број 71/2017</ref>) додати су прилози 1-3 (види Правилник   - 71/2017-37).</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav4">
+						<content>
+							<p>Прилог 1. - Потврда о изведеном систему техничке   заштите</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav5">
+						<content>
+							<p>Прилог 2. - Записник о обављеном техничком пријему   система техничке заштите</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

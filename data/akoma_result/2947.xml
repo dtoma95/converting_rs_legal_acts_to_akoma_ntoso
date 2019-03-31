@@ -1,0 +1,196 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2011/58-7/main"/>
+					<FRBRuri value="/rs/act/2011/58-7"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2012/98-3/srp@/main"/>
+					<FRBRuri value="/rs/act/2012/98-3/srp@"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2012/98-3/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2012/98-3/srp@.akn"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2011-8-5" name="службени гласник рс" number="58" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="3. Ваздух" value="3. ваздух"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-07-29" id="usvajanje"/>
+				<step date="2011-08-13" id="stupanje_na_snagu"/>
+				<step date="2011-08-13" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="58/2011-7" id="e1" type="generation"/>
+				<eventRef date="98/2012-3" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 13. августа 2011. године (види <ref>члан 4. </ref>Уредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 6. став 4. </ref>Закона о заштити ваздуха („<ref id="ref3" href="/rs/act/09/36/srp@">Службени гласник РС”, број 36/09</ref>) и <ref>члана 42. став 1. </ref>Закона о Влади („<ref id="ref4" href="/rs/act/05/55/srp@">Службени гласник РС”, бр. 55/05</ref> и 71/05 – исправка и 101/07, 65/08 и 16/11),</p>
+		</preamble>
+		<preface>
+			<authority>Влада доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о одређивању зона и агломерација</title>
+			<date>&quot;Службени гласник РС&quot;, бр.   58 од 5. августа 2011, 98 од 12. октобра 2012.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овом уредбом одређују се зоне и агломерације на територији Републике Србије, у циљу контроле, одржавања стања и/или унапређења квалитета ваздуха.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>На територији Републике Србије одређују се три зоне:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> Зона „Србија”, која обухвата територију Републике Србије осим територија аутономних покрајина, града Београда,   града Ниша, општине Бор, града Ужица, града Смедерева и општине Косјерић*;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> Зона „Војводина”, која обухвата територију Аутономне покрајине Војводине осим територије града Новог Сада  и града Панчева*;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> Зона „Косово и Метохија”, која обухвата територију Аутономне покрајине Косово и Метохија.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>*<ref id="ref5" href="/rs/act/2012/98/srp@">Службени гласник РС, број 98/2012</ref></heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>На територији Републике Србије одређују се   осам агломерација*:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> Агломерација „Београд”, која обухвата територију града Београда;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> Агломерација „Нови Сад”, која обухвата територију града Новог Сада;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> Агломерација „Ниш”, која обухвата територију града Ниша;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> Агломерација „Бор”, која обухвата територију општине Бор;*</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> Агломерација „Ужице”, која   обухвата територију града Ужица;*</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> Агломерација „Косјерић”,   која обухвата територију општине Косјерић;*</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> Агломерација „Смедерево”,   која обухвата територију града Смедерева;*</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> Агломерација „Панчево”,   која обухвата територију града Панчева.*</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>*<ref id="ref6" href="/rs/act/2012/98/srp@">Службени гласник РС, број 98/2012</ref></heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Ова уредба ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>05 број 110-5966/2011</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>У Београду, 29. јула 2011. године</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav4">
+						<content>
+							<p>Влада</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav5">
+						<content>
+							<p>Председник,</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav6">
+						<content>
+							<p>др Мирко Цветковић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

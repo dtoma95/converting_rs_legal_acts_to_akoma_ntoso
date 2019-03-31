@@ -1,0 +1,491 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2018/76-49/main"/>
+					<FRBRuri value="/rs/act/2018/76-49"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/76-49/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/76-49/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/76-49/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/76-49/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2018-10-12" name="службени гласник рс" number="76" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="VIII РАЗВОЈ" value="viii развој"/>
+				<keyword id="grupa" showAs="3. Информационе технологије" value="3. информационе технологије"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2018-10-03" id="usvajanje"/>
+				<step date="2018-10-20" id="stupanje_na_snagu"/>
+				<step date="2018-10-20" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>чланa 62. став 4. </ref>Закона о електронском документу, електронској идентификацији и услугама од поверења у електронском пословању (<ref id="ref6" href="/rs/act/17/94/srp@">,,Службени гласник РС”, број 94/17</ref>),</p>
+			<p>Министар културе и информисања доноси</p>
+		</preamble>
+		<preface>
+			<title>ПРАВИЛНИК</title>
+			<authority>о ближим условима за дигитализацију културног наслеђа</authority>
+			<title>&quot;Службени гласник РС&quot;, број 76 од 12. октобра     2018.</title>
+			<date>Предмет правилника</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником уређују се ближи услови, задаци, послови, стандарди и процеси дигитализације културног наслеђа, односно покретних и непокретних културних добара, нематеријалног културног наслеђа и добара која уживају претходну заштиту.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Појмови употребљени у овом правилнику имају следеће значење:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> дигитални запис (текст, фотографија, звучни, видео, векторски или неки други облик записа) је скуп података настао у процесу дигитализације културног наслеђа и припадајуће документације који се чувају на неком уређају за складиштење података (електронском, магнетном, оптичком или другом медију);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> метаподаци су структуирани подаци о културном добру којима се оно идентификује и описује;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> дигитални објекат је дигитални запис са припадајућим метаподацима;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> дигитализовано културно наслеђе је скуп дигиталних објеката;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> информациони систем је јединствено централизовано софтверско решење за управљање дигиталним објектима одређене врсте културног добра;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> Агрегатор културног наслеђа – јединствено софтверско решење за претрагу свих доступних података из информационих система у употреби у установама кулутре.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Установа заштите која врши делатност заштите културних добара у процесу дигитализације користи информациони систем одређене врсте културног добра, и то:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> музеј – Јединствени информациони систем (ИМУС) којим управља Историјски музеј Србије;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> завод – Информациони систем непокретних културних добара којим управља Републички завод за заштиту споменика културе;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> архив – Архивски информациони систем којим управља Архив Србије;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> библиотекa – База дигитализоване библиотечко-информационе грађе, која се односи  на стару и ретку књигу, којом управља Народна библиотека Србије;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> кинотека – Информациони систем филмске и аудио-визуелне грађе којим управља Југословенска кинотека.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Подаци о културном добру које се налази ван установа заштите уносе се у одговарајући информациони систем из става 1. овог члана.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Информациони системи обезбеђују прикупљање и достављање групе података за вођење регистара и централних регистара за које су надлежне матичне, односно централне установе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>Сврха и циљеви дигитализације културног наслеђа</heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Дигитализација културног наслеђа врши се ради заштите културног наслеђа и дуготрајног чувања дигиталних објеката, а у циљу: обезбеђивања доступности информација о културном наслеђу, омогућавања размене података између установа заштите, стварања нове и допуне постојеће документације о културном наслеђу, промоције и представљања културног наслеђа, повећања броја корисника, стварања нових садржаја и увођења нових услуга.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<heading>Процес дигитализације</heading>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Установа заштите дужна је да процес дигитализације реализује кроз следеће послове:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> одређивање приоритета дигитализације;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> израду планова и програма дигитализације;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> одабир и припрема културних добара и пратеће документације за процес дигитализације;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> формирање дигиталног записа;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> унос дигиталног записа и припадајућих метаподатака у информациони систем;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> управљање дигитализованим културним наслеђем;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> контролу квалитета дигиталних објеката;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> чување дигитализованог културног наслеђа;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> обезбеђивање доступности дигитализованог културног наслеђа.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<heading>Одређивање приоритета дигитализације</heading>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Установа заштите одређује приоритете и обим дигитализације у складу са расположивим ресурсима и следећим критеријумима:</p>
+							<point id="clan6-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> значај културног добра;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> стање културног добра, односно ниво очуваности, осетљивост на манипулацију, постојаност медија;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> учесталост и ниво коришћења културног добра;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> целовитост и обрађеност збирке, фонда;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> ограниченост приступа културном добру;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> физичке карактеристике културног добра (формат, величина, облик, врста материјала) у вези са расположивим техничким и људским ресурсима за процес дигитализације;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> обезбеђивање сагласности носилаца ауторских права;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> потребе реализације других планираних активности установе заштите.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<heading>Израда плана и програма дигитализације</heading>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Установа заштите у оквиру годишњег плана и програма рада установе утврђује план и програм дигитализације којим се одређују културна добра и пратећа документација која ће се дигитализовати и планирају финансијска средства (расходи и издаци) неопходна за потребе дигитализације.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>При планирању и реализацији активности из плана и програма дигитализације, установе заштите, сходно ресурсима којима располажу остварују сарадњу са другим установама у циљу оптимизације и уштеде финансијских средстава.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<heading>Формирање дигиталног записа</heading>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Формирање дигиталног записа обухвата следеће активности:</p>
+							<point id="clan8-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> превођење културног добра са припадајућом документацијом у дигиталну форму у складу са смерницама за дигитализацију културног наслеђа;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> унос дигиталног записа и припадајућих метаподатака у информациони систем.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Активности из става 1. овог члана врше запослени у установама заштите који обављају послове у оквиру делатности заштите, као и лица ангажована на пословима дигитализације.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>Број дигиталних записа и припадајућих метаподатака који се уносе у одређеном периоду у информациони систем утврђује министарство надлежно за послове културе у зависности од врсте културног добра.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<heading>Управљање дигитализованим културним наслеђем</heading>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Установа заштите надлежна за управљање информационим системом за одређену врсту културног добра из <ref>члана 3. овог</ref> правилника дужна је да одреди администратора информационог система.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Установа заштите надлежна за управљање информационим системом за одређену врсту културног добра из <ref>члана 3. овог</ref> правилника одобрава приступ именованим администраторима сваке установе заштите.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav3">
+						<content>
+							<p>Администратор установе заштите ауторизује приступ лицима из <ref>члана 8. став 2. овог</ref> правилника у складу са пословима које они обављају.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav4">
+						<content>
+							<p>Установа заштите из става 1. овог члана дужна је да другим установама заштите омогући приступ и преузимање података из информационог система којим управља без надокнаде.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav5">
+						<content>
+							<p>Министарство надлежно за послове културе обезбеђује услове за имплементацију јединственог софтверског решења за вођење археолошке теренске документације у циљу обједињавања података и доступности информација установама заштите и другим државним органима.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<heading>Контрола квалитета</heading>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Установа заштите дужна је да спроводи контролу квалитета и верификацију података унетих у информациони систем.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<heading>Чување дигитализованог културног наслеђа</heading>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Дигитализовано културно наслеђе чува се посредством информационог система у државном центру за управљање и чување података у складу са прописима којима се уређује електронска управа.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Установа заштите дужна је да поступак чувања дигитализованог културног наслеђа уреди у складу са прописима којима се уређује информациона безбедност.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<heading>Доступност дигитализованог културног наслеђа</heading>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Јавни приступ подацима о културном наслеђу који се воде у информационим системима по врстама културних добара врши се преко Агрегатора културног наслеђа.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav2">
+						<content>
+							<p>Агрегатор културног наслеђа омогућава приступ дигиталном објекту, преузимањем метаподатака из информационих система из <ref>члана 3. овог</ref> правилника.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav3">
+						<content>
+							<p>Установа заштите може омогућити приступ подацима о дигитализованом културном наслеђу путем другог портала, односно мобилне апликације.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<heading>Праћење извршења</heading>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Министарство надлежно за послове културе у оквиру послова дигитализације културног наслеђа прати реализацију послова, задатака и стандарда наведених у овом правилнику.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan14">
+				<num>14.</num>
+				<heading>Прелазне и завршне одредбе</heading>
+				<content>
+					<clause id="clan14-stav1">
+						<content>
+							<p>Установе заштите дужне су да успоставе информационе системе из <ref>члана 3. овог</ref> правилника у року од 12 месеци од дана ступања на снагу овог правилника.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav2">
+						<content>
+							<p>Установе заштите, изузев архива, дужне су да дигитализују целокупно културно наслеђе у року од пет година.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan15">
+				<num>15.</num>
+				<content>
+					<clause id="clan15-stav1">
+						<content>
+							<p>Министарство надлежно за послове културе успоставиће Агрегатор културног наслеђа у року од шест месеци од дана ступања на снагу овог правилника.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan16">
+				<num>16.</num>
+				<content>
+					<clause id="clan16-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav2">
+						<content>
+							<p>Број 110-00-45/2018-09</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav3">
+						<content>
+							<p>У Београду, 3. октобра 2018. године</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav5">
+						<content>
+							<p>Владан Вукосављевић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

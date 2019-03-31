@@ -1,0 +1,312 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2010/95-23/main"/>
+					<FRBRuri value="/rs/act/2010/95-23"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2010/95-23/srp@/main"/>
+					<FRBRuri value="/rs/act/2010/95-23/srp@"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2010/95-23/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2010/95-23/srp@.akn"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2010-12-17" name="службени гласник рс" number="95" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="15. Управљање отпадом" value="15. управљање отпадом"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2010-12-06" id="usvajanje"/>
+				<step date="2010-12-25" id="stupanje_na_snagu"/>
+				<step date="2010-12-25" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 76. став 4. </ref>Закона о управљању отпадом („<ref id="ref1" href="/rs/act/09/36/srp@">Службени гласник РС”, бр. 36/09</ref> и 88/10),</p>
+		</preamble>
+		<preface>
+			<authority>Министар животне средине и просторног планирања доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о садржини, начину вођења и изгледу Регистра издатих дозвола за управљање отпадом</title>
+			<date>&quot;Службени гласник РС&quot;, број 95 од 17. децембра 2010.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се садржина, начин вођења и изглед регистра издатих дозвола за управљање отпадом (у даљем тексту: Регистар).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>У Регистар који води надлежни орган за издавање дозволе у складу са законом којим се уређује управљање отпадом, уписују се:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> дозвола за сакупљање, транспорт, складиштење, третман и одлагање отпада;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> дозвола за прекогранично кретање отпада (увоз, извоз и транзит).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Регистар из става 1. овог члана садржи:</p>
+							<point id="clan2-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> регистарски број;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> број досијеа;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> врсту дозволе за управљање отпадом (за сакупљање, транспорт, складиштење, третман, одлагање, увоз, извоз и транзит отпада);</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> назив лица регистрованог за обављање делатности сакупљања, односно лица које има својство превозника коме је издата дозвола и њихов регистарски број или име и лични број;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> назив оператера постројења за складиштење, третман и одлагање отпада коме је издата дозвола и регистарски број или име и лични број;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac6">
+								<num>6)</num>
+								<content>
+									<p> назив и подаци о подносиоцу захтева за увоз, извоз и транзит отпада коме је издата дозвола и регистарски број;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac7">
+								<num>7)</num>
+								<content>
+									<p> назив постројења или активности за које је дозвола издата;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac8">
+								<num>8)</num>
+								<content>
+									<p> назив надлежног органа који је издао дозволу;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac9">
+								<num>9)</num>
+								<content>
+									<p> број и датум издавања дозволе;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac10">
+								<num>10)</num>
+								<content>
+									<p> рок важности дозволе;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac11">
+								<num>11)</num>
+								<content>
+									<p> услове утврђене дозволом за сакупљање, транспорт, складиштење, третман и одлагање отпада;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac12">
+								<num>12)</num>
+								<content>
+									<p> услове утврђене дозволом за увоз, извоз и транзит отпада;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac13">
+								<num>13)</num>
+								<content>
+									<p> податке о измени, односно одузимању дозволе;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac14">
+								<num>14)</num>
+								<content>
+									<p> напомене.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Регистар издатих дозвола за сакупљање, транспорт, складиштење, третман и одлагање отпада води се на Обрасцу 1, који је одштампан је уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav4">
+						<content>
+							<p>Регистар издатих дозвола за прекогранично кретање отпада (увоз, извоз и транзит) води се на Обрасцу 2, који је одштампан је уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Регистар се води као јавна књига.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Регистар се може водити у електронској форми.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Регистар се води ажурно и контролише најмање једанпут годишње, о чему лице овлашћено за вођење Регистра подноси извештај.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Свака издата дозвола уписује се у Регистар на посебној страни Регистра.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Ако простор за уписивање није довољан, на крају стране се повлачи водоравна линија са назнаком странице на коју се преносе подаци.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Страна на коју се преносе подаци у смислу става 2. овог члана има исти регистарски број као страна са које су подаци пренети.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Ако се у Регистар погрешно упишу подаци, лице овлашћено за вођење Регистра дужно је да одмах изврши исправку.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Исправка података се врши тако што се погрешно уписан текст превуче линијом да остане читак, а исправка се уписује у слободном простору стране.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Брисање података из Регистра врши се ако је дозвола одузета.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Брисање се врши превлачењем дијагоналне линије преко свих рубрика обрасца и уписивањем у рубрику „напомене” да је дозвола брисана из Регистра, број акта на основу кога је извршено брисање и датум брисања.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Упис и брисање података из Регистра врши се најкасније у року од 30 дана од дана достављања одговарајућег акта.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Све врсте уписа, исправки и брисања из Регистра обавља и оверава потписом лице овлашћено за вођење Регистра.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Број 110-00-79/2010-01</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>У Београду, 6. децембра 2010. године</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav5">
+						<content>
+							<p>др Оливер Дулић, с.р.</p>
+						</content>
+					</clause>
+					<став id="clan8-stav6">
+						<img alt="pravilnik-otpad_Page_1.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik-otpad_Page_1_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=421921&amp;regactid=421921"/>
+						<content/>
+					</став>
+					<став id="clan8-stav7">
+						<img alt="pravilnik-otpad_Page_2.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik-otpad_Page_2_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=421921&amp;regactid=421921"/>
+						<content/>
+					</став>
+					<став id="clan8-stav8">
+						<img alt="pravilnik-otpad_Page_3.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik-otpad_Page_3_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=421921&amp;regactid=421921"/>
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

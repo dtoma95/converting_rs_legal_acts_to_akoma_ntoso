@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2003/32-1/main"/>
+					<FRBRuri value="/rs/act/2003/32-1"/>
+					<FRBRdate date="2003" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2003/32-1/srp@/main"/>
+					<FRBRuri value="/rs/act/2003/32-1/srp@"/>
+					<FRBRdate date="2003" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2003/32-1/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2003/32-1/srp@.akn"/>
+					<FRBRdate date="2003" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2003-7-25" name="службени лист сцг“" number="32" showAs="Службени лист СЦГ“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="IV ЈАВНИ ПРИХОДИ" value="iv јавни приходи"/>
+				<keyword id="grupa" showAs="4. Јавни зајмови" value="4. јавни зајмови"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2003-07-24" id="usvajanje"/>
+				<step date="2003-07-26" id="stupanje_na_snagu"/>
+				<step date="2003-07-26" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Одлука је данета на основу Закона о Савету министара (“<ref id="ref1" href="/rs/act/2003/21/srp@">Службени лист СЦГ”, бр. 21/2003</ref>).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 2. </ref>Закона о Савету министара (“<ref id="ref2" href="/rs/act/2003/21/srp@">Службени лист СЦГ”, бр. 21/2003</ref>),</p>
+			<p>Савет министара доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о издавању  некаматоносне и непреносиве обвезнице на позив по основу попуне капитала Међународне  банке за обнову и развој</title>
+			<date>„Службени лист СЦГ“, број 32 од 25. јула 2003.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Србија и Црна Гора издаје некаматоносну, непреносиву обвезницу на позив на износ од 235.531.007,69  YUМ ради супституције обавезе ефективне уплате по основу попуне капитала Међународне банке за обнову и развој (Резолуција бр. 425).</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Обвезнице у оригиналу на српском и енглеском језику депоноваће се код Народне банке Србије.</heading>
+				<content/>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Ова одлука ступа на снагу наредног дана од дана објављивања у “Службеном листу СЦГ”.</heading>
+				<content>
+					<clause id="od3-stav1">
+						<content>
+							<p>Савет министара</p>
+						</content>
+					</clause>
+					<clause id="od3-stav2">
+						<content>
+							<p>Е. п. бр. 114</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od24">
+				<num>24.</num>
+				<heading> јула 2003. године</heading>
+				<content>
+					<clause id="od24-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od24-stav2">
+						<content>
+							<p>Председник</p>
+						</content>
+					</clause>
+					<clause id="od24-stav3">
+						<content>
+							<p>Србије и Црне Горе</p>
+						</content>
+					</clause>
+					<clause id="od24-stav4">
+						<content>
+							<p>Светозар Маровић, с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,506 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2011/16-41/main"/>
+					<FRBRuri value="/rs/act/2011/16-41"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/16-41/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/16-41/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/16-41/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/16-41/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2011-3-11" name="службени гласник рс" number="16" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="VI СВОЈИНСКИ И ОБЛИГАЦИОНИ, ПОРОДИЧНИ И БРАЧНИ ОДНОСИ" value="vi својински и облигациони, породични и брачни односи"/>
+				<keyword id="grupa" showAs="8. Задужбине, фондације и фондови" value="8. задужбине, фондације и фондови"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-03-04" id="usvajanje"/>
+				<step date="2011-03-12" id="stupanje_na_snagu"/>
+				<step date="2011-03-12" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 24</ref>.      став 2. Закона о задужбинама и фондацијама („<ref id="ref1" href="/rs/act/10/88/srp@">Службени гласник      РС”, број 88/10</ref>),</p>
+			<p>Министар културe      доноси</p>
+		</preamble>
+		<preface>
+			<title>ПРАВИЛНИК</title>
+			<authority>o      ближој садржини и начину вођења Регистра задужбина и фондација</authority>
+			<title>&quot;Службени гласник РС&quot;,      број 16 од 11. марта 2011.</title>
+			<date>Садржина Правилника</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником      уређује се ближа садржина и начин вођења Регистра задужбина и      фондација (у даљем тексту: Регистар).</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Регистар се води као      јединствена, централна, јавна електронска база података о      задужбинама и фондацијама.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav3">
+						<content>
+							<p>У Регистар се      уписују подаци о задужбинама и фондацијама, промене уписаних      података као и брисање задужбине и фондације из Регистра.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav4">
+						<content>
+							<p>Подаци који се   уписују у Регистар</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav5">
+						<content>
+							<p>У Регистар се      уписују подаци о задужбинама и фондацијама, и то:</p>
+							<point id="clan1-stav5-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив задужбине и      фондације;</p>
+								</content>
+							</point>
+							<point id="clan1-stav5-tac2">
+								<num>2)</num>
+								<content>
+									<p> седиште и адреса      задужбине и фондације;</p>
+								</content>
+							</point>
+							<point id="clan1-stav5-tac3">
+								<num>3)</num>
+								<content>
+									<p> циљеви због којих      је основана задужбина, односно фондација са назнаком да ли се      ради о задужбини која остварује општекорисне или приватне      циљеве;</p>
+								</content>
+							</point>
+							<point id="clan1-stav5-tac4">
+								<num>4)</num>
+								<content>
+									<p> датум оснивања      задужбине и фондације;</p>
+								</content>
+							</point>
+							<point id="clan1-stav5-tac5">
+								<num>5)</num>
+								<content>
+									<p> привредна      делатност коју задужбина и фондација непосредно обавља као      споредну делатност;</p>
+								</content>
+							</point>
+							<point id="clan1-stav5-tac6">
+								<num>6)</num>
+								<content>
+									<p> лично име,      пребивалиште, односно боравиште и јединствени матични број      оснивача, а када је оснивач правно лице – назив, седиште,      матични број и порески идентификациони број;</p>
+								</content>
+							</point>
+							<point id="clan1-stav5-tac7">
+								<num>7)</num>
+								<content>
+									<p> име и презиме,      јединствени матични број, односно број пасоша чланова управног      одбора;</p>
+								</content>
+							</point>
+							<point id="clan1-stav5-tac8">
+								<num>8)</num>
+								<content>
+									<p> лично име,      пребивалиште, односно боравиште и јединствени матични број      заступника задужбине и фондације;</p>
+								</content>
+							</point>
+							<point id="clan1-stav5-tac9">
+								<num>9)</num>
+								<content>
+									<p> време за које се      оснива задужбина и фондација;</p>
+								</content>
+							</point>
+							<point id="clan1-stav5-tac10">
+								<num>10)</num>
+								<content>
+									<p> матични број и      порески идентификациони број (ПИБ) задужбине, односно фондације;</p>
+								</content>
+							</point>
+							<point id="clan1-stav5-tac11">
+								<num>11)</num>
+								<content>
+									<p> измене и допуне      статута;</p>
+								</content>
+							</point>
+							<point id="clan1-stav5-tac12">
+								<num>12)</num>
+								<content>
+									<p> подаци о      статусној промени;</p>
+								</content>
+							</point>
+							<point id="clan1-stav5-tac13">
+								<num>13)</num>
+								<content>
+									<p> подаци о      основној имовини задужбине;</p>
+								</content>
+							</point>
+							<point id="clan1-stav5-tac14">
+								<num>14)</num>
+								<content>
+									<p> подаци о      одузимању одобрења за деловање задужбине и фондације;</p>
+								</content>
+							</point>
+							<point id="clan1-stav5-tac15">
+								<num>15)</num>
+								<content>
+									<p> подаци o      ликвидацији задужбине и фондације;</p>
+								</content>
+							</point>
+							<point id="clan1-stav5-tac16">
+								<num>16)</num>
+								<content>
+									<p> подаци о стечају      задужбине и фондације;</p>
+								</content>
+							</point>
+							<point id="clan1-stav5-tac17">
+								<num>17)</num>
+								<content>
+									<p> број и датум      доношења решења о упису у Регистар.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan1-stav6">
+						<content>
+							<p>Регистар садржи и      следеће податке, ако ти подаци постоје, и то:</p>
+							<point id="clan1-stav6-tac1">
+								<num>1)</num>
+								<content>
+									<p> скраћени назив;</p>
+								</content>
+							</point>
+							<point id="clan1-stav6-tac2">
+								<num>2)</num>
+								<content>
+									<p> назив на страном      језику;</p>
+								</content>
+							</point>
+							<point id="clan1-stav6-tac3">
+								<num>3)</num>
+								<content>
+									<p> забелешке      података од значаја за правни промет задужбине и фондације.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan1-stav7">
+						<content>
+							<p>Ако се у Регистру      региструју подаци који се односе на страно правно или физичко      лице, уместо матичног броја Регистар садржи, за страно физичко      лице – број његовог пасоша и државу издавања, а за страно правно      лице – број под којим се то правно лице води у матичном регистру      и назив тог регистра.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>Упис у Регистар</heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Упис задужбина и      фондација у Регистар врши се на основу пријаве за упис,      прописане документације која мора бити у оригиналу или овереној      фотокопији и доказа о уплати накнаде за упис у Регистар.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Подаци о матичном      броју и пореском идентификационом броју (ПИБ) задужбине и      фондације уписују се у Регистар по службеној дужности, на основу      одлуке надлежног органа за доделу матичног броја, односно      пореског идентификационог броја.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>Документација за   упис</heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Уз пријаву за упис у      Регистар подноси се:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> доказ о      идентитету оснивача и лица овлашћеног за заступање, фотокопија      личне карте или пасоша или извод из регистра у којем је      регистровано правно лице ако је оснивач задужбине и фондације      правно лице;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> оснивачки акт      задужбине, односно фондације, са овереним потписима оснивача,      односно правноснажно решење о наслеђивању, ако се задужбина      оснива завештањем;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> решење о      одређивању извршиоца завештања, ако је задужбина основана      завештањем;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> акт о именовању      органа управљања задужбине и фондације;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> статут задужбине      и фондације;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> доказ о уплаћеним      новчаним средствима неопходним за оснивање задужбине, односно      процена судског вештака о вредности основне имовине у стварима и      правима која је намењена за оснивање задужбине;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> друге исправе      утврђене законом;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> доказ о уплати      таксе за доделу матичног броја;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> доказ о уплати      накнаде за упис у Регистар.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<heading>Упис промене   података</heading>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Уз пријаву за упис      промене података у Регистар подноси се:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> одлука надлежног      органа о промени података;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> записник са      седнице надлежног органа за доношење одлуке о промени података;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> доказ о уплати      накнаде за упис промене података у Регистар.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<heading>Упис ликвидације</heading>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Уз пријаву за упис      ликвидације у Регистар подноси се:</p>
+							<point id="clan6-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> одлука надлежног      органа о престанку задужбине и фондације, са подацима о      ликвидационом управнику (име и презиме, јединствени матични број      и адреса);</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> доказ о      објављивању одлуке у „Службеном гласнику Републике Србије”;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> доказ о уплати      накнаде за упис ликвидације у Регистар.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Уз пријаву скраћеног      поступка ликвидације у Регистар подноси се:</p>
+							<point id="clan6-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> одлука надлежног      органа о престанку задужбине и фондације;</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> изјава надлежног      органа да су измирене све пореске обавезе, обавезе задужбине и      фондације према повериоцима и да су регулисани сви односи са      запосленима, са овереним потписима чланова надлежног органа.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>У Регистар се      уписују и лична имена и пребивалишта потписника изјаве, са      назначењем њихове солидарне одговорности за обавезе задужбине и      фондације.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<heading>Упис стечаја</heading>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Уз пријаву за упис      стечајног поступка у Регистар подноси се:</p>
+							<point id="clan7-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> решење надлежног      стечајног суда о покретању стечајног поступка и именовању      стечајног управника;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> доказ о уплати      накнаде за упис стечајног поступка у Регистар.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<heading>Брисање</heading>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Уз пријаву за      брисање из Регистра подносе се:</p>
+							<point id="clan8-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> докази на основу      којих се утврђују чињенице из чл. 51. и 52. Закона о задужбинама      и фондацијама;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> доказ о уплати      накнаде за брисање задужбине и фондације из Регистра.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<heading>Упис усклађивања</heading>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Уз пријаву за упис у      Регистар, усклађивања задужбина, фондација и фондова који су      основани и уписани у регистре према Закону о задужбинама,      фондацијама и фондовима („<ref id="ref2" href="/rs/act/89/59/srp@">Службени гласник СРС”, број 59/89</ref>)      подноси се:</p>
+							<point id="clan9-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> потврда о раније      извршеном упису у регистар према Закону о задужбинама,      фондацијама и фондовима, коју издаје министарство надлежно за      културу;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> акт о именовању      органа управљања задужбине и фондације;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> доказ о      идентитету лица овлашћеног за заступање – фотокопија личне карте      или пасоша;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> записник са      седнице надлежног органа на којој је усвојен нови статут;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> нови статут;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> доказ о основној      имовини задужбине;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> друге исправе      донете у поступку усклађивања.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<heading>Ступање на снагу</heading>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Овај правилник ступа      на снагу наредног дана од дана објављивања у „Службеном гласнику      Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Број      110-00-5/2011-07</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>У      Београду, 4. марта 2011. године</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav5">
+						<content>
+							<p>Небојша Брадић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

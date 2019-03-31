@@ -1,0 +1,424 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2009/72-252/main"/>
+					<FRBRuri value="/rs/act/2009/72-252"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2009/79-19/srp@/main"/>
+					<FRBRuri value="/rs/act/2009/79-19/srp@"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2009/79-19/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2009/79-19/srp@.akn"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2009-9-3" name="“службени гласник рс" number="72" showAs="“Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="III ПРАВОСУЂЕ, КАЗНЕНО ЗАКОНОДАВСТВО И ПОСТУПЦИ" value="iii правосуђе, казнено законодавство и поступци"/>
+				<keyword id="grupa" showAs="2. Тужилаштво" value="2. тужилаштво"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2009-09-03" id="usvajanje"/>
+				<step date="2009-09-11" id="stupanje_na_snagu"/>
+				<step date="2009-09-11" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="72/2009-252" id="e1" type="generation"/>
+				<eventRef date="79/2009-19" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>Special value.</p>
+			<p>На основу <ref>члана 117. став 3. </ref>Закона о јавном тужилаштву („<ref id="ref1" href="/rs/act/08/116/srp@">Службени гласник Републике Србије”, број 116/08</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар правде доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о мерилима за одређивање броја особља у јавном тужилаштву</title>
+			<date>“Службени гласник РС”, бр. 72 од 3. септембра 2009, 79 од 28. септембра 2009.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Основне одредбе</heading>
+				<content>
+					<article id="od1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="od1-clan1-stav1">
+								<content>
+									<p>Овим правилником утврђују се мерила која су основ за одређивање потребног броја особља у основном, вишем и апелационом јавном тужилаштву, као и у јавном тужилаштву посебне надлежности и Републичком јавном тужилаштву.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="od1-clan2-stav1">
+								<content>
+									<p>Потребан број особља у јавном тужилаштву одређује се по правилу према броју јавних тужилаца и заменика јавних тужилаца (у даљем тексту: тужилац).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Мерила за основно и више јавно тужилаштво</heading>
+				<content>
+					<article id="od2-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="od2-clan3-stav1">
+								<content>
+									<p>Број тужилачких помоћника и тужилачких приправника за основно и више јавно тужилаштво одређује се тако што на два тужиоца долази по један тужилачки помоћник или по један тужилачки приправник, с тим да укупан број тужилачких помоћника не буде већи од 2/3, а број тужилачких приправника од 1/3 у односу на њихов укупан број*.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan4">
+						<num>4.</num>
+						<heading>*<ref id="ref2" href="/rs/act/2009/79/srp@">Службени гласник РС, број 79/2009</ref></heading>
+						<content>
+							<clause id="od2-clan4-stav1">
+								<content>
+									<p>Број записничара – дактилографа у основном и вишем јавном тужилаштву одређује се тако да на три тужиоца долази један записничар – дактилограф.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="od2-clan5-stav1">
+								<content>
+									<p>Број особља на административним пословима у основном и вишем јавном тужилаштву одређује се тако да на једног тужиоца долази до 0,4 извршиоца.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav2">
+								<content>
+									<p>Најмањи број особља на административним пословима у јавном тужилаштву не може бити мањи од пет.*</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan6">
+						<num>6.</num>
+						<heading>*<ref id="ref3" href="/rs/act/2009/79/srp@">Службени гласник РС, број 79/2009</ref></heading>
+						<content>
+							<clause id="od2-clan6-stav1">
+								<content>
+									<p>Број особља на информатичким пословима одређује се тако да у основном и вишем јавном тужилаштву буде до два извршиоца за ту врсту послова.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="od2-clan7-stav1">
+								<content>
+									<p>Број особља на техничким пословима одређује се тако да у основном и вишем јавном тужилаштву на једног тужиоца долази до 0,2 извршиоца.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="od2-clan8-stav1">
+								<content>
+									<p>Број особља на пословима одржавања чистоће одређује се према величини простора  за одржавање у тужилаштву, тако да на 400 m2 долази један извршилац.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Мерила за апелационо јавно тужилаштво</heading>
+				<content>
+					<article id="od3-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="od3-clan9-stav1">
+								<content>
+									<p>Број тужилачких помоћника за апелационо јавно тужилаштво одређује се тако да на три тужиоца долази један тужилачки помоћник.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="od3-clan10-stav1">
+								<content>
+									<p>Број записничара – дактилографа у апелационом јавном тужилаштву одређује се тако да на три тужиоца долази један записничар.</p>
+								</content>
+							</clause>
+							<clause id="od3-clan10-stav2">
+								<content>
+									<p>За обављање послова управе у апелационом јавном тужилаштву обезбеђује се један записничар – дактилограф.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="od3-clan11-stav1">
+								<content>
+									<p>Број особља на административним пословима у апелационом јавном тужилаштву одређује се тако да на једног тужиоца долази до 0,4 извршиоца.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="od3-clan12-stav1">
+								<content>
+									<p>Број особља на информатичким пословима одређује се тако да у апелационом јавном тужилаштву буде до два извршиоца за ту врсту послова.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="od3-clan13-stav1">
+								<content>
+									<p>Број особља на техничким пословима одређује се тако да у апелационом јавном тужилаштву на једног тужиоца долази до 0,2 извршиоца.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="od3-clan14-stav1">
+								<content>
+									<p>Број особља на пословима одржавања чистоће одређује се према величини простора  за одржавање у тужилаштву, тако да на 400 m2 долази један извршилац.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Мерила за јавно тужилаштво посебне надлежности</heading>
+				<content>
+					<article id="od4-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="od4-clan15-stav1">
+								<content>
+									<p>Број тужилачких помоћника за Тужилаштво за ратне злочине одређује се тако да на два тужиоца долази по један тужилачки помоћник.</p>
+								</content>
+							</clause>
+							<clause id="od4-clan15-stav2">
+								<content>
+									<p>Број тужилачких помоћника за Тужилаштво за организовани криминал одређује се тако да на једног тужиоца долази по један тужилачки помоћник.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od4-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="od4-clan16-stav1">
+								<content>
+									<p>Број записничара – дактилографа у Тужилаштву за ратне злочине одређује се тако да на два тужиоца долази један записничар.</p>
+								</content>
+							</clause>
+							<clause id="od4-clan16-stav2">
+								<content>
+									<p>Број записничара – дактилографа у Тужилаштву за организовани криминал одређује се тако да на једног тужиоца долази један записничар.</p>
+								</content>
+							</clause>
+							<clause id="od4-clan16-stav3">
+								<content>
+									<p>За обављање послова управе у јавном тужилаштву посебне надлежности обезбеђује се један записничар – дактилограф.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od4-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="od4-clan17-stav1">
+								<content>
+									<p>Број особља на административним пословима у јавном тужилаштву посебне надлежности одређује се тако да на једног тужиоца долази до 0,8 извршилаца.</p>
+								</content>
+							</clause>
+							<clause id="od4-clan17-stav2">
+								<content>
+									<p>Број особља на информатичким пословима у јавном тужилаштву посебне надлежности одређује се тако да у тужилаштву буде до три извршиоца за ту врсту послова.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od4-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="od4-clan18-stav1">
+								<content>
+									<p>Број особља на техничким пословима у јавном тужилаштву посебне надлежности одређује се тако да на једног тужиоца долази до 0,2 извршиоца.</p>
+								</content>
+							</clause>
+							<clause id="od4-clan18-stav2">
+								<content>
+									<p>Број особља на пословима одржавања чистоће одређује се према величини простора  за одржавање у тужилаштву, тако да на 400 m2 долази један извршилац.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> Мерила за Републичко јавно тужилаштво</heading>
+				<content>
+					<article id="od5-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="od5-clan19-stav1">
+								<content>
+									<p>Број саветника у Републичком јавном тужилаштву одређује се према броју јавних тужилаца, тако да један саветник долази на три тужиоца.</p>
+								</content>
+							</clause>
+							<clause id="od5-clan19-stav2">
+								<content>
+									<p>Број виших саветника у Републичком јавном тужилаштву одређује се тако да буде до пет извршилаца са тим звањем.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od5-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="od5-clan20-stav1">
+								<content>
+									<p>Број записничара – дактилографа у Републичком јавном тужилаштву одређује се тако да на два тужиоца долази један записничар.</p>
+								</content>
+							</clause>
+							<clause id="od5-clan20-stav2">
+								<content>
+									<p>За обављање послова управе у Републичком јавном тужилаштву обезбеђује се један записничар – дактилограф.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od5-clan21">
+						<num>21.</num>
+						<content>
+							<clause id="od5-clan21-stav1">
+								<content>
+									<p>Број особља на административним пословима у Републичком јавном тужилаштву одређује се тако на једног тужиоца долази до 0,8 извршиоца.</p>
+								</content>
+							</clause>
+							<clause id="od5-clan21-stav2">
+								<content>
+									<p>Број особља на информатичким пословима у Републичком јавном тужилаштву одређује се тако да у тужилаштву буде до три извршиоца.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od5-clan22">
+						<num>22.</num>
+						<content>
+							<clause id="od5-clan22-stav1">
+								<content>
+									<p>Број особља на техничким пословима у Републичком јавном тужилаштву одређује се тако да на једног тужиоца долази до 0,2 извршиоца.</p>
+								</content>
+							</clause>
+							<clause id="od5-clan22-stav2">
+								<content>
+									<p>Број особља на пословима одржавања чистоће одређује се према величини простора  за одржавање у тужилаштву, тако да на 400 m2 долази један извршилац.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+			<section id="od6">
+				<num>6.</num>
+				<heading> Завршне одредбе*</heading>
+				<content>
+					<article id="od6-clan22.а">
+						<num>22а</num>
+						<content>
+							<clause id="od6-clan22.а-stav1">
+								<content>
+									<p>Потребан број особља за друге послове у јавном тужилаштву (лектор, портпарол, библиотекар, међународне интеграције), одређује се тако да за ту врсту послова у јавном тужилаштву буде обезбеђен најмање један извршилац.*</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od6-clan22.б">
+						<num>22б</num>
+						<heading>*<ref id="ref4" href="/rs/act/2009/79/srp@">Службени гласник РС, број 79/2009</ref></heading>
+						<content>
+							<clause id="od6-clan22.б-stav1">
+								<content>
+									<p>Упражњена места у јавном тужилаштву попуњавају се ако су предвиђена актом о унутрашњем уређењу и систематизацији радних места, у складу са одобреним кадровским планом за текућу годину.*</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od6-clan23">
+						<num>23.</num>
+						<heading>*<ref id="ref5" href="/rs/act/2009/79/srp@">Службени гласник РС, број 79/2009</ref></heading>
+						<content>
+							<clause id="od6-clan23-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="od6-clan23-stav2">
+								<content>
+									<p>Број 110-00-20/2009-03</p>
+								</content>
+							</clause>
+							<clause id="od6-clan23-stav3">
+								<content>
+									<p>У Београду, 3. септембра 2009. године</p>
+								</content>
+							</clause>
+							<clause id="od6-clan23-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="od6-clan23-stav5">
+								<content>
+									<p>Снежана Маловић, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

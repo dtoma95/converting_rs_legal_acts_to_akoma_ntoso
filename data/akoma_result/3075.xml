@@ -1,0 +1,450 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1997/9-3/main"/>
+					<FRBRuri value="/rs/act/1997/9-3"/>
+					<FRBRdate date="1997" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1999/20-4/srp@/main"/>
+					<FRBRuri value="/rs/act/1999/20-4/srp@"/>
+					<FRBRdate date="1999" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1999/20-4/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1999/20-4/srp@.akn"/>
+					<FRBRdate date="1999" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1997-2-28" name="службени лист срј" number="9" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Наредба" value="наредба"/>
+				<keyword id="oblast" showAs="VIII РАЗВОЈ" value="viii развој"/>
+				<keyword id="grupa" showAs="4. Квалитет предмета опште употребе и животних намирница" value="4. квалитет предмета опште употребе и животних намирница"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1997-02-25" id="usvajanje"/>
+				<step date="1997-03-08" id="stupanje_na_snagu"/>
+				<step date="1997-03-08" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="9/1997-3" id="e1" type="generation"/>
+				<eventRef date="24/1997-2" id="e2" type="amendment"/>
+				<eventRef date="20/1999-4" id="e3" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу  <ref>члана 32. став 2. </ref>Закона о здравственој исправности животних намирница и предмета опште употребе (“<ref id="ref1" href="/rs/act/91/53/srp@">Службени лист СФРЈ”, бр. 53/91</ref> и “<ref id="ref2" href="/rs/act/96/28/srp@">Службени лист СРЈ”, бр. 28/96</ref>), савезни министар за рад, здравство и социјалну политику издаје</p>
+		</preamble>
+		<preface>
+			<authority>НАРЕДБА</authority>
+			<title>о висини и начину плаћања накнаде за покривање трошкова испитивања и утврђивања здравствене исправности животних намирница и предмета опште употребе који се увозе</title>
+			<date>„Службени лист СРЈ”, бр. 9 од 28  фебруара 1997, 24 од 30.  маја 1997, 20 од 2.  априла 1999.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> За покриће трошкова испитивања и утврђивања здравствене исправности животних намирница и предмета опште употребе који се увозе увозник плаћа накнаду, која обухвата:</heading>
+				<content>
+					<point id="od1-tac1">
+						<num>1)</num>
+						<content>
+							<p> накнаду за покривање трошкова прегледа, узимања и слања узорака на анализу по групи производа чији се преглед врши, односно од којих су узети узорци ради испитивања здравствене исправности;</p>
+						</content>
+					</point>
+					<point id="od1-tac2">
+						<num>2)</num>
+						<content>
+							<p> накнаду за покривање трошкова лабораторијских испитивања узорака који се, на захтев савезног санитарног инспектора, врше ради утврђивања здравствене исправности пошиљке.</p>
+						</content>
+					</point>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Висина накнаде из тачке 1. одредбе под 1 ове наредбе, зависно од начина транспорта, масе пошиљке и групе производа, износи:</heading>
+				<content>
+					<point id="od2-tac1">
+						<num>1)</num>
+						<content>
+							<p> за вагонске, камионске, авионске и контејнерске пошиљке до 20 тона – 150 нових динара, а за сваку даљу, односно започету тону у пошиљци преко 20 тона – још по 5* нових динара;</p>
+						</content>
+					</point>
+					<point id="od2-tac2">
+						<num>2)</num>
+						<content>
+							<p> за бродске пошиљке до 50 тона – 500 нових динара, а за сваку даљу, односно започету тону у пошиљци преко 50 тона – још по 1 нови динар;</p>
+						</content>
+					</point>
+					<point id="od2-tac3">
+						<num>3)</num>
+						<content>
+							<p> за денчане пошиљке до 3 колета – 75 нових динара, а за свако даље колето – још по 10 нових динара.</p>
+						</content>
+					</point>
+					<clause id="od2-stav1">
+						<content>
+							<p>За поштанске и друге пошиљке које се увозе као узорци за лабораторијска и научна испитивања, целина пошиљке третира се као једна група и плаћа се накнада од 25 динара.</p>
+						</content>
+					</clause>
+					<clause id="od2-stav2">
+						<content>
+							<p>Маса пошиљке утврђује се за сваку групу производа утврђених у Листи група животних намирница и предмета опште употребе, која је одштампана уз ову наредбу и чини њен саставни део.</p>
+						</content>
+					</clause>
+					<clause id="od2-stav3">
+						<content>
+							<p>*<ref id="ref3" href="/rs/act/1997/24/srp@">Службени лист СРЈ, број 24/1997</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Ако се здравствени преглед животних намирница и предмета опште употребе врши ноћу, недељом и у дане државних празника, накнаде из тачке 2. ове наредбе увећавају се за 100% по свакој групи производа у пошиљци чији се здравствени преглед врши у том времену.</heading>
+				<content/>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Ако увозник благовремено не припреми за здравствени преглед животне намирнице и предмете опште употребе по поднесеној пријави о приспећу пошиљке, а савезни санитарни инспектор који врши здравствени преглед изађе по позиву на место прегледа у одређено време, дужан је да на име дангубе савезног санитарног инспектора плати 200 нових динара за сваки сат чекања, рачунајући од времена које је увозник навео у пријави за преглед пошиљке до момента кад је роба спремна за преглед.</heading>
+				<content>
+					<clause id="od4-stav1">
+						<content>
+							<p>4а. За време ратног стања, непосредне ратне опасности или ванредног стања накнаде утврђене у тач. 2, 3. и 4. ове наредбе увећавају се за 100%.*</p>
+						</content>
+					</clause>
+					<clause id="od4-stav2">
+						<content>
+							<p>*<ref id="ref4" href="/rs/act/1999/20/srp@">Службени лист СРЈ, број 20/1999</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> За пошиљке које се увозе за хуманитарне потребе накнаде из тач. 2. до 4. ове наредбе се не наплаћују.</heading>
+				<content/>
+			</section>
+			<section id="od6">
+				<num>6.</num>
+				<heading> Новчане износе накнада утврђене у тач. 2. и 3. ове наредбе увозник уплаћује приликом подношења захтева за утврђивање здравствене исправности животних намирница и предмета опште употребе, а накнаде из тачке 4 – по извршеном прегледу на евидентни рачун 40818-845-1312 – Савезни санитарни инспекторат – накнада за здравствени преглед пошиљке животних намирница и предмета опште употребе из увоза.</heading>
+				<content>
+					<clause id="od6-stav1">
+						<content>
+							<p>Накнаду из тачке 1. одредба под 2 ове наредбе увозник уплаћује у корист овлашћене установе која на захтев савезног санитарног инспектора изврши лабораторијско испитивање узорака, према ценама и рачуну који та установа испостави увознику.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od7">
+				<num>7.</num>
+				<heading> Даном ступања на снагу ове наредбе престаје да важи Наредба о висини и начину плаћања накнаде за покривање трошкова утврђивања здравствене исправности животних намирница и предмета опште употребе који се увозе („<ref id="ref5" href="/rs/act/93/81/srp@">Службени лист СРЈ”, бр. 81/93</ref> и 13/94).</heading>
+				<content/>
+			</section>
+			<section id="od8">
+				<num>8.</num>
+				<heading> Ова наредба ступа на снагу осмог дана од дана објављивања у „Службеном листу СРЈ”.</heading>
+				<content>
+					<clause id="od8-stav1">
+						<content>
+							<p>Бр. 3/1–10–015/96–003</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od25">
+				<num>25.</num>
+				<heading> фебруара 1997. године</heading>
+				<content>
+					<clause id="od25-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od25-stav2">
+						<content>
+							<p>Савезни министар за рад,</p>
+						</content>
+					</clause>
+					<clause id="od25-stav3">
+						<content>
+							<p>здравство и социјалну политику,</p>
+						</content>
+					</clause>
+					<clause id="od25-stav4">
+						<content>
+							<p>Мирослав Иванишевић,  с. р.</p>
+						</content>
+					</clause>
+					<clause id="od25-stav5">
+						<content>
+							<p>ЛИСТА</p>
+						</content>
+					</clause>
+					<clause id="od25-stav6">
+						<content>
+							<p>ГРУПА ЖИВОТНИХ НАМИРНИЦА И ПРЕДМЕТА ОПШТЕ УПОТРЕБЕ</p>
+						</content>
+					</clause>
+					<clause id="od25-stav7">
+						<content>
+							<p>ЛИСТА А – групе животних намирница</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od1">
+				<num>1.</num>
+				<heading> месо и производи од меса</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> рибе и производи од рибе</heading>
+				<content/>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> готова јела</heading>
+				<content/>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> смрзнута јела</heading>
+				<content/>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> дечја храна</heading>
+				<content/>
+			</section>
+			<section id="od6">
+				<num>6.</num>
+				<heading> дијететска храна</heading>
+				<content/>
+			</section>
+			<section id="od7">
+				<num>7.</num>
+				<heading> млеко и производи од млека</heading>
+				<content/>
+			</section>
+			<section id="od8">
+				<num>8.</num>
+				<heading> маст и уља</heading>
+				<content/>
+			</section>
+			<section id="od9">
+				<num>9.</num>
+				<heading> житарице</heading>
+				<content/>
+			</section>
+			<section id="od10">
+				<num>10.</num>
+				<heading> производи од житарица</heading>
+				<content/>
+			</section>
+			<section id="od11">
+				<num>11.</num>
+				<heading> јаја и производи од јаја</heading>
+				<content/>
+			</section>
+			<section id="od12">
+				<num>12.</num>
+				<heading> поврће и производи од поврћа</heading>
+				<content/>
+			</section>
+			<section id="od13">
+				<num>13.</num>
+				<heading> печурке и њихови производи</heading>
+				<content/>
+			</section>
+			<section id="od14">
+				<num>14.</num>
+				<heading> јужно воће и њихови производи</heading>
+				<content/>
+			</section>
+			<section id="od15">
+				<num>15.</num>
+				<heading> остало воће и њихови производи</heading>
+				<content/>
+			</section>
+			<section id="od16">
+				<num>16.</num>
+				<heading> шећер, мед</heading>
+				<content/>
+			</section>
+			<section id="od17">
+				<num>17.</num>
+				<heading> зачини (со, бибер, итд)</heading>
+				<content/>
+			</section>
+			<section id="od18">
+				<num>18.</num>
+				<heading> какаовац – какао производи</heading>
+				<content/>
+			</section>
+			<section id="od19">
+				<num>19.</num>
+				<heading> адитиви</heading>
+				<content/>
+			</section>
+			<section id="od20">
+				<num>20.</num>
+				<heading> кафа, чајеви</heading>
+				<content/>
+			</section>
+			<section id="od21">
+				<num>21.</num>
+				<heading> алкохолна пића и сировине</heading>
+				<content/>
+			</section>
+			<section id="od22">
+				<num>22.</num>
+				<heading> безалкохолна пића и сировине</heading>
+				<content/>
+			</section>
+			<section id="od23">
+				<num>23.</num>
+				<heading> остало</heading>
+				<content>
+					<clause id="od23-stav1">
+						<content>
+							<p>ЛИСТА Б – групе предмета опште употребе</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od1">
+				<num>1.</num>
+				<heading> метално посуђе и прибор</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> емајлирано посуђе и прибор</heading>
+				<content/>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> цементно посуђе и прибор</heading>
+				<content/>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> глинено, керамичко, порцуланско и стаклено посуђе и прибор</heading>
+				<content/>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> посуђе и прибор од вештачких маса</heading>
+				<content/>
+			</section>
+			<section id="od6">
+				<num>6.</num>
+				<heading> дрвено посуђе и прибор</heading>
+				<content/>
+			</section>
+			<section id="od7">
+				<num>7.</num>
+				<heading> прибор од гуме</heading>
+				<content/>
+			</section>
+			<section id="od8">
+				<num>8.</num>
+				<heading> прибор од текстила</heading>
+				<content/>
+			</section>
+			<section id="od9">
+				<num>9.</num>
+				<heading> остали прибор</heading>
+				<content/>
+			</section>
+			<section id="od10">
+				<num>10.</num>
+				<heading> амбалажа од метала</heading>
+				<content/>
+			</section>
+			<section id="od11">
+				<num>11.</num>
+				<heading> амбалажа од вештачких маса</heading>
+				<content/>
+			</section>
+			<section id="od12">
+				<num>12.</num>
+				<heading> амбалажа од хартије</heading>
+				<content/>
+			</section>
+			<section id="od13">
+				<num>13.</num>
+				<heading> амбалажа од стакла</heading>
+				<content/>
+			</section>
+			<section id="od14">
+				<num>14.</num>
+				<heading> амбалажа од дрвета</heading>
+				<content/>
+			</section>
+			<section id="od15">
+				<num>15.</num>
+				<heading> амбалажа од текстила</heading>
+				<content/>
+			</section>
+			<section id="od16">
+				<num>16.</num>
+				<heading> адитиви за предмете опште употребе</heading>
+				<content/>
+			</section>
+			<section id="od17">
+				<num>17.</num>
+				<heading> средства за одржавање личне хигјене, негу и улепшавање лица и тела</heading>
+				<content/>
+			</section>
+			<section id="od18">
+				<num>18.</num>
+				<heading> средства за прање и оплемењивање текстила</heading>
+				<content/>
+			</section>
+			<section id="od19">
+				<num>19.</num>
+				<heading> средства за прање и чишћење посуђа и прибора за јело и апарата за домаћинство</heading>
+				<content/>
+			</section>
+			<section id="od20">
+				<num>20.</num>
+				<heading> средства за ДДД</heading>
+				<content/>
+			</section>
+			<section id="od21">
+				<num>21.</num>
+				<heading> освеживачи за просторије</heading>
+				<content/>
+			</section>
+			<section id="od22">
+				<num>22.</num>
+				<heading> дуван, дуванске прерађевине и сировине</heading>
+				<content/>
+			</section>
+			<section id="od23">
+				<num>23.</num>
+				<heading> дечије играчке</heading>
+				<content/>
+			</section>
+			<section id="od24">
+				<num>24.</num>
+				<heading> остало</heading>
+				<content/>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,317 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2012/120-154/main"/>
+					<FRBRuri value="/rs/act/2012/120-154"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2012/120-154/srp@/main"/>
+					<FRBRuri value="/rs/act/2012/120-154/srp@"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2012/120-154/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2012/120-154/srp@.akn"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2012-12-21" name="службени гласник рс" number="120" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="7. Државна граница" value="7. државна граница"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2012-12-13" id="usvajanje"/>
+				<step date="2012-12-29" id="stupanje_na_snagu"/>
+				<step date="2012-12-29" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 62. став 2. </ref>Закона о заштити државне границе („<ref id="ref7" href="/rs/act/08/97/srp@">Службени гласник РС”, број 97/08</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар унутрашњих послова доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о садржају, начину вођења и року чувања података у евиденцијама које води гранична полиција</title>
+			<date>&quot;Службени гласник РС&quot;, број 120 од 21.   децембра 2012.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се садржај, начин вођења и рокови чувања података у евиденцијама које води гранична полиција.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Евиденције се састоје од:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> Евиденције лица над којима је извршена гранична контрола;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> Евиденције лица којима није дозвољен прелазак државне границе (Образац 1);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> Евиденције лица према којима је спроведен поступак утврђивања идентитета (Образац 2);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> Евиденције лица којима су издате граничне дозволе (Образац 3);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> Евиденције лица којима су издате дозволе за кретање и задржавање на подручју граничног прелаза (Образац 4);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> Евиденције лица којима су издате дозволе за кретање и задржавање на подручју насељеног места у коме се налази гранични прелаз (Образац 5);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> Евиденције лица којима је одбијен захтев за издавање дозволе за кретање и задржавање на подручју граничног прелаза (Образац 6);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> Евиденције лица којима је одузета дозвола за кретање и задржавање на подручју граничног прелаза (Образац 7);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> Евиденције припадника страних служби безбедности којима је издато одобрење за улазак у Републику Србију са оружјем, односно чији је улазак у Републику Србију најављен (Образац 8 и Образац 8а);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> Евиденције лица којима је издата идентификациона карта за кретање и задржавање на подручју граничног прелаза (Образац 9);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> Евиденције лица која су учинила повреду државне границе (Образац 10);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> Евиденције лица која су најавила лов, односно риболов уз граничну линију (Образац 11 и Образац 11а);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> Евиденције лица која су поднела захтеве за давање сагласности о усклађености главног, односно идејног пројекта из <ref>члана 19. </ref>Закона (Образац 12);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac14">
+								<num>14)</num>
+								<content>
+									<p> Евиденције лица којима је издата сагласност о усклађености главног, односно идејног пројекта из <ref>члана 19. </ref>Закона (Образац 13);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac15">
+								<num>15)</num>
+								<content>
+									<p> Евиденције лица којима је издато одобрење за уношење, преношење и изношење ватреног оружја и муниције (Образац 14).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Евиденције из става 1. тачка 1) овог члана води се као централна електронска база података и садржи: име и презиме лица, датум рођења, држављанство, пол, државу издавања личне исправе, рок важења исправе, број личне исправе, тип личне исправе, ЈМБГ полицијског службеника који је извршио граничну контролу, гранични прелаз на ком је извршена контрола, датум и време контроле, податке да је гранична контрола извршена при улазу/излазу и скенирани идентификациони документ са личним подацима.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Евиденције из става 1. тач. 2) – 15) овог члана воде се у оквиру тврде укоричене књиге формата А4, а могу се водити и у електронском облику.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Подаци садржани у евиденцијама из <ref>члана 2. овог</ref> правилника чувају се:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> подаци из Евиденције из тачке 1) – пет година од извршене граничне контроле;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> подаци из евиденција из тач. 2), 3), 7), 8), 9), 11), 13), 14) и 15) – трајно;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> подаци из евиденција из тач. 4), 5), 6), 10) и 12) – пет година од издавања дозволе или идентификационе карте, најаве лова односно риболова.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Евиденције из <ref>члана 2. овог</ref> правилника воде се на обрасцима 1–14, који су дати у прилогу овог правилника и чине његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Број 11535/2012-3</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>У Београду, 13. децембра 2012. године</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>Министар</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav5">
+						<content>
+							<p>унутрашњих послова,</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav6">
+						<content>
+							<p>Ивица Дачић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav7">
+						<content>
+							<p>Листа образаца:</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav8">
+						<content>
+							<p>Евиденције лица којима није дозвољен прелазак државне границе (Образац 1)</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav9">
+						<content>
+							<p>Евиденције лица према којима је спроведен поступак утврђивања идентитета (Образац 2)</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav10">
+						<content>
+							<p>Евиденције лица којима су издате граничне дозволе (Образац 3)</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav11">
+						<content>
+							<p>Евиденције лица којима су издате дозволе за кретање и задржавање на подручју граничног прелаза (Образац 4)</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav12">
+						<content>
+							<p>Евиденције лица којима су издате дозволе за кретање и задржавање на подручју насељеног места у коме се налази гранични прелаз (Образац 5)</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav13">
+						<content>
+							<p>Евиденције лица којима је одбијен захтев за издавање дозволе за кретање и задржавање на подручју граничног прелаза (Образац 6)</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav14">
+						<content>
+							<p>Евиденције лица којима је одузета дозвола за кретање и задржавање на подручју граничног прелаза (Образац 7)</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav15">
+						<content>
+							<p>Евиденције припадника страних служби безбедности којима је издато одобрење за улазак у Републику Србију са оружјем, односно чији је улазак у Републику Србију најављен (Образац 8 и Образац 8а)</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav16">
+						<content>
+							<p>Евиденције лица којима је издата идентификациона карта за кретање и задржавање на подручју граничног прелаза (Образац 9)</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav17">
+						<content>
+							<p>Евиденције лица која су учинила повреду државне границе (Образац 10)</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav18">
+						<content>
+							<p>Евиденције лица која су најавила лов, односно риболов уз граничну линију (Образац 11 и Образац 11а)</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav19">
+						<content>
+							<p>Евиденције лица која су поднела захтеве за давање сагласности о усклађености главног, односно идејног пројекта из <ref>члана 19. </ref>Закона (Образац 12)</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav20">
+						<content>
+							<p>Евиденције лица којима је издата сагласност о усклађености главног, односно идејног пројекта из <ref>члана 19. </ref>Закона (Образац 13)</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

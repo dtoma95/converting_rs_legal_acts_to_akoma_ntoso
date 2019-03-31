@@ -1,0 +1,169 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1967/19-533/main"/>
+					<FRBRuri value="/rs/act/1967/19-533"/>
+					<FRBRdate date="1967" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1967/22-664/srp@/main"/>
+					<FRBRuri value="/rs/act/1967/22-664/srp@"/>
+					<FRBRdate date="1967" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1967/22-664/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1967/22-664/srp@.akn"/>
+					<FRBRdate date="1967" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1967-5-5" name="“службени лист сфрј" number="19" showAs="“Службени лист СФРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Наредба" value="наредба"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="4. Заштита биља" value="4. заштита биља"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1967-04-18" id="usvajanje"/>
+				<step date="1967-05-13" id="stupanje_na_snagu"/>
+				<step date="" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="19/1967-533" id="e1" type="generation"/>
+				<eventRef date="22/1967-664" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу   члана   59. у вези са чланом 23. Основног Закона о заштити биља од болести и штеточина  (“<ref id="ref0" href="/rs/act/65/13/srp@">Службени лист СФРЈ”, бр.   13/65</ref>), савезни   секретар за  пољопривреду   издаје</p>
+		</preamble>
+		<preface>
+			<authority>НАРЕДБУ</authority>
+			<title>о условима за стављање у промет плодова и дрвета питомог кестена заражених раком  кестенове коре</title>
+			<date>“Службени лист СФРЈ”, бр. 19 од 5.  маја 1967, 22 од 17.   маја 1967  -  исправка</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Плодови и дрво питомог кестена (Castanea  vesca* L) који су заражени или се сумња да су заражени раком кестенове коре (Endothia parasitica Murr.) могу се стављати у промет ради непосредне потрошње, индустријске прераде или у научне сврхе, под условом:</heading>
+				<content>
+					<point id="od1-tac1">
+						<num>1)</num>
+						<content>
+							<p> да су плодови без купола (љуштура), а дрво без коре и лике;</p>
+						</content>
+					</point>
+					<point id="od1-tac2">
+						<num>2)</num>
+						<content>
+							<p> да се отпаци (кора, лика, иверје и грање) спале или закопају у сечишту.</p>
+						</content>
+					</point>
+					<clause id="od1-stav1">
+						<content>
+							<p>Ако се плодови и дрво питомог кестена из става 1. ове тачке преводе преко незараженог подручја или отпремају у незаражено подручје треба да су испуњени још и следећи услови:</p>
+							<point id="od1-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> да су плодови и дрво дезинфиковани пре отпремања и да је то потврдио надлежни инспектор за заштиту биља;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> да се превоз врши затвореним или прекривеним (цирадом или сличном материјом) превозним средствима, која после истовара морају бити дезинфикована.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="od1-stav2">
+						<content>
+							<p>*<ref id="ref1" href="/rs/act/1967/22/srp@">Службени лист СФРЈ, број 22/1967</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Дезинфекција у смислу тачке 1. ове наредбе врши се, и то:</heading>
+				<content>
+					<point id="od2-tac1">
+						<num>1)</num>
+						<content>
+							<p> плодова - држањем у 0,5% раствору формалина (40% формалдехида) у трајању од пола часа;</p>
+						</content>
+					</point>
+					<point id="od2-tac2">
+						<num>2)</num>
+						<content>
+							<p> дрвета - држањем у 5% раствору формалина у трајању од 5 минута, или премазивањем двапут четком односно прскањем дрвета 5% раствором натријум-пентахлорфенолата или 3% раствором Волманових соли;</p>
+						</content>
+					</point>
+					<point id="od2-tac3">
+						<num>3)</num>
+						<content>
+							<p> превозних средстава - премазивањем или прскањем 5% раствором натријумпентахлорфенолата или 3% раствором Волманових соли.</p>
+							<тачка id="od2-tac3">
+								<num>3.</num>
+								<content>
+									<p> Даном ступања на снагу ове наредбе престаје да важи Привремено упутство о условима за стављање у промет плодова и дрвета питомог кестена, које је издала Савезна управа за заштиту биља под бр. 2324 од 13. октобра 1956. године.</p>
+								</content>
+							</тачка>
+						</content>
+					</point>
+					<тачка id="od2-tac4">
+						<num>4.</num>
+						<content>
+							<p> Ова наредба ступа на снагу осмог дана од дана објављивања у “Службеном листу СФРЈ”.</p>
+						</content>
+					</тачка>
+					<clause id="od2-stav1">
+						<content>
+							<p>Бр 08-136/1</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od18">
+				<num>18.</num>
+				<heading> априла 1967. године</heading>
+				<content>
+					<clause id="od18-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od18-stav2">
+						<content>
+							<p>Заменик</p>
+						</content>
+					</clause>
+					<clause id="od18-stav3">
+						<content>
+							<p>савезног  секретара</p>
+						</content>
+					</clause>
+					<clause id="od18-stav4">
+						<content>
+							<p>за пољопривреду и шумарство,</p>
+						</content>
+					</clause>
+					<clause id="od18-stav5">
+						<content>
+							<p>Душан Илијевић,  с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

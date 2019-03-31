@@ -1,0 +1,221 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2006/81-12/main"/>
+					<FRBRuri value="/rs/act/2006/81-12"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2007/24-14/srp@/main"/>
+					<FRBRuri value="/rs/act/2007/24-14/srp@"/>
+					<FRBRdate date="2007" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2007/24-14/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2007/24-14/srp@.akn"/>
+					<FRBRdate date="2007" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2006-9-29" name="службени гласник рс" number="81" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="8. Девизно пословање и страна улагања" value="8. девизно пословање и страна улагања"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2006-09-26" id="usvajanje"/>
+				<step date="2006-09-30" id="stupanje_na_snagu"/>
+				<step date="2006-09-30" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="81/2006-12" id="e1" type="generation"/>
+				<eventRef date="116/2006-36" id="e2" type="amendment"/>
+				<eventRef date="24/2007-14" id="e3" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>Редакцијски   пречишћен   текст</p>
+			<p>На основу <ref>члана 21. став 1. </ref>Закона о Народној банци Србије („<ref id="ref1" href="/rs/act/2003/72/srp@">Службени гласник РС”, бр. 72/2003</ref> и 55/2004), а у вези с чланом 39. Закона о девизном пословању („<ref id="ref2" href="/rs/act/2006/62/srp@">Службени гласник РС”, број 62/2006</ref>),</p>
+			<p>Гувернер Народне банке Србије доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о откупу ефективног страног новца земаља чланица Европске монетарне уније</title>
+			<date>„Службени  гласник РС“, бр. 81 од 29. септембра 2006, 116 од 29. децембра 2006, 24 од 2. марта 2007</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Банке и овлашћени мењачи*, у складу са овом одлуком, откупљују ефективни страни новац земаља чланица Европске монетарне уније који је у тим земљама престао да важи као средство плаћања (у даљем тексту: ефективни страни новац), и то:</heading>
+				<content>
+					<point id="od1-tac1">
+						<num>1)</num>
+						<content>
+							<p> аустријски шилинг (ATS),</p>
+						</content>
+					</point>
+					<point id="od1-tac2">
+						<num>2)</num>
+						<content>
+							<p> белгијски франак(BEF),</p>
+						</content>
+					</point>
+					<point id="od1-tac3">
+						<num>3)</num>
+						<content>
+							<p> финску марку(FIM),</p>
+						</content>
+					</point>
+					<point id="od1-tac4">
+						<num>4)</num>
+						<content>
+							<p> француски франак (FRF),</p>
+						</content>
+					</point>
+					<point id="od1-tac5">
+						<num>5)</num>
+						<content>
+							<p> немачку марку (DEM),</p>
+						</content>
+					</point>
+					<point id="od1-tac6">
+						<num>6)</num>
+						<content>
+							<p> грчку драхму (GRD),</p>
+						</content>
+					</point>
+					<point id="od1-tac7">
+						<num>7)</num>
+						<content>
+							<p> ирску фунту (IEP),</p>
+						</content>
+					</point>
+					<point id="od1-tac8">
+						<num>8)</num>
+						<content>
+							<p> италијанску лиру(ITL),</p>
+						</content>
+					</point>
+					<point id="od1-tac9">
+						<num>9)</num>
+						<content>
+							<p> португалски ескудо(PTE),</p>
+						</content>
+					</point>
+					<point id="od1-tac10">
+						<num>10)</num>
+						<content>
+							<p> шпанску пезету (ESP),</p>
+						</content>
+					</point>
+					<point id="od1-tac11">
+						<num>11)</num>
+						<content>
+							<p> луксембуршки франак, (LUF).</p>
+						</content>
+					</point>
+					<clause id="od1-stav1">
+						<content>
+							<p>*<ref id="ref3" href="/rs/act/2006/116/srp@">Службени гласник РС, број 116/2006</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Курсеви за ефективни страни новац за валуте из тачке 1. ове одлуке формирају се у складу с прописом којим се уређују услови и начин рада девизног тржишта.*</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>*<ref id="ref4" href="/rs/act/2006/116/srp@">Службени гласник РС, број 116/2006</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Ефективни страни новац откупљује се у складу са одлуком којом су уређени услови и начин обављања мењачких послова.</heading>
+				<content>
+					<clause id="od3-stav1">
+						<content>
+							<p>Брисане су тачке 4. и 5. (види тачку 2. Одлуке – 24/2007-14)</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od6">
+				<num>6.</num>
+				<heading> Даном ступања на снагу ове одлуке престаје да важи Одлука о откупу ефективног страног новца земаља чланица Европске монетарне уније („<ref id="ref5" href="/rs/act/2003/15/srp@">Службени гласник РС”, број 15/2003</ref>).</heading>
+				<content/>
+			</section>
+			<section id="od7">
+				<num>7.</num>
+				<heading> Ова одлука ступа на снагу наредног дана од дана објављивања у „Службеном гласнику РС”.</heading>
+				<content>
+					<clause id="od7-stav1">
+						<content>
+							<p>О. број 105</p>
+						</content>
+					</clause>
+					<clause id="od7-stav2">
+						<content>
+							<p>У Београду, 26. септембра 2006. године</p>
+						</content>
+					</clause>
+					<clause id="od7-stav3">
+						<content>
+							<p>Гувернер</p>
+						</content>
+					</clause>
+					<clause id="od7-stav4">
+						<content>
+							<p>Народне банке Србије.</p>
+						</content>
+					</clause>
+					<clause id="od7-stav5">
+						<content>
+							<p>Радован Јелашић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="od7-stav6">
+						<content>
+							<p>ОДРЕДБЕ КОЈЕ НИСУ УНЕТЕ У „ПРЕЧИШЋЕН ТЕКСТ“ ОДЛУКЕ</p>
+						</content>
+					</clause>
+					<clause id="od7-stav7">
+						<content>
+							<p>Одлука о изменама Одлуке о откупу ефективног страног новца земаља чланица Европске монетарне уније (&quot;<ref id="ref6" href="/rs/act/2006/116/srp@">Службени гласник РС&quot;, број 116/2006</ref>)</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Ова одлука ступа на снагу наредног дана од дана објављивања у „Службеном гласнику РС”, а примењује се од 1. јануара 2007. године.</heading>
+				<content>
+					<clause id="od4-stav1">
+						<content>
+							<p>Одлука о изменама Одлуке о откупу ефективног страног новца земаља чланица Европске монетарне уније (&quot;<ref id="ref7" href="/rs/act/2006/116/srp@">Службени гласник РС&quot;, број 116/2006</ref>)</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Ова одлука ступа на снагу наредног дана од дана објављивања у „Службеном гласнику РС”, а примењује се од 5. марта 2007. године.</heading>
+				<content/>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

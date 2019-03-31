@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2013/19-6/main"/>
+					<FRBRuri value="/rs/act/2013/19-6"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2013/19-6/srp@/main"/>
+					<FRBRuri value="/rs/act/2013/19-6/srp@"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2013/19-6/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2013/19-6/srp@.akn"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2013-2-27" name="службени гласник рс" number="19" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="6. Трансплантације и трансфузиолошка делатност" value="6. трансплантације и трансфузиолошка делатност"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2013-01-22" id="usvajanje"/>
+				<step date="2013-03-07" id="stupanje_na_snagu"/>
+				<step date="2013-03-07" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>Неважећи акт</p>
+			<p>На основу <ref>члана 22. став 2. </ref>Закона о трансфузиолошкој делатности („<ref id="ref4" href="/rs/act/09/72/srp@">Службени гласник РС”, број 72/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар здравља доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о ближим условима за тестирање крви и компонената крви</title>
+			<date>&quot;Службени гласник РС&quot;, број 19 од 27.   фебруара 2013.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се ближи услови за тестирање крви и компонената крви.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Овлашћена трансфузиолошка установа која има дозволу за обављање поступка тестирања крви врши тестирање крви и компонената крви у просторији која је намењена за тестирање крви и компонената крви.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Просторија из става 1. овог члана треба да буде адекватно осветљена, климатизована, чиста, као и дезинфикована након сваког уласка и изласка из ње.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Овлашћена трансфузиолошка установа из <ref>члана 2. став 1. овог</ref> правилника треба да има аутоматизован уређај за тестирање крви и компонената крви који тестира сваку прикупљену јединицу крви или компоненту крви, и то:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> имунохематолошки – ради одређивања:</p>
+									<item id="clan3-stav1-tac1-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> АБО крвне групе,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac1-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> присуства Рх – Д антигена,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac1-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> Рх фенотипа код Рx Д негативних давалаца Цц, Ее,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac1-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> скрининг клинички значајних антитела, односно присуства ирегуларних еритроцитних антитела;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> серолошки – ради утврђивања присуства инфекције вирусом Хепатитиса Б, Хепатитиса Ц, хумане имунодефицијенције и „Treponeme pallidum”.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Уређај из <ref>члана 3. овог</ref> правилника треба да буде инсталиран, калибрисан и валидиран.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Након завршетка рада са уређајем из <ref>члана 3. овог</ref> правилника, лице које рукује са њим, припрема га за наредну употребу (чисти га, брише и сл.).</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Лице из става 2. овог члана мора да буде едуковано за руковање уређајем за тестирање крви и компонената крви.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Број 110-00-2/2013-01</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>У Београду, 22. јануара 2013. године</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav5">
+						<content>
+							<p>проф. др   Славица Ђукић Дејановић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

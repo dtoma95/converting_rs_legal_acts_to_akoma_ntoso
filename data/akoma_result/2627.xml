@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2002/45-2/main"/>
+					<FRBRuri value="/rs/act/2002/45-2"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2002/45-2/srp@/main"/>
+					<FRBRuri value="/rs/act/2002/45-2/srp@"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2002/45-2/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2002/45-2/srp@.akn"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2002-8-20" name="службени лист срј“" number="45" showAs="Службени лист СРЈ“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="V МОНЕТАРНИ СИСТЕМ, ФИНАНСИЈСКЕ ОРГАНИЗАЦИЈЕ И ФИНАНСИЈСКО ПОСЛОВАЊЕ" value="v монетарни систем, финансијске организације и финансијско пословање"/>
+				<keyword id="grupa" showAs="6. Издавање, основна обележја и пуштање у оптицај новчаница, кованог новца и пригодног кованог новца" value="6. издавање, основна обележја и пуштање у оптицај новчаница, кованог новца и пригодног кованог новца"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2002-08-20" id="usvajanje"/>
+				<step date="2002-08-20" id="stupanje_na_snagu"/>
+				<step date="2002-08-20" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу члана 16а. став 2. и <ref>члана 50. став 3. </ref>Закона о Народној банци Југославије (“<ref id="ref1" href="/rs/act/93/32/srp@">Службени лист СРЈ”, бр. 32/93, 41/94, 61/95, 29/97, 44/99</ref> и 73/2000),</p>
+			<p>гувернер Народне банке Југославије доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о пуштању у оптицај новчанице од 5000 динара</title>
+			<date>„Службени лист СРЈ“, број 45 од 20. августа 2002.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Народна банка Југославије пустиће у оптицај 21. августа 2002. године новчаницу од 5000 динара, са обележјима утврђеним Одлуком о издавању и основним обележјима новчанице од 5000 динара (“<ref id="ref2" href="/rs/act/2002/45/srp@">Службени лист СРЈ”, бр. 45/2002</ref>).</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Ова одлука ступа на снагу даном објављивања у “Службеном листу СРЈ”.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>О. бр. 95</p>
+						</content>
+					</clause>
+					<section id="od20">
+						<num>20.</num>
+						<heading> августа 2002. године</heading>
+						<content>
+							<clause id="od20-stav1">
+								<content>
+									<p>Београд</p>
+								</content>
+							</clause>
+							<clause id="od20-stav2">
+								<content>
+									<p>Гувернер</p>
+								</content>
+							</clause>
+							<clause id="od20-stav3">
+								<content>
+									<p>Народне банке Југославије</p>
+								</content>
+							</clause>
+							<clause id="od20-stav4">
+								<content>
+									<p>Млађан Динкић, с. р.</p>
+								</content>
+							</clause>
+						</content>
+					</section>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,221 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2006/26-10/main"/>
+					<FRBRuri value="/rs/act/2006/26-10"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2006/26-10/srp@/main"/>
+					<FRBRuri value="/rs/act/2006/26-10/srp@"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2006/26-10/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2006/26-10/srp@.akn"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2006-3-28" name="службени гласник рс“" number="26" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="1. Пензијско и инвалидско осигурање" value="1. пензијско и инвалидско осигурање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2006-03-24" id="usvajanje"/>
+				<step date="2006-03-29" id="stupanje_na_snagu"/>
+				<step date="2006-04-01" id="primena"/>
+			</workflow>
+		</meta>
+		<body>
+			<clause id="stav1">
+				<content>
+					<p>На основу <ref>члана 48. став 7. </ref>Закона о добровољним пензијским фондовима и пензијским плановима („<ref id="ref1" href="/rs/act/2005/85/srp@">Службени гласник РС”, број 85/2005</ref>),</p>
+				</content>
+			</clause>
+			<clause id="stav2">
+				<content>
+					<p>Гувернер Народне банке Србије доноси</p>
+				</content>
+			</clause>
+			<clause id="stav3">
+				<content>
+					<p>ОДЛУКУ</p>
+				</content>
+			</clause>
+			<clause id="stav4">
+				<content>
+					<p>о начину обрачунавања приноса добровољног пензијског фонда</p>
+				</content>
+			</clause>
+			<clause id="stav5">
+				<content>
+					<p>„Службени гласник РС“, број 26 од 28.марта 2006.</p>
+				</content>
+			</clause>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Овом одлуком прописује се начин обрачунавања приноса добровољног пензијског фонда (у даљем тексту: фонд), укључујући и начела заокруживања вредности.</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Принос фонда изражава се као стопа приноса фонда.</heading>
+				<content/>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Стопа приноса фонда за последњих дванаест месеци обрачунава се према следећој формули:</heading>
+				<content>
+					<став id="od3-stav1">
+						<img height="57" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/cd1b2cd9-a026-42b3-8d46-8a02e212aeb9.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423699&amp;regactid=423699" width="111"/>
+						<content/>
+					</став>
+					<clause id="od3-stav2">
+						<content>
+							<p>при чему је</p>
+						</content>
+					</clause>
+					<clause id="od3-stav3">
+						<content>
+							<p>Rа – стопа приноса фонда за последњих дванаест месеци,</p>
+						</content>
+					</clause>
+					<clause id="od3-stav4">
+						<content>
+							<p>А – вредност инвестиционе јединице имовине фонда (у даљем тексту: инвестициона јединица) последњег дана периода од дванаест месеци за који се обрачунава принос фонда,</p>
+						</content>
+					</clause>
+					<clause id="od3-stav5">
+						<content>
+							<p>B – вредност инвестиционе јединице првог дана периода од дванаест месеци за који се обрачунава принос фонда.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Стопа приноса фонда за период од пет година обрачунава се према следећој формули:</heading>
+				<content>
+					<став id="od4-stav1">
+						<img height="58" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/5dbf5b60-587f-42ae-a236-ffad0375fbf8.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423699&amp;regactid=423699" width="114"/>
+						<content/>
+					</став>
+					<clause id="od4-stav2">
+						<content>
+							<p>при чему је</p>
+						</content>
+					</clause>
+					<clause id="od4-stav3">
+						<content>
+							<p>R5 – стопа приноса фонда за период од пет година,</p>
+						</content>
+					</clause>
+					<clause id="od4-stav4">
+						<content>
+							<p>А – вредност инвестиционе јединице последњег дана периода од пет година за који се обрачунава принос фонда,</p>
+						</content>
+					</clause>
+					<clause id="od4-stav5">
+						<content>
+							<p>C – вредност инвестиционе јединице првог дана периода од пет година за који се обрачунава принос фонда.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> Стопа приноса фонда од почетка његовог пословања обрачунава се према следећој формули:</heading>
+				<content>
+					<став id="od5-stav1">
+						<img height="60" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/6ba1bf9c-02c4-4807-86f6-5b306467a4a8.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423699&amp;regactid=423699" width="115"/>
+						<content/>
+					</став>
+					<clause id="od5-stav2">
+						<content>
+							<p>при чему је</p>
+						</content>
+					</clause>
+					<clause id="od5-stav3">
+						<content>
+							<p>Rn – стопа приноса фонда од почетка његовог пословања,</p>
+						</content>
+					</clause>
+					<clause id="od5-stav4">
+						<content>
+							<p>А – вредност инвестиционе јединице последњег дана периода за који се обрачунава принос фонда,</p>
+						</content>
+					</clause>
+					<clause id="od5-stav5">
+						<content>
+							<p>D – почетна вредност инвестиционе јединице,</p>
+						</content>
+					</clause>
+					<clause id="od5-stav6">
+						<content>
+							<p>n – количник броја дана за које се обрачунава стопа приноса фонда и броја 365,25 (као броја дана у години).</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od6">
+				<num>6.</num>
+				<heading> Стопа приноса фонда изражава се у процентима, заокруживањем на пет децимала, осим при оглашавању фонда и објављивању на Интернет страницама – када се заокружује на две децимале.</heading>
+				<content/>
+			</section>
+			<section id="od7">
+				<num>7.</num>
+				<heading> Друштво за управљање фондом дужно је да стопу приноса фонда обрачунава посебно за сваки фонд којим управља.</heading>
+				<content/>
+			</section>
+			<section id="od8">
+				<num>8.</num>
+				<heading> Друштво за управљање фондом које управља с више фондова не може објављивати просечан принос тих фондова.</heading>
+				<content/>
+			</section>
+			<section id="od9">
+				<num>9.</num>
+				<heading> Ова одлука ступа на снагу наредног дана од дана објављивања у „Службеном гласнику РС”, а примењује се од 1. априла 2006. године.</heading>
+				<content>
+					<clause id="od9-stav1">
+						<content>
+							<p>О. број 32</p>
+						</content>
+					</clause>
+					<clause id="od9-stav2">
+						<content>
+							<p>У Београду, 24. марта 2006. године</p>
+						</content>
+					</clause>
+					<clause id="od9-stav3">
+						<content>
+							<p>Гувернер</p>
+						</content>
+					</clause>
+					<clause id="od9-stav4">
+						<content>
+							<p>Народне банке Србије,</p>
+						</content>
+					</clause>
+					<clause id="od9-stav5">
+						<content>
+							<p>Радован Јелашић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

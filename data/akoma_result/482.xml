@@ -1,0 +1,409 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2008/26-14/main"/>
+					<FRBRuri value="/rs/act/2008/26-14"/>
+					<FRBRdate date="2008" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2008/26-14/srp@/main"/>
+					<FRBRuri value="/rs/act/2008/26-14/srp@"/>
+					<FRBRdate date="2008" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2008/26-14/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2008/26-14/srp@.akn"/>
+					<FRBRdate date="2008" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2008-3-14" name="службени гласник рс“" number="26" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="VIII РАЗВОЈ" value="viii развој"/>
+				<keyword id="grupa" showAs="3. Информационе технологије" value="3. информационе технологије"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2008-03-10" id="usvajanje"/>
+				<step date="2008-03-22" id="stupanje_na_snagu"/>
+				<step date="2008-03-22" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>Неважећи акт</p>
+			<p>На основу <ref>члана 19. став 2. </ref>Закона о електронском потпису („<ref id="ref3" href="/rs/act/04/135/srp@">Службени гласник РС”, број 135/04</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар за телекомуникације и информатичко друштво доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о Регистру сертификационих тела за издавање квалификованих електронских сертификата у Републици Србији</title>
+			<date>„Службени гласник РС“, број 26 од 14. марта 2008.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се садржај и начин вођења Регистра сертификационих тела за издавање квалификованих електронских сертификата у Републици Србији (у даљем тексту: Регистар), начин подношења захтева за упис у Регистар, потребна документација која се прилаже уз захтев, образац захтева, као и начин објављивања података из Регистра.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Регистар, у складу са Законом о електронском потпису (у даљем тексту: Закон), води министарство надлежно за информационо друштво (у даљем тексту: Министарство).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Регистар садржи следеће податке:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> редни број уписа у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> број и датум решења о упису у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> датум уписа у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> назив сертификационог тела;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> матични број;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> пореско-идентификациони број (ПИБ);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> седиште (улица и број, поштански број и место, држава);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> подаци о упису сертификационог тела у регистар привредних субјеката или други одговарајући регистар који се води у складу са законом (број решења о упису у регистар, облик организовања, шифра и опис делатности);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> број пословног рачуна и назив пословне банке код које се води пословни рачун;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> име и презиме, назив функције, матични број и пребивалиште, односно боравиште одговорног лица које заступа сертификационо тело и обим његових овлашћења;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> службена електронска адреса одговорног лица (е-маил);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> адресу Интернет стране сертификационог тела;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> бројеве телефона и факса сертификационог тела;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac14">
+								<num>14)</num>
+								<content>
+									<p> назив, адреса/електронска адреса и телефонски бројеви службе сертификационог тела за односе са странкама;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac15">
+								<num>15)</num>
+								<content>
+									<p> број и датум решења о брисању из Регистра.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>У Регистар се уписују све промене података из става 1. овог члана.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Поред података из <ref>члана 2. овог</ref> правилника, саставни део Регистра су и документи на основу којих је извршена регистрација.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Документи из става 1. овог члана чувају се у складу са прописима којима се уређује чување архивске грађе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Регистар се води у папирном облику као Књига сертификационих тела за издавање квалификованих електронских сертификата и у електронском облику као Електронски регистар сертификационих тела за издавање квалификованих електронских сертификата (у даљем тексту: Електронски регистар).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Захтев за упис у Регистар (у даљем тексту: захтев) подноси се у писменом облику, непосредно или поштом, на Обрасцу 1. који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Документација која се прилаже уз захтев подноси се у оригиналу или се прилаже копија оверена од стране надлежног органа.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Захтев се може поднети и електронским путем, тако што подносилац уноси податке у образац из <ref>члана 5. овог</ref> правилника, који се објављује на Интернет страни Министарства, а документација која се прилаже уз захтев доставља се у електронској форми на електронску адресу Министарства.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Подносилац је дужан да, у року од пет дана од дана подношења захтева електронским путем, достави Министарству оригинал документације из става 1. овог члана.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>Као датум и време подношења захтева узима се датум и време пријема документације из става 2. овог члана.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav4">
+						<content>
+							<p>Ако документација није достављена на начин и у року из става 2. овог члана, сматраће се да захтев није поднет.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Захтев се подноси на језику и писму који су у службеној употреби у Републици Србији.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Уколико жели да одређене податке региструје и на страном језику, подносилац захтева мора уз захтев доставити и превод на тај језик оверен од судског тумача за тај језик.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Подносилац уз захтев прилаже:</p>
+							<point id="clan8-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> извод из регистра привредних субјеката или другог регистра који се води у складу са законом;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> уверење да није покренут стечајни или ликвидациони поступак;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> биланс стања оверен од стране овлашћеног ревизора или извод из биланса стања, односно исказ о укупним приходима од вршења делатности за претходне три године и за период у текућој години до подношења захтева;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> уверење о бонитету издато од стране надлежног органа;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> документ о организацији, политици пословања и власничким односима;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> Интерна правила рада сертификационог тела припремљена у складу са Правилником о ближим условима за издавање квалификованих електронских сертификата;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> допунске податке о стручној спреми, специјалности у струци, потребном искуству у струци и референцама за стално запослене;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> копију полисе осигурања од ризика и одговорности за могућу штету насталу вршењем услуга издавања електронских сертификата у складу са Правилником о ближим условима за издавање квалификованих електронских сертификата;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> потврду о уплаћеној административној такси, у складу са законом о административним таксама.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Захтев за промену података уписаних у Регистар подноси се у писменом облику, у року од осам дана од дана настанка промене, на Обрасцу 2. који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Захтев из става 1. овог члана подноси се на начин утврђен овим правилником за подношење захтева.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Упис сертификационог тела у Књигу сертификационих тела за издавање квалификованих електронских сертификата и у Електронски регистар, Министарство врши на дан доношења решења о упису у Регистар.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Електронски регистар јавно је доступан на Интернет страни Министарства.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Електронски регистар потписује се квалификованим електронским потписом Министарства.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Ступањем на снагу овог правилника престаје да важи Правилник о регистру сертификационих тела за издавање квалификованих електронских сертификата у Републици Србији („<ref id="ref4" href="/rs/act/05/48/srp@">Службени гласник РС”, бр. 48/05, 82/05</ref> и 116/05).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav2">
+						<content>
+							<p>Број 110-00-00013/2008-01</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav3">
+						<content>
+							<p>У Београду, 10. марта 2008. године</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav5">
+						<content>
+							<p>др Александра Смиљанић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav6">
+						<content>
+							<p>Прилози</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav7">
+						<content>
+							<p>Образац 1 - Захтев за упис у  Регистар сертификационих тела за издавање квалификационих електронских есретификата у Републици Србији</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

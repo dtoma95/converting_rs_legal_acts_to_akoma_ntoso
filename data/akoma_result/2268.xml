@@ -1,0 +1,1449 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2012/123-3/main"/>
+					<FRBRuri value="/rs/act/2012/123-3"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2012/123-3/srp@/main"/>
+					<FRBRuri value="/rs/act/2012/123-3/srp@"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2012/123-3/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2012/123-3/srp@.akn"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2012-12-28" name="службени гласник рс" number="123" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="16. Хидрометеоролошки послови" value="16. хидрометеоролошки послови"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2012-12-20" id="usvajanje"/>
+				<step date="2013-01-05" id="stupanje_na_snagu"/>
+				<step date="2013-01-05" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 5. јануара 2013. године (види <ref>члан 27. </ref>Уредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 18. став 5. </ref>Закона о метеоролошкој и хидролошкој делатности („<ref id="ref4" href="/rs/act/10/88/srp@">Службени гласник РС”, брoj 88/10</ref>) и <ref>члана 42. став 1. </ref>Закона о Влади („<ref id="ref5" href="/rs/act/05/55/srp@">Службени гласник РС”, бр. 55/05, 71/05</ref> – исправка, 101/07, 65/08, 16/11, 68/12 – УС и 72/12),</p>
+		</preamble>
+		<preface>
+			<authority>Влада доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о утврђивању државних мрежа метеоролошких станица, програма рада и начина извештавања државних мрежа метеоролошких станица</title>
+			<date>&quot;Службени гласник РС&quot;,      број 123 од 28. децембра 2012.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>УВОДНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овом уредбом утврђују се државне мреже метеоролошких станица, као и програми рада и начин извештавања државних мрежа метеоролошких станица.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Поједини изрази који су употребљени у овој уредби имају следеће значење:</p>
+									<point id="gla1-clan2-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> аутоматска станица јесте станица на којој инструменти аутоматски мере, бележе и/или преносе измерене податке;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> висинска осматрања су метеоролошка осматрања која се изводе у слободној атмосфери директно или индиректно;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> GAW станица јесте станица за праћење хемијског састава и физичких особина атмосфере у оквиру светског програма глобалног атмосферског бдења (Global Atmospherere Watch – GAW) Светске метеоролошке организације;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> глобални осматрачки систем јесте координисан систем метода, техника и средстава за мерења и осматрања у светским размерама, у оквиру програма Светског метеоролошког бдења Светске метеоролошке организације (СМО);</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> земаљски осматрачки подсистем је део Глобалног осматрачког система у коме се уређаји за осматрање налазе на површини Земље или у атмосфери;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> климатска област јесте област на Земљи са претежно хомогеним климатским условима;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> космички осматрачки подсистем јесте део Глобалног осматрачког система који чине поларно-орбитални и геостационарни сателити и станице за пријем података на Земљи;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> метеоролошка опсерваторија јесте опсерваторија на којој се врше комплексна инструментална мерења и истраживања процеса у атмосфери и изводи више врста програма метеоролошких осматрања;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> метеоролошко мерење и осматрање јесте инструментално мерење и/или одређивање вредности једног или више метеоролошких елемената;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> метеоролошки извештај јесте извештај о метеоролошким условима осмотреним на одређеном месту у одређено време;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> метеоролошки елемент јесте атмосферска променљива или појава која карактерише физичко стање атмосфере на одређеном месту у датом тренутку;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac12">
+										<num>12)</num>
+										<content>
+											<p> приземна метеоролошка осматрања су метеоролошка мерења и осматрања која се врше на датој тачки на површини Земље ради одређивања или процене метеоролошких елемената и појава у слоју ваздуха непосредно око и изнад тачке осматрања;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac13">
+										<num>13)</num>
+										<content>
+											<p> приземна метеоролошка станица јесте станица на којој се врше приземна осматрања;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac14">
+										<num>14)</num>
+										<content>
+											<p> висинска (радиосондажна) станица јесте станица на којој се врше висинска осматрања;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac15">
+										<num>15)</num>
+										<content>
+											<p> стандардно време осматрања јесте време очитавања барометра у случају приземних синоптичких осматрања, односно време лансирања балона/радио сонде у случају висинских синоптичких осматрања;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac16">
+										<num>16)</num>
+										<content>
+											<p> UTC јесте универзално рачунање времена (Universal Time Counting).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>УТВРЂИВАЊЕ ДРЖАВНИХ МРЕЖА МЕТЕОРОЛОШКИХ СТАНИЦА</heading>
+				<content>
+					<тачка id="gla2-clan2-tac1">
+						<num>1.</num>
+						<content>
+							<p> Састав државних мрежа метеоролошких станица</p>
+						</content>
+					</тачка>
+					<article id="gla2-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla2-clan3-stav1">
+								<content>
+									<p>Државне мреже метеоролошких станица у складу са законом којим се уређује метеоролошка и хидролошка делатност, обухватају:</p>
+									<point id="gla2-clan3-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> мрежу синоптичких станица;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> мрежу радиосондажних станица;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> мрежу аеродромских (ваздухопловних) метеоролошких станица;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> мрежу климатолошких станица;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> мрежу метеоролошких опсерваторија;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> мрежу агрометеоролошких станица;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> мрежу падавинских станица;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> мрежу фенолошких станица;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> мрежу метеоролошких радарских центара;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> мрежу станица за зрачење и атмосферски озон.</p>
+										</content>
+									</point>
+									<тачка id="gla2-clan3-stav1-tac2">
+										<num>2.</num>
+										<content>
+											<p> Државнe мрежe синоптичких и радиосондажних станица</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla2-clan4-stav1">
+								<content>
+									<p>Државну мрежу синоптичких станица чине приземне синоптичке станице, које се распоређују на растојању од 50 до 60 km, осим у планинским деловима земље, где растојање између станица треба да буде краће.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav2">
+								<content>
+									<p>Државну мрежу синоптичких станица из става 1. овог члана чини и примарна станица за пријем сателитских података.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav3">
+								<content>
+									<p>Државну мрежу радиосондажних станица чине радиосондажне (висинске синоптичке) станице које се распоређују на растојању од око 250 km.</p>
+									<тачка id="gla2-clan4-stav3-tac3">
+										<num>3.</num>
+										<content>
+											<p> Државна мрежа аеродромских (ваздухопловних) метеоролошких станица</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla2-clan5-stav1">
+								<content>
+									<p>Државну мрежу ваздухопловних (аеродромских) метеоролошких станица чине метеоролошке станице које се распоређују на аеродромима.</p>
+									<тачка id="gla2-clan5-stav1-tac4">
+										<num>4.</num>
+										<content>
+											<p> Државне мреже климатолошких станица, метеоролошких опсерваторија и падавинских станица</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla2-clan6-stav1">
+								<content>
+									<p>Државна мрежа климатолошких станица коју чине главне климатолошке станице, климатолошке станице за посебне намене и обичне климатолошке станице, утврђује се на следећи начин:</p>
+									<point id="gla2-clan6-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> главне климатолошке станице су станице које се распоређују на растојању од око 50 km, али не већем од 60 km;</p>
+										</content>
+									</point>
+									<point id="gla2-clan6-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> обичне климатолошке станице су станице које се распоређују зависно од топографије, по правилу на растојању од око 30 km;</p>
+										</content>
+									</point>
+									<point id="gla2-clan6-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> климатолошке станице за посебне намене су станице које се распоређују на језерима/акумулацијама пресеченим државном границом и другим областима где су потребна посебна метеоролошка мерења и осматрања;</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav2">
+								<content>
+									<p>Државну мрежу метеоролошких опсерваторија чине метеоролошке опсерваторије распоређене у великим градовима (насеља са преко 100 000 становника) и/или високим планинским регијама.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav3">
+								<content>
+									<p>Државну мрежу падавинских станица чине станице које се распоређују на растојању од 10 до 15 km, осим у планинским деловима земље, где растојање између станица треба да буде краће.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav4">
+								<content>
+									<p>За сваку климатску област одређује се најмање једна климатолошка станица као референтна станица за ту област са програмом главне климатолошке станице.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav5">
+								<content>
+									<p>Референтне климатолошке станице утврђују се на основу анализе хомогености историјских низова метеоролошких података.</p>
+									<тачка id="gla2-clan6-stav5-tac5">
+										<num>5.</num>
+										<content>
+											<p> Државне мреже агрометеоролошких и фенолошких станица</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla2-clan7-stav1">
+								<content>
+									<p>Државна мрежа агрометеоролошких станица коју чине главне и обичне агрометеоролошке станице, утврђује се на следећи начин:</p>
+									<point id="gla2-clan7-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> главне агрометеоролошке станице су станице које се распоређују тако да свако фитогеографско подручје има по једну главну агрометеоролошку станицу;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> обичне агрометеоролошке станице су станице које се распоређују зависно од топографије и врсте пољопривредне производње (ратарство, воћарство, виноградарство, сточарство и шумарство), по правилу на растојању од око 30 km.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav2">
+								<content>
+									<p>Државну мрежу фенолошких станица чине станице које се распоређују у зависности од просторне распрострањености пољопривредних култура и шума, климатских и педолошких специфичности подручја, надморске висине и рељефа, и то по правилу на растојању од око 30 до 50 km.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav3">
+								<content>
+									<p>Распоред станица по висинским зонама треба да омогући добијање вертикалних градијената и профила агрометеоролошких елемената.</p>
+									<тачка id="gla2-clan7-stav3-tac6">
+										<num>6.</num>
+										<content>
+											<p> Државна мрежа метеоролошких радарских центара</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>Државну мрежу метеоролошких радарских центара за потребе прогнозе времена и вода као и ваздухопловне метеорологије чине радарски центри који се распоређују на просечном растојању од 200 km, осим у планинским крајевима где растојање може бити мање.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav2">
+								<content>
+									<p>Државну мрежу метеоролошких радарских центара чине и радарски центри система противградне заштите.</p>
+									<тачка id="gla2-clan8-stav2-tac7">
+										<num>7.</num>
+										<content>
+											<p> Државне мреже станица за сунчево зрачење и атмосферски озон (GAW станице)</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>Државна мрежа станица за сунчево зрачење коју чине главне и обичне станице за сунчево зрачење, утврђује се на следећи начин:</p>
+									<point id="gla2-clan9-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> главне станице за сунчево зрачење су станице које се распоређују на растојању од 250 km;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> обичне станице за сунчево зрачење су станице које се распоређују на растојању од 50 до 60 km.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav2">
+								<content>
+									<p>Државну мрежу станица за атмосферски озон (у даљем тексту: GAW станица) чине GAW станице које се распоређују на локацијама које нису директно изложене утицају извора загађења и могу бити распоређене на локацији ЕМЕП станица успостављених у оквиру Програмa за мониторинг и процену атмосферског транспорта загађујућих материја на велике даљине у Европи.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ПРОГРАМ РАДА И НАЧИН ИЗВЕШТАВАЊА ДРЖАВНИХ МРЕЖА МЕТЕОРОЛОШКИХ СТАНИЦА</heading>
+				<content>
+					<тачка id="gla3-clan9-tac1">
+						<num>1.</num>
+						<content>
+							<p> Програм рада државних мрежа метеоролошких станица</p>
+						</content>
+					</тачка>
+					<article id="gla3-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla3-clan10-stav1">
+								<content>
+									<p>Програм рада државних мрежа метеоролошких станица обухвата: метеоролошке елементе и појаве који се мере и осматрају, термине метеоролошких мерења и осматрања по UTC и средњем локалном времену, евидентирање и контролу података, као и термине, односно време извештавања.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan10-stav2">
+								<content>
+									<p>Програм рада из става један овог члана уредбе утврђује се за сваку државну мрежу појединачно.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<subsection id="gla3-podod1">
+						<num>а</num>
+						<heading> Програм рада државних мрежа синоптичких и радиосондажних станица</heading>
+						<content>
+							<article id="gla3-podod1-clan11">
+								<num>11.</num>
+								<content>
+									<clause id="gla3-podod1-clan11-stav1">
+										<content>
+											<p>Програм рада државне мреже приземних синоптичких станица садржи метеоролошка мерења и осматрања, као и евидентирање података о следећим елементима:</p>
+											<point id="gla3-podod1-clan11-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> тренутно стање времена (садашње време);</p>
+												</content>
+											</point>
+											<point id="gla3-podod1-clan11-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> стање времена у претходном периоду (прошло време);</p>
+												</content>
+											</point>
+											<point id="gla3-podod1-clan11-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> смер и брзина ветра;</p>
+												</content>
+											</point>
+											<point id="gla3-podod1-clan11-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> количина облака;</p>
+												</content>
+											</point>
+											<point id="gla3-podod1-clan11-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> врста облака;</p>
+												</content>
+											</point>
+											<point id="gla3-podod1-clan11-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> висина базе облака;</p>
+												</content>
+											</point>
+											<point id="gla3-podod1-clan11-stav1-tac7">
+												<num>7)</num>
+												<content>
+													<p> видљивост;</p>
+												</content>
+											</point>
+											<point id="gla3-podod1-clan11-stav1-tac8">
+												<num>8)</num>
+												<content>
+													<p> температура ваздуха;</p>
+												</content>
+											</point>
+											<point id="gla3-podod1-clan11-stav1-tac9">
+												<num>9)</num>
+												<content>
+													<p> влажност ваздуха;</p>
+												</content>
+											</point>
+											<point id="gla3-podod1-clan11-stav1-tac10">
+												<num>10)</num>
+												<content>
+													<p> атмосферски притисак;</p>
+												</content>
+											</point>
+											<point id="gla3-podod1-clan11-stav1-tac11">
+												<num>11)</num>
+												<content>
+													<p> тенденција притиска;</p>
+												</content>
+											</point>
+											<point id="gla3-podod1-clan11-stav1-tac12">
+												<num>12)</num>
+												<content>
+													<p> карактеристика тенденције притиска;</p>
+												</content>
+											</point>
+											<point id="gla3-podod1-clan11-stav1-tac13">
+												<num>13)</num>
+												<content>
+													<p> екстремне температуре;</p>
+												</content>
+											</point>
+											<point id="gla3-podod1-clan11-stav1-tac14">
+												<num>14)</num>
+												<content>
+													<p> количина падавина;</p>
+												</content>
+											</point>
+											<point id="gla3-podod1-clan11-stav1-tac15">
+												<num>15)</num>
+												<content>
+													<p> стање тла;</p>
+												</content>
+											</point>
+											<point id="gla3-podod1-clan11-stav1-tac16">
+												<num>16)</num>
+												<content>
+													<p> смер кретања облака;</p>
+												</content>
+											</point>
+											<point id="gla3-podod1-clan11-stav1-tac17">
+												<num>17)</num>
+												<content>
+													<p> специјалне појаве.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan11-stav2">
+										<content>
+											<p>У планинским крајевима на којима се испод нивоа станице јављају облаци или магла, поред елемената из става 1. овог члана, осматрају се количина и висина горње површине облака и магле.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan11-stav3">
+										<content>
+											<p>На приземним синоптичким станицама у саставу државне мреже метеоролошка мерења и осматрања врше се сваког сата.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan11-stav4">
+										<content>
+											<p>Атмосферски притисак се мери тачно у стандардном времену, док се остали метеоролошки елементи на приземним синоптичким станицама мере или осматрају током десет минута пре стандардног времена.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan11-stav5">
+										<content>
+											<p>Програм рада државне мреже приземних синоптичких станица обухвата и метеоролошка мерења и осматрања по програму главне и обичне климатолошке и падавинске станице.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-podod1-clan12">
+								<num>12.</num>
+								<content>
+									<clause id="gla3-podod1-clan12-stav1">
+										<content>
+											<p>Програм рада државне мреже радиосондажних (висинских синоптичких) станица обухвата метеоролошка мерења и осматрања, као и евидентирање података о следећим елементима:</p>
+											<point id="gla3-podod1-clan12-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> атмосферски притисак;</p>
+												</content>
+											</point>
+											<point id="gla3-podod1-clan12-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> температура ваздуха;</p>
+												</content>
+											</point>
+											<point id="gla3-podod1-clan12-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> влажност ваздуха;</p>
+												</content>
+											</point>
+											<point id="gla3-podod1-clan12-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> смер и брзина ветра.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan12-stav2">
+										<content>
+											<p>Метеоролошка мерења и осматрања на висинским синоптичким станицама врше се редовно четири пута дневно у стандардним синоптичким терминима: 00.00, 6.00, 12.00 и 18.00 сати UTC, а најмање два пута дневно у 00.00 и 12.00 сати UTC.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan12-stav3">
+										<content>
+											<p>Стварно време висинских синоптичких мерења и осматрања треба да буде око 30 минута пре стандардног времена.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan12-stav4">
+										<content>
+											<p>Програм рада државне мреже радиосондажних (висинских синоптичких) станица обухвата и метеоролошка мерења и осматрања по програму главне и обичне климатолошке, агрометеоролошке, падавинске станице и главне станице за Сунчево зрачење.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-podod1-clan13">
+								<num>13.</num>
+								<content>
+									<clause id="gla3-podod1-clan13-stav1">
+										<content>
+											<p>На станицама у саставу државне мреже приземних синоптичких станица, извештавања се врше сваког сата.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan13-stav2">
+										<content>
+											<p>Подаци метеоролошких мерења и осматрања са станица из става 1. овог члана оперативно се укључују сваког сата у хидрометеоролошки информациони систем Републичког хидрометеоролошког завода у облику кодираног и/или некодираног извештаја.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan13-stav3">
+										<content>
+											<p>На станицама у саставу државне мреже радиосондажних (висинских синоптичких) станица извештавање се врши четири пута дневно у стандардним синоптичким терминима: 00.00, 6.00, 12.00 и 18.00 сати UTC, а најмање два пута дневно у 00.00 и 12.00 сати UTC.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan13-stav4">
+										<content>
+											<p>Подаци метеоролошких мерења и осматрања по програму климатолошких и падавинских станица која се спроводе у државној мрежи приземних и висинских синоптичких станица достављају се Републичком хидрометеоролошком заводу једном месечно.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+					<subsection id="gla3-podod2">
+						<num>б</num>
+						<heading> Програм рада државне мреже ваздухопловних (аеродромских) метеоролошких станица</heading>
+						<content>
+							<article id="gla3-podod2-clan14">
+								<num>14.</num>
+								<content>
+									<clause id="gla3-podod2-clan14-stav1">
+										<content>
+											<p>Програм рада државне мреже вaздухопловних (аеродромских) станица садржи метеоролошка мерења и осматрања и евидентирање података за следеће елементе:</p>
+											<point id="gla3-podod2-clan14-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> смер и брзину приземног ветра;</p>
+												</content>
+											</point>
+											<point id="gla3-podod2-clan14-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> видљивост;</p>
+												</content>
+											</point>
+											<point id="gla3-podod2-clan14-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> видљивост полетно-слетне стазе (RVR), кад је могуће;</p>
+												</content>
+											</point>
+											<point id="gla3-podod2-clan14-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> садашње време;</p>
+												</content>
+											</point>
+											<point id="gla3-podod2-clan14-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> количину облака, врсту и висину базе облака;</p>
+												</content>
+											</point>
+											<point id="gla3-podod2-clan14-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> температуру ваздуха;</p>
+												</content>
+											</point>
+											<point id="gla3-podod2-clan14-stav1-tac7">
+												<num>7)</num>
+												<content>
+													<p> температуру тачке росе;</p>
+												</content>
+											</point>
+											<point id="gla3-podod2-clan14-stav1-tac8">
+												<num>8)</num>
+												<content>
+													<p> атмосферски притисак (QNH и/или QFE).</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla3-podod2-clan14-stav2">
+										<content>
+											<p>Ваздухопловна метеоролошка мерења и осматрања врше се у интервалима од по једног сата, а на аеродромима на којима је то одређено регионалним споразумом о ваздушном саобраћају – у интервалима од по пола сата.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod2-clan14-stav3">
+										<content>
+											<p>Атмосферски притисак се мери тачно у пуном сату, односно у тридесетом минуту, а остали елементи се мере или осматрају током десет минута пре пуног сата, односно пре тридесетог минута.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod2-clan14-stav4">
+										<content>
+											<p>Поред редовних метеоролошких мерења и осматрања из става 1. овог члана уредбе, врше се и допунска специјална мерења и осматрања у случају значајне промене приземног ветра, видљивости, видљивости полетно – слетне стазе, садашњег времена, количине облака, врсте и висине базе облака и температуре ваздуха.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod2-clan14-stav5">
+										<content>
+											<p>Програм рада државне мреже ваздухопловних метеоролошких станица обухвата и метеоролошка мерења и осматрања по програму приземне синоптичке станице и главне климатолошке станице.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-podod2-clan15">
+								<num>15.</num>
+								<content>
+									<clause id="gla3-podod2-clan15-stav1">
+										<content>
+											<p>Подаци ваздухопловних и приземних синоптичких метеоролошких мерења и осматрања са станица у саставу државне мреже ваздухопловних (аеродромских) метеоролошких станица оперативно се укључују сваког сата у хидрометеоролошки информациони систем Републичког хидрометеоролошког завода у облику кодираног и/или некодираног извештаја.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod2-clan15-stav2">
+										<content>
+											<p>Подаци метеоролошких мерења и осматрања по програму главних климатолошких станица која се спроводе у државној мрежи ваздухопловних (аеродромских) метеоролошких станица достављају се Републичком хидрометеоролошком заводу једном месечно.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+					<subsection id="gla3-podod3">
+						<num>в</num>
+						<heading> Програм рада државних мрежа климатолошких станица, метеоролошких опсерваторија и падавинских станица</heading>
+						<content>
+							<article id="gla3-podod3-clan16">
+								<num>16.</num>
+								<content>
+									<clause id="gla3-podod3-clan16-stav1">
+										<content>
+											<p>Програм рада државне мреже главних климатолошких станица и метеоролошких опсeрваторија садржи метеоролошка мерења и осматрања као и евидентирање података за следеће метеоролошке елементе и појаве:</p>
+											<point id="gla3-podod3-clan16-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> развој времена;</p>
+												</content>
+											</point>
+											<point id="gla3-podod3-clan16-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> смер, брзина и јачина ветра;</p>
+												</content>
+											</point>
+											<point id="gla3-podod3-clan16-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> количина облака;</p>
+												</content>
+											</point>
+											<point id="gla3-podod3-clan16-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> врста облака;</p>
+												</content>
+											</point>
+											<point id="gla3-podod3-clan16-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> висина базе облака;</p>
+												</content>
+											</point>
+											<point id="gla3-podod3-clan16-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> видљивост;</p>
+												</content>
+											</point>
+											<point id="gla3-podod3-clan16-stav1-tac7">
+												<num>7)</num>
+												<content>
+													<p> температура ваздуха (укључујући екстремне температуре);</p>
+												</content>
+											</point>
+											<point id="gla3-podod3-clan16-stav1-tac8">
+												<num>8)</num>
+												<content>
+													<p> влажност ваздуха;</p>
+												</content>
+											</point>
+											<point id="gla3-podod3-clan16-stav1-tac9">
+												<num>9)</num>
+												<content>
+													<p> атмосферски притисак;</p>
+												</content>
+											</point>
+											<point id="gla3-podod3-clan16-stav1-tac10">
+												<num>10)</num>
+												<content>
+													<p> падавине;</p>
+												</content>
+											</point>
+											<point id="gla3-podod3-clan16-stav1-tac11">
+												<num>11)</num>
+												<content>
+													<p> снежни покривач;</p>
+												</content>
+											</point>
+											<point id="gla3-podod3-clan16-stav1-tac12">
+												<num>12)</num>
+												<content>
+													<p> сијање Сунца;</p>
+												</content>
+											</point>
+											<point id="gla3-podod3-clan16-stav1-tac13">
+												<num>13)</num>
+												<content>
+													<p> минимална температура ваздуха на 5 cm изнад тла;</p>
+												</content>
+											</point>
+											<point id="gla3-podod3-clan16-stav1-tac14">
+												<num>14)</num>
+												<content>
+													<p> температура земљишта на следећим дубинама: 2, 5, 10, 20, 30, 50 и 100 cm.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan16-stav2">
+										<content>
+											<p>Метеоролошка мерења и осматрања на главним климатолошким станицама и метеоролошким опсерваторијама врше се сваког сата.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan16-stav3">
+										<content>
+											<p>Програм рада државних мрежа главних климатолошких станица и метеоролошких опсeрваторија обухвата и метеоролошка мерења и осматрања која се врше по програму државних мрежа приземних синоптичких станица, обичних климатолошких, падавинских, агрометеоролошких и фенолошких станица.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan16-stav4">
+										<content>
+											<p>На главним климатолошким станицама и метеоролошким опсерваторијама промена било ког инструмента не сме да умањи степен тачности осматрања у поређењу са ранијим осматрањима.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan16-stav5">
+										<content>
+											<p>Увођењу инструмената са новом технологијом, односно аутоматских метеоролошких станица у редовна метеоролошка мерења и осматрања у државним мрежама главних климатолошких станица и метеоролошких опсерваторија, треба да претходе упоредна метеоролошка мерења са претходним инструментима у трајању од најмање пет година.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan16-stav6">
+										<content>
+											<p>Метеоролошка мерења и осматрања на главној климатолошкој станици и метеоролошкој опсерваторији у саставу државних мрежа врше се непрекидно најмање 50 година, а услови у околини ових станица не смеју се мењати у тој мери да утичу на хомогеност низа података.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-podod3-clan17">
+								<num>17.</num>
+								<content>
+									<clause id="gla3-podod3-clan17-stav1">
+										<content>
+											<p>Програм рада државне мреже климатолошких станица за посебне намене садржи метеоролошка мерења и осматрања као и евидентирање података који се врше по програму рада мреже главних климатолошких станица из <ref>члана 19. </ref>ове уредбе, као и метеоролошка мерења и осматрања и евидентирање података за следеће метеоролошке елементе и појаве:</p>
+											<point id="gla3-podod3-clan17-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> ветар, температура и влажност ваздуха на разним нивоима у приземном слоју атмосфере;</p>
+												</content>
+											</point>
+											<point id="gla3-podod3-clan17-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> испаравање са земљишта и слободне водене површине;</p>
+												</content>
+											</point>
+											<point id="gla3-podod3-clan17-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> компоненте Сунчевог зрачења.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan17-stav2">
+										<content>
+											<p>Програм рада државне мреже климатолошких станица за посебне намене може обухватати и метеоролошка мерења и осматрања која се врше по програму државне мреже приземних синоптичких станица.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-podod3-clan18">
+								<num>18.</num>
+								<content>
+									<clause id="gla3-podod3-clan18-stav1">
+										<content>
+											<p>Програм рада државне мреже обичних климатолошких станица садржи метеоролошка мерења и осматрања као и евидентирање података за следеће метеоролошке елементе и појаве:</p>
+											<point id="gla3-podod3-clan18-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> развој времена;</p>
+												</content>
+											</point>
+											<point id="gla3-podod3-clan18-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> смер, брзина и јачина ветра;</p>
+												</content>
+											</point>
+											<point id="gla3-podod3-clan18-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> количина облака;</p>
+												</content>
+											</point>
+											<point id="gla3-podod3-clan18-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> температура ваздуха (укључујући екстремне температуре);</p>
+												</content>
+											</point>
+											<point id="gla3-podod3-clan18-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> влажност ваздуха;</p>
+												</content>
+											</point>
+											<point id="gla3-podod3-clan18-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> падавине;</p>
+												</content>
+											</point>
+											<point id="gla3-podod3-clan18-stav1-tac7">
+												<num>7)</num>
+												<content>
+													<p> снежни покривач.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan18-stav2">
+										<content>
+											<p>Метеоролошка мерења и осматрања на обичним климатолошким станицама у саставу државне мреже врше се и у 7.00, 14.00 и 21.00 сат по локалном времену.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan18-stav3">
+										<content>
+											<p>Програм рада државне мреже падавинских станица садржи метеоролошка мерења и осматрања као и евидентирање података за следеће метеоролошке елементе и појаве:</p>
+											<point id="gla3-podod3-clan18-stav3-tac1">
+												<num>1)</num>
+												<content>
+													<p> развој времена;</p>
+												</content>
+											</point>
+											<point id="gla3-podod3-clan18-stav3-tac2">
+												<num>2)</num>
+												<content>
+													<p> падавине;</p>
+												</content>
+											</point>
+											<point id="gla3-podod3-clan18-stav3-tac3">
+												<num>3)</num>
+												<content>
+													<p> снежни покривач.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan18-stav4">
+										<content>
+											<p>Метеоролошка мерења и осматрања на падавинским станицама у саставу државне мреже врше се у 6.00 сати UTC.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-podod3-clan19">
+								<num>19.</num>
+								<content>
+									<clause id="gla3-podod3-clan19-stav1">
+										<content>
+											<p>На станицама у саставу државних мрежа главних климатолошких станица, метеоролошких опсерваторија и климатолошких станица за посебне намене извештавање се врши сваког сата, дневно и месечно.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan19-stav2">
+										<content>
+											<p>У случају појаве и развоја опасних временских услова, климатолошка станица за посебне намене на којој се не изводи програм приземне синоптичке станице оперативно доставља Републичком хидрометеоролошком заводу извештај о непогоди.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan19-stav3">
+										<content>
+											<p>На станицама у саставу државних мрежа обичних климатолошких и падавинских станица извештавање се врши једном месечно.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan19-stav4">
+										<content>
+											<p>У случају појаве и развоја опасних временских услова, обична климатолошка, односно падавинска станица из става 3. овог члана уредбе оперативно доставља Републичком хидрометеоролошком заводу извештај о непогоди.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+					<subsection id="gla3-podod4">
+						<num>г</num>
+						<heading> Програм рада државних мрежа агрометеоролошких и фенолошких станица</heading>
+						<content>
+							<article id="gla3-podod4-clan20">
+								<num>20.</num>
+								<content>
+									<clause id="gla3-podod4-clan20-stav1">
+										<content>
+											<p>Програм рада државне мреже главних агрометеоролошких станица обухвата метеоролошка мерења и осматрања као и евидентирање података свих или неких од следећих метеоролошких елемената и појава:</p>
+											<point id="gla3-podod4-clan20-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> мерења и осматрања параметара физичке средине, и то:</p>
+													<item id="gla3-podod4-clan20-stav1-tac1-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> температуре и влажности ваздуха на различитим висинама у приземном слоју (од Земљине површине до око 10 m изнад горње границе преовлађујуће вегетације), укључујући екстреме ових елемената;</p>
+														</content>
+													</item>
+													<item id="gla3-podod4-clan20-stav1-tac1-podtac2">
+														<num>(2)</num>
+														<content>
+															<p> влажности земљишта до 100 cm дубине;</p>
+														</content>
+													</item>
+													<item id="gla3-podod4-clan20-stav1-tac1-podtac3">
+														<num>(3)</num>
+														<content>
+															<p> ветра на разним висинама;</p>
+														</content>
+													</item>
+													<item id="gla3-podod4-clan20-stav1-tac1-podtac4">
+														<num>(4)</num>
+														<content>
+															<p> испаравања са земљишта и слободне водене површине и евапотранспирације;</p>
+														</content>
+													</item>
+													<item id="gla3-podod4-clan20-stav1-tac1-podtac5">
+														<num>(5)</num>
+														<content>
+															<p> нивоа подземних вода;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="gla3-podod4-clan20-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> биолошка осматрања, и то:</p>
+													<item id="gla3-podod4-clan20-stav1-tac2-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> фенолошка осматрања,</p>
+														</content>
+													</item>
+													<item id="gla3-podod4-clan20-stav1-tac2-podtac2">
+														<num>(2)</num>
+														<content>
+															<p> праћење стања пољопривредних култура.</p>
+														</content>
+													</item>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla3-podod4-clan20-stav2">
+										<content>
+											<p>Програм рада на главној агрометеоролошкој станици утврђује се у зависности од преовлађујуће пољопривредне културе у околини, климатских и педолошких услова и рељефа.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod4-clan20-stav3">
+										<content>
+											<p>Програм рада државне мреже главних агрометеоролошких станица обухвата и метеоролошка мерења и осматрања која се врше по програму државних мрежа климатолошких и падавинских станица.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod4-clan20-stav4">
+										<content>
+											<p>Метеоролошка мерења и осматрања на главним агрометеоролошким станицама у саставу државне мреже врше се сваког сата по средњем европском времену, као и у 7.00, 14.00 и 21.00 сат по локалном времену, а биолошка осматрања се врше оног дана када наступи одређена биолошка појава.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod4-clan20-stav5">
+										<content>
+											<p>Програм рада државне мреже обичних агрометеоролошких станица обухвата метеоролошка мерења и осматрања као и евидентирање података који се врше по програму државних мрежа обичних климатолошких станица и фенолошких станица.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod4-clan20-stav6">
+										<content>
+											<p>Програм рада државне мреже фенолошких станица обухвата осматрања фаза развића културних и дивљих биљака која се врше на начин утврђен прописом о методама метеоролошких мерења и осматрања.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-podod4-clan21">
+								<num>21.</num>
+								<content>
+									<clause id="gla3-podod4-clan21-stav1">
+										<content>
+											<p>На станицама у саставу државне мреже главних агрометеоролошких станица извештавање се врши једном дневно и месeчно.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod4-clan21-stav2">
+										<content>
+											<p>На станицама у саставу државне мреже обичних агрометеоролошких и фенолошких станица извештавање се врши једном месeчно.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+					<subsection id="gla3-podod5">
+						<num>д</num>
+						<heading> Програм рада државне мреже метеоролошких радарских центара</heading>
+						<content>
+							<article id="gla3-podod5-clan22">
+								<num>22.</num>
+								<content>
+									<clause id="gla3-podod5-clan22-stav1">
+										<content>
+											<p>Програм рада државне мреже метеоролошких радарских центара усклађује се са програмом мерења и техничким стандардима Европске мреже метеоролошких радарских центара.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod5-clan22-stav2">
+										<content>
+											<p>Са радарских центара на којима је мерење аутоматизовано, извештавање се врши сваких пола сата, а по потреби и чешће.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod5-clan22-stav3">
+										<content>
+											<p>Радарски центри у систему противградне заштите оперативно достављају податке радарских мерења Републичком хидрометеоролошком заводу, у складу са законом којим се уређује метеоролошка и хидролошка делатност и прописима донетим на основу њега.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+					<subsection id="gla3-podod6">
+						<num>ђ</num>
+						<heading> Програм рада државних мрежа станица за сунчево зрачење и атмосферски озон (GAW станице)</heading>
+						<content>
+							<article id="gla3-podod6-clan23">
+								<num>23.</num>
+								<content>
+									<clause id="gla3-podod6-clan23-stav1">
+										<content>
+											<p>Програм рада државне мреже главних станица за Сунчево зрачење садржи метеоролошка мерења и осматрања као и евидентирање података за следеће метеоролошке елементе и појаве:</p>
+											<point id="gla3-podod6-clan23-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> непрекидну регистрацију глобалног и дифузног Сунчевог зрачења;</p>
+												</content>
+											</point>
+											<point id="gla3-podod6-clan23-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> редовна мерења директног Сунчевог зрачења;</p>
+												</content>
+											</point>
+											<point id="gla3-podod6-clan23-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> редовна мерења одбијеног (рефлектованог) Сунчевог зрачења;</p>
+												</content>
+											</point>
+											<point id="gla3-podod6-clan23-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> редовна мерења биланса зрачења изнад земљишта, са вегетацијом и без вегетације;</p>
+												</content>
+											</point>
+											<point id="gla3-podod6-clan23-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> регистрацију трајања сијања Сунца;</p>
+												</content>
+											</point>
+											<point id="gla3-podod6-clan23-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> по потреби, мерења других компоненти зрачења.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla3-podod6-clan23-stav2">
+										<content>
+											<p>Програм рада државне мреже обичних станица за Сунчево зрачење садржи метеоролошка мерења и осматрања као и евидентирање података за следеће метеоролошке елементе и појаве:</p>
+											<point id="gla3-podod6-clan23-stav2-tac1">
+												<num>1)</num>
+												<content>
+													<p> регистрацију глобалног и дифузног Сунчевог зрачења;</p>
+												</content>
+											</point>
+											<point id="gla3-podod6-clan23-stav2-tac2">
+												<num>2)</num>
+												<content>
+													<p> регистрацију трајања сијања Сунца;</p>
+												</content>
+											</point>
+											<point id="gla3-podod6-clan23-stav2-tac3">
+												<num>3)</num>
+												<content>
+													<p> по потреби, мерење и других компоненти зрачења.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla3-podod6-clan23-stav3">
+										<content>
+											<p>Програм рада државне мреже главних и обичних станица за Сунчево зрачење обухвата и метеоролошка мерења и осматрања која се врше по програму државне мреже главних климатолошких станица.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod6-clan23-stav4">
+										<content>
+											<p>На станицама у саставу државне мреже главних и обичних станица за Сунчево зрачење извештавање се врши једном месeчно.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-podod6-clan24">
+								<num>24.</num>
+								<content>
+									<clause id="gla3-podod6-clan24-stav1">
+										<content>
+											<p>Програм рада државне мреже GAW станица садржи мерења и осматрања као и евидентирање података свих или неких елемената и појава, и то:</p>
+											<point id="gla3-podod6-clan24-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> метеоролошка мерења и осматрања по програму главне климатолошке или обичне климатолошке станице;</p>
+												</content>
+											</point>
+											<point id="gla3-podod6-clan24-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> мерења атмосферских концентрација гасова са ефектом стаклене баште (угљен диоксид, метан, тропосферски озон, азотсубоксид, хлорофлуорокарбонати);</p>
+												</content>
+											</point>
+											<point id="gla3-podod6-clan24-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> мерења садржаја озона у атмосфери (укупног, приземног и вертикалног профила);</p>
+												</content>
+											</point>
+											<point id="gla3-podod6-clan24-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> мерења карактеристика атмосферских аеросола и спектралне прозрачности атмосфере;</p>
+												</content>
+											</point>
+											<point id="gla3-podod6-clan24-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> мерења Сунчевог зрачења, укључујући и спектар ултраљубичастог зрачења;</p>
+												</content>
+											</point>
+											<point id="gla3-podod6-clan24-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> мерења концентрација реактивних гасова у атмосфери (сумпор диоксид, азотни оксиди и угљен моноксид);</p>
+												</content>
+											</point>
+											<point id="gla3-podod6-clan24-stav1-tac7">
+												<num>7)</num>
+												<content>
+													<p> мерења хемијског састава падавина и депозиције;</p>
+												</content>
+											</point>
+											<point id="gla3-podod6-clan24-stav1-tac8">
+												<num>8)</num>
+												<content>
+													<p> по потреби, мерење и других параметара утврђених међународним програмом GAW.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla3-podod6-clan24-stav2">
+										<content>
+											<p>На станицама у саставу државне мреже GAW станица извештаји се достављају Републичком хидрометеоролошком заводу једном месечно.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+					<subsection id="gla3-podod7">
+						<num>е</num>
+						<heading> Спровођење програма рада државних мрежа метеоролошких станица</heading>
+						<content>
+							<article id="gla3-podod7-clan25">
+								<num>25.</num>
+								<content>
+									<clause id="gla3-podod7-clan25-stav1">
+										<content>
+											<p>Програми рада државних мрежа метеоролошких станица утврђени овом уредбом спроводе се на начин утврђен прописом о методама метеоролошких мерења и осматрања.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod7-clan25-stav2">
+										<content>
+											<p>На локацији једне метеоролошке станице у саставу државних мрежа могу се изводити програми за више врста државних мрежа метеоролошких станица.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod7-clan25-stav3">
+										<content>
+											<p>На станицама у саставу државних мрежа синоптичких станица, ваздухопловних метеоролошких станица, метеоролошких опсерваторија, главних климатолошких станица и климатолошких станица посебне намене, главних агрометеоролошких станица, метеоролошких радарских центара и станица за сунчево зрачење и атмосферски озон, програме рада изводе стални осматрачи, а на осталим станицама у саставу државних мрежа програме рада могу изводити хонорарни осматрачи.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod7-clan25-stav4">
+										<content>
+											<p>Подаци метеоролошких мерења и осматрања на станицама у саставу државних мрежа морају бити контролисани.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod7-clan25-stav5">
+										<content>
+											<p>Квалитет података првог нивоа контролише се на станици на којој су вршена метеоролошка мерења и осматрања.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod7-clan25-stav6">
+										<content>
+											<p>Републички хидрометеоролошки завод врши стручну и техничку контролу рада, извршења програма и извештавања државних мрежа метеоролошких станица утврђeних овом уредбом, као и контролу квалитета података који се прикупљају са станица у саставу државних мрежа метеоролошких станица и који се архивирају и чувају у фонду званичних метеоролошких података, у складу са законом којим се уређује метеоролошка и хидролошка делатност.</p>
+											<тачка id="gla3-podod7-clan25-stav6-tac2">
+												<num>2.</num>
+												<content>
+													<p> Начин извештавања метеоролошких станица</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-podod7-clan26">
+								<num>26.</num>
+								<content>
+									<clause id="gla3-podod7-clan26-stav1">
+										<content>
+											<p>Подаци метеоролошких мерења и осматрања на метеоролошким станицама у саставу државних мрежа уносе се у дневник осматрања (у даљем тексту: метеоролошки извештај) утврђен прописом којим се уређује начин кодирања, евидентирања и прикупљања података из државног метеоролошког осматрачког система.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod7-clan26-stav2">
+										<content>
+											<p>Метеоролошки извештај из става 1. овог члана доставља се Републичком хидрометеоролошком заводу по истеку календарског месеца.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod7-clan26-stav3">
+										<content>
+											<p>Подаци метеоролошких мерења и осматрања који се укључују у оперативну међународну размену хидрометеоролошким телекомуникационим системом Републичког хидрометеоролошког завода, достављају се у кодираном (шифрованом) или некодираном облику, у складу са међународним кодовима утврђеним Техничким регулаторним документима Светске метеоролошке организације, односно на начин утврђен прописом којим се уређује начин кодирања, евидентирања и прикупљања података из државног метеоролошког осматрачког система.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ЗАВРШНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla4-clan27">
+						<num>27.</num>
+						<content>
+							<clause id="gla4-clan27-stav1">
+								<content>
+									<p>Ова уредба ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan27-stav2">
+								<content>
+									<p>05 број 110-9176/2012</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan27-stav3">
+								<content>
+									<p>У Београду, 20. децембра 2012. године</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan27-stav4">
+								<content>
+									<p>Влада</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan27-stav5">
+								<content>
+									<p>Председник,</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan27-stav6">
+								<content>
+									<p>Ивица Дачић, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2006/23-81/main"/>
+					<FRBRuri value="/rs/act/2006/23-81"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2007/122-7/srp@/main"/>
+					<FRBRuri value="/rs/act/2007/122-7/srp@"/>
+					<FRBRdate date="2007" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2007/122-7/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2007/122-7/srp@.akn"/>
+					<FRBRdate date="2007" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2006-3-17" name="“службени гласник рс" number="23" showAs="“Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="V МОНЕТАРНИ СИСТЕМ, ФИНАНСИЈСКЕ ОРГАНИЗАЦИЈЕ И ФИНАНСИЈСКО ПОСЛОВАЊЕ" value="v монетарни систем, финансијске организације и финансијско пословање"/>
+				<keyword id="grupa" showAs="6. Издавање, основна обележја и пуштање у оптицај новчаница, кованог новца и пригодног кованог новца" value="6. издавање, основна обележја и пуштање у оптицај новчаница, кованог новца и пригодног кованог новца"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2006-03-16" id="usvajanje"/>
+				<step date="2006-03-18" id="stupanje_na_snagu"/>
+				<step date="2006-04-01" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="23/2006-81" id="e1" type="generation"/>
+				<eventRef date="122/2007-7" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 55. став 3. </ref>Закона о Народној банци Србије („<ref id="ref1" href="/rs/act/2003/72/srp@">Службени гласник РС”, бр. 72/2003</ref> и 55/2004),</p>
+			<p>Гувернер Народне банке Србије доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о повлачењу из оптицаја новчаница апоена од 50, 100 и 200 динара</title>
+			<date>“Службени гласник РС”, бр. 23 од 17. марта 2006, 122   од 24. децембра 2007.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Народна банка Србије ће од 1. априла до 31. децембра 2006. године повући из оптицаја:</heading>
+				<content>
+					<point id="od1-tac1">
+						<num>1)</num>
+						<content>
+							<p> новчаницу од 50 динара чија су обележја утврђена Одлуком о издавању и основним обележјима новчанице од 50 динара („<ref id="ref2" href="/rs/act/2000/70/srp@">Службени лист СРЈ”, бр. 70/2000</ref>) и која је у оптицају од 15. децембра 2000. године;</p>
+						</content>
+					</point>
+					<point id="od1-tac2">
+						<num>2)</num>
+						<content>
+							<p> новчаницу од 100 динара чија су обележја утврђена Одлуком о издавању и основним обележјима новчанице од 100 динара („<ref id="ref3" href="/rs/act/2000/70/srp@">Службени лист СРЈ”, бр. 70/2000</ref>) и која је у оптицају од 15. децембра 2000. године;</p>
+						</content>
+					</point>
+					<point id="od1-tac3">
+						<num>3)</num>
+						<content>
+							<p> новчаницу од 200 динара чија су обележја утврђена Одлуком о издавању и основним обележјима новчанице од 200 динара („<ref id="ref4" href="/rs/act/2001/24/srp@">Службени лист СРЈ”, бр. 24/2001</ref>) и која је у оптицају од 31. маја 2001. године.</p>
+						</content>
+					</point>
+					<clause id="od1-stav1">
+						<content>
+							<p>Новчанице из става 1. ове тачке престају да буду законско средство плаћања од 1. јануара 2007. године.</p>
+						</content>
+					</clause>
+					<clause id="od1-stav2">
+						<content>
+							<p>У периоду из става 1. ове тачке, сва готовинска плаћања могу се обављати и новчаницама из тог става.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Истеком периода из тачке 1. став 1. ове одлуке, физичка и правна лица у земљи могу у неограниченом износу замењивати новчанице из тог става за новчанице и ковани новац који су у оптицају – и то у банкама и у филијалама Народне банке Србије (у даљем тексту: филијале) до 31. децембра 2007. године, а од 1. јануара 2008. године до 31. децембра 2012. – само у филијалама*.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>*<ref id="ref5" href="/rs/act/2007/122/srp@">Службени гласник РС, број 122/2007</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Банке које врше замену новчаница из тачке 1. став 1. ове одлуке дужне су да замењене новчанице филијалама достављају сукцесивно, а најкасније до 15. јануара 2008. године*.</heading>
+				<content>
+					<clause id="od3-stav1">
+						<content>
+							<p>*<ref id="ref6" href="/rs/act/2007/122/srp@">Службени гласник РС, број 122/2007</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Филијале и банке су дужне да, од дана примене ове одлуке, новчанице апоена и издања из тачке 1. став 1. те одлуке одвајају од новчаница апоена од 50, 100 и 200 динара, издања Народне банке Србије.</heading>
+				<content/>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> Ова одлука ступа на снагу наредног дана од дана објављивања у „Службеном гласнику РС”, а примењује се од 1. априла 2006. године.</heading>
+				<content>
+					<clause id="od5-stav1">
+						<content>
+							<p>О. број 24</p>
+						</content>
+					</clause>
+					<clause id="od5-stav2">
+						<content>
+							<p>У Београду, 16. марта 2006. године</p>
+						</content>
+					</clause>
+					<clause id="od5-stav3">
+						<content>
+							<p>Гувернер</p>
+						</content>
+					</clause>
+					<clause id="od5-stav4">
+						<content>
+							<p>Народне банке Србије,</p>
+						</content>
+					</clause>
+					<clause id="od5-stav5">
+						<content>
+							<p>Радован Јелашић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

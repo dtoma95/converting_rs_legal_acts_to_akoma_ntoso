@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2004/104-7/main"/>
+					<FRBRuri value="/rs/act/2004/104-7"/>
+					<FRBRdate date="2004" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2004/104-7/srp@/main"/>
+					<FRBRuri value="/rs/act/2004/104-7/srp@"/>
+					<FRBRdate date="2004" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2004/104-7/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2004/104-7/srp@.akn"/>
+					<FRBRdate date="2004" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2004-9-17" name="службени гласник рс" number="104" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="V МОНЕТАРНИ СИСТЕМ, ФИНАНСИЈСКЕ ОРГАНИЗАЦИЈЕ И ФИНАНСИЈСКО ПОСЛОВАЊЕ" value="v монетарни систем, финансијске организације и финансијско пословање"/>
+				<keyword id="grupa" showAs="6. Издавање, основна обележја и пуштање у оптицај новчаница, кованог новца и пригодног кованог новца" value="6. издавање, основна обележја и пуштање у оптицај новчаница, кованог новца и пригодног кованог новца"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2004-09-15" id="usvajanje"/>
+				<step date="2004-09-17" id="stupanje_na_snagu"/>
+				<step date="2004-09-17" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 55. став 3. </ref>Закона о Народној банци Србије („<ref id="ref1" href="/rs/act/2003/72/srp@">Службени гласник РС”, бр. 72/2003</ref> и 55/2004),</p>
+			<p>Гувернер Народне банке Србије доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о пуштању у оптицај новчаница од 500 и од 100 динара</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 104 од 17. септембра 2004.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Народна банка Србије пустиће у оптицај 17. септембра 2004. године новчаницу од 500 динара, са обележјима утврђеним Одлуком о издавању и основним обележјима новчанице од 500 динара („<ref id="ref2" href="/rs/act/2004/104/srp@">Службени гласник РС”, број 104/2004</ref>), и новчаницу од 100 динара, са обележјима утврђеним Одлуком о издавању и основним обележјима новчанице од 100 динара („<ref id="ref3" href="/rs/act/2004/104/srp@">Службени гласник РС”, број 104/2004</ref>).</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Ова одлука ступа на снагу даном објављивања у „Службеном гласнику РС”.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>О. број 56</p>
+						</content>
+					</clause>
+					<clause id="od2-stav2">
+						<content>
+							<p>У Београду, 15. септембра 2004. године</p>
+						</content>
+					</clause>
+					<clause id="od2-stav3">
+						<content>
+							<p>Гувернер</p>
+						</content>
+					</clause>
+					<clause id="od2-stav4">
+						<content>
+							<p>Народне банке Србије,</p>
+						</content>
+					</clause>
+					<clause id="od2-stav5">
+						<content>
+							<p>Радован Јелашић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

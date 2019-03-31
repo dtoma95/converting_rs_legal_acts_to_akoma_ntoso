@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1992/18-286/main"/>
+					<FRBRuri value="/rs/act/1992/18-286"/>
+					<FRBRdate date="1992" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1992/18-286/srp@/main"/>
+					<FRBRuri value="/rs/act/1992/18-286/srp@"/>
+					<FRBRdate date="1992" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1992/18-286/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1992/18-286/srp@.akn"/>
+					<FRBRdate date="1992" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1992-7-10" name="службени лист срј“" number="18" showAs="Службени лист СРЈ“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="14. Заштита од зрачења и нуклеарна сигурност" value="14. заштита од зрачења и нуклеарна сигурност"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1992-06-02" id="usvajanje"/>
+				<step date="1992-07-18" id="stupanje_na_snagu"/>
+				<step date="1992-07-18" id="primena"/>
+			</workflow>
+		</meta>
+		<body/>
+	</act>
+</akomaNtoso>

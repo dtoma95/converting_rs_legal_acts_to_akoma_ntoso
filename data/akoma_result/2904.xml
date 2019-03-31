@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2005/30-8/main"/>
+					<FRBRuri value="/rs/act/2005/30-8"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2005/37-27/srp@/main"/>
+					<FRBRuri value="/rs/act/2005/37-27/srp@"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2005/37-27/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2005/37-27/srp@.akn"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2005-4-5" name="службени гласник рс“" number="30" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Упутство" value="упутство"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="4. Полиција, јавни ред и мир и јавно окупљање" value="4. полиција, јавни ред и мир и јавно окупљање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2005-03-24" id="usvajanje"/>
+				<step date="2005-04-13" id="stupanje_na_snagu"/>
+				<step date="2005-04-13" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="30/2005-8" id="e1" type="generation"/>
+				<eventRef date="37/2005-27" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 7. </ref>Закона о унутрашњим пословима („<ref id="ref1" href="/rs/act/91/44/srp@">Службени гласник РС”, бр. 44/91, 79/91, 54/96, 25/00, 8/01</ref> и 106/03),</p>
+			<p>Министар унутрашњих послова доноси</p>
+		</preamble>
+		<preface>
+			<authority>УПУТСТВО</authority>
+			<title>о  Дану Министарства унутрашњих послова</title>
+			<date>„Службени гласник РС“, бр. 30 од 5. априла 2005, 37 од 26. априла 2005  - исправка</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Министарство унутрашњих послова Републике Србије обележава Тројице, као Дан Министарства унутрашњих послова, Славу Министарства унутрашњих послова и Дан полиције,* у спомен на Тројице, 15. јуна 1862. године када се од 15. до 17. јуна те године у сукобима око Чукур чесме и током бомбардовања Београда нешто више од 100 жандарма супротставило неколико стотина пута јачој турској сили и практично спасило Београд и Србију.</heading>
+				<content>
+					<clause id="od1-stav1">
+						<content>
+							<p>*<ref id="ref2" href="/rs/act/2005/26/srp@">Службени гласник РС, број 26/2005</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> О начину обележавања празника из тачке 1. овог упутства биће дато посебно упутство.</heading>
+				<content/>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Даном ступања на снагу овог упутства престаје да важи Упутство о дану Министарства унутрашњих послова („<ref id="ref3" href="/rs/act/05/10/srp@">Службени гласник Републике Србије”, број 10/05</ref>).</heading>
+				<content/>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Ово упутство ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</heading>
+				<content>
+					<clause id="od4-stav1">
+						<content>
+							<p>01 број 3248/2005</p>
+						</content>
+					</clause>
+					<clause id="od4-stav2">
+						<content>
+							<p>У Београду, 24. марта 2005. године</p>
+						</content>
+					</clause>
+					<clause id="od4-stav3">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="od4-stav4">
+						<content>
+							<p>Драган Јочић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,569 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2016/39-198/main"/>
+					<FRBRuri value="/rs/act/2016/39-198"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2016/39-198/srp@/main"/>
+					<FRBRuri value="/rs/act/2016/39-198/srp@"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2016/39-198/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2016/39-198/srp@.akn"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2016-4-15" name="службени гласник рс" number="39" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="5. Привредне коморе" value="5. привредне коморе"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2016-03-31" id="usvajanje"/>
+				<step date="2016-04-23" id="stupanje_na_snagu"/>
+				<step date="2016-04-23" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 39. став 2. </ref>Закона о привредним коморама („<ref id="ref4" href="/rs/act/15/112/srp@">Службени гласник РС”, број 112/15</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Скупштина Привредне коморе Србије, на седници одржаној 31. марта 2016. године, доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о начину вођења Регистра општих удружења предузетника</title>
+			<date>&quot;Службени гласник РС&quot;, број 39 од 15. априла      2016.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>Опште одредбе</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником уређују се садржина и начин вођења Регистра општих удружења предузетника (у даљем тексту: Регистар), садржина и образац пријаве за упис у Регистар, исправе које се прилажу уз пријаву и поступак уписа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Регистар води Привредна комора Србије.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav2">
+								<content>
+									<p>Регистар се води као јединствена, централна, јавна, електронска база података и докумената о општим удружењима предузетника (у даљем тексту: Удружење), која обављају своју делатност на територији Републике Србије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>Садржина и начин вођења Регистра</heading>
+				<content>
+					<article id="gla2-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla2-clan3-stav1">
+								<content>
+									<p>У Регистар се уписују:</p>
+									<alinea id="gla2-clan3-stav1-ali1">
+										<content>
+											<p>азив Удружења;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan3-stav1-ali2">
+										<content>
+											<p>едиште и адреса;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan3-stav1-ali3">
+										<content>
+											<p>елатност и подручје за које је Удружење основано;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan3-stav1-ali4">
+										<content>
+											<p>атични број и порески идентификациони број;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan3-stav1-ali5">
+										<content>
+											<p>одаци о заступнику Удружења – лично име, пребивалиште, односно боравиште и адреса, јединствени матични број грађана или број пасоша и датум његовог издавања;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan3-stav1-ali6">
+										<content>
+											<p>редмет уписа – оснивање, престанак рада, подаци о стечају и ликвидацији, промена уписаних података;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan3-stav1-ali7">
+										<content>
+											<p>онтакт подаци Удружења и заступника Удружења – број телефона и електронска адреса;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan3-stav1-ali8">
+										<content>
+											<p>едни број и датум уписа Удружења.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav2">
+								<content>
+									<p>Подаци о матичном броју уписују се у Регистар по службеној дужности, на основу одлуке надлежног органа за доделу матичног броја.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav3">
+								<content>
+									<p>Пријава за упис података из става 1. овога члана врши се на обрасцу који је саставни део овог правилника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla2-clan4-stav1">
+								<content>
+									<p>Пријава за упис, уверење или извод из Регистра, подноси се регионалнoj привреднoj комори, односно привреднoj комори главног града (у даљем тексту: Комора), на чијем подручју је седиште Удружења.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav2">
+								<content>
+									<p>У случају да на подручју седишта Удружења није образована Комора, пријава из става 1. овога члана подноси се Привредној комори Србије.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav3">
+								<content>
+									<p>Пријава из става 1. овог члана подноси се у писаном облику, непосредно, поштом или електронским путем, у року од 15 дана од дана конституисања Удружења, односно од дана доношења одлуке о престанку рада Удружења или о променама уписаних података.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav4">
+								<content>
+									<p>Када се пријава подноси поштом, као датум и време подношења пријаве узимају се датум и време пријема пријаве у Комори.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla2-clan5-stav1">
+								<content>
+									<p>Упис у Регистар врши се на захтев овлашћеног лица Удружења.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla2-clan6-stav1">
+								<content>
+									<p>Упис у Регистар врши лице овлашћено за вођење Регистра (у даљем тексту: Регистратор).</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav2">
+								<content>
+									<p>Регистратор путем електронских сервиса приступа делу Регистра за подручје за које је Комора образована и у Регистар уноси податке садржане у обрасцу из <ref>члана 3. став 3. овог</ref> правилника, као и документа у електронском облику, на основу којих је извршен упис.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>Упис у Регистар</heading>
+				<content>
+					<article id="gla3-clan7">
+						<num>7.</num>
+						<heading>Упис оснивања</heading>
+						<content>
+							<clause id="gla3-clan7-stav1">
+								<content>
+									<p>Уз пријаву за упис оснивања Удружења прилажу се:</p>
+									<alinea id="gla3-clan7-stav1-ali1">
+										<content>
+											<p>снивачки акт са овереним потписима оснивача;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan7-stav1-ali2">
+										<content>
+											<p>татут Удружења у изворнику или овереном препису;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan7-stav1-ali3">
+										<content>
+											<p>длука о избору органа Удружења у изворнику или овереном препису;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan7-stav1-ali4">
+										<content>
+											<p>длука о именовању заступника Удружења у изворнику или овереном препису;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan7-stav1-ali5">
+										<content>
+											<p>аписник са оснивачке скупштине у изворнику или овереном препису;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan7-stav1-ali6">
+										<content>
+											<p>оказ о идентитету оснивача и лица овлашћеног за заступање – фотокопија личне карте или пасоша;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan7-stav1-ali7">
+										<content>
+											<p>онтакт подаци Удружења и заступника Удружења – број телефона и електронска адреса;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan7-stav1-ali8">
+										<content>
+											<p>оказ о уплати накнаде за упис у Регистар.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan8">
+						<num>8.</num>
+						<heading>Упис промене података</heading>
+						<content>
+							<clause id="gla3-clan8-stav1">
+								<content>
+									<p>Уз пријаву за упис промене података Удружења прилажу се:</p>
+									<alinea id="gla3-clan8-stav1-ali1">
+										<content>
+											<p>длука надлежног органа о промени података у изворнику или овереном препису;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan8-stav1-ali2">
+										<content>
+											<p>аписник са седнице органа на којој је донета одлука о промени података у изворнику или овереном препису;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan8-stav1-ali3">
+										<content>
+											<p>оказ о уплати накнаде за упис у Регистар.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan9">
+						<num>9.</num>
+						<heading>Упис престанка рада -– брисања</heading>
+						<content>
+							<clause id="gla3-clan9-stav1">
+								<content>
+									<p>Уз пријаву за упис престанка рада – брисања Удружења прилажу се:</p>
+									<alinea id="gla3-clan9-stav1-ali1">
+										<content>
+											<p>длука надлежног органа о престанку рада у изворнику или овереном препису;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan9-stav1-ali2">
+										<content>
+											<p>аписник са седнице органа на којој је донета одлука о престанку рада у изворнику или овереном препису;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan9-stav1-ali3">
+										<content>
+											<p>оказ о уплати накнаде за упис у Регистар.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan10">
+						<num>10.</num>
+						<heading>Упис података о ликвидацији</heading>
+						<content>
+							<clause id="gla3-clan10-stav1">
+								<content>
+									<p>Уз пријаву за упис података о ликвидацији Удружења прилажу се:</p>
+									<alinea id="gla3-clan10-stav1-ali1">
+										<content>
+											<p>длука надлежног органа о покретању поступка ликвидације и именовању ликвидационог управника;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan10-stav1-ali2">
+										<content>
+											<p>оказ о идентитету ликвидационог управника – фотокопија личне карте или пасоша;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan10-stav1-ali3">
+										<content>
+											<p>оказ о уплати накнаде за упис у Регистар.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan11">
+						<num>11.</num>
+						<heading>Упис података о стечају</heading>
+						<content>
+							<clause id="gla3-clan11-stav1">
+								<content>
+									<p>Уз пријаву за упис података о стечају Удружења прилажу се:</p>
+									<alinea id="gla3-clan11-stav1-ali1">
+										<content>
+											<p>ешење надлежног суда о покретању стечајног поступка и именовању стечајног управника;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan11-stav1-ali2">
+										<content>
+											<p>оказ о идентитету стечајног управника – фотокопија личне карте или пасоша;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan11-stav1-ali3">
+										<content>
+											<p>оказ о уплати накнаде за упис у Регистар.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan12">
+						<num>12.</num>
+						<heading>Поступак уписа</heading>
+						<content>
+							<clause id="gla3-clan12-stav1">
+								<content>
+									<p>Уколико су испуњени услови за упис у Регистар, Регистратор врши упис у року од пет дана од дана пријема захтева.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan12-stav2">
+								<content>
+									<p>Уколико пријава не садржи потребне податке или ако уз њу нису приложене потребне исправе, Регистратор ће позвати подносиоца пријаве да у року од осам дана допуни пријаву, односно достави потребне документе.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan12-stav3">
+								<content>
+									<p>Ако подносилац пријаве не допуни пријаву, односно не достави потребне исправе у року из става 2. овог члана, директор Коморе или лице које он овласти, односно, у случају да је пријава поднета Привредној комори Србије, генерални секретар Привреднe коморe Србије или лице које он овласти (у даљем тексту: Oвлашћено лице Коморе), донеће решење којим одбацује пријаву за упис.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla3-clan13-stav1">
+								<content>
+									<p>По свакој пријави за упис, подносиоцу пријаве издаје се потврда о пријему пријаве, која садржи број под којим је пријава заведена, датум и време пријема пријаве, врсту пријаве, податке о подносиоцу пријаве и списак приложених докумената.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav2">
+								<content>
+									<p>О пријави за упис Овлашћено лице Коморе доноси решење.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav3">
+								<content>
+									<p>Решење из става 2. овог члана садржи: податке о Удружењу, изреку којом се одлучује о поднетој пријави за упис, образложење и поуку о правном леку.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav4">
+								<content>
+									<p>Против решења из става 2. овог члана може се изјавити жалба председнику Привредне коморе Србије, у року од осам дана од дана пријема решења.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav5">
+								<content>
+									<p>Одлука из става 4. овог члана је коначна.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav6">
+								<content>
+									<p>На поступак уписа сходно се примењују одредбе Закона о општем управном поступку.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan14">
+						<num>14.</num>
+						<heading>Издавање уверења, извода и копија докумената</heading>
+						<content>
+							<clause id="gla3-clan14-stav1">
+								<content>
+									<p>Овлашћено лице Коморе у року од пет дана од дана пријема пријаве, издаје уверење о подацима уписаним у Регистар, односно о чињеницама које произилазе из података уписаних у Регистар; извод из Регистра или копије докумената на основу кога је извршен упис у Регистар.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>Прелазне и завршне одредбе</heading>
+				<content>
+					<article id="gla4-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla4-clan15-stav1">
+								<content>
+									<p>Привредна комора Србије дужна је да установи Регистар Удружења у складу са овим правилником у року од 60 дана од дана ступања на снагу овог правилника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="gla4-clan16-stav1">
+								<content>
+									<p>Општа удружења предузетника образована у складу са Законом о привредним коморама („<ref id="ref5" href="/rs/act/01/65/srp@">Службени гласник РС”, бр. 65/01, 36/09</ref> и 99/11 – др. закон) обавезна су да поднесу пријаву за упис у Регистар у року од шест месеци од дана ступања на снагу Закона о привредним коморама („<ref id="ref6" href="/rs/act/15/112/srp@">Службени гласник РС”, број 112/15</ref>).</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan16-stav2">
+								<content>
+									<p>Уз пријаву за упис из става 1. овог члана прилажу се:</p>
+									<alinea id="gla4-clan16-stav2-ali1">
+										<content>
+											<p>ешење о упису у регистар у складу са Правилником из <ref>члана 19. овог</ref> правилника;</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan16-stav2-ali2">
+										<content>
+											<p>атични број и порески идентификациони број;</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan16-stav2-ali3">
+										<content>
+											<p>татут Удружења у оригиналу или овереној фотокопији;</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan16-stav2-ali4">
+										<content>
+											<p>длука о избору органа Удружења у оригиналу или овереној фотокопији;</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan16-stav2-ali5">
+										<content>
+											<p>длука о именовању заступника Удружења у оригиналу или овереној фотокопији;</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan16-stav2-ali6">
+										<content>
+											<p>одаци о заступнику Удружења – лично име, пребивалиште, односно боравиште и адреса, јединствени матични број грађана или број пасоша и датум његовог издавања;</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan16-stav2-ali7">
+										<content>
+											<p>онтакт подаци Удружења и заступника Удружења – број телефона и електронска адреса.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="gla4-clan17-stav1">
+								<content>
+									<p>Регистри општих удружења предузетника које воде Привредна комора Београда, односно регионална привредна комора, у складу са Законом о привредним коморама („<ref id="ref7" href="/rs/act/01/65/srp@">Службени гласник РС”, бр. 65/01, 36/09</ref> и 99/11 – др. закон), престају да постоје истеком рока из <ref>члана 16. став 1. овог</ref> правилника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="gla4-clan18-stav1">
+								<content>
+									<p>До припајања, односно образовања регионалних привредних комора, односно привредне коморе главног града Привредној комори Србије, у складу са Законом о привредним коморама („<ref id="ref8" href="/rs/act/15/112/srp@">Службени гласник РС”, број 112/15</ref>), пријава за упис, уверење или извод из Регистра, подноси се Привредној комори Србије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="gla4-clan19-stav1">
+								<content>
+									<p>Даном ступања на снагу овог правилника престаје да важи Правилник о упису у регистар општих удружења предузетника („<ref id="ref9" href="/rs/act/02/54/srp@">Службени гласник РС”, бр. 54/02</ref> и 56/02).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla4-clan20-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+									<тачка id="gla4-clan20-stav1-tac2">
+										<num>02.</num>
+										<content>
+											<p>01 број 3/3</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav2">
+								<content>
+									<p>У Београду, 31. марта 2016. године</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav3">
+								<content>
+									<p>Привредна комора Србије</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav4">
+								<content>
+									<p>Председник Скупштине,</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav5">
+								<content>
+									<p>Милош Ненезић, с.р.</p>
+								</content>
+							</clause>
+							<став id="gla4-clan20-stav6">
+								<img src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/img6.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419413&amp;regactid=419413"/>
+								<content/>
+							</став>
+							<став id="gla4-clan20-stav7">
+								<img src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/img8.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419413&amp;regactid=419413"/>
+								<content/>
+							</став>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,957 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2013/19-11/main"/>
+					<FRBRuri value="/rs/act/2013/19-11"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2013/19-11/srp@/main"/>
+					<FRBRuri value="/rs/act/2013/19-11/srp@"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2013/19-11/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2013/19-11/srp@.akn"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2013-2-27" name="службени гласник рс" number="19" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="IV ЈАВНИ ПРИХОДИ" value="iv јавни приходи"/>
+				<keyword id="grupa" showAs="4. Јавни зајмови" value="4. јавни зајмови"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2013-02-21" id="usvajanje"/>
+				<step date="2013-02-28" id="stupanje_na_snagu"/>
+				<step date="2013-02-28" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Здравствена установа доставља податке на обрасцима у електронској форми и ИОС филијали Републичког фонда до 8. марта 2013. године. Републички фонд доставља податке о усаглашеним обавезама здравствених установа, односно потраживањима веледрогерија Министарству здравља Републике Србије на Обрасцу ЈД/2012 до 15. марта 2013. године (види <ref>члан 7. </ref>Правилника).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 4. </ref>Закона о преузимању обавеза здравствених установа према веледрогеријама по основу набавке лекова и медицинског материјала и претварању тих обавеза у јавни дуг Републике Србије („<ref id="ref4" href="/rs/act/12/119/srp@">Службени гласник РС”, број 119/12</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Управни одбор Републичког фонда за здравствено осигурање, на седници одржаној 21. фебруара 2013. године, доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о начину и поступку достављања података о преузимању обавеза здравствених установа према веледрогеријама по основу набавке лекова и медицинског материјала и претварању тих обавеза у јавни дуг Републике Србије</title>
+			<date>&quot;Службени гласник РС&quot;, број 19 од 27.   фебруара 2013.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОПШТИ УСЛОВИ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником уређује се начин и поступак достављања података о усаглашеним износима обавеза здравствених установа из Уредбе о Плану мреже здравствених установа („<ref id="ref5" href="/rs/act/06/42/srp@">Службени гласник РС”, бр. 42/06, 119/07, 84/08, 71/09, 85/09, 24/10, 6/12</ref> и 37/12) према веледрогеријама по основу набавке лекова и медицинског материјала које су здравствене установе створиле изнад износа сразмерног дела уговора, односно предрачуна средстава за 2012. годину, а које Република Србија преузима као јавни дуг Републике Србије.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan1-stav2">
+								<content>
+									<p>Усаглашени износ обавеза здравствених установа из Уредбе о Плану мреже здравствених установа и потраживања веледрогерија закључно са 30. септембром 2012. године, здравствене установе су дужне да доставе Републичком фонду за здравствено осигурање (у даљем тексту: Републички фонд).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Здравствена установа је дужна да износ неизмирених обавеза за лекове и медицински материјал усагласи појединачно са сваком веледрогеријом.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav2">
+								<content>
+									<p>Усаглашавање неизмирених обавеза здравствене установе, односно потраживања веледрогерије, закључно са 30. септембром 2012. године из става 2. <ref>члана 1. овог</ref> правилника спроводи се на обрасцу ИОС (извод отворених ставки) са стањем на дан 31. децембар 2012. године.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav3">
+								<content>
+									<p>Потписом и овером ИОС-а потврђује се тачност.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav4">
+								<content>
+									<p>ИОС образац садржи тачне податке о називу веледрогерије, седишту, ПИБ-у, матичном броју, текућем рачуну, банци и износу дуга.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Здравствена установа са подручја филијале Републичког фонда дужна je да филијали Републичког фонда достави податке о усаглашеним обавезама, односно потраживањима веледрогерије, на обрасцу који се доставља у електронској форми са копијом овереног обрасца ИОС-а.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav2">
+								<content>
+									<p>Усаглашени износ обавеза здравствених установа, односно потраживања веледрогерија не обухвата:</p>
+									<alinea id="gla1-clan3-stav2-ali1">
+										<content>
+											<p>бавезе здравствених установа за лекове и медицински материјал које су настале за потребе пружања услуга лицима која су осигураници страних фондова здравственог осигурања и за који су у евиденцијама здравствених установа исказана ненаплаћена потраживања на дан 31. децембар 2012. године,</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan3-stav2-ali2">
+										<content>
+											<p>бавезе здравствених установа за лекове и медицински материјал који је набављен поступком јавне набавке коју је спровео Републички фонд.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla1-clan4-stav1">
+								<content>
+									<p>Филијала Републичког фонда врши формално упоређивање података о исказaном износу дуга на достављеном обрасцу здравствене установе у електронској форми са подацима o износу дуга исказаном на обрасцу ИОС, који је достављен у складу са чланом 2. овог правилника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla1-clan5-stav1">
+								<content>
+									<p>Републички фонд за здравствено осигурање Министарству здравља доставља податке о усаглашеним обавезама здравствених установа, односно потраживањима веледрогерија на обрасцу ЈД/2012, који је саставни део овог правилника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla1-clan6-stav1">
+								<content>
+									<p>По извршеним уплатама веледрогеријама, здравствена установа ће вршити искњижавање дела обавезе из својих евиденција.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ПРЕЛАЗНЕ И ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla2-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla2-clan7-stav1">
+								<content>
+									<p>Здравствена установа доставља податке на обрасцима у електронској форми и ИОС филијали Републичког фонда до 8. марта 2013. године.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav2">
+								<content>
+									<p>Републички фонд доставља податке из <ref>члана 5. овог</ref> правилника Министарству здравља Републике Србије на Обрасцу ЈД/2012 до 15. марта 2013. године.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>Овај правилник, по добијању сагласности Министарства здравља Републике Србије, ступа на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav2">
+								<content>
+									<p>01/2 број 450-852/13</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav3">
+								<content>
+									<p>У Београду, 21. фебруара 2013. године</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav4">
+								<content>
+									<p>Управни одбор Републичког фонда за здравствено осигурање</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav5">
+								<content>
+									<p>Председник,</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav6">
+								<content>
+									<p>др   Рајко Косановић, с.р.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav7">
+								<content>
+									<p>ОБРАЗАЦ ЈД/2012</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav8">
+								<content>
+									<p>ПРЕГЛЕД УСАГЛАШЕНИХ ПОТРАЖИВАЊА ВЕЛЕДРОГЕРИЈА КОЈА СУ ПРЕДМЕТ ЈАВНОГ ДУГА</p>
+								</content>
+							</clause>
+							<став id="gla2-clan8-stav9">
+								<table class="tabela-sa-borderom">
+									
+		
+									<tbody>
+										
+			
+										<tr>
+											
+				
+											<td align="center" valign="top">
+												
+				
+												<p>НАЗИВ ВЕЛЕДРОГЕРИЈЕ</p>
+											</td>
+											
+				
+											<td align="center" valign="top">
+												
+				
+												<p>ПИБ</p>
+											</td>
+											
+				
+											<td align="center" valign="top">
+												
+				
+												<p>СЕДИШТЕ</p>
+											</td>
+											
+				
+											<td align="center" valign="top">
+												
+				
+												<p>МАТИЧНИ БРОЈ</p>
+											</td>
+											
+				
+											<td align="center" valign="top">
+												
+				
+												<p>БРОЈ ТЕКУЋЕГ РАЧУНА</p>
+											</td>
+											
+				
+											<td align="center" valign="top">
+												
+				
+												<p>БАНКА</p>
+											</td>
+											
+				
+											<td align="center" valign="top">
+												
+				
+												<p>ИЗНОС</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td>
+												
+				
+												<p/>
+											</td>
+											
+			
+										</tr>
+										
+		
+									</tbody>
+									
+	
+								</table>
+								
+
+
+								<content/>
+							</став>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

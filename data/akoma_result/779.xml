@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1974/4-135/main"/>
+					<FRBRuri value="/rs/act/1974/4-135"/>
+					<FRBRdate date="1974" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1976/16-425/srp@/main"/>
+					<FRBRuri value="/rs/act/1976/16-425/srp@"/>
+					<FRBRdate date="1976" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1976/16-425/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1976/16-425/srp@.akn"/>
+					<FRBRdate date="1976" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1974-1-24" name="службени лист сфрј" number="4" showAs="Службени лист СФРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="2. Војска Србије" value="2. војска србије"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1973-12-20" id="usvajanje"/>
+				<step date="1974-01-25" id="stupanje_na_snagu"/>
+				<step date="1974-01-25" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="4/1974-135" id="e1" type="generation"/>
+				<eventRef date="16/1976-425" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<body>
+			<clause id="stav1">
+				<content>
+					<p>На основу <ref>члана 16. </ref>Закона о здравственом осигурању војних осигураника („<ref id="ref3" href="/rs/act/72/13/srp@">Службени лист СФРЈ“, бр. 13/72</ref> и 67/73), Скупштина Заједнице социјалног осигурања војних осигураника доноси</p>
+				</content>
+			</clause>
+			<clause id="stav2">
+				<content>
+					<p>ОДЛУКУ</p>
+				</content>
+			</clause>
+			<clause id="stav3">
+				<content>
+					<p>о условима под којима се сматра да војни осигураник издржава чланове породице и  да чланови породице немају сопствених прихода довољних за издржавање</p>
+				</content>
+			</clause>
+			<clause id="stav4">
+				<content>
+					<p>„Службени лист СФРЈ”, бр. 4 од 24. јануара 1974, 16 од 23.   априла 1976.</p>
+				</content>
+			</clause>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Сматра се да члан породице војног осигураника из <ref>члана 10. став 1. тачка 2</ref>. Закона о здравственом осигурању војних осигураника нема сопствених прихода довољних за издржавање:</heading>
+				<content>
+					<point id="od1-tac1">
+						<num>1)</num>
+						<content>
+							<p> ако нема сопствених прихода;</p>
+						</content>
+					</point>
+					<point id="od1-tac2">
+						<num>2)</num>
+						<content>
+							<p> ако има сопствених прихода, осим прихода од пољопривреде, који заједно не прелазе месечно 50% од износа минималног личног дохотка утврђеног прописом републике на чијем подручју има пребивалиште;</p>
+						</content>
+					</point>
+					<point id="od1-tac3">
+						<num>3)</num>
+						<content>
+							<p> ако има приход од пољопривредног имања (катастарски приход) који не прелази износ од 200 динара годишње по члану домаћинства;</p>
+						</content>
+					</point>
+					<point id="od1-tac4">
+						<num>4)</num>
+						<content>
+							<p> ако члан породице војног осигураника поред прихода од пољопривреде, има и друге приходе, па збир тих прихода не прелази  износ из одредбе под 2 или 3 ове тачке.*</p>
+						</content>
+					</point>
+					<clause id="od1-stav1">
+						<content>
+							<p>*<ref id="ref4" href="/rs/act/1976/16/srp@">Службени лист СФРЈ, број 16/1976</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Сматра се да војни осигураник издржава члана породице из <ref>члана 10. став 1. тачка 2</ref>. Закона о здравственом осигурању војних осигураника, ако тај члан породице нема сопствених прихода довољних за издржавање и живи у заједничком домаћинству са војним осигураником, а у случају одвојеног живота – ако му војни осигураник на име издржавања даје најмање 500 динара месечно.</heading>
+				<content/>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Ова одлука ступа на снагу наредног дана од дана објављивања у „Службеном листу СФРЈ”.</heading>
+				<content>
+					<clause id="od3-stav1">
+						<content>
+							<p>Бр. 41</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od20">
+				<num>20.</num>
+				<heading> децембра 1973. године</heading>
+				<content>
+					<clause id="od20-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od20-stav2">
+						<content>
+							<p>Скупштина Заједнице социјалног осигурања војних</p>
+						</content>
+					</clause>
+					<clause id="od20-stav3">
+						<content>
+							<p>осигураника</p>
+						</content>
+					</clause>
+					<clause id="od20-stav4">
+						<content>
+							<p>Председник</p>
+						</content>
+					</clause>
+					<clause id="od20-stav5">
+						<content>
+							<p>генерал-потпуковник,</p>
+						</content>
+					</clause>
+					<clause id="od20-stav6">
+						<content>
+							<p>Мирко Нововић, с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

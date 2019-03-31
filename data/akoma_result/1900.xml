@@ -1,0 +1,229 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2016/48-30/main"/>
+					<FRBRuri value="/rs/act/2016/48-30"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2016/48-30/srp@/main"/>
+					<FRBRuri value="/rs/act/2016/48-30/srp@"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2016/48-30/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2016/48-30/srp@.akn"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2016-5-25" name="службени гласник рс" number="48" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="11. Регистрација привредних субјеката" value="11. регистрација привредних субјеката"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2016-05-19" id="usvajanje"/>
+				<step date="2016-06-02" id="stupanje_na_snagu"/>
+				<step date="2016-06-02" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 25. </ref>Закона о централној евиденцији привремених ограничења права лица регистрованих у Агенцији за привредне регистре („<ref id="ref4" href="/rs/act/15/112/srp@">Службени гласник РС”, број 112/15</ref>) и <ref>члана 17. став 4. </ref>и <ref>члана 24. </ref>Закона о Влади („<ref id="ref5" href="/rs/act/05/55/srp@">Службени гласник РС”, бр. 55/05, 71/05</ref> – исправка, 101/07, 65/08, 16/11, 68/12 – УС, 72/12, 7/14 – УС и 44/14), на предлог Агенције за привредне регистре,</p>
+		</preamble>
+		<preface>
+			<authority>Министар привреде доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>o начину и условима електронске обраде и коришћења података Централне евиденције привремених ограничења права лица регистрованих у Агенцији за привредне регистре</title>
+			<date>&quot;Службени гласник РС&quot;, број 48 од 25. маја      2016.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником уређују се начин и услови електронског преноса, преузимања, обраде и коришћења података из Централне евиденције привремених ограничења права (у даљем тексту: Централна евиденција) лица регистрованих у Агенцији за привредне регистре (у даљем тексту: Агенција), електронски протоколи, ауторизација приступа, привилегије корисника система, комуникација, стандарди и формати за размену података и технички услови за достављање података путем Јединствене платформе интероперабилности (у даљем тексту: ЈПИ).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Поједини изрази употребљени у овом правилнику имају следеће значење:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> корисник система је овлашћено физичко лице одређено од стране обвезника уписа, обвезника достављања података и другог надлежног органа, које у складу са овим правилником има право приступа Централној евиденцији путем ЈПИ ради увида, уписа, достављања и преузимања података из Централне евиденције;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> јавни корисник система је физичко лице које приступа Централној евиденцији ради увида у податке;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> подаци Централне евиденције јесу подаци који представљају садржину Централне евиденције привремених ограничења права лица регистрованих у Агенцији, утврђену Законом.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Обвезник уписа података Централне евиденције, пре почетка коришћења ЈПИ доставља Агенцији податке о корисницима система (име и презиме, јединствени матични број грађана и адресу електронске поште тог физичког лица).</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Обвезник достављања података, пре почетка коришћења ЈПИ доставља Агенцији податке о корисницима система који ће вршити администрирање система обвезника достављања у циљу приступа Централној евиденцији (име и презиме, јединствени матични број грађана и адресу електронске поште тог физичког лица).</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Надлежни орган у смислу закона којим се уређује централна евиденција привремених ограничења правa лица регистрованих у Агенцији за привредне регистре, пре почетка коришћења ЈПИ доставља Агенцији податке о корисницима система који ће вршити увид у податке у циљу приступа Централној евиденцији (име и презиме, јединствени матични број грађана и адресу електронске поште тог физичког лица).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>За све кориснике система пре коришћења система Агенција ће отворити налоге на систему за централизовано пријављивање корисника, на начин како је то предвиђено техничким упутством за коришћење ЈПИ, које ће бити објављено на интернет странама Агенције и Министарства привреде.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Основни стандард за размену података са обвезницима достављања података је SOAP (Simple Object Access Protocol) протокол комуникације преко стандардних механизама веб сервиса.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Основни формат размене података је Extensible Markup Language 1.1 (у даљем тексту: XML).</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Опис метода за упис и размену података, укључујући и пратеће методе приступа шифарничким подацима је у форми WSDL 2.0 стандарда.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>У Централној евиденцији складиште се и чувају електронске копије докумената за које је извршена дигитализација у складу са важећим прописима.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Достављање електронских докумената путем ЈПИ гарантује интегритет, непромењивост и непорецивост послатог документа.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>За сваки електронски документ који се израђује и доставља путем ЈПИ користи се формат ISO 19005 – Electronic document file format for long-term preservation (у даљем тексту: PDF/A).</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>За електронски потписан документ користи се један од следећих формата електронског потписа:</p>
+							<point id="clan7-stav4-tac1">
+								<num>1)</num>
+								<content>
+									<p> PAdES (PDF Advanced Electronic Signatures) формат према ETSI TS 101 778 стандарду, за електронска документа записана у формату датотеке PDF/A;</p>
+								</content>
+							</point>
+							<point id="clan7-stav4-tac2">
+								<num>2)</num>
+								<content>
+									<p> XAdES (XML Advanced Electronic Signatures) формат према ETSI TS 101 903 стандарду за електронска документа записана у формату XML.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Обвезницима достављања података Агенција обезбеђује пуну расположивост организационо технолошких услова за коришћење веб сервиса 24 часа дневно којим се врши достављање података, а обвезници достављања података обезбеђују техничке и организационе услове прикључења на ЈПИ.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Обвезници уписа података обезбеђују техничке услове за приступ ЈПИ преко интернета, у складу са техничким упутством из <ref>члана 4. овог</ref> правилника.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Број 110-00-80/2016-09</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav3">
+						<content>
+							<p>У Београду, 19. маја 2016. године</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav5">
+						<content>
+							<p>Жељко Сертић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

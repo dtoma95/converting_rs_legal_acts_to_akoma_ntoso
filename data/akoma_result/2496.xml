@@ -1,0 +1,210 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2006/21-25/main"/>
+					<FRBRuri value="/rs/act/2006/21-25"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2006/21-25/srp@/main"/>
+					<FRBRuri value="/rs/act/2006/21-25/srp@"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2006/21-25/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2006/21-25/srp@.akn"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2006-3-14" name="службени гласник рс" number="21" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="5. Високо образовање" value="5. високо образовање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2006-03-03" id="usvajanje"/>
+				<step date="2006-03-22" id="stupanje_na_snagu"/>
+				<step date="2006-03-22" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 41. став 16. </ref>Закона о високом образовању („<ref id="ref1" href="/rs/act/05/76/srp@">Службени гласник РС”, број 76/05</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар просвете и спорта доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о садржају дозволе за рад</title>
+			<date>“Службени гласник РС”, број 21 од 14. марта 2006.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се садржај дозволе за рад којом се, у складу са законом, одобрава рад високошколској установи.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Дозвола за рад садржи:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> Опште податке:</p>
+									<alinea id="clan2-stav1-tac1-ali1">
+										<content>
+											<p>азив и грб Републике Србије;</p>
+										</content>
+									</alinea>
+									<alinea id="clan2-stav1-tac1-ali2">
+										<content>
+											<p>рој, датум и место издавања дозволе;</p>
+										</content>
+									</alinea>
+									<alinea id="clan2-stav1-tac1-ali3">
+										<content>
+											<p>рој и датум мишљења Комисије за акредитацију и проверу квалитета;</p>
+										</content>
+									</alinea>
+									<alinea id="clan2-stav1-tac1-ali4">
+										<content>
+											<p>ечат надлежног органа;</p>
+										</content>
+									</alinea>
+									<alinea id="clan2-stav1-tac1-ali5">
+										<content>
+											<p>отпис овлашћеног лица.</p>
+										</content>
+									</alinea>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> Податке о високошколској установи:</p>
+									<alinea id="clan2-stav1-tac2-ali1">
+										<content>
+											<p>азив и седиште високошколске установе која је поднела захтев за издавање дозволе;</p>
+										</content>
+									</alinea>
+									<alinea id="clan2-stav1-tac2-ali2">
+										<content>
+											<p>роцентуално изражен број наставника у радном односу са пуним радним временом у односу на укупан број предмета на студијском програму за који се тражи дозвола за рад;</p>
+										</content>
+									</alinea>
+									<alinea id="clan2-stav1-tac2-ali3">
+										<content>
+											<p>роцентуално изражен број наставника потребних за извођење наставе по годинама студија, са стеченим научним називом доктора наука, за академије струковних студија и високе школе струковних студија;</p>
+										</content>
+									</alinea>
+									<alinea id="clan2-stav1-tac2-ali4">
+										<content>
+											<p>рој банкарске гаранције, од кога је издата, рок важења и износ обезбеђених средстава за настављање и завршетак студија у случају престанка рада високошколске установе или престанка извођења одређеног студијског програма.</p>
+										</content>
+									</alinea>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> Податке о студијском програму:</p>
+									<alinea id="clan2-stav1-tac3-ali1">
+										<content>
+											<p>азив студијског програма;</p>
+										</content>
+									</alinea>
+									<alinea id="clan2-stav1-tac3-ali2">
+										<content>
+											<p>рој студената за који је одобрен студијски програм;</p>
+										</content>
+									</alinea>
+									<alinea id="clan2-stav1-tac3-ali3">
+										<content>
+											<p>бјекти, односно просторије у којима ће се изводити студијски програм (обављати делатност), и место, улица и површина просторија;</p>
+										</content>
+									</alinea>
+									<alinea id="clan2-stav1-tac3-ali4">
+										<content>
+											<p>одатке о одобрењу за извођење студијског програма на даљину и број студената који на тај начин може да студира;</p>
+										</content>
+									</alinea>
+									<alinea id="clan2-stav1-tac3-ali5">
+										<content>
+											<p>одатке о одобрењу за извођење студијског програма, односно обављање делатности изван седишта, и место, просторије, улица, површина просторија и број студената за одобрене студијске програме.</p>
+										</content>
+									</alinea>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Дозвола за рад издаје се на Обрасцу број 1, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Број 110-00-01001/2006-04</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>У Београду, 3. марта 2006. године</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav5">
+						<content>
+							<p>др Слободан Вуксановић, с.р.</p>
+						</content>
+					</clause>
+					<став id="clan4-stav6">
+						<img height="880" id="Picture 8" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/34c7f44f-eb01-4309-ab2a-c4ad1dce864b.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417761&amp;regactid=417761" width="605"/>
+						<content/>
+					</став>
+					<став id="clan4-stav7">
+						<img height="723" id="Picture 9" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/249eab83-e706-4d95-aefc-9aec0773ad5a.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417761&amp;regactid=417761" width="605"/>
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

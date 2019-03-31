@@ -1,0 +1,644 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2004/55-1/main"/>
+					<FRBRuri value="/rs/act/2004/55-1"/>
+					<FRBRdate date="2004" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2004/55-1/srp@/main"/>
+					<FRBRuri value="/rs/act/2004/55-1/srp@"/>
+					<FRBRdate date="2004" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2004/55-1/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2004/55-1/srp@.akn"/>
+					<FRBRdate date="2004" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2004-5-21" name="службени гласник рс“" number="55" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Закон" value="закон"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="3. Осигурање" value="3. осигурање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2004-05-21" id="usvajanje"/>
+				<step date="2004-05-29" id="stupanje_na_snagu"/>
+				<step date="2004-05-29" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Закон је ступио на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 29. маја 2004. године (види <ref>члан 26. </ref>Закона).</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<title>ЗАКОН</title>
+			<title>о Националној корпорацији за осигурање стамбених кредита</title>
+			<date>„Службени  гласник РС“, брoj   55 од  21. маја  2004.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОСНОВНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим законом оснива се Национална корпорација за осигурање стамбених кредита (у даљем тексту: Корпорација), као правно лице специјализовано за осигурање потраживања по основу стамбених кредита које одобравају банке и друге финансијске организације, која су обезбеђена хипотеком, као и за обављање других послова у вези са тим осигурањем.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Корпорација има својство правног лица, и стиче га даном уписа у судски регистар.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Седиште Корпорације је у Београду.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav2">
+								<content>
+									<p>Корпорација може имати организационе делове ван седишта који немају својство правног лица.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav3">
+								<content>
+									<p>Корпорација послује под називом: „Национална корпорација за осигурање стамбених кредита”.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ОСНИВАЧКИ УЛОГ И СРЕДСТВА ЗА РАД КОРПОРАЦИЈЕ</heading>
+				<content>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla2-clan4-stav1">
+								<content>
+									<p>Средства за оснивање и почетак рада Корпорације обезбеђују се у буџету Републике Србије.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav2">
+								<content>
+									<p>Оснивачки капитал износи најмање 10.000.000 евра, у динарској противвредности, по средњем курсу на дан уплате.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla2-clan5-stav1">
+								<content>
+									<p>Средства за рад Корпорације обезбеђују се из:</p>
+									<point id="gla2-clan5-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> прихода Корпорације;</p>
+										</content>
+									</point>
+									<point id="gla2-clan5-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> донација;</p>
+										</content>
+									</point>
+									<point id="gla2-clan5-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> буџета Републике Србије;</p>
+										</content>
+									</point>
+									<point id="gla2-clan5-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> других извора, у складу са законом.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla2-clan6-stav1">
+								<content>
+									<p>Средства Корпорације користе се у складу са законом, Статутом Корпорације и програмом рада Корпорације.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav2">
+								<content>
+									<p>Корпорација може слободна средства пласирати у првокласне хартије од вредности (хартије од вредности Републике Србије, обвезнице по основу старе штедње и сл.), водећи рачуна о рочној усклађености преузетих осигураних потраживања и рокова доспећа првокласних хартија од вредности.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla2-clan7-stav1">
+								<content>
+									<p>Корпорација за своје обавезе одговара својом имовином.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>Корпорација се може, у складу са законом, организовати као акционарско друштво, при чему Корпорација издаје Републици Србији акције у висини вредности уложеног капитала Републике.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav2">
+								<content>
+									<p>У случају из става 1. овог члана, вредност државног капитала у укупном капиталу Корпорације не може бити мања од 51%.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ДЕЛАТНОСТ</heading>
+				<content>
+					<article id="gla3-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla3-clan9-stav1">
+								<content>
+									<p>Делатност Корпорације је:</p>
+									<point id="gla3-clan9-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> осигурање потраживања по основу стамбених кредита које одобравају банке и друге финансијске организације, која су обезбеђена хипотеком;</p>
+										</content>
+									</point>
+									<point id="gla3-clan9-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> посредовање у преносу потраживања обезбеђених хипотеком;</p>
+										</content>
+									</point>
+									<point id="gla3-clan9-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> издавање хартија од вредности на основу успостављене хипотеке, у складу са законом;</p>
+										</content>
+									</point>
+									<point id="gla3-clan9-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> пружање стручне помоћи државним органима, банкама и другим финансијским организацијама и другим заинтересованим лицима у области побољшања услова за финансирање стамбене изградње;</p>
+										</content>
+									</point>
+									<point id="gla3-clan9-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> обављање других послова под условима предвиђеним Статутом и другим општим актима, актима пословне политике и Правилима пословања Корпорације.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan9-stav2">
+								<content>
+									<p>Укупан номинални износ обавеза Корпорације које произлазе из обављања делатности Корпорације из става 1. овог члана може бити највише до шеснаест пута већи од износа капитала Корпорације.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan9-stav3">
+								<content>
+									<p>Укупан номинални износ обавеза Корпорације које произлазе из обављања делатности Корпорације из става 1. овог члана према појединачној пословној банци и појединачном правном лицу утврдиће се Правилима пословања Корпорације.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan9-stav4">
+								<content>
+									<p>Влада Републике Србије (у даљем тексту: Влада), на образложен захтев Корпорације, даје сагласност за повећање обима преко износа из става 2. овог члана осигурања потраживања и других делатности Корпорације утврђених у ставу 1. овог члана, за одређени временски период.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan9-stav5">
+								<content>
+									<p>У обављању својих послова Корпорација може издавати хартије од вредности у земљи и иностранству, израчене у динарима или страној валути, у складу са законом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>НАЧИН РАСПОДЕЛЕ ДОБИТИ</heading>
+				<content>
+					<article id="gla4-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla4-clan10-stav1">
+								<content>
+									<p>Одлуку о расподели добити доноси Управни одбор Корпорације, уз сагласност Владе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>ОРГАНИ И ОПШТИ АКТИ</heading>
+				<content>
+					<article id="gla5-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla5-clan11-stav1">
+								<content>
+									<p>Органи Корпорације су Управни одбор, директор и Надзорни одбор.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan11-stav2">
+								<content>
+									<p>Мандат чланова Управног одбора, директора и Надзорног одбора траје четири године.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla5-clan12-stav1">
+								<content>
+									<p>Управни одбор Корпорације има председника и четири члана.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav2">
+								<content>
+									<p>Председника и чланове Управног одбора Корпорације именује Влада, на предлог министарства надлежног за послове финансија (у даљем тексту: Министарство).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla5-clan13-stav1">
+								<content>
+									<p>Управни одбор Корпорације:</p>
+									<point id="gla5-clan13-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> доноси Статут, Правила пословања, акт о организацији и систематизацији радних места и друге опште акте Корпорације;</p>
+										</content>
+									</point>
+									<point id="gla5-clan13-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> доноси програм рада Корпорације;</p>
+										</content>
+									</point>
+									<point id="gla5-clan13-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> утврђује пословну политику и доноси акте пословне политике Корпорације;</p>
+										</content>
+									</point>
+									<point id="gla5-clan13-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> усваја финансијски план Корпорације;</p>
+										</content>
+									</point>
+									<point id="gla5-clan13-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> усваја периодични и годишњи извештај о пословању Корпорације;</p>
+										</content>
+									</point>
+									<point id="gla5-clan13-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> бира ревизора;</p>
+										</content>
+									</point>
+									<point id="gla5-clan13-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> усваја заврши рачун и извештаје о ревизији Корпорације;</p>
+										</content>
+									</point>
+									<point id="gla5-clan13-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> одлучује о промени облика организовања Корпорације, у складу са законом;</p>
+										</content>
+									</point>
+									<point id="gla5-clan13-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> одређује банке код којих ће се водити средства Корпорације на основу јавног тендера;</p>
+										</content>
+									</point>
+									<point id="gla5-clan13-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> доноси Пословник о раду;</p>
+										</content>
+									</point>
+									<point id="gla5-clan13-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> обавља и друге послове утврђене Статутом и Правилима пословања Корпорације.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla5-clan13-stav2">
+								<content>
+									<p>На Статут Корпорације, Правила пословања Корпорације, програм рада, финансијски план, акт о организацији и систематизацији радних места Корпорације и одлуке о промени облика организовања Корпорације, сагласност даје Влада.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla5-clan14-stav1">
+								<content>
+									<p>Директора Корпорације именује и разрешава Влада, на предлог Министарства.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla5-clan15-stav1">
+								<content>
+									<p>Директор Корпорације:</p>
+									<point id="gla5-clan15-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> представља и заступа Корпорацију;</p>
+										</content>
+									</point>
+									<point id="gla5-clan15-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> организује и руководи радом Корпорације;</p>
+										</content>
+									</point>
+									<point id="gla5-clan15-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> предлаже акте које доноси Управни одбор Корпорације;</p>
+										</content>
+									</point>
+									<point id="gla5-clan15-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> извршава одлуке Управног одбора Корпорације и предузима мере за њихово спровођење;</p>
+										</content>
+									</point>
+									<point id="gla5-clan15-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> стара се и одговара за законитост рада и коришћење и располагање имовином Корпорације;</p>
+										</content>
+									</point>
+									<point id="gla5-clan15-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> обавља и друге послове утврђене законом и Статутом Корпорације.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="gla5-clan16-stav1">
+								<content>
+									<p>Надзорни одбор Корпорације има председника и четири члана.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan16-stav2">
+								<content>
+									<p>Председника и чланове Надзорног одбора Корпорације именује и разрешава Влада, на предлог Министарства.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="gla5-clan17-stav1">
+								<content>
+									<p>Надзорни одбор Корпорације:</p>
+									<point id="gla5-clan17-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> врши надзор над законитошћу рада директора Корпорације и Управног одбора Корпорације;</p>
+										</content>
+									</point>
+									<point id="gla5-clan17-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> прегледа заврши рачун и утврђује да ли је сачињен у складу са важећим прописима;</p>
+										</content>
+									</point>
+									<point id="gla5-clan17-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> утврђује да ли се пословне књиге и друга документа Корпорације воде уредно и у складу са прописима, а може их дати и на вештачење;</p>
+										</content>
+									</point>
+									<point id="gla5-clan17-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> извештава о годишњим рачуноводственим исказима и извештајима о пословању Корпорације који се подносе Управном одбору;</p>
+										</content>
+									</point>
+									<point id="gla5-clan17-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> разматра извештаје ревизора;</p>
+										</content>
+									</point>
+									<point id="gla5-clan17-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> доноси Пословник о раду;</p>
+										</content>
+									</point>
+									<point id="gla5-clan17-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> обавља и друге послове утврђене законом и Статутом Корпорације.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla5-clan17-stav2">
+								<content>
+									<p>Надзорни одбор Корпорације, најмање два пута годишње, подноси Влади извештај о резултатима извршеног надзора.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="gla5-clan18-stav1">
+								<content>
+									<p>Општи акти Корпорације су Статут, акт о организацији и систематизацији радних места, Правила пословања и други општи акти.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan18-stav2">
+								<content>
+									<p>Статут садржи одредбе о називу и седишту Корпорације, органима и њиховој делатности, начину одлучивања органа, заступању, поступку измене Статута и другим питањима од значаја за рад Корпорације.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan18-stav3">
+								<content>
+									<p>Правилима пословања Корпорације уређују се услови и  начин обављања делатности Корпорације, као и друга питања од значаја за пословање Корпорације.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="gla5-clan19-stav1">
+								<content>
+									<p>Управни одбор подноси извештај о пословању Корпорације сваких шест месеци.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan19-stav2">
+								<content>
+									<p>Влада подноси годишњи извештај о пословању Корпорације Народној скупштини Републике Србије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla5-clan20-stav1">
+								<content>
+									<p>Пословање Корпорације подлеже ревизији, у складу са законом.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan20-stav2">
+								<content>
+									<p>Извештај о обављеној ревизији из става 1. овог члана Корпорација доставља Министарству.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan21">
+						<num>21.</num>
+						<content>
+							<clause id="gla5-clan21-stav1">
+								<content>
+									<p>Надзор над законитошћу рада Корпорације обавља Министарство.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan21-stav2">
+								<content>
+									<p>Министарство подноси Влади најмање једанпут годишње извештај о резултатима надзора, заједно са извештајем о обављеној ревизији.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>ПРЕЛАЗНЕ И ЗАВРШЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla6-clan22">
+						<num>22.</num>
+						<content>
+							<clause id="gla6-clan22-stav1">
+								<content>
+									<p>Корпорација почиње са радом даном уписа у судски регистар.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan23">
+						<num>23.</num>
+						<content>
+							<clause id="gla6-clan23-stav1">
+								<content>
+									<p>Корпорација може променити облик организовања у акционарско друштво, у складу са законом којим се уређује правни положај предузећа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan24">
+						<num>24.</num>
+						<content>
+							<clause id="gla6-clan24-stav1">
+								<content>
+									<p>Влада ће, на предлог Министарства, именовати председнике и чланове Управног и Надзорног одбора и директора Корпорације, у року од 30 дана од дана ступања на снагу овог закона.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan25">
+						<num>25.</num>
+						<content>
+							<clause id="gla6-clan25-stav1">
+								<content>
+									<p>Управни одбор Корпорације ће, у року од 30 дана од дана именовања председника и чланова Управног одбора, донети Статут и Правила пословања Корпорације.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan26">
+						<num>26.</num>
+						<content>
+							<clause id="gla6-clan26-stav1">
+								<content>
+									<p>Овај закон ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

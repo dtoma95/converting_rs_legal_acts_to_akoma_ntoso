@@ -1,0 +1,759 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2013/103-7/main"/>
+					<FRBRuri value="/rs/act/2013/103-7"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2013/103-7/srp@/main"/>
+					<FRBRuri value="/rs/act/2013/103-7/srp@"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2013/103-7/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2013/103-7/srp@.akn"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2013-11-26" name="службени гласник рс" number="103" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="15. Спорт" value="15. спорт"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2013-11-06" id="usvajanje"/>
+				<step date="2013-12-04" id="stupanje_na_snagu"/>
+				<step date="2013-12-04" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 139. став 8. </ref>Закона о спорту („<ref id="ref4" href="/rs/act/11/24/srp@">Службени гласник РС”, бр. 24/11</ref> и 99/11 – др. закон),</p>
+		</preamble>
+		<preface>
+			<authority>Министар омладине и спорта доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о националној категоризацији спортских објеката</title>
+			<date>&quot;Службени гласник РС&quot;, број 25 од 15. марта 2013.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником уређују се критеријуми и мерила за рангирање спортских објеката у Републици Србији.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Критеријуми и мерила за рангирање спортских објеката утврђују се на основу врсте спортских активности, техничких карактеристика објекта и нивоа такмичења за који спортски објекат испуњава услове, у складу са Законом о спорту (у даљем тексту: Закон).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Критеријуми и мерила за рангирање спортских објеката на основу врсте спортских активности утврђују се у односу на спортске гране које су рангиране од прве до шесте категорије у складу са правилником којим се уређује национална категоризација спортова.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Критеријуми и мерила за рангирање спортских објеката на основу техничких карактеристика објекта јесу:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> испуњеност услова у погледу броја спортских активности које се могу одвијати у основној просторији, односно на површини спортског објекта,</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> испуњеност техничких услова према прописаним правилима међународних спортских савеза,</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> испуњеност услова у односу на утврђене услове у акту којим се уређују услови за обављање спортских активности и делатности,</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> намена објекта,</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> испуњеност услова у погледу површинe основне просторије, односно површине спортског објекта која је намењена за извођење спортских активности,</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> број спортских активности које се могу истовремено изводити у вишефункционалном спортском објекту,</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> одговарајући број фиксних места за седење у гледалишту, у случају да се у спортском објекту одржавају спортске активности које имају такмичарски карактер.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Рангирање спортског објекта, који у свом саставу има више простора у којима се обављају спортске активности, врши се на основу техничких карактеристика спортског простора који испуњава најповољније услове за одвијање спортске активности, а код спортског објекта који има такмичарски карактер на основу техничких карактеристика спортског простора који испуњава услове за такмичења највишег нивоа.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Критеријуми и мерила за рангирање спортских објеката на основу нивоа такмичења јесу:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> да је спортски објекат опремљен за одржавање неких од следећих великих међународних спортских такмичења, и то:</p>
+									<item id="clan5-stav1-tac1-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> олимпијске и параолимпијске игре,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac1-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> светска и европска првенства,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac1-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> медитеранске игре,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac1-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> универзијаде,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac1-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> светски купови и финални турнири светске лиге,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac1-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> зимски и летњи олимпијски фестивал младих Европе,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac1-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> балканска и друга регионална првенства,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac1-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> финална и финални турнири европских клупских такмичења,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac1-podtac9">
+										<num>(9)</num>
+										<content>
+											<p> критеријумски и квалификациони међународни спортски турнири,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac1-podtac10">
+										<num>(10)</num>
+										<content>
+											<p> традиционалне међународне спортске манифестације;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> да је спортски објекат опремљен за одржавање осталих спортских такмичења, и то:</p>
+									<item id="clan5-stav1-tac2-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> национална првенства и турнири,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac2-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> национални спортско-рекреативни догађаји и национална школска спортска такмичења,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac2-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> нижи рангови националних такмичења,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac2-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> спортско-рекреативни догађаји и школска спортска такмичења на нивоу јединица локалних самоуправа.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>На основу критеријума из чл. 3–5. овог правилника, спортски објекти се рангирају у три категорије.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Спортски објекти прве категорије јесу:</p>
+							<point id="clan7-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> спортски објекти који су првенствено намењени за тренинге а по потреби и за такмичења националних спортских репрезентација или врхунских спортиста и који испуњавају следеће критеријуме и мерила:</p>
+									<item id="clan7-stav1-tac1-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> да се у њима могу одвијати спортске активности било које националне категорије спорта,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> да у зависности од врсте спортског објекта испуњавају следеће техничке карактеристике:</p>
+											<alinea id="clan7-stav1-tac1-podtac2-ali1">
+												<content>
+													<p>а су у потпуности испуњени услови утврђени актом којим се уређују услови за обављање спортских активности и делатности,</p>
+												</content>
+											</alinea>
+											<alinea id="clan7-stav1-tac1-podtac2-ali2">
+												<content>
+													<p>а су у потпуности испуњени услови прописани правилима међународних спортских савеза,</p>
+												</content>
+											</alinea>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> да се у њима могу одвијати велика међународна спортска такмичења из <ref>члана 5. став 1. тачка 1</ref>) овог правилника, ако имају намену за спортска такмичења;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> једнофункционални (специјализовани) спортски објекти који испуњавају следеће критеријуме и мерила:</p>
+									<item id="clan7-stav1-tac2-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> да се у њима могу одвијати спортске активности из прве, друге или треће категорије спорта,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac2-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> да у зависности од врсте спортског објекта испуњавају следеће техничке карактеристике:</p>
+											<alinea id="clan7-stav1-tac2-podtac2-ali1">
+												<content>
+													<p>а су у већој мери испуњени услови утврђени актом којим се уређују услови за обављање спортских активности и делатности,</p>
+												</content>
+											</alinea>
+											<alinea id="clan7-stav1-tac2-podtac2-ali2">
+												<content>
+													<p>а су у потпуности испуњени услови прописани правилима међународних спортских савеза,</p>
+												</content>
+											</alinea>
+											<alinea id="clan7-stav1-tac2-podtac2-ali3">
+												<content>
+													<p>а је површина основне просторије, односно површине спортског објекта која је намењена за извођење спортских активности код спортских хала најмање 2.000 m²,</p>
+												</content>
+											</alinea>
+											<alinea id="clan7-stav1-tac2-podtac2-ali4">
+												<content>
+													<p>а спортски објекат намењен за одржавање спортских такмичења има најмањи број места за седење у гледалишту, и то:</p>
+												</content>
+											</alinea>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<subsection id="podod1">
+				<num>а</num>
+				<heading> за стадионе (фудбал) – 20.000 седишта,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod2">
+				<num>б</num>
+				<heading> за спортске хале – 5.000 седишта,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod3">
+				<num>в</num>
+				<heading> за базене – 2.000 седишта,</heading>
+				<content>
+					<item id="podod3-clan7-podtac3">
+						<num>(3)</num>
+						<content>
+							<p> да се у њима могу одвијати велика међународна спортска такмичења из <ref>члана 5. став 1. тачка 1</ref>) овог правилника, ако имају намену за спортска такмичења;</p>
+						</content>
+					</item>
+					<point id="podod3-clan7-tac3">
+						<num>3)</num>
+						<content>
+							<p> вишефункционални спортски објекти који испуњавају следеће критеријуме и мерила:</p>
+							<item id="podod3-clan7-tac3-podtac1">
+								<num>(1)</num>
+								<content>
+									<p> да се у њима могу одвијати спортске активности из прве, друге или треће националне категорије спорта,</p>
+								</content>
+							</item>
+							<item id="podod3-clan7-tac3-podtac2">
+								<num>(2)</num>
+								<content>
+									<p> да испуњавају следеће техничке карактеристике:</p>
+									<alinea id="podod3-clan7-tac3-podtac2-ali1">
+										<content>
+											<p>а обезбеђују испуњеност утврђених услова за извођење више спортских активности у основној просторији, односно површини спортског објекта, и то:</p>
+										</content>
+									</alinea>
+								</content>
+							</item>
+						</content>
+					</point>
+				</content>
+			</subsection>
+			<subsection id="podod4">
+				<num>а</num>
+				<heading> код спортских хала – више од седам спортских активности,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod5">
+				<num>б</num>
+				<heading> код базена – више од три спортске активности,</heading>
+				<content>
+					<alinea id="podod5-clan7-ali1">
+						<content>
+							<p>а су у већој мери испуњени услови утврђени актом којим се уређују услови за обављање спортских активности и делатности,</p>
+						</content>
+					</alinea>
+					<alinea id="podod5-clan7-ali2">
+						<content>
+							<p>а су у потпуности испуњени услови прописани правилима међународних спортских савеза,</p>
+						</content>
+					</alinea>
+					<alinea id="podod5-clan7-ali3">
+						<content>
+							<p>а је површина основне просторије, односно површине спортског објекта која је намењена за извођење спортских активности код спортских хала најмање 2.000 m²,</p>
+						</content>
+					</alinea>
+					<alinea id="podod5-clan7-ali4">
+						<content>
+							<p>а омогућава да се истовремено могу одвијати две спортске активности у спортским халама,</p>
+						</content>
+					</alinea>
+					<alinea id="podod5-clan7-ali5">
+						<content>
+							<p>а спортски објекат намењен за одржавање спортских такмичења има најмањи број места за седење у гледалишту, и то:</p>
+						</content>
+					</alinea>
+				</content>
+			</subsection>
+			<subsection id="podod6">
+				<num>а</num>
+				<heading> за стадионе (фудбал) – 20.000 седишта,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod7">
+				<num>б</num>
+				<heading> за спортске хале – 5.000 седишта,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod8">
+				<num>в</num>
+				<heading> за базене – 2.000 седишта,</heading>
+				<content>
+					<item id="podod8-clan7-podtac3">
+						<num>(3)</num>
+						<content>
+							<p> да се у њима могу одвијати велика међународна спортска такмичења из <ref>члана 5. став 1. тачка 1</ref>) овог правилника, ако имају намену за спортска такмичења.</p>
+						</content>
+					</item>
+					<article id="podod8-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="podod8-clan8-stav1">
+								<content>
+									<p>Спортски објекти друге категорије јесу:</p>
+									<point id="podod8-clan8-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> једнофункционални, односно специјализовани спортски објекти који испуњавају следеће критеријуме и мерила:</p>
+											<item id="podod8-clan8-stav1-tac1-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> да се у њима могу одвијати спортске активности од прве до пете, укључујући и пету, националне категорије спортова,</p>
+												</content>
+											</item>
+											<item id="podod8-clan8-stav1-tac1-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> да испуњавају следеће техничке карактеристике:</p>
+													<alinea id="podod8-clan8-stav1-tac1-podtac2-ali1">
+														<content>
+															<p>а су у већој мери испуњени услови утврђени актом којим се уређују услови за обављање спортских активности и делатности,</p>
+														</content>
+													</alinea>
+													<alinea id="podod8-clan8-stav1-tac1-podtac2-ali2">
+														<content>
+															<p>а је површина основне просторије, односно површине спортског објекта која је намењена за извођење спортских активности код спортских хала најмање 1.000 m²,</p>
+														</content>
+													</alinea>
+													<alinea id="podod8-clan8-stav1-tac1-podtac2-ali3">
+														<content>
+															<p>а спортски објекат намењен за одржавање спортских такмичења има најмањи број места за седење у гледалишту, и то:</p>
+														</content>
+													</alinea>
+												</content>
+											</item>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</subsection>
+			<subsection id="podod9">
+				<num>а</num>
+				<heading> за стадионе (фудбал) – 8.500 седишта,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod10">
+				<num>б</num>
+				<heading> за спортске хале – 3.000 седишта,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod11">
+				<num>в</num>
+				<heading> за базене – 1.000 седишта,</heading>
+				<content>
+					<item id="podod11-clan8-podtac3">
+						<num>(3)</num>
+						<content>
+							<p> да се у њима могу одвијати спортска такмичења било ког нивоа такмичења, ако имају намену за спортска такмичења;</p>
+						</content>
+					</item>
+					<point id="podod11-clan8-tac2">
+						<num>2)</num>
+						<content>
+							<p> вишефункционални спортски објекти који испуњавају следеће критеријуме и мерила:</p>
+							<item id="podod11-clan8-tac2-podtac1">
+								<num>(1)</num>
+								<content>
+									<p> да се у њима могу одвијати спортске активности од прве до пете, укључујући и пету, националне категорије спортова,</p>
+								</content>
+							</item>
+							<item id="podod11-clan8-tac2-podtac2">
+								<num>(2)</num>
+								<content>
+									<p> да испуњавају следеће техничке карактеристике:</p>
+									<alinea id="podod11-clan8-tac2-podtac2-ali1">
+										<content>
+											<p>а су у већој мери испуњени прописани услови за извођење више спортских активности у основној просторији, односно површини спортског објекта, и то:</p>
+										</content>
+									</alinea>
+								</content>
+							</item>
+						</content>
+					</point>
+				</content>
+			</subsection>
+			<subsection id="podod12">
+				<num>а</num>
+				<heading> код спортских хала – више од пет спортских активности,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod13">
+				<num>б</num>
+				<heading> код базена – више од две спортске активности,</heading>
+				<content>
+					<alinea id="podod13-clan8-ali1">
+						<content>
+							<p>а су у већој мери испуњени услови утврђени актом којим се уређују услови за обављање спортских активности и делатности;</p>
+						</content>
+					</alinea>
+					<alinea id="podod13-clan8-ali2">
+						<content>
+							<p>а је површина основне просторије, односно површине спортског објекта која је намењена за извођење спортских активности код спортских хала најмање 1.000 m²;</p>
+						</content>
+					</alinea>
+					<alinea id="podod13-clan8-ali3">
+						<content>
+							<p>а спортски објекат намењен за одржавање спортских такмичења има најмањи број места за седење у гледалишту, и то:</p>
+						</content>
+					</alinea>
+				</content>
+			</subsection>
+			<subsection id="podod14">
+				<num>а</num>
+				<heading> за стадионе (фудбал) – 8.500 седишта,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod15">
+				<num>б</num>
+				<heading> за спортске хале – 3.000 седишта,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod16">
+				<num>в</num>
+				<heading> за базене – 1.000 седишта,</heading>
+				<content>
+					<item id="podod16-clan8-podtac3">
+						<num>(3)</num>
+						<content>
+							<p> да се у њима могу одвијати спортска такмичења било ког нивоа такмичења, ако имају намену за спортска такмичења.</p>
+						</content>
+					</item>
+					<article id="podod16-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="podod16-clan9-stav1">
+								<content>
+									<p>Спортски објекти треће категорије јесу:</p>
+									<point id="podod16-clan9-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> једнофункционални (специјализовани) спортски објекти који испуњавају следеће критеријуме и мерила:</p>
+											<item id="podod16-clan9-stav1-tac1-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> да се у њима могу одвијати неке од спортских активности националних категорија спорта,</p>
+												</content>
+											</item>
+											<item id="podod16-clan9-stav1-tac1-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> да имају следеће техничке карактеристике:</p>
+													<alinea id="podod16-clan9-stav1-tac1-podtac2-ali1">
+														<content>
+															<p>а је површина основне просторије, односно површине спортског објекта која је намењена за извођење спортских активности код спортских хала најмање 500 m²,</p>
+														</content>
+													</alinea>
+													<alinea id="podod16-clan9-stav1-tac1-podtac2-ali2">
+														<content>
+															<p>а спортски објекат намењен за одржавање спортских такмичења има најмањи број места за седење у гледалишту, и то:</p>
+														</content>
+													</alinea>
+												</content>
+											</item>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</subsection>
+			<subsection id="podod17">
+				<num>а</num>
+				<heading> за стадионе (фудбал) – 1.000 седишта,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod18">
+				<num>б</num>
+				<heading> за спортске хале – 1.000 седишта,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod19">
+				<num>в</num>
+				<heading> за базене – 500 седишта,</heading>
+				<content>
+					<item id="podod19-clan9-podtac3">
+						<num>(3)</num>
+						<content>
+							<p> да се у њима могу одвијати спортска такмичења било ког нивоа такмичења, ако имају намену за спортска такмичења;</p>
+						</content>
+					</item>
+					<point id="podod19-clan9-tac2">
+						<num>2)</num>
+						<content>
+							<p> вишефункционални спортски објекти који испуњавају следеће критеријуме и мерила:</p>
+							<item id="podod19-clan9-tac2-podtac1">
+								<num>(1)</num>
+								<content>
+									<p> да се у њима могу одвијати неке од спортских активности националних категорија спорта,</p>
+								</content>
+							</item>
+							<item id="podod19-clan9-tac2-podtac2">
+								<num>(2)</num>
+								<content>
+									<p> да имају следеће техничке карактеристике:</p>
+									<alinea id="podod19-clan9-tac2-podtac2-ali1">
+										<content>
+											<p>а испуњавају услове за извођење више спортских активности у основној просторији, односно површини спортског објекта, и то:</p>
+										</content>
+									</alinea>
+								</content>
+							</item>
+						</content>
+					</point>
+				</content>
+			</subsection>
+			<subsection id="podod20">
+				<num>а</num>
+				<heading> код спортских хала – више од три спортске активности,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod21">
+				<num>б</num>
+				<heading> код базена – више од две спортске активности,</heading>
+				<content>
+					<alinea id="podod21-clan9-ali1">
+						<content>
+							<p>а је површина основне просторије, односно површине спортског објекта која је намењена за извођење спортских активности код спортских хала најмање 500 m²,</p>
+						</content>
+					</alinea>
+					<alinea id="podod21-clan9-ali2">
+						<content>
+							<p>а спортски објекат намењен за одржавање спортских такмичења има најмањи број места за седење у гледалишту, и то:</p>
+						</content>
+					</alinea>
+				</content>
+			</subsection>
+			<subsection id="podod22">
+				<num>а</num>
+				<heading> за стадионе (фудбал) – 1.000 седишта,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod23">
+				<num>б</num>
+				<heading> за спортске хале – 1.000 седишта,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod24">
+				<num>в</num>
+				<heading> за базене – 500 седишта,</heading>
+				<content>
+					<item id="podod24-clan9-podtac3">
+						<num>(3)</num>
+						<content>
+							<p> да се у њима могу одвијати спортска такмичења било ког нивоа такмичења, ако имају намену за спортска такмичења.</p>
+						</content>
+					</item>
+					<article id="podod24-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="podod24-clan10-stav1">
+								<content>
+									<p>Рангирање спортских објеката једном годишње врши Завод за спорт и медицину спорта Републике Србије (у даљем тексту: Завод), у складу са овим правилником и Законом.</p>
+								</content>
+							</clause>
+							<clause id="podod24-clan10-stav2">
+								<content>
+									<p>Рангирање спортског објекта Завод врши на основу података које доставља власник односно корисник спортског објекта, уколико је евидентиран, као и на основу података уписаних у матичну евиденцију спортских објеката и регистар спортских објеката.</p>
+								</content>
+							</clause>
+							<clause id="podod24-clan10-stav3">
+								<content>
+									<p>Подаци о извршеном рангирању из става 2. овог члана достављају се министарству надлежном за спорт, који те податке објављује на свом сајту у року од 15 дана од дана извршеног рангирања, у складу са Законом.</p>
+								</content>
+							</clause>
+							<clause id="podod24-clan10-stav4">
+								<content>
+									<p>На извршено рангирање спортских објеката може се уложити приговор министру надлежном за спорт у року од 15 дана од дана објављивања на сајту министарства надлежног за спорт, у складу са Законом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod24-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="podod24-clan11-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="podod24-clan11-stav2">
+								<content>
+									<p>Број 110-00-20/2013-05</p>
+								</content>
+							</clause>
+							<clause id="podod24-clan11-stav3">
+								<content>
+									<p>У Београду, 6. новембра 2013. године</p>
+								</content>
+							</clause>
+							<clause id="podod24-clan11-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="podod24-clan11-stav5">
+								<content>
+									<p>Вања Удовичић, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</subsection>
+		</body>
+	</act>
+</akomaNtoso>

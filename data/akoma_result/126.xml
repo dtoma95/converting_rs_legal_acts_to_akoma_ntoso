@@ -1,0 +1,526 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2010/14-109/main"/>
+					<FRBRuri value="/rs/act/2010/14-109"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2010/14-109/srp@/main"/>
+					<FRBRuri value="/rs/act/2010/14-109/srp@"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2010/14-109/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2010/14-109/srp@.akn"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2010-3-17" name="службени гласник рс“" number="14" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="1. Сточарство" value="1. сточарство"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2010-03-09" id="usvajanje"/>
+				<step date="2010-03-25" id="stupanje_na_snagu"/>
+				<step date="2010-03-25" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 23. став 8. </ref>Закона о добробити животиња  („<ref id="ref1" href="/rs/act/09/41/srp@">Службени гласник РС”, број 41/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, шумарства и водопривреде уз  сагласност министра за инфраструктуру, доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о условима у погледу превозних средстава у којима се  превозе животиње</title>
+			<date>„Службени гласник РС“, број 14 од 17. марта 2010.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником се прописују ближи услови које морају да  испуне превозна средства у којима се превозе животиње (у даљем тексту: превозна  средства).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Поједини изрази употребљени у овом правилнику имају следеће  значење:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> навигациони систем је сателитски или други технолошки  систем, који обезбеђује свеобухватно, трајно, тачно и сигурно позиционирање  превозног средства;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> контејнер је сандук, кутија, кавез или било која друга  чврста конструкција за транспорт животиња у превозном средству;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> брод за превоз животиња је превозно средство водног  саобраћаја које је намењено за превоз животиња, изузев трајекта или брода са  покретним контејнерима у којима су смештене животиње;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> дужи превоз је сваки превоз који траје дуже од осам  часова а почиње утоваром прве животиње у превозно средство и завршава се  истоваром последње животиње.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Превозна средства и опрема за превоз животиња треба да буду  израђени тако да се:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> избегну повреде, бол, патња и мучење животиња;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> обезбеди сигурност животиња током превоза;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> спречи могућност да животиње побегну или испадну из  превозног средства;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> обезбеди заштита животиња од неповољних временских  прилика и екстремних температура;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> обезбеди довољно слободног простора изнад животиње, која  стоји у свом природном положају у циљу одржавања циркулације;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> обезбеди приступ животињама, да оне могу да се  прегледају и да им се пружи одговарајућа нега;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> обезбеди квалитет и квантитет ваздуха, који одговара  врстама животиња које се превозе;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> омогући лако чишћење и дезинфекција;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> обезбеди подна површина која спречава клизање;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> обезбеди подна површина која на најмању могућу меру  смањује изливање урина и фецеса;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> обезбеди довољно осветљење за преглед и бригу о  животињама током превоза.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Превозна средства и опрема за превоз животиња треба да буду  довољно чврсти да издрже тежину животиње и оптерећење при кретању превозног  средства.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Превозна средства у којима се налазе преграде за груписање  и заштиту животиња треба да буду лаке за руковање.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>За животиње које морају да буду везане, треба обезбедити  адекватну опрему у превозном средству.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav5">
+						<content>
+							<p>Контејнери у којима животиње не могу да се виде треба да  имају на врху јасну ознаку која указује на присуство животиња.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Подови у превозном средству се израђују од нерђајућег  материјала који се лако одржава и који омогућује да се избегне неудобност, стрес  и повреде животиња.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Превозно средство мора да има адекватну вентилацију,  имајући у виду број и врсту животиња које се превозе.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Вентилација треба да обезбеди довољно кисеоника животињама,  уклони непријатне мирисе и гасове и регулише температуру и влажност.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>Контејнери се смештају тако да не ометају вентилацију.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Превозно средство је опремљено светлосним уређајем, фиксним  или преносним који је довољан за преглед, храњење и напајање животиња.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Опрема за утовар и истовар израђује се тако да спречи  повреде и патњу животиња и обезбеди њихову сигурност, као и да се лако чисти,  пере и дезинфикује.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Опрема за утовар и истовар мора да има бочну заштиту, а њен  под не сме да буде клизав.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>Утовар и истовар се обавља помоћу одговарајућих рампи,  лифтова или утоварних ограда.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>Опрема за утовар и истовар мора да одговара намени и да  буде исправна.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav5">
+						<content>
+							<p>Рампе за свиње, телад и коње морају да буду под нагибом до  20°, што је 36,4% у хоризонтали, а рампе за овце и говеда, изузев телади, под  углом од 26°34’, што је 50% у хоризонтали.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav6">
+						<content>
+							<p>Рампе чији је нагиб већи од 10°, што је 17,6% у хоризонтали  рампе морају да буду снабдевене лествама и бочним баријерама, како би се  животиње пеле и спуштале дуж рампе без потешкоћа и ризика од повреда.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav7">
+						<content>
+							<p>Платформе које се дижу и горње платформе морају да имају  безбедносне ограде.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Сваки железнички вагон и друмско возило у којима се превозе  животиње мора да буде јасно и видљиво обележено, тако да указује на транспорт  живих животиња.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Брод за превоз животиња мора да има:</p>
+							<point id="clan9-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> ограду, оборе и палубе који одговарају животињама које  се превозе и који су довољно чврсти, што се израчунава приликом изградње или  реконструкције брода у складу са посебним прописима;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> аларм за узбуњивање у случају прекида електричне  енергије, квара вентилационог система, осветљења, система снабдевања свежом  водом и дренажног система који је уграђен у кормиларницу;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> извор електричне енергије довољно јак да трајно обезбеди  вентилациони систем и систем расвете у условима нормалног рада брода и резервни  извор електричне енергије који може три дана да замени основни извор;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> одговарајуће пролазе, рампе и ходнике између кеја и  палубе брода;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> пролазе у броду који одговарају врсти животиња које се  превозе;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> дренажни систем и одводе одговарајућег капацитета којима  се отпадне воде празне помоћу пумпи или избацивача воде, као и резервне пумпе у  случају квара;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> одвојене просторе за залихе свеже воде, хране и  одговарајуће простирке за животиње;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> систем за континуирано снабдевање свежом водом, довољан  број појилица и резервни црпни систем за напајање свежом водом за случај квара у  примарном систему;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> опрему за храњење животиња;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> противпожарну опрему у простору у коме се налазе  животиње у складу са посебним прописима;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> одговарајући вентилациони систем, довољног капацитета  који омогућава:</p>
+									<alinea id="clan9-stav1-tac11-ali1">
+										<content>
+											<p>0 измена ваздуха у сату, ако се ради о затвореном  простору висине до 2,30 м;</p>
+										</content>
+									</alinea>
+									<alinea id="clan9-stav1-tac11-ali2">
+										<content>
+											<p>0 измена ваздуха у сату, ако се ради о затвореном  простору висине веће од 2,30 м;</p>
+										</content>
+									</alinea>
+									<alinea id="clan9-stav1-tac11-ali3">
+										<content>
+											<p>5% од капацитета из прве и друге алинеје ове тачке, ако  се ради о простору који је делимично затворен.</p>
+										</content>
+									</alinea>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>На трајекту се животиње превозе у друмским возилима,  железничким вагонима и контејнерима.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Трајект мора да има:</p>
+							<point id="clan10-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> довољан број сигурносних места која омогућују да се  друмска возила, железнички вагони и контејнери причврсте за трајект;</p>
+								</content>
+							</point>
+							<point id="clan10-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> аларм за узбуњивање у случају прекида електричне  енергије у вентилационом систему и резервни извор енергије, како би се осигурало  одржавање вентилације.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>У превозним средствима ваздушног саобраћаја животиње морају  да се превозе у контејнерима који одговарају врсти животиња.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Железнички вагон, друмско возило и брод за превоз животиња  код дужег превоза животиња морају да имају:</p>
+							<point id="clan12-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> кров од светлог материјала изолован на одговарајући  начин;</p>
+								</content>
+							</point>
+							<point id="clan12-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> довољан број преграда у односу на број и врсту животиња;</p>
+								</content>
+							</point>
+							<point id="clan12-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> хранилице и појилице конструисане и постављене на начин  који одговара врсти животиња које треба хранити и напајати;</p>
+								</content>
+							</point>
+							<point id="clan12-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> резервоар са водом чији капацитет износи најмање 1,5 %  максималне попуњености теретом тог превозног средства, који је направљен тако да  може да се провери ниво воде у резервоару и који је повезан са уређајима за  напајање.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Друмско возило код дужег превоза животиња мора да има  вентилациони систем који обезбеђује температуру од 5°С до 30°С у превозном  средству, са толеранцијом од ±5°C, без обзира да ли се друмско возило креће или  стоји.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav2">
+						<content>
+							<p>Вентилациони систем у друмском возилу код дужег превоза  мора да обезбеди равномерну циркулацију ваздуха кроз цело превозно средство са  минималним протоком ваздуха номиналног капацитета од 60 m3/h/KN попуњености  теретом превозног средства и који може да ради најмање четири сата независно од  рада мотора превозног средства.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan14">
+				<num>14.</num>
+				<content>
+					<clause id="clan14-stav1">
+						<content>
+							<p>Друмско возило код дужег превоза животиња мора да има  систем за праћење температуре ваздуха у превозном средству са уређајем за  бележење тих података и алармним системом.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav2">
+						<content>
+							<p>Сензори за праћење температуре морају да буду постављени у  оним деловима друмског возила, који су највише изложени лошим временским  утицајима.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav3">
+						<content>
+							<p>Добијени подаци о температури морају да имају датум мерења.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav4">
+						<content>
+							<p>Алармни систем упозорава возача када температура ваздуха у  друмском возилу пређе дозвољену границу.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan15">
+				<num>15.</num>
+				<content>
+					<clause id="clan15-stav1">
+						<content>
+							<p>Друмско возило код дужег превоза животиња мора да има  навигациони систем.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan16">
+				<num>16.</num>
+				<content>
+					<clause id="clan16-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана  објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav2">
+						<content>
+							<p>Број 110-00-00300/2009-09</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav3">
+						<content>
+							<p>У Београду, 9. марта 2010. године</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav5">
+						<content>
+							<p>др Саша Драгин, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

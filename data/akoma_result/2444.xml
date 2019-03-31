@@ -1,0 +1,215 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1975/7-119/main"/>
+					<FRBRuri value="/rs/act/1975/7-119"/>
+					<FRBRdate date="1975" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1975/7-119/srp@/main"/>
+					<FRBRuri value="/rs/act/1975/7-119/srp@"/>
+					<FRBRdate date="1975" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1975/7-119/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1975/7-119/srp@.akn"/>
+					<FRBRdate date="1975" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1975-3-1" name="службени гласник срс" number="7" showAs="Службени гласник СРС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="10. Лично име, лична карта, матични број грађана" value="10. лично име, лична карта, матични број грађана"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1975-01-24" id="usvajanje"/>
+				<step date="1975-03-09" id="stupanje_na_snagu"/>
+				<step date="1975-03-09" id="primena"/>
+			</workflow>
+		</meta>
+		<preface>
+			<authority>На основу <ref>члана 21. става 2. </ref>Закона о личној карти („<ref id="ref4" href="/rs/act/74/15/srp@">Службени гласник СРС“, бр. 15/74</ref>) републички секретар за здравље и социјалну политику и покрајински секретар за здравство и социјалну политику САП Војводине у споразуму са републичким секретаром за унутрашње послчове и покрајинским секретаром за унутрашње послове САП Војводине, доносе</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о поступку за издавање уверења о крвној групи која се уписује у личну карту</title>
+			<date>„Службени гласник СРС&quot;, број 7 од 1. марта 1975.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником утврђује се поступак за издавање уверења о крвној групи која се уписује у личну карту.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Грађанин који жели да му се одреди крвна група подноси захтев здравственој организацији одређеној у смислу <ref>члана 4. овог</ref> правилника.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Приликом подношења захтева грађанина здравствена организација утврђује његов идентитет на основу важеће личне карте или изводом из матичне књиге рођених, као и на основу других доказа.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Захтев за одређивање крвне групе подноси се на обрасцу који садржи име, име једног од родитеља и презиме, датум и место рођења, место пребивалишта и адресу, број личне карте и место издавања или број извода из матичне књиге рођених и потпис подносиоца захтева.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Врсте анализа на основу којих се утврђује припадност одређеној крвној групи, подразумевају обавезно одређивање крвних група ABO система и Rh (D) фактора, по поступку и на начин утврђен Хигијенско-техничким мерама које морају предузимати радне организације, које се баве производњом и прометом крви и крвних деривата („<ref id="ref5" href="/rs/act/67/28/srp@">Службени лист СФРЈ&quot;, 28/67</ref> и 31/68).</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Резузлтати о припадности одређеној крвној групи обавезно се уписује и означава штампаним словима латинице и то: крвна група А, крвна група B, крвна група О, крвна група AB, а резултат Rhesus фактора са ознаком Rh (D) поз., Rh (D) нег.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Резултат о припадности одређеној крвној групи здравствена организација може издати и на основу сопствене медицинске документације о раније одређеној крвној групи.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Одређивање крвних група може се вршити у здравственим организацијама које испуњавају услове у погледу кадрова и опреме предвиђене Хигијенско-техничким мерама које морају предузимати радне организације које се баве производњом и прометом крви и крвних деривата („<ref id="ref6" href="/rs/act/67/28/srp@">Службени лист СФРЈ&quot;, бр. 28/67</ref> и 31/68).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Образац уверења о одређеној крвној групи који издају здравствене организације из <ref>члана 2. став 3. овог</ref> правилника садржи назив здравствене организације, број протокола, датум издавања, седиште здравствене организације, име, име једног од родитеља и презиме лица коме се издаје уверење, датум и место рођења, место пребивалишта и адресу, број личне карте и место издавања или број извода из матичне књиге рођених, резултат одређене крвне групе, потпис овлашћеног лица и печат здравствене организације.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Образац захтева из чл. 4. и образац уверења из <ref>члана 5. став 1. овог</ref> правилника саставни је део овог правилника и розе боје.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Трошкове одређивања крвних група сноси подносилац захтева.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Социјалистичке Републике Србије&quot;.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Број 510-9/74</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>Покрајински секретар за</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>здравство и социјалну политику</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav5">
+						<content>
+							<p>САП Војводине,</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav6">
+						<content>
+							<p>др  Јосип Дулић, с. р.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav7">
+						<content>
+							<p>Број 205-1/74-02</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav8">
+						<content>
+							<p>У Београду,</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<section id="od24">
+				<num>24.</num>
+				<heading> јануара 1975. године</heading>
+				<content>
+					<clause id="od24-clan7-stav1">
+						<content>
+							<p>Републички секретар за</p>
+						</content>
+					</clause>
+					<clause id="od24-clan7-stav2">
+						<content>
+							<p>здравље и социјалну политику</p>
+						</content>
+					</clause>
+					<clause id="od24-clan7-stav3">
+						<content>
+							<p>СР Србије,</p>
+						</content>
+					</clause>
+					<clause id="od24-clan7-stav4">
+						<content>
+							<p>др  Љубинко Ђорђевић, с. р.</p>
+						</content>
+					</clause>
+					<став id="od24-clan7-stav5">
+						<img height="749" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/ff23169c-c9d4-4cb9-a077-441583144174.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=238337&amp;regactid=238337" width="443"/>
+						<content/>
+					</став>
+					<став id="od24-clan7-stav6">
+						<img height="374" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/62cf9dda-25a5-4699-969f-d0342367f46e.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=238337&amp;regactid=238337" width="423"/>
+						<content/>
+					</став>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

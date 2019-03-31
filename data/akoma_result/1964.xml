@@ -1,0 +1,499 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2018/7-33/main"/>
+					<FRBRuri value="/rs/act/2018/7-33"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/59-24/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/59-24/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/59-24/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/59-24/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2018-1-26" name="службени гласник рс" number="7" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="1. Привредна друштва, предузећа и предузетници" value="1. привредна друштва, предузећа и предузетници"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2018-01-19" id="usvajanje"/>
+				<step date="2018-02-03" id="stupanje_na_snagu"/>
+				<step date="2018-02-03" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="7/2018-33" id="e1" type="generation"/>
+				<eventRef date="59/2018-24" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник је ступио на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 3. фебруара 2018. године. (види <ref>члан 13. </ref>Правилника).Регистрација фактура у централном регистру фактура по одредбама овог правилника вршиће се почев од 1. марта 2018. године (види <ref>члан 12. </ref>Правилника).Правилник о изменама и допунама Правилника о начину и поступку регистровања фактура, односно других захтева за исплату, као и начину вођења и садржају централног регистра фактура („<ref id="ref9" href="/rs/act/2018/59/srp@">Службени гласник РС“, број 59/2018</ref>) ступио је на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 8. августа 2018. године (види <ref>члан 3. </ref>Правилника – 59/2018-24).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу члана 4a став 5. Закона о роковима измирења новчаних обавеза у комерцијалним трансакцијама („<ref id="ref10" href="/rs/act/12/119/srp@">Службени гласник РС”, бр. 119/12, 68/15</ref> и 113/17),</p>
+		</preamble>
+		<preface>
+			<authority>Министар финансија доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о начину и поступку регистровања фактура, односно других захтева за исплату, као и начину вођења и садржају централног регистра фактура</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 7 од 26.      јануара 2018, 59 од 31. јула 2018.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником ближе се прописује начин и поступак регистровања фактура, односно других захтева за исплату, издатих од стране поверилаца у комерцијалним трансакцијама између привредних субјеката и јавног сектора, односно између субјеката јавног сектора, у којима су субјекти јавног сектора дужници.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Овим правилником ближе се прописује и начин вођења и садржај централног регистра фактура који успоставља и води Министарство финансија – Управа за трезор (у даљем тексту: Управа за трезор), у којем се региструју фактуре и други захтеви за исплату из става 1. овог члана.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Централни регистар фактура се води преко посебног информационог система Управе за трезор, који повериоцима и дужницима омогућава приступ, унос и преглед унетих података преко одговарајуће веб апликације.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Повериоци издате фактуре, односно друге захтевe за исплату (у даљем тексту: фактура), у комерцијалним трансакцијама између привредних субјеката и јавног сектора, односно између субјеката јавног сектора, у којима су субјекти јавног сектора дужници, који плаћања врше преко рачуна који се воде код Управе за трезор, пре њиховог достављања дужницима, региструју у централном регистру фактура, приступом одговарајућој веб апликацији Управе за трезор, у складу са интерним техничким упутством Управе за трезор за рад са том апликацијом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Централни регистар фактура садржи податке о:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> фактурама, и то:</p>
+									<alinea id="clan4-stav1-tac1-ali1">
+										<content>
+											<p>азив или јединствени број корисника јавних средстава (ЈБКЈС) дужника,</p>
+										</content>
+									</alinea>
+									<alinea id="clan4-stav1-tac1-ali2">
+										<content>
+											<p>рој фактуре,</p>
+										</content>
+									</alinea>
+									<alinea id="clan4-stav1-tac1-ali3">
+										<content>
+											<p>атум издавања фактуре,</p>
+										</content>
+									</alinea>
+									<alinea id="clan4-stav1-tac1-ali4">
+										<content>
+											<p>купан износ фактуре,</p>
+										</content>
+									</alinea>
+									<alinea id="clan4-stav1-tac1-ali5">
+										<content>
+											<p>оментар повериоца,</p>
+										</content>
+									</alinea>
+									<alinea id="clan4-stav1-tac1-ali6">
+										<content>
+											<p>екламације дужника на регистроване      фактуре;</p>
+										</content>
+									</alinea>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> датуму и износу измирења фактуре;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> повериоцима и дужницима, и то:</p>
+									<alinea id="clan4-stav1-tac3-ali1">
+										<content>
+											<p>единствени број корисника јавних средстава уколико је поверилац, односно дужник корисник јавних средстава,</p>
+										</content>
+									</alinea>
+									<alinea id="clan4-stav1-tac3-ali2">
+										<content>
+											<p>азив,</p>
+										</content>
+									</alinea>
+									<alinea id="clan4-stav1-tac3-ali3">
+										<content>
+											<p>атични број,</p>
+										</content>
+									</alinea>
+									<alinea id="clan4-stav1-tac3-ali4">
+										<content>
+											<p>орески идентификациони број,</p>
+										</content>
+									</alinea>
+									<alinea id="clan4-stav1-tac3-ali5">
+										<content>
+											<p>дреса седишта,</p>
+										</content>
+									</alinea>
+									<alinea id="clan4-stav1-tac3-ali6">
+										<content>
+											<p>дреса електронске поште,</p>
+										</content>
+									</alinea>
+									<alinea id="clan4-stav1-tac3-ali7">
+										<content>
+											<p>рој телефона;</p>
+										</content>
+									</alinea>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> физичким лицима – администраторима из <ref>члана 5. став 2. тачка 1</ref>) овог правилника, које поверилац, односно дужник овлашћује за рад у централном регистру фактура, и то:</p>
+									<alinea id="clan4-stav1-tac4-ali1">
+										<content>
+											<p>ме и презиме,</p>
+										</content>
+									</alinea>
+									<alinea id="clan4-stav1-tac4-ali2">
+										<content>
+											<p>рој идентификационог документа,</p>
+										</content>
+									</alinea>
+									<alinea id="clan4-stav1-tac4-ali3">
+										<content>
+											<p>дреса електронске поште,</p>
+										</content>
+									</alinea>
+									<alinea id="clan4-stav1-tac4-ali4">
+										<content>
+											<p>рој телефона;</p>
+										</content>
+									</alinea>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> физичким лицима – локалним корисницима из <ref>члана 6. став 1. овог</ref> правилника, и то;</p>
+									<alinea id="clan4-stav1-tac5-ali1">
+										<content>
+											<p>ме и презиме,</p>
+										</content>
+									</alinea>
+									<alinea id="clan4-stav1-tac5-ali2">
+										<content>
+											<p>дреса електронске поште.</p>
+										</content>
+									</alinea>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<heading>*<ref id="ref11" href="/rs/act/2018/59/srp@">Службени гласник РС, број 59/2018</ref></heading>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Приступ централном регистру фактура повериоци, односно дужници остварују уношењем идентификационих података у веб апликацију Управе за трезор.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Након уношења идентификационих података поверилац, односно дужник на електронску адресу наведену у тим подацима добија попуњену форму образца за приступ. Поверилац, односно дужник попуњену форму обрасца штампа и потписани и печатирани примерак доставља Управи за трезор, као захтев за регистрацију повериоца, односно дужника, уз следећу документацију:</p>
+							<point id="clan5-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> овлашћење повериоца физичком лицу – администратору за право приступа и сва овлашћења за рад у централном регистру фактура (у даљем тексту: администратор), потписано од стране заступника, односно одговорног лица повериоца, односно дужника;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> овлашћење лицу које преузима кориснички налог (уколико то лице није администратор), потписано од стране заступника, односно одговорног лица повериоца, односно дужника;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> уверење о одобреном привременом боравку и одобрење привременог боравка, уколико је овлашћено лице страни држављанин.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Приступ централном регистру фактура имају администратор, као и друга лица са отвореним корисничким налогом за рад у том регистру (у даљем тексту: локални корисник), који креира администратор.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Администратор има овлашћења за:</p>
+							<alinea id="clan6-stav2-ali1">
+								<content>
+									<p>реирање корисничких налога за локалне кориснике;</p>
+								</content>
+							</alinea>
+							<alinea id="clan6-stav2-ali2">
+								<content>
+									<p>тказивање корисничких налога;</p>
+								</content>
+							</alinea>
+							<alinea id="clan6-stav2-ali3">
+								<content>
+									<p>реглед детаља корисничких налога;</p>
+								</content>
+							</alinea>
+							<alinea id="clan6-stav2-ali4">
+								<content>
+									<p>егистровање фактура (само за повериоце);</p>
+								</content>
+							</alinea>
+							<alinea id="clan6-stav2-ali5">
+								<content>
+									<p>тказивање фактура (само за повериоце);</p>
+								</content>
+							</alinea>
+							<alinea id="clan6-stav2-ali6">
+								<content>
+									<p>реглед регистрованих фактура;</p>
+								</content>
+							</alinea>
+							<alinea id="clan6-stav2-ali7">
+								<content>
+									<p>кспорт фактура.</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>Локални корисник има овлашћења за:</p>
+							<alinea id="clan6-stav3-ali1">
+								<content>
+									<p>егистровање фактура (само за повериоце);</p>
+								</content>
+							</alinea>
+							<alinea id="clan6-stav3-ali2">
+								<content>
+									<p>тказивање фактура (само за повериоце);</p>
+								</content>
+							</alinea>
+							<alinea id="clan6-stav3-ali3">
+								<content>
+									<p>реглед регистрованих фактура;</p>
+								</content>
+							</alinea>
+							<alinea id="clan6-stav3-ali4">
+								<content>
+									<p>кспорт фактура.</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Уколико је поднета документација повериоца, односно дужника из <ref>члана 5. став 2. овог</ref> правилника исправна, администратору или лицу овлашћеном за преузимање корисничког налога, у организационој јединици Управе за трезор издаје се примопредајни лист, који потписују лице које преузима кориснички налог и запослени Управе за трезор.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Администратор или лице овлашћено за преузимање корисничког налога приликом преузимања корисничког налога идентификује се важећом личном исправом (лична карта или пасош), чији идентитет утврђује запослени у организационој јединици Управе за трезор и то констатује у примопредајном листу.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>По преузимању корисничког налога, администратор приступа централном регистру фактура и самостално креира своју лозинку, након чега је поступак регистрације повериоца завршен.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Уколико поднета документација из <ref>члана 5. став 2. овог</ref> правилника није исправна, организациона јединица Управе за трезор отказује поднети захтев за регистрацију повериоца, односно дужника.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Поверилац, односно дужник може одмах након отказивања захтева за регистрацију да поднесе нови захтев за регистрацију.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>Поверилац може да захтева укидање приступа централном регистру фактура, у складу са интерним техничким упутством за рад са веб апликацијом Управе за трезор.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Регистрацију фактуре врши администратор или локални корисник овлашћен за регистровање фактура, уношењем података из фактуре, и то:</p>
+							<point id="clan9-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив или јединствени број корисника јавних средстава (ЈБКЈС) дужника;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> број фактуре (број фактуре, у смислу овог правилника, је позив на број одобрења из инструкције за плаћање или број фактуре ако поверилац није навео инструкцију за плаћање);</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> датум издавања фактуре;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> укупан износ фактуре;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> коментар.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Поверилац може да прати измирење сопствене фактуре.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Субјекти јавног сектора, дужници у комерцијалним трансакцијама између јавног сектора и привредних субјеката, односно између субјеката јавног сектора, који плаћања врше преко рачуна који се воде код Управе за трезор, измирују новчане обавезе по фактурама из <ref>члана 9. овог</ref> правилника, само ако су фактуре исправно регистроване у централном регистру фактура, што утврђују провером у том регистру.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Уколико дужник утврди да фактура није      исправно регистрована у централном регистру фактура о томе      обавештава повериоца и у случају потребе уноси у централни      регистар фактура, у поље рекламације, податке за ту рекламацију,      у складу са интерним техничким упутством Управе за трезор за рад      са том апликацијом.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>На основу рекламација из става 2. овог      члана у централном регистру фактура ће се обезбедити посебна      евиденција и подаци о рекламираним фактурама, у циљу вршења      надзора у складу са законом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<heading>*<ref id="ref12" href="/rs/act/2018/59/srp@">Службени гласник РС, број 59/2018</ref></heading>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Дужник приликом плаћања исправно регистроване фактуре у оквиру налога за плаћање у позив на број одобрења уноси број фактуре из <ref>члана 9. став 1. тачка 2</ref>) овог правилника.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Регистрација фактура у централном регистру фактура по одредбама овог правилника вршиће се почев од 1. марта 2018. године.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav2">
+						<content>
+							<p>Број 110-00-1/2018-001-007</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav3">
+						<content>
+							<p>У Београду, 19. јануара 2018. године</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav5">
+						<content>
+							<p>др Душан Вујовић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

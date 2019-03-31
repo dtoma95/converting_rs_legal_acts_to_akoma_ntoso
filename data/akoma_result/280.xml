@@ -1,0 +1,307 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2009/110-324/main"/>
+					<FRBRuri value="/rs/act/2009/110-324"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/92-78/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/92-78/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/92-78/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/92-78/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2009-12-28" name="службени гласник рс" number="110" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="I ДРЖАВНО УРЕЂЕЊЕ" value="i државно уређење"/>
+				<keyword id="grupa" showAs="16. Борба против корупције, заштита узбуњивача и лобирање" value="16. борба против корупције, заштита узбуњивача и лобирање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2009-12-08" id="usvajanje"/>
+				<step date="2010-01-05" id="stupanje_na_snagu"/>
+				<step date="2010-01-01" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="110/2009-324" id="e1" type="generation"/>
+				<eventRef date="92/2011-78" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник о изменама и допумана Правилника о Регистру функционера и Регистру имовине (<ref id="ref4" href="/rs/act/2011/92/srp@">Службени гласник РС, број 92/2011</ref>) ступио је на снагу осмог дана од дана објављивања, односно 15. децембра 2011. године, а примењује се од 1. јануара 2012. године (види <ref>члан 6. </ref>Правилника - 92/2011-78).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 15, </ref><ref>члана 46. став 2. </ref>и <ref>члана 68. став 3. </ref>Закона о Агенцији за борбу против корупције („<ref id="ref5" href="/rs/act/2008/97/srp@">Службени гласник РС”, број 97/2008</ref>),</p>
+			<p>Директор Агенције за борбу против корупције доноси</p>
+		</preamble>
+		<preface>
+			<title>ПРАВИЛНИК</title>
+			<authority>о Регистру функционера и Регистру имовине</authority>
+			<title>&quot;Службени гласник РС&quot;, бр. 110 од 28. децембра 2009, 92 од 7. децембра  2011.</title>
+			<date>Опште одредбе</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником уређује се начин вођења Регистра функционера и Регистра имовине, чување података и приступ подацима из ових регистара, прописује се образац и начин обавештавања Агенције за борбу против корупције (у даљем тексту: Агенција) о ступању одређеног лица на функцију и престанку његове функције (у даљем тексту: обавештење); ближа садржина, образац и начин подношења извештаја о имовини и приходима функционера, његовог супружника или ванбрачног партнера и малолетне деце уколико живе у истом породичном домаћинству (у даљем тексту: извештај о имовини и приходима).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>Начин вођења регистара</heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Регистри се састоје од деловодника, електронске базе података и збирке исправа.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Деловодник Регистра функционера садржи податке о броју и датуму пријема обавештења и називу органа који је поднео обавештење.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Деловодник Регистра имовине садржи податке о броју и датуму пријема извештаја о имовини и приходима и личне податке о функционеру, и то: име и презиме, матични број грађана, пребивалиште и/или боравиште и адресу.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav4">
+						<content>
+							<p>Електронске базе података садрже све податке из одговарајућих деловодника, обавештења и извештаја о имовини и приходима.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav5">
+						<content>
+							<p>Збирке исправа чине обавештења и друге исправе о избору, постављању или именовању функционера, реизбору* и престанку функције, односно извештаји о имовини и приходима и друге исправе којима се доказује имовина.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav6">
+						<content>
+							<p>*<ref id="ref6" href="/rs/act/2011/92/srp@">Службени гласник РС, број   92/2011</ref></p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>Чување, заштита и приступ подацима</heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Од пријема и завођења у деловодник и електронску базу података па до престанка обавезе чувања, обавештења, извештаји о имовини и приходима и друге исправе из збирки исправа, евидентиране по редном броју из одговарајућег деловодника Регистара чувају се у изворном писаном, односно микрофилмованом као и електронском облику.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Заштита података у збиркама исправа које се чувају у посебној архиви, микрофилму односно електронској бази података обезбеђује се мерама физичко теничке заштите односно шифрованим приступима подацима.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Мере физичко-техничке заштите обухватају и електронски надзор просторија посебне архиве и приступну шифру (код).</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Заштита електронске базе података од злоупотреба, уништења, губитка или неовлашћене промене података обезбеђује се и личном приступном шифром – кодом, односно другим видом електронске заштите података.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Приступ подацима из регистара, збирке исправа и електронске базе података непосредно имају директор и заменик директора Агенције, чланови Одбора Агенције и помоћници за послове превенције и оперативе, а посредно и други запослени у Агенцији на основу писаног овлашћења директора.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Подаци из Регистра функционера који се односе на име и презиме, пребивалиште, боравиште, назив јавне функције и орган у коме се врши, датум ступања,  реизбора и* престанка функције објављују се на интернет презентацији Агенције.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>Подаци из Регистра имовине који се према Закону о Агенцији за борбу против корупције (у даљем тексту: Закон) сматрају јавним објављују се и на интернет презентацији Агенције.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>*<ref id="ref7" href="/rs/act/2011/92/srp@">Службени гласник РС, број   92/2011</ref></p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<heading>Образац обавештења</heading>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Обавештење садржи: личне податке о функционеру и то: име и презиме, матични   број грађана, пребивалиште и/или боравиште и адресу, број телефона или други   контакт, школску спрему и звање; занимање, посао или делатност коју обавља у   тренутку ступања на јавну функцију; назив јавне функције на коју ступа и   назив органа или организације у којој врши јавну функцију; назив органа који   је изабрао, поставио или именовао функционера; датум ступања на функцију,   датум реизбора и датум престанка функције, потпис одговорног, односно   овлашћеног лица у органу и место за печат (М.П).*</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>*<ref id="ref8" href="/rs/act/2011/92/srp@">Службени гласник РС, број   92/2011</ref></p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<heading>Образац извештаја о имовини и приходима</heading>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Извештај о имовини и   приходима садржи: личне податке о функционеру, супружнику или ванбрачном   партнеру и малолетној деци која живе у истом породичном домаћинству и то име   и презиме, матични број грађана, пребивалиште и/или боравиште и адресу, број   телефона или други контакт, извор и висину нето прихода функционера из   буџета и других јавних извора, извор и висину нето прихода по основу другог   посла или делатности, приходе по основу научно-истраживачке, наставне,   културно-уметничке, хуманитарне или спортске делатности, права по основу   ауторских, патентних и права интелектуалне својине, чланство у органима   удружења, извор и висину других нето прихода, приходе супружника, односно   ванбрачног партнера и малолетне деце, право својине на непокретној имовини у   земљи и иностранству, право својине на покретним стварима које подлежу   регистрацији и покретним стварима веће вредности, депозите у банкама и   другим финансијским организацијама у земљи и иностранству са навођењем банке   и бројева свих рачуна (текући и штедни, динарски и девизни), дугове и   потраживања, акције и уделе у правном лицу, друге хартије од вредности,   право коришћења стана за службене потребе, друге податке битне за примену   Закона, потпис подносиоца и датум и место подношења извештаја.*</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>*<ref id="ref9" href="/rs/act/2011/92/srp@">Службени гласник РС, број   92/2011</ref></p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<heading>Начин достављања обавештења и извештаја о имовини и приходима</heading>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Обавештење о ступању и престанку функције надлежни орган доставља у   електронској и штампаној форми на прописаном обрасцу, непосредно или   препорученом поштанском пошиљком.*</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>По добијању програмски генерисане шифре којом се потврђује електронска   регистрација Обавештења, надлежни орган одмах а најкасније у року од осам   дана доставља Агенцији Обавештење у штампаној форми потписано од стране   овлашћеног лица и оверено печатом органа.*</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>Извештај о имовини и приходима функционер доставља лично, подношењем   Извештаја Агенцији у електронској и штампаној форми на прописаном обрасцу.*</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav4">
+						<content>
+							<p>По добијању програмски генерисане шифре којом се потврђује електронска   регистрација Извештаја, функционер одмах а најкасније у року од осам дана   доставља Агенцији Извештај у штампаној форми, непосредно или препорученом   поштанском пошиљком.*</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav5">
+						<content>
+							<p>*<ref id="ref10" href="/rs/act/2011/92/srp@">Службени гласник РС, број   92/2011</ref></p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<heading>Прелазне и завршне одредбе</heading>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Функционери који врше јавну функцију на дан 1. јануара 2010. године дужни су да до 31. јануара 2010. године поднесу Агенцији извештај о имовини и приходима на обрасцу прописаном овим правилником.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, а примењиваће се почев од 1. јануара 2010. године.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Број 014-110-05/09-01</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>У Београду, 8. децембра 2009. године</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav4">
+						<content>
+							<p>Агенција за борбу против корупције</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav5">
+						<content>
+							<p>Директор,</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav6">
+						<content>
+							<p>Зорана Марковић, с.р.</p>
+						</content>
+					</clause>
+					<став id="clan10-stav7">
+						<img alt="" height="1033" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/img5.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=334947&amp;regactid=334947" width="739"/>
+						<content/>
+					</став>
+					<став id="clan10-stav8">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/img7.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=334947&amp;regactid=334947"/>
+						<content/>
+					</став>
+					<став id="clan10-stav9">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/img9.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=334947&amp;regactid=334947"/>
+						<content/>
+					</став>
+					<став id="clan10-stav10">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/imgB.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=334947&amp;regactid=334947"/>
+						<content/>
+					</став>
+					<став id="clan10-stav11">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/imgD.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=334947&amp;regactid=334947"/>
+						<content/>
+					</став>
+					<став id="clan10-stav12">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/imgF.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=334947&amp;regactid=334947"/>
+						<content/>
+					</став>
+					<став id="clan10-stav13">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/img11.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=334947&amp;regactid=334947"/>
+						<content/>
+					</став>
+					<став id="clan10-stav14">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/img13.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=334947&amp;regactid=334947"/>
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

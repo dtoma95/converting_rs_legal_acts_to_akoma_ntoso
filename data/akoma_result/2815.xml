@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2000/70-8/main"/>
+					<FRBRuri value="/rs/act/2000/70-8"/>
+					<FRBRdate date="2000" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2000/70-8/srp@/main"/>
+					<FRBRuri value="/rs/act/2000/70-8/srp@"/>
+					<FRBRdate date="2000" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2000/70-8/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2000/70-8/srp@.akn"/>
+					<FRBRdate date="2000" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2000-12-15" name="службени лист срј" number="70" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="V МОНЕТАРНИ СИСТЕМ, ФИНАНСИЈСКЕ ОРГАНИЗАЦИЈЕ И ФИНАНСИЈСКО ПОСЛОВАЊЕ" value="v монетарни систем, финансијске организације и финансијско пословање"/>
+				<keyword id="grupa" showAs="6. Издавање, основна обележја и пуштање у оптицај новчаница, кованог новца и пригодног кованог новца" value="6. издавање, основна обележја и пуштање у оптицај новчаница, кованог новца и пригодног кованог новца"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2000-12-13" id="usvajanje"/>
+				<step date="2000-12-15" id="stupanje_na_snagu"/>
+				<step date="2000-12-15" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 114. став 2. </ref>Устава СРЈ, а у вези са чланом 50. став 3. Закона о Народној банци Југославије (“<ref id="ref1" href="/rs/act/93/32/srp@">Службени лист СРЈ”, бр. 32/93, 41/94, 61/95, 29/97</ref> и 44/99), гувернер Народне банке Југославије доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о пуштању у оптицај новчаница од 20, 50 и 100 динара и кованог новца апоена од 50 пара и 1, 2 и 5 динара</title>
+			<date>„Службени лист СРЈ”, број  70  од 15.  децембра 2000.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Народна банка Југославије пустиће у оптицај 15. децембра 2000. године новчанице од 20, 50 и 100 динара и ковани новац апоена од 50 пара и 1, 2 и 5 динара, са обележјима утврђеним Одлуком о издавању и основним обележјима новчанице од 20 динара (“<ref id="ref2" href="/rs/act/2000/70/srp@">Службени лист СРЈ”, бр. 70/2000</ref>), Одлуком о издавању и основним обележјима новчанице од 50 динара (“<ref id="ref3" href="/rs/act/2000/70/srp@">Службени лист СРЈ”, бр. 70/2000</ref>), Одлуком о издавању и основним обележјима новчанице од 100 динара (“<ref id="ref4" href="/rs/act/2000/70/srp@">Службени лист СРЈ”, бр. 70/2000</ref>) и Одлуком о издавању и основним обележјима кованог новца апоена од 50 пара и 1, 2 и 5 динара (“<ref id="ref5" href="/rs/act/2000/70/srp@">Службени лист СРЈ”, бр. 70/2000</ref>).</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Ова одлука ступа на снагу даном објављивања у “Службеном листу СРЈ”.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>О. бр. 76</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od13">
+				<num>13.</num>
+				<heading> децембра 2000. године</heading>
+				<content>
+					<clause id="od13-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od13-stav2">
+						<content>
+							<p>Гувернер</p>
+						</content>
+					</clause>
+					<clause id="od13-stav3">
+						<content>
+							<p>Народне банке Југославије</p>
+						</content>
+					</clause>
+					<clause id="od13-stav4">
+						<content>
+							<p>Млађан Динкић, с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1992/49-919/main"/>
+					<FRBRuri value="/rs/act/1992/49-919"/>
+					<FRBRdate date="1992" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1996/8-1/srp@/main"/>
+					<FRBRuri value="/rs/act/1996/8-1/srp@"/>
+					<FRBRdate date="1996" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1996/8-1/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1996/8-1/srp@.akn"/>
+					<FRBRdate date="1996" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1992-12-11" name="службени лист срј" number="49" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="1. Пензијско и инвалидско осигурање" value="1. пензијско и инвалидско осигурање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1992-12-11" id="usvajanje"/>
+				<step date="1992-12-19" id="stupanje_na_snagu"/>
+				<step date="1992-12-19" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="49/1992-919" id="e1" type="generation"/>
+				<eventRef date="8/1996-1" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу осмог дана од дана објављивања у „Службеном листу СРЈ”, односно 19. децембра 1992. године (види <ref>члан 4. </ref>Уредбе).Уредба формалноправно није стављена ван снаге.</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 99. тачка 4</ref>. Устава Савезне Републике Југославије,</p>
+		</preamble>
+		<preface>
+			<authority>Савезна влада доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о начину исплате пензија остварених радом у  иностранству</title>
+			<date>„Службени лист СРЈ”, бр. 49 од 11.  децембра 1992, 8 од 16.  фебруара 1996.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овом уредбом уређује се начин исплате пензија, инвалиднина, додатака на децу и других личних давања из социјалног осигурања остварених у иностранству физичким лицима чије је пребивалиште на територији Савезне Републике Југославије.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Овлашћене банке преко којих се давање из <ref>члана 1. </ref>ове уредбе исплаћује лицима из тог члана дужне су да девизе примљене из иностранства исплате у ефективном страном новцу, у року од седам дана од дана наплате.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>На захтев из става 1. овог члана, овлашћена банка може девизе из <ref>члана 1. </ref>ове уредбе одобрити његовом девизном рачуну или девизном штедном улогу или исплатити у динарској противвредности, по курску који важи на дан исплате.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Новчаном казном од 15.000 до 150.000 нових* динара казниће се за привредни преступ овлашћена банка ако у прописаном року не исплати примљене девизе у ефективном страном новцу (<ref>члан 2. став 1</ref>).</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>За радњу из става 1. овог члана казниће се за привредни преступ новчаном казном од 1.000 до 10.000 нових* динара и одговорно лице у овлашћеној банци.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>* „<ref id="ref5" href="/rs/act/1996/8/srp@">Службени лист СРЈ”, број 8/1996</ref>.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Ова уредба ступа на снагу осмог дана од дана објављивања у „Службеном листу СРЈ”</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Савезна влада</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Е. п. бр. 172</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<section id="od11">
+				<num>11.</num>
+				<heading> децембра 1992. године</heading>
+				<content>
+					<clause id="od11-clan4-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od11-clan4-stav2">
+						<content>
+							<p>Потпредседник,</p>
+						</content>
+					</clause>
+					<clause id="od11-clan4-stav3">
+						<content>
+							<p>др Радоје Контић, с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

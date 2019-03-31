@@ -1,0 +1,446 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1997/20-1/main"/>
+					<FRBRuri value="/rs/act/1997/20-1"/>
+					<FRBRdate date="1997" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2005/36-5/srp@/main"/>
+					<FRBRuri value="/rs/act/2005/36-5/srp@"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2005/36-5/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2005/36-5/srp@.akn"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1997-5-2" name="службени лист срј“" number="20" showAs="Службени лист СРЈ“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="3. Осигурање" value="3. осигурање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1997-05-02" id="usvajanje"/>
+				<step date="1997-07-01" id="stupanje_na_snagu"/>
+				<step date="1997-07-01" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="20/1997-1" id="e1" type="generation"/>
+				<eventRef date="36/2005-5" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу 60 дана од дана објављивања у “Службеном листу СРЈ”, односно 1. јула 1997. године (види <ref>члан 16. </ref>Уредбе).Уредба је донета на основу <ref>члана 111. став 1. </ref>Закона, који је престао да важи.</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<authority>На основу <ref>члана 111. став 1. </ref>Закона о осигурању имовине и лица (“<ref id="ref4" href="/rs/act/96/30/srp@">Службени лист СРЈ”, бр. 30/96</ref>), Савезна влада доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о премијским стопама у осигурању од аутоодговорности</title>
+			<date>„Службени лист СРЈ“, број  20  од 2.   маја 1997, „Службени гласник РС“, број  36  од  22. априла  2005.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОСНОВНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овом уредбом уређују се премијске стопе у осигурању од аутоодговорности, и то:</p>
+									<point id="gla1-clan1-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> структура премијских стопа;</p>
+										</content>
+									</point>
+									<point id="gla1-clan1-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> правила за израчунавање премијских стопа, класификованих према групама дефинисаним и обележним једнаким факторима ризика;</p>
+										</content>
+									</point>
+									<point id="gla1-clan1-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> услови за увођење нових или смањења постојећих премијских стопа;</p>
+										</content>
+									</point>
+									<point id="gla1-clan1-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> услови за одступање од премијских стопа осигурања појединих врста или група моторних возила;</p>
+										</content>
+									</point>
+									<point id="gla1-clan1-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> услови за израчунавање вишкова премија ради смањења премијских стопа;</p>
+										</content>
+									</point>
+									<point id="gla1-clan1-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> износи максималних накнада, односно провизија које се могу плаћати за обављање послова посредовања и заступања у пословима осигурања од аутоодговорности према врсти и обиму извршених услуга.</p>
+										</content>
+									</point>
+									<тачка id="gla1-clan1-stav1-tac1">
+										<num>1.</num>
+										<content>
+											<p> Структура премијских стопа</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Премија код осигурања од аутоодговорности састоји се од функционалне премије и режијског додатка.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav2">
+								<content>
+									<p>Функционална премија из става 1. овог члана састоји се од техничке премије и доприноса за превентиву.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav3">
+								<content>
+									<p>Допринос за превентиву, који се користи за спровођење мера ради спречавања и сузбијања ризика који угрожавају имовину и лица, утврђује се у висини до 2% од техничке премије.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav4">
+								<content>
+									<p>Режијски додатак, који се користи за покриће трошкова за спровођења осигурања од аутоодговорности, утврђује се у висини до 30% од техничке премије.</p>
+									<тачка id="gla1-clan2-stav4-tac2">
+										<num>2.</num>
+										<content>
+											<p> Правила за израчунавање премијских стопа класификованих према групама које се могу дефинисати и обележити једнаким факторима ризика</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Премијским стопама код осигурања од аутоодговорности мора се трајно обезбедити испуњавање уговорених обавеза осигуравача и солидан однос премија и штета.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla1-clan4-stav1">
+								<content>
+									<p>Премијске стопе израчунавају се комбиновањем сличних фактора ризика и образовањем јасно одредивих група ризика са заједничким карактеристикама (тарифне групе опасности), чиме се обезбеђује њихова упоредивост са премијским стопама других осигуравача у земљи.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan4-stav2">
+								<content>
+									<p>Премијске стопе код осигурања од аутоодговорности су исте за све ризике у оквиру групе ризика и израчунавају се као годишње премије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla1-clan5-stav1">
+								<content>
+									<p>Премијске стопе се утврђују факторима ризика који су повезани са осигураним моторним и прикључним возилима. Под факторима ризика подразумевају се техничке карактеристике конструкције возила, намена возила, као и обим и врста осигураног ризика.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan5-stav2">
+								<content>
+									<p>Фактори ризика повезани са личношћу осигураника (лични фактор) могу се користити тако што се узима у обзир дужина периода осигурања без штета, број и висину штета и место боравка осигураника.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan5-stav3">
+								<content>
+									<p>У зависности од понашања ризика на одређеном подручју, подручје осигурања се може делити на зоне ризика. Јединица зоне ризика је регистарско подручје.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan5-stav4">
+								<content>
+									<p>У обављању послова који се односе на тарифу премија, Удружење осигуравајућих организација Југославије (у даљем тексту: Удружење) на јединствен начин утврђује систем бонуса и зоне ризика као саставни део те тарифе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla1-clan6-stav1">
+								<content>
+									<p>При израчунавању премијских стопа техничке премије адекватно се процењује прошло искуство, коришћењем података из годишњег обрачуна за последње три године, очекивани развој штета као и заштита оштећених лица.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla1-clan7-stav1">
+								<content>
+									<p>При израчунавању премијских стопа техничке премије може се укалкулисати добит до 3% од премије за сваку групу ризика.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla1-clan8-stav1">
+								<content>
+									<p>Ради заштите трећих оштећених лица, тарифу премија са јединственим премијским стопама техничке премије за организације за осигурање може да изради Удружење.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan8-stav2">
+								<content>
+									<p>Народна банка Србије даје претходну сагласност на тарифу премије из става 1. овог члана, као и на њене измене и допуне.*</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan9">
+						<num>9.</num>
+						<heading>*<ref id="ref5" href="/rs/act/2005/36/srp@">Службени гласник РС, број  36/2005</ref></heading>
+						<content>
+							<clause id="gla1-clan9-stav1">
+								<content>
+									<p>Приликом израде тарифе премија са јединственим премијским стопама техничке премије полази се од модела, “реперно возило”.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan9-stav2">
+								<content>
+									<p>Под реперним возилом подразумева се израчуната пондерисана вредност возила које је најучесталије у портфељу осигурања и служи за утврђивање основне техничке премије.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan9-stav3">
+								<content>
+									<p>Основна техничка премија је основица за обрачун техничке премије осигурања за сва возила, применом премијских стопа по тарифним групама опасности.</p>
+									<тачка id="gla1-clan9-stav3-tac3">
+										<num>3.</num>
+										<content>
+											<p> Услови за увођење нових или промену постојећих премијских стопа</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla1-clan10-stav1">
+								<content>
+									<p>У случају појаве нових облика ризика у осигурању од аутоодговорности, утврђују се нове премијске стопе на основу искуствене методе и просечне вредности “реперног” моторног возила.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan10-stav2">
+								<content>
+									<p>Промена постојећих премијских стопа може се извршити у следећим случајевима:</p>
+									<point id="gla1-clan10-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> промене учешћа добити у односу на учешће које је коришћено код израчунавања претходних премијских стопа осигуравача;</p>
+										</content>
+									</point>
+									<point id="gla1-clan10-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> промене укупног броја и износа штета код осигурања од аутоодговорности;</p>
+										</content>
+									</point>
+									<point id="gla1-clan10-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> промене стопе режијског додатка осигуравача;</p>
+										</content>
+									</point>
+									<point id="gla1-clan10-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> промене услова за тарифирање;</p>
+										</content>
+									</point>
+									<point id="gla1-clan10-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> промене вредности “реперног” возила за више од 10%.</p>
+										</content>
+									</point>
+									<тачка id="gla1-clan10-stav2-tac4">
+										<num>4.</num>
+										<content>
+											<p> Услови под којима се може одступити од премијских стопа осигурања појединих врста или група возила</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla1-clan11-stav1">
+								<content>
+									<p>У случајевима промене фактора ризика који се односе на врсту, односно групу возила (повећање, односно смањење ризика), може се одступити од утврђених премијских стопа техничке премије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla1-clan12-stav1">
+								<content>
+									<p>Осигуравач може одступити од премијских стопа техничке премије и у случајевима примене система “бонус-малус”.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan12-stav2">
+								<content>
+									<p>“Бонус” је попуст у премији за возило код следеће обнове осигурања, јер осигураник није имао штете у претходном периоду осигурања.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan12-stav3">
+								<content>
+									<p>“Малус” је казнени доплатак на премију осигурања код следеће обнове осигурања зато што је осигураник имао две штете или више штета у протеклом периоду осигурања.</p>
+									<тачка id="gla1-clan12-stav3-tac5">
+										<num>5.</num>
+										<content>
+											<p> Услови за израчунавање вишкова премија ради смањења премијских стопа</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla1-clan13-stav1">
+								<content>
+									<p>Ако је у пословној години приход осигуравача код осигурања од аутоодговорности, не узимајући у обзир активно и пасивно реосигурање, већи од штета (осигуравајућа добит), осигуравач смањује премије на терет осигуравајуће добити.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan13-stav2">
+								<content>
+									<p>Ако је уговор о осигурању пренесен на другог осигураника, нови осигураник нема право на смањење премије на терет осигуравајуће добити у години преноса.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla1-clan14-stav1">
+								<content>
+									<p>Осигуравач чија добит у пословној години не прелази 10% од остварене премије није обавезан да смањује премију.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan14-stav2">
+								<content>
+									<p>Ако добит прелази 10% од остварене премије, осигуравач мора да смањи премију у корист осигураника, и то за цео износ добити од 10% до 20%, а за две трећине износа добити преко 20%.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan14-stav3">
+								<content>
+									<p>Осигуравач може одбити износ смањења премије од премије која доспева за наредни период осигурања.</p>
+									<тачка id="gla1-clan14-stav3-tac6">
+										<num>6.</num>
+										<content>
+											<p> Износи максималних накнада (провизија) које се могу плаћати за обављање послова посредовања и заступања у пословима осигурања од аутоодговорности према врсти и обиму извршених услуга</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla1-clan15-stav1">
+								<content>
+									<p>Провизија за обављање послова посредовања и заступања у пословима осигурања од аутоодговорности исплаћује се по закљученом осигурању највише до 50% од режијског додатка из <ref>члана 2. став 4. </ref>ове уредбе, зависно од врсте и обима извршених послова.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ЗАВРШНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla2-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="gla2-clan16-stav1">
+								<content>
+									<p>Ова уредба ступа на снагу 60 дана од дана објављивања у “Службеном листу СРЈ”.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan16-stav2">
+								<content>
+									<p>Савезна влада</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan16-stav3">
+								<content>
+									<p>Е. п. бр. 161</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<section id="gla2-od2">
+						<num>2.</num>
+						<heading> маја 1997. године</heading>
+						<content>
+							<clause id="gla2-od2-clan16-stav1">
+								<content>
+									<p>Београд</p>
+								</content>
+							</clause>
+							<clause id="gla2-od2-clan16-stav2">
+								<content>
+									<p>Председник,</p>
+								</content>
+							</clause>
+							<clause id="gla2-od2-clan16-stav3">
+								<content>
+									<p>др   Радоје Контић,  с. р.</p>
+								</content>
+							</clause>
+						</content>
+					</section>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

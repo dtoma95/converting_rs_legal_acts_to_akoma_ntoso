@@ -1,0 +1,636 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1990/17-526/main"/>
+					<FRBRuri value="/rs/act/1990/17-526"/>
+					<FRBRdate date="1990" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1990/17-526/srp@/main"/>
+					<FRBRuri value="/rs/act/1990/17-526/srp@"/>
+					<FRBRdate date="1990" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1990/17-526/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1990/17-526/srp@.akn"/>
+					<FRBRdate date="1990" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1990-12-7" name="службени гласник рс" number="17" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="4. Научноистраживачка делатност" value="4. научноистраживачка делатност"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1990-11-27" id="usvajanje"/>
+				<step date="1990-12-15" id="stupanje_na_snagu"/>
+				<step date="1990-12-15" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 29. </ref>Закона о научноистрживачкој делатности („<ref id="ref3" href="/rs/act/90/12/srp@">Службени гласник СРС“, број 12/90</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Републички секретар за образовање, науку и физичку културу, доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о регистру истраживача и приправника за послове истраживања</title>
+			<date>„Службени гласник РС”, број 17 од 7.  децембра  1990.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се облик и садржај регистра истраживача и приправника за послове истраживања (у даљем тексту: регистра истраживача), као и поступак уписа и брисања из овог регистра.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>У регистар истраживача, који се води у републичком, односно покрајинском органу управе надлежном за послове науке, уписују се истраживачи, односно лица која се сматрaју истраживачима у смислу Закона о научноистраживачкој делатности (у даљем тексту: Закон).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Регистар се води у облику укоричене књиге са регистарским листовима, величине 40 х 30 цм, и као аутоматизована евиденција.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Подаци у регистарском листу воде се према обрасцу „Регистарски лист истраживача и приправника за послове истраживања – образац 1”, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>У сваки регистарски лист азбучним редом уписује се највише 25 истраживача.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>Аутоматизовану евиденцију чине подаци који се воде према обрасцу, „Подаци о истраживачу за вођење регистра и аутоматизоване евиденције истраживача – образац 2”, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Организације у којима се обавља научноистраживачка делатност из <ref>члана 3. </ref>Закона, односно самостални истраживач достављају републичком, односно покрајинском органу надлежном за послове науке, податке о истраживачима и приправницима за послове истраживача на начин утврђен овим правилником.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Организације из <ref>члана 4. овог</ref> правилника, односно самостални истраживачи, достављају сваку промену података из регистра републичком, односно покрајинском органу управе надлежном за послове науке, на исти начин као и код уписа у регистар.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Сваки регистарски лист оверава печатом и потписом функционер који руководи републичким, односно покрајинским органом управе надлежним за послове науке и лице које је овлашћено да врши упис у регистар.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Број 640-01-50/90-04</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>У Београду, 27. новембра 1990. године</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>Републички секретаријат за образовање, науку и физичку културу</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav5">
+						<content>
+							<p>Републички секретар,</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav6">
+						<content>
+							<p>проф. др. Данило Ж. Марковић. с.р</p>
+						</content>
+					</clause>
+					<став id="clan7-stav7">
+						<img height="441" id="Picture 3" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/e1d6a215-0002-41f2-970d-3bbb9a48485c.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=422295&amp;regactid=422295" width="605"/>
+						<content/>
+					</став>
+					<clause id="clan7-stav8">
+						<content>
+							<p>Образац 2</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav9">
+						<content>
+							<p>ПОДАЦИ О ИСТРАЖИВАЧУ ЗА ВОЂЕЊЕ РЕГИСТРА И АУТОМАТИЗОВАНЕ ЕВИДЕНЦИЈЕ ИСТРАЖИВАЧА</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav10">
+						<content>
+							<p>Број уписа у регистар ___________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav11">
+						<content>
+							<p>Презиме _____________________ Име ______________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav12">
+						<content>
+							<p>Име оца/мајке _____________________ Датум рођења _________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav13">
+						<content>
+							<p>Место рођења __________________ Држављанство ___________________Националност ______________________ Лични број ___________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav14">
+						<content>
+							<p>Звање: истраживачко, научно/наставно ______________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav15">
+						<content>
+							<p>______________________________ год. стиц. _________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav16">
+						<content>
+							<p>Подручје рада (научна област): ____________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav17">
+						<content>
+							<p>Научна грана: ____________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav18">
+						<content>
+							<p>Дисциплина: _____________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav19">
+						<content>
+							<p>Кључне речи: ____________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav20">
+						<content>
+							<p>________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav21">
+						<content>
+							<p>Запослење:</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav22">
+						<content>
+							<p>Назив организације у којој је истраживач у сталном радном односу: _______</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav23">
+						<content>
+							<p>________________________________________________________________Адреса организације: _____________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav24">
+						<content>
+							<p>Мат. број организације ___________Тел. _____________ФАХ ____________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav25">
+						<content>
+							<p>Школовање и усавршавање у струци:</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav26">
+						<content>
+							<p>Назив завршеног факултета и стечени стручни назив: __________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav27">
+						<content>
+							<p>________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav28">
+						<content>
+							<p>Место: _________________________Земља: __________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav29">
+						<content>
+							<p>Година: _________ Подручје: _________________Смер: ________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav30">
+						<content>
+							<p>Специјализације:</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav31">
+						<content>
+							<p>Место: _______________________ Подручје: __________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav32">
+						<content>
+							<p>Датум одбране специјалистичког рада _______________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav33">
+						<content>
+							<p>Земља _________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav34">
+						<content>
+							<p>Место: __________________________ Подручје: _______________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav35">
+						<content>
+							<p>Датум одбране специјалистичког рада _______________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav36">
+						<content>
+							<p>Земља _________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav37">
+						<content>
+							<p>Магистратура:</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav38">
+						<content>
+							<p>Наслов магистарског рада: _________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav39">
+						<content>
+							<p>________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav40">
+						<content>
+							<p>Организација: _______________________ Место: ______________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav41">
+						<content>
+							<p>Земља: ________________________ Година: _________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav42">
+						<content>
+							<p>Подручје/дисциплина _____________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav43">
+						<content>
+							<p>Докторат:</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav44">
+						<content>
+							<p>Наслов докторске дисертације: _____________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav45">
+						<content>
+							<p>________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav46">
+						<content>
+							<p>Организација: _______________________ Место: ______________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav47">
+						<content>
+							<p>Земља: _______________ Датум: __________ Подручје: ________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav48">
+						<content>
+							<p>Студијски боравци и други облици научног и стручног усавршавња у земљи и иностранству</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav49">
+						<content>
+							<p>I Организација ___________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav50">
+						<content>
+							<p>Подручје: ____________________________ Година: ____________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav51">
+						<content>
+							<p>Место: __________________________ Земља: ________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav52">
+						<content>
+							<p>II Организација: __________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav53">
+						<content>
+							<p>Подручје: ____________________________ Година: ____________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav54">
+						<content>
+							<p>Место: __________________________ Земља: ________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav55">
+						<content>
+							<p>III Организација: _________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav56">
+						<content>
+							<p>Подручје: ____________________________ Година: ____________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav57">
+						<content>
+							<p>Место: __________________________ Земља: ________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav58">
+						<content>
+							<p>Знање страних језика: а) ___________________________________ говори,</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav59">
+						<content>
+							<p>чита, пише, б) _____________________________________________ говори,</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav60">
+						<content>
+							<p>чита, пише, в) ___________________________________ говори, чита, пише</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav61">
+						<content>
+							<p>Награде и признања у научноистраживачком раду:</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav62">
+						<content>
+							<p>Назив: ______________________________________ Година: ____________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav63">
+						<content>
+							<p>______________________________________ Година: ____________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav64">
+						<content>
+							<p>______________________________________ Година: ____________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav65">
+						<content>
+							<p>______________________________________ Година: ____________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav66">
+						<content>
+							<p>Чланство у академијама наука:</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav67">
+						<content>
+							<p>Назив: ____________________________ Место: _______________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav68">
+						<content>
+							<p>____________________________ Место: _______________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav69">
+						<content>
+							<p>Чланство у стручним удружењима у земљи и иностранству:</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav70">
+						<content>
+							<p>Назив: ________________ Место: ______________ Земља: ______________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav71">
+						<content>
+							<p>Назив: ________________ Место: ______________ Земља: ______________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav72">
+						<content>
+							<p>Назив: ________________ Место: ______________ Земља: ______________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav73">
+						<content>
+							<p>Научна и стручна компетентност:</p>
+						</content>
+					</clause>
+					<став id="clan7-stav74">
+						<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:35.25rem" width="564">
+							
+ 
+							<tbody>
+								<tr>
+									
+  
+									<td style="width:16.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="16%">
+										
+  
+										<p>
+  Ознака
+  групе резултата</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:21.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="21%">
+										
+  
+										<p>
+  Назив
+  групе резултата</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:21.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="21%">
+										
+  
+										<p>
+  Врста
+  резултата</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:21.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="21%">
+										
+  
+										<p>
+  Ознака
+  резултата</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:21.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="21%">
+										
+  
+										<p>
+  Број
+  резултата</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+
+							</tbody>
+						</table>
+						
+
+
+						<content/>
+					</став>
+					<clause id="clan7-stav75">
+						<content>
+							<p>________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav76">
+						<content>
+							<p>________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav77">
+						<content>
+							<p>________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav78">
+						<content>
+							<p>________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav79">
+						<content>
+							<p>________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav80">
+						<content>
+							<p>________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav81">
+						<content>
+							<p>________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav82">
+						<content>
+							<p>________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav83">
+						<content>
+							<p>________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav84">
+						<content>
+							<p>________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav85">
+						<content>
+							<p>________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav86">
+						<content>
+							<p>________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav87">
+						<content>
+							<p>________________________________________________________________</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

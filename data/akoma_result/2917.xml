@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2017/88-176/main"/>
+					<FRBRuri value="/rs/act/2017/88-176"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2017/88-176/srp@/main"/>
+					<FRBRuri value="/rs/act/2017/88-176/srp@"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2017/88-176/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2017/88-176/srp@.akn"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2017-9-29" name="службени гласник рс" number="88" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="5. Високо образовање" value="5. високо образовање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2017-04-25" id="usvajanje"/>
+				<step date="2017-10-07" id="stupanje_na_snagu"/>
+				<step date="2017-09-01" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник је ступио на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 7. октобра 2017. године, а примењује се од 1. септембра 2017. године (види <ref>члан 4. </ref>Правилника).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 11. став 1. тачка 11</ref>) Закона о високом образовању („<ref id="ref2" href="/rs/act/05/76/srp@">Службени гласник РС”, бр. 76/05, 100/07</ref> – аутентично тумачење, 97/08, 44/10, 93/12, 89/13, 99/14, 45/15 – аутентично тумачење, 68/15 и 87/16),</p>
+		</preamble>
+		<preface>
+			<authority>Национални савет за високо образовање, на седници одржаној 25. априла 2017. године, донео је</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о стандардима за самовредновање и оцењивање квалитета високошколских установа</title>
+			<date>&quot;Службени гласник РС&quot;, број 88 од 29.      септембра 2017.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником утврђују се стандарди за самовредновање и оцењивање квалитета високошколских установа.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Стандарди из става 1. овог члана одштампани су уз овај правилник и чине његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Комисија за акредитацију и проверу квалитета (у даљем тексту: Комисија) доноси:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> упутствa за припрему извештаја о сaмовредновању високошколских установа у саставу универзитета, интегрисаних универзитета и високих школа;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> упутства за припрему извештаја о самовредновању неинтегрисаних универзитета;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> упутства рецензенту за процену испуњености стандарда за самовредновање и оцењивање квалитета високошколских установа у саставу универзитета, интегрисаних универзитета и високих школа;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> упутства рецензенту за процену испуњености стандарда за самовредновање и оцењивање квалитета неинтегрисаних универзитета које доставља Националном савету на мишљење и објављује на интернет страници Комисије.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Орган пословођења високошколске установе гарантује:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> да су општи акти високошколске установе у складу са законом;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> да је извештај о самовредновању урађен у складу са стандардима и упутством за самовредновање високошколске установе;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> за тачност података у извештају за самовредновање.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, а примењује се од 1. септембра 2017. године.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Председник</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Националног савета за високо образовање,</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav4">
+						<content>
+							<p>проф. др Дејан Поповић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav5">
+						<content>
+							<p>Прилози</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

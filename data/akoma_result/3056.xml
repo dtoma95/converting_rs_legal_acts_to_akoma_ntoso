@@ -1,0 +1,516 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2014/100-25/main"/>
+					<FRBRuri value="/rs/act/2014/100-25"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2014/100-25/srp@/main"/>
+					<FRBRuri value="/rs/act/2014/100-25/srp@"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2014/100-25/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2014/100-25/srp@.akn"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2014-9-15" name="службени гласник рс" number="100" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="3. Семе и садни материјал" value="3. семе и садни материјал"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2014-09-08" id="usvajanje"/>
+				<step date="2014-09-23" id="stupanje_na_snagu"/>
+				<step date="2014-09-23" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 5. став 2. </ref>Закона о признавању сорти пољопривредног биља („<ref id="ref2" href="/rs/act/10/30/srp@">Службени гласник РС”, број 30/10</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде и заштите животне средине доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о методама испитивања сорти сточног грашка (Pisum sativum L.) и грахорице (Vicia sp. L.) ради признавања сорте</title>
+			<date>&quot;Службени гласник РС&quot;, број 100 од 15. септембра 2014.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се методе испитивања сорти крмних једногодишњих легуминоза (у даљем тексту: сорта), и то: сточног грашка (Pisum sativum  L.) и грахорице (Vicia sp. L.) на огледном пољу и у лабораторији, ради признавања сорте.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Методама из става 1. овог члана испитују се одређене битне особине сорте, ради утврђивања:</p>
+							<point id="clan1-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> различитости, униформности и стабилности сорте (DUS тест);</p>
+								</content>
+							</point>
+							<point id="clan1-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> боље производне и употребне вредности и сорте (VCU тест).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Производна и употребна вредност сорте утврђује се на основу резултата испитивања одређених битних особина сорте које се односе на:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> принос зелене масе;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> принос суве материје;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> принос зрна;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> квалитет биомасе (садржај сирових протеина, садржај неутралних – NDF влакна и садржај киселих – ADF влакна).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Сорта се испитује тако што се битне особине из става 1. овог члана сорте која се испитује упоређују са битним особинама једне или више сорти стандард, у складу са законом којим се уређује признавање сорти пољопривредног биља.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Сорта се испитује у више одвојених огледа на огледном пољу. Оглед чине елементарне парцеле на којима се врши испитивање.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Огледи из става 1. овог члана се изводе по плану „потпуно случајног блок система” у четири понављања, а рандомизација, односно план огледа је исти за све локалитете.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Сорта се испитује на најмање четири локалитета који чине мрежу огледа.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Сорта се испитује на огледном пољу у складу са захтевом за признавање сорте у коме власник сорте, односно његов овлашћени заступник предлаже да се сорта, ради испитивања разврста у одговарајући оглед према врсти (сточни грашак, грахорица) или намени (за зрно или комбиновано искоришћавање – зрно и биомаса).</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Сорта разврстана на начин из става 1. овог члана, ради испитивања сеје се са сортом стандард у одређени оглед.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Као сорта стандард одређује се сорта која по својим биолошким и производним особинама има највећу вредност за намену за коју се врши испитивање.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav4">
+						<content>
+							<p>За испитивање на огледном пољу доставља се семе сорте које је испитано на квалитет, здравствено исправно и нетретирано.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Предусев на целој површини огледног поља на коме се врши испитивање сорте не могу бити друге легуминозе.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Сорта се испитујe на земљишту без депресија, добре структуре и плодности, које је пре сетве испитано на присутност земљишних штеточина, а по потреби, изводи се и предсетвено третирање инсектицидима.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>Количине минералних ђубрива, време и начин њихове примене, као и остале агротехничке мере примењују се приликом испитивања сорте на огледном пољу тако да буду у складу са највишим нивоом технологије гајења легуминоза.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Сорта која се испитује сеје се на површини од 10 m², а чине је 10 редова од по 5 m дужине са размаком између редова од 20 cm, размаком између парцела 1 m и размаком између блокова 1 m.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Када се сточни грашак гаји за комбиновано искоришћавање – зрно и биомаса, на половини од укупне површине (5 m²) оставља се да већина махуна сазри и тада се обавља жетва а на другој половини обавља се косидба када је биљка у зеленом стању.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>Семе се сеје на дубини од 3 до 5 cm.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>У току вегетације сорте која се испитује, евидентирају се следећи подаци:</p>
+							<point id="clan7-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> код сточног грашка за зрно или комбиновано искоришћавање – зрно и биомаса:</p>
+									<item id="clan7-stav1-tac1-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> датум ницања (дан кад се појави комплетан ред),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> датум почетка цветања,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> датум сазревања,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> датум косидбе (биомаса), односно датум жетве (зрно),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> број махуна по биљци,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> маса 1000 зрна (g),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> висина биљке (cm),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> полегање биљака;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> код грахорице:</p>
+									<item id="clan7-stav1-tac2-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> датум ницања (дан кад се појави преко 50% никлих биљака),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac2-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> датум почетка цветања,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac2-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> опште стање пре зиме код озимих сорти (добро, слабо),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac2-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> презимљавање, оцена 1–9 (1 – значи да има 75–100% оштећења, 3 – значи да има 50–75% оштећених биљака, 5 – значи да има 25–50% оштећених биљака, 7 – значи да има до 25% оштећених биљака и 9 – без оштећених биљака),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac2-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> број махуна по биљци,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac2-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> маса 1000 зрна (g),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac2-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> датум косидбе (у фази цветања, најкасније до појаве првих махуна),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac2-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> полегање биљака.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Отпорност сорте на полегање утврђује се тако што се прати полегање биљака до жетве, односно косидбе у зависности од намене сточног грашка и приказује одговарајућом оценом:</p>
+							<point id="clan7-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> оцена 1 – значи да нема полеглих биљака;</p>
+								</content>
+							</point>
+							<point id="clan7-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> оцена 3 – значи да има до 25% полеглих биљака;</p>
+								</content>
+							</point>
+							<point id="clan7-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> оцена 5 – значи да има од 25% до 50% полеглих биљака;</p>
+								</content>
+							</point>
+							<point id="clan7-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> оцена 7 – значи да има од 50% до 75% полеглих биљака;</p>
+								</content>
+							</point>
+							<point id="clan7-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> оцена 9 – значи да има од 75% до 100% полеглих биљака.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>У току испитивања сорте у огледном пољу у односу на стандардну сорту утврђује се степен присуства болести и штеточина, с тим што извођачи огледа сами евидентирају врсту и степен присуства болести.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Оцењивање отпорности сорте која се испитује према болестима и штеточинама врши се по скали од 1 до 9, и то:</p>
+							<point id="clan8-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> оцена 1 – значи да има 75–100% оболелих биљака;</p>
+								</content>
+							</point>
+							<point id="clan8-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> оцена 3 – значи да има 50–75% оболелих биљака;</p>
+								</content>
+							</point>
+							<point id="clan8-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> оцена 5 – значи да има 25–50% оболелих биљака;</p>
+								</content>
+							</point>
+							<point id="clan8-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> оцена 7 – значи да има до 25% оболелих биљака;</p>
+								</content>
+							</point>
+							<point id="clan8-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> оцена 9 – значи да нема оболелих биљака.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>У току производне године извођач огледа по косидби сваке сорте у огледном пољу мерењем утврђује:</p>
+							<point id="clan9-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> принос зелене масе – биомасе (kg/парцели) за свако понављање;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> принос зрна (kg/парцели са 14% влаге) за свако понављање;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> % суве материје из просечног узорка за сваку сорту, на основу које утврђујемо принос суве материје у (kg/парцели) за свако понављање.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>На основу ових резултата израчунава се принос изражен у: kg/парцели и kg/ha за све сорте у огледу.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Сорта се испитује у лабораторији тако што се испитује квалитет крме, односно садржај сирових протеина, сирове целулозе, суве материје, масти, пепела, БЕМ и влакна.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Да би се квалитет крме из става 1. овог члана испитао у лабораторији узима се просечан узорак из свих понављања у микроогледу, по откосима са једне локације.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>Просечан узорак се узима у другој години испитивања, непосредно после косидбе и то из покошене масе са сваке парцеле, односно са сваког понављања, по 1/2 kg.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Извођач огледа по завршеном испитивању сорте на огледном пољу евидентира: назив извођача огледа; име и презиме лица одговорног за извођење огледа; локалитет на коме се изводи оглед; тип земљишта и садржај храњивих материја у земљишту на коме се налази огледно поље; предусев; обављене агротехничке мере; податке из чл. 7, 8. и 9. овог правилника, као и друге податке који утичу на принос испитиване сорте (оштећења од штеточина, природних непогода и друго).</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Извођач огледа по завршеном испитивању сорте у лабораторији евидентира податке из <ref>члана 10. став 1. овог</ref> правилника, као и назив извођача огледа, одговорно лице за извођење огледа и локалитет на коме се оглед изводи.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav3">
+						<content>
+							<p>Подаци из ст. 1. и 2. овог члана саставни су део годишњих и коначних резултата испитивања.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Различитост, униформност и стабилност сорте (DUS тест) испитује се методом одређеном техничким упутством за тестирање различитости, униформности и стабилности сорте.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav2">
+						<content>
+							<p>Број 110-00-104/2014-09</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav3">
+						<content>
+							<p>У Београду, 8. септембра 2014. године</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav5">
+						<content>
+							<p>проф. др Снежана Богосављевић Бошковић,   с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

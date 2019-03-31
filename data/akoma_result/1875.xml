@@ -1,0 +1,644 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2010/73-121/main"/>
+					<FRBRuri value="/rs/act/2010/73-121"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2010/73-121/srp@/main"/>
+					<FRBRuri value="/rs/act/2010/73-121/srp@"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2010/73-121/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2010/73-121/srp@.akn"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2010-10-12" name="службени гласник рс“" number="73" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="1. Сточарство" value="1. сточарство"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2010-10-04" id="usvajanje"/>
+				<step date="2010-10-20" id="stupanje_na_snagu"/>
+				<step date="2010-10-20" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник је ступио на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 20. октобра 2010. године, осим одредаба чл. 8. до 12. које се примењују од 1. јануара 2013. године (види <ref>члан 16. </ref>Правилника).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 59. став 3. </ref>и <ref>члана 61. став 5. </ref>Закона о сточарству („<ref id="ref5" href="/rs/act/09/41/srp@">Службени гласник РС”, број 41/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, шумарства и водопривреде доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о условима и начину гајења и селидбе пчела, садржини уверења о транспорту, као и о условима за издавање сагласности да пчелари из других земаља могу користити пчелињу пашу на територији Републике Србије</title>
+			<date>„Службени гласник РС“, број 73 од 12. октобра 2010.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>УВОДНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<heading>Предмет уређења</heading>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником ближе се прописују услови и начин гајења и селидбе пчела, садржина уверења о транспорту, као и услови за издавање сагласности да пчелари из других земаља могу користити пчелињу пашу на територији Републике Србије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<heading>Значење појединих израза</heading>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Поједини изрази употребљени у овом правилнику имају следеће значење:</p>
+									<point id="gla1-clan2-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> катастар пчелиње паше јесте збирка података о присуству медоносног биља на одређеном подручју који води регионална одгајивачка организација (у даљем тексту: катастар);</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> медоносни пашњак јесте простор за сакупљање пчелиње хране који користе пчелиња друштва са једног пчелињака;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> непредвидљива паша јесте паша чији почетак, трајање и завршетак, као и подручје на којој се појављује није искуствено познатo;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> пашни ред утврђује начин коришћења пчелиње паше, као и гајења пчела на тој пчелињој паши;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> повереник пашног реда јесте физичко лице одређено од стране регионалне одгајивачке организације за спровођење пашног реда, који мора да буде оспособљен за рад са GPS и рачунарском опремом;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> предвидљива паша јесте паша чији је почетак, трајање и завршетак, као и подручје на којој се појављује искуствено познато;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> пчелињак је скуп кошница са припадајућим пчелињим друштвима;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> пчелар је правно лице, предузетник или физичко лице које је власник пчелињака, односно лице које има право чувања, гајења, транспорта и коришћења пчела;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> пчелињу пашу чини медоносно биље одређене структуре на одређеном подручју;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> стајалиште јесте унапред договорена микро локација на коју пчелар довози своја пчелиња друштва ради коришћења пчелиње паше.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>УСЛОВИ И НАЧИН ГАЈЕЊА ПЧЕЛА</heading>
+				<content>
+					<article id="gla2-clan3">
+						<num>3.</num>
+						<heading>Пчелињак</heading>
+						<content>
+							<clause id="gla2-clan3-stav1">
+								<content>
+									<p>Гајење пчела врши се у пчелињаку, који може да се налази на отвореном простору, на превозном средству и у објекту изграђеном од чврстог материјала.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<heading>Врсте пчелињака</heading>
+						<content>
+							<clause id="gla2-clan4-stav1">
+								<content>
+									<p>Пчелињак, у зависности да ли се пресељава са сталног места држања може бити:</p>
+									<point id="gla2-clan4-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> стационирани пчелињак;</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> селећи пчелињак.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav2">
+								<content>
+									<p>Стационирани пчелињак јесте пчелињак у којем пчелиња друштва бораве у току целе године.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav3">
+								<content>
+									<p>Селећи пчелињак јесте пчелињак који пчелар, у сезони цветања медоносног биља, сели са једне пчелиње паше на другу пчелињу пашу.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan5">
+						<num>5.</num>
+						<heading>Услови гајења пчела у стационираном пчелињаку</heading>
+						<content>
+							<clause id="gla2-clan5-stav1">
+								<content>
+									<p>Гајење пчела може да се врши у стационираном пчелињаку под условом да:</p>
+									<point id="gla2-clan5-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> је постављен на удаљености која мора бити најмање:</p>
+											<item id="gla2-clan5-stav1-tac1-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> 500 метара од произвођачких и прерађивачких погона, који врше прераду пољопривредних производа, односно 100 метара од осталих погона,</p>
+												</content>
+											</item>
+											<item id="gla2-clan5-stav1-tac1-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> 100 метара од аутопута, железничке пруге, аеродрома, а лета при смештају пчелињака не смеју бити окренута према аутопуту, железничкој прузи и аеродрому,</p>
+												</content>
+											</item>
+											<item id="gla2-clan5-stav1-tac1-podtac3">
+												<num>(3)</num>
+												<content>
+													<p> 20 метара од објеката за боравак људи или гајење животиња,</p>
+												</content>
+											</item>
+											<item id="gla2-clan5-stav1-tac1-podtac4">
+												<num>(4)</num>
+												<content>
+													<p> 100 метара од предшколске или школске установе, интерната, игралишта и других спортских терена за децу и одрасле,</p>
+												</content>
+											</item>
+											<item id="gla2-clan5-stav1-tac1-podtac5">
+												<num>(5)</num>
+												<content>
+													<p> 15 метара од категорисаног пута, односно најмање пет метара ако између пчелињака и категорисаног пута постоји препрека висине 2,20 метра (зид, објекат, густо засађена стабла, жива ограда, ограда без отвора и друго),</p>
+												</content>
+											</item>
+											<item id="gla2-clan5-stav1-tac1-podtac6">
+												<num>(6)</num>
+												<content>
+													<p> 500 метара од суседног пчелињака који има најмање 21 кошницу или 200 метара од суседног пчелињака који има до 20 кошница, а који се налазе ван насељеног места,</p>
+												</content>
+											</item>
+											<item id="gla2-clan5-stav1-tac1-podtac7">
+												<num>(7)</num>
+												<content>
+													<p> 300 метара, као и бочно 150 метара од суседног пчелињака у правцу излета пчела, на паши ратарских, воћарских и индустријских медоносних култура, који се налази ван насељеног места,</p>
+												</content>
+											</item>
+											<item id="gla2-clan5-stav1-tac1-podtac8">
+												<num>(8)</num>
+												<content>
+													<p> 50 метара од првог суседног пчелињака, који се налази у насељеном месту;</p>
+												</content>
+											</item>
+										</content>
+									</point>
+									<point id="gla2-clan5-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> лета свих кошница, нуклеуса и оплодњака не буду директно окренута према:</p>
+											<item id="gla2-clan5-stav1-tac2-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> вратима и прозорима стамбених и пословних зграда, предшколских и школских установа, интерната, стаја за стоку и категорисаним путевима,</p>
+												</content>
+											</item>
+											<item id="gla2-clan5-stav1-tac2-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> међи суседног имања, ако је пчелињак на удаљености мањој од пет метара од међе;</p>
+												</content>
+											</item>
+										</content>
+									</point>
+									<point id="gla2-clan5-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> пчелар има писмену сагласност власника – корисника земљишта за постављање пчелињака у случају да пчелињак није постављен на земљишту које је у својини пчелара.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan5-stav2">
+								<content>
+									<p>Изузетно од одредбе става 1. тачка 1. подтач. (3), (6) и (8) овог члана удаљеност од суседног пчелињака, може бити и мања ако се пчелари суседних пчелињака или власници објеката за боравак људи или гајење животиња о томе писмено сагласе.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan5-stav3">
+								<content>
+									<p>Стационирани пчелињак се може поставити у заштићеном подручју под условима које одреди управљач заштићеног подручја, у складу са законом којим се уређује заштита природе.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan5-stav4">
+								<content>
+									<p>Стационирани пчелињак се не може постављати у густо насељеној градској зони, осим уз сагласност јединице локалне самоуправе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan6">
+						<num>6.</num>
+						<heading>Услови гајења пчела у селећем пчелињаку</heading>
+						<content>
+							<clause id="gla2-clan6-stav1">
+								<content>
+									<p>Гајење пчела може да се врши у селећем пчелињаку ако су испуњени услови из <ref>члана 5. овог</ref> правилника и ако је:</p>
+									<point id="gla2-clan6-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> повереник пашног реда, у складу са капацитетом пчелиње паше, пре довожења пчелињака договорио његов смештај с власником, односно корисником земљишта у случају да се пчелињак не поставља на земљишту које је у својини пчелара;</p>
+										</content>
+									</point>
+									<point id="gla2-clan6-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> пчелар самостално договорио с власником, односно корисником земљишта смештај пчелињака и о томе обавестио повереника пашног реда у року од 48 сати од постигнутог договора;</p>
+										</content>
+									</point>
+									<point id="gla2-clan6-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> селећи пчелињак удаљен од суседног селећег пчелињака најмање 200 метара ваздушне линије, односно најмање 500 метара од стационираног пчелињака.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav2">
+								<content>
+									<p>Изузетно од одредбе става 1. тачка 3) овог члана удаљеност од суседног стационираног пчелињака може бити и мања, ако се пчелари суседних пчелињака о томе писмено сагласе.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav3">
+								<content>
+									<p>У случају постављања селећег пчелињака на стајалиште, ради презимљавања пчелињих друштава, удаљеност између стајалишта за презимљавање и најближег стационираног пчелињака мора бити најмање 500 метара.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan7">
+						<num>7.</num>
+						<heading>Постављање пчелињака</heading>
+						<content>
+							<clause id="gla2-clan7-stav1">
+								<content>
+									<p>Предност за постављање пчелињака има пчелар који је први формирао или доселио пчелињак на изабрано стајалиште, осим ако прописом којим се уређује катастар није другачије прописано.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav2">
+								<content>
+									<p>После постављања пчелињака у заштитном појасу, мора се одмах на видљивом месту поставити плоча правоугаоног облика, димензија најмање 20 x 30 cm, на којој је читко исписано име и презиме, односно назив, адреса и телефонски број пчелара, као и ИД број газдинства из Централне базе о обележавању животиња (у даљем тексту: Централна база).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<heading>Пашни ред</heading>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>Пашним редом се одређује:</p>
+									<point id="gla2-clan8-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> повереник пашног реда;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> површина медоносног пашњака;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> препоручена насељеност пчелињим друштвима у односу на површину и врсту паше;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> распоред стационираних пчелињака, као и распоред незаузетих стајалишта која су одређена за привремено довожење селећих пчелињака на пашу;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> начин додељивања стајалишта;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> начин уређења и означавања стајалишта;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> поступак селидбе пчелињих друштава са стајалишта.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav2">
+								<content>
+									<p>Пашни ред мора бити усклађен са катастром.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<heading>Предвидљива паша</heading>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>Поверенику пашног реда доставља се пријава за доделу стајалишта (у даљем тексту: пријава) пре предвидљиве паше или намере довожења пчелињих друштава на презимљавање, која садржи следеће податке:</p>
+									<point id="gla2-clan9-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> име и презиме, адресу, односно назив, седиште и телефонски број пчелара;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> ИД број газдинства из Централне базе;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> планирани датум довожења и одвожења пчелињих друштава;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> број и врсту превозних средстава и број пчелињих друштава;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> одговарајућу зоотехничку документацију и документацију у складу са прописом којим се уређује здравствена заштита животиња;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> планирано стајалиште.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav2">
+								<content>
+									<p>По поднетој пријави даје се сагласност за смештај пчелињих друштава или се пчелар обавештава да се његова пријава одбија уз навођење разлога за одбијање.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav3">
+								<content>
+									<p>Сагласност из става 2. овог члана даје се на Обрасцу - Сагласност за смештај пчелињих друштава, који је одштампан уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan10">
+						<num>10.</num>
+						<heading>Непредвидљива паша</heading>
+						<content>
+							<clause id="gla2-clan10-stav1">
+								<content>
+									<p>На начин из <ref>члана 9. овог</ref> правилника врши се и довожење пчелињих друштава на непредвидљиву пашу, ако на медоносном пашњаку постоји слободно место за њихово довожење.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav2">
+								<content>
+									<p>У случају издавања сагласности за смештај пчелињих друштава на непредвидљиву пашу, пчелињак се на тој паши распоређује у року од 24 сата од подношења пријаве.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan11">
+						<num>11.</num>
+						<heading>Постављање селећег пчелињака на пчелињу пашу</heading>
+						<content>
+							<clause id="gla2-clan11-stav1">
+								<content>
+									<p>У складу са капацитетом медоносног пашњака, пре довожења селећег пчелињака, договара се његово постављање са власником, односно корисником земљишта.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan12">
+						<num>12.</num>
+						<heading>Поступање у случају престанка пчелиње паше и настанка штете</heading>
+						<content>
+							<clause id="gla2-clan12-stav1">
+								<content>
+									<p>Ако је пчелиња паша завршена и не постоји могућност њеног обнављања или ако се гајењем пчела причини штета власнику, односно кориснику земљишта пчелињак се сели са медоносног пашњака.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan12-stav2">
+								<content>
+									<p>Ако се гајењем пчела причини штета власнику, односно кориснику земљишта, поступа се у складу са законом којим се уређује накнада штете.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>УСЛОВИ И НАЧИН СЕЛИДБЕ ПЧЕЛА</heading>
+				<content>
+					<article id="gla3-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla3-clan13-stav1">
+								<content>
+									<p>Селидба пчела може се обављати свим превозним средствима.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav2">
+								<content>
+									<p>Приликом селидбе пчела лета на кошницама морају бити затворена и кошнице обезбеђене, тако да за време селидбе пчеле не могу излетати из кошница.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav3">
+								<content>
+									<p>Изузетно од одредбе става 2. овог члана, ако се селидба пчела обавља ноћу по асвалтном путу, лета кошница могу бити отворена.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav4">
+								<content>
+									<p>Лице које врши селидбу пчела мора да има уверење о транспорту у складу са законом.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav5">
+								<content>
+									<p>Селидба пчела на пчелињу пашу може да се врши ако је обезбеђена пратња пчелара.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav6">
+								<content>
+									<p>Изузетно од одредбе из става 5. овог члана, пакетни ројеви и матице с пчелама пратиљама које се превозе не морају имати пратњу.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav7">
+								<content>
+									<p>У случају појаве временске непогоде, пожара, поплаве, појаве грабежи на пчелињаку и слично, пчелар може да пресели пчелињак без одлагања, о чему обавештава повереника пашног реда и надлежну ветеринарску службу.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>САДРЖИНА УВЕРЕЊА О ТРАНСПОРТУ</heading>
+				<content>
+					<article id="gla4-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla4-clan14-stav1">
+								<content>
+									<p>Уверење о транспорту мора да садржи нарочито податке о власнику пчелињака, броју пчелињих друштава која се селе, полазном месту и одредишту на које се селе пчелиња друштва, као и податке који су утврђени у складу са законом којим се уређује ветеринарство.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>УСЛОВИ ЗА ИЗДАВАЊЕ САГЛАСНОСТИ ДА ПЧЕЛАРИ ИЗ ДРУГИХ ЗЕМАЉА МОГУ КОРИСТИТИ ПЧЕЛИЊУ ПАШУ НА ТЕРИТОРИЈИ РЕПУБЛИКЕ СРБИЈЕ</heading>
+				<content>
+					<article id="gla5-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla5-clan15-stav1">
+								<content>
+									<p>Пчелари из других земаља могу користити пчелињу пашу на територији Републике Србије, постављати селећи пчелињак и вршити транспорт пчела под следећим условима:</p>
+									<point id="gla5-clan15-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> да гаје пчеле расе Apis mellifera carnica;</p>
+										</content>
+									</point>
+									<point id="gla5-clan15-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> да имају уверење о здравственом стању издато од стране надлежног органа земље из које се довозе пчелиња друштва, као и уверење о здравственом стању издато у складу са прописом којим се уређује здравствена заштита животиња.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>ЗАВРШНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla6-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="gla6-clan16-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, осим одредаба чл. 8. до 12. које се примењују од 1. јануара 2013. године.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan16-stav2">
+								<content>
+									<p>Број 110-00-168/2010-09</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan16-stav3">
+								<content>
+									<p>У Београду, 4. октобра 2010. године</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan16-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan16-stav5">
+								<content>
+									<p>др Саша Драгин, с.р.</p>
+								</content>
+							</clause>
+							<став id="gla6-clan16-stav6">
+								<img alt="pcele.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/9018dd15-2939-43d5-b752-fa8f5c093cae.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=421615&amp;regactid=421615"/>
+								<content/>
+							</став>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

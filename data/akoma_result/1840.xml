@@ -1,0 +1,777 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1996/21-704/main"/>
+					<FRBRuri value="/rs/act/1996/21-704"/>
+					<FRBRdate date="1996" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1996/47-1146/srp@/main"/>
+					<FRBRuri value="/rs/act/1996/47-1146/srp@"/>
+					<FRBRdate date="1996" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1996/47-1146/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1996/47-1146/srp@.akn"/>
+					<FRBRdate date="1996" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1996-5-16" name="службени гласник рс" number="21" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="4. Руде и геолошка истраживања" value="4. руде и геолошка истраживања"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1996-03-12" id="usvajanje"/>
+				<step date="1996-05-24" id="stupanje_na_snagu"/>
+				<step date="1996-05-24" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="21/1996-704" id="e1" type="generation"/>
+				<eventRef date="47/1996-1146" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 81. став 3. </ref>Закона о рударству („<ref id="ref4" href="/rs/act/95/44/srp@">Службени гласник РС” број 44/95</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар надлежан за послове рударства доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о   условима, начину и програму полагања стручног испита за обављање стручних   послова при експлоатацији минералних сировина</title>
+			<date>„Службени гласник РС”, бр. 21 од 16. маја 1996, 47 од 31. октобра 1996.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником уређују се услови, начин и програм полагања стручног испита за обављање стурчних послова техничког руковођења, израде рударских пројеката, руковођења рударским мерењима и израдом рударских планова, руковођења пословима заштите на раду, стручног надзора при експлоатацији минералних сировина, као и других стручних послова за чије је обављање као услов прописано овлашћење за обављање тих послова.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Стручни испит полаже се по програму прописаном овим правилником и састоји се из општег и посебног дела.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Општи део стручног испита полаже се према јединственом програму.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Посебни део стурчног испита полаже се према посебно утврђеном програму за одређени степен школске спреме.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Лице које је положило стручни испит предвиђен за нижи степен школске спреме, а накнадно заврши виши степен школске спреме, полаже само посебни део стручног испита предвиђен за тај степен школске спреме.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Лице које је положило стурчни испит према другим прописима, за обављање послова из <ref>члана 1. овог</ref> правилника полаже само посебни део стручног испита.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Стручни испит према одредбама овог правилника полажу лица која имају високу школску спрему, вишу школску спрему и средњу школску спрему рударске, геодетске или друге одговарајуће техничке струке, као и лица са завршеном средњом школом у трогодишњем трајању (КВ), петим степеном стручне спреме (ВКВ) и вишом школом за образовање радника техничке струке, за обављање послова надзорника и пословође при експлоатацији минералних сировина.*</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Право на полагање стурчног испита, лица из става 1. овог члана стичу са најмање 2 године радног искуства на пословима експлоатације минералних сировина.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<heading>*<ref id="ref5" href="/rs/act/1996/47/srp@">Службени гласник РС, број 47/1996</ref></heading>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Стручни испит се полаже пред Комисијом за полагање стручног испита (у даљем тексту: Комисија) коју образује министар надлежан за послове рударства (у даљем тексту: министар).</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Комисија има председника и два члана, који имају заменике.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>На предлог председника Комисије могу се за поједине предмете ангажовати испитивачи ван састава Комисије.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>О ангажовању испитивача из става 3. овог члана министар доноси посебно решење.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav5">
+						<content>
+							<p>Председнику, члановима Комисије и испитивачу припада накнада чија се висина одређује решењем о образовању Комисије.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Административно-стручне и техничке послове везане за полагање стурчног испита обавља Савез инжењера и техничара Србије, Београд.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Уговором који закључују министарство надлежно за послове рударства (у даљем тексту: Министарство) и организација из става 1. овог члана, ближе се уређују питања услова и начина организовања и висине трошкова полагања стручног испита.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Трошкове полагања стручног испита, као и трошкове полагања поправног испита, сноси лице које полаже стручни испит (у даљем тексту: кандидат) или предузеће, односно друго правно лице, у коме је кандидат запослен.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Писмену пријаву за полагање стурчног испита кандидат подноси организацији из <ref>члана 6. став 1. овог</ref> правилника.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Пријава из става 1. овог члана садржи:</p>
+							<point id="clan8-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> име, очево име и презиме кандидата;</p>
+								</content>
+							</point>
+							<point id="clan8-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> датум и место рођења кандидата;</p>
+								</content>
+							</point>
+							<point id="clan8-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> врсту школске спреме и смер који је кандидат завршио;</p>
+								</content>
+							</point>
+							<point id="clan8-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> назив предузећа у коме је кандидат запослен, врсту послова које обавља и године радног искуства;</p>
+								</content>
+							</point>
+							<point id="clan8-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> предлог теме за израду писменог рада;*</p>
+								</content>
+							</point>
+							<point id="clan8-stav2-tac6">
+								<num>6)</num>
+								<content>
+									<p>* врсту испита за коју се кандидат пријављује и у ком испитном року жели да полаже.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>Уз пријаву кандидат прилаже:</p>
+							<point id="clan8-stav3-tac1">
+								<num>1)</num>
+								<content>
+									<p> извод из матичне књиге рођених,</p>
+								</content>
+							</point>
+							<point id="clan8-stav3-tac2">
+								<num>2)</num>
+								<content>
+									<p> оверен препис дипломе или сведочанство о завршеној школи,</p>
+								</content>
+							</point>
+							<point id="clan8-stav3-tac3">
+								<num>3)</num>
+								<content>
+									<p> потврду предузећа о врсти послова на којима је кандидат радио и о радном искуству.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<heading>*<ref id="ref6" href="/rs/act/1996/47/srp@">Службени гласник РС, број 47/1996</ref></heading>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Кандидату који је приложио прописане доказе Комисија у обавештењу о испуњености услова за полагање стручних испита одређује тему и рок за достављање писменог рада. Тему за израду писменог рада може предложити кандидат или предузеће у коме је кандидат запослен.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Из оправданих разлога, а на писмени захтев кандидата, рок за достављање писменог стручног рада може се продужити, с тим што се писмени рад мора доставити најкасније 15 дана пре полагања стручног испита.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Писмени рад оцењује испитивач.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Кандидат може полагати усмени део испита и општи део испита ако је писмени рад позитивно оцењен од стране испитивача.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Кандидат се на стручном испиту оцењује за општи део једном оценом, а за посебни део из сваког предмета посебно.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Коначан успех кандидата на стурчном испиту утврђује Комисија.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav3">
+						<content>
+							<p>Успех кандидата на стручном испиту оцењује се оценом „положио” или „није положио”.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav4">
+						<content>
+							<p>Оценом „није положио” оцењује се кандидат који није показао довољан успех из општег дела и једног предмета из посебног дела испита, или ако није показао довољан успех из два предмета посебног дела.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Кандидат који није показао довољан успех из општег дела или из једног предмета посебног дела може полагати поправни испит у року који не може бити краћи од три месеца од дана када је испит полагао.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Ако кандидат не приступи полагању стручног испита или пре почетка полагања стручног испита изјави да одустаје од испита, сматраће се да није ни полагао испит.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan14">
+				<num>14.</num>
+				<content>
+					<clause id="clan14-stav1">
+						<content>
+							<p>Ако кандидат неоправдано одустане од започетог полагања стручног испита, сматраће се да испит није положио.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav2">
+						<content>
+							<p>Започето полагање стручног испита може се одложити ако је кандидат због болести или из других оправданих разлога био спречен да настави полагање стручног испита.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav3">
+						<content>
+							<p>Захтев за одлагање испита из става 2. овог члана кандидат подноси Комисији.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan15">
+				<num>15.</num>
+				<content>
+					<clause id="clan15-stav1">
+						<content>
+							<p>О полагању стручног испита води се записник који садржи: име и презиме кандидата; степен стручне спреме; назив предузећа или другог правног лица у коме је кандидат запослен; састав Комисије и име и презиме испитивача; датум и место полагања стручног испита; тему писменог рада; постављена питања; оцену из сваког предмета* и закључак о одлагању или неодлагању стручног испита или о упућивању на поновно полагање испита из једног предмета.</p>
+						</content>
+					</clause>
+					<clause id="clan15-stav2">
+						<content>
+							<p>Записник потписују председник, чланови Комисије и испитивач.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan16">
+				<num>16.</num>
+				<heading>*<ref id="ref7" href="/rs/act/1996/47/srp@">Службени гласник РС, број 47/1996</ref></heading>
+				<content>
+					<clause id="clan16-stav1">
+						<content>
+							<p>На основу записника о полагању стручног испита кандидату се издаје уверење о положеном стручном испиту.</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav2">
+						<content>
+							<p>Уверење из става 1. овог члана садржи:</p>
+							<point id="clan16-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив Министарства;</p>
+								</content>
+							</point>
+							<point id="clan16-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> пропис на основу кога се издаје уверење;</p>
+								</content>
+							</point>
+							<point id="clan16-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> име, презиме и место рођења кандидата;</p>
+								</content>
+							</point>
+							<point id="clan16-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> врсту послова за чије обављање је кандидат положио стручни испит.</p>
+								</content>
+							</point>
+							<point id="clan16-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> регистарски број евиденције;</p>
+								</content>
+							</point>
+							<point id="clan16-stav2-tac6">
+								<num>6)</num>
+								<content>
+									<p> датум издавања уверења;</p>
+								</content>
+							</point>
+							<point id="clan16-stav2-tac7">
+								<num>7)</num>
+								<content>
+									<p> потпис председника Комисије и овлашћеног лица Министарства.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan16-stav3">
+						<content>
+							<p>Уверење из става 1. овог члана оверава се печатом Министарства.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan17">
+				<num>17.</num>
+				<content>
+					<clause id="clan17-stav1">
+						<content>
+							<p>Евиденцију лица која су полагала стручни испит води организација из <ref>члана 6. овог</ref> правилника и по окончању испитног рока, са примерком уверења, доставља је Министарству.</p>
+						</content>
+					</clause>
+					<clause id="clan17-stav2">
+						<content>
+							<p>Евиденција садржи податке о кандидату и то: име и презиме, годину и место рођења, пребивалиште, време полагања стручног испита као и податке о успеху на испиту.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan18">
+				<num>18.</num>
+				<content>
+					<clause id="clan18-stav1">
+						<content>
+							<p>Општи део стручног испита обухвата следеће градиво:</p>
+							<point id="clan18-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> Уставно уређење – Основи уставног уређења Савезне Републике Југославије и Републике Србије; карактер савезне државе и Републике Србије; слободе, права и дужности човека и грађанина (по Уставу Савезне Републике Југославије и Уставу Републике Србије); економско и социјално уређење; надлежност Савезне Републике Југославије и права и дужности Републике Србије; органи Савезне Републике Југославије и органи Републике Србије; уставност и законитост; територијална организација Републике Србије; доношење и промена савезног и републичког устава.</p>
+								</content>
+							</point>
+							<point id="clan18-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> Радни односи – Заснивање радног односа. – Распоређивање радника. – Права радника за чијим је радом престала потреба. – Радно време. – Одмори и одсуства. – Зараде и накнаде. – Заштита радника. – Одговорност радника. – Престанак радног односа. – Заштита права радника. – Пословодни орган предузећа. – Организовани прекид рада запослених (штрајк).</p>
+								</content>
+							</point>
+							<point id="clan18-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> Управни поступак – Начела управног поступка. – Стварна и месна надлежност. – Сранка у управном поступку. – Покретање управног поступка (по захтеву странке и по службеној дужности). – Доказивање у управном поступку. – Достављање. – Рокови. – Решења (саставни делови, рокови за доношење решења). – Жалба и поступак по жалби. – Појам коначног, извршног и правоснажног решења. – Извршење решења. – Трошкови управног поступка.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan18-stav2">
+						<content>
+							<p>Правни извори и литература:</p>
+							<point id="clan18-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> Устав Савезне Републике Југославије („<ref id="ref8" href="/rs/act/92/1/srp@">Службени лист Савезне Републике Југославије”, број 1/92</ref>);</p>
+								</content>
+							</point>
+							<point id="clan18-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> Устав Републике Србије („<ref id="ref9" href="/rs/act/90/1/srp@">Службени гласник РС”, број 1/90</ref>);</p>
+								</content>
+							</point>
+							<point id="clan18-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> Закон о радним односима („<ref id="ref10" href="/rs/act/91/45/srp@">Службени гласник РС”, бр. 45/91, 70/91, 18/92, 34/94, 48/94, 49/95</ref> и 53/95);</p>
+								</content>
+							</point>
+							<point id="clan18-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> Закон о општем управом поступку („<ref id="ref11" href="/rs/act/86/47/srp@">Службени лист СФРЈ”, број 47/86</ref>).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan19">
+				<num>19.</num>
+				<content>
+					<clause id="clan19-stav1">
+						<content>
+							<p>Посебни део стручног испита обухвата:</p>
+							<point id="clan19-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> Писмени део испита:</p>
+									<alinea id="clan19-stav1-tac1-ali1">
+										<content>
+											<p>зрада писменог стурчног рада односно пројекта.</p>
+										</content>
+									</alinea>
+								</content>
+							</point>
+							<point id="clan19-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> Усмени део испита:</p>
+									<alinea id="clan19-stav1-tac2-ali1">
+										<content>
+											<p>дбрана стручног рада;</p>
+										</content>
+									</alinea>
+									<alinea id="clan19-stav1-tac2-ali2">
+										<content>
+											<p>ровера познавања закона, техничких прописа, норматива, стандарда и других прописа из области из које кандидат полаже стручни испит;</p>
+										</content>
+									</alinea>
+									<alinea id="clan19-stav1-tac2-ali3">
+										<content>
+											<p>рописе из области заштите на раду при експлоатацији минералних сировина.</p>
+										</content>
+									</alinea>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan20">
+				<num>20.</num>
+				<content>
+					<clause id="clan20-stav1">
+						<content>
+							<p>Писмени рад кандидат израђује под надзором испитивача из чије области је тема писменог рада и у зависности од степена школске спреме, састоји се од израде:</p>
+							<point id="clan20-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> за високу школску спрему – главног и допунског рударског пројекта;</p>
+								</content>
+							</point>
+							<point id="clan20-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> за вишу школску спрему – техничког или упрошћеног рударског пројекта;</p>
+								</content>
+							</point>
+							<point id="clan20-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> за средњу школску спрему – упрошћеног рударског пројекта;</p>
+								</content>
+							</point>
+							<point id="clan20-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> за трећи степен образовања (КВ) пети степен стручне спреме (ВКВ) и вишу школу за образовање радника техничке струке – упрошћеног рударског пројекта, или извођачког пројекта за делове технолошког процеса, реконструкције или ремонта.*</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan21">
+				<num>21.</num>
+				<heading>*<ref id="ref12" href="/rs/act/1996/47/srp@">Службени гласник РС, број 47/1996</ref></heading>
+				<content>
+					<clause id="clan21-stav1">
+						<content>
+							<p>Усмени део испита за кандидате рударске струке обухвата:</p>
+							<point id="clan21-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> одбрану писменог стручног рада;</p>
+								</content>
+							</point>
+							<point id="clan21-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> проверу познавања закона, техничких прописа, норматива, стандарда и других прописа из области из које кандидат полаже стручни испит;</p>
+								</content>
+							</point>
+							<point id="clan21-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> провера познавања прописа из области заштите на раду при експлатацији минералних сировина.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan21-stav2">
+						<content>
+							<p>Усмени део испита за кандидате других техничких струка обухвата одбрану и проверу знања из става 1. тач. 1. и 2. овог члана.</p>
+						</content>
+					</clause>
+					<clause id="clan21-stav3">
+						<content>
+							<p>Правни извори и литература:</p>
+							<point id="clan21-stav3-tac1">
+								<num>1)</num>
+								<content>
+									<p> Закон о рударству („<ref id="ref13" href="/rs/act/95/44/srp@">Службени гласник РС”, број 44/95</ref>),</p>
+								</content>
+							</point>
+							<point id="clan21-stav3-tac2">
+								<num>2)</num>
+								<content>
+									<p> Закон о заштити на раду („<ref id="ref14" href="/rs/act/91/42/srp@">Службени гласник РС”, број 42/91</ref>),</p>
+								</content>
+							</point>
+							<point id="clan21-stav3-tac3">
+								<num>3)</num>
+								<content>
+									<p> Закон о заштити од пожара („<ref id="ref15" href="/rs/act/88/37/srp@">Службени гласник СРС”, бр. 37/88, 53/93, 67/93</ref> и 48/94),</p>
+								</content>
+							</point>
+							<point id="clan21-stav3-tac4">
+								<num>4)</num>
+								<content>
+									<p> Уредба о мерама заштите од пожара при извођењу радова заваривања, резања и лемљења („<ref id="ref16" href="/rs/act/79/50/srp@">Службени гласник СРС, број 50/79</ref>),</p>
+								</content>
+							</point>
+							<point id="clan21-stav3-tac5">
+								<num>5)</num>
+								<content>
+									<p> Правилник о садржини рударских пројеката („<ref id="ref17" href="/rs/act/84/10/srp@">Службени гласник СРС”, број 10/84</ref>),</p>
+								</content>
+							</point>
+							<point id="clan21-stav3-tac6">
+								<num>6)</num>
+								<content>
+									<p> Правилник о мерама заштите при руковању експлозивним средствима и минирању у рударству („<ref id="ref18" href="/rs/act/67/9/srp@">Службени лист СФРЈ”, број 9/67</ref>),</p>
+								</content>
+							</point>
+							<point id="clan21-stav3-tac7">
+								<num>7)</num>
+								<content>
+									<p> Правилник о техничким нормативима за подземну експлоатацију угља („<ref id="ref19" href="/rs/act/89/4/srp@">Службени лист СФРЈ”, бр. 4/89</ref> и 54/90),</p>
+								</content>
+							</point>
+							<point id="clan21-stav3-tac8">
+								<num>8)</num>
+								<content>
+									<p> Правилник о техничким нормативима за површинску експлоатацију лежишта минералних сировина („<ref id="ref20" href="/rs/act/86/4/srp@">Службени лист СФРЈ”, број 4/86</ref>),</p>
+								</content>
+							</point>
+							<point id="clan21-stav3-tac9">
+								<num>9)</num>
+								<content>
+									<p> Правилник о техничким нормативима за површинску експлоатацију архитектонско грађевинског камена (украсног камена) техничког камена, шљунка и песка и прераду архитектонског грађевинског камена („<ref id="ref21" href="/rs/act/86/11/srp@">Службени лист СФРЈ”, број 11/86</ref>),</p>
+								</content>
+							</point>
+							<point id="clan21-stav3-tac10">
+								<num>10)</num>
+								<content>
+									<p> Правилник о техничким нормативима при руковању експлозивним средствима и минирању у рударству („<ref id="ref22" href="/rs/act/88/26/srp@">Службени лист СФРЈ”, број 26/88</ref>),</p>
+								</content>
+							</point>
+							<point id="clan21-stav3-tac11">
+								<num>11)</num>
+								<content>
+									<p> Правилник о техничким нормативима при изградњи јамских магацина експлозивних средстава у рудницима са подземном експлоатацијом минералних сировина („<ref id="ref23" href="/rs/act/88/12/srp@">Службени лист СФРЈ”, број 12/88</ref>),</p>
+								</content>
+							</point>
+							<point id="clan21-stav3-tac12">
+								<num>12)</num>
+								<content>
+									<p> Правилник о техничким нормативима за елекетрична постројења, уређаје и инсталације у рудницима са подземном експлоатацијом („<ref id="ref24" href="/rs/act/88/21/srp@">Службени лист СФРЈ”, број 21/88</ref>),</p>
+								</content>
+							</point>
+							<point id="clan21-stav3-tac13">
+								<num>13)</num>
+								<content>
+									<p> Правилник о техничким нормативима за електрична постројења и уређаје у рудницима са површинском експлоатацијом минералних сировина („<ref id="ref25" href="/rs/act/87/66/srp@">Службени лист СФРЈ”, број 66/87</ref>),</p>
+								</content>
+							</point>
+							<point id="clan21-stav3-tac14">
+								<num>14)</num>
+								<content>
+									<p> Правилник о техничким нормативима при превозу људи и материјала окнима рудника („<ref id="ref26" href="/rs/act/92/18/srp@">Службени лист СРЈ”, број 18/92</ref>),</p>
+								</content>
+							</point>
+							<point id="clan21-stav3-tac15">
+								<num>15)</num>
+								<content>
+									<p> Правилник о техничким нормативима за машине са дизел моторима које се користе при подземним рударским радовима у неметанским јамама („<ref id="ref27" href="/rs/act/78/66/srp@">Службени лист СФРЈ”, број 66/78</ref>),</p>
+								</content>
+							</point>
+							<point id="clan21-stav3-tac16">
+								<num>16)</num>
+								<content>
+									<p> Правилник о техничким нормативима за истраживање, добијање и припрему нуклеарних минералних сировина („<ref id="ref28" href="/rs/act/85/39/srp@">Службени лист СФРЈ”, број 39/85</ref>),</p>
+								</content>
+							</point>
+							<point id="clan21-stav3-tac17">
+								<num>17)</num>
+								<content>
+									<p> Правилник о техничким нормативима за припремање минералних сировина – руда обојених метала („<ref id="ref29" href="/rs/act/79/36/srp@">Службени лист СФРЈ”, број 36/79</ref>),</p>
+								</content>
+							</point>
+							<point id="clan21-stav3-tac18">
+								<num>18)</num>
+								<content>
+									<p> Правилник о техничким нормативима при истраживању и експлоатацији нафте, земних гасова и слојних вода („<ref id="ref30" href="/rs/act/79/43/srp@">Службени лист СФРЈ”, бр. 43/79, 41/81</ref> и 15/82),</p>
+								</content>
+							</point>
+							<point id="clan21-stav3-tac19">
+								<num>19)</num>
+								<content>
+									<p> Правилник о техничким нормативима за подземну експлоатацију металичних и неметаличних минералних сировина („<ref id="ref31" href="/rs/act/91/24/srp@">Службени лист СФРЈ”, број 24/91</ref>),</p>
+								</content>
+							</point>
+							<point id="clan21-stav3-tac20">
+								<num>20)</num>
+								<content>
+									<p> Правилник о техничким нормативима при превозу људи у рудницима са подземном експлоатацијом минералних сировина хоризонталним и косим просторијама („<ref id="ref32" href="/rs/act/89/34/srp@">Службени лист СФРЈ”, број 34/89</ref>),</p>
+								</content>
+							</point>
+							<point id="clan21-stav3-tac21">
+								<num>21)</num>
+								<content>
+									<p> Правилник о техничким нормативима за превоз транспортерима са траком у рударству („<ref id="ref33" href="/rs/act/73/5/srp@">Службени лист СФРЈ”, број 5/73</ref>),</p>
+								</content>
+							</point>
+							<point id="clan21-stav3-tac22">
+								<num>22)</num>
+								<content>
+									<p> Прописи о техничким мерама и заштити на раду при рударским подземним радовима („<ref id="ref34" href="/rs/act/67/11/srp@">Службени лист СФРЈ”, број 11/67</ref>),</p>
+								</content>
+							</point>
+							<point id="clan21-stav3-tac23">
+								<num>23)</num>
+								<content>
+									<p> Стандарди из противексплозивне заштите издати од Завода за стандардизацију групе ЈУС Н.С. 8.000 – Н.С. 8.999.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan22">
+				<num>22.</num>
+				<content>
+					<clause id="clan22-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan22-stav2">
+						<content>
+							<p>Број 110–00–7/96–07</p>
+						</content>
+					</clause>
+					<clause id="clan22-stav3">
+						<content>
+							<p>У Београду, 12. марта 1996. године</p>
+						</content>
+					</clause>
+					<clause id="clan22-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan22-stav5">
+						<content>
+							<p>проф. др  Драган Костић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

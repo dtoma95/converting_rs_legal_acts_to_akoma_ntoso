@@ -1,0 +1,1253 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2010/2-99/main"/>
+					<FRBRuri value="/rs/act/2010/2-99"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2015/90-43/srp@/main"/>
+					<FRBRuri value="/rs/act/2015/90-43/srp@"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2015/90-43/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2015/90-43/srp@.akn"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2010-1-15" name="службени гласник рс“" number="2" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Статут" value="статут"/>
+				<keyword id="oblast" showAs="VII РАДНИ ОДНОСИ И ЗАПОШЉАВАЊЕ" value="vii радни односи и запошљавање"/>
+				<keyword id="grupa" showAs="3. Запошљавање и упућивање запослених на привремени рад у иностранство" value="3. запошљавање и упућивање запослених на привремени рад у иностранство"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2009-12-08" id="usvajanje"/>
+				<step date="2010-01-23" id="stupanje_na_snagu"/>
+				<step date="2010-01-23" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="2/2010-99" id="e1" type="generation"/>
+				<eventRef date="43/2011-111" id="e2" type="amendment"/>
+				<eventRef date="16/2012-50" id="e3" type="amendment"/>
+				<eventRef date="90/2015-43" id="e4" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 13. став 1. тачка 1</ref>. Закона о запошљавању и осигурању за случај незапослености („<ref id="ref6" href="/rs/act/09/36/srp@">Службени гласник РС”, број 36/09</ref>),</p>
+			<p>Управни одбор Националне службе за запошљавање, на седници одржаној 8. децембра 2009. године, донео је</p>
+		</preamble>
+		<preface>
+			<authority>СТАТУТ</authority>
+			<title>Националне службе за запошљавање</title>
+			<date>„Службени гласник РС“, бр. 2 од 15. јануара 2010,  43 од 14. јуна 2011, 16 од 7. марта 2012, 90 од 30. октобра 2015.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОСНОВНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Национална служба за запошљавање (у даљем тексту: Националнаслужба), основана је Законом о запошљавању и осигурању за случај незапослености („<ref id="ref7" href="/rs/act/03/71/srp@">Службени гласник РС”, бр. 71/03</ref> и 84/04 – др. закон) и наставља са радом у складу са Законом о запошљавању и осигурању за случај незапослености („<ref id="ref8" href="/rs/act/09/36/srp@">Службени гласник РС”, број 36/09</ref> – у даљем тексту: Закон).</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan1-stav2">
+								<content>
+									<p>У Националној служби образују се Покрајинска служба, филијале и друге организационе јединице утврђене општим актомНационалне службе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Овим статутом ближе се уређује делатност Националне службе, органи, делокруг и начин њиховог рада, услови за именовање директора и заменика директора, директора Покрајинске службе и избор директора филијале, заступање и представљање Националне службе, организација Националне службе, средства Националне службе, као и друга питања од значаја за рад Националнеслужбе, у складу са законом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Национална служба је правно лице, са статусом организације за обавезно социјално осигурање са правима и обавезама утврђеним Законом, другим прописима и овим статутом.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav2">
+								<content>
+									<p>Национална служба је носилац свих права, обавеза и одговорности у правном промету у односу на средства са којима располаже и уписана је у регистар надлежног органа, у складу са законом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla1-clan4-stav1">
+								<content>
+									<p>Седиште Националне службе је у  Крагујевцу, ул. Светозара Марковића бр. 37.*</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan5">
+						<num>5.</num>
+						<heading>*<ref id="ref9" href="/rs/act/2011/43/srp@">Службени гласник РС, број 43/2011</ref></heading>
+						<content>
+							<clause id="gla1-clan5-stav1">
+								<content>
+									<p>Рад Националне службе је јаван.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan5-stav2">
+								<content>
+									<p>Јавност рада обезбеђује се у складу са законом и одредбама овог статута.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla1-clan6-stav1">
+								<content>
+									<p>Назив Националне службе је: Национална служба за запошљавање.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan6-stav2">
+								<content>
+									<p>Национална служба у пословању са иностранством, поред назива на српском језику може употребљавати и назив на енглеском језику: „Натионал Емплоyмент Сервице”.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla1-clan7-stav1">
+								<content>
+									<p>Национална служба има свој лого чији облик и садржину утврђује директор Националне службе.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan7-stav2">
+								<content>
+									<p>Лого из става 1. овог члана употребљава се самостално или уз назив Националне службе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla1-clan8-stav1">
+								<content>
+									<p>Национална служба има печат и штамбиљ.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan8-stav2">
+								<content>
+									<p>Садржина, облик и величина печата и штамбиља уређује се одлуком управног одбора Националне службе, у складу са одредбама закона којим се уређује печат државних и других органа и упутства којим се уређује канцеларијско пословање органа државне управе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ДЕЛАТНОСТ НАЦИОНАЛНЕ СЛУЖБЕ ЗА ЗАПОШЉАВАЊЕ</heading>
+				<content>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>Национална служба обавља послове запошљавања, осигурања за случај незапослености, остваривање права из осигурања за случај незапослености и друга права у складу са законом, односно послове вођења евиденција у области запошљавања, као истручно-организационе, управне, економско-финансијске и друге опште послове у области запошљавања и осигурања за случај незапослености, у складу са законом, овим статутом и другим актима Националне службе.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav2">
+								<content>
+									<p>Делокруг рада Националне службе је:</p>
+									<point id="gla2-clan9-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> обавештавање о могућностима и условима за запошљавање;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> спровођење мера активне политике запошљавања:</p>
+											<alinea id="gla2-clan9-stav2-tac2-ali1">
+												<content>
+													<p>осредовање у земљи и иностранству у запошљавању лица која траже запослење;</p>
+												</content>
+											</alinea>
+											<alinea id="gla2-clan9-stav2-tac2-ali2">
+												<content>
+													<p>рофесионална оријентација и саветовање о планирању каријере;</p>
+												</content>
+											</alinea>
+											<alinea id="gla2-clan9-stav2-tac2-ali3">
+												<content>
+													<p>убвенција за запошљавање;</p>
+												</content>
+											</alinea>
+											<alinea id="gla2-clan9-stav2-tac2-ali4">
+												<content>
+													<p>одршка самозапошљавању;</p>
+												</content>
+											</alinea>
+											<alinea id="gla2-clan9-stav2-tac2-ali5">
+												<content>
+													<p>одатно образовање и обука;</p>
+												</content>
+											</alinea>
+											<alinea id="gla2-clan9-stav2-tac2-ali6">
+												<content>
+													<p>одстицаји за кориснике новчане накнаде;</p>
+												</content>
+											</alinea>
+											<alinea id="gla2-clan9-stav2-tac2-ali7">
+												<content>
+													<p>авни радови и</p>
+												</content>
+											</alinea>
+											<alinea id="gla2-clan9-stav2-tac2-ali8">
+												<content>
+													<p>руге мере усмерене ка запошљавању лица која траже запослење;</p>
+												</content>
+											</alinea>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> издавање дозволе за рад странцу, у складу са законом;*</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> остваривање права из осигурања за случај незапослености;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> осигурање за случај незапослености;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> вођење евиденција у области запошљавања у складу са Законом;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> запошљавање у иностранству;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav2-tac8">
+										<num>8)</num>
+										<content>
+											<p> заштита лица која се запошљавају у иностранству;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav2-tac9">
+										<num>9)</num>
+										<content>
+											<p> доношење решења о процењеној радној способности и могућности запослења или одржања запослења особа са инвалидитетом;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav2-tac10">
+										<num>10)</num>
+										<content>
+											<p> подстицање запошљавања особа са инвалидитетом;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav2-tac11">
+										<num>11)</num>
+										<content>
+											<p> професионална рехабилитација особа са инвалидитетом и</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav2-tac12">
+										<num>12)</num>
+										<content>
+											<p> други послови прописани законом, другим прописима, овим статутом укључујући:</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav3">
+								<content>
+									<p>брисане су раније алинеје прва и друга (види <ref>члан 1.  </ref>Одлуке - 90/2015-43)</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<section id="gla2-od84">
+						<num>84.</num>
+						<heading>30 Обавезно социјално осигурање*</heading>
+						<content>
+							<clause id="gla2-od84-clan9-stav1">
+								<content>
+									<p>Поред послова из става 1. овог члана Покрајинска служба:</p>
+									<point id="gla2-od84-clan9-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> даје сагласност на општа акта предузећа за радно оспособљавање и запошљавање особа са инвалидитетом и обезбеђује средства за њихово финансирање, у складу са законом;</p>
+										</content>
+									</point>
+									<point id="gla2-od84-clan9-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> даје предлог за реализацију Националног акционог плана на територији АП Војводине;</p>
+										</content>
+									</point>
+									<point id="gla2-od84-clan9-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> образује информациони подсистем, као део јединственог информационог система Националне службе, у складу са законом;</p>
+										</content>
+									</point>
+									<point id="gla2-od84-clan9-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> координира радом филијала Националне службе на територији АП Војводина по овлашћењу директора Националне службе;</p>
+										</content>
+									</point>
+									<point id="gla2-od84-clan9-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> обавља и друге послове у складу са законом и општим актима Националне службе.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<article id="gla2-od84-clan10">
+								<num>10.</num>
+								<heading>*<ref id="ref10" href="/rs/act/2015/90/srp@">Службени гласник РС, број 90/2015</ref></heading>
+								<content>
+									<clause id="gla2-od84-clan10-stav1">
+										<content>
+											<p>Услуге које пружа Национална служба послодавцу, а за које се плаћа накнада прописује Влада.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ОРГАНИ НАЦИОНАЛНЕ СЛУЖБЕ</heading>
+				<content>
+					<article id="gla3-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla3-clan11-stav1">
+								<content>
+									<p>Органи Националне службе су: управни одбор и директор Националне службе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla3-clan12-stav1">
+								<content>
+									<p>На чланове управног одбора и директора Националне службе, као и на директора Покрајинске службе примењују се одредбе закона којим се уређује спречавање сукоба јавноги приватногинтереса при вршењу јавних функција.</p>
+									<тачка id="gla3-clan12-stav1-tac1">
+										<num>1.</num>
+										<content>
+											<p> Управни одбор</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla3-clan13-stav1">
+								<content>
+									<p>Управни одбор управља радом Националне службе.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav2">
+								<content>
+									<p>Управни одбор Националне службе има седам* чланова који се именују на период од четири године.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav3">
+								<content>
+									<p>Чланови управног одбора могу бити именовани на јавну функцију у Националној служби највише два пута.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav4">
+								<content>
+									<p>Чланове управног одбора и међу њима и председника именује и разрешава Влада, и то:</p>
+									<тачка id="gla3-clan13-stav4-tac1">
+										<num>1.</num>
+										<content>
+											<p> четири члана   укључујући и председника* на предлог министра надлежног  за послове запошљавања * ,</p>
+										</content>
+									</тачка>
+									<тачка id="gla3-clan13-stav4-tac2">
+										<num>2.</num>
+										<content>
+											<p> три* члана на предлог Социјално-економског савета за Републику Србију.*</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav5">
+								<content>
+									<p>Брисан је ранији став 5. (види <ref>члан 2. </ref>Одлуке - 90/2015-43)</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan14">
+						<num>14.</num>
+						<heading>*<ref id="ref11" href="/rs/act/2015/90/srp@">Службени гласник РС, број 90/2015</ref></heading>
+						<content>
+							<clause id="gla3-clan14-stav1">
+								<content>
+									<p>Управни одбор, поред послова утврђених Законом, обавља и следеће послове:</p>
+									<point id="gla3-clan14-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> именује и разрешава заменика директора Националне службе, на предлог директора Националне службе;</p>
+										</content>
+									</point>
+									<point id="gla3-clan14-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> именује и разрешава директора Покрајинске службе на предлог надлежног органа АП Војводина;</p>
+										</content>
+									</point>
+									<point id="gla3-clan14-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> закључује уговор о раду, односно уговор о међусобним правима, обавезама и одговорностима са директором Националне службе;</p>
+										</content>
+									</point>
+									<point id="gla3-clan14-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> доноси одлуке о коришћењу и располагању покретном и непокретном имовином Националне службе;</p>
+										</content>
+									</point>
+									<point id="gla3-clan14-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> доноси план јавних набавки;</p>
+										</content>
+									</point>
+									<point id="gla3-clan14-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> даје мишљење на Споразум о учинку;</p>
+										</content>
+									</point>
+									<point id="gla3-clan14-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> образује комисије и именује њихове чланове и друга стална и повремена радна тела, по потреби;</p>
+										</content>
+									</point>
+									<point id="gla3-clan14-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> доноси пословник о раду управног одбора;</p>
+										</content>
+									</point>
+									<point id="gla3-clan14-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> утврђује месечну накнаду члановима управног одбора, осим уколико је накнада утврђена одлуком Владе;</p>
+										</content>
+									</point>
+									<point id="gla3-clan14-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> доноси одлуке о отпису потраживања;</p>
+										</content>
+									</point>
+									<point id="gla3-clan14-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> обавља и друге послове, у складу са законом, овим статутом и другим општим актима Националне службе.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan14-stav2">
+								<content>
+									<p>Управни одбор подноси Министарству полугодишњи извештај о раду Националне службе.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan14-stav3">
+								<content>
+									<p>Управни одбор подноси Влади годишњи извештај о раду и завршни рачун Националне службе, у роковима прописаним законом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla3-clan15-stav1">
+								<content>
+									<p>Управни одбор ради и одлучује на седницама.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan15-stav2">
+								<content>
+									<p>Управни одбор ради на седници којој присуствује више од половине укупног броја чланова.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan15-stav3">
+								<content>
+									<p>Управни одбор одлучује већином гласова укупног броја својих чланова.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan15-stav4">
+								<content>
+									<p>Седнице управног одбора сазива и руководи њиховим радом председник управног одбора, а изузетно у случају његове спречености најстарији члан управног одбора.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan15-stav5">
+								<content>
+									<p>Гласање у управном одбору је јавно, ако управни одбор не одлучи да се о одређеном питању гласа тајно.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan15-stav6">
+								<content>
+									<p>Изузетно, у хитним случајевима, на предлог председника управног одбора, управни одбор може донети одлуку већином гласова укупног броја чланова и путем писмених изјава сваког члана или коришћењем других техничких средстава комуникације.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan15-stav7">
+								<content>
+									<p>Одлуке из става 6. овог члана управни одбор верификује на првој наредној седници.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="gla3-clan16-stav1">
+								<content>
+									<p>Члану управног одбора може престати мандат и пре истека времена за које је именован * оставком, разрешењем, смрћу или наступањем сметњи за обављање функције у складу са законом.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan16-stav2">
+								<content>
+									<p>У случају престанка мандата члана управног одбора пре истека времена за које је именован, именује се нови члан, чији мандат траје до истека мандата члана на чије место се именује.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan17">
+						<num>17.</num>
+						<heading>*<ref id="ref12" href="/rs/act/2015/90/srp@">Службени гласник РС, број 90/2015</ref></heading>
+						<content>
+							<clause id="gla3-clan17-stav1">
+								<content>
+									<p>Директор,* Заменик директора Националне службе, директор Покрајинске службе и представник репрезентативног синдиката имају право и дужност да присуствују седницама управног одбора и учествују у њиховом раду, без права одлучивања.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan18">
+						<num>18.</num>
+						<heading>*<ref id="ref13" href="/rs/act/2015/90/srp@">Службени гласник РС, број 90/2015</ref></heading>
+						<content>
+							<clause id="gla3-clan18-stav1">
+								<content>
+									<p>Ради припремања и утврђивања предлога по појединим питањима из делокруга послова управног одбора, односно Националне службе, управни одбор може да образује комисије и друга стална и повремена радна тела.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan18-stav2">
+								<content>
+									<p>У саставу радних тела могу бити, поред чланова управног одбора, односно запослених у Националној служби и представници других органа и организација.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="gla3-clan19-stav1">
+								<content>
+									<p>Председник управног одбора:</p>
+									<point id="gla3-clan19-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> представља управни одбор;</p>
+										</content>
+									</point>
+									<point id="gla3-clan19-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> сазива седнице управног одбора, предлаже дневни ред и председава седницама;</p>
+										</content>
+									</point>
+									<point id="gla3-clan19-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> покреће расправу о питањима из делокруга управног одбора;</p>
+										</content>
+									</point>
+									<point id="gla3-clan19-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> стара се о примени статута и Пословника о раду управног одбора;</p>
+										</content>
+									</point>
+									<point id="gla3-clan19-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> потписује акта која доноси управни одбор;</p>
+										</content>
+									</point>
+									<point id="gla3-clan19-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> потписује уговор о раду, односно уговор о међусобним правима, обавезама и одговорностима са директором Националне службе и</p>
+										</content>
+									</point>
+									<point id="gla3-clan19-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> обавља и друге послове, у складу са законом и овим статутом.</p>
+										</content>
+									</point>
+									<тачка id="gla3-clan19-stav1-tac2">
+										<num>2.</num>
+										<content>
+											<p> Директор Националне службе</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla3-clan20-stav1">
+								<content>
+									<p>Националну службу представља и заступа директор Националне службе.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan20-stav2">
+								<content>
+									<p>Директора Националне службе именује и разрешава Влада, на период од четири године.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan20-stav3">
+								<content>
+									<p>Директор Националне службе може бити именован на јавну функцију у Националној служби највише два пута.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan21">
+						<num>21.</num>
+						<content>
+							<clause id="gla3-clan21-stav1">
+								<content>
+									<p>Директор Националне службе, поред послова утврђених Законом, обавља и следеће послове:</p>
+									<point id="gla3-clan21-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> предлаже општа акта која доноси управни одбор;</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p>доноси општа акта у складу са законом и овим статутом;</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> закључује уговоре у име и за рачун Националне службе;</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> извршава одлуке управног одбора;</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p>закључује Споразум о учинку са надлежним министарством;</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> покреће иницијативу, пред надлежним органом АП Војводине за разрешење директора Покрајинске службе;</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> доноси појединачна акта у складу са законом и овим статутом;</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> доноси решења у другом степену у поступку остваривања права незапослених на новчану накнаду;</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> брисана је (види <ref>члан 5. </ref>Одлуке - 90/2015-43)</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> стара се о извршењу финансијског плана и плана јавних набавки Националне службе;</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> одлучује о одобравању средстава по мерама активне политике запошљавања;</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac12">
+										<num>12)</num>
+										<content>
+											<p> одлучује о појединачним правима, обавезама и одговорностима запослених у Националној служби;</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac13">
+										<num>13)</num>
+										<content>
+											<p> представља и заступа Националну службу пред свим државним органима и у свим правним пословима;</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac14">
+										<num>14)</num>
+										<content>
+											<p> обезбеђује остваривање јавности рада Националне службе;</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac15">
+										<num>15)</num>
+										<content>
+											<p> врши и друге послове у складу са законом, овим статутом, општим актима и одлукама управног одбора.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan21-stav2">
+								<content>
+									<p>Директор је одговоран за пословање и законитост рада Националне службе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan22">
+						<num>22.</num>
+						<content>
+							<clause id="gla3-clan22-stav1">
+								<content>
+									<p>Директор Националне службе може бити разрешен дужности актом Владе Републике Србије.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan22-stav2">
+								<content>
+									<p>По престанку мандата директор Националне службе има права која му припадају у складу са законом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan23">
+						<num>23.</num>
+						<content>
+							<clause id="gla3-clan23-stav1">
+								<content>
+									<p>Директор Националне службе у складу са законом и овим статутом може одређене послове из своје надлежности пренети на руководеће и друге стручне запослене у Националној служби.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan24">
+						<num>24.</num>
+						<content>
+							<clause id="gla3-clan24-stav1">
+								<content>
+									<p>Директор Националне службе има заменика који га замењује за време његове одсутности или спречености и обавља поверене послове.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan24-stav2">
+								<content>
+									<p>Заменик директора одговоран је за пословање и законитост рада управном одбору и директору Националне службе.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan24-stav3">
+								<content>
+									<p>Мандат заменика директора траје четири године.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan24-stav4">
+								<content>
+									<p>Заменик директора Националне службе може бити разрешен дужности и пре истека времена на које је именован ако функцију заменика директора не врши у складу са законом, овим статутом и општим актима Националне службе, ако му престане радни однос у складу са законом или ако сам поднесе захтев за разрешење.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan25">
+						<num>25.</num>
+						<content>
+							<clause id="gla3-clan25-stav1">
+								<content>
+									<p>За заменика директора Националне службе може бити именовано лице које испуњава услове прописане актом о организацији и систематизацији послова.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan26">
+						<num>26.</num>
+						<content>
+							<clause id="gla3-clan26-stav1">
+								<content>
+									<p>Директора Покрајинске службе АП Војводина именује и разрешава управни одбор на предлог надлежног органа аутономне покрајине.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan26-stav2">
+								<content>
+									<p>Директора Покрајинске службе АП Косово и Метохија именује и разрешава управни одбор на предлог директора Националне службе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan27">
+						<num>27.</num>
+						<content>
+							<clause id="gla3-clan27-stav1">
+								<content>
+									<p>ДиректорПокрајинске службе обавља послове у складу са законом, овим статутом и општим актом Националне службе.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan27-stav2">
+								<content>
+									<p>Директор Покрајинске службе одговоран је за пословање и законитост рада управном одбору и директору Националне службе.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan27-stav3">
+								<content>
+									<p>Мандат директора Покрајинске службе траје четири године.*</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan28">
+						<num>28.</num>
+						<heading>*<ref id="ref14" href="/rs/act/2015/90/srp@">Службени гласник РС, број 90/2015</ref></heading>
+						<content>
+							<clause id="gla3-clan28-stav1">
+								<content>
+									<p>За директора Покрајинске службе може бити именовано лице које испуњава услове прописане актом о организацији и систематизацији послова.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan28-stav2">
+								<content>
+									<p>Директор Покрајинске службе може бити разрешен дужности и пре истека времена на које је именован ако функцију директора не врши у складу са законом, овим статутом и општим актима Националне службе, ако му престане радни однос у складу са законом, ако сам поднесе захтев за разрешење, као и на образложен предлог надлежног органа АП Војводина.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan28-stav3">
+								<content>
+									<p>Директора Покрајинске службе разрешава дужности управни одбор на предлог надлежног органа АП Војводина.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan28-stav4">
+								<content>
+									<p>Директор Покрајинске службе, по спроведеном јавном конкурсу, предлаже директору Националне службе кандидата за избор директора филијала образоване на територији АП Војводине.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan29">
+						<num>29.</num>
+						<content>
+							<clause id="gla3-clan29-stav1">
+								<content>
+									<p>Директор Националне службе по спроведеном јавном конкурсу бира директора филијале, осим директора филијале са територије аутономне покрајине, које бира на предлог директора Покрајинске службе.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan29-stav2">
+								<content>
+									<p>У поступку за избор директора филијале директор може да образује  конкурсну комисију, која вреднује достављени програм развоја филијале, стручну  оспособљеност и друге критеријуме одређене јавним конкурсом.*</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan29-stav3">
+								<content>
+									<p>Директор филијале се бира на период од четири године.*</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan29-stav4">
+								<content>
+									<p>За директора филијале може бити изабрано лице које испуњава услове прописане актом о организацији и систематизацији послова.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan29-stav5">
+								<content>
+									<p>Директор филијале одговоран је директору Националне службе за законитост рада филијале, за спровођење мера активне политике запошљавања и наменско коришћење средстава.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan29-stav6">
+								<content>
+									<p>*<ref id="ref15" href="/rs/act/2015/90/srp@">Службени гласник РС, број 90/2015</ref></p>
+								</content>
+							</clause>
+							<clause id="gla3-clan29-stav7">
+								<content>
+									<p>Члан 29a*</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan29-stav8">
+								<content>
+									<p>Директор филијале може бити премештен на друге послове, у складу са  законом и пре истека времена на које је изабран, уколико се утврди да послове  директора обавља на начин којим се не остварује учинак филијале којом руководи,  утврђен општим и појединачним актима Националне службе и на лични захтев.*</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan29-stav9">
+								<content>
+									<p>*<ref id="ref16" href="/rs/act/2015/90/srp@">Службени гласник РС, број 90/2015</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ОРГАНИЗАЦИЈА НАЦИОНАЛНЕ СЛУЖБЕ</heading>
+				<content>
+					<article id="gla4-clan30">
+						<num>30.</num>
+						<content>
+							<clause id="gla4-clan30-stav1">
+								<content>
+									<p>Национална служба је организована јединствено за територију Републике Србије.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan30-stav2">
+								<content>
+									<p>Ради обављања послова запошљавања, осигурања за случај незапослености, остваривања права из осигурања за случај незапослености, вођења евиденција у области запошљавања, као истручно-организационих, управних, економско-финансијских и других општих послова у области запошљавања и осигурања за случај незапослености, утврђених законом и другим актима Националне службе, у Националној служби се по функционалном и територијалном принципу, образују унутрашње организационе јединице које могу бити основне и уже унутрашње јединице и чије се седиште и послови одређују актом о организацији и систематизацији послова.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan30-stav3">
+								<content>
+									<p>Број и структура запослених у Националној служби и по организационим јединицама утврђује се актом о организацији и систематизацији послова.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>СРЕДСТВА НАЦИОНАЛНЕ СЛУЖБЕ</heading>
+				<content>
+					<article id="gla5-clan31">
+						<num>31.</num>
+						<content>
+							<clause id="gla5-clan31-stav1">
+								<content>
+									<p>Средства Националне службе користе се за намене предвиђене Националним акционим планом запошљавања, програмом рада и финансијским планом Националне службе, у складу са законом и овим статутом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan32">
+						<num>32.</num>
+						<heading>Брисан је  ранији став 2. (види тачку 1. Одлуке - 16/2012-50)</heading>
+						<content>
+							<clause id="gla5-clan32-stav1">
+								<content>
+									<p>Национална служба послује средствима утврђеним чланом 19. Закона на начин којим се обезбеђује уредно остваривање права корисника која се у складу са законом, остварују преко Националне службе, развој и унапређење организације и рада Националне службе и унапређује ефикасност употребе капитала којим располаже.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan33">
+						<num>33.</num>
+						<content>
+							<clause id="gla5-clan33-stav1">
+								<content>
+									<p>Финансијски план Националне службе доноси се за календарску годину, у складу са законом и овим статутом.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan33-stav2">
+								<content>
+									<p>Финансијским планом Националне службе утврђују се приходи и расходи.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan34">
+						<num>34.</num>
+						<content>
+							<clause id="gla5-clan34-stav1">
+								<content>
+									<p>Национална служба послује преко подрачуна у оквиру консолидованог рачуна трезора Републике Србије, подрачуна за посебне намене и подрачуна основних организационих јединица Националне службе.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan34-stav2">
+								<content>
+									<p>Средства за обезбеђење остваривања надлежности Покрајинске службе, користе се преко подрачуна Покрајинске службе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>ОСТВАРИВАЊЕ И ЗАШТИТА ПРАВА</heading>
+				<content>
+					<article id="gla6-clan35">
+						<num>35.</num>
+						<content>
+							<clause id="gla6-clan35-stav1">
+								<content>
+									<p>О правима незапосленог из осигурања за случај незапослености која се остварују у Националној служби, издавању * дозволе за рад* странцу * и доношењу решења о процењеној радној способности и могућности запослења или одржања запослења, одлучује се у поступку прописаном законом којим се уређује општи управни поступак.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan36">
+						<num>36.</num>
+						<heading>*<ref id="ref17" href="/rs/act/2015/90/srp@">Службени гласник РС, број 90/2015</ref></heading>
+						<content>
+							<clause id="gla6-clan36-stav1">
+								<content>
+									<p>О правима незапосленог из осигурања за случај незапослености у првом степену решава филијала надлежна према месту пребивалишта незапосленог или месту престанка радног односа, односно рада, ако незапослени у том месту има боравиште.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan36-stav2">
+								<content>
+									<p>Решење о правима из става 1. овог члана доноси директор филијале, који може за доношење решења да овласти друго лице у филијали.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan37">
+						<num>37.</num>
+						<content>
+							<clause id="gla6-clan37-stav1">
+								<content>
+									<p>О сукобу надлежности између филијала Националне службе основаних по територијалном принципу, у поступку за остваривање права решава директор Националне службе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan38">
+						<num>38.</num>
+						<content>
+							<clause id="gla6-clan38-stav1">
+								<content>
+									<p>У поступку издавања дозволе за рад одлучује, у првом степену филијала  надлежна према месту привременог боравка или сталног настањења странца, односно  према седишту послодавца или месту где се рад обавља, у зависности од врсте  дозволе за рад.*</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan38-stav2">
+								<content>
+									<p>Брисан је ранији став 2. (види <ref>члан 10. </ref>Одлуке - 90/2015-43)</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan38-stav3">
+								<content>
+									<p>Решење из ст. 1. * овог члана доноси директор филијале, који може за доношење решења да овласти друго лице у филијали.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan39">
+						<num>39.</num>
+						<heading>*<ref id="ref18" href="/rs/act/2015/90/srp@">Службени гласник РС, број 90/2015</ref></heading>
+						<content>
+							<clause id="gla6-clan39-stav1">
+								<content>
+									<p>По жалби на решења из чл. 36. * овог статута, у другом степену решава директор Националне службе, који може за доношење решења да овласти друго лице у Националној служби.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan39-stav2">
+								<content>
+									<p>По жалби на решење из <ref>члана 38. овог</ref> статута, решава министар надлежан  за послове запошљавања.*</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan40">
+						<num>40.</num>
+						<heading>*<ref id="ref19" href="/rs/act/2015/90/srp@">Службени гласник РС, број 90/2015</ref></heading>
+						<content>
+							<clause id="gla6-clan40-stav1">
+								<content>
+									<p>Захтев за процену радне способности подноси се надлежној филијали, према месту пребивалишта подносиоца захтева.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan40-stav2">
+								<content>
+									<p>Решење о процењеној радној способности и могућности запослења или одржања запослења, доноси директор филијале који може за доношење решења да овласти друго лице у филијали.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan40-stav3">
+								<content>
+									<p>По жалби на решење из става 2. овог члана решава министар надлежан за послове запошљавања.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla7">
+				<num>VII</num>
+				<heading>ЈАВНОСТ РАДА</heading>
+				<content>
+					<article id="gla7-clan41">
+						<num>41.</num>
+						<content>
+							<clause id="gla7-clan41-stav1">
+								<content>
+									<p>Јавност рада Националне службе остварује се правом заинтересованих лица на све врсте информација из области запошљавања и осигурања за случај незапослености и јавношћу рада органа и филијала Националне службе.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan41-stav2">
+								<content>
+									<p>Национална служба остварује јавност рада путем средстава јавног информисања, одржавањем конференција за новинаре, давањем изјава овлашћених лица, објављивањем на вебсајту, као и другим видовима информисања.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan41-stav3">
+								<content>
+									<p>Јавност рада Националне службе остварује се јавношћу рада управног одбора, подношењем извештаја о пословању и завршног рачуна Националне службе, у складу са законом.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan41-stav4">
+								<content>
+									<p>Управни одбор одлучује о објављивању општих аката Националне службе у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan42">
+						<num>42.</num>
+						<content>
+							<clause id="gla7-clan42-stav1">
+								<content>
+									<p>Национална служба има своје периодично издање публикације и огласа под називом „Послови” и регистрован вебсајт www.нсз.гов.рс.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan42-stav2">
+								<content>
+									<p>За ефикасније информисање запослених у Националној служби, унапређење интерне комуникације између организационих јединица и обезбеђивање расположивости информација, општих и појединачних аката и друге релевантне документације користи се Интранет сајт.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla8">
+				<num>VIII</num>
+				<heading>ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla8-clan43">
+						<num>43.</num>
+						<content>
+							<clause id="gla8-clan43-stav1">
+								<content>
+									<p>Измене и допуне овог статута врше се по поступку за његово доношење.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla8-clan44">
+						<num>44.</num>
+						<content>
+							<clause id="gla8-clan44-stav1">
+								<content>
+									<p>Даном ступања на снагу овог статута престаје да важи Статут Националне службе за запошљавање („<ref id="ref20" href="/rs/act/04/8/srp@">Службени гласник РС”, бр. 8/04, 35/04</ref> – исправка, 70/04, 20/08, 8/09 и 9/09 – исправка).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla8-clan45">
+						<num>45.</num>
+						<content>
+							<clause id="gla8-clan45-stav1">
+								<content>
+									<p>Овај статут ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan45-stav2">
+								<content>
+									<p>Број 0011-110-11/2009</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan45-stav3">
+								<content>
+									<p>У Београду, 8. децембра 2009. године</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan45-stav4">
+								<content>
+									<p>Управни одбор Националне службе за запошљавање</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan45-stav5">
+								<content>
+									<p>Председник,</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan45-stav6">
+								<content>
+									<p>др Михаил Арандаренко, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

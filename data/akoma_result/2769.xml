@@ -1,0 +1,561 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2012/1-116/main"/>
+					<FRBRuri value="/rs/act/2012/1-116"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2012/1-116/srp@/main"/>
+					<FRBRuri value="/rs/act/2012/1-116/srp@"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2012/1-116/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2012/1-116/srp@.akn"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2012-1-11" name="службени гласник рс" number="1" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="3. Ваздух" value="3. ваздух"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-12-22" id="usvajanje"/>
+				<step date="2012-01-19" id="stupanje_na_snagu"/>
+				<step date="2012-01-19" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 60. став 2. </ref>Закона о заштити ваздуха („<ref id="ref1" href="/rs/act/09/36/srp@">Службени гласник РС”, број 36/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар животне средине, рударства и просторног планирања доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о условима за издавање дозволе за мерење квалитета ваздуха и дозволе за мерење емисије из стационарних извора загађивања</title>
+			<date>&quot;Службени гласник РС&quot;, број 1 од 11. јануара   2012.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Уводна одредба</heading>
+				<content>
+					<article id="od1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="od1-clan1-stav1">
+								<content>
+									<p>Овим правилником прописују се ближи услови за издавање дозволе за мерење квалитета ваздуха и дозволе за мерење емисије из стационарних извора загађивања, као и услови које треба да испуњава правно лице основано од стране надлежног органа аутономне покрајине, односно надлежног органа јединице локалне самоуправе, које управља аутоматским мониторингом квалитета ваздуха, прати рад аутоматских станица, прикупља и обрађује податке добијене контролом квалитета ваздуха у локалној мрежи.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Услови за издавање дозволе за мерење квалитета ваздуха</heading>
+				<content>
+					<article id="od2-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="od2-clan2-stav1">
+								<content>
+									<p>Дозвола за мерење квалитета ваздуха издаје се ако су испуњени услови у погледу регистрације за обављање наведених послова, кадрова, опреме, простора и стручне и техничке оспособљености према захтевима стандарда SRPS ISO/IEC 17025, у складу са законом којим се уређује заштита ваздуха.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="od2-clan3-stav1">
+								<content>
+									<p>За мерење квалитета ваздуха услов у погледу кадрова односи се на:</p>
+									<point id="od2-clan3-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> технички одговорно лице – лице са стеченим високим образовањем на студијама другог степена (мастер академске студије, специјалистичке академске студије, специјалистичке струковне студије), односно на основним студијама у трајању од најмање четири године, из образовно-научног поља природно-математичких наука (научна област хемијске, физичко – хемијске, физичке или науке о заштити животне средине) или из образовно-научног поља техничко-технолошких наука (научна област технолошког инжењерства или инжењерства заштите животне средине) и најмање три године радног искуства на пословима мерења квалитета ваздуха; познавање прописа у области заштите ваздуха и то посебно прописа којим се уређују услови за мониторинг и захтеви квалитета ваздуха, познавање типа емисија, техника мерења, метода мерења, методологије успостављања репрезентативних мерних места, познавање утицаја метеоролошких услова на временску и просторну дистрибуцију загађујућих материја и атмосферске хемије; лице не може бити запослено у две или више лабораторија истовремено на истом радном месту;</p>
+										</content>
+									</point>
+									<point id="od2-clan3-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> заменика технички одговорног лица – услови које ово лице мора да испуњава су исти као за лице из тачке 1) овог члана;</p>
+										</content>
+									</point>
+									<point id="od2-clan3-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> техничко особље – најмање два лица са стеченим средњим образовањем или високим образовањем на студијама првог степена (основне академске студије, основне струковне студије), односно на студијама у трајању до три године, или високим образовањем на студијама другог степена (мастер академске студије, специјалистичке академске студије, специјалистичке струковне студије), односно на основним студијама у трајању од најмање четири године, из образовно-научног поља природно-математичких наука (научна област хемијске науке, физичко студијски програм метеорологија или научна област науке о заштити животне средине), или из образовно-научног поља техничко-технолошких наука (научна област технолошког инжењерства или инжењерства заштите животне средине) и најмање две године радног искуства на пословима мерења квалитета ваздуха или било које друге струке са најмање 10 година радног искуства на пословима мерења квалитета ваздуха;</p>
+										</content>
+									</point>
+									<point id="od2-clan3-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> помоћне раднике – најмање два лица са стеченим средњим образовањем (III и IV степен).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od2-clan3-stav2">
+								<content>
+									<p>Општи подаци о правном лицу које врши послове мерења квалитета ваздуха, са обједињеним подацима о кадру које попуњава одговорно лице, односно лице које непосредно врши послове мерења квалитета ваздуха дати су у Прилогу 1 – Општи подаци о правном лицу које врши послове мерења квалитета ваздуха / мерење емисије из стационарних извора загађивања.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="od2-clan4-stav1">
+								<content>
+									<p>За мерењe квалитета ваздуха потребна је одговарајућа опрема за узимање узорака, мерење и испитивање, у складу са прописаним стандардима.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan4-stav2">
+								<content>
+									<p>Одговарајућом опремом, у смислу овог правилника, сматра се опрема која обезбеђује одређивање концентрације загађујућих материја на начин и у складу са прописаним методама.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan4-stav3">
+								<content>
+									<p>Опрема из става 1. овог члана дата је у Прилогу 2 – Опрема за мерење квалитета ваздуха, који је одштампан уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan4-stav4">
+								<content>
+									<p>У складу са захтевима стандарда SRPS ISO/IEC 17025, опрема из става 1. овог члана мора да буде еталонирана и испитана од стране лабораторије која је акредитована за послове еталонирања и испитивања код националног акредитационог тела.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan4-stav5">
+								<content>
+									<p>Подаци о опреми из става 1. овог члана дати су у Прилогу 3 – Подаци о опреми за мерење квалитета ваздуха, који је одштампан уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="od2-clan5-stav1">
+								<content>
+									<p>Простор за обављање послова мерења квалитета ваздуха обухвата:</p>
+									<point id="od2-clan5-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> простор за пријем узорака;</p>
+										</content>
+									</point>
+									<point id="od2-clan5-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> простор за чување узорака;</p>
+										</content>
+									</point>
+									<point id="od2-clan5-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> простор у коме се врши припрема узорака за непосредно мерење;</p>
+										</content>
+									</point>
+									<point id="od2-clan5-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> просторију у оквиру које се врши лабораторијско мерење (анализа узорака);</p>
+										</content>
+									</point>
+									<point id="od2-clan5-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> простор за обраду, проверу валидности и анализу резултата добијених мерењем и/или узимањем узорака и њиховом анализом и за проверу квалитета мерних поступака;</p>
+										</content>
+									</point>
+									<point id="od2-clan5-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> помоћне просторије (за вагу);</p>
+										</content>
+									</point>
+									<point id="od2-clan5-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> простор за прање лабораторијског посуђа са дигестором и вентилацијом;</p>
+										</content>
+									</point>
+									<point id="od2-clan5-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> простор за чување потрошног материјала са посебним орманом за чување запаљивих материја;</p>
+										</content>
+									</point>
+									<point id="od2-clan5-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> простор за чување и одржавање опреме;</p>
+										</content>
+									</point>
+									<point id="od2-clan5-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> просторију за мерење са контролисаним условима температуре и влажности, у случају када је то прописано стандардном методом.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav2">
+								<content>
+									<p>Просторија из става 1. тачка 4) овог члана мора да буде одвојена од осталог простора и њено уређење мора да одговара потребама анализе.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav3">
+								<content>
+									<p>Зидови и подови радног простора морају да буду од одговарајућег материјала и погодни за одржавање.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav4">
+								<content>
+									<p>Захтеви у погледу простора не примењују се у случају када се мерење врши аутоматским мерним уређајима.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav5">
+								<content>
+									<p>Подаци о простору дати су у Прилогу 4 – Подаци о простору за обављање послова мерења квалитета ваздуха / мерење емисије из стационарних извора загађивања, који је одштампан уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="od2-clan6-stav1">
+								<content>
+									<p>Одредбе чл. 2–5. овог правилника односе се и на правно лице основано од стране надлежног органа аутономне покрајине, односно надлежног органа јединице локалне самоуправе, које управља аутоматским мониторингом квалитета ваздуха, прати рад аутоматских станица, прикупља и обрађује податке добијене контролом квалитета ваздуха у локалној мрежи.</p>
+									<тачка id="od2-clan6-stav1-tac3">
+										<num>3.</num>
+										<content>
+											<p> Услови за издавање дозволе за мерење емисије из стационарних извора загађивања</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="od2-clan7-stav1">
+								<content>
+									<p>Дозвола за мерење емисије из стационарних извора загађивања издаје се ако су испуњени услови у погледу регистрације за обављање наведених послова, кадра, опреме, простора и стручне и техничке оспособљености према захтевима стандарда SRPS ISO/IEC 17025, односно стандарда SRPS CEN/TS 15675 који представља техничку спецификацију стандарда SRPS ISO/IEC 17025 за област периодичних мерења емисије из стационарних извора.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="od2-clan8-stav1">
+								<content>
+									<p>За мерење емисије из стационарних извора загађивања услов у погледу кадрова односи се на:</p>
+									<point id="od2-clan8-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> технички одговорно лице – лице са стеченим високим образовањем на студијама другог степена (мастер академске студије, специјалистичке академске студије, специјалистичке струковне студије), односно на основним студијама у трајању од најмање четири године, из образовно-научног поља природно-математичких наука (научна област хемијских, физичко-хемијских наука или науке о заштити животне средине) или из образовно-научног поља техничко-технолошких наука (научна област технолошког, машинског или инжењерства заштите животне средине) и најмање три године радног искуства на пословима мерења емисије; познавање прописа у области заштите ваздуха и то посебно прописа којим се уређују граничне вредности емисија загађујућих материја у ваздух, познавање планирања мерења, методологије успостављања репрезентативних мерних места, техника мерења, метода мерења и граничних услова мерења, познавање разних технологија укључујући производне процесе који узрокују емисије, као и техника пречишћавања отпадних гасова; лице не може бити запослено у две или више лабораторија истовремено на истом радном месту;</p>
+										</content>
+									</point>
+									<point id="od2-clan8-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> заменика технички одговорног лица – услови које ово лице мора да испуњава су исти као за лице из тачке 1) овог члана;</p>
+										</content>
+									</point>
+									<point id="od2-clan8-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> техничко особље – најмање два лица са стеченим средњим образовањем или високим образовањем на студијама првог степена (основне академске студије, основне струковне студије), односно на студијама у трајању до три године, или високим образовањем на студијама другог степена (дипломске студије – мастер, специјалистичке академске студије, специјалистичке струковне студије), односно на основним студијама у трајању од најмање четири године, из образовно-научног поља природно-математичких наука (научна област хемијских наука или науке о заштити животне средине), или из образовно-научног поља техничко-технолошких наука (научна област технолошког инжењерства, машинског инжењерства, електротехничког инжењерства или инжењерства заштите животне средине) и најмање две године радног искуства на пословима мерења емисије или било које друге струке са најмање 10 година радног искуства на пословима мерења емисије;</p>
+										</content>
+									</point>
+									<point id="od2-clan8-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> помоћне раднике – најмање два лица са стеченим средњим образовањем (III и IV степен).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od2-clan8-stav2">
+								<content>
+									<p>Општи подаци о правном лицу које врши послове мерења емисије из стационарних извора загађивања, са обједињеним подацима о кадру које попуњава одговорно лице, односно лице које непосредно врши послове мерења емисије из стационарних извора загађивања дати су у Прилогу 1. овог правилника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="od2-clan9-stav1">
+								<content>
+									<p>За мерењe емисије из стационарних извора загађивања потребна је одговарајућа опрема за узимање узорака и мерење емисије, у складу са прописаним стандардима.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan9-stav2">
+								<content>
+									<p>Одговарајућом опремом, у смислу овог правилника, сматра се опрема која обезбеђује одређивање концентрације загађујућих материја на начин и у складу са прописаним методама.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan9-stav3">
+								<content>
+									<p>Опрема из става 1. овог члана дата је у Прилогу 5 – Опрема за мерење емисије из стационарних извора загађивања, који је одштампан уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan9-stav4">
+								<content>
+									<p>У складу са захтевима стандарда SRPS ISO/IEC 17025, опрема из става 1. овог члана мора да буде еталонирана и испитана у односу на полусатну средњу вредност најмање једном годишње, а њено еталонирање и испитивање врши лабораторија акредитована за послове еталонирања и испитивања код националног акредитационог тела.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan9-stav5">
+								<content>
+									<p>Опрема за узимање узорака и мерење емисије загађујућих материја и потрошни материјали морају да се заштите од оштећења како током чувања у радном простору, тако и током транспорта до стационарног извора загађивања на коме ће се вршити узимање узорака или мерење емисије.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan9-stav6">
+								<content>
+									<p>Подаци о опреми из става 1. овог члана дати су у Прилогу 6 – Подаци о опреми за узимање узорака и мерење емисије из стационарних извора загађивања, који је одштампан уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="od2-clan10-stav1">
+								<content>
+									<p>Простор за обављање послова мерења емисије из стационарних извора загађивања обухвата:</p>
+									<point id="od2-clan10-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> простор за пријем узорака;</p>
+										</content>
+									</point>
+									<point id="od2-clan10-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> простор за чување узорака;</p>
+										</content>
+									</point>
+									<point id="od2-clan10-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> простор у коме се врши припрема узорака за непосредно мерење;</p>
+										</content>
+									</point>
+									<point id="od2-clan10-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> просторију у оквиру које се врши лабораторијско мерење (анализа узорака);</p>
+										</content>
+									</point>
+									<point id="od2-clan10-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> простор за обраду, проверу валидности и анализу резултата добијених мерењем и/или узимањем узорака и њиховом анализом и за проверу квалитета мерних поступака;</p>
+										</content>
+									</point>
+									<point id="od2-clan10-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> помоћне просторије (за вагу);</p>
+										</content>
+									</point>
+									<point id="od2-clan10-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> простор за прање лабораторијског посуђа са дигестором и вентилацијом;</p>
+										</content>
+									</point>
+									<point id="od2-clan10-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> простор за чување потрошног материјала са посебним орманом за чување запаљивих материја;</p>
+										</content>
+									</point>
+									<point id="od2-clan10-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> простор за чување и одржавање опреме;</p>
+										</content>
+									</point>
+									<point id="od2-clan10-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> просторију за мерење са контролисаним условима температуре и влажности, у случају када је то прописано стандардном методом.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od2-clan10-stav2">
+								<content>
+									<p>Просторија из става 1. тачкa 4) овог члана мора да буде одвојена од осталог простора и њено уређење мора да одговара потребама анализе.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan10-stav3">
+								<content>
+									<p>Зидови и подови простора морају да буду од одговарајућег материјала и погодни за одржавање.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan10-stav4">
+								<content>
+									<p>Захтеви у погледу простора из овог члана не примењују се у случају када се мерење врши уређајима за аутоматско мерење.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan10-stav5">
+								<content>
+									<p>Подаци о простору дати су у Прилогу 4. овог правилника.</p>
+									<тачка id="od2-clan10-stav5-tac4">
+										<num>4.</num>
+										<content>
+											<p> Завршне одредбе</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="od2-clan11-stav1">
+								<content>
+									<p>Даном ступања на снагу овог правилника престаје да важи Правилник о ближим условима које морају да испуњавају стручне организације које врше мерења емисије и имисије („<ref id="ref2" href="/rs/act/02/5/srp@">Службени гласник РС”, број 5/02</ref>).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="od2-clan12-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan12-stav2">
+								<content>
+									<p>Број 110-00-160/2011-05</p>
+								</content>
+							</clause>
+							<clause id="od2-clan12-stav3">
+								<content>
+									<p>У Београду, 22. децембра 2011. године</p>
+								</content>
+							</clause>
+							<clause id="od2-clan12-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="od2-clan12-stav5">
+								<content>
+									<p>др   Оливер Дулић, с.р.</p>
+								</content>
+							</clause>
+							<став id="od2-clan12-stav6">
+								<img alt="pravilnik_Page_01.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik_Page_01_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424959&amp;regactid=424959"/>
+								<content/>
+							</став>
+							<став id="od2-clan12-stav7">
+								<img alt="pravilnik_Page_02.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik_Page_02_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424959&amp;regactid=424959"/>
+								<content/>
+							</став>
+							<став id="od2-clan12-stav8">
+								<img alt="pravilnik_Page_03.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik_Page_03_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424959&amp;regactid=424959"/>
+								<content/>
+							</став>
+							<став id="od2-clan12-stav9">
+								<img alt="pravilnik_Page_04.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik_Page_04_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424959&amp;regactid=424959"/>
+								<content/>
+							</став>
+							<став id="od2-clan12-stav10">
+								<img alt="pravilnik_Page_05.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik_Page_05_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424959&amp;regactid=424959"/>
+								<content/>
+							</став>
+							<став id="od2-clan12-stav11">
+								<img alt="pravilnik_Page_06.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik_Page_06_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424959&amp;regactid=424959"/>
+								<content/>
+							</став>
+							<став id="od2-clan12-stav12">
+								<img alt="pravilnik_Page_07.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik_Page_07_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424959&amp;regactid=424959"/>
+								<content/>
+							</став>
+							<став id="od2-clan12-stav13">
+								<img alt="pravilnik_Page_08.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik_Page_08_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424959&amp;regactid=424959"/>
+								<content/>
+							</став>
+							<став id="od2-clan12-stav14">
+								<img alt="pravilnik_Page_09.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik_Page_09_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424959&amp;regactid=424959"/>
+								<content/>
+							</став>
+							<став id="od2-clan12-stav15">
+								<img alt="pravilnik_Page_10.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik_Page_10_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424959&amp;regactid=424959"/>
+								<content/>
+							</став>
+							<став id="od2-clan12-stav16">
+								<img alt="pravilnik_Page_11.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik_Page_11_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424959&amp;regactid=424959"/>
+								<content/>
+							</став>
+							<став id="od2-clan12-stav17">
+								<img alt="pravilnik_Page_12.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik_Page_12_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424959&amp;regactid=424959"/>
+								<content/>
+							</став>
+							<став id="od2-clan12-stav18">
+								<img alt="pravilnik_Page_13.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik_Page_13_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424959&amp;regactid=424959"/>
+								<content/>
+							</став>
+							<став id="od2-clan12-stav19">
+								<img alt="pravilnik_Page_14.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik_Page_14_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424959&amp;regactid=424959"/>
+								<content/>
+							</став>
+							<став id="od2-clan12-stav20">
+								<img alt="pravilnik_Page_15.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik_Page_15_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424959&amp;regactid=424959"/>
+								<content/>
+							</став>
+							<став id="od2-clan12-stav21">
+								<img alt="pravilnik_Page_16.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik_Page_16_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424959&amp;regactid=424959"/>
+								<content/>
+							</став>
+							<став id="od2-clan12-stav22">
+								<img alt="pravilnik_Page_17.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik_Page_17_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424959&amp;regactid=424959"/>
+								<content/>
+							</став>
+							<став id="od2-clan12-stav23">
+								<img alt="pravilnik_Page_18.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik_Page_18_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424959&amp;regactid=424959"/>
+								<content/>
+							</став>
+							<став id="od2-clan12-stav24">
+								<img alt="pravilnik_Page_19.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik_Page_19_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424959&amp;regactid=424959"/>
+								<content/>
+							</став>
+							<став id="od2-clan12-stav25">
+								<img alt="pravilnik_Page_20.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik_Page_20_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424959&amp;regactid=424959"/>
+								<content/>
+							</став>
+						</content>
+					</article>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

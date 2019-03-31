@@ -1,0 +1,860 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2001/68-3/main"/>
+					<FRBRuri value="/rs/act/2001/68-3"/>
+					<FRBRdate date="2001" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2001/68-3/srp@/main"/>
+					<FRBRuri value="/rs/act/2001/68-3/srp@"/>
+					<FRBRdate date="2001" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2001/68-3/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2001/68-3/srp@.akn"/>
+					<FRBRdate date="2001" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="4. Заштита биља" value="4. заштита биља"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2001-12-11" id="usvajanje"/>
+				<step date="2002-01-01" id="stupanje_na_snagu"/>
+				<step date="2002-01-01" id="primena"/>
+			</workflow>
+		</meta>
+		<preface>
+			<authority>На основу <ref>члана 32. став 4. </ref>Закона о заштити биља (“<ref id="ref13" href="/rs/act/98/24/srp@">Службени лист СРЈ”, бр. 24/98</ref>), савезни министар привреде и унутрашње трговине доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>О УСЛОВИМА КОЈЕ МОРАЈУ ИСПУЊАВАТИ КАРАНТИНСКИ ОБЈЕКТИ ЗА ПРОВЕРУ ЗДРАВСТВЕНОГ СТАЊА БИЉА И БИЉНОМ КАРАНТИНУ</title>
+			<date>„Службени лист СРЈ”, број 68 од 21. ХII 2001.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се услови које морају испуњавати објекти у којима се врши контрола здравственог стања семена, расада и садног материјала (посткарантински надзор) на скривене заразе (у даљем тексту: карантински објекти), а чије присуство није могуће утврдити приликом здравственог прегледа на граничном прелазу.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Карантински објекти из става 1. овог члана могу бити:</p>
+							<point id="clan1-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> карантински расадници;</p>
+								</content>
+							</point>
+							<point id="clan1-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> карантинске парцеле и карантинска поља;</p>
+								</content>
+							</point>
+							<point id="clan1-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> карантинске стакларе и карантинске изолације.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Карантински објекти из <ref>члана 1. овог</ref> правилника могу се користити за проверавање здравственог стања биља, ако пре уношења биља у објект, чије ће се здравствено стање проверавати, нису заражени штетним организмима (биљне болести, штеточине и корови).</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Карантински објекти морају бити уређени тако да онемогућавају ширење штетних организама са тог објекта.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Карантински расадници, карантинске парцеле и карантинска поља морају имати зону просторне изолације.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Ширина зоне просторне изолације око објекта из <ref>члана 3. овог</ref> правилника мора износити најмање 100 метара.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>У зони просторне изолације могу се гајити само оне врсте биља које нису главни или споредни домаћини карантинских штетних организама који нападају биље, чије се здравствено стање проверава у објекту.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Зона просторне изолације мора се редовно прегледати да би се утврдило присуство карантинских штетних организама у време у које се они могу најлакше уочити, да би се предузеле мере за њихово спречавање и сузбијање.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Карантински расадници, карантинске парцеле, односно карантинска поља морају бити ограђени чврстом оградом висине најмање 2 (два) метра, ради спречавања улаза неовлашћеним лицима и животињама.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Поред ограде из става 1. овог члана, са спољне стране, на удаљености од једног до два метра морају постојати јарак и земљани насип, који се уредно одржавају.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>На почетку приступног пута за карантински објект из <ref>члана 3. овог</ref> правилника мора бити постављена табла са натписом: “ЗАБРАЊЕН ПРИСТУП – КАРАНТИНСКИ ОБЈЕКТ”, а на главном улазу у ограђени простор објекта – фирма, односно назив овлашћене организације чији је објект.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Ограђени простор карантинског објекта из <ref>члана 3. овог</ref> правилника мора бити подељен у простор за припреме, у који се улази кроз главни улаз у ограђени простор и простор за проверавање здравственог стања биља, у који се улази из простора за припреме.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Простор за проверавање здравственог стања биља мора бити оградом одвојен од простора за припреме.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Простор за припреме из <ref>члана 7. овог</ref> правилника мора имати просторије за припрему и смештај семена, расада и садног материјала за смештај оруђа, алата и другог прибора, за санитарне потребе, за смештај заштитне одеће и обуће и за приручну лабораторију са потребном опремом.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Ако у близини карантинског објекта не постоји складиште за пестициде, простор за припреме мора имати и просторију за приручни смештај пестицида и апарата за третирање биља.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>У простору за припреме морају потојати и јаме за уништавање биља и амбалаже и бетонирана површина за прање и дезинфекцију оруђа и машина.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Пред улазом у простор за проверавање здравственог стања биља из <ref>члана 7. овог</ref> правилника мора постојати прибор за чишћење обуће и плитка јама за дезинфекцију обуће.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Ако се у карантинском објекту из <ref>члана 3. овог</ref> правилника врши и наводњавање, објект мора бити уређен тако да се водом за наводњавање не могу преносити карантински штетни организми.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Површине на којима ће се изградити карантински објекат из <ref>члана 3. овог</ref> правилника и околина објекта, на удаљености од најмање једног километра морају бити претходно прегледани на присуство штетних организама.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Ако се на површинама из става 1. овог члана, утврди присуство карантински штетних организама морају се сузбијати и о томе се сачињава записник.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Карантинске стакларе и карантинске изолације морају бити изграђене и опремљене да у потпуности спречавају улаз и излаз инсеката.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav2">
+						<content>
+							<p>Карантински објект из става 1. овог члана мора имати простор за припреме и одговарајући број одељења, односно боксова са потребним водоводним и електричним инсталацијама. Простор за припреме мора бити преградом или зидом одвојен од боксова. Одељења, односно боксови морају бити одвојени једни од других.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav3">
+						<content>
+							<p>На улазу у карантински објект из става 1. овог члана мора постојати прибор за чишћење обуће и плитка јама за дезинфекцију обуће.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Карантински објект из <ref>члана 12. овог</ref> правилника мора бити изграђен тако да се отпадне воде испуштају преко таложнице, у којој се по потреби може вршити дезинфекција.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan14">
+				<num>14.</num>
+				<content>
+					<clause id="clan14-stav1">
+						<content>
+							<p>На карантинском објекту из <ref>члана 12. овог</ref> правилника мора бити постављен натпис: “ЗАБРАЊЕН ПРИСТУП – КАРАНТИНСКИ ОБЈЕКТ” и фирма, односно назив овлашћене организације, чији је објект.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan15">
+				<num>15.</num>
+				<content>
+					<clause id="clan15-stav1">
+						<content>
+							<p>Карантински објект из <ref>члана 12. овог</ref> правилника мора бити најмање 10 метара удаљен од других површина на којима се гаје врсте биља које су главни или споредни домаћини карантинских штетних организама за ону врсту биља чије се здравствено стање проверава у објекту.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan16">
+				<num>16.</num>
+				<content>
+					<clause id="clan16-stav1">
+						<content>
+							<p>Ботаничке баште и арборетруми могу у самој башти, односно арборетруму имати карантинске стакларе или карантинске изолације за проверавање здравственог стања биља, ако те стакларе, односно изолације испуњавају услове предвиђене овим правилником.</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav2">
+						<content>
+							<p>Ботаничке баште и арборетруми могу имати и друге карантинске објекте за проверавање здравственог стања биља ван баште, односно арборетрума, ако ти објекти испуњавају услове предвиђене овим правилником.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan17">
+				<num>17.</num>
+				<content>
+					<clause id="clan17-stav1">
+						<content>
+							<p>Проверавање здравственог стања биља у објектима из <ref>члана 1. овог</ref> правилника може вршити правно лице које има стручњаке за заштиту биља из области ентомологије, фитопатологије или хербологије.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan18">
+				<num>18.</num>
+				<content>
+					<clause id="clan18-stav1">
+						<content>
+							<p>У карантинском објекту може се проверавати здравствено стање само оних врста биља за које је објект намењен, односно за које он испуњава услове предвиђене овим правилником.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan19">
+				<num>19.</num>
+				<content>
+					<clause id="clan19-stav1">
+						<content>
+							<p>У простору за проверавање здравственог стања биља у карантинском објекту, не сме се гајити никакво друго биље, нити се смеју вршити радови који не спадају у проверавање здравственог стања биља.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan20">
+				<num>20.</num>
+				<content>
+					<clause id="clan20-stav1">
+						<content>
+							<p>У простор за проверавање здравственог стања биља могу улазити само овлашћена лица.</p>
+						</content>
+					</clause>
+					<clause id="clan20-stav2">
+						<content>
+							<p>Остала лица могу улазити у простор за проверавање здравственог стања биља, само уз претходно одобрење руководиоца карантинског објекта и под надзором овлашћеног лица на објекту.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan21">
+				<num>21.</num>
+				<content>
+					<clause id="clan21-stav1">
+						<content>
+							<p>У карантинском објекту морају се водити: Књига улаза у карантински објект и излаза из карантинског објекта биљног материјала – на Обрасцу бр. 1 и Књига проверавања здравственог стања биља и мера заштите биља на карантинском објекту – на Обрасцу бр. 2.</p>
+						</content>
+					</clause>
+					<clause id="clan21-stav2">
+						<content>
+							<p>Обрасци бр. 1 и 2 из става 1. овог члана одштампани су уз овај правилник и чине његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan22">
+				<num>22.</num>
+				<content>
+					<clause id="clan22-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу 1. јануара 2002. године.</p>
+						</content>
+					</clause>
+					<clause id="clan22-stav2">
+						<content>
+							<p>Број 880/3</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<section id="od11">
+				<num>11.</num>
+				<heading> децембра 2001. године</heading>
+				<content>
+					<clause id="od11-clan22-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od11-clan22-stav2">
+						<content>
+							<p>Савезни министар привреде и</p>
+						</content>
+					</clause>
+					<clause id="od11-clan22-stav3">
+						<content>
+							<p>унутрашње трговине</p>
+						</content>
+					</clause>
+					<clause id="od11-clan22-stav4">
+						<content>
+							<p>Петар Тројановић, с. р.</p>
+						</content>
+					</clause>
+					<clause id="od11-clan22-stav5">
+						<content>
+							<p>Образац бр. 1</p>
+						</content>
+					</clause>
+					<clause id="od11-clan22-stav6">
+						<content>
+							<p>_______________________________</p>
+						</content>
+					</clause>
+					<clause id="od11-clan22-stav7">
+						<content>
+							<p>(назив овлашћене организације)</p>
+						</content>
+					</clause>
+					<clause id="od11-clan22-stav8">
+						<content>
+							<p>КЊИГА УЛАЗА У КАРАНТИНСКИ ОБЈЕКТ И ИЗЛАЗА ИЗ КАРАНТИНСКОГ ОБЈЕКТА БИЉНОГ МАТЕРИЈАЛА</p>
+						</content>
+					</clause>
+					<став id="od11-clan22-stav9">
+						<table border="1" cellpadding="0" cellspacing="1" class="MsoNormalTable" style="width:40.9375rem" width="655">
+							
+ 
+							<tbody>
+								<tr>
+									
+  
+									<td colspan="2" style="width:19.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="19%">
+										
+  
+										<p>Улаз
+  у објект</p>
+										
+  
+									</td>
+									
+  
+									<td colspan="6" style="width:63.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="63%">
+										
+  
+										<p>Излаз
+  из објекта</p>
+										
+  
+									</td>
+									
+  
+									<td colspan="2" style="border:none;padding:0cm 0cm 0cm 0cm" width="143">
+										<p/>
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td colspan="2" style="width:19.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="19%">
+										
+  
+										<p>Опис
+  узорака</p>
+										
+  
+									</td>
+									
+  
+									<td colspan="3" style="width:31.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="31%">
+										
+  
+										<p>Посејано,
+  односно засађено</p>
+										
+  
+									</td>
+									
+  
+									<td colspan="3" style="width:32.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="32%">
+										
+  
+										<p>Излаз
+  у друге сврхе</p>
+										
+  
+									</td>
+									
+  
+									<td colspan="2" style="border:none;padding:0cm 0cm 0cm 0cm" width="143">
+										<p/>
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:7.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="7%">
+										
+  
+										<p>врста
+  биља и ближе ознаке</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:12.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="12%">
+										
+  
+										<p>количина
+  у килограмима или комадима</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:7.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="7%">
+										
+  
+										<p>датум</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:12.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="12%">
+										
+  
+										<p>количина
+  у килограмима или комадима</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:12.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="12%">
+										
+  
+										<p>ознака
+  на етикети за време проверавања</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:10.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="10%">
+										
+  
+										<p>налог
+  за издавање и датум</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:10.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="10%">
+										
+  
+										<p>прималац</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:12.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="12%">
+										
+  
+										<p>количина
+  у килограмима или комадима</p>
+										
+  
+									</td>
+									
+  
+									<td colspan="2" style="border:none;border-bottom:outset 0.0833333333333333rem" width="143">
+										<p/>
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:5.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="5%">
+										
+  
+										<p>1</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:12.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="12%">
+										
+  
+										<p>2</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:7.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="7%">
+										
+  
+										<p>3</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:12.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="12%">
+										
+  
+										<p>4</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:7.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="7%">
+										
+  
+										<p>5</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:12.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="12%">
+										
+  
+										<p>6</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:12.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="12%">
+										
+  
+										<p>7</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:10.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="10%">
+										
+  
+										<p>8</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:10.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="10%">
+										
+  
+										<p>9</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:12.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="12%">
+										
+  
+										<p>10</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+
+							</tbody>
+						</table>
+						
+
+
+						<content/>
+					</став>
+					<clause id="od11-clan22-stav10">
+						<content>
+							<p>Образац бр. 2</p>
+						</content>
+					</clause>
+					<clause id="od11-clan22-stav11">
+						<content>
+							<p>__________________________________</p>
+						</content>
+					</clause>
+					<clause id="od11-clan22-stav12">
+						<content>
+							<p>(назив овлашћене организације)</p>
+						</content>
+					</clause>
+					<clause id="od11-clan22-stav13">
+						<content>
+							<p>КЊИГА ПРОВЕРАВАЊА ЗДРАВСТВЕНОГ СТАЊА БИЉА И МЕРА ЗАШТИТЕ БИЉА НА КАРАНТИНСКОМ ОБЈЕКТУ</p>
+						</content>
+					</clause>
+					<став id="od11-clan22-stav14">
+						<table border="1" cellpadding="0" cellspacing="1" class="MsoNormalTable" style="width:100.0%" width="100%">
+							
+ 
+							<tbody>
+								<tr>
+									
+  
+									<td colspan="3" style="width:38.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="38%">
+										
+  
+										<p>Подаци
+  о проверавању биља</p>
+										
+  
+									</td>
+									
+  
+									<td colspan="6" style="border:none;padding:0cm 0cm 0cm 0cm" width="444">
+										<p/>
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:11.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="11%">
+										
+  
+										<p>Датум
+  сетве, односно почетка проверавања</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:16.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="16%">
+										
+  
+										<p>Датум
+  прегледа, фаза развитка и налаз штетних организама (потпис, стручног лица на
+  објекту)</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:11.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="11%">
+										
+  
+										<p>Подаци
+  о лаборато- ријском испитивању</p>
+										
+  
+									</td>
+									
+  
+									<td colspan="6" style="border:none;border-bottom:outset 0.0833333333333333rem" width="444">
+										<p/>
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:6.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="6%">
+										
+  
+										<p>1</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:11.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="11%">
+										
+  
+										<p>2</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:11.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="11%">
+										
+  
+										<p>3</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:8.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="8%">
+										
+  
+										<p>4</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:11.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="11%">
+										
+  
+										<p>5</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:16.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="16%">
+										
+  
+										<p>6</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:11.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="11%">
+										
+  
+										<p>7</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:13.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="13%">
+										
+  
+										<p>8</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:12.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="12%">
+										
+  
+										<p>9</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+
+							</tbody>
+						</table>
+						
+
+
+						<content/>
+					</став>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

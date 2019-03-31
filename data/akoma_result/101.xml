@@ -1,0 +1,814 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2014/31-5/main"/>
+					<FRBRuri value="/rs/act/2014/31-5"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2014/31-5/srp@/main"/>
+					<FRBRuri value="/rs/act/2014/31-5/srp@"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2014/31-5/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2014/31-5/srp@.akn"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2014-3-18" name="службени гласник рс" number="31" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="10. Социјална заштита и друштвена брига о деци" value="10. социјална заштита и друштвена брига о деци"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2014-03-13" id="usvajanje"/>
+				<step date="2014-03-26" id="stupanje_na_snagu"/>
+				<step date="2014-03-26" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 195. став 2, </ref><ref>члана 201. став 5, </ref><ref>члана 204. став 3. </ref>и <ref>члана 205. став 4. </ref>Закона о социјалној заштити („<ref id="ref7" href="/rs/act/11/24/srp@">Службени гласник РС”, број 24/11</ref>) и <ref>члана 17. став 4. </ref>и <ref>члана 24. став 2. </ref>Закона о Влади („<ref id="ref8" href="/rs/act/05/55/srp@">Службени гласник РС”, бр. 55/05, 71/05</ref> – исправка, 101/07, 65/08, 16/11, 68/12 – одлука УС, 72/12 и 7/14 – одлука УС),</p>
+		</preamble>
+		<preface>
+			<authority>Министар рада, запошљавања и социјалне политике доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о стандардима и поступку акредитације програма обуке за стручне раднике и стручне сараднике у социјалној заштити</title>
+			<date>&quot;Службени гласник РС&quot;, број 31 од 18. марта      2014.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>УВОДНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<heading>Садржина Правилника</heading>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником уређују се стандарди за акредитацију програма обуке, начин спровођења поступка акредитације, начин вођења и садржина Регистра пријава за акредитацију, Регистра акредитованих програма обуке и Регистра реализованих програма обуке, као и садржинa и изглед сертификата о завршеној обуци по акредитованом програму обуке.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<heading>Акредитација програма обуке</heading>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Акредитација програма обуке обезбеђује минимум квалитета обуке запослених у социјалној заштити, која омогућава развијање њихових компетенција.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav2">
+								<content>
+									<p>Акредитација програма обуке треба да обезбеди разноврсност, доступност, упоредивост и конкурентност програма обуке, да омогући праћење и вредновање реализације програма обуке, као и континуирано унапређивање квалитета програма обуке.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav3">
+								<content>
+									<p>Акредитација треба да обезбеди и осигура увођење система квалитета у програме стручног усавршавања и усагласи понуду и потражњу у области стручног усавршавања и професионалног развоја кадрова.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<heading>Групе акредитованих програма обуке</heading>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>У складу са врстом компетенција које развијају, акредитовани програми обуке су:</p>
+									<point id="gla1-clan3-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> основни програми обуке којима се стичу општа знања и вештине за обављање послова у социјалној заштити, изузев послова здравствених радника и здравствених сарадника;</p>
+										</content>
+									</point>
+									<point id="gla1-clan3-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> комплементарни програми обуке којима се унапређују компетенције запослених за обављање послова у социјалној заштити, а којима се усвајају вештине примене савремених приступа, поступака, метода рада и унапређују програми пружања услуга социјалне заштите.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>СТАНДАРДИ ЗА АКРЕДИТАЦИЈУ</heading>
+				<content>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla2-clan4-stav1">
+								<content>
+									<p>Стандарди за акредитацију програма обуке означавају најнижи квалитет који програм обуке треба да има да би био акредитован.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav2">
+								<content>
+									<p>У односу на групе акредитованих програма обуке, стандарди могу бити заједнички, и примењују се на обе групе програма, односно појединачни који се примењују на једну од група акредитованих програма обуке из <ref>члана 3. овог</ref> правилника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan5">
+						<num>5.</num>
+						<heading>Заједнички стандарди</heading>
+						<content>
+							<clause id="gla2-clan5-stav1">
+								<content>
+									<p>Заједнички стандарди су захтеви које сваки акредитовани програм обуке мора да испуњава без обзира на врсту компетенција коју развија, односно групу акредитованих програма у коју се сврстава и односе се на садржај програма обуке и организацију обуке.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan6">
+						<num>6.</num>
+						<heading>Садржај програма обуке</heading>
+						<content>
+							<clause id="gla2-clan6-stav1">
+								<content>
+									<p>Садржај програма обуке:</p>
+									<point id="gla2-clan6-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> мора бити усаглашен са јасно дефинисаним циљевима и задацима постављеним програмом обуке;</p>
+										</content>
+									</point>
+									<point id="gla2-clan6-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> мора да садржи елементе који су међусобно повезани и усаглашени;</p>
+										</content>
+									</point>
+									<point id="gla2-clan6-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> мора да се заснива на интеграцији теорије и праксе;</p>
+										</content>
+									</point>
+									<point id="gla2-clan6-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> мора бити релевантан за актуелну праксу у социјалној заштити;</p>
+										</content>
+									</point>
+									<point id="gla2-clan6-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> мора имати циљеве и садржаје, као и начин реализације програма који су примерени одабраној циљној групи;</p>
+										</content>
+									</point>
+									<point id="gla2-clan6-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> мора имати циљеве који су усаглашени са очекиваним ефектима у пракси;</p>
+										</content>
+									</point>
+									<point id="gla2-clan6-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> мора бити усмерен ка континуираном професионалном развоју;</p>
+										</content>
+									</point>
+									<point id="gla2-clan6-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> мора имати јасно дефинисане поступке праћења и вредновања ефеката програма у пракси.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan7">
+						<num>7.</num>
+						<heading>Организација обуке</heading>
+						<content>
+							<clause id="gla2-clan7-stav1">
+								<content>
+									<p>Организација обуке подразумева:</p>
+									<point id="gla2-clan7-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> да за реализацију програма обуке мора бити предвиђен адекватан број одговарајуће квалификованих реализатора;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> да реализатори програма обуке морају поседовати знање и искуство које је релевантно за предметну област програма обуке;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> да реализатори програма обуке морају владати вештинама које омогућавају ефективан пренос знања;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> да је организација програма обуке заснована на партиципативним методама и техникама рада, које обезбеђују развој компетенција;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> да је предвиђени број учесника у групи примерен остваривању циљева програма обуке;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> да је дужина трајања програма обуке примерена принципима ефективног рада.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<heading>Појединачни стандарди</heading>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>Појединачни стандарди представљају специфичне захтеве које морају испуњавати програми обуке у оквиру одређене групе акредитованих програма обуке.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<heading>Појединачни стандарди за основне програме обуке</heading>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>Појединачни стандарди за основне програме обуке подразумевају да је:</p>
+									<point id="gla2-clan9-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> програм обуке научно-теоријски заснован;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> садржај програма обуке усклађен са прописаним стандардима за обављање стручних послова који чине предметну област програма;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> провера оспособљености на крају спроведене обуке реализована на начин који осигурава способност учесника да стручне послове који представљају предметно поље обуке, обављају у складу са прописаним стандардима и у најбољем интересу корисника;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> програм обезбеђује подстицај стручног рада заснованог на подацима.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan10">
+						<num>10.</num>
+						<heading>Појединачни стандарди за комплементарне програме обуке</heading>
+						<content>
+							<clause id="gla2-clan10-stav1">
+								<content>
+									<p>Појединачни стандарди за комплементарне програме обуке подразумевају да је:</p>
+									<point id="gla2-clan10-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> програм обуке резултат савремених стручних и научних сазнања, односно практичних искустава;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> програм обуке одговор на објективно утврђене потребе у пракси;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> тежиште програма обуке на практичним искуствима и да она морају бити проверена и утемељена;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> провера оспособљености на крају спроведеног програма обуке реализована на начин који осигурава способност учесника да стручне послове који представљају предметно поље обуке обављају у складу са прописима и у најбољем интересу корисника;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> програм обуке који за циљ има развој вештина планом обуке предвидео и поступке за проверу његове практичне примене;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> програм обуке међусекторског карактера са специфичним међусекторским знањима јасно упућен свакој секторској групи.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>НАЧИН СПРОВОЂЕЊА ПОСТУПКА АКРЕДИТАЦИЈЕ</heading>
+				<content>
+					<article id="gla3-clan11">
+						<num>11.</num>
+						<heading>Поступак акредитације</heading>
+						<content>
+							<clause id="gla3-clan11-stav1">
+								<content>
+									<p>Поступак акредитације обухвата:</p>
+									<point id="gla3-clan11-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> објављивање јавног позива за акредитацију;</p>
+										</content>
+									</point>
+									<point id="gla3-clan11-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> подношење пријаве за акредитацију, са пратећом документацијом;</p>
+										</content>
+									</point>
+									<point id="gla3-clan11-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> утврђивање испуњености формалних услова и евидентирање пријаве;</p>
+										</content>
+									</point>
+									<point id="gla3-clan11-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> одређивање у коју групу акредитованих програма обуке ће, након акредитације, предметни програм бити сврстан;</p>
+										</content>
+									</point>
+									<point id="gla3-clan11-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> утврђивање испуњености стандарда за акредитацију;</p>
+										</content>
+									</point>
+									<point id="gla3-clan11-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> одлучивање о акредитацији и о обнављању акредитације;</p>
+										</content>
+									</point>
+									<point id="gla3-clan11-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> доношење решења о акредитацији;</p>
+										</content>
+									</point>
+									<point id="gla3-clan11-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> регистровање акредитованог програма обуке.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan12">
+						<num>12.</num>
+						<heading>Јавни позив за акредитацију</heading>
+						<content>
+							<clause id="gla3-clan12-stav1">
+								<content>
+									<p>Поступак акредитације програма обуке спроводи се током читаве године на основу јавног позива.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan12-stav2">
+								<content>
+									<p>Јавни позив за акредитацију програма обуке може бити општи и тематски.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan12-stav3">
+								<content>
+									<p>Општи позив за акредитацију програма обуке објављује се без ограничења у погледу теме која чини предметно поље програма обуке.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan12-stav4">
+								<content>
+									<p>Ако се утврди постојање приоритетне потребе за програмом обуке који за предметно поље има одређену тему, на предлог Републичког завода за социјалну заштиту (у даљем тексту: Завод), расписује се тематски позив за акредитацију.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan13">
+						<num>13.</num>
+						<heading>Пријава за акредитацију</heading>
+						<content>
+							<clause id="gla3-clan13-stav1">
+								<content>
+									<p>Поступак за акредитацију програма обуке покрећe се подношењем пријаве за акредитацију Заводу.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav2">
+								<content>
+									<p>Пријава за акредитацију садржи конкурсну документацију, личне податке и радну биографију аутора програма, као и личне податке и радну биографију реализатора програма обуке.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav3">
+								<content>
+									<p>Ако пријаву подноси правно лице или предузетник, дужно је да приложи податке о пословном имену, седишту и ПИБ.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav4">
+								<content>
+									<p>Конкурсна документација садржи:</p>
+									<point id="gla3-clan13-stav4-tac1">
+										<num>1)</num>
+										<content>
+											<p> Пријаву за акредитацију програма обуке;</p>
+										</content>
+									</point>
+									<point id="gla3-clan13-stav4-tac2">
+										<num>2)</num>
+										<content>
+											<p> Образложење испуњености стандарда;</p>
+										</content>
+									</point>
+									<point id="gla3-clan13-stav4-tac3">
+										<num>3)</num>
+										<content>
+											<p> Изјаву подносиоца предлога програма обуке;</p>
+										</content>
+									</point>
+									<point id="gla3-clan13-stav4-tac4">
+										<num>4)</num>
+										<content>
+											<p> Рецензију програма обуке;</p>
+										</content>
+									</point>
+									<point id="gla3-clan13-stav4-tac5">
+										<num>5)</num>
+										<content>
+											<p> Резиме програма обуке;</p>
+										</content>
+									</point>
+									<point id="gla3-clan13-stav4-tac6">
+										<num>6)</num>
+										<content>
+											<p> Интегрални програм обуке.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav5">
+								<content>
+									<p>Конкурсна документација из става 4. тач. 1), 2), 3) и 4) овог члана подноси се на обрасцима АПО1, АПО2, АПО3 и АПО4, који су одштампани уз овај правилник и чине његов саставни део.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav6">
+								<content>
+									<p>Конкурсну документацију из става 4. тач. 5) и 6) овог члана аутор прилаже у слободној форми.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav7">
+								<content>
+									<p>Интегрални програм обуке из става 4. тачка 6) овог члана састоји се из сажетог теоријског образложења тема обухваћених садржајем и прецизног синопсиса обуке (план обуке).</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav8">
+								<content>
+									<p>Сви прилози уз пријаву за акредитацију достављају се у писменом и електронском облику.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan14">
+						<num>14.</num>
+						<heading>Утврђивање испуњености формалних услова поступка акредитације</heading>
+						<content>
+							<clause id="gla3-clan14-stav1">
+								<content>
+									<p>Завод испитује да ли је пријава за акредитацију потпуна и уредна.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan14-stav2">
+								<content>
+									<p>Ако пријава за акредитацију не испуњава услове из става 1. овог члана (у даљем тексту: неуредна пријава), Завод је дужан да у законом прописаном року писменим путем обавести аутора о недостацима предложеног програма обуке, односно деловима програма обуке које треба допунити, у складу са инструкцијама у погледу начина допуне и одреди му рок да отклони недостатке.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan14-stav3">
+								<content>
+									<p>Ако аутор не отклони недостатке у одређеном року, сматраће се да је одустао од пријаве.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan15">
+						<num>15.</num>
+						<heading>Евидентирање пријаве за акредитацију</heading>
+						<content>
+							<clause id="gla3-clan15-stav1">
+								<content>
+									<p>Потпуне и уредне пријаве за акредитацију уносе се у Регистар пријава за акредитацију који води Завод (у даљем тексту: Регистар пријава).</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan15-stav2">
+								<content>
+									<p>Пријаве се уписују у Регистар пријава према редоследу пријема, а основни подаци из пријаве доступни су на интернет страници Завода и министарства надлежног за социјалну заштиту.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan16">
+						<num>16.</num>
+						<heading>Одређивање групе акредитованих програма обуке</heading>
+						<content>
+							<clause id="gla3-clan16-stav1">
+								<content>
+									<p>Пре доставе Одбору, Завод одређује у коју групу акредитованих програма обуке ће, након акредитације, предметни програм бити сврстан.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan17">
+						<num>17.</num>
+						<heading>Процена испуњености стандарда за акредитацију</heading>
+						<content>
+							<clause id="gla3-clan17-stav1">
+								<content>
+									<p>Потпуне и уредне пријаве, заједно са пратећом документацијом, Завод доставља Одбору, на стручну оцену.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan18">
+						<num>18.</num>
+						<heading>Одлучивање о акредитацији</heading>
+						<content>
+							<clause id="gla3-clan18-stav1">
+								<content>
+									<p>Одбор даје стручну оцену програма обуке, испитујући испуњеност стандарда за акредитацију којом се:</p>
+									<point id="gla3-clan18-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> предлаже акредитација програма обуке;</p>
+										</content>
+									</point>
+									<point id="gla3-clan18-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> предлаже одбијање акредитације програма обуке.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan18-stav2">
+								<content>
+									<p>Стручна оцена Одбора сматра се донетом ако је са њом сагласна већина укупног броја чланова Одбора.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan18-stav3">
+								<content>
+									<p>Члан Одбора који није сагласан са стручном оценом Одбора може издвојити своје мишљење.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan18-stav4">
+								<content>
+									<p>Стручна оцена програма обуке и Листа програма обуке који су испунили стандарде за акредитацију дају се у писменој форми.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan19">
+						<num>19.</num>
+						<heading>Измене програма након акредитације</heading>
+						<content>
+							<clause id="gla3-clan19-stav1">
+								<content>
+									<p>Ако је током реализације акредитованог програма аутор уочио потребу да изврши одређене измене у погледу садржаја, начина реализације или временског трајања програма, о томе у писменој форми обавештава Завод, уз образложени предлог измена.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan19-stav2">
+								<content>
+									<p>Образложени предлог о изменама у акредитованом програму обуке Завод доставља Одбору.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan19-stav3">
+								<content>
+									<p>Одбор даје стручну оцену да ли програм са предложеним изменама и даље испуњава стандарде за акредитацију.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan19-stav4">
+								<content>
+									<p>Ако програм са предложеним изменама и даље испуњава стандарде за акредитацију, Одбор измењени програм са стручним мишљењем доставља министру надлежном за послове социјалне заштите на акредитацију.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan19-stav5">
+								<content>
+									<p>Ако предложене измене не испуњавају стандарде за акредитацију, а основни програм их и даље испуњава, програм се и даље реализује према важећем решењу о акредитацији.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan20">
+						<num>20.</num>
+						<heading>Поступак обнављања акредитације програма обуке</heading>
+						<content>
+							<clause id="gla3-clan20-stav1">
+								<content>
+									<p>Поступак обнављања акредитације програма обуке је поступак у коме се одлучује да ли акредитовани програм обуке и даље испуњава стандарде за акредитацију.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan20-stav2">
+								<content>
+									<p>Пријава за обнављање акредитације подноси се најкасније 30 дана пре дана истека акредитације.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan20-stav3">
+								<content>
+									<p>Уредно приспеле пријаве за обнављање акредитације Завод доставља Одбору.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan20-stav4">
+								<content>
+									<p>Ако до истека рока на који је програм обуке акредитован не буде поднета пријава за обнављање акредитације, Завод о томе обавештава Одбор.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan20-stav5">
+								<content>
+									<p>Одбор сачињава листу програма за које предлаже обнављање акредитације и листу програма који не испуњавају услове за обављање акредитације.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan21">
+						<num>21.</num>
+						<heading>Регистри</heading>
+						<content>
+							<clause id="gla3-clan21-stav1">
+								<content>
+									<p>Регистри се воде у писменој и електронској форми.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan22">
+						<num>22.</num>
+						<heading>Регистар пријава за акредитацију</heading>
+						<content>
+							<clause id="gla3-clan22-stav1">
+								<content>
+									<p>Регистар пријава за акредитацију садржи редни број, назив програма обуке, датум пријаве, имена аутора, листу свих докумената достављених у оквиру пријаве и датум доношења одлуке о акредитацији.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan23">
+						<num>23.</num>
+						<heading>Регистар акредитованих програма обуке</heading>
+						<content>
+							<clause id="gla3-clan23-stav1">
+								<content>
+									<p>Регистар акредитованих програма обуке садржи редни број и назив програма, групу акредитованог програма обуке у коју је предметни програм сврстан, имена аутора, имена реализатора, област и крајњу циљну групу корисника, комплетну конкурсну документацију коју су аутори поднели током пријема и решење министра надлежног за послове социјалне заштите.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan24">
+						<num>24.</num>
+						<heading>Регистар реализованих програма обуке</heading>
+						<content>
+							<clause id="gla3-clan24-stav1">
+								<content>
+									<p>Евиденција о реализацији акредитованих програма обуке води се на основу извештаја о реализацији који аутори програма обуке достављају Заводу.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan24-stav2">
+								<content>
+									<p>Извештај о реализацији доставља се у писменој и електронској форми.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan24-stav3">
+								<content>
+									<p>Саставни део извештаја чини и списак учесника који су успешно завршили обуку са следећим подацима: име и презиме, ЈМБГ, занимање, установа у којој су запослени, послови које обавља у установи, имејл адреса и број контакт телефона.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan24-stav4">
+								<content>
+									<p>Извештај о реализацији акредитованог програма обуке евидентира се у Регистру реализованих програма обуке.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan24-stav5">
+								<content>
+									<p>Регистар реализованих програма обуке садржи редни број и назив програма обуке, назив наручиоца обуке, датум и трајање реализације, имена тренера и учесника обуке.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan24-stav6">
+								<content>
+									<p>Регистар садржи извештаје аутора о реализацијама програма обуке, као и извештај о извршеној контроли квалитета реализације акредитованог програма обуке.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan25">
+						<num>25.</num>
+						<heading>Сертификат</heading>
+						<content>
+							<clause id="gla3-clan25-stav1">
+								<content>
+									<p>Сертификат о завршеној обуци по акредитованом програму садржи податке о учеснику (име и презиме, ЈМБГ, организација у којој је запослен и послови које обавља), назив акредитованог програма обуке као и групу програма у коју је сврстан и време и место реализације акредитованог програма обуке.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan25-stav2">
+								<content>
+									<p>Сертификат се издаје на обрасцу који је одштампан уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan26">
+						<num>26.</num>
+						<heading>Ступање на снагу</heading>
+						<content>
+							<clause id="gla3-clan26-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan26-stav2">
+								<content>
+									<p>Број 110-00-92/2014-09</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan26-stav3">
+								<content>
+									<p>У Београду, 13. марта 2014. године</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan26-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan26-stav5">
+								<content>
+									<p>др Јован Кркобабић, с.р.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan26-stav6">
+								<content>
+									<p>Образац АПО1 -      Пријава за акредитацију програма обуке</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan26-stav7">
+								<content>
+									<p>Образац АПО2 -      Образложење испуњености стандарда</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan26-stav8">
+								<content>
+									<p>Образац АПО3 -      Изјава подносиоца предлога програма обуке</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan26-stav9">
+								<content>
+									<p>Образац АПО4 -      Рецензија програма обуке</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

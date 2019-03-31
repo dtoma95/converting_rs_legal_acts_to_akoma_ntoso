@@ -1,0 +1,945 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2006/82-7/main"/>
+					<FRBRuri value="/rs/act/2006/82-7"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2006/99-3/srp@/main"/>
+					<FRBRuri value="/rs/act/2006/99-3/srp@"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2006/99-3/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2006/99-3/srp@.akn"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2006-9-29" name="службени гласник рс" number="82" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="VI СВОЈИНСКИ И ОБЛИГАЦИОНИ, ПОРОДИЧНИ И БРАЧНИ ОДНОСИ" value="vi својински и облигациони, породични и брачни односи"/>
+				<keyword id="grupa" showAs="1. Облици својине" value="1. облици својине"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2006-09-28" id="usvajanje"/>
+				<step date="2006-10-07" id="stupanje_na_snagu"/>
+				<step date="2006-10-07" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="82/2006-7" id="e1" type="generation"/>
+				<eventRef date="96/2006-3" id="e2" type="amendment"/>
+				<eventRef date="99/2006-3" id="e3" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 7. октобра 2006. године (види <ref>члан 28. </ref>Уредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 90. тачка 2</ref>. Устава Републике Србије, а у вези са Законом о средствима у својини Републике Србије („<ref id="ref3" href="/rs/act/95/53/srp@">Службени гласник РС”, бр. 53/95, 3/96</ref> – исправка, 54/96, 32/97, 44/99 – СУС и 101/05 – др. закон) и Законом о становању („<ref id="ref4" href="/rs/act/92/50/srp@">Службени гласник РС”, бр. 50/92, 76/92, 84/92</ref> – исправка, 33/93, 53/93 – др. закон, 67/93 – др. закон, 46/94, 47/94 – исправка, 48/94 – др. закон, 44/95 – др. закон, 49/95, 16/97, 46/98, 26/01 и 101/05 – др. закон),</p>
+		</preamble>
+		<preface>
+			<authority>Влада доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о решавању стамбених потреба куповином станова изграђених средствима за реализацију Националног инвестиционог плана</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 82 од 29. септембра 2006, 96 од 3. новембра 2006, 99 од 10. новембра 2006.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОСНОВНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овом уредбом уређују се услови, начин и поступак решавања стамбених потреба запослених код корисника средстава буџета Републике Србије (у даљем тексту: Корисник) куповином станова изграђених средствима за реализацију Националног инвестиционог плана.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Станови изграђени из средстава за реализацију Националног инвестиционог плана су у државној својини.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav2">
+								<content>
+									<p>Станове из става 1. овог члана (у даљем тексту: станови), Република Србија прибавља ради решавања стамбених потреба запослених код Корисника у складу са овом уредбом.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav3">
+								<content>
+									<p>За намене из става 2. овог члана Влада опредељује станове по структури и површини према исказаним потребама.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Расподелу станова на Кориснике утврђује Влада.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav2">
+								<content>
+									<p>У случају да Корисник не расподели све станове који су му опредељени, преостали станови опредељују се другим корисницима у складу са овом уредбом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla1-clan4-stav1">
+								<content>
+									<p>У складу са овом уредбом стамбене потребе могу решавати запослени код Корисника, и то у:</p>
+									<point id="gla1-clan4-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> образовању;</p>
+										</content>
+									</point>
+									<point id="gla1-clan4-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> здравству;</p>
+										</content>
+									</point>
+									<point id="gla1-clan4-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> органима државне управе;</p>
+										</content>
+									</point>
+									<point id="gla1-clan4-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> правосуђу;</p>
+										</content>
+									</point>
+									<point id="gla1-clan4-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> култури;</p>
+										</content>
+									</point>
+									<point id="gla1-clan4-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> установама социјалне заштите.*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla1-clan4-stav2">
+								<content>
+									<p>Запосленима у образовању сматрају се лица која су запослена у установама и другим јавним службама у области образовања чији је оснивач Република Србија и Аутономна покрајина Војводина.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan4-stav3">
+								<content>
+									<p>Запосленима у здравству и култури сматрају се лица која су запослена у установама и другим јавним службама у области здравства и културе чији је оснивач Република Србија.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan4-stav4">
+								<content>
+									<p>Запосленима у правосуђу сматрају се носиоци правосудних функција, као и запослени у судовима, у јавним тужилаштвима, Републичком јавном правобранилаштву и органима за прекршаје.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan4-stav5">
+								<content>
+									<p>Запосленима у установама социјалне заштите сматрају се лица која су запослена у установама социјалне заштите чији је оснивач Република Србија, Аутономна покрајина Војводина и јединица локалне самоуправе.  *</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan5">
+						<num>5.</num>
+						<heading>*<ref id="ref5" href="/rs/act/2006/96/srp@">Службени гласник РС, број 96/2006</ref></heading>
+						<content>
+							<clause id="gla1-clan5-stav1">
+								<content>
+									<p>Средства остварена од куповине станова приход су буџета Републике Србије и евидентирају се у буџетском Фонду станоградње који се оснива у складу са законом.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan5-stav2">
+								<content>
+									<p>Средства из става 1. овог члана користиће се за изградњу нових станова на територији Републике Србије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>РЕШАВАЊЕ СТАМБЕНИХ ПОТРЕБА</heading>
+				<content>
+					<тачка id="gla2-clan5-tac1">
+						<num>1.</num>
+						<content>
+							<p> Начин решавања стамбених потреба</p>
+						</content>
+					</тачка>
+					<article id="gla2-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla2-clan6-stav1">
+								<content>
+									<p>Запослени код Корисника (у даљем тексту: запослени) решавају стамбене потребе куповином станова.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav2">
+								<content>
+									<p>Куповина станова из става 1. овог члана врши се по производним ценама са роком отплате до 20 година, са учешћем од 20% од производне цене стана и годишњом каматом од 0,5%.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav3">
+								<content>
+									<p>Производна цена из става 2. овог члана, која се утврђује после издавања употребне дозволе, обухвата трошкове: опремања локације за изградњу; пројектовања објекта; извођења радова на изградњи објекта и инфраструктурног опремања локације; друге трошкове везане за изградњу објекта, у складу са законом.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav4">
+								<content>
+									<p>Уговором о куповини ближе се уређују производна цена, валутна клаузула за отплату главнице и камате, обезбеђење уговора, раскид уговора и др.</p>
+									<тачка id="gla2-clan6-stav4-tac2">
+										<num>2.</num>
+										<content>
+											<p> Услови за решавање стамбених потреба</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla2-clan7-stav1">
+								<content>
+									<p>Право на решавање стамбене потребе у складу са овом уредбом има запослени који:</p>
+									<point id="gla2-clan7-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> је у радном односу на неодређено време;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> је без стана;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> је кредитно способан;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> је остварио приоритетно место на листи првенства (у даљем тексту: ранг-листа);</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> има пребивалиште на територији општине, односно града где конкурише.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>Сматра се да је запослено лице без стана ако оно или члан његовог породичног домаћинства на територији Републике Србије нема стан, породичну стамбену зграду у својини, односно државни или друштвени стан који користи по основу уговора о закупу и ако:*</p>
+									<point id="gla2-clan8-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> станује као подстанар;*</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> станује у просторијама за привремени смештај које се не могу сматрати станом јер не пружају ни минимум услова за становање, односно за живот човека (шупа, дашчара, таванска и подрумска просторија, магацин и сл.);*</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> је корисник стана за службене потребе;*</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> користи собу или лежај у самачком хотелу;*</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> станује код својих родитеља или родитеља свог брачног друга (мајка, отац, очух, маћеха, усвојилац), деде, бабе;*</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> станује у бесправно подигнутом објекту за који је донето правоснажно решење о рушењу и ако је рушење започето;*</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> ако је носилац станарског права, односно закупац на неодређено време стана у својини грађана или сустанар.*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav2">
+								<content>
+									<p>*<ref id="ref6" href="/rs/act/2006/99/srp@">Службени гласник РС, број 99/2006</ref></p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav3">
+								<content>
+									<p>Сматра се да запослени има решене стамбене потребе ако је закупац стана на одређено време у складу са Уредбом о решавању стамбених потреба постављених и запослених лица код корисника средстава у државној својини (’<ref id="ref7" href="/rs/act/02/41/srp@">Службени гласник РС’, бр. 41/02, 76/02, 125/03, 88/04</ref> и 68/06 – УС).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>Запослени је кредитно способан ако са 1/2 својих месечних примања или са 1/2 укупних месечних примања запосленог и његовог солидарног дужника може да подмири месечну рату за отплату стана.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla2-clan10-stav1">
+								<content>
+									<p>Запослени у односу на број чланова породичног домаћинства има право да купи стан следеће структуре:</p>
+									<point id="gla2-clan10-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> самац – гарсоњеру или једнособан стан;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> два члана – једноипособан или двособан стан;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> три члана – двоипособан или трособан стан;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> четири члана – троипособан или четворособан стан;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> пет и више чланова – четворособан стан.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav2">
+								<content>
+									<p>Запослени који на одговарајући начин докаже да се бави научним радом, има право на једну собу више у односу на структуру стана из става 1. овог члана.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav3">
+								<content>
+									<p>Ако се запослени писмено сагласи са куповином стана чија је структура мања од структуре стана који има право да купи у складу са ставом 1. овог члана, сматра се да му је трајно решено стамбено питање.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla2-clan11-stav1">
+								<content>
+									<p>Запослени који је купио стан у складу са овом уредбом у обавези је да остане у радном односу код Корисника наредних пет година од дана закључења уговора о куповини стана.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav2">
+								<content>
+									<p>У року из става 1. овог члана запослени не сме отуђити нити на било који начин ставити стан који је купио у складу са овом уредбом на располагање трећем лицу.</p>
+									<тачка id="gla2-clan11-stav2-tac3">
+										<num>3.</num>
+										<content>
+											<p> Мерила за утврђивање реда првенства</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla2-clan12-stav1">
+								<content>
+									<p>Мерила за утврђивање реда првенства су:</p>
+									<point id="gla2-clan12-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> значај радног места с обзиром на стручну спрему;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> стамбени статус;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> радни стаж;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> здравствено стање;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> инвалидност;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> телесно оштећење;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> број чланова породичног домаћинства.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan12-stav2">
+								<content>
+									<p>Значај сваког од мерила из става 1. овог члана вреднује се одговарајућим бројем бодова.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla2-clan13-stav1">
+								<content>
+									<p>Значај радног места с обзиром на стручну спрему вреднује се са највише 150 бодова и то:</p>
+									<point id="gla2-clan13-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> висока стручна спрема – 150 бодова;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> виша стручна спрема – 110 бодова;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> средња стручна спрема – 85 бодова:</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> осталим запосленим – 60 бодова.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla2-clan14-stav1">
+								<content>
+									<p>Стамбени статус вреднује се са највише 180 бодова и то:</p>
+									<point id="gla2-clan14-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> подстанар 30 и више година – 180 бодова;</p>
+										</content>
+									</point>
+									<point id="gla2-clan14-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> подстанар 25–29 година – 170 бодова;</p>
+										</content>
+									</point>
+									<point id="gla2-clan14-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> подстанар 20–24 године – 160 бодова;</p>
+										</content>
+									</point>
+									<point id="gla2-clan14-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> подстанар 15–19 година – 150 бодова;</p>
+										</content>
+									</point>
+									<point id="gla2-clan14-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> подстанар 10–14 година – 140 бодова;</p>
+										</content>
+									</point>
+									<point id="gla2-clan14-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> подстанар 5–9 година – 130 бодова;</p>
+										</content>
+									</point>
+									<point id="gla2-clan14-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> подстанар 1–4 године – 120 бодова;</p>
+										</content>
+									</point>
+									<point id="gla2-clan14-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> подстанар испод једне године – 115 бодова;</p>
+										</content>
+									</point>
+									<point id="gla2-clan14-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> корисник просторија за привремени смештај који се у смислу прописа о становању не сматрају станом – 120 бодова;</p>
+										</content>
+									</point>
+									<point id="gla2-clan14-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> становање код својих родитеља или родитеља брачног друга и других рођака – 120 бодова;</p>
+										</content>
+									</point>
+									<point id="gla2-clan14-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> корисник стана за службене потребе, собе или лежаја у самачком хотелу – 110 бодова;</p>
+										</content>
+									</point>
+									<point id="gla2-clan14-stav1-tac12">
+										<num>12)</num>
+										<content>
+											<p> носилац станарског права, односно закупац на неодређено време стана у својини грађана или сустанар – 90 бодова.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan14-stav2">
+								<content>
+									<p>Запослени који бесправно станује у туђем стану или заједничкој просторији стамбене зграде бодује се у стамбеном статусу у коме је био до бесправног усељења.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan14-stav3">
+								<content>
+									<p>Стамбени статус доказује се следећим документима: изводом из јавне књиге о евиденцији непокретности и права на њима; уговором или одлуком надлежног органа о праву коришћења, закупа или својине; уговором о подстанарском односу, односно изјавом запосленог која је оверена у суду да је подстанар; изјавом да нема стан или породичну стамбену зграду; пријавом пребивалишта, односно боравишта; потврдом органа управљања стамбеном зградом потписаном од овлашћеног лица и овереном печатом стамбене зграде; уверењем управе јавних прихода да се не дужи порезом на стан или породичну стамбену зграду; признаницама о уплаћеним комуналним услугама и другим документима којима се доказује начин коришћења стана.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan14-stav4">
+								<content>
+									<p>Запослени који од дана ступања на снагу ове уредбе, ради обезбеђења повољнијег положаја за куповину стана, на било који начин својом вољом лиши себе својине на стану или породичној стамбеној згради, односно својства закупца стана на одређено или неодређено време или корисника таквог стана или се исели из породичног домаћинства, бодоваће се у стамбеном статусу који је имао до дана промене стамбене ситуације.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla2-clan15-stav1">
+								<content>
+									<p>Дужина радног стажа вреднује се са највише 40 бодова. Свака навршена година радног стажа вреднује се са по једним бодом. Под радним стажом подразумева се време проведено у радном односу (ефективни радни стаж), које је уписано у радну књижицу.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan16">
+						<num>16.</num>
+						<heading>Брисан је став 2. (види <ref>члан 4. </ref>Уредбе - 99/2006-3)</heading>
+						<content>
+							<clause id="gla2-clan16-stav1">
+								<content>
+									<p>Здравствено стање запосленог или чланова његовог породичног домаћинства вреднује се са највише 10 бодова.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan16-stav2">
+								<content>
+									<p>Под здравственим стањем, у смислу ове уредбе, подразумевају се: малигне болести и интракранијални тумори; теже болести крви и крвотворних органа; инсулин зависни дијабетис мелитус; хронична бубрежна инсуфицијенција на дијализи и после трансплантације; теже урођене и стечене срчане мане; тежи облик астме; хронична неспецифична болест плућа; активна туберкулоза; системске аутоимуне болести; тежи облици поремећаја метаболизма; склероза; прогресивна неуромишићна обољења; епилепсија; тежи душевни поремећаји.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan16-stav3">
+								<content>
+									<p>Здравствено стање се доказује конзилијарним мишљењем здравствене установе у којој се лице из става 1. овог члана лечи.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="gla2-clan17-stav1">
+								<content>
+									<p>Инвалидност се вреднује са највише 20 бодова.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan17-stav2">
+								<content>
+									<p>Запосленом по основу личне инвалидности или инвалидности члана породичног домаћинства припада следећи број бодова, и то:</p>
+									<point id="gla2-clan17-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> ако постоји губитак радне способности 20 бодова;</p>
+										</content>
+									</point>
+									<point id="gla2-clan17-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> ако постоји преостала радна способност 10 бодова.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan17-stav3">
+								<content>
+									<p>Инвалидност се доказује решењем Републичког фонда за пензијско и инвалидско осигурање запослених.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="gla2-clan18-stav1">
+								<content>
+									<p>Телесно оштећење вреднује се са највише 20 бодова.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan18-stav2">
+								<content>
+									<p>Запосленом по основу личног телесног оштећења или телесног оштећења члана породичног домаћинства припада следећи број бодова, и то:</p>
+									<point id="gla2-clan18-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> за телесно оштећење 100% – 10 бодова;</p>
+										</content>
+									</point>
+									<point id="gla2-clan18-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> за телесно оштећење 90% – 9 бодова;</p>
+										</content>
+									</point>
+									<point id="gla2-clan18-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> за телесно оштећење 80% – 8 бодова;</p>
+										</content>
+									</point>
+									<point id="gla2-clan18-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> за телесно оштећење 70% – 7 бодова;</p>
+										</content>
+									</point>
+									<point id="gla2-clan18-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> за телесно оштећење 60% – 6 бодова;</p>
+										</content>
+									</point>
+									<point id="gla2-clan18-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> за телесно оштећење 50% – 5 бодова;</p>
+										</content>
+									</point>
+									<point id="gla2-clan18-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> за телесно оштећење 40% – 4 бода;</p>
+										</content>
+									</point>
+									<point id="gla2-clan18-stav2-tac8">
+										<num>8)</num>
+										<content>
+											<p> за телесно оштећење 30% и мање – 3 бода.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan18-stav3">
+								<content>
+									<p>Ако је телесно оштећење настало услед несреће на послу или је последица професионалног обољења, број бодова из става 2. овог члана увећава се за по пет бодова, ако је телесно оштећење настало у оружаним акцијама и ратним дејствима после 17. августа 1990. године, број бодова се увећава за по 10 бодова.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan18-stav4">
+								<content>
+									<p>Телесно оштећење се доказује решењем Републичког фонда за пензијско и инвалидско осигурање запослених.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="gla2-clan19-stav1">
+								<content>
+									<p>За сваког члана породичног домаћинства запосленом припада по пет бодова.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ПОСТУПАК РЕШАВАЊА СТАМБЕНИХ ПОТРЕБА</heading>
+				<content>
+					<article id="gla3-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla3-clan20-stav1">
+								<content>
+									<p>Поступак решавања стамбених потреба запослених, укључујући и проверу документације, спроводи комисија за расподелу станова која се образује код Корисника (у даљем тексту: Комисија).</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan20-stav2">
+								<content>
+									<p>Комисија може за обављање стручно-административних послова образовати поткомисије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan21">
+						<num>21.</num>
+						<content>
+							<clause id="gla3-clan21-stav1">
+								<content>
+									<p>Комисија, по добијању података да су обезбеђене локације за изградњу станова и закључени уговори о изградњи, расписује јавни конкурс којим позива заинтересоване да у року од 30 дана од дана објављивања конкурса поднесу пријаве са потребним доказима за утврђивање броја бодова по критеријумима утврђеним овом уредбом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan22">
+						<num>22.</num>
+						<content>
+							<clause id="gla3-clan22-stav1">
+								<content>
+									<p>По истеку рока из конкурса, Комисија обрађује податке по поднетим пријавама и проверава их по потреби увидом на лицу места или на други начин и утврђено стање констатује записнички.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan22-stav2">
+								<content>
+									<p>Бодовање се врши само по мерилима за које су приложени одговарајући докази.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan23">
+						<num>23.</num>
+						<content>
+							<clause id="gla3-clan23-stav1">
+								<content>
+									<p>На основу утврђеног броја бодова Комисија сачињава ранг-листу. Број бодова на ранг-листи утврђује се са стањем на дан истека рока за подношење пријаве на конкурс.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan24">
+						<num>24.</num>
+						<content>
+							<clause id="gla3-clan24-stav1">
+								<content>
+									<p>Ранг-листа садржи: назив комисије; правни основ на основу кога је припремљен предлог; редни број; име и презиме подносиоца захтева; број бодова по сваком основу; укупан збир бодова по свим основама; датум утврђивања предлога; датум јавног оглашавања; рок и начин подношења приговора.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan25">
+						<num>25.</num>
+						<content>
+							<clause id="gla3-clan25-stav1">
+								<content>
+									<p>Комисија објављује ранг-листу на начин доступан свим заинтересованим запосленим код Корисника (у средствима јавног информисања, на огласној табли, на сајту Министарства финансија, сајту Владе и сајту Националног инвестиционог плана).</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan25-stav2">
+								<content>
+									<p>Сваки учесник на конкурсу може уложити приговор у року од 15 дана од дана објављивања ранг-листе Другостепеној централној комисији коју образује Влада и чија је одлука коначна.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan26">
+						<num>26.</num>
+						<content>
+							<clause id="gla3-clan26-stav1">
+								<content>
+									<p>Комисија утврђује коначну ранг-листу и доноси одлуку о остваривању права на куповину стана која садржи:</p>
+									<point id="gla3-clan26-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> назив комисије која је донела одлуку и датум доношења;</p>
+										</content>
+									</point>
+									<point id="gla3-clan26-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> име и презиме запосленог који купује стан, послове које обавља, назив органа;</p>
+										</content>
+									</point>
+									<point id="gla3-clan26-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> податке о члановима његовог породичног домаћинства запосленог (име, презиме, сродство, матични број);</p>
+										</content>
+									</point>
+									<point id="gla3-clan26-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> податке о условима куповине;</p>
+										</content>
+									</point>
+									<point id="gla3-clan26-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> податке о стану (адреса, спрат, број стана, структура стана и површина);</p>
+										</content>
+									</point>
+									<point id="gla3-clan26-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> поуку о правном средству.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan26-stav2">
+								<content>
+									<p>Одлуку, која мора бити образложена, потписује председник Комисије.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan26-stav3">
+								<content>
+									<p>Комисија коначну ранг-листу доставља Другостепеној централној комисији која је доставља Републичкој дирекцији за имовину Републике Србије, са одлукама из става 1. овог члана и подацима о становима и запосленима са којима се закључује уговор о куповини стана.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan27">
+						<num>27.</num>
+						<content>
+							<clause id="gla3-clan27-stav1">
+								<content>
+									<p>Уговор о куповини стана закључују запослени и директор Републичке дирекције за имовину Републике Србије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ЗАВРШНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla4-clan28">
+						<num>28.</num>
+						<content>
+							<clause id="gla4-clan28-stav1">
+								<content>
+									<p>Ова уредба ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan28-stav2">
+								<content>
+									<p>05 број 110-8777/2006-2</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan28-stav3">
+								<content>
+									<p>У Београду, 28. септембра 2006. године</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan28-stav4">
+								<content>
+									<p>Влада</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan28-stav5">
+								<content>
+									<p>Потпредседник,</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan28-stav6">
+								<content>
+									<p>Ивана Дулић Марковић, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

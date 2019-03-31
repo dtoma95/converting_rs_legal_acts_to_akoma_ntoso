@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1973/19-627/main"/>
+					<FRBRuri value="/rs/act/1973/19-627"/>
+					<FRBRdate date="1973" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1973/19-627/srp@/main"/>
+					<FRBRuri value="/rs/act/1973/19-627/srp@"/>
+					<FRBRdate date="1973" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1973/19-627/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1973/19-627/srp@.akn"/>
+					<FRBRdate date="1973" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1973-5-19" name="службени гласник срс" number="19" showAs="Службени гласник СРС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="VI СВОЈИНСКИ И ОБЛИГАЦИОНИ, ПОРОДИЧНИ И БРАЧНИ ОДНОСИ" value="vi својински и облигациони, породични и брачни односи"/>
+				<keyword id="grupa" showAs="8. Задужбине, фондације и фондови" value="8. задужбине, фондације и фондови"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1973-03-14" id="usvajanje"/>
+				<step date="1973-05-20" id="stupanje_na_snagu"/>
+				<step date="1973-05-20" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник формалноправно није стављен ван снаге, а донет је Правилник o ближој садржини и начину вођења Регистра задужбина и фондација (<ref id="ref1" href="/rs/act/2011/16/srp@">Службени гласник РС, број 16/2011</ref>).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 27. </ref>Закона о задужбинама, фондацијам и фондовима („<ref id="ref2" href="/rs/act/72/48/srp@">Службени гласник РС“, бр. 48/72</ref>);</p>
+		</preamble>
+		<preface>
+			<authority>Републички савет за задужбине, фондације  и фондове донео је</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о подацима и начину вођења регистра задужбина, фондација и фондова</title>
+			<date>„Службени гласник СРС”, број 19 од 19.  маја 1973.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником утврђују се подаци и начин вођења регистра задужбина, фондација и фондова (даље:регистар).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Регистар се води у посебним књигама и то: за задужбине на обрасцу бр. 1; за фондације на обрасцу бр. 2 и за фондове на обрасцу бр. 3, који чине саставни део овог правилника.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Упис задужбина и фондација у регистар врши се по добијеном одобрењу за оснивање и по конституисању органа управљања.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Фонд се уписује у регистар по добијеном одобрењу за оснивање.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Књиге регистра су јавне.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>На једној страни регистра може се уписати само једна задужбина, фондација односно фонд.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>По извршеном упису у регистар задужбине, фондације односно фонда издаје се исправа о регистрацији у форми решења.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Решење из претходног става потписује председник Републичког савета за задужбине, фондације и фондове.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу наредног дана од дана објављивања у „Службеном гласнику Социјалистичке Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Број 06-18/73-02</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>У Београду, 14. марта 1973. године</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>Председник Савета,</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav5">
+						<content>
+							<p>мр Миодрег Орлић, с.р.</p>
+						</content>
+					</clause>
+					<став id="clan7-stav6">
+						<img height="286" id="Picture 1" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/c52cb475-615e-4d04-9630-d6e954e02068.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=276962&amp;regactid=276962" width="800"/>
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

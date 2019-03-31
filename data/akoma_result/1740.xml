@@ -1,0 +1,447 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2016/94-27/main"/>
+					<FRBRuri value="/rs/act/2016/94-27"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2016/94-27/srp@/main"/>
+					<FRBRuri value="/rs/act/2016/94-27/srp@"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2016/94-27/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2016/94-27/srp@.akn"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2016-11-24" name="службени гласник рс" number="94" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="VIII РАЗВОЈ" value="viii развој"/>
+				<keyword id="grupa" showAs="3. Информационе технологије" value="3. информационе технологије"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2016-11-17" id="usvajanje"/>
+				<step date="2016-12-02" id="stupanje_na_snagu"/>
+				<step date="2016-12-02" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 2. децембра 2016. године (види <ref>члан 3. </ref>Уредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 6. став 2. </ref>Закона о информационој безбeдности („<ref id="ref4" href="/rs/act/16/6/srp@">Службени гласник РС”, број 6/16</ref>) и <ref>члана 42. став 1. </ref>Закона о Влади („<ref id="ref5" href="/rs/act/05/55/srp@">Службени гласник РС”, бр. 55/05, 71/05</ref> – исправка, 101/07, 65/08, 16/11, 68/12 – УС, 72/12, 7/14 – УС и 44/14),</p>
+			<p>Влада доноси</p>
+		</preamble>
+		<preface>
+			<title>УРЕДБУ</title>
+			<authority>о утврђивању Листе послова у областима у којима се обављају делатности од општег интереса и у којима се користе информационо-комуникациони системи од посебног значаја</authority>
+			<title>&quot;Службени гласник РС&quot;, број 94 од 24.      новембра 2016.</title>
+			<date>Предмет Уредбе</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овом уредбом утврђује се Листа послова и делатности у областима у којима се обављају делатности од општег интереса и у којима се користе информационо-комуникациони системи (у даљем тексту: ИКТ системи) од посебног значаја.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>Листа послова и делатности</heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Листа послова и делатности из <ref>члана 1. </ref>ове уредбе је:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> у области производње, преноса и дистрибуције електричне енергије, у смислу закона којим се уређује енергетика:</p>
+									<item id="clan2-stav1-tac1-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> производња електричне енергије;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> снабдевање електричном енергијом, укључујући снабдевање на велико;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> пренос и управљање преносним системом електричне енергије;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> дистрибуција електричне енергије и управљање дистрибутивним системом електричне енергије;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> управљање организованим тржиштем електричне енергије;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> у области производње и прераде угља, у смислу закона којим се уређује рударство:</p>
+									<item id="clan2-stav1-tac2-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> експлоатација угља;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> истраживање, производња, прерада, транспорт и дистрибуција нафте и природног и течног гаса, као и промет нафте и нафтних деривата, у смислу закона којим се уређује енергетика:</p>
+									<item id="clan2-stav1-tac3-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> производња природног гаса;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac3-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> снабдевање природним гасом;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac3-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> јавно снабдевање природним гасом;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac3-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> транспорт природног гаса и управљање транспортним системом за природни гас;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac3-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> дистрибуција природног гаса и управљање дистрибутивним системом природног гаса;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac3-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> складиштење и управљање складиштем природног гаса;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac3-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> енергетске делатности: производња деривата нафте; транспорт нафте нафтоводима; транспорт деривата нафте продуктоводима; транспорт нафте и дериват нафте другим облицима транспорта; трговина нафтом и дериватима нафте;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac3-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> експлоатација нафте и природног гаса, у смислу закона којим се уређује рударство;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> у области железничког, поштанског и ваздушног саобраћаја:</p>
+									<item id="clan2-stav1-tac4-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> управљање јавном железничком инфраструктуром, у смислу закона којим се уређује железница;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> јавни превоз у железничком саобраћају, у смислу закона којим се уређује железница;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> поштанске услуге које обавља јавни поштански оператор, у смислу закона којим се уређује поштански саобраћај;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> аеродромске услуге, у смислу закона о ваздушном саобраћају;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> контрола летења, у смислу закона о ваздушном саобраћају;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> јавни авио-превоз, у смислу закона о ваздушном саобраћају;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> у области електронских комуникација:</p>
+									<item id="clan2-stav1-tac5-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> делатност електронских комуникација, у смислу закона којим се уређују електронске комуникације;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> у области издавања службеног гласила Републике Србије:</p>
+									<item id="clan2-stav1-tac6-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> издавање Службеног гласника у смислу закона којим се уређује објављивање закона и других прописа и аката;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> у области управљања нуклеарним објектима:</p>
+									<item id="clan2-stav1-tac7-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> управљање нуклеарним објектима у складу са законом којим се уређује заштита од јонизујућег зрачења и нуклеарна сигурност;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> у области коришћењa, управљања, заштите и унапређивања добара од општег интереса (воде, путеви, минералне сировине, шуме, пловне реке, језера, обале, бање, дивљач, заштићена подручја):</p>
+									<item id="clan2-stav1-tac8-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> управљање водама као и водним објектима и водним земљиштем у јавној својини, у смислу закона којим се уређују воде;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac8-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> управљање јавним путем, у смислу закона којим се уређују јавни путеви;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac8-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> експлоатација минералних сировина, у смислу закона којим се уређује рударство;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac8-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> газдовање шумама у државној својини, у смислу закона којим се уређују шуме;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac8-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> техничко одржавање међународних, међудржавних и државних водних путева, у смислу закона којим се уређује пловидба и луке на унутрашњим водама;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac8-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> управљање националним парковима, у смислу закона којим се уређују национални паркови;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac8-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> делатност коришћења, управљања, заштите и унапређивања популације дивљачи и њихових станишта, у смислу закона којим се уређује дивљач и ловство;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac8-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> управљање лукама и пристаништима и лучка делатност у смислу закона којим се уређује пловидба и луке на унутрашњим водама.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> у области производње, промета и превоза наоружања и војне опреме, у смислу закона којим се уређује производња, промет и превоз наоружања и војне опреме:</p>
+									<item id="clan2-stav1-tac9-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> производња наоружања и војне опреме;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac9-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> промет наоружања и војне опреме;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac9-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> превоз наоружања и војне опреме;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> у области управљања отпадом, у смислу закона којим се уређује управљање отпадом:</p>
+									<item id="clan2-stav1-tac10-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> управљање отпадом;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> у области комуналних делатности, у смислу закона о комуналним делатностима:</p>
+									<item id="clan2-stav1-tac11-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> комуналне делатности;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> у области послова финансијских институција:</p>
+									<item id="clan2-stav1-tac12-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> послови финансијских институција, у смислу закона којим се уређује Народна банка, над којима надзор, односно контролу, у складу са законом, врши Народна банка;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac12-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> послови управљања, односно обављања делатности у вези са функционисањем регулисаног тржишта, у смислу закона којим се уређује тржиште капитала;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> у области здравствене заштите, у смислу закона којим се уређује здравствена заштита:</p>
+									<item id="clan2-stav1-tac13-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> здравствену делатност коју обављају здравствене установе и друга правна лица која обављају здравствену делатност;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac14">
+								<num>14)</num>
+								<content>
+									<p> у области услуга информационог друштва намењених другим пружаоцима услуга информационог друштва у циљу омогућавања пружања њихових услуга:</p>
+									<item id="clan2-stav1-tac14-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> услуге размене интернет саобраћаја (енгл. „internet exchange point”);</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac14-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> управљање регистром националног интернет домена.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>Завршна одредба</heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Ова уредба ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>05 број 110-9473/2016-1</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>У Београду, 17. новембра 2016. године</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>Влада</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav5">
+						<content>
+							<p>Председник,</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav6">
+						<content>
+							<p>Александар Вучић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

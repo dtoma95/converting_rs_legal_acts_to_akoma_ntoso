@@ -1,0 +1,191 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2002/62-38/main"/>
+					<FRBRuri value="/rs/act/2002/62-38"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2012/69-6/srp@/main"/>
+					<FRBRuri value="/rs/act/2012/69-6/srp@"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2012/69-6/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2012/69-6/srp@.akn"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2002-11-15" name="службени лист срј" number="62" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="VIII РАЗВОЈ" value="viii развој"/>
+				<keyword id="grupa" showAs="4. Квалитет предмета опште употребе и животних намирница" value="4. квалитет предмета опште употребе и животних намирница"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2002-11-13" id="usvajanje"/>
+				<step date="2002-11-23" id="stupanje_na_snagu"/>
+				<step date="2002-11-23" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="62/2002-38" id="e1" type="generation"/>
+				<eventRef date="69/2012-6" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник је, осим одредаба чл. 11. и 12, престао да важи даном почетка примене Правилника о садржини и обрасцу пријаве за употребу у затвореним системима генетички модификованих организама, начину заштите поверљивих података из пријаве, као и о садржини пријаве за обнављање одобрења за употребу у затвореним системима (<ref id="ref5" href="/rs/act/2012/69/srp@">Службени гласник РС, број 69/2012</ref>), односно 1. јуна 2013. године, (види <ref>члан 6. </ref>Правилника - 69/2012-6).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На  основу <ref>члана 3. став 2. </ref>и <ref>члана 4. став 3. </ref>Закона о генетички модификованим  организмима (“<ref id="ref6" href="/rs/act/2001/21/srp@">Службени лист СРЈ”, бр. 21/2001</ref>), савезни министар привреде и  унутрашње трговине прописује</p>
+			<p>о ограниченој употреби генетички модификованих организама</p>
+			<p>&quot;Службени  лист СРЈ&quot;,  број 62 од 15. новембра 2002, &quot;Службени гласник РС&quot;, број 69 од 20. јула 2012 -   др. правилник</p>
+		</preamble>
+		<preface>
+			<title>ПРАВИЛНИК</title>
+			<authority>Чл. 1-10</authority>
+			<title>Престали су да важе  (види <ref>члан 6. </ref>Правилника - 69/2012-6)</title>
+			<date>IV ОСТАЛЕ ОДРЕДБЕ</date>
+		</preface>
+		<body>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Подносилац пријаве коме је  дато одобрење за ограничену употребу ГМО:</p>
+							<point id="clan11-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> спроводиће и користиће  техничке мере и средства заштите лица и објеката, односно локација;</p>
+								</content>
+							</point>
+							<point id="clan11-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> вршиће тестирање на  присуство ГМО који се користе и то ван локације наведене у одобрењу за  ограничену употребу.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>При ограниченој употреби  ГМО, потребно је спроводити следеће превентивне мере, и то:</p>
+							<point id="clan12-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> амбалажа у којој се  врши чување и транспортовање мора да задовољава следеће:</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan12-stav2">
+						<content>
+							<p>- да је осигурана од  неконтролисаног испуштања ГМО;</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav3">
+						<content>
+							<p>- да сви саставни делови  амбалаже морају да задовољавају захтеве манипулације, односно да се током  транспорта не оштете;</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav4">
+						<content>
+							<p>- да је обележена етикетом  са следећим подацима: назив и адреса произвођача, односно заступника иностраног  произвођача и логотип, садржај паковања, генетички назив, датум производње, рок  употребе, са јасно видљивим натписом &quot;генетички модификован организам&quot;;</p>
+							<point id="clan12-stav4-tac2">
+								<num>2)</num>
+								<content>
+									<p> уништавање празне  амбалаже у којој је био ГМО врши крајњи корисник познатим физичким и хемијским  средствима;</p>
+								</content>
+							</point>
+							<point id="clan12-stav4-tac3">
+								<num>3)</num>
+								<content>
+									<p> место ограничене  употребе ГМО мора да испуни услове:</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan12-stav5">
+						<content>
+							<p>- да имају постављене  ознаке &quot;Рад са ГМО&quot;;</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav6">
+						<content>
+							<p>- да испуњава услове и  критеријуме наведене у одобрењу за ограничену употребу.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav7">
+						<content>
+							<p>Приступ месту ограничене  употребе ГМО дозвољен је само особљу лабораторије, односно института.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Престао је да важи    (види <ref>члан 6. </ref>Правилника - 69/2012-6)</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav2">
+						<content>
+							<p>Бр. 1244/1</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<section id="od13">
+				<num>13.</num>
+				<heading> новембра 2002. године</heading>
+				<content>
+					<clause id="od13-clan13-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od13-clan13-stav2">
+						<content>
+							<p>Савезни министар привреде</p>
+						</content>
+					</clause>
+					<clause id="od13-clan13-stav3">
+						<content>
+							<p>и унутрашње трговине</p>
+						</content>
+					</clause>
+					<clause id="od13-clan13-stav4">
+						<content>
+							<p>Петар Тројановић,  с. р.</p>
+						</content>
+					</clause>
+					<clause id="od13-clan13-stav5">
+						<content>
+							<p>Прилози бр. 1 - 3</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

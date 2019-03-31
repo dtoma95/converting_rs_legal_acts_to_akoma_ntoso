@@ -1,0 +1,952 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2017/33-35/main"/>
+					<FRBRuri value="/rs/act/2017/33-35"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2017/33-35/srp@/main"/>
+					<FRBRuri value="/rs/act/2017/33-35/srp@"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2017/33-35/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2017/33-35/srp@.akn"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2017-4-7" name="службени гласник рс" number="33" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="1. Сточарство" value="1. сточарство"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2017-03-23" id="usvajanje"/>
+				<step date="2017-04-15" id="stupanje_na_snagu"/>
+				<step date="2017-04-15" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 67. став 2. </ref>и <ref>члана 69. став 2. </ref>Закона о сточарству („<ref id="ref2" href="/rs/act/09/41/srp@">Службени гласник РС”, бр. 41/09, 93/12</ref> и 14/16),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде и заштите животне средине доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о Листи генетских резерви домаћих животиња, начину очувања генетских резерви домаћих животиња, као и о Листи аутохтоних раса домаћих животиња и угрожених аутохтоних раса</title>
+			<date>&quot;Службени гласник РС&quot;, број 33 од 7. априла      2017.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се Листа генетских резерви домаћих животиња и начин очувања генетских резерви домаћих животиња, као и Листа аутохтоних раса домаћих животиња и угрожених аутохтоних раса, која садржи и критеријуме за утврђивање угрожености расе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Генетске резерве домаћих животиња обухватају поједине расе и сојеве домаћих животиња, које се чувају у виду минималног броја домаћих животиња, доза семена, јајних ћелија, ембриона, соматских ћелија, ДНК или другог биолошког материјала који може бити искоришћен за реконституисање животиње.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Листа генетских резерви домаћих животиња утврђује се у зависности од врсте животиња и при жељеном односу полова, а представља минималан број домаћих животиња (одраслих грла) поједине врсте, односно расе домаћих животиња, потребан за гајење и очување њихове генетске разноврсности.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Листа генетских резерви домаћих животиња из става 2. овог члана дата је у Прилогу 1 – Листа генетских резерви домаћих животиња, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Очување генетских резерви домаћих животиња врши се на један од следећих начина, и то:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> In situ – што подразумева активан динамичан приступ заштите раса, односно гајење животиња у производним системима где су настале или се сада налазе, а који подједнако укључује фарме и екстензивне производне системе;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> Ex situ – што подразумева активан приступ заштите раса изван производних система где су настале, који може бити:</p>
+									<item id="clan3-stav1-tac2-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> In vivo – гајење животиња у зоо-вртовима, заштићеним природним подручјима, музејима, истраживачким центрима и др.,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac2-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> In vitro – криоконзервација у банци гена семена, јајних ћелија, ембриона, соматских ћелија, ДНК и другог биолошког материјала који може бити искоришћен за реконституисање животиња.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Листа аутохтоних раса домаћих животиња и угрожених аутохтоних раса дата је у Прилогу 2 – Листа аутохтоних раса домаћих животиња и угрожених аутохтоних раса, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Даном ступања на снагу овог правилника престаје да важи Правилник о Листи генетских резерви домаћих животиња, начину очувања генетских резерви домаћих животиња, као и о Листи аутохтоних раса домаћих животиња и угрожених аутохтоних раса („<ref id="ref3" href="/rs/act/10/38/srp@">Службени гласник РС”, број 38/10</ref>).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Број 110-00-39/2017-09</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>У Београду, 23. марта 2017. године</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav5">
+						<content>
+							<p>Бранислав Недимовић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav6">
+						<content>
+							<p>Прилози</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav7">
+						<content>
+							<p>Прилог 1</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav8">
+						<content>
+							<p>ЛИСТА ГЕНЕТСКИХ РЕЗЕРВИ ДОМАЋИХ ЖИВОТИЊА</p>
+						</content>
+					</clause>
+					<став id="clan6-stav9">
+						<table class="tabela-sa-borderom">
+							
+					
+							<tbody>
+								
+						
+								<tr>
+									
+							
+									<td class="auto-style1">
+										
+								
+										<p>Врста животиње</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1">
+										
+								
+										<p>Минималан број животиња</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td class="auto-style1">
+										
+								
+										<p>Говеда/биволи</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1">
+										
+								
+										<p>300</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td class="auto-style1">
+										
+								
+										<p>Коњи/магарци</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1">
+										
+								
+										<p>350</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td class="auto-style1">
+										
+								
+										<p>Овце/козе</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1">
+										
+								
+										<p>250</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td class="auto-style1">
+										
+								
+										<p>Свиње</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1">
+										
+								
+										<p>200</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td class="auto-style1">
+										
+								
+										<p>Живина</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1">
+										
+								
+										<p>300</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+					
+							</tbody>
+							
+				
+						</table>
+						
+				
+						<content/>
+					</став>
+					<clause id="clan6-stav10">
+						<content>
+							<p>Прилог 2</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav11">
+						<content>
+							<p>ЛИСТА АУТОХТОНИХ РАСА ДОМАЋИХ ЖИВОТИЊА И УГРОЖЕНИХ АУТОХТОНИХ РАСА</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>Листа аутохтоних раса домаћих животиња и угрожених аутохтоних раса у Републици Србији обухвата следеће расе, и то:</heading>
+				<content>
+					<point id="gla1-clan6-tac1">
+						<num>1)</num>
+						<content>
+							<p> Говеда</p>
+							<alinea id="gla1-clan6-tac1-ali1">
+								<content>
+									<p>уша</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac1-ali2">
+								<content>
+									<p>одолско говече</p>
+								</content>
+							</alinea>
+						</content>
+					</point>
+					<point id="gla1-clan6-tac2">
+						<num>2)</num>
+						<content>
+							<p> Биволи</p>
+							<alinea id="gla1-clan6-tac2-ali1">
+								<content>
+									<p>омаћи биво</p>
+								</content>
+							</alinea>
+						</content>
+					</point>
+					<point id="gla1-clan6-tac3">
+						<num>3)</num>
+						<content>
+							<p> Коњи</p>
+							<alinea id="gla1-clan6-tac3-ali1">
+								<content>
+									<p>омаћи брдски коњ</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac3-ali2">
+								<content>
+									<p>оњ расе nonius</p>
+								</content>
+							</alinea>
+						</content>
+					</point>
+					<point id="gla1-clan6-tac4">
+						<num>4)</num>
+						<content>
+							<p> Магарци</p>
+							<alinea id="gla1-clan6-tac4-ali1">
+								<content>
+									<p>алкански магарац</p>
+								</content>
+							</alinea>
+						</content>
+					</point>
+					<point id="gla1-clan6-tac5">
+						<num>5)</num>
+						<content>
+							<p> Свиње</p>
+							<alinea id="gla1-clan6-tac5-ali1">
+								<content>
+									<p>ангулица</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac5-ali2">
+								<content>
+									<p>оравка</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac5-ali3">
+								<content>
+									<p>есавка</p>
+								</content>
+							</alinea>
+						</content>
+					</point>
+					<point id="gla1-clan6-tac6">
+						<num>6)</num>
+						<content>
+							<p> Овце</p>
+							<alinea id="gla1-clan6-tac6-ali1">
+								<content>
+									<p>ардока</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac6-ali2">
+								<content>
+									<p>лашко-виторога овца</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac6-ali3">
+								<content>
+									<p>аракачанска овца</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac6-ali4">
+								<content>
+									<p>ривовирска овца</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac6-ali5">
+								<content>
+									<p>ипска овца</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac6-ali6">
+								<content>
+									<p>иротска овца</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac6-ali7">
+								<content>
+									<p>врљишка овца</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac6-ali8">
+								<content>
+									<p>јеничка овца</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac6-ali9">
+								<content>
+									<p>игаја</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac6-ali10">
+								<content>
+									<p>оканска цигаја</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac6-ali11">
+								<content>
+									<p>арпланинска овца</p>
+								</content>
+							</alinea>
+						</content>
+					</point>
+					<point id="gla1-clan6-tac7">
+						<num>7)</num>
+						<content>
+							<p> Козе</p>
+							<alinea id="gla1-clan6-tac7-ali1">
+								<content>
+									<p>алканска коза</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac7-ali2">
+								<content>
+									<p>омаћа бела коза</p>
+								</content>
+							</alinea>
+						</content>
+					</point>
+					<point id="gla1-clan6-tac8">
+						<num>8)</num>
+						<content>
+							<p> Живина</p>
+							<alinea id="gla1-clan6-tac8-ali1">
+								<content>
+									<p>анатски голошијан</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac8-ali2">
+								<content>
+									<p>осовски певач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac8-ali3">
+								<content>
+									<p>врљишка кокош</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac8-ali4">
+								<content>
+									<p>омборска капорка</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac8-ali5">
+								<content>
+									<p>омаћа бисерка</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac8-ali6">
+								<content>
+									<p>омаћа гуска</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac8-ali7">
+								<content>
+									<p>омаћа пловка</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac8-ali8">
+								<content>
+									<p>омаћа ћурка</p>
+								</content>
+							</alinea>
+						</content>
+					</point>
+					<point id="gla1-clan6-tac9">
+						<num>9)</num>
+						<content>
+							<p> Пчеле</p>
+							<alinea id="gla1-clan6-tac9-ali1">
+								<content>
+									<p>pis mellifera carnica</p>
+								</content>
+							</alinea>
+						</content>
+					</point>
+					<point id="gla1-clan6-tac10">
+						<num>10)</num>
+						<content>
+							<p> Пси</p>
+							<alinea id="gla1-clan6-tac10-ali1">
+								<content>
+									<p>рпски гонич</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac10-ali2">
+								<content>
+									<p>рпски тробојни гонич</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac10-ali3">
+								<content>
+									<p>арпланинац</p>
+								</content>
+							</alinea>
+						</content>
+					</point>
+					<point id="gla1-clan6-tac11">
+						<num>11)</num>
+						<content>
+							<p> Голубови</p>
+							<alinea id="gla1-clan6-tac11-ali1">
+								<content>
+									<p>патински летач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali2">
+								<content>
+									<p>анатски пилићасти голуб</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali3">
+								<content>
+									<p>ачки галебић</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali4">
+								<content>
+									<p>ачки изложбени писмоноша</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali5">
+								<content>
+									<p>ачки превртач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali6">
+								<content>
+									<p>ачкотополски високолетач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali7">
+								<content>
+									<p>ласотиначки белорепи голуб</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali8">
+								<content>
+									<p>ојвођански гаћасти голуб</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali9">
+								<content>
+									<p>ршачки превртач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali10">
+								<content>
+									<p>аковички голуб</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali11">
+								<content>
+									<p>рењанински једнобојни летач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali12">
+								<content>
+									<p>рењанински огрличасти голуб</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali13">
+								<content>
+									<p>рењанински пругасти високолетач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali14">
+								<content>
+									<p>рењанински срцасти голуб</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali15">
+								<content>
+									<p>ужнобачки летач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali16">
+								<content>
+									<p>икиндски високолетач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali17">
+								<content>
+									<p>осовски галебић</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali18">
+								<content>
+									<p>рушевачко-поморавски голуб</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali19">
+								<content>
+									<p>ознички краткокљуни голуб</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali20">
+								<content>
+									<p>ишки белорепи летач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali21">
+								<content>
+									<p>ишки високолетач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali22">
+								<content>
+									<p>ишки краткокљуни голуб</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali23">
+								<content>
+									<p>ишки стандард голуб</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali24">
+								<content>
+									<p>овосадски белокрили летач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali25">
+								<content>
+									<p>овосадски гаћасти голуб</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali26">
+								<content>
+									<p>овосадски краткокљуни голуб</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali27">
+								<content>
+									<p>овосадски огрличасти летач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali28">
+								<content>
+									<p>овосадски пругасти голуб</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali29">
+								<content>
+									<p>овосадски средњекљуни летач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali30">
+								<content>
+									<p>анчевачки голуб</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali31">
+								<content>
+									<p>ећки голуб</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali32">
+								<content>
+									<p>риштински превртач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali33">
+								<content>
+									<p>енчански летач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali34">
+								<content>
+									<p>омборски гаћасти летач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali35">
+								<content>
+									<p>омборски дугокљуни летач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali36">
+								<content>
+									<p>омборски жутооки летач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali37">
+								<content>
+									<p>омборски плавосрцасти летач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali38">
+								<content>
+									<p>ремско-митровачки превртач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali39">
+								<content>
+									<p>рпски високолетач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali40">
+								<content>
+									<p>тапарски летач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali41">
+								<content>
+									<p>уботичи белорепи летач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali42">
+								<content>
+									<p>уботички белопругасти голуб</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali43">
+								<content>
+									<p>уботички висококружни модри голуб</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali44">
+								<content>
+									<p>уботички двосрцасти летач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali45">
+								<content>
+									<p>уботички дрхтави голуб</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali46">
+								<content>
+									<p>уботички огрличасти високолетач</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali47">
+								<content>
+									<p>уботички украсни голуб</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali48">
+								<content>
+									<p>имочки цветасти голуб</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan6-tac11-ali49">
+								<content>
+									<p>антавирски високолетач</p>
+								</content>
+							</alinea>
+						</content>
+					</point>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>Угрожене аутохтоне расе су оне расе домаћих животиња код којих укупан број женских приплодних грла није већи од:</heading>
+				<content>
+					<point id="gla2-clan6-tac1">
+						<num>1)</num>
+						<content>
+							<p> за говеда 7.500 грла;</p>
+						</content>
+					</point>
+					<point id="gla2-clan6-tac2">
+						<num>2)</num>
+						<content>
+							<p> за овце 10.000 грла;</p>
+						</content>
+					</point>
+					<point id="gla2-clan6-tac3">
+						<num>3)</num>
+						<content>
+							<p> за козе 10.000 грла;</p>
+						</content>
+					</point>
+					<point id="gla2-clan6-tac4">
+						<num>4)</num>
+						<content>
+							<p> за коње 5.000 грла;</p>
+						</content>
+					</point>
+					<point id="gla2-clan6-tac5">
+						<num>5)</num>
+						<content>
+							<p> за свиње 15.000 грла;</p>
+						</content>
+					</point>
+					<point id="gla2-clan6-tac6">
+						<num>6)</num>
+						<content>
+							<p> за живину 25.000 грла.</p>
+						</content>
+					</point>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>Критеријуми за утврђивање угрожености расе</heading>
+				<content>
+					<clause id="gla3-clan6-stav1">
+						<content>
+							<p>Одређивање статуса угрожености је један од важних показатеља стања локално адаптираних раса у Републици Србији. Дефинисање статуса угрожености раса зависи од бројних чинилаца, и то: броја репродуктивно способних мушких и женских јединки, нивоа гајења у сродству, ефеката репродукције и трендова популације. Израчунавање ефективне величине популације (Ne), које се врши по формули:</p>
+						</content>
+					</clause>
+					<clause id="gla3-clan6-stav2">
+						<content>
+							<p>Ne = 4×Nm×Nf/N</p>
+						</content>
+					</clause>
+					<clause id="gla3-clan6-stav3">
+						<content>
+							<p>При чему је:</p>
+						</content>
+					</clause>
+					<clause id="gla3-clan6-stav4">
+						<content>
+							<p>Ne – ефективна величина популације;</p>
+						</content>
+					</clause>
+					<clause id="gla3-clan6-stav5">
+						<content>
+							<p>Nm – број репродуктивно способних мушких јединки;</p>
+						</content>
+					</clause>
+					<clause id="gla3-clan6-stav6">
+						<content>
+							<p>Nf – број репродуктивно способних женских јединки;</p>
+						</content>
+					</clause>
+					<clause id="gla3-clan6-stav7">
+						<content>
+							<p>N – укупан број репродуктивно способних јединки.</p>
+						</content>
+					</clause>
+					<clause id="gla3-clan6-stav8">
+						<content>
+							<p>У односу на степен угрожености, расе се сврставају у четири групе: I (критично угрожена), II (високо угрожена), III (потенцијално угрожена), IV (није угрожена).</p>
+						</content>
+					</clause>
+					<clause id="gla3-clan6-stav9">
+						<content>
+							<p>I група (критично угрожена): раса је критично угрожена уколико је Ne ≤ 50.</p>
+						</content>
+					</clause>
+					<clause id="gla3-clan6-stav10">
+						<content>
+							<p>II група (високо угрожена): раса је високо угрожена уколико је N &gt; 50 и Ne ≤ 200.</p>
+						</content>
+					</clause>
+					<clause id="gla3-clan6-stav11">
+						<content>
+							<p>III група (потенцијално угрожена): раса је потенцијално угрожена уколико је N &gt; 200 и Ne ≤ 1000.</p>
+						</content>
+					</clause>
+					<clause id="gla3-clan6-stav12">
+						<content>
+							<p>IV група (није угрожена): раса није угрожена уколико је N &gt; 1000.</p>
+						</content>
+					</clause>
+					<clause id="gla3-clan6-stav13">
+						<content>
+							<p>Осим ефективне величине популације (Ne), приликом категоризације расе у односу на степен угрожености, могу се уважавати и други параметри: степен гајења у сродству, тренд популације, географска распрострањеност популације, потенцијални ризик од појава епидемија, постојање програма одрживог коришћења, заинтересованост јавног мњења за одређену расу.</p>
+						</content>
+					</clause>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

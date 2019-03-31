@@ -1,0 +1,645 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1987/24-1411/main"/>
+					<FRBRuri value="/rs/act/1987/24-1411"/>
+					<FRBRdate date="1987" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1987/24-1411/srp@/main"/>
+					<FRBRuri value="/rs/act/1987/24-1411/srp@"/>
+					<FRBRdate date="1987" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1987/24-1411/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1987/24-1411/srp@.akn"/>
+					<FRBRdate date="1987" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1987-6-27" name="службени гласник срс" number="24." showAs="Службени гласник СРС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Упутство" value="упутство"/>
+				<keyword id="oblast" showAs="III ПРАВОСУЂЕ, КАЗНЕНО ЗАКОНОДАВСТВО И ПОСТУПЦИ" value="iii правосуђе, казнено законодавство и поступци"/>
+				<keyword id="grupa" showAs="5. Вештачење" value="5. вештачење"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1987-06-12" id="usvajanje"/>
+				<step date="" id="stupanje_na_snagu"/>
+				<step date="" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Упутство је донето на основу Закона о условима за обављање послова вештачења (<ref id="ref8" href="/rs/act/1987/16/srp@">Службени гласник СРС, број 16/1987</ref>) и формалноправно није стављено ван снаге.Законом о судским вештацима („<ref id="ref9" href="/rs/act/2010/44/srp@">Службени гласник РС“, број 44/2010</ref>) установљен је регистар вештака и регистар правних лица за обављање послова вештачења које води министарство надлежно за послове правосуђа. Регистри се воде у електронском облику и јавно су доступни преко интернет странице министарства (види чл. 16. и 22. Закона – 44/2010-31).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 5. </ref>Закона о условима за обављање послова вештачења (&quot;<ref id="ref10" href="/rs/act/87/16/srp@">Службени гласник Социјалистичке Републике Србије&quot;, број 16/87</ref>),</p>
+			<p>Републички секретар за правосуђе и управу, доноси</p>
+		</preamble>
+		<preface>
+			<authority>УПУТСТВО</authority>
+			<title>о начину вођења регистра друштвено-правних лица и регистра сталних вештака који врше послове вештачења</title>
+			<date>&quot;Службени гласник СРС&quot;, број 24 од 27. јуна 1987.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Овим упутством прописује се садржина и начин вођења евиденција о друштвено-правним и физичким лицима која врше послове вештачења.</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Евиденције из тачке 1. овог упутства, путем регистра друштвено-правних лица и регистра сталних вештака води Републички секретаријат за правосуђе и управу и садрже:</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>А) - назив и седиште друштвено-правног лица (<ref>члан 3. </ref>Закона);</p>
+						</content>
+					</clause>
+					<clause id="od2-stav2">
+						<content>
+							<p>- делатност друштвено-правног лица;</p>
+						</content>
+					</clause>
+					<clause id="od2-stav3">
+						<content>
+							<p>- подаци о испуњености материјалних услова, техничких услова за обављање послова вештачења, подаци о упису у судски регистар, односно подаци о оснивачком акту (чл. 14. и 15. Закона);</p>
+						</content>
+					</clause>
+					<clause id="od2-stav4">
+						<content>
+							<p>- подаци о врстама вештачења које друштвено-правно лице може обављати;</p>
+						</content>
+					</clause>
+					<clause id="od2-stav5">
+						<content>
+							<p>- подаци о испуњености услова за вршење послова вештачења за сваког појединог вештака, по областима (<ref>члан 16. </ref>Закона);</p>
+						</content>
+					</clause>
+					<clause id="od2-stav6">
+						<content>
+							<p>- датум уписа,</p>
+						</content>
+					</clause>
+					<clause id="od2-stav7">
+						<content>
+							<p>- подаци о примедбама на рад радника друштвено-правних лица која обављају послове вештачења;</p>
+						</content>
+					</clause>
+					<clause id="od2-stav8">
+						<content>
+							<p>- подаци о брисању;</p>
+						</content>
+					</clause>
+					<clause id="od2-stav9">
+						<content>
+							<p>Б) - име и презиме сталног вештака;</p>
+						</content>
+					</clause>
+					<clause id="od2-stav10">
+						<content>
+							<p>- подаци о стручној спреми, стручној оспособљености, врсти, природи посла који обавља или је обављао, о осуђиваности, односно неосуђиваности и др. (<ref>члан 19. </ref>Закона);</p>
+						</content>
+					</clause>
+					<clause id="od2-stav11">
+						<content>
+							<p>- подаци о начину обављања вештачења (<ref>члан 27</ref>);</p>
+						</content>
+					</clause>
+					<clause id="od2-stav12">
+						<content>
+							<p>- подаци о врсти и области вештачења;</p>
+						</content>
+					</clause>
+					<clause id="od2-stav13">
+						<content>
+							<p>- подаци о упису, достављању решења, жалби на упис;</p>
+						</content>
+					</clause>
+					<clause id="od2-stav14">
+						<content>
+							<p>- подаци о свечаној изјави;</p>
+						</content>
+					</clause>
+					<clause id="od2-stav15">
+						<content>
+							<p>- подаци о радној заједници сталних вештака;</p>
+						</content>
+					</clause>
+					<clause id="od2-stav16">
+						<content>
+							<p>- подаци о захтеву или предлогу за брисање;</p>
+						</content>
+					</clause>
+					<clause id="od2-stav17">
+						<content>
+							<p>- подаци о кривичном поступку против сталног вештака;</p>
+						</content>
+					</clause>
+					<clause id="od2-stav18">
+						<content>
+							<p>- подаци о примедбама на рад сталног вештака.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Евиденција се води на обрасцима Р1 и Р2 који су саставни део овог упутства.</heading>
+				<content/>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> У обрасцу Р1 уносе се подаци за друштвено-правна лица која обављају послове вештачења.</heading>
+				<content/>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> У обрасцу Р2 уносе се подаци за физичка лица која обављају послове сталног вештака.</heading>
+				<content/>
+			</section>
+			<section id="od6">
+				<num>6.</num>
+				<heading> Ово упутство ће се објавити у &quot;Службеном гласнику Социјалистичке Републике Србије&quot;.</heading>
+				<content>
+					<clause id="od6-stav1">
+						<content>
+							<p>Број: 011-61/87-01</p>
+						</content>
+					</clause>
+					<clause id="od6-stav2">
+						<content>
+							<p>У Београду, 12. јуна 1987. године</p>
+						</content>
+					</clause>
+					<clause id="od6-stav3">
+						<content>
+							<p>Републички секретаријат за правосуђе и управу</p>
+						</content>
+					</clause>
+					<clause id="od6-stav4">
+						<content>
+							<p>Републички секретар,</p>
+						</content>
+					</clause>
+					<clause id="od6-stav5">
+						<content>
+							<p>Драган Шапоњић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="od6-stav6">
+						<content>
+							<p>Обрасци</p>
+						</content>
+					</clause>
+					<clause id="od6-stav7">
+						<content>
+							<p>Образац Р1</p>
+						</content>
+					</clause>
+					<став id="od6-stav8">
+						<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 100%" width="90%">
+							
+
+							<tbody>
+								
+
+								<tr>
+									
+
+									<td align="center" style="BORDER-TOP: black 0.0833333333333333rem inset; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: black 0.0833333333333333rem inset; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>Назив и седиште друштвено-правног лица</p>
+									</td>
+									
+
+									<td align="center" style="BORDER-TOP: black 0.0833333333333333rem inset; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>Делатност друштвено правног лица</p>
+									</td>
+									
+
+									<td align="center" style="BORDER-TOP: black 0.0833333333333333rem inset; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>Подаци из чл. 15. и 16. Закона</p>
+									</td>
+									
+
+									<td align="center" style="BORDER-TOP: black 0.0833333333333333rem inset; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>Врста вештачења која друштвено правна лица могу обављати</p>
+									</td>
+									
+
+									<td align="center" style="BORDER-TOP: black 0.0833333333333333rem inset; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>Подаци о појединим вештацима (<ref>члан 16</ref>.)</p>
+									</td>
+									
+
+									<td align="center" style="BORDER-TOP: black 0.0833333333333333rem inset; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>Датум уписа</p>
+									</td>
+									
+
+									<td align="center" style="BORDER-TOP: black 0.0833333333333333rem inset; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>Примедбе на рад радника друштвено -правног лица</p>
+									</td>
+									
+
+									<td align="center" style="BORDER-TOP: black 0.0833333333333333rem inset; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>Подаци о брисању</p>
+									</td>
+								</tr>
+								
+
+								<tr>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: black 0.0833333333333333rem inset; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>1</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>2</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>3</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>4</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>5</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>6</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>7</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>8</p>
+									</td>
+								</tr>
+								
+
+								<tr>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: black 0.0833333333333333rem inset; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p/>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p/>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p/>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p/>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p/>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p/>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p/>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p/>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						
+
+						<content/>
+					</став>
+					<clause id="od6-stav9">
+						<content>
+							<p>Образац Р2</p>
+						</content>
+					</clause>
+					<став id="od6-stav10">
+						<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 100%" width="90%">
+							
+
+							<tbody>
+								
+
+								<tr>
+									
+
+									<td style="BORDER-TOP: black 0.0833333333333333rem inset; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: black 0.0833333333333333rem inset; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>Презиме и име сталног вештака</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: black 0.0833333333333333rem inset; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>Подаци из <ref>члана 19. </ref>Закона</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: black 0.0833333333333333rem inset; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>Начин обавља-ња вешта-чења (<ref>члан 17</ref>.)</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: black 0.0833333333333333rem inset; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>Врста и област вешта-чења</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: black 0.0833333333333333rem inset; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>Упис, доста-вљање решења, жалба</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: black 0.0833333333333333rem inset; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>Датум свечане изјаве</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: black 0.0833333333333333rem inset; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>Подаци о радној заје-дници сталних вештака</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: black 0.0833333333333333rem inset; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>Подаци о захтеву или предлогу за вешта-чење</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: black 0.0833333333333333rem inset; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>Подаци о кривичном поступку</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: black 0.0833333333333333rem inset; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>Подаци о приме-дбама</p>
+									</td>
+								</tr>
+								
+
+								<tr>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: black 0.0833333333333333rem inset; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>1</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>2</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>3</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>4</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>5</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>6</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>7</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>8</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>9</p>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p>10</p>
+									</td>
+								</tr>
+								
+
+								<tr>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: black 0.0833333333333333rem inset; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p/>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p/>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p/>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p/>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p/>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p/>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p/>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p/>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p/>
+									</td>
+									
+
+									<td style="BORDER-TOP: medium none; BORDER-RIGHT: black 0.0833333333333333rem inset; BORDER-BOTTOM: black 0.0833333333333333rem inset; PADDING-BOTTOM: 0.3125rem; PADDING-TOP: 0.3125rem; PADDING-LEFT: 0.3125rem; BORDER-LEFT: medium none; PADDING-RIGHT: 0.3125rem">
+										
+
+										<p/>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						
+
+						<content/>
+					</став>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

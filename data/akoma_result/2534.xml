@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1994/78-936/main"/>
+					<FRBRuri value="/rs/act/1994/78-936"/>
+					<FRBRdate date="1994" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1994/78-936/srp@/main"/>
+					<FRBRuri value="/rs/act/1994/78-936/srp@"/>
+					<FRBRdate date="1994" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1994/78-936/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1994/78-936/srp@.akn"/>
+					<FRBRdate date="1994" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1994-10-28" name="службени лист срј" number="78" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="4. Задруге" value="4. задруге"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1994-10-25" id="usvajanje"/>
+				<step date="1994-10-29" id="stupanje_na_snagu"/>
+				<step date="1994-01-29" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 28. став 3. </ref>Закона о задругама (“<ref id="ref1" href="/rs/act/90/3/srp@">Службени лист СФРЈ”, бр. 3/90</ref>), Скупштина Задруæног савеза Југославије, доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о утврђивању основице и стопе доприноса   Задружног  савеза   Југославије</title>
+			<date>„Службени лист СРЈ”, број 78 од 28. октобра 1994.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Основицу за утврђивање доприноса којим чланице Задружног савеза Југославије (у даљем тексту: Савез) обезбеђују средства за рад Савеза чине остварене бруто-зараде без умањења по основу ослобађања и олакшица.</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Чланице Савеза плаћају допринос по стопи од 0,60% од основице доприноса.</heading>
+				<content/>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Допринос се плаћа на жиро-рачун: Задружног савеза Југославије број 40806-603-2-14104 с позивом на број 05-740000, на дан уплате пореза и доприноса на зараде.</heading>
+				<content/>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Ова одлука ступа на снагу наредног дана од дана објављивања у „Службеном листу СРЈ”.</heading>
+				<content>
+					<clause id="od4-stav1">
+						<content>
+							<p>Број: 2600/162</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od25">
+				<num>25.</num>
+				<heading> октобра 1994. године</heading>
+				<content>
+					<clause id="od25-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od25-stav2">
+						<content>
+							<p>Председник</p>
+						</content>
+					</clause>
+					<clause id="od25-stav3">
+						<content>
+							<p>Задружног савеза</p>
+						</content>
+					</clause>
+					<clause id="od25-stav4">
+						<content>
+							<p>Југославије,</p>
+						</content>
+					</clause>
+					<clause id="od25-stav5">
+						<content>
+							<p>Драгиша Шљиванчанин,  с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

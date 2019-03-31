@@ -1,0 +1,652 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2016/15-70/main"/>
+					<FRBRuri value="/rs/act/2016/15-70"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2016/15-70/srp@/main"/>
+					<FRBRuri value="/rs/act/2016/15-70/srp@"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2016/15-70/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2016/15-70/srp@.akn"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2016-2-25" name="службени гласник рс" number="15" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="11. Регистрација привредних субјеката" value="11. регистрација привредних субјеката"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2016-02-17" id="usvajanje"/>
+				<step date="2016-03-04" id="stupanje_na_snagu"/>
+				<step date="2016-03-04" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 8. став 7. </ref>Закона о привредним коморама („<ref id="ref9" href="/rs/act/15/112/srp@">Службени гласник РС”, број 112/15</ref>) и <ref>члана 44. </ref>Закона о поступку регистрације у Агенцији за привредне регистре („<ref id="ref10" href="/rs/act/11/99/srp@">Службени гласник РС”, бр. 99/11</ref> и 83/14),</p>
+			<p>Министар привреде доноси</p>
+		</preamble>
+		<preface>
+			<title>ПРАВИЛНИК</title>
+			<authority>о садржини и начину вођења Регистра привредних комора и Регистра представништава страних привредних комора</authority>
+			<title>&quot;Службени гласник РС&quot;, број 15 од 25. фебруара      2016.</title>
+			<date>Предмет уређивања</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником уређује се садржина и начин вођења Регистра привредних комора и Регистра представништава страних привредних комора, као и документа која се прилажу уз регистрацију.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>Начин вођења регистара</heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Регистри из <ref>члана 1. овог</ref> правилника воде се као јединствене, централне, јавне електронске базе података и докумената о привредним коморама и представништвима страних привредних комора које обављају своју делатност на територији Републике Србије.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>Предмет регистрације</heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>У регистре из <ref>члана 1. овог</ref> правилника уписују се подаци о привредној комори и представништву стране привредне коморе, промене уписаних података као и брисање привредне коморе и представништва стране привредне коморе из регистара.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Регистри из <ref>члана 1. овог</ref> правилника, поред података из става 1. овог члана, садрже и документа на основу којих је извршена регистрација.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>Садржина Регистра привредних комора</heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Регистар привредних комора садржи податке о привредној комори који су прописани законом, и то:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив и скраћени назив;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> седиште и адреса седишта;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> облик организовања (Привредна комора Србије, Привредна комора Војводине, Привредна комора Косова и Метохије или уговорна привредна комора);</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> датум оснивања;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> матични/регистарски број;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> ПИБ;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> лично име, пребивалиште, односно боравиште и јединствени матични број грађана, односно број путне исправе и држава издавања путне исправе или јединствени матични број за странца за председника привредне коморе и за друга лица овлашћена за заступање ако је предвиђено;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> време на које се оснива или податак о томе да се оснива на неодређено време;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> датум доношења статута односно датум измена и допуна статута;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> упис чланства у савезу или другој асоцијацији у земљи или иностранству;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> подаци о статусној промени;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> подаци о ликвидацији и стечају;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> подаци о брисању из Регистра;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac14">
+								<num>14)</num>
+								<content>
+									<p> контакт подаци (број телефона, број мобилног телефона и адреса електронске поште;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac15">
+								<num>15)</num>
+								<content>
+									<p> забележба података од значаја за правни промет.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Поред података из става 1. овог члана Регистар привредних комора садржи податке који могу да постоје, и то:</p>
+							<point id="clan4-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив привредне коморе на страном језику;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> назив привредне коморе на језику националне мањине;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> бројеви рачуна у банкама.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<heading>Садржина Регистра представништава страних привредних комора</heading>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Регистар представништава страних привредних комора садржи податке о представништву стране привредне коморе који су прописани законом, и то:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив и седиште стране привредне коморе;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> назив, седиште и адреса представништва стране привредне коморе у Републици Србији;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> име лица овлашћеног за заступање стране привредне коморе у Републици Србији;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> број и датум решења о упису у Регистар представништава страних привредних комора;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> број и датум решења о брисању из Регистра представништава страних привредних комора;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> контакт подаци (број телефона, број мобилног телефона и адреса електронске поште), представништва стране привредне коморе у Републици Србији;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> матични број и порески идентификациони број (ПИБ) представништва стране привредне коморе.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Поред података из става 1. овог члана Регистар представништава страних привредних комора садржи податке који могу да постоје, и то:</p>
+							<point id="clan5-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив представништва на страном језику;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> бројеви рачуна у банкама;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> забелешка података од значаја за правни промет.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<heading>Упис у регистре</heading>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Упис привредне коморе и представништва стране привредне коморе у регистре из <ref>члана 1. овог</ref> правилника врши се на основу поднете пријаве за упис, прописане документације у оригиналу или овереној фотокопији и доказа о уплати накнаде за упис у регистре из <ref>члана 1. овог</ref> правилника.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Подаци о матичном броју и пореском идентификационом броју (ПИБ) привредне коморе и представништва стране привредне коморе уписују се у регистре из <ref>члана 1. овог</ref> правилника по службеној дужности, на основу одлуке надлежног органа за доделу матичног броја, односно пореског идентификационог броја.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<heading>Документа за упис оснивања у Регистар привредних комора</heading>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Уз регистрациону пријаву за упис оснивања привредне коморе у Регистар привредних комора подноси се:</p>
+							<point id="clan7-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> оснивачки акт;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> статут;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> записник са оснивачке скупштине;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> доказ о идентитету оснивача (извод из одговарајућег регистра или други доказ о правном субјективитету);</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> акт о избору лица овлашћеног за заступање;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> фотокопија личне карте или пасоша за лице овлашћено за заступање;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> доказ о уплати накнаде за упис у Регистар привредних комора.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<heading>Документа за упис оснивања у Регистар представништава страних привредних комора</heading>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Уз регистрациону пријаву за упис оснивања представништва стране привредне коморе у Регистар представништава страних привредних комора подноси се:</p>
+							<point id="clan8-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> акт о регистрацији/оснивању и оверен превод од овлашћеног судског тумача, акта о регистрацији/оснивању стране привредне коморе у матичној држави или потврда (изјава) оверена од стране суда или јавног бележника да страна привредна комора има својство правног лица и без уписа у одговарајући регистар;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> одлука и оверен превод од овлашћеног судског тумача, одлуке надлежног органа стране привредне коморе о отварању представништва и лицу овлашћеном за заступање представништва у Републици Србији;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> фотокопија личне карте или пасоша лица овлашћеног за заступање представништва у Републици Србији;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> доказ о уплати накнаде за упис у Регистар представништава страних привредних комора.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<heading>Документа за упис промене података у Регистар привредних комора</heading>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Уз регистрациону пријаву за упис промене података у Регистар привредних комора, подноси се:</p>
+							<point id="clan9-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> одлука надлежног органа о промени података;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> записник са седнице надлежног органа на којој је донета одлука о промени података;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> доказ о уплати накнаде за упис промене података у Регистар привредних комора;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> друга документа у складу са законом.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>За регистрацију припајања Регионалне привредне коморе или Привредне коморе Београда, Привредној комори Србије, уз регистрациону пријаву се достављају документа прописана чланом 46. став 1. Закона о привредним коморама („<ref id="ref11" href="/rs/act/15/112/srp@">Службени гласник РС”, број 112/15</ref>) и доказ о уплати накнаде за регистрацију.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav3">
+						<content>
+							<p>За регистрацију промене облика организовања Регионалне привредне коморе или Привредне коморе Београда, уз регистрациону пријаву се достављају документа прописана чланом 46. став 7. Закона о привредним коморама („<ref id="ref12" href="/rs/act/15/112/srp@">Службени гласник РС”, број 112/15</ref>) и доказ о уплати накнаде за регистрацију.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<heading>Документа за упис промене података у Регистар представништава страних привредних комора</heading>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Уз регистрациону пријаву за упис промене података у Регистар представништава страних привредних комора подноси се:</p>
+							<point id="clan10-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> одлука и оверен превод од овлашћеног судског тумача, одлуке надлежног органа стране привредне коморе о промени података;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> доказ о уплати накнаде за упис промене података у Регистар представништава страних привредних комора;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> друга документа у складу са законом.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<heading>Документа за упис ликвидације у Регистар привредних комора</heading>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Уз регистрациону пријаву за упис ликвидације у Регистар привредних комора, подноси се:</p>
+							<point id="clan11-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> одлука надлежног органа о покретању поступка ликвидације и именовању ликвидационог управника;</p>
+								</content>
+							</point>
+							<point id="clan11-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> записник са седнице надлежног органа на којој је донета одлука;</p>
+								</content>
+							</point>
+							<point id="clan11-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> доказ о идентитету ликвидационог управника – фотокопија личне карте или пасоша (ако се за ликвидационог управника именује лице које није уписано као заступник);</p>
+								</content>
+							</point>
+							<point id="clan11-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> доказ о уплати накнаде за упис ликвидације у Регистар привредних комора;</p>
+								</content>
+							</point>
+							<point id="clan11-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> друга документа у складу са законом.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<heading>Документа за упис стечаја у Регистар привредних комора</heading>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Уз регистрациону пријаву за упис стечајног поступка у Регистар привредних комора, подноси се:</p>
+							<point id="clan12-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> решење надлежног стечајног суда о покретању стечајног поступка и именовању стечајног управника;</p>
+								</content>
+							</point>
+							<point id="clan12-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> доказ о уплати накнаде.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<heading>Документа за брисање из Регистра привредних комора</heading>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Уз регистрациону пријаву за брисање из Регистра привредних комора, подносе се:</p>
+							<point id="clan13-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> докази на основу којих се утврђују чињенице за брисање привредне коморе;</p>
+								</content>
+							</point>
+							<point id="clan13-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> доказ о уплати накнаде за брисање из Регистра.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan14">
+				<num>14.</num>
+				<heading>Документа за брисање из Регистра представништава страних привредних комора</heading>
+				<content>
+					<clause id="clan14-stav1">
+						<content>
+							<p>Уз регистрациону пријаву за брисање из Регистра представништава страних привредних комора подноси се:</p>
+							<point id="clan14-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> одлука и оверен превод од овлашћеног судског тумача, одлуке надлежног органа стране привредне коморе о престанку рада представништва на територији републике Србије;</p>
+								</content>
+							</point>
+							<point id="clan14-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> доказ о уплати накнаде за брисање из Регистра представништава страних привредних комора.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan15">
+				<num>15.</num>
+				<heading>Друге услуге које пружа Агенција за привредне регистре у вођењу регистара</heading>
+				<content>
+					<clause id="clan15-stav1">
+						<content>
+							<p>У вођењу регистара из <ref>члана 1. овог</ref> правилника Агенција за привредне регистре (у даљем тексту: Агенција), у складу са законом:</p>
+							<point id="clan15-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> врши резервацију назива;</p>
+								</content>
+							</point>
+							<point id="clan15-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> издаје уверења о подацима уписаним у регистре, односно о чињеницама које произлазе из података уписаних у регистре;</p>
+								</content>
+							</point>
+							<point id="clan15-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> издаје копије документа на основу кога је извршен упис у регистре;</p>
+								</content>
+							</point>
+							<point id="clan15-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> штампа документа са интернет странице званичног сајта Агенције;</p>
+								</content>
+							</point>
+							<point id="clan15-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> издаје уверења о подацима садржаним у регистрима који су обрађени по посебном захтеву корисника и достављају се кориснику у електронском формату, на медијуму или преко електронског сервиса који обезбеђује Агенција.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan16">
+				<num>16.</num>
+				<heading>Ступање на снагу</heading>
+				<content>
+					<clause id="clan16-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav2">
+						<content>
+							<p>Број 011-00-00054/2016-01</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav3">
+						<content>
+							<p>У Београду, 17. фебруара 2016. године</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav5">
+						<content>
+							<p>Жељко Сертић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

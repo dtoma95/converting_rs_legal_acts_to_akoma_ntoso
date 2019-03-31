@@ -1,0 +1,457 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1998/14-346/main"/>
+					<FRBRuri value="/rs/act/1998/14-346"/>
+					<FRBRdate date="1998" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2012/108-211/srp@/main"/>
+					<FRBRuri value="/rs/act/2012/108-211/srp@"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2012/108-211/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2012/108-211/srp@.akn"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1998-4-22" name="“службени гласник рс" number="14" showAs="“Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="III ПРАВОСУЂЕ, КАЗНЕНО ЗАКОНОДАВСТВО И ПОСТУПЦИ" value="iii правосуђе, казнено законодавство и поступци"/>
+				<keyword id="grupa" showAs="6. Правосудна академија и правосудни испит" value="6. правосудна академија и правосудни испит"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1998-04-14" id="usvajanje"/>
+				<step date="1998-04-30" id="stupanje_na_snagu"/>
+				<step date="1998-04-30" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="14/1998-346" id="e1" type="generation"/>
+				<eventRef date="88/2008-8" id="e2" type="amendment"/>
+				<eventRef date="108/2012-211" id="e3" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>Special value.</p>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу <ref>члана 27. става 2. </ref>и <ref>члана 28. </ref>Закона о правосудном испиту („<ref id="ref3" href="/rs/act/97/16/srp@">Службени гласник РС”, број 16/97</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар правде доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о полагању правосудног испита</title>
+			<date>“Службени гласник РС”, бр. 14 од 22. априла 1998, 88 од 26. септембра 2008,  108 од 13. новембра 2012.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОСНОВНА ПИТАЊА</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Правосудни испит одржава се по правилу током читаве године.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan1-stav2">
+								<content>
+									<p>Брисан је   ранији став 2. (види <ref>члан 1. </ref>Правилника – 88/2008-8).</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan1-stav3">
+								<content>
+									<p>Време и место одржавања правосудног испита и распоред рада испитних одбора одређује министар правде.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan1-stav4">
+								<content>
+									<p>У случају спречености неког од чланова испитног одбора, министар правде одређује испитивача за тај предмет из другог испитног одбора.</p>
+								</content>
+							</clause>
+							<article id="gla1-clan1.а">
+								<num>1а</num>
+								<content>
+									<clause id="gla1-clan1.а-stav1">
+										<content>
+											<p>Члановима испитног одбора,  филолозима, секретарима испитног одбора, као и другим лицима која учествују у  организацији и спровођењу правосудног испита припада накнада за рад, чију висину  решењем одређује министар надлежан за послове правосуђа.*</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<heading>*<ref id="ref4" href="/rs/act/2012/108/srp@">Службени гласник РС,  број 108/2012</ref></heading>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Захтев за полагање правосудног испита подноси се Министарству правде.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav2">
+								<content>
+									<p>Решење којим је полагање правосудног испита одобрено доставља се кандидату најкасније десет дана пре почетка правосудног испита.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav3">
+								<content>
+									<p>Истим решењем кандидат се обавештава о месту и времену почетка испита и о новчаном износу који треба уплатити на име трошкова полагања правосудног испита.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ТОК ПРАВОСУДНОГ ИСПИТА</heading>
+				<content>
+					<section id="gla2-od1">
+						<num>1.</num>
+						<heading> Писмени део испита</heading>
+						<content>
+							<article id="gla2-od1-clan3">
+								<num>3.</num>
+								<content>
+									<clause id="gla2-od1-clan3-stav1">
+										<content>
+											<p>Писмени део испита полаже се у два дана.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan3-stav2">
+										<content>
+											<p>Једног дана израђује се писмени рад из кривичног права, а другог дана писмени рад из грађанског права.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan4">
+								<num>4.</num>
+								<content>
+									<clause id="gla2-od1-clan4-stav1">
+										<content>
+											<p>Пре почетка писменог дела испита утврђује се идентитет кандидата.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan4-stav2">
+										<content>
+											<p>Кандидати се затим упознају с правилима о изради писменог рада, па им се предају задаци припремљени од стране испитивача.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan4-stav3">
+										<content>
+											<p>Писменом делу испита могу присуствовати само чланови испитног одбора и секретар испитног одбора.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan4-stav4">
+										<content>
+											<p>Просторију у којој се полаже кандидат може да напушта само из оправданих разлога и уз надзор секретара испитног одбора.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan5">
+								<num>5.</num>
+								<content>
+									<clause id="gla2-od1-clan5-stav1">
+										<content>
+											<p>На писменом делу испита кандидат може користити одговарајуће прописе.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan6">
+								<num>6.</num>
+								<content>
+									<clause id="gla2-od1-clan6-stav1">
+										<content>
+											<p>Кандидат је дужан да секретару испитног одбора писмени рад преда најкасније чим истекне време одређено за израду рада.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan6-stav2">
+										<content>
+											<p>Секретар испитног одбора одмах на самом писменом раду бележи време предаје рада.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan6-stav3">
+										<content>
+											<p>Кандидат је дужан да после предаје рада напусти просторију у којој се испит одржава.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan7">
+								<num>7.</num>
+								<content>
+									<clause id="gla2-od1-clan7-stav1">
+										<content>
+											<p>Пре почетка усменог дела испита кандидатима се саопштавају резултати писменог дела испита.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</section>
+					<section id="gla2-od2">
+						<num>2.</num>
+						<heading> Усмени део испита</heading>
+						<content>
+							<article id="gla2-od2-clan8">
+								<num>8.</num>
+								<content>
+									<clause id="gla2-od2-clan8-stav1">
+										<content>
+											<p>Усмени део испита полаже се јавно, истовремено пред свим члановима испитног одбора.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od2-clan8-stav2">
+										<content>
+											<p>Усмени део испита одржава се по правилу у једном дану.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od2-clan8-stav3">
+										<content>
+											<p>На молбу кандидата која се подноси уз захтев за полагање правосудног испита, одобриће се да кандидат усмени део испита полаже у два дана.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od2-clan9">
+								<num>9.</num>
+								<content>
+									<clause id="gla2-od2-clan9-stav1">
+										<content>
+											<p>Кандидату се из испитног предмета постављају најмање три питања која су подобна да после одговора прикажу његово познавање целокупног градива.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od2-clan9-stav2">
+										<content>
+											<p>На постављено питање кандидат може да одговори непосредно или после сачињеног концепта.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od2-clan10">
+								<num>10.</num>
+								<content>
+									<clause id="gla2-od2-clan10-stav1">
+										<content>
+											<p>Испитни одбор оцењује успех кандидата из сваког испитног предмета посебно, а затим утврђује општи успех кандидата на правосудном испиту.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od2-clan10-stav2">
+										<content>
+											<p>Успех кандидата на усменом делу испита и општи успех кандидата на правосудном испиту јавно саопштава председник испитног одбора.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od2-clan10-stav3">
+										<content>
+											<p>Саопштавање успеха кандидата сви присутни саслушаће стојећи.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od2-clan11">
+								<num>11.</num>
+								<content>
+									<clause id="gla2-od2-clan11-stav1">
+										<content>
+											<p>Министарство правде сваког кандидата писмено обавештава о постигнутом успеху.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</section>
+					<section id="gla2-od3">
+						<num>3.</num>
+						<heading> Одлагање започетог испита</heading>
+						<content>
+							<article id="gla2-od3-clan12">
+								<num>12.</num>
+								<content>
+									<clause id="gla2-od3-clan12-stav1">
+										<content>
+											<p>Започети испит одлаже се док трају разлози због којих је кандидат спречен да настави полагање, а најдуже на три месеца.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od3-clan12-stav2">
+										<content>
+											<p>Време на које је испит одложен одређује се решењем којим се започети испит одлаже.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</section>
+					<section id="gla2-od4">
+						<num>4.</num>
+						<heading> Заштита права кандидата</heading>
+						<content>
+							<article id="gla2-od4-clan13">
+								<num>13.</num>
+								<content>
+									<clause id="gla2-od4-clan13-stav1">
+										<content>
+											<p>Приговор на успех на писменом или усменом делу испита и приговор на утврђени општи успех на правосудном испиту подносе се председнику испитног одбора одмах а најкасније двадесет и четири часа после саопштеног успеха.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od4-clan13-stav2">
+										<content>
+											<p>Ако кандидат приговори на оцену филолога, испитни одбор пре одлучивања прибавља мишљење филолога.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od4-clan13-stav3">
+										<content>
+											<p>Кад испитни одбор одлучи да се из једног или више предмета испит понови, испит се понавља одмах, а најкасније наредног дана.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ЗАПИСНИК О ПРАВОСУДНОМ ИСПИТУ</heading>
+				<content>
+					<article id="gla3-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla3-clan14-stav1">
+								<content>
+									<p>О току правосудног испита води се записник.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan14-stav2">
+								<content>
+									<p>Записник садржи: састав испитног одбора, име и презиме кандидата, број и датум решења о одобреном полагању, место, дан и час полагања писменог и усменог дела испита, задатке са писменог дела и питања са усменог дела испита, оцене из сваког предмета са писменог и усменог дела испита, успех из сваког испитног предмета, општи успех на правосудном испиту, податке о томе да ли је кандидат приговарао испитном одбору и ако јесте, какав је исход одлучивања о приговору, податке о томе да ли је кандидат одустао од полагања и ако јесте, на који начин и на ком делу испита и друге податке од значаја за полагање правосудног испита.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan14-stav3">
+								<content>
+									<p>Записник о току правосудног испита води секретар испитног одбора.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla3-clan15-stav1">
+								<content>
+									<p>Записник потписују председник, чланови испитног одбора и секретар испитног одбора.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan15-stav2">
+								<content>
+									<p>Записнику се прилажу писмени радови кандидата.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ЕВИДЕНЦИЈА</heading>
+				<content>
+					<article id="gla4-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="gla4-clan16-stav1">
+								<content>
+									<p>Евиденција о лицима која су полагала правосудни испит води се у Министарству правде и чува трајно.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan16-stav2">
+								<content>
+									<p>Евиденција садржи: име, презиме, место и годину рођења лица, када је и на ком правном факултету дипломирало, где је радило у време полагања испита и општи успех на правосудном испиту.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>УВЕРЕЊЕ О ПОЛОЖЕНОМ ПРАВОСУДНОМ ИСПИТУ</heading>
+				<content>
+					<article id="gla5-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="gla5-clan17-stav1">
+								<content>
+									<p>Уверење о положеном правосудном испиту садржи: име, презиме, место и годину рођења кандидата, на ком је правном факултету и када дипломирао, датум положеног правосудног испита и општи успех на правосудном испиту, број, датум и место издавања уверења, потпис министра правде и службени печат.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla6-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="gla6-clan18-stav1">
+								<content>
+									<p>Даном ступања на снагу овог правилника престаје да важи Правилник о полагању правосудног испита („<ref id="ref5" href="/rs/act/98/6/srp@">Службени гласник РС&quot;, број 6/98</ref>).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="gla6-clan19-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan19-stav2">
+								<content>
+									<p>Број 110-00-37/1998-05</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan19-stav3">
+								<content>
+									<p>У Београду, 14. априла 1998. године</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan19-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan19-stav5">
+								<content>
+									<p>Драгољуб Јанковић, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

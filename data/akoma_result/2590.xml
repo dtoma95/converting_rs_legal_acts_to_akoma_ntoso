@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1985/40-1239/main"/>
+					<FRBRuri value="/rs/act/1985/40-1239"/>
+					<FRBRdate date="1985" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1985/40-1239/srp@/main"/>
+					<FRBRuri value="/rs/act/1985/40-1239/srp@"/>
+					<FRBRdate date="1985" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1985/40-1239/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1985/40-1239/srp@.akn"/>
+					<FRBRdate date="1985" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1985-8-2" name="службени лист сфрј" number="40" showAs="Службени лист СФРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="11. Борачка заштита" value="11. борачка заштита"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1985-07-26" id="usvajanje"/>
+				<step date="1985-08-10" id="stupanje_na_snagu"/>
+				<step date="1985-08-10" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 50. став 2. </ref>Закона о основним правима војних инвалида и породица палих бораца („<ref id="ref1" href="/rs/act/81/68/srp@">Службени лист СФРЈ“, бр. 68/81</ref> и 41/83), Савезно извршно веће доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>О ПОВЕЋАЊУ НОВАЧНИХ ПРИМАЊА ВОЈНИХ ИНВАЛИДА И КОРИСНИКА ПОРОДИЧНЕ ИНВАЛИДНИНЕ СА ПРЕБИВАЛИШТЕМ У ИНОСТРАНСТВУ КОЈИМА СЕ ТА ПРИМАЊА ИСПЛАЋУЈУ У СТРАНИМ ВАЛУТАМА</title>
+			<date>„Службени лист СФРЈ”, број 40 од 2. августа 1985.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Новчана примања војних инвалида и корисника породичне инвалиднине која по Закону о основним правима војних инвалида и породица палих бораца припадају војним инвалидима и корисницима породичне инвалиднине са пребивалиштем у иностранству (лична инвалиднина, породична инвалиднина, увећана породична инвалиднина, додатак за негу и помоћ од стране другог лица, ортопедски додатак и стални инвалидски додатак) а која се исплаћују у страним валутама, повећавају се од 1. јула 1985. године, и то:</heading>
+				<content>
+					<alinea id="od1-ali1">
+						<content>
+							<p>ојних инвалида и корисника породичне инвалиднине са пребивалиштем у Републици Италији, Републици Турској, Народној Републици Пољској и Социјалистичкој Републици Румунији, за 20%;</p>
+						</content>
+					</alinea>
+					<alinea id="od1-ali2">
+						<content>
+							<p>ојних инвалида и корисника породичне инвалиднине са пребивалиштем у осталим земљама за 10%.</p>
+						</content>
+					</alinea>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Ова одлука ступа на снагу осмог дана од дана објављивања у “Службеном листу СФРЈ”.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>Е. п. бр. 275</p>
+						</content>
+					</clause>
+					<section id="od26">
+						<num>26.</num>
+						<heading> јула 1985. године</heading>
+						<content>
+							<clause id="od26-stav1">
+								<content>
+									<p>Београд</p>
+								</content>
+							</clause>
+							<clause id="od26-stav2">
+								<content>
+									<p>Савезно извршно веће</p>
+								</content>
+							</clause>
+							<clause id="od26-stav3">
+								<content>
+									<p>Потпредседник,</p>
+								</content>
+							</clause>
+							<clause id="od26-stav4">
+								<content>
+									<p>Јанез Земљарич, с. р.</p>
+								</content>
+							</clause>
+						</content>
+					</section>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

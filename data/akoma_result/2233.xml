@@ -1,0 +1,265 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2008/44-14/main"/>
+					<FRBRuri value="/rs/act/2008/44-14"/>
+					<FRBRdate date="2008" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/78-259/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/78-259/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/78-259/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/78-259/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2008-4-24" name="службени гласник рс“" number="44" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="9. Боравак странаца" value="9. боравак странаца"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2008-04-16" id="usvajanje"/>
+				<step date="2008-04-25" id="stupanje_na_snagu"/>
+				<step date="2008-04-25" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="44/2008-14" id="e1" type="generation"/>
+				<eventRef date="78/2011-259" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 41. </ref>и <ref>члана 67. тачка 3</ref>) Закона о азилу (<ref id="ref5" href="/rs/act/07/109/srp@">,,Службени гласник РС”, број 109/07</ref>) и <ref>члана 17. став 4. </ref>и <ref>члана 24. </ref>Закона о Влади (<ref id="ref6" href="/rs/act/05/55/srp@">,,Службени гласник РС”, бр. 55/05, 71/05</ref> – исправка и 101/07),</p>
+		</preamble>
+		<preface>
+			<authority>Министар рада и социјалне политике доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о социјалној помоћи за лица која траже, односно којима је одобрен азил</title>
+			<date>„Службени гласник РС“, бр. 44 од 24. априла 2008,  78 од 19. октобра 2011.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником уређује се социјална помоћ за лица која траже, односно којима је одобрен азил.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Социјална помоћ остварује се у виду месечне новчане помоћи.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Услови за остваривање права</heading>
+				<content>
+					<article id="od1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="od1-clan3-stav1">
+								<content>
+									<p>Месечну новчану помоћ може остварити лице које тражи, односно коме је одобрен азил, под условом:</p>
+									<point id="od1-clan3-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> да није смештено у Центар за азил;</p>
+										</content>
+									</point>
+									<point id="od1-clan3-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> да то лице и чланови његове породице немају приходе или су ти приходи  испод основице за утврђивање висине новчане социјалне помоћи, прописане  законом.*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan4">
+						<num>4.</num>
+						<heading>*<ref id="ref7" href="/rs/act/2011/78/srp@">Службени гласник РС, број 78/2011</ref></heading>
+						<content>
+							<clause id="od1-clan4-stav1">
+								<content>
+									<p>Основица за остваривање права на месечну   новчану помоћ за месец октобар 2011. године утврђује се у висини основице за   утврђивање новчане социјалне помоћи, утврђене за октобар 2011. године у   складу са законом којим се уређује социјална заштита.*</p>
+								</content>
+							</clause>
+							<clause id="od1-clan4-stav2">
+								<content>
+									<p>Утврђена основица из става 1. овог члана   усклађује се сваких шест месеци са индексом потрошачких цена.*</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan5">
+						<num>5.</num>
+						<heading>*<ref id="ref8" href="/rs/act/2011/78/srp@">Службени гласник РС, број 78/2011</ref></heading>
+						<content>
+							<clause id="od1-clan5-stav1">
+								<content>
+									<p>Приходима од утицаја на остваривање права на месечну новчану помоћ сматрају се сви приходи лица које тражи азил, односно лица коме је одобрен азил, укључујући и приходе чланова његове породице, које остварују по основу рада и имовине, под условом да те приходе могу реално и користити.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="od1-clan6-stav1">
+								<content>
+									<p>Породицом, у смислу овог правилника, сматрају се супружник, односно ванбрачни партнер и деца (брачна, ванбрачна и усвојена).</p>
+									<тачка id="od1-clan6-stav1-tac2">
+										<num>2.</num>
+										<content>
+											<p> Висина помоћи</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="od1-clan7-stav1">
+								<content>
+									<p>Месечна новчана помоћ утврђује се у висини   разлике између основице из <ref>члана 4. овог</ref> правилника и износа просечног   месечног прихода лица које тражи азил, односно коме је одобрен азил и   чланова његове породице оствареног у три месеца која претходе месецу у коме   је поднет захтев. *</p>
+								</content>
+							</clause>
+							<clause id="od1-clan7-stav2">
+								<content>
+									<p>Месечна новчана помоћ усклађује се сваког   месеца са индексом потрошачких цена.*</p>
+								</content>
+							</clause>
+							<clause id="od1-clan7-stav3">
+								<content>
+									<p>*<ref id="ref9" href="/rs/act/2011/78/srp@">Службени гласник РС, број 78/2011</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Поступак за остваривање права</heading>
+				<content>
+					<article id="od3-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="od3-clan8-stav1">
+								<content>
+									<p>О захтеву за остваривање права на месечну новчану помоћ решава центар за социјални рад у општини где борави лице које тражи азил, односно лице коме је одобрен азил.</p>
+								</content>
+							</clause>
+							<clause id="od3-clan8-stav2">
+								<content>
+									<p>Уз захтев из става 1. овог члана прилажу се лична карта за лице које тражи азил, односно лична карта за лице коме је одобрен азил, као и докази који су од утицаја на остваривање овог права.</p>
+								</content>
+							</clause>
+							<clause id="od3-clan8-stav3">
+								<content>
+									<p>Поступак за остваривање права на месечну новчану помоћ води се по одредбама закона којим је уређен општи управни поступак.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="od3-clan9-stav1">
+								<content>
+									<p>По жалби против решења центра за социјални рад о праву на месечну новчану помоћ решава министар надлежан за социјална питања.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="od3-clan10-stav1">
+								<content>
+									<p>Право на месечну новчану помоћ признаје се од дана подношења захтева.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="od3-clan11-stav1">
+								<content>
+									<p>Корисник права на месечну новчану помоћ је у обавези да сваку промену од утицаја на коришћење права пријави надлежном центру за социјални рад у року од 15 дана од дана настале промене.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="od3-clan12-stav1">
+								<content>
+									<p>Центар за социјални рад преиспитује, по службеној дужности, услове за коришћење права на месечну новчану помоћ на сваких годину дана.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="od3-clan13-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="od3-clan13-stav2">
+								<content>
+									<p>Број 110-00-399/2008-21</p>
+								</content>
+							</clause>
+							<clause id="od3-clan13-stav3">
+								<content>
+									<p>У Београду, 16. априла 2008. године</p>
+								</content>
+							</clause>
+							<clause id="od3-clan13-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="od3-clan13-stav5">
+								<content>
+									<p>Расим Љајић, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

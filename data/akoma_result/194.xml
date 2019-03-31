@@ -1,0 +1,478 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2011/65-54/main"/>
+					<FRBRuri value="/rs/act/2011/65-54"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/67-436/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/67-436/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/67-436/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/67-436/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2011-9-2" name="службени гласник рс" number="65" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="1. Привредна друштва, предузећа и предузетници" value="1. привредна друштва, предузећа и предузетници"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-06-21" id="usvajanje"/>
+				<step date="2011-09-10" id="stupanje_na_snagu"/>
+				<step date="2011-09-10" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="65/2011-54" id="e1" type="generation"/>
+				<eventRef date="67/2011-436" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 13. став 2. </ref>Закона о споразумном финансијском реструктурирању привредних друштава („<ref id="ref4" href="/rs/act/2011/36/srp@">Службени гласник РС”, број 36/2011</ref>) и <ref>члана 45. </ref>Статута Привредне коморе Србије,</p>
+		</preamble>
+		<preface>
+			<authority>Управни одбор Привредне коморе Србије, 21. јуна 2011. године, донео је</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о условима и начину институционалног посредовања у споразумном финансијском реструктурирању привредних друштава</title>
+			<date>&quot;Службени гласник РС&quot;, бр.   65 од 2. септембра 2011, 67 од 13. септембра 2011. - исправка</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОСНОВНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником уређују се услови, начин и поступак по коме се одвија институционално посредовање у споразумном финансијском реструктурирању привредних друштава (у даљем тексту: финансијско реструктурирање).</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan1-stav2">
+								<content>
+									<p>Привредна комора Србије пружа помоћ и успоставља сарадњу између дужника и поверилаца ради преговора о поновном уређењу дужничко-поверилачких односа и пружа подршку дужницима и повериоцима у току преговора ради њиховог успешног окончања.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<point id="gla1-clan2-tac1">
+								<num>1)</num>
+								<content>
+									<p> Начело благовремености – институционално посредовање у финансијском реструктурирању се спроводи на начин који обезбеђује правовремено уочавање и препознавање финансијских тешкоћа привредног друштва;</p>
+								</content>
+							</point>
+							<point id="gla1-clan2-tac2">
+								<num>2)</num>
+								<content>
+									<p> Начело ефикасности – Привредна комора Србије, као институционални посредник, обезбеђује успешно и квалитетно остваривање и заштиту права и правних интереса страна у финансијском реструктурирању;</p>
+								</content>
+							</point>
+							<point id="gla1-clan2-tac3">
+								<num>3)</num>
+								<content>
+									<p> Начело економичности – институционално посредовање у финансијском реструктурирању се спроводи без одуговлачења и са што мање трошкова за стране;</p>
+								</content>
+							</point>
+							<point id="gla1-clan2-tac4">
+								<num>4)</num>
+								<content>
+									<p> Начело непристрасности и независности – Привредна комора Србије, као институционални посредник, је непристрасна и независна у односу на стране и предмет финансијског реструктурирања;</p>
+								</content>
+							</point>
+							<point id="gla1-clan2-tac5">
+								<num>5)</num>
+								<content>
+									<p> Начело поверљивости – подаци и обавештења добијени за потребе финансијског реструктурирања који се односе на имовину, капитал, обавезе, пословање и пословне перспективе дужника и предлог мера финансијског реструктурирања третирају се као поверљиви од стране поверилаца и институционалног посредника, у мери у којој нису јавно доступни.</p>
+								</content>
+							</point>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>СПРОВОЂЕЊЕ ИНСТИТУЦИОНАЛНОГ ПОСРЕДОВАЊА</heading>
+				<content>
+					<article id="gla2-clan3">
+						<num>3.</num>
+						<heading>Покретање поступка</heading>
+						<content>
+							<clause id="gla2-clan3-stav1">
+								<content>
+									<p>Поступак институционалног посредовања у финансијском реструктурирању се покреће на захтев дужника или једног или више поверилаца.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav2">
+								<content>
+									<p>За спровођење институционалног посредовања у финансијском реструктурирању потребна је сагласност обе стране – поверилаца и дужника.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav3">
+								<content>
+									<p>У захтеву из става 1. овог члана се наводе најмање две домаће или стране банке које би учествовале у финансијском реструктурирању у својству поверилаца.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav4">
+								<content>
+									<p>Захтев из става 1. овог члана се подноси Центру за посредовање Привредне коморе Србије (у даљем тексту: Центар) у писаном облику, који ће предлог доставити другој страни, да се у року од 15 дана од дана пријема предлога, изјасни по том предлогу.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav5">
+								<content>
+									<p>Захтев се подноси на посебном обрасцу, који је саставни део овог правилника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla2-clan4-stav1">
+								<content>
+									<p>Ако се друга страна у року од 15 дана од дана пријема предлога, не изјасни о предлогу, сматра се да предлог није прихваћен.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla2-clan5-stav1">
+								<content>
+									<p>Центар проверава испуњеност услова за институционално посредовање и подобност дужничко-поверилачког односа за финансијско реструктурирање.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan5-stav2">
+								<content>
+									<p>Уколико услов подобности дужничко - поверилачког односа није испуњен, Центар о томе обавештава подносиоца захтева.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan5-stav3">
+								<content>
+									<p>Дужник, односно поверилац се писмено изјашњавају о захтеву из <ref>члана 3, </ref>прихватањем или неприхватањем институционалног посредовања, на обрасцу који је саставни део овог правилника.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan5-stav4">
+								<content>
+									<p>Уколико друга страна прихвати посредовање, покреће се поступак институционалног посредовања.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan6">
+						<num>6.</num>
+						<heading>Посредовање</heading>
+						<content>
+							<clause id="gla2-clan6-stav1">
+								<content>
+									<p>Поступак финансијског реструктурирања се одвија без одуговлачења.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav2">
+								<content>
+									<p>Институционално посредовање се спроводи на састанку, односно састанцима којима присуствују стране у финансијском реструктурирању, лично или преко овлашћеног заступника, посредник, као и стручна служба Центра. Састанку могу присуствовати и друга лица уз сагласност обе стране.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav3">
+								<content>
+									<p>Стране у финансијском реструктурирању се позивају на састанак електронском поштом, телефоном, факсом или путем поште.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav4">
+								<content>
+									<p>Место и време састанка се одређује договорно са странама, узимајући у обзир принцип хитности и економичности поступка.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav5">
+								<content>
+									<p>На састанку се води записник.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla2-clan7-stav1">
+								<content>
+									<p>Посредник је дужан да пре почетка институционалног посредовања упозна стране у финансијском реструктурирању са циљем тог посредовања, правилима посредовања и улогом посредника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>Уколико се процени да је то целисходно, институционални посредник организоваће форум.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav2">
+								<content>
+									<p>Форум јесте општи састанак поверилаца и дужника, као страна у финансијском реструктурирању, односно могућих страна у том реструктурирању, на коме се повериоци и дужник доводе у везу, износе ставови и предлози, сагледавају и расправљају интереси и сви други елементи у смислу финансијског реструктурирања.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav3">
+								<content>
+									<p>Форум се може одржати пре или у току институционалног посредовања.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>Повериоци у поступку финансијског реструктурирања међусобно сарађују.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav2">
+								<content>
+									<p>У случају учешћа већег броја поверилаца, посредник ће организовати састанак ради постизања договора о начину сарадње између поверилаца, сходно <ref>члану 8. </ref>Закона, о чему ће се сачинити записник.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav3">
+								<content>
+									<p>До постизања договора из става 2. овог члана, преговоре са дужником ће водити поверилац, који на дан подношења захтева, има највеће потраживање према дужнику и који ће благовремено обавештавати остале повериоце и посредника о садржини и току преговора.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla2-clan10-stav1">
+								<content>
+									<p>Посредник ће посредовати у преговорима за увођење мировања дугова, које производи правно дејство даном закључења уговора о мировању дугова.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav2">
+								<content>
+									<p>Уговор о мировању дугова који су потписале стране, представља основ за обуставу извршења у принудној наплати.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav3">
+								<content>
+									<p>Уговор о мировању оверава се у Привредној комори Србије и заводи у посебну књигу.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla2-clan11-stav1">
+								<content>
+									<p>Институционално посредовање у финансијском реструктурирању се окончава:</p>
+									<point id="gla2-clan11-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> закључивањем уговора о финансијском реструктурирању;</p>
+										</content>
+									</point>
+									<point id="gla2-clan11-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> писаном изјавом о одустајању, коју једна страна доставља посреднику и другој страни, односно другим учесницима, осим ако после одустајања једног повериоца у институционалном посредовању наставе да учествују најмање две банке, који имају интерес да се посредовање настави;</p>
+										</content>
+									</point>
+									<point id="gla2-clan11-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> писаном изјавом о окончању институционалног посредовања, коју обе стране достављају посреднику;</p>
+										</content>
+									</point>
+									<point id="gla2-clan11-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> када престане да постоји услов учешћа најмање две банке у својству поверилаца.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla2-clan12-stav1">
+								<content>
+									<p>Уколико у поступку посредовања стране постигну споразум, потписује се уговор о финансијском реструктурирању, у складу са чланом 14. Закона.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan12-stav2">
+								<content>
+									<p>Уговор о финансијском реструктурирању оверава се у Привредној комори Србије и заводи у посебну књигу.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan12-stav3">
+								<content>
+									<p>Оверен уговор дужник доставља регистру привредних друштава.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ПОСРЕДНИК</heading>
+				<content>
+					<article id="gla3-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla3-clan13-stav1">
+								<content>
+									<p>Посредник је лице које на основу споразума страна спроводи поступак и посредује између страна, без овлашћења да им наметне решење.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav2">
+								<content>
+									<p>Посредовање могу обављати запослени у привредној комори и друга лица која испуне услове за обављање посредовања и која су завршила обуку према посебном програму Привредне коморе Србије.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav3">
+								<content>
+									<p>Листу посредника утврђује одлуком председник Привредне коморе Србије.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav4">
+								<content>
+									<p>Посредника у појединој ствари одређује Центар.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav5">
+								<content>
+									<p>Стране у поступку могу споразумно одабрати посредника са листе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ТРОШКОВИ</heading>
+				<content>
+					<article id="gla4-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla4-clan14-stav1">
+								<content>
+									<p>Учесници сносе своје трошкове, укључујући трошкове својих пуномоћника, а заједничке трошкове сносе на једнаке делове, осим ако није другачије договорено.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan14-stav2">
+								<content>
+									<p>Заједничке трошкове институционалног посредовања чине накнада за рад посредника и накнада за трошкове његовог пута и боравка, у колико је ван места посредовања, као и трошкови организовања институционалног посредовања.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan14-stav3">
+								<content>
+									<p>Висина трошкова институционалног посредовања утврђује се посебном одлуком коју доноси надлежни орган Привредне коморе Србије, у складу са Законом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan15">
+						<num>15.</num>
+						<heading>Административно-техничка подршка</heading>
+						<content>
+							<clause id="gla4-clan15-stav1">
+								<content>
+									<p>Административно-техничку подршку посреднику пружају стручне службе Привредне коморе Србије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<chapter id="gla4">
+						<num>IV</num>
+						<heading>ПРЕЛАЗНЕ И ЗАВРШНЕ ОДРЕДБЕ</heading>
+						<content>
+							<article id="gla4-clan16">
+								<num>16.</num>
+								<content>
+									<clause id="gla4-clan16-stav1">
+										<content>
+											<p>Овај правилник ступа на снагу   осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.*</p>
+										</content>
+									</clause>
+									<clause id="gla4-clan16-stav2">
+										<content>
+											<p>На овај правилник, министар   надлежан за послове економије дао је сагласност под бр. 011-00-251/2011-02   од 25. јула 2011. године.*</p>
+										</content>
+									</clause>
+									<clause id="gla4-clan16-stav3">
+										<content>
+											<p>*<ref id="ref5" href="/rs/act/2011/67/srp@">Службени гласник РС, број 67/2011</ref></p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<section id="gla4-od2">
+								<num>02.</num>
+								<heading>01 – број 7/7</heading>
+								<content>
+									<clause id="gla4-od2-clan16-stav1">
+										<content>
+											<p>У Београду, 21. јуна 2011. године</p>
+										</content>
+									</clause>
+									<clause id="gla4-od2-clan16-stav2">
+										<content>
+											<p>Привредна комора Србије</p>
+										</content>
+									</clause>
+									<clause id="gla4-od2-clan16-stav3">
+										<content>
+											<p>Председник,</p>
+										</content>
+									</clause>
+									<clause id="gla4-od2-clan16-stav4">
+										<content>
+											<p>Милош Бугарин, с.р.</p>
+										</content>
+									</clause>
+									<став id="gla4-od2-clan16-stav5">
+										<img alt="privredna-komora_Page_1.tiff" class="auto-style2" height="600" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/privredna-komora_Page__opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425345&amp;regactid=425345" width="480"/>
+										<content/>
+									</став>
+									<став id="gla4-od2-clan16-stav6">
+										<img alt="privredna-komora_Page_2.tiff" class="auto-style2" height="408" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/privredna-komora_Page_opt1.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425345&amp;regactid=425345" width="480"/>
+										<content/>
+									</став>
+									<став id="gla4-od2-clan16-stav7">
+										<img alt="privredna-komora_Page_3.tiff" class="auto-style2" height="662" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/privredna-komora_Page_opt2.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425345&amp;regactid=425345" width="480"/>
+										<content/>
+									</став>
+								</content>
+							</section>
+						</content>
+					</chapter>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,595 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1997/27-550/main"/>
+					<FRBRuri value="/rs/act/1997/27-550"/>
+					<FRBRdate date="1997" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2019/7-6/srp@/main"/>
+					<FRBRuri value="/rs/act/2019/7-6/srp@"/>
+					<FRBRdate date="2019" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2019/7-6/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2019/7-6/srp@.akn"/>
+					<FRBRdate date="2019" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1997-6-26" name="службени гласник рс" number="27" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="4. Руде и геолошка истраживања" value="4. руде и геолошка истраживања"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1997-06-11" id="usvajanje"/>
+				<step date="1997-07-04" id="stupanje_na_snagu"/>
+				<step date="1997-07-04" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="27/1997-550" id="e1" type="generation"/>
+				<eventRef date="7/2019-6" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Престале су да важе одредбе чл. 15-19. Правилника, даном ступања на снагу Правилника о садржини годишњих извештаја о пословању предузећа која обављају експлоатацију минералних сировина за претходну календарску годину (<ref id="ref3" href="/rs/act/2019/7/srp@">Службени гласник РС, број 7/2019</ref>), односно 14. фебруара 2019. године (види <ref>члан 9. </ref>Правилника - 7/2019-9).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>Редакцијски  пречишћен текст</p>
+			<p>На основу <ref>члана 29. </ref>Закона о рударству (“<ref id="ref4" href="/rs/act/95/44/srp@">Службени гласник РС”, број 44/95</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар надлежан за послове рударства доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о   садржини дугорочног програма експлоатације лежишта минералних сировина и   годишњих планова извођења рударских радова</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 27 од 26.  јуна 1997,  7 од 6. фебруара 2019 -  др. правилник</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>УВОДНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником прописује се садржина дугорочног програма експлоатације лежишта минералних сировина и годишњих планова извођења рударских радова.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan1-stav2">
+								<content>
+									<p>Дугорочни програм експлоатације лежишта минералних сировина (у даљем тексту: дугорочни програм) и годишњи планови извођења рударских радова (у даљем тексту: годишњи планови) израђују се на основу података о утврђеним колочинама и квалитету минералних сировина и услова експлоатације.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ДУГОРОЧНИ ПРОГРАМ</heading>
+				<content>
+					<section id="gla2-od1">
+						<num>1.</num>
+						<heading> Саставни делови дугорочног програма</heading>
+						<content>
+							<article id="gla2-od1-clan2">
+								<num>2.</num>
+								<content>
+									<clause id="gla2-od1-clan2-stav1">
+										<content>
+											<p>Дугорочни програм састоји се из три дела, и то:</p>
+											<point id="gla2-od1-clan2-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> техничке анализе реализације дугорочног програма из претходног периода;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan2-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> техничке основе дугорочног програма за наредни период;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan2-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> закључног дела.</p>
+												</content>
+											</point>
+											<тачка id="gla2-od1-clan2-stav1-tac1">
+												<num>1.</num>
+												<content>
+													<p>1. Техничка анализа реализације дугорочног програма из претходног периода</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan3">
+								<num>3.</num>
+								<content>
+									<clause id="gla2-od1-clan3-stav1">
+										<content>
+											<p>Техничка анализа реализације дугорочног програма из претходног периода , садржи:</p>
+											<point id="gla2-od1-clan3-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> основне податке о предузећу;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan3-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> податке о лежишту или делу лежишта минералних сировина и пратећих стена;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan3-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> податке о изграђеним објектима;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan3-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> податке о расположивим капацитетима и кадровској оспособљености;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan3-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> графичку документацију.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan4">
+								<num>4.</num>
+								<content>
+									<clause id="gla2-od1-clan4-stav1">
+										<content>
+											<p>Основни подаци о предузећу су подаци о:</p>
+											<point id="gla2-od1-clan4-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> фирми и седишту предузећа;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan4-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> делатности предузећа;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan4-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> пословању предузећа по завршном рачуну;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan4-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> резултатима оствареним у реализацији дугорочног програма из претходног периода.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan5">
+								<num>5.</num>
+								<content>
+									<clause id="gla2-od1-clan5-stav1">
+										<content>
+											<p>Подаци о лежишту или делу лежишта минералних сировина и пратећих стена односе се на:</p>
+											<point id="gla2-od1-clan5-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> врсту, квалитет и количину минералних сировина А, Б и Ц1 категорије;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan5-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> локалитет лежишта, односно експлоатационог поља;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan5-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> степен истражености;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan5-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> друге специфичне карактеристике лежишта и пратећих стена које могу утицати на безбедно извођење рударских радова и економичност експлоатације;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan5-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> век експлоатације оверених резерви минералних сировина;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan5-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> податке о рударским радовима чије је извођење у току;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan5-stav1-tac7">
+												<num>7)</num>
+												<content>
+													<p> степен искоришћења минералних сировина у лежишту.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan6">
+								<num>6.</num>
+								<content>
+									<clause id="gla2-od1-clan6-stav1">
+										<content>
+											<p>Подаци о изграђеним објектима обухватају податке о:</p>
+											<point id="gla2-od1-clan6-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> изграђеним рударским објектима;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan6-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> осталим објектима, односно осталој инвестиционој изградњи.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan7">
+								<num>7.</num>
+								<content>
+									<clause id="gla2-od1-clan7-stav1">
+										<content>
+											<p>Подаци о расположивим капацитетима и кадровској оспособљености обухватају податке о:</p>
+											<point id="gla2-od1-clan7-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> инсталисаним капацитетима за производњу, односно откопавање и утовар минералних сировина на свим експлоатационим, односно истражним пољима;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan7-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> техничким капацитетима за истраживање, разраду производње и производњу нафте, гаса и геотермалне енергије;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan7-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> расположивим капацитетима за транспорт и прераду минералних сировина;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan7-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> осталим капацитетима;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan7-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> кадровској оспособљености (број и структура кадрова).</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan8">
+								<num>8.</num>
+								<content>
+									<clause id="gla2-od1-clan8-stav1">
+										<content>
+											<p>Графичка документација садржи:</p>
+											<point id="gla2-od1-clan8-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> ситуациони план одобреног експлоатационог поља;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan8-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> геолошку карту експлоатационог поља;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan8-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> ситуациони план копа, јама, нафтних и гасних поља;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan8-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> план постојећих површинских копова, јама, нафтних или гасних поља;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan8-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> табеларни и графички приказ основних показатеља реализације дугорочног програма и трендова производње предузећа или подручја за период за који се доноси дугорочни програм.</p>
+												</content>
+											</point>
+											<тачка id="gla2-od1-clan8-stav1-tac1">
+												<num>1.</num>
+												<content>
+													<p>2. Техничка основа дугорочног програма за наредни период</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan9">
+								<num>9.</num>
+								<content>
+									<clause id="gla2-od1-clan9-stav1">
+										<content>
+											<p>Техничка основа дугорочног програма за наредни период садржи:</p>
+											<point id="gla2-od1-clan9-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> полазне основе развоја;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan9-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> техничко-технолошку анализу о условима реализације дугорочног програма;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan9-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> економске показатеље.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan10">
+								<num>10.</num>
+								<content>
+									<clause id="gla2-od1-clan10-stav1">
+										<content>
+											<p>Полазне основе развоја предузећа садрже:</p>
+											<point id="gla2-od1-clan10-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> стање у погледу степена истражености и експлоатације одговарајуће врсте минералних сировина у свету, са пројекцијом за период за који се доноси дугорочни програм;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan10-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> достигнути ниво развоја предузећа;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan10-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> циљеви развоја предузећа.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan11">
+								<num>11.</num>
+								<content>
+									<clause id="gla2-od1-clan11-stav1">
+										<content>
+											<p>Техничко-технолошка анализа о условима реализације дугорочног програма, обухвата податке о:</p>
+											<point id="gla2-od1-clan11-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> производњи минералне сировине са динамиком производње у периоду за који се доноси дугорочни програм, по појединим пољима, односно објектима и у целини;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan11-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> динамици извођења истражних, инвестиционих и припремних радова којима се обезбеђује континуитет експлоатације по истражним просторима, односно експлоатационим пољима или објектима, као и у целини;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan11-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> преради по асортиманима и квалитету;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan11-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> обезбеђивању инвестиционе опреме;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan11-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> заштитним мерама и обезбеђивању заштитне опреме;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan11-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> потребној радној снази, односно кадровима;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan11-stav1-tac7">
+												<num>7)</num>
+												<content>
+													<p> утицају експлоатације на животну средину.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan11-stav2">
+										<content>
+											<p>Саставни део техничко-технолошке анализе су и програм рекултивације по објектима и локацијама и одговарајућа графичка документација.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan12">
+								<num>12.</num>
+								<content>
+									<clause id="gla2-od1-clan12-stav1">
+										<content>
+											<p>Економски показатељи дугорочног програма обухватају :</p>
+											<point id="gla2-od1-clan12-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> приказ и оцену економских показатеља за претходни период;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan12-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> глобалне показатеље о очекиваним економским ефектима пословања предузећа у наредном периоду.</p>
+												</content>
+											</point>
+											<тачка id="gla2-od1-clan12-stav1-tac1">
+												<num>1.</num>
+												<content>
+													<p>3. Закључни део</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan13">
+								<num>13.</num>
+								<content>
+									<clause id="gla2-od1-clan13-stav1">
+										<content>
+											<p>Закључни део дугорочног програма садржи кратак приказ могућности и услова за реализацију дугорочног програма по свим сегментима од значаја за његову реализацију.</p>
+											<тачка id="gla2-od1-clan13-stav1-tac2">
+												<num>2.</num>
+												<content>
+													<p> Дугорочни програм предузећа за истраживање нафте и гаса</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan14">
+								<num>14.</num>
+								<content>
+									<clause id="gla2-od1-clan14-stav1">
+										<content>
+											<p>Дугорочни програм предузећа за истраживање и производњу нафте и гаса, поред наведених података, садржи и податке о обиму и резултатима истраживања и податке о обиму производње нафте, гаса и геотермалне енергије.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan14-stav2">
+										<content>
+											<p>Подаци о обиму и резултатима истраживања и производње нафте, гаса и геотермалне енергије, обухватју податке који се односе на истраживање и производњу нафте, гаса и геотермалне енергије у земљи и иностранству, преглед свих нафтних и гасних поља у производњи, као и кратак приказ проблематике у производњи нафте, гаса и геотермалних вода.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ГОДИШЊИ ПЛАН</heading>
+				<content>
+					<тачка id="gla3-clan14-tac1">
+						<num>1.</num>
+						<content>
+							<p> Основ за израду и саставни делови годишњег плана</p>
+						</content>
+					</тачка>
+					<article id="gla3-clan19">
+						<num>15-19.</num>
+						<content>
+							<clause id="gla3-clan19-stav1">
+								<content>
+									<p>Престали су да важе (види <ref>члан 9.   </ref>Правилника - 7/2019-6)</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ЗАВРШНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla4-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla4-clan20-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav2">
+								<content>
+									<p>Број 110-00-00007/97-01</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav3">
+								<content>
+									<p>У Београду, 11. јуна 1997. године</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav5">
+								<content>
+									<p>Србољуб Станковић, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,375 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2006/72-5/main"/>
+					<FRBRuri value="/rs/act/2006/72-5"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2013/118-76/srp@/main"/>
+					<FRBRuri value="/rs/act/2013/118-76/srp@"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2013/118-76/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2013/118-76/srp@.akn"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2006-8-29" name="службени гласник рс" number="72" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="9. Доприноси за обавезно социјално осигурање" value="9. доприноси за обавезно социјално осигурање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2006-08-25" id="usvajanje"/>
+				<step date="2006-08-30" id="stupanje_na_snagu"/>
+				<step date="2006-09-01" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="72/2006-5" id="e1" type="generation"/>
+				<eventRef date="74/2013-3" id="e2" type="amendment"/>
+				<eventRef date="118/2013-76" id="e3" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>За исплате прихода на које се плаћају порези по одбитку, које су обухваћене Правилником о пореској пријави за порез по одбитку (<ref id="ref5" href="/rs/act/2013/74/srp@">Службени гласник РС, бр. 74/2013, 118/2013</ref>) и које се врше почев од 1. марта 2014. године, уместо Обрасца ИНСЗ-И, подносе се обрасци прописани Правилником о пореској пријави за порез по одбитку (<ref id="ref6" href="/rs/act/2013/74/srp@">Службени гласник РС, бр. 74/2013, 118/2013</ref>) (види <ref>члан 22. </ref>Правилника - 74/2013-3 и <ref>члан 12. </ref>Правилника – 118/2013-76).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу члана 45б став 6. Закона о доприносима за обавезно социјално осигурање („<ref id="ref7" href="/rs/act/04/84/srp@">Службени гласник РС”, бр. 84/04, 61/05</ref> и 62/06),</p>
+		</preamble>
+		<preface>
+			<authority>Министар финансија, министар рада, запошљавања и социјалне политике и министар здравља споразумно доносе</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о начину и поступку обрачунавања и плаћања доприноса за обавезно социјално осигурање за лица са инвалидитетом</title>
+			<date>&quot;Службени  гласник РС&quot;, бр. 72 од 29.  августа 2006,    74 од 21. августа 2013 -   др. правилник,  118 од 30. децембра 2013 -    др. правилник</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОСНОВНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником уређује се начин и поступак обрачунавања и плаћања доприноса за обавезно социјално осигурање за лица са инвалидитетом, сагласно члану 45б Закона о доприносима за обавезно социјално осигурање („<ref id="ref8" href="/rs/act/04/84/srp@">Службени гласник РС”, бр. 84/04, 61/05</ref> и 62/06 – у даљем тексту: Закон).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Послодавац који на неодређено време запосли лице са инвалидитетом, за које одговарајућом правно-медицински валидном документацијом докаже инвалидност, ради остваривања права на ослобађање од обавезе плаћања доприноса за обавезно социјално осигурање (у даљем тексту: послодавац) на основицу, односно на терет средстава послодавца за то лице, доставља прописане податке Националној служби за запошљавање (у даљем тексту: Национална служба), у складу са овим правилником.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Послодавац Националној служби доставља податке о лицу са инвалидитетом за које има право на ослобађање од обавезе плаћања доприноса сагласно члану 45б Закона, на прописаним обрасцима, и то на:</p>
+									<point id="gla1-clan3-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> Обрасцу ОНСЗ-И – Обавештење о заснивању/престанку радног односа са лицима са инвалидитетом;</p>
+										</content>
+									</point>
+									<point id="gla1-clan3-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> Образац ИНСЗ-И – Извештај о обрачунатим и плаћеним доприносима на терет послодавца за лица са инвалидитетом.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav2">
+								<content>
+									<p>Обрасци из става 1. овог члана одштампани су уз овај правилник и чине његов саставни део.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav3">
+								<content>
+									<p>У Образац ИНСЗ-И новчани износи уносе се у динарима без пара, а подаци о броју запослених у целом броју.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla1-clan4-stav1">
+								<content>
+									<p>Образац ОНСЗ-И подноси се при заснивању радног односа лица са лицем са инвалидитетом, као и по престанку радног односа тог лица.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan4-stav2">
+								<content>
+									<p>Уз Образац ОНСЗ-И који подноси приликом заснивања радног односа са новозапосленим лицем са инвалидитетом, послодавац је дужан да достави одговорајућу правно-медицинску документацију о инвалидности новозапосленог лица, сагласно члану 45б став 1. Закона.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla1-clan5-stav1">
+								<content>
+									<p>Образац ОНСЗ-И послодавац подноси Националној служби у року од осам дана од дана заснивања радног односа, односно од дана престанка радног односа новозапосленог лица са инвалидитетом.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan5-stav2">
+								<content>
+									<p>Копију Обрасца ОНСЗ-И послодавац доставља и Пореској управи, у року из става 1. овог члана.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla1-clan6-stav1">
+								<content>
+									<p>Образац ИНСЗ-И послодавац подноси Националној служби у три примерка, у року од осам дана од дана исплате зараде за коју се врши обрачун и плаћање доприноса и подноси тај образац.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan6-stav2">
+								<content>
+									<p>Национална служба, по извршеном плаћању доприноса на терет средстава Националне службе, на достављеном Обрасцу ИНСЗ-И оверава да је плаћање доприноса извршено.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan6-stav3">
+								<content>
+									<p>Један примерак овереног Обрасца ИНСЗ-И Национална служба враћа послодавцу са копијом извода органа надлежног за јавна плаћања о извршеној уплати доприноса на терет средстава Националне службе, у року од 15 дана од дана уплате доприноса.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan6-stav4">
+								<content>
+									<p>Оверени Образац ИНСЗ-И и копија извода органа надлежног за јавна плаћања из става 3. овог члана, за послодавца чини веродостојну документацију и основ за унос података у пријаву података за матичну евиденцију о плаћеним доприносима за запосленог на терет средстава Националне службе, у складу са законом који уређује обавезно социјално осигурање.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan6-stav5">
+								<content>
+									<p>Други примерак овереног Обрасца ИНСЗ-И Национална служба доставља Пореској управи у року прописаном законом који уређује порески поступак и пореску администрацију за достављање збирне пореске пријаве о обрачунатим и плаћеним порезима и доприносима по одбитку.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>НАЧИН ПОПУЊАВАЊА ОБРАСЦА ОНСЗ-И</heading>
+				<content>
+					<article id="gla2-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla2-clan7-stav1">
+								<content>
+									<p>У Образац ОНСЗ-И послодавац уноси следеће податке:</p>
+									<alinea id="gla2-clan7-stav1-ali1">
+										<content>
+											<p> колону 2 – име и презиме лица са инвалидитетом са којим је закључен уговор о раду;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan7-stav1-ali2">
+										<content>
+											<p> колону 3 – јединствени матични број грађана (у даљем тексту: ЈМБГ) за лице са инвалидитетом из колоне 2;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan7-stav1-ali3">
+										<content>
+											<p> колону 4 – године старости лица са инвалидитетом из колоне 2;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan7-stav1-ali4">
+										<content>
+											<p> колону 5 – дужина чекања на евиденцији незапослених лица коју води Национална служба;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan7-stav1-ali5">
+										<content>
+											<p> колону 6 – датум закључења уговора о раду између послодавца и лица са инвалидитетом из колоне 2;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan7-stav1-ali6">
+										<content>
+											<p> колону 7 – датум ступања на рад код послодавца лица са инвалидитетом из колоне 2.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav2">
+								<content>
+									<p>Када се Образац ОНСЗ-И подноси по престанку радног односа лица са инвалидитетом, поред исказивања података у кол. 2 до 7, уносе се и подаци у кол. 8 и 9, и то:</p>
+									<alinea id="gla2-clan7-stav2-ali1">
+										<content>
+											<p> колону 8 – датум престанка радног односа лица са инвалидитетом из колоне 2;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan7-stav2-ali2">
+										<content>
+											<p> колону 9 – правни основ престанка радног односа лица са инвалидитетом из колоне 2, у смислу закона који уређује рад (одредба и назив закона).</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>НАЧИН ПОПУЊАВАЊА ОБРАСЦА ИНСЗ-И</heading>
+				<content>
+					<article id="gla3-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla3-clan8-stav1">
+								<content>
+									<p>У Образац ИНСЗ-И послодавац уноси следеће податке:</p>
+									<alinea id="gla3-clan8-stav1-ali1">
+										<content>
+											<p> колону 2 – име и презиме лица са инвалидитетом са којим је закључен уговор о раду;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan8-stav1-ali2">
+										<content>
+											<p> колону 3 – ЈМБГ за лице са инвалидитетом из колоне 2;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan8-stav1-ali3">
+										<content>
+											<p> колону 4 – основица за обрачун доприноса, исказана на начин како се исказује код обрачуна и плаћања доприноса на зараде запослених на прописаном обрасцу збирне пореске пријаве – ПП ОД;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan8-stav1-ali4">
+										<content>
+											<p> кол. 5 до 7 – износ обрачунатих доприноса на терет послодавца, за сваки облик осигурања, који се добија применом законом прописаних стопа на основицу из колоне 4;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan8-stav1-ali5">
+										<content>
+											<p> кол. 8 до 10 – износе обрачунатих доприноса из кол. 5 до 7, за сваки облик осигурања, које плаћа Национална служба за лице са инвалидитетом (којих је послодавац ослобођен по члану 45б Закона);</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan8-stav1-ali6">
+										<content>
+											<p> колону 11 – укупан износ доприноса који је уплатила Национална служба за лице са инвалидитетом, који представља збир појединачних износа исказаних у кол. 8 до 10.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla3-clan9-stav1">
+								<content>
+									<p>По уносу појединачних података на начин из <ref>члана 8. овог</ref> правилника, у Образац ИНСЗ-И под „Укупно”, у кол. 4 до 11 уноси се збир појединачних износа исказаних у тим колонама.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ЗАВРШНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla4-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla4-clan10-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”, а примењиваће се од 1. септембра 2006. године.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan10-stav2">
+								<content>
+									<p>Број 110-00-360/2006-04</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan10-stav3">
+								<content>
+									<p>У Београду, 25. августа 2006. године</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan10-stav4">
+								<content>
+									<p>Министар финансија,</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan10-stav5">
+								<content>
+									<p>Млађан Динкић, с.р.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan10-stav6">
+								<content>
+									<p>Министар рада, запошљавања</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan10-stav7">
+								<content>
+									<p>и социјалне политике,</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan10-stav8">
+								<content>
+									<p>Слободан Лаловић, с.р.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan10-stav9">
+								<content>
+									<p>Министар здравља,</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan10-stav10">
+								<content>
+									<p>Томица Милосављевић, с.р.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan10-stav11">
+								<content>
+									<p>Прилози</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan10-stav12">
+								<content>
+									<p>НАПОМЕНА ИЗДАВАЧА: За исплате прихода на које  се плаћају порези по одбитку, које су обухваћене Правилником о пореској пријави  за порез по одбитку (&quot;<ref id="ref9" href="/rs/act/2013/74/srp@">Службени гласник РС&quot;, бр. 74/2013, 118/2013</ref>) и које се  врше почев од 1. марта 2014. године, уместо Обрасца ИНСЗ-И, подносе се обрасци  прописани Правилником о пореској пријави за порез по одбитку (&quot;<ref id="ref10" href="/rs/act/2013/74/srp@">Службени гласник  РС&quot;, бр. 74/2013, 118/2013</ref>) (види <ref>члан 22. </ref>Правилника - 74/2013-3 и <ref>члан 12.  </ref>Правилника – 118/2013-76).</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan10-stav13">
+								<content>
+									<p>Образац ОНСЗ-И -  Обавештење о заснивању/престанку радног односа са лицима са инвалидитетом</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

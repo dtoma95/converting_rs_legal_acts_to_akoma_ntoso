@@ -1,0 +1,212 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1981/62-1581/main"/>
+					<FRBRuri value="/rs/act/1981/62-1581"/>
+					<FRBRdate date="1981" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1982/12-343/srp@/main"/>
+					<FRBRuri value="/rs/act/1982/12-343/srp@"/>
+					<FRBRdate date="1982" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1982/12-343/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1982/12-343/srp@.akn"/>
+					<FRBRdate date="1982" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1981-11-20" name="службеним лист сфрј" number="62" showAs="Службеним лист СФРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="VI СВОЈИНСКИ И ОБЛИГАЦИОНИ, ПОРОДИЧНИ И БРАЧНИ ОДНОСИ" value="vi својински и облигациони, породични и брачни односи"/>
+				<keyword id="grupa" showAs="1. Облици својине" value="1. облици својине"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1981-11-12" id="usvajanje"/>
+				<step date="1981-11-28" id="stupanje_na_snagu"/>
+				<step date="1981-11-28" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="62/1981-1581" id="e1" type="generation"/>
+				<eventRef date="12/1982-343" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу осмог дана од дана објављивања у „Службеном листу СФРЈ”, односно 28. новембра 1981. године (види <ref>члан 7. </ref>Уредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<authority>На основу <ref>члана 40. став 2. </ref>Закона о правима и дужностима савезних органа у погледу средстава у друштвеној својини која они корист („<ref id="ref9" href="/rs/act/80/56/srp@">Службени лист СФРЈ“, бр. 56/80</ref>), Савезно извршно веће доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о  условима и начину под којима се могу вршити преправке, адаптације или други  грађевински радови на службеним просторијама савезних органа</title>
+			<date>„Службеним лист СФРЈ”, бр. 62 од 20. новембра 1981, 12. од 5. марта 1982  - исправка</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>На службеним просторијама савезних органа изузетно од одредбе <ref>члана 40. став 1. </ref>Закона о правима и дужностима савезних органа у погледу средстава у друштвеној својини која они користе (у даљем тексту: Закон), могу се вршити преправке, адаптације или други грађевински радови само ако то доприноси побољшању услова рада савезних органа, рационалнијем коришћењу службених просторија и побољшању њихове функционалности; као и кад постојеће просторије не задовољавају нормативе за коришћење и опремање, односно услове њихове стабилности и безбедности.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Преправке, адаптације или други грађевински радови из става 1. овог члана могу се вршити под условима утврђеним овом уредбом и прописима о изградњи инвестиционих објеката на територији на којој се службена просторија налази.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Захтев за вршење преправки, адаптација или других грађевинских радова, сагласно одредбама ове уредбе, подносе органи, организације, односно службе који користе те просторије.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Одлуку о преправкама, адаптацијама или другим грађевинским радовима доносе органи из <ref>члана 14. </ref>Закона или тело које они овласте.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Пре доношења одлуке о преправкама, адаптацијама или другим грађевинским радовима на службеним просторијама савезних органа, органи из <ref>члана 14. </ref>Закона прибављају мишљење стручне комисије.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav4">
+						<content>
+							<p>Стручну комисију из става 3. овог члана образује Савезно извршно веће.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Стручна комисија из <ref>члана 2. </ref>ове уредбе састоји се од председника и четири члана* . Председник и најмање један члан те комисије морају бити инжењери архитектуре.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>При давању мишљења стручна комисија из става 1. овог члана узима у обзир намену службене просторије за коју се тражи вршења преправке, целисходност и друштвену оправданост тих радова, дугорочност решења и могућност решења на други начин.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Административне послове за стручну комисију из става 1. овог члана обавља Управа пословних зграда савезних органа.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>У предрачуну Управе пословних зграда савезних органа обезбеђују се и средстава за рад стручне комисије из става 1. овог члана.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>*Слубени лист СФРЈ, број 12/1982</heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Реализација преправки, адаптација или других грађевинских радова врши се сагласно одлуци органа из <ref>члана 14. </ref>Закона.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>О вршењу преправки, адаптација или других грађевинских радова на службеним просторијама савезних органа стара се орган, односно стручна служба којој је поверено одржавање и обезбеђење редовног коришћења тих просторија.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Преправке, адаптације или други грађевински радови који су извршени на службеним просторијама пре дана ступања на снагу ове уредбе, који нису у складу са пројектом зграде у којој се службене просторије налазе а не испуњавају услове из <ref>члана 1. </ref>ове уредбе, морају се вратити у пређашње стање, односно у стање сагласно пројекту.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Стручна комисија из <ref>члана 2. </ref>ове уредбе дужна је да у року од једне године од дана ступања на снагу ове уредбе, прегледа све службене просторије савезних органа у којима су извршене преправке до дана ступања на снагу ове уредбе и да дa мишљење које службене просторије треба довести у стање сагласно пројекту.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>Органи, односно стручне службе надлежни за одржавање и обезбеђење редовног коришћења службених просторија савезних органа, у складу са налазима стручне комисије, дужни су да, у року од две године од дана достављања налога, изврше потребне радове којима се те просторије доводе у стање сагласно пројекту.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Одредбе ове уреде не односе се на Савезни секретаријат за народну одбрану и организације у његовом саставу, као и на Југословенску народну армију.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Ова уредба ступа на снагу осмог дана од дана објављивања у „Службеном листу СФРЈ”.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Е. п. бр. 477</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<section id="od12">
+				<num>12.</num>
+				<heading> новембра 1981. године</heading>
+				<content>
+					<clause id="od12-clan7-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od12-clan7-stav2">
+						<content>
+							<p>Савезно извршно веће</p>
+						</content>
+					</clause>
+					<clause id="od12-clan7-stav3">
+						<content>
+							<p>Потпредседник,</p>
+						</content>
+					</clause>
+					<clause id="od12-clan7-stav4">
+						<content>
+							<p>др  Иво Марган, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

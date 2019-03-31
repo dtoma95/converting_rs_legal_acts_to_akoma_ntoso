@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2012/9-99/main"/>
+					<FRBRuri value="/rs/act/2012/9-99"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2012/9-99/srp@/main"/>
+					<FRBRuri value="/rs/act/2012/9-99/srp@"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2012/9-99/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2012/9-99/srp@.akn"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2012-2-5" name="службени гласник рс" number="9" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="12. Заштита природе" value="12. заштита природе"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2012-01-31" id="usvajanje"/>
+				<step date="2012-02-13" id="stupanje_na_snagu"/>
+				<step date="2012-02-13" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 86. став 6. </ref>Закона о заштити природе („<ref id="ref3" href="/rs/act/09/36/srp@">Службени гласник РС”, бр. 36/09, 88/10</ref> и 91/10 – исправка),</p>
+		</preamble>
+		<preface>
+			<authority>Министар животне средине, рударства и просторног планирања доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о условима за обављање послова обележавања дивљих животиња</title>
+			<date>&quot;Службени гласник РС&quot;, број 9 од 5. фебруара   2012.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се услови за обављање послова обележавања дивљих животиња.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Правно лице може да врши обележавање дивљих животиња под условом да:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> је уписано у регистар министарства надлежног за послове ветеринарства за обављање ветеринарске делатности;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> поседује одговарајућу опрему за обележавање;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> поседује техничку опрему за вођење евиденције у електронској и писаној форми за потребе правовременог обавештавања министарства надлежног за послове заштите природе (у даљем тексту: Министарство);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> има најмање једно запослено или на основу уговора ангажовано лице, одговорно за послове обележавања.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Правно лице које је основано као научна и стручна организација и за обављање стручних послова заштите природе, обележавање дивљих животиња одузетих у поступку инспекцијског надзора може да врши ако, поред услова из <ref>члана 2. </ref>тач. 2), 3) и 4) овог правилника, испуњава и услове у складу са прописима из области заштите природе за давање стручних оцена.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Правно лице може да врши обележавање птица бешавним ножним прстеном за сопствене потребе ако, поред услова из <ref>члана 2. </ref>тач. 2), 3) и 4) овог правилника, испуњава и следеће услове:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> да је регистровано као удружење у складу са законом којим се уређује регистрација и оснивање удружења, чији су циљеви усмерени на заштиту и добробит птица;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> да поседује дозволу Министарства за узгој;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> да поседује дозволу Министарства за зоолошки врт или прихватилиште.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Изузетно од чл. 2, 3. и 4. овог правилника, физичко лице може да врши обележавање птица бешавним ножним прстеном за сопствене потребе, под условом да поседује дозволу Министарства за узгој, односно држање птица.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Број 110-00-174/2011-01</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>У Београду, 31. јануара 2012. године</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav5">
+						<content>
+							<p>др   Оливер Дулић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

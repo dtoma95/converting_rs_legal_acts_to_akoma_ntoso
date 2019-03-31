@@ -1,0 +1,198 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1992/15-536/main"/>
+					<FRBRuri value="/rs/act/1992/15-536"/>
+					<FRBRdate date="1992" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2014/144-9/srp@/main"/>
+					<FRBRuri value="/rs/act/2014/144-9/srp@"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2014/144-9/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2014/144-9/srp@.akn"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1992-3-21" name="службени гласник рс" number="15" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="10. Социјална заштита и друштвена брига о деци" value="10. социјална заштита и друштвена брига о деци"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1992-02-19" id="usvajanje"/>
+				<step date="1992-03-22" id="stupanje_na_snagu"/>
+				<step date="1992-03-22" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="15/1992-536" id="e1" type="generation"/>
+				<eventRef date="144/2014-9" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник је ступа на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 22. марта 1992. године (види <ref>члан 7. </ref>Правилника).Одредбе Правилника у делу који се односи на надзор над стручним радом центара за социјални рад престају да важе даном ступања на снагу Правилника о начину вршења надзора над стручним радом органа старатељства (<ref id="ref3" href="/rs/act/2014/144/srp@">Службени гласник РС, број 144/2014</ref>), односно 4. јануара 2015. године (види <ref>члан 20. </ref>Правилника - 144/2014-9).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 110. </ref>Закона о социјалној заштити и обезбеђењу социјалне сигурности грађана (&quot;<ref id="ref4" href="/rs/act/91/36/srp@">Службени гласник Републике Србије&quot;, број 36/91</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар за рад, борачка и социјална питања доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о вршењу надзора над стручним радом у установама социјалне заштите</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 15 од 21.  марта 1992,  144 од 27. децембра 2014 -     др. правилник</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се начин и поступак вршења надзора над стручним радом у установама социјалне заштите (у даљем тексту: установе) и грађана који обављају одређене послове у области социјалне заштите, начин на који треба отклонити уочене недостатке о извршеном надзору и друга питања од значаја за вршење надзора.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Надзор се врши над комплетним стручним радом установа односно грађана који обављају одређене послове из области социјалне заштите, над обављањем појединих стручних послова као и над радом појединих стручних радника у овој области.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Надзор из става 1. овог члана врши Комисија за стручни надзор (у даљем тексту: Комисија) коју чини потребан број стручњака који имају одговарајућу врсту и степен стручне спреме а над радом појединих стручних радника надзор врши појединац који има одговарајућу врсту и степен стручне спреме.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Установе односно грађани који обављају одређене послове из области социјалне заштите над чијим стручним радом треба извршити надзор писмено се обавештавају, најмање три дана раније, о времену у коме ће се извршити надзор.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Комисија односно појединац у току вршења надзора над стручним радом дају усмену оцену стручног рада указују на недостатке у раду и непосредно пружају одговарајућу стручну помоћ ради отклањања уочених недостатака.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Комисија односно појединац из става 1. овог члана могу, по указаној потреби, пружати непосредну стручну помоћ и превентивно – установама односно грађанима који обављају одређене послове из области социјалне заштите.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>О извршеном надзору сачињава се записник који садржи нарочито:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив и седиште установе односно лично име и адресу грађанина који обавља одређене послове из области социјалне заштите а ако се надзор врши над радом појединог стручног радника и његово лично име, адресу и опис послова које врши;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> делатност, односно послове у области социјалне заштите које обавља установа, односно грађанин који обавља одређене послове у области социјалне заштите;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> датум и место извршеног надзора;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> имена чланова комисије који су вршили надзор односно име појединца који је вршио надзор, са подацима о врсти и степену њихове стручне спреме;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> утврђено чињенично стање у погледу стручног рада, оцену тога стања и квалитета тога рада, уочене недостатке као и мере које треба предузети за отклањање утврђених недостатака.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Извештај потписују чланови Комисије, односно појединац који је извршио надзор над стручним радом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Даном ступања на снагу овог правилника престаје да важи Правилник о начину и поступку спровођења надзора над стручним радом установа социјалне заштите („<ref id="ref5" href="/rs/act/91/4/srp@">Службени гласник Републике Србије”, број 4/91</ref>).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Број 551-08-55/92</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>У Београду, 19. фебруара 1992. године</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav5">
+						<content>
+							<p>Бранка Јешић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

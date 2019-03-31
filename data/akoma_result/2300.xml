@@ -1,0 +1,288 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2017/12-13/main"/>
+					<FRBRuri value="/rs/act/2017/12-13"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2017/12-13/srp@/main"/>
+					<FRBRuri value="/rs/act/2017/12-13/srp@"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2017/12-13/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2017/12-13/srp@.akn"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2017-2-22" name="службени гласник рс" number="12" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="VIII РАЗВОЈ" value="viii развој"/>
+				<keyword id="grupa" showAs="3. Информационе технологије" value="3. информационе технологије"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2017-02-08" id="usvajanje"/>
+				<step date="2017-03-02" id="stupanje_na_snagu"/>
+				<step date="2017-03-02" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 17. </ref>Закона о информационој безбедности („<ref id="ref2" href="/rs/act/16/6/srp@">Службени гласник РС”, број 6/16</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар трговине, туризма и телекомуникација доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о ближим условима за упис у Евиденцију посебних центара за превенцију безбедносних ризика у информационо-комуникационим системима</title>
+			<date>&quot;Службени гласник РС&quot;, број 12 од 22. фебруара      2017.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником ближе се прописују услови за упис у Евиденцију посебних центара за превенцију безбедносних ризика у информационо-комуникационим системима (у даљем тексту: Евиденција).</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Евиденцију, у складу са Законом о информационој безбедности (у даљем тексту: Закон), води Национални центар за превенцију безбедносних ризика у ИКТ системима (у даљем тексту: Национални ЦЕРТ).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Посебан центар за превенцију безбедносних ризика у ИКТ системима (у даљем тексту: Посебан ЦЕРТ) може бити уписан у Евиденцију ако испуњава следеће услове:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> да има седиште на територији Републике Србије;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> да је правно лице или организациона јединица у оквиру правног лица;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> да обавља послове превенције и заштите од безбедносних ризика у ИКТ системима у оквиру одређеног правног лица, групе правних лица, области пословања и слично.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>У Евиденцију се уписују следећи подаци, и то:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив Посебног ЦЕРТ-а;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> редни број уписа у Евиденцију;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> број решења о упису у Евиденцију;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> датум уписа у Евиденцију;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> седиште Посебног ЦЕРТ-а (место, улица и број);</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> матични број;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> пореско-идентификациони број (ПИБ);</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> број телефона и факса;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> адреса Интернет стране;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> адреса електронске поште;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> име, презиме, функцију и контакт податке одговорног лица (број службеног телефона и службена адреса електронске поште);</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> врста и датум промене података уписаних у евиденцију;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> датум брисања из евиденције.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Евиденција се води у папирном и електронском облику.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Евиденција у електронском облику јавно је доступна на Интернет страни Националног ЦЕРТ-а.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Пријава за упис у Евиденцију подноси се у писменом облику, непосредно или поштом, на Обрасцу 1. који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Подносилац уз пријаву прилаже доказ о обављању послова превенције и заштите од безбедносних ризика у ИКТ системима у оквиру одређеног правног лица, групе правних лица, области пословања и слично.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>Пријава за упис у Евиденцију и доказ о обављању послова превенције и заштите од безбедносних ризика у ИКТ системима могу се поднети електронским путем на Интернет страни Националног ЦЕРТ-а.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>Подносилац доставља, у року од пет дана од дана подношења пријаве и доказа из става 3. овог члана електронским путем, Националном ЦЕРТ-у оригинал документацију, осим уколико је документација потписана квалификованим електронским потписом овлашћеног лица.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Пријава за промену података уписаних у Евиденцију подноси се начин из <ref>члана 5. овог</ref> правилника у року од осам дана од дана настанка промене, на Обрасцу 2. који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Упис у Евиденцију врши се на дан доношења решења о упису у Евиденцију.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Број 110-00-2/2017-12</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>У Београду, 8. фебруара 2017. године</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav5">
+						<content>
+							<p>др Расим Љајић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav6">
+						<content>
+							<p>Прилози</p>
+						</content>
+					</clause>
+					<став id="clan8-stav7">
+						<img alt="CERT_Page_1.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/CERT_Page_1_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=421742&amp;regactid=421742"/>
+						<content/>
+					</став>
+					<став id="clan8-stav8">
+						<img alt="CERT_Page_2.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/CERT_Page_2_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=421742&amp;regactid=421742"/>
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

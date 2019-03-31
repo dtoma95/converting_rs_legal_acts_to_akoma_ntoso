@@ -1,0 +1,470 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2013/31-71/main"/>
+					<FRBRuri value="/rs/act/2013/31-71"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2013/31-71/srp@/main"/>
+					<FRBRuri value="/rs/act/2013/31-71/srp@"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2013/31-71/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2013/31-71/srp@.akn"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2013-4-5" name="службени гласник рс" number="31" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="11. Регистрација привредних субјеката" value="11. регистрација привредних субјеката"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2013-04-02" id="usvajanje"/>
+				<step date="2013-04-13" id="stupanje_na_snagu"/>
+				<step date="2013-10-01" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник је ступио на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 13. априла 2013. године, а примењује се од 1. октобра 2013. године (види <ref>члан 15. </ref>Правилника).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 44. </ref>Закона о поступку регистрације у Агенцији за привредне регистре („<ref id="ref3" href="/rs/act/11/99/srp@">Службени гласник РС”, број 99/11</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар финансија и привреде доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о садржини Регистра финансијског лизинга и документацији потребној за регистрацију</title>
+			<date>&quot;Службени гласник РС&quot;, број 31 од 5. априла 2013.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>УВОДНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<heading>Предмет</heading>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником се уређује садржина Регистра финансијског лизинга (у даљем тексту: Регистар) и документација потребна за регистрацију или брисање података из Регистра.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<heading>Предмет регистрације</heading>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Предмет регистрације су подаци о уговорима о финансијском лизингу (у даљем тексту: уговор) за које је законом прописано да се региструју у Регистру.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>САДРЖИНА РЕГИСТРА</heading>
+				<content>
+					<article id="gla2-clan3">
+						<num>3.</num>
+						<heading>Подаци које Регистар садржи</heading>
+						<content>
+							<clause id="gla2-clan3-stav1">
+								<content>
+									<p>Регистар садржи податке о:</p>
+									<point id="gla2-clan3-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> тачном времену пријема регистрационе пријаве (дан, час и минут);</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> уговору (датум закључења, рок на који је уговор закључен, број под којим је заведен код даваоца лизинга);</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> уговорним странама, и то податке о даваоцу и примаоцу лизинга;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> предмету лизинга (подаци којима се ближе одређује покретна или непокретна ствар која је предмет лизинга);</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> дану испоруке предмета лизинга.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav2">
+								<content>
+									<p>Регистар може садржати и друге податке од значаја за уговорни однос, и то податке о:</p>
+									<point id="gla2-clan3-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> уговору о испоруци (датум закључења, број под којим је уговор заведен);</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> испоручиоцу предмета лизинга;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> остале податке које закон који регулише посао финансијског лизинга прописује као обавезну садржину уговора;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> друге податке од значаја за уговорни однос.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav3">
+								<content>
+									<p>Ако је лице из става 1. тачка 3) и става 2. тачка 2) овог члана домаће физичко лице, Регистар садржи податке о имену, презимену, матичном броју адреси пребивалишта, односно боравишта, а ако је у питању страно физичко лице, податке о имену, презимену, броју пасоша, земљи издавања и адреси пребивалишта, односно боравишта лица.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav4">
+								<content>
+									<p>Ако је лице из става 1. тачка 3) и става 2. тачка 2) овог члана домаће правно лице, Регистар садржи податке о пословном имену, матичном броју, адреси седишта, а ако је у питању страно правно лице, пословно име, ознаку под којом се води у страном регистру, назив тог регистра и адресу седишта лица.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<heading>Измене и допуне регистрованих података</heading>
+						<content>
+							<clause id="gla2-clan4-stav1">
+								<content>
+									<p>Регистар садржи и податке о свим променама података из <ref>члана 3. овог</ref> правилника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan5">
+						<num>5.</num>
+						<heading>Забележбе у Регистру</heading>
+						<content>
+							<clause id="gla2-clan5-stav1">
+								<content>
+									<p>У Регистар се уписују следеће врсте забележби:</p>
+									<point id="gla2-clan5-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> забележба спора, ако се води парница у вези са предметом лизинга или уговором;</p>
+										</content>
+									</point>
+									<point id="gla2-clan5-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> забележба података о чињеницама и документима који су од значаја за правни промет, а у вези су са регистрованим уговором.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>РЕГИСТРАЦИЈА ПОДАТАКА О УГОВОРУ И БРИСАЊЕ ПОДАТАКА ИЗ РЕГИСТРА</heading>
+				<content>
+					<article id="gla3-clan6">
+						<num>6.</num>
+						<heading>Подношење регистрационе пријаве</heading>
+						<content>
+							<clause id="gla3-clan6-stav1">
+								<content>
+									<p>Регистрациона пријава (у даљем тексту: пријава) подноси се на прописаном обрасцу.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan6-stav2">
+								<content>
+									<p>Уз уредно попуњену пријаву прилажу се:</p>
+									<point id="gla3-clan6-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> документ који представља правни основ за регистрацију или брисање података, у складу са овим правилником;</p>
+										</content>
+									</point>
+									<point id="gla3-clan6-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> други одговарајући документ из кога се могу утврдити подаци који су прописани чланом 3. овог правилника;</p>
+										</content>
+									</point>
+									<point id="gla3-clan6-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> доказ о уплати прописаног износа накнаде за вођење поступка регистрације.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan7">
+						<num>7.</num>
+						<heading>Регистрација података о уговору</heading>
+						<content>
+							<clause id="gla3-clan7-stav1">
+								<content>
+									<p>За регистрацију података о уговору, прилаже се следећа документација:</p>
+									<point id="gla3-clan7-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> уговор о финансијском лизингу;</p>
+										</content>
+									</point>
+									<point id="gla3-clan7-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> изјава даваоца лизинга да је сагласан са регистрацијом уговора, ако пријаву подноси прималац лизинга, уколико таква изјава није садржана у уговору;</p>
+										</content>
+									</point>
+									<point id="gla3-clan7-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> друга документација из које се могу утврдити подаци чија се регистрација тражи, уколико подаци нису садржани у уговору.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan8">
+						<num>8.</num>
+						<heading>Регистрација измене и/или допуне регистрованих података</heading>
+						<content>
+							<clause id="gla3-clan8-stav1">
+								<content>
+									<p>За регистрацију нових података, измену постојећих или брисање неких од регистрованих података прилаже се један од следећих докумената:</p>
+									<point id="gla3-clan8-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> анекс уговора;</p>
+										</content>
+									</point>
+									<point id="gla3-clan8-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> уговор којим је давалац лизинга извршио пренос права својине на предмету лизинга на треће лице – даваоца лизинга у складу са законом који регулише посао финансијског лизинга;</p>
+										</content>
+									</point>
+									<point id="gla3-clan8-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> споразум или други акт којим се врши уступање уговора;</p>
+										</content>
+									</point>
+									<point id="gla3-clan8-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> уговор из кога се може утврдити да је предмет лизинга дат на коришћење трећем лицу, уз који се прилаже и писана сагласност даваоца лизинга;</p>
+										</content>
+									</point>
+									<point id="gla3-clan8-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> други одговарајући документ из кога се са сигурношћу може утврдити да је дошло до промене регистрованих података.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan9">
+						<num>9.</num>
+						<heading>Регистрација забележбе</heading>
+						<content>
+							<clause id="gla3-clan9-stav1">
+								<content>
+									<p>За регистрацију забележбе спора прилаже се тужба са пријемним печатом суда или други одговарајући документ из кога се на несумњив начин може утврдити да се пред судом води спор у вези са предметом лизинга или уговором.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan9-stav2">
+								<content>
+									<p>За регистрацију забележбе података о чињеницама и документима који су од значаја за правни промет прилаже се документација из које се са сигурношћу може утврдити постојање чињенице, односно документа чија се регистрација тражи.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan10">
+						<num>10.</num>
+						<heading>Брисање регистроване забележбе</heading>
+						<content>
+							<clause id="gla3-clan10-stav1">
+								<content>
+									<p>За брисање забележбе спора прилаже се правноснажна одлука суда или поравнање којим је предметни спор окончан.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan10-stav2">
+								<content>
+									<p>За брисање забележбе података и докумената од значаја за правни промет прилаже се одговарајућа одлука државног органа или други документ из кога се може утврдити да је дошло до промене околности или докумената који су условили регистрацију забележбе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan11">
+						<num>11.</num>
+						<heading>Регистрација престанка уговора</heading>
+						<content>
+							<clause id="gla3-clan11-stav1">
+								<content>
+									<p>За регистрацију престанка уговора, у зависности од начина престанка, прилаже се следећа документација:</p>
+									<point id="gla3-clan11-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> потврда даваоца лизинга да је прималац лизинга измирио све обавезе из уговора;</p>
+										</content>
+									</point>
+									<point id="gla3-clan11-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> обавештење једне од уговорних страна да је протекао рок на који је уговор закључен;</p>
+										</content>
+									</point>
+									<point id="gla3-clan11-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> споразумни раскид уговора, правноснажна одлука суда о раскиду уговора или други одговарајући документ из кога се са сигурношћу може утврдити да је дошло до раскида уговора у складу са законом којим се уређује посао финансијског лизинга и законом којим се уређују облигациони односи;</p>
+										</content>
+									</point>
+									<point id="gla3-clan11-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> обрачун висине штете на предмету лизинга од стране осигуравајућег друштва у случају уништења предмета лизинга или други документ из кога се са сигурношћу може утврдити да је дошло до пропасти предмета лизинга;</p>
+										</content>
+									</point>
+									<point id="gla3-clan11-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> документ из кога проистиче да је предмет лизинга преузет од стране даваоца лизинга (записник о предаји – излучењу предмета лизинга даваоцу лизинга у поступку стечаја над примаоцем лизинга, одлука или други акт суда из кога проистиче да је предмет лизинга одузет примаоцу у извршном поступку по предлогу даваоца лизинга или записник којим се констатује да је предмет лизинга преузет од стране даваоца лизинга, а који су потписале обе уговорне стране);</p>
+										</content>
+									</point>
+									<point id="gla3-clan11-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> одлука суда или други одговарајући документ из кога се на несумњив начин може утврдити да је уговор о финансијском лизингу престао.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan12">
+						<num>12.</num>
+						<heading>Брисање података о регистрованом уговору</heading>
+						<content>
+							<clause id="gla3-clan12-stav1">
+								<content>
+									<p>За брисање података о регистрованом уговору прилаже се правноснажна судска одлука којом је утврђена ништавост уговора, односно којом је уговор поништен.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan13">
+						<num>13.</num>
+						<heading>Регистрација или брисање података по службеној дужности</heading>
+						<content>
+							<clause id="gla3-clan13-stav1">
+								<content>
+									<p>Поступак за регистрацију или брисање података по службеној дужности се покреће када суд или други државни орган достави одлуку, решење или други одговарајући акт који представља правни основ за регистрацију или брисање података из Регистра и ако је посебним законом предвиђено да се регистрација или брисање података врши по службеној дужности.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan14">
+						<num>14.</num>
+						<heading>Документација која се прилаже уз пријаву</heading>
+						<content>
+							<clause id="gla3-clan14-stav1">
+								<content>
+									<p>Документација која се прилаже уз пријаву мора бити у оригиналу, овереном препису или фотокопији овереној од стране надлежног органа.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan14-stav2">
+								<content>
+									<p>Ако се уз пријаву прилаже документ на страном језику, он мора бити легализован у складу са законом и уз њега мора бити приложен превод овлашћеног судског тумача.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ЗАВРШНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla4-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla4-clan15-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, а примењује се од 1. октобра 2013. године.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan15-stav2">
+								<content>
+									<p>Број 110-00-129/2013-01</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan15-stav3">
+								<content>
+									<p>У Београду, 2. априла 2013. године</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan15-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan15-stav5">
+								<content>
+									<p>Млађан Динкић, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

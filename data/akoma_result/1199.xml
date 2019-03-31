@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2011/54-18/main"/>
+					<FRBRuri value="/rs/act/2011/54-18"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/54-18/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/54-18/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/54-18/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/54-18/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2011-7-22" name="службени гласник рс" number="54" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Упутство" value="упутство"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="4. Полиција, јавни ред и мир и јавно окупљање" value="4. полиција, јавни ред и мир и јавно окупљање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-06-15" id="usvajanje"/>
+				<step date="2011-07-30" id="stupanje_na_snagu"/>
+				<step date="2011-07-30" id="primena"/>
+			</workflow>
+		</meta>
+		<body/>
+	</act>
+</akomaNtoso>

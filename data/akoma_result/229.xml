@@ -1,0 +1,461 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2010/92-31/main"/>
+					<FRBRuri value="/rs/act/2010/92-31"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2010/92-31/srp@/main"/>
+					<FRBRuri value="/rs/act/2010/92-31/srp@"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2010/92-31/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2010/92-31/srp@.akn"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2010-12-5" name="службени гласник рс“" number="92" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="15. Управљање отпадом" value="15. управљање отпадом"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2010-11-29" id="usvajanje"/>
+				<step date="2010-12-13" id="stupanje_na_snagu"/>
+				<step date="2010-12-13" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 44. став 8. </ref>Закона о управљању отпадом („<ref id="ref1" href="/rs/act/09/36/srp@">Службени гласник РС”, број 36/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар животне средине и просторног планирања доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о начину складиштења, паковања и обележавања опасног отпада</title>
+			<date>„Службени гласник РС“, број 92 од 5. децембра 2010.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником уређује се начин складиштења, паковања и обележавања опасног отпада.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Складиштење опасног отпада се врши на начин којим се обезбеђује најмањи ризик по угрожавање живота и здравља људи и животне средине.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Складиште опасног отпада мора бити изграђено у складу са законом и подзаконским прописима којима се уређује планирање и изградња, као и са техничким захтевима и стандардима.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Опасан отпад се складишти у резервоарима, контејнерима и другим посудама у оквиру складишта (у даљем тексту: посуде за складиштење).</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav4">
+						<content>
+							<p>Опасан отпад се може складиштити и у напуштеним рудницима, у складу са посебним прописима.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav5">
+						<content>
+							<p>Квалификовано лице одговорно за стручни рад одговорно је за поступање са опасним отпадом приликом складиштења, у складу са законом којим се уређује управљање отпадом.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav6">
+						<content>
+							<p>Опасан отпад се складишти на начин који обезбеђује лак и слободан прилаз ускладиштеном опасном отпаду ради контроле, препакивања, мерења, узорковања, транспорта итд.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav7">
+						<content>
+							<p>Складиште мора бити ограђено ради спречавања приступа неовлашћеним лицима, физички обезбеђено, закључано и под сталним надзором.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav8">
+						<content>
+							<p>О свим активностима у вези складиштења опасног отпада, води се евиденција, у складу са законом којим се уређује управљање отпадом и посебним прописима.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Посуда за складиштење опасног отпада треба да буде затворена и израђена од материјала који обезбеђује непропустљивост са одговарајућом заштитом од атмосферских утицаја.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Посуде у којима је ускладиштен опасан отпад, а у чијој близини се налазе посуде за складиштење опасног отпада чији је садржај некомпатибилан, морају бити заштићене међусобно и одвојене преградом, банкином, насипом, зидом или на други безбедан начин.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Складиштење отпада у течном стању се врши у посуди за складиштење обезбеђеном непропусном танкваном која може да прими целокупну количину отпада у случају удеса (процуривања).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Посуде за складиштење опасног отпада, са свим својим саставним деловима треба да буду отпорне на опасан отпад који се налази у њима.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Посуде за складиштење опасног отпада се редовно одржавају, чисте и не користе се након истека утврђеног рока употребе.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Посуде за складиштење се редовно контролишу кроз редовне провере посуда и њихових саставних делова у погледу њиховог оштећења, цурења, корозије или другог облика оштећења.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav4">
+						<content>
+							<p>Уколико је посуда за складиштење опасног отпада или њен саставни део технички неисправан, кородиран или има видљива оштећења опасан отпад треба преместити у технички исправну посуду на безбедан и прописан начин.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Приликом складиштења опасан отпад се пакује и обележава на начин којим се обезбеђује сигурност по здравље људи и животну средину.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Опасан отпад класификује се према пореклу, карактеристикама и саставу које га чине опасним, у складу са прописом којим се уређује категорија, испитивање и класификацији отпада.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>Ако се опасан отпад састоји од више врста отпада његова класификација се врши на основу најзаступљеније компоненте.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>Различите врсте опасног отпада ускладиштене на истом простору морају се одлагати одвојено.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Опасан отпад недовољно испитаних особина, до прибављања лабораторијског извештаја о испитивању отпада, привремено се складишти на безбедан начин, одвојено од осталог разврстаног опасног отпада, на тачно означеном месту у оквиру складишта.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Паковање опасног отпада врши се посебно према категорији на начин утврђен прописаним стандардима.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Паковање опасног отпада врши се тако да запремина и тежина паковања буду ограничене до минималне адекватне количине, а да се истовремено обезбеди неопходан ниво сигурности за прихватање упакованог опасног отпада од стране оператера.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>Упакован опасни отпад треба да буде обележен видљиво и јасно.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Налепница којом се обележава упакован опасан отпад (у даљем тексту: налепница) садржи следеће податке:</p>
+							<point id="clan8-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> упозорење: ОПАСАН ОТПАД на српском и енглеском језику;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> индексни број и назив отпада из Каталога отпада, у складу са посебним прописом;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> Y ознаку према Листи категорија или сродних типова опасног отпада према њиховој природи или активности којом се стварају (Y листа), у складу са посебним прописом;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> C ознаку према Листи компоненти отпада који га чине опасним (C листа), у складу са посебним прописом;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> Н ознаку према Листи карактеристика отпада које га чине опасним (H листа), у складу са посебним прописом;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> податке о власнику отпада који је паковао отпад: назив, седиште, телефон/факс, датум паковања, име и презиме квалификованог лица одговорног за стручни рад;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> физичко својство отпада: прах, чврста материја, вискозна материја, паста, муљ, течна материја, гасовита материја, остало из Извештаја о испитивању отпада, у складу са посебним прописом;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> количина садржана у паковању, а ако је групно паковање, онда и количина за сваки појединачни пакет.</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> НАПОМЕНА: Овде се уписује остали подаци које су битни при руковању опасним отпадом, а тичу се начина руковања наведеним отпадом којим се обезбеђује најмањи ризик и безбедност од загађења, опасности и негативних утицаја на живот и здравље људи и животне средине и у зависности од намене отпада.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Формат и величина налепнице дати су у Прилогу 1, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Налепница је заштићена и/или израђена од материјала (метал, пластика и сл.) који су отпорни на атмосферске и спољашње утицаје и опасан отпад који је упакован.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav3">
+						<content>
+							<p>Боја и приказ на налепници треба да буду такви да ознака опасног отпада буде лако видљива.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav4">
+						<content>
+							<p>Текст мора бити упечатљив, лако читљив и штампан на начин да не може да се избрише.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav5">
+						<content>
+							<p>Налепница се фиксира на паковање тако да се текст може прочитати хоризонтално када је паковање у нормалном положају.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav6">
+						<content>
+							<p>Налепница треба да се причврсти на паковање целом својом површином на начин који обезбеђује њено присуство све док отпад није у потпуности уклоњен из паковања.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Даном ступања на снагу овог правилника престаје да важи Правилник о начину поступања са отпацима који имају својство опасних материја („<ref id="ref2" href="/rs/act/95/12/srp@">Службени гласник РС”, број 12/95</ref>).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Број 110-00-157/2010-02</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav3">
+						<content>
+							<p>У Београду, 29. новембра 2010. године</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav5">
+						<content>
+							<p>др Оливер Дулић, с.р.</p>
+						</content>
+					</clause>
+					<став id="clan11-stav6">
+						<table border="1" cellpadding="0" cellspacing="0" style="width: 32.5rem; border-collapse: collapse; border: medium none;" width="520">
+							
+    
+							<tbody>
+								
+        
+								<tr>
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0cm 0.45rem;" valign="top">
+            Величина паковања изражена у литрима
+            </td>
+									
+            
+									<td style="border-width: 0.0833333333333333rem 0.0833333333333333rem 0.0833333333333333rem medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; padding: 0cm 0.45rem;" valign="top">
+            Формат   и димензије налепнице
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="border-width: medium 0.0833333333333333rem 0.0833333333333333rem; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 0.45rem;" valign="top">
+            до   3 l, укључујући и 3 l.
+            </td>
+									
+            
+									<td style="border-width: medium 0.0833333333333333rem 0.0833333333333333rem medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 0.45rem;" valign="top">
+            A8   (74 х 52 mm)
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="border-width: medium 0.0833333333333333rem 0.0833333333333333rem; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 0.45rem;" valign="top">
+            изнад   3 l, до 50 l, укључујући и 50 l
+            </td>
+									
+            
+									<td style="border-width: medium 0.0833333333333333rem 0.0833333333333333rem medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 0.45rem;" valign="top">
+            А7   (105 х 74 mm)
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="border-width: medium 0.0833333333333333rem 0.0833333333333333rem; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 0.45rem;" valign="top">
+            изнад   50 l, до 200 l, укључујући и 200 1.
+            </td>
+									
+            
+									<td style="border-width: medium 0.0833333333333333rem 0.0833333333333333rem medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 0.45rem;" valign="top">
+            А6   (148 х 105mm)
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="border-width: medium 0.0833333333333333rem 0.0833333333333333rem; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 0.45rem;" valign="top">
+            изнад   200 l, до 500 l, укључујући и 500 1.
+            </td>
+									
+            
+									<td style="border-width: medium 0.0833333333333333rem 0.0833333333333333rem medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 0.45rem;" valign="top">
+            А5   (210х148mm)
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="border-width: medium 0.0833333333333333rem 0.0833333333333333rem; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 0.45rem;" valign="top">
+            изнад   500 1.
+            </td>
+									
+            
+									<td style="border-width: medium 0.0833333333333333rem 0.0833333333333333rem medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 0.45rem;" valign="top">
+            A4   (297х 210 mm)
+            </td>
+									
+        
+								</tr>
+								
+    
+							</tbody>
+							
+
+						</table>
+						
+
+
+
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

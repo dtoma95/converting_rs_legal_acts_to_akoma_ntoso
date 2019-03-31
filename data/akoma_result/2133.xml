@@ -1,0 +1,859 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1998/26-24/main"/>
+					<FRBRuri value="/rs/act/1998/26-24"/>
+					<FRBRdate date="1998" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1998/26-24/srp@/main"/>
+					<FRBRuri value="/rs/act/1998/26-24/srp@"/>
+					<FRBRdate date="1998" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1998/26-24/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1998/26-24/srp@.akn"/>
+					<FRBRdate date="1998" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1998-5-29" name="службени лист срј" number="26" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правила" value="правила"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="4. Задруге" value="4. задруге"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1997-11-26" id="usvajanje"/>
+				<step date="1998-06-06" id="stupanje_na_snagu"/>
+				<step date="1998-06-06" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 85. став 1. тачка 2</ref>. Закона о задругама (“<ref id="ref6" href="/rs/act/96/41/srp@">Службени лист СРЈ”, бр. 41/96</ref> и 12/98), Скупштина Савеза стамбених задруга Југославије доноси</p>
+		</preamble>
+		<preface>
+			<authority>ПРАВИЛА</authority>
+			<title>о задружној ревизији стамбених задруга</title>
+			<date>„Службени лист СРЈ”, број 26 од 29.  маја 1998.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОСНОВНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилима прописују се услови које морају испуњавати задружни савези и ревизори који обављају задружну ревизију, садржина извештаја о обављеној ревизији, као и друга питања од значаја за задружну ревизију стамбених задруга.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Задружна ревизија (у даљем тексту: ревизија) обавезна је за све стамбене задруге (у даљем тексту: задруга).</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav2">
+								<content>
+									<p>Ова правила сходно се примењују и на савезе задруга из става 1. овог члана.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Ревизију обавља задружни савез који испуњава услове прописане овим правилима (у даљем тексту: ревизијски савез).</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav2">
+								<content>
+									<p>Савез стамбених задруга Југославије (у даљем тексту: Савез) обезбеђује обављање ревизије, утврђује који задружни савез и која лица испуњавају услове прописане овим правилима за обављање ревизије и води регистар тих савеза и именик ревизора.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla1-clan4-stav1">
+								<content>
+									<p>Ревизија може бити редовна и ванредна.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla1-clan5-stav1">
+								<content>
+									<p>Редовна ревизија обавља се сваке друге године према програму који утврђује ревизијски савез. Програмом се утврђује и редослед задруга код којих ће се обавити редовна ревизија.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan5-stav2">
+								<content>
+									<p>Ако задруга није обухваћена програмом из става 1. овог члана задруга је обавезна да поднесе захтев за обављање редовне ревизије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla1-clan6-stav1">
+								<content>
+									<p>Ванредна ревизија обавља се по потреби.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan6-stav2">
+								<content>
+									<p>Захтев за обављање ванредне ревизије може поднети: надлежни орган задруге, задружни савез, надлежни државни орган, одређени број задругара утврђен задружним правилима и поверилац задруге.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ПРЕДМЕТ И ЗАДАЦИ РЕВИЗИЈЕ</heading>
+				<content>
+					<article id="gla2-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla2-clan7-stav1">
+								<content>
+									<p>Задатак ревизије је да стручно, објективно, одговорно и савесно испита, провери и утврди:</p>
+									<point id="gla2-clan7-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> да ли су оснивачка, општа и друга акта, пословна документација, организовање задруге, као и финансијско и друго пословање задруге у складу са задружним принципима, Општим правилима стамбеног задругарства Југославије (у даљем тексту: Општа правила), Законом о задругама (у даљем тексту: Закон) и другим прописима;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> однос запослених према задругарима и вршење права и обавеза задругара и запослених у задрузи;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> извршавање обавеза утврђених Законом, Општим правилима и правилима задруге, према задругарима, другим задругама и Савезу;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> обим задружне солидарности и задружне сарадње;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> обезбеђење података и средстава за обављање задружне ревизије и вођење задружног регистра и задружне статистике;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> друге потребне чињенице од значаја за рад и пословање задруге.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>Поред контролне функције, ревизија има задатак да врши и одређену превентивну и инструктивну функцију у циљу заштите интереса задруга, задругара и унапређења задругарства.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>УСЛОВИ КОЈЕ МОРА ИСПУЊАВАТИ ЗАДРУЖНИ САВЕЗ И РЕВИЗОР КОЈИ ОБАВЉА ЗАДРУЖНУ РЕВИЗИЈУ</heading>
+				<content>
+					<article id="gla3-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla3-clan9-stav1">
+								<content>
+									<p>Задружну ревизију може обављати задружни савез стамбених задруга који испуњава следеће услове:</p>
+									<point id="gla3-clan9-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> да је регистрован код надлежног привредног суда за обављање послова из чл. 70. и 71. Закона;</p>
+										</content>
+									</point>
+									<point id="gla3-clan9-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> да има свој простор или простор у закупу и решење надлежног органа о испуњењу услова заштите на раду;</p>
+										</content>
+									</point>
+									<point id="gla3-clan9-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> да има нужну опрему за обављање административних послова и најмање једно запослено лице одговарајуће стручне спреме.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan9-stav2">
+								<content>
+									<p>Савез прописује ближе услове у погледу техничке и кадровске оспособљености ревизијског савеза.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla3-clan10-stav1">
+								<content>
+									<p>Одлуку који задружни савез испуњава услове из <ref>члана 9. </ref>ових правила, доноси Скупштина Савеза.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan10-stav2">
+								<content>
+									<p>Скупштина Савеза доноси одлуку о томе када ревизијски савез више не испуњава услове прописане овим правилима.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla3-clan11-stav1">
+								<content>
+									<p>Одука из <ref>члана 10. </ref>ових правила доставља се надлежном савезном органу који врши надзор над вршењем јавних овлашћења здружних савеза.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla3-clan12-stav1">
+								<content>
+									<p>У ревизорском позиву постоје два звања:</p>
+									<point id="gla3-clan12-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> главни ревизор,</p>
+										</content>
+									</point>
+									<point id="gla3-clan12-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> ревизор.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla3-clan13-stav1">
+								<content>
+									<p>Звање главног ревизора и ревизора (у даљем тексту: ревизор) може стећи лице које испуњава следеће услове:</p>
+									<point id="gla3-clan13-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> да је југословенски држављанин;</p>
+										</content>
+									</point>
+									<point id="gla3-clan13-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> да има високу, вишу или средњу стручну спрему;</p>
+										</content>
+									</point>
+									<point id="gla3-clan13-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> да има најмање три године радног искуства;</p>
+										</content>
+									</point>
+									<point id="gla3-clan13-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> да познаје прописе из области задругарства, као и специфичности, традиционалне вредности и принципе стамбеног задругарства;</p>
+										</content>
+									</point>
+									<point id="gla3-clan13-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> да није осуђивано за кривична дела која га чине недостојним за обављање ревизије.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla3-clan14-stav1">
+								<content>
+									<p>Ревизор има службену легитимацију. Образац легитимације из става 1. овог члана утврђује ревизијски савез.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla3-clan15-stav1">
+								<content>
+									<p>Ревизор може засновати радни однос у ревизијском савезу или бити ангажован по другом основу, у складу са законом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="gla3-clan16-stav1">
+								<content>
+									<p>Ревизор губи звање ако престане да испуњава услове из <ref>члана 13. </ref>ових правила, као и ако ревизију не обавља стручно, непристрасно и савесно.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="gla3-clan17-stav1">
+								<content>
+									<p>Стицање и губљене звања ревизора утврђује се посебним актом Савеза.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ПОСТУПАК ВРШЕЊА РЕВИЗИЈЕ</heading>
+				<content>
+					<article id="gla4-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="gla4-clan18-stav1">
+								<content>
+									<p>Ревизор ради по налогу ревизијског савеза.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan18-stav2">
+								<content>
+									<p>Налог за обављање ревизије садржи и назнаку о којој врсти ревизије се ради.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan18-stav3">
+								<content>
+									<p>Ревизија се може обављати у просторијама задруге, односно у просторијама ревизијског савеза.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan18-stav4">
+								<content>
+									<p>Пре почетка обављања ревизије, ревизијски савез је дужан да обавести задругу која је подвргнута ревизији.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="gla4-clan19-stav1">
+								<content>
+									<p>Ревизор је дужан да се легитимише да је овлашћен да обавља ревизију.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan19-stav2">
+								<content>
+									<p>Ревизор одређује која документа, подаци и услови за рад су му потребни за рад.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan19-stav3">
+								<content>
+									<p>Ревизор може да захтева присуство и сарадњу одређених лица за која оцени да су му потребна за успешно обављање ревизије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla4-clan20-stav1">
+								<content>
+									<p>Задруга је дужна да ревизору стави на располагање потребне исправе и пружи информације и објашњења који су по оцени ревизора неопходни за обављање ревизије и сачињавање извештаја о обављеној ревизији.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan21">
+						<num>21.</num>
+						<content>
+							<clause id="gla4-clan21-stav1">
+								<content>
+									<p>Ако задруга одбије да прими ревизора, не обезбеди средства и друге услове неопходне за обављање ревизије, или на други начин онемогући обављање ревизије, ревизор ће о томе писмено обавестити ревизијски савез.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan21-stav2">
+								<content>
+									<p>Ревизијски савез ће упозорити задругу која одбије или онемогући обављање ревизије и наложити јој да обезбеди услове за обављање ревизије у складу са Законом и овим правилима.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan22">
+						<num>22.</num>
+						<content>
+							<clause id="gla4-clan22-stav1">
+								<content>
+									<p>Ако задруга не поступи по упозорењу и налогу ревизијског савеза, ревизијски савез ће о томе обавестити надлежни савезни орган.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan22-stav2">
+								<content>
+									<p>У случајевима из става 1. овог члана ревизијски савез може обавестити и друге надлежне органе и поднети пријаву за покретање поступка.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan22-stav3">
+								<content>
+									<p>Ако директор или друго одговорно лице у задрузи онемогући или омета обављање ревизије, ревизијски савез може поднети захтев надлежном органу задруге за покретање поступка за утврђивање одговорности тих лица и предузимање одговарајућих мера.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan23">
+						<num>23.</num>
+						<content>
+							<clause id="gla4-clan23-stav1">
+								<content>
+									<p>Ревизија се може обављати са једним или више ревизора.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan23-stav2">
+								<content>
+									<p>Ревизор може обављати ревизију и уз присуство инспектора, вештака и других лица, ако се за то укаже потреба.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>САДРЖАЈ ИЗВЕШТАЈА О ОБАВЉЕНОЈ РЕВИЗИЈИ И ПОСТУПАК ПО ИЗВЕШТАЈУ</heading>
+				<content>
+					<article id="gla5-clan24">
+						<num>24.</num>
+						<content>
+							<clause id="gla5-clan24-stav1">
+								<content>
+									<p>Ревизор је дужан да сачини писмени извештај о обављеној ревизији (у даљем тексту: извештај).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan25">
+						<num>25.</num>
+						<content>
+							<clause id="gla5-clan25-stav1">
+								<content>
+									<p>Извештај садржи налазе и оцену ревизора о питањима која су предмет ревизије, као и образложење дате оцене.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan25-stav2">
+								<content>
+									<p>Извештај из става 1. овог члана садржи и:</p>
+									<point id="gla5-clan25-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> опште податке о задрузи која је предмет ревизије;</p>
+										</content>
+									</point>
+									<point id="gla5-clan25-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> податке о ревизору који је обавио ревизију, лицима која су присуствовала, времену и месту вршења ревизије;</p>
+										</content>
+									</point>
+									<point id="gla5-clan25-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> податке о врсти ревизије;</p>
+										</content>
+									</point>
+									<point id="gla5-clan25-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> податке о предмету ревизије, односно о обиму обављене ревизије, у којима се наводи садржина одлуке, односно захтева за спровођење и ванредне ревизије;</p>
+										</content>
+									</point>
+									<point id="gla5-clan25-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> прописе које је ревизор применио;</p>
+										</content>
+									</point>
+									<point id="gla5-clan25-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> документа која је ревизор контролисао;</p>
+										</content>
+									</point>
+									<point id="gla5-clan25-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> мере, упутства и налоге које је ревизор давао у току ревизије;</p>
+										</content>
+									</point>
+									<point id="gla5-clan25-stav2-tac8">
+										<num>8)</num>
+										<content>
+											<p> неправилности које су отклоњене у току ревизије;</p>
+										</content>
+									</point>
+									<point id="gla5-clan25-stav2-tac9">
+										<num>9)</num>
+										<content>
+											<p> неправилности које треба отклонити и рокове;</p>
+										</content>
+									</point>
+									<point id="gla5-clan25-stav2-tac10">
+										<num>10)</num>
+										<content>
+											<p> предлог мере које треба да предузме ревизијски савез и рок за њихово предузимање;</p>
+										</content>
+									</point>
+									<point id="gla5-clan25-stav2-tac11">
+										<num>11)</num>
+										<content>
+											<p> упутства о поступку и правну поуку.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan26">
+						<num>26.</num>
+						<content>
+							<clause id="gla5-clan26-stav1">
+								<content>
+									<p>Ревизор доставља извештај ревизијском савезу у року од седам дана од дана обављања ревизије.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan26-stav2">
+								<content>
+									<p>Извештај са примедбама и упутствима, ревизијски савез доставља задрузи која је предмет ревизије, задружном савезу чији је члан, односно Савезу.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan27">
+						<num>27.</num>
+						<content>
+							<clause id="gla5-clan27-stav1">
+								<content>
+									<p>Задруга је дужна да поступи по примедбама и упутствима у року утврђеном у извештају.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan28">
+						<num>28.</num>
+						<content>
+							<clause id="gla5-clan28-stav1">
+								<content>
+									<p>Задруга може ревизијском савезу доставити приговор на извештај о обављеној ревизији у року од 15 дана од дана пријема извештаја.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan28-stav2">
+								<content>
+									<p>По приговору задруге одлучује ревизијски савет.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan28-stav3">
+								<content>
+									<p>Ревизијски савет бира скупштина Савеза, на предлог извршног одбора.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan29">
+						<num>29.</num>
+						<content>
+							<clause id="gla5-clan29-stav1">
+								<content>
+									<p>Извештај постаје коначан по истеку рока за достављање приговора, односно даном кад задруга прими одлуку ревизијског савеза о одбијању приговора.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan30">
+						<num>30.</num>
+						<content>
+							<clause id="gla5-clan30-stav1">
+								<content>
+									<p>Директор задруге је дужан да извештај о ревизији са примедбама и упутствима стави на дневни ред управног и надзорног одбора задруге.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan30-stav2">
+								<content>
+									<p>Записник са седнице органа из става 1. овог члана доставља се ревизијском савезу у року од осам дана од дана одржавања седнице.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan31">
+						<num>31.</num>
+						<content>
+							<clause id="gla5-clan31-stav1">
+								<content>
+									<p>Задруга је дужна, у року од 60 дана од дана када је извештај постао коначан, да обавести ревизијски савез и задружни савез у који је учлањена, односно Савез, о свом поступању по примедбама и упутствима из тог извештаја.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan32">
+						<num>32.</num>
+						<content>
+							<clause id="gla5-clan32-stav1">
+								<content>
+									<p>Ако задруга не поступи по налозима и не отклони неправилности које је утврдила задружна ревизија, ревизијски савез ће о томе обавестити надлежни државни орган и предузети друге мере утврђене Законом и овим правилима.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan33">
+						<num>33.</num>
+						<content>
+							<clause id="gla5-clan33-stav1">
+								<content>
+									<p>Ако ревизијски савез оцени, на основу извештаја, да је учињено кривично дело, привредни преступ или прекршај, поднеће пријаву надлежном органу за покретање поступка.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan34">
+						<num>34.</num>
+						<content>
+							<clause id="gla5-clan34-stav1">
+								<content>
+									<p>Ревизијски савез, у случају теже повреде задружних принципа, Закона и Општих правила, подноси суду који води регистар, пријаву за покретање поступка ликвидације задруге и брисања из судског регистра, ако оцени да су испуњени услови за ликвидацију задруге.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>ОБАВЕЗЕ ЗАДРУГЕ И РЕВИЗОРА</heading>
+				<content>
+					<article id="gla6-clan35">
+						<num>35.</num>
+						<content>
+							<clause id="gla6-clan35-stav1">
+								<content>
+									<p>Задруга је дужна да обезбеди податке, средства и друге услове утврђене Законом, Општим правилима и овим правилима ради обављања задружне ревизије и вођења задружног регистра.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan36">
+						<num>36.</num>
+						<content>
+							<clause id="gla6-clan36-stav1">
+								<content>
+									<p>Директор задруге, односно лице које он овласти, дужан је да даје истинита, тачна и потпуна обавештења о свему што је потребно да се ревизија изврши правилно и ефикасно.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan37">
+						<num>37.</num>
+						<content>
+							<clause id="gla6-clan37-stav1">
+								<content>
+									<p>Сматраће се да се задруга није подвргла задружној ревизији ако не обезбеди средства за обављање ревизије и рад ревизора, ако не пружи податке и обезбеди документа и друга средства и услове за обављање ревизије и вођење задружног регистра.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan38">
+						<num>38.</num>
+						<content>
+							<clause id="gla6-clan38-stav1">
+								<content>
+									<p>Ревизор је дужан да ревизију обавља стручно, непристрасно и савесно.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla7">
+				<num>VII</num>
+				<heading>ТРОШКОВИ РЕВИЗИЈЕ</heading>
+				<content>
+					<article id="gla7-clan39">
+						<num>39.</num>
+						<content>
+							<clause id="gla7-clan39-stav1">
+								<content>
+									<p>Трошкове редовне ревизије сноси задруга у којој се врши ревизија.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan39-stav2">
+								<content>
+									<p>Трошкове ванредне ревизије сноси задруга, односно подносилац захтева, ако се утврди да такав захтев није био оправдан, односно да нису утврђене неправилности у раду задруге.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan40">
+						<num>40.</num>
+						<content>
+							<clause id="gla7-clan40-stav1">
+								<content>
+									<p>Трошкове за обављање ревизије чине посредни и непосредни трошкови.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan40-stav2">
+								<content>
+									<p>Посредни трошкови састоје се од заједничких трошкова за формирање и континуиран рад ревизијског савеза као сталне, стручно оспособљене, технички и организационо способне задружне организације (пословни простор, опрема, стручни и административно-технички послови, вођење регистра, опште и посебне статистике везане за послове ревизије, праћење извршења налога, вођење поступака по жалбама, стручна помоћ задругама при отклањању недостатака и сл.).</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan40-stav3">
+								<content>
+									<p>Непосредни трошкови састоје се од трошкове везаних за извршавања конкретних налога за редовну и ванредну ревизију и обилазак задруге (путни трошкови и сл.).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan41">
+						<num>41.</num>
+						<content>
+							<clause id="gla7-clan41-stav1">
+								<content>
+									<p>Партиципацију у посредним трошковима задруге су дужне да уплаћују континуирано, на начин и у износу који утврди ревизијски савез.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan41-stav2">
+								<content>
+									<p>Средства из става 1. овог члана обезбеђују све стамбене задруге уплатом задружног доприноса ревизијском савезу.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan42">
+						<num>42.</num>
+						<content>
+							<clause id="gla7-clan42-stav1">
+								<content>
+									<p>Неизвршавање обавезе задруге по основу обезбеђења средстава из <ref>члана 40. </ref>односно нередовна уплата задружног доприноса из <ref>члана 41. </ref>ових правила, сматраће се да се задруга није подвргла ревизији у смислу одредби Закона и ових правила.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla8">
+				<num>VIII</num>
+				<heading>ПРЕЛАЗНЕ И ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla8-clan43">
+						<num>43.</num>
+						<content>
+							<clause id="gla8-clan43-stav1">
+								<content>
+									<p>Генерални секретар Савеза стара се о спровођењу ових правила и даје одговарајућа упутства и стручна мишљења.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla8-clan44">
+						<num>44.</num>
+						<content>
+							<clause id="gla8-clan44-stav1">
+								<content>
+									<p>Ова правила ступају на снагу осмог дана од дана објављивања у „Службеном листу СРЈ”.</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan44-stav2">
+								<content>
+									<p>Број: 95</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<section id="gla8-od26">
+						<num>26.</num>
+						<heading> новембра 1997. године</heading>
+						<content>
+							<clause id="gla8-od26-clan44-stav1">
+								<content>
+									<p>Београд</p>
+								</content>
+							</clause>
+							<clause id="gla8-od26-clan44-stav2">
+								<content>
+									<p>Генерални секретар</p>
+								</content>
+							</clause>
+							<clause id="gla8-od26-clan44-stav3">
+								<content>
+									<p>Новица Сташевић,   с.р.</p>
+								</content>
+							</clause>
+							<clause id="gla8-od26-clan44-stav4">
+								<content>
+									<p>Председник Скупштине</p>
+								</content>
+							</clause>
+							<clause id="gla8-od26-clan44-stav5">
+								<content>
+									<p>проф. др.   Никола Митровић, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</section>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

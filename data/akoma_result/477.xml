@@ -1,0 +1,246 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2014/9-4/main"/>
+					<FRBRuri value="/rs/act/2014/9-4"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2017/73-6/srp@/main"/>
+					<FRBRuri value="/rs/act/2017/73-6/srp@"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2017/73-6/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2017/73-6/srp@.akn"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2014-1-30" name="службени гласник рс" number="9" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="7. Основно и предшколско образовање и васпитање" value="7. основно и предшколско образовање и васпитање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2014-01-29" id="usvajanje"/>
+				<step date="2014-02-07" id="stupanje_na_snagu"/>
+				<step date="2014-02-07" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="9/2014-4" id="e1" type="generation"/>
+				<eventRef date="10/2017-22" id="e2" type="amendment"/>
+				<eventRef date="31/2017-3" id="e3" type="amendment"/>
+				<eventRef date="73/2017-6" id="e4" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Комисија је образована на време од шест година (види тачку 1. Одлуке).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу <ref>члана 33. став 3. </ref>Закона о основном образовању и васпитању („<ref id="ref3" href="/rs/act/13/55/srp@">Службени гласник РС”, број 55/13</ref>), <ref>члана 8. став 2. </ref>Закона о средњем образовању и васпитању („<ref id="ref4" href="/rs/act/13/55/srp@">Службени гласник РС”, број 55/13</ref>) и <ref>члана 43. став 1. </ref>Закона о Влади („<ref id="ref5" href="/rs/act/05/55/srp@">Службени гласник РС”, бр. 55/05, 71/05</ref> – исправка, 101/07, 65/08, 16/11, 68/12 – УС и 72/12),</p>
+			<p>Влада доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о образовању Комисије за верску наставу у школи</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 9 од 30. јануара   2014, 10 од 14. фебруара 2017, 31 од 3. априла 2017, 73 од 28. јула 2017.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Образује се Комисија за верску наставу у школи (у даљем тексту: Комисија) која прати организовање и остваривање верске наставе у школи, на време од шест година.</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> За чланове Комисије именују се:</heading>
+				<content>
+					<point id="od2-tac1">
+						<num>1)</num>
+						<content>
+							<p> епископ бачки Г. Иринеј, Српска Православна Црква;</p>
+						</content>
+					</point>
+					<point id="od2-tac2">
+						<num>2)</num>
+						<content>
+							<p> мр Јосип Пекановић, Римокатоличка црква;</p>
+						</content>
+					</point>
+					<point id="od2-tac3">
+						<num>3)</num>
+						<content>
+							<p> Кристина Новаков, Словачка Евангеличка Црква а.в.  у Србији;</p>
+						</content>
+					</point>
+					<point id="od2-tac4">
+						<num>4)</num>
+						<content>
+							<p> епископ Халас Бела, Реформатска Хришћанска Црква у Србији;</p>
+						</content>
+					</point>
+					<point id="od2-tac5">
+						<num>5)</num>
+						<content>
+							<p> заменик бискупа Габор Долински, Евангеличка Хришћанска Црква а.в. у Србији;</p>
+						</content>
+					</point>
+					<point id="od2-tac6">
+						<num>6)</num>
+						<content>
+							<p> рабин Исак Асиел, Савез јеврејских општина Србије;</p>
+						</content>
+					</point>
+					<point id="od2-tac7">
+						<num>7)</num>
+						<content>
+							<p> реису-л-улема Сеад еф. Насуфовић, Исламска   заједница Србије;</p>
+						</content>
+					</point>
+					<point id="od2-tac8">
+						<num>8)</num>
+						<content>
+							<p> др Марко Николић, Министарство правде, Управа   за сарадњу с црквама и верским заједницама;</p>
+						</content>
+					</point>
+					<point id="od2-tac9">
+						<num>9)</num>
+						<content>
+							<p> др Милета Радојевић, Министарство правде,   Управа за сарадњу с црквама и верским заједницама;</p>
+						</content>
+					</point>
+					<point id="od2-tac10">
+						<num>10)</num>
+						<content>
+							<p> Владимир Тодић, Министарство правде, Управа за   сарадњу с црквама и верским заједницама;</p>
+						</content>
+					</point>
+					<point id="od2-tac11">
+						<num>11)</num>
+						<content>
+							<p> Милош Благојевић, Министарство просвете, науке   и технолошког развоја;</p>
+						</content>
+					</point>
+					<point id="od2-tac12">
+						<num>12)</num>
+						<content>
+							<p> Александар Марковић, Министарство просвете,   науке и технолошког развоја;</p>
+						</content>
+					</point>
+					<point id="od2-tac13">
+						<num>13)</num>
+						<content>
+							<p> Славица Ракић, Министарство просвете, науке и технолошког развоја.</p>
+						</content>
+					</point>
+					<clause id="od2-stav1">
+						<content>
+							<p>Председника и заменика председника Комисије бирају чланови Комисије на првој седници, већином гласова од укупног броја чланова Комисије.</p>
+						</content>
+					</clause>
+					<clause id="od2-stav2">
+						<content>
+							<p>*<ref id="ref6" href="/rs/act/2017/10/srp@">Службени гласник РС, број 10/2017</ref></p>
+						</content>
+					</clause>
+					<clause id="od2-stav3">
+						<content>
+							<p>**<ref id="ref7" href="/rs/act/2017/73/srp@">Службени гласник РС, број 73/2017</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Комисија обавља послове који се, нарочито, односе на:</heading>
+				<content>
+					<point id="od3-tac1">
+						<num>1)</num>
+						<content>
+							<p> усаглашавање предлога програма верске наставе;</p>
+						</content>
+					</point>
+					<point id="od3-tac2">
+						<num>2)</num>
+						<content>
+							<p> уџбенике и друга наставна средства, у складу са законом којим се уређују питања везана за уџбенике и друга наставна средства;</p>
+						</content>
+					</point>
+					<point id="od3-tac3">
+						<num>3)</num>
+						<content>
+							<p> давање мишљења о листама наставника верске наставе;</p>
+						</content>
+					</point>
+					<point id="od3-tac4">
+						<num>4)</num>
+						<content>
+							<p> друга питања везана за праћење организовања и остваривања програма верске наставе.</p>
+						</content>
+					</point>
+				</content>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Начин рада и друга питања од значаја за рад Комисије уређују се пословником о раду Комисије.</heading>
+				<content/>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> Стручне и административно-техничке послове за потребе Комисије обавља Министарство просвете, науке и технолошког развоја.</heading>
+				<content/>
+			</section>
+			<section id="od6">
+				<num>6.</num>
+				<heading> Ступањем на снагу ове одлуке престаје да важи Одлука о образовању Комисије за верску наставу у основним и средњим школама („<ref id="ref8" href="/rs/act/04/123/srp@">Службени гласник РС”, број 123/04</ref>).</heading>
+				<content/>
+			</section>
+			<section id="od7">
+				<num>7.</num>
+				<heading> Ова одлука ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</heading>
+				<content>
+					<clause id="od7-stav1">
+						<content>
+							<p>05 број 02-849/2014</p>
+						</content>
+					</clause>
+					<clause id="od7-stav2">
+						<content>
+							<p>У Београду, 29. јануара 2014. године</p>
+						</content>
+					</clause>
+					<clause id="od7-stav3">
+						<content>
+							<p>Влада</p>
+						</content>
+					</clause>
+					<clause id="od7-stav4">
+						<content>
+							<p>Председник,</p>
+						</content>
+					</clause>
+					<clause id="od7-stav5">
+						<content>
+							<p>Ивица Дачић,   с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

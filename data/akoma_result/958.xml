@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2007/6-35/main"/>
+					<FRBRuri value="/rs/act/2007/6-35"/>
+					<FRBRdate date="2007" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2007/6-35/srp@/main"/>
+					<FRBRuri value="/rs/act/2007/6-35/srp@"/>
+					<FRBRdate date="2007" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2007/6-35/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2007/6-35/srp@.akn"/>
+					<FRBRdate date="2007" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2007-1-19" name="службени гласник рс" number="6" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="VII РАДНИ ОДНОСИ И ЗАПОШЉАВАЊЕ" value="vii радни односи и запошљавање"/>
+				<keyword id="grupa" showAs="4. Зараде, плате, накнаде и друга примања" value="4. зараде, плате, накнаде и друга примања"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2007-01-18" id="usvajanje"/>
+				<step date="2007-01-27" id="stupanje_na_snagu"/>
+				<step date="2007-01-27" id="primena"/>
+			</workflow>
+		</meta>
+		<body>
+			<clause id="stav1">
+				<content>
+					<p>На основу   <ref>члана 15. став 3. </ref>Закона о платама државних службеника и намештеника („<ref id="ref2" href="/rs/act/06/62/srp@">Службени гласник РС”, бр. 62/06, 63/06</ref> – исправка и 115/06 – исправка) и  <ref>члана 43. став 1. </ref>Закона о Влади („<ref id="ref3" href="/rs/act/05/55/srp@">Службени гласник РС”, бр. 55/05</ref> и 71/05 – исправка),</p>
+				</content>
+			</clause>
+			<clause id="stav2">
+				<content>
+					<p>Влада доноси</p>
+				</content>
+			</clause>
+			<clause id="stav3">
+				<content>
+					<p>ОДЛУКУ</p>
+				</content>
+			</clause>
+			<clause id="stav4">
+				<content>
+					<p>о одређивању коефицијента за обрачун и исплату плате саветника председника Владе и саветника потпредседника Владе</p>
+				</content>
+			</clause>
+			<clause id="stav5">
+				<content>
+					<p>&quot;Службени гласник РС&quot;, број 6 од 19. јануара  2007.</p>
+				</content>
+			</clause>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Коефицијент за обрачун и исплату плате саветника председника Владе који је у радном односу исти је као коефицијент државног службеника на положају који је разврстан у трећу групу положаја и износи 7,11.</heading>
+				<content>
+					<clause id="od1-stav1">
+						<content>
+							<p>Коефицијент за обрачун и исплату плате саветника потпредседника Владе који је у радном односу исти је као коефицијент државног службеника на положају који је разврстан у четврту групу положаја и износи 6,32.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Ова одлука ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>05 број 121-477/2007</p>
+						</content>
+					</clause>
+					<clause id="od2-stav2">
+						<content>
+							<p>У Београду, 18. јануара 2007. године</p>
+						</content>
+					</clause>
+					<clause id="od2-stav3">
+						<content>
+							<p>Влада</p>
+						</content>
+					</clause>
+					<clause id="od2-stav4">
+						<content>
+							<p>Председник,</p>
+						</content>
+					</clause>
+					<clause id="od2-stav5">
+						<content>
+							<p>Војислав Коштуница,   с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

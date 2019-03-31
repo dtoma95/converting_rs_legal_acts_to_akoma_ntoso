@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2011/67-68/main"/>
+					<FRBRuri value="/rs/act/2011/67-68"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/67-68/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/67-68/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/67-68/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/67-68/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2011-9-13" name="службени гласник рс" number="67" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="8. Ученички и студентски стандард" value="8. ученички и студентски стандард"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-08-22" id="usvajanje"/>
+				<step date="2011-09-21" id="stupanje_na_snagu"/>
+				<step date="2011-09-21" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 26. став 9. </ref>Закона о ученичком и студентском стандарду („<ref id="ref1" href="/rs/act/10/18/srp@">Службени гласник РС”, број 18/10</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар просвете и науке доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о стандардима квалитета исхране ученика и студената</title>
+			<date>&quot;Службени гласник РС&quot;, број 67 од 13. септембра 2011.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се стандарди квалитета исхране ученика у дому ученика, ученичком центру и школи са домом (у даљем тексту: дом ученика) и студената у студентском центру.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Стандарди квалитета исхране из става 1. овог члана одштампани су уз овај правилник и чине његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Број 110-00-195/2010-05</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>У Београду, 22. августа 2011. године</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav5">
+						<content>
+							<p>проф. др   Жарко Обрадовић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

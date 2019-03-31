@@ -1,0 +1,463 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2013/20-97/main"/>
+					<FRBRuri value="/rs/act/2013/20-97"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2013/20-97/srp@/main"/>
+					<FRBRuri value="/rs/act/2013/20-97/srp@"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2013/20-97/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2013/20-97/srp@.akn"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2013-3-1" name="службени гласник рс" number="20" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="16. Хидрометеоролошки послови" value="16. хидрометеоролошки послови"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2013-02-21" id="usvajanje"/>
+				<step date="2013-03-01" id="stupanje_na_snagu"/>
+				<step date="2013-03-01" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 19. став 5. </ref>Закона о метеоролошкој и хидролошкој делатности („<ref id="ref1" href="/rs/act/10/88/srp@">Службени гласник РС”, број 88/10</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Директор Републичког хидрометеоролошког завода доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о начину кодирања, евидентирања и прикупљања података из државног хидролошког осматрачког система</title>
+			<date>&quot;Службени гласник РС&quot;, број 20 од 1. марта 2013.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОСНОВНA ОДРЕДБA</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником прописују се начин кодирања, евидентирања и прикупљања података из државног хидролошког осматрачког система, у складу са међународним методама и стандардима.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>НАЧИН КОДИРАЊА ПОДАТАКА ИЗ ДРЖАВНОГ ХИДРОЛОШКОГ ОСМАТРАЧКОГ СИСТЕМА</heading>
+				<content>
+					<article id="gla2-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla2-clan2-stav1">
+								<content>
+									<p>Подаци хидролошких мерења и осматрања који се укључују у оперативну међународну размену хидрометеоролошким телекомуникационим системом Републичког хидрометеоролошког завода достављају се у шифрованом (у даљем тексту: кодираном) или некодираном облику, у складу са међународним кодовима утврђеним Техничким регулаторним документима Светске метеоролошке организације, односно у складу са овим правилником.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla2-clan3-stav1">
+								<content>
+									<p>Кодови Светске метеоролошке организације за размену шифрованих извештаја о хидролошким мерењима и осматрањима и хидролошким прогнозама примењују се за потребе размене података и прогноза на међународном нивоу.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav2">
+								<content>
+									<p>Кодови Светске метеоролошке организације из става 1. овог члана носе ознаке FM 67-VI HYDRA и FM 67-VI HYFOR.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav3">
+								<content>
+									<p>HYDRA извештај је назив шифрованог записа о хидролошким осматрањима на хидролошкој станици – Прилог 1.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav4">
+								<content>
+									<p>HYFOR извештај је назив шифрованог записа о хидролошким прогнозама за хидролошке станице на територији Републике Србије – Прилог 2.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav5">
+								<content>
+									<p>Размену HYDRA и HYFOR извештаја са надлежним установама у подунавским земљамa врши Републички хидрометеоролошки завод (у даљем тексту: Завод) путем хидрометеоролошког телекомуникационог система који је део Глобалног телекомуникационог система Светске метеоролошке организације и електронском поштом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>НАЧИН ЕВИДЕНТИРАЊА ПОДАТАКА ИЗ ДРЖАВНОГ ХИДРОЛОШКОГ ОСМАТРАЧКОГ СИСТЕМА</heading>
+				<content>
+					<article id="gla3-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla3-clan4-stav1">
+								<content>
+									<p>Хидролошка мерења и осматрања врше се у складу са прописом којим се уређује начин примене метода хидролошких мерења и осматрања.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan4-stav2">
+								<content>
+									<p>Евидентирање података о хидролошким мерењима и осматрањима, раду и историјату хидролошких станица врши се на хидролошким реонским станицама, главним хидролошким станицама површинских вода, хидролошким станицама површинских вода I реда, хидролошким станицама површинских вода II реда, главним хидролошким станицама подземних вода, хидролошким станицама подземних вода I реда и хидролошким станицама подземних вода II реда.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan4-stav3">
+								<content>
+									<p>Подаци о хидролошким станицама (мета подаци) уносе се у Регистар државних мрежа метеоролошких и хидролошких станица и допунских мрежа метеоролошких и хидролошких станица који води Завод.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla3-clan5-stav1">
+								<content>
+									<p>У зависности од програма рада хидролошких станица површинских вода, евидентирају се: водостај и температура воде, проток воде, ледене појаве, подаци о концентрацији лебдећег наноса, подаци о снимању попречних профила хидролошке станице и контроли референтне тачке – нуле водомера, као и подаци о паду воденог огледала.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan5-stav2">
+								<content>
+									<p>За евидентирање података из става 1. овог члана, користе се:</p>
+									<point id="gla3-clan5-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> Дневник мерења и осматрања површинских вода – Прилог 3;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> Месечни извештај мерења и осматрања површинских вода – Прилог 4;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> Записник са хидрометријског мерења – Прилог 5;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> Месечни извештај мерења садржаја лебдећег наноса – Прилог 6;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> Записник о детаљном мерењу лебдећег наноса – Прилог 7;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> Нивелмански записник – Прилог 8;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> Попречни пресек – подаци теренских мерења – Прилог 9.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla3-clan6-stav1">
+								<content>
+									<p>Ниво подземне воде, температура воде, издашност извора, падавине и квалитет подземних вода евидентирају се у зависности од програма рада хидролошких станица подземних вода.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan6-stav2">
+								<content>
+									<p>За евидентирање података из става 1. овог члана користе се:</p>
+									<point id="gla3-clan6-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> Дневник хидролошких мерења и осматрања нивоа подземних вода – Прилог 10. и</p>
+										</content>
+									</point>
+									<point id="gla3-clan6-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> Месечни извештај о нивоу и температури подземних вода са главне хидролошке станице – Прилог 11.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla3-clan7-stav1">
+								<content>
+									<p>За евидентирање података о хидролошким станицама површинских вода користи се Технички записник о постављању хидролошких станица – Прилог 12.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan7-stav2">
+								<content>
+									<p>О раду хидролошких станица води се Историјат хидролошке станице површинских вода – Прилог 13.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan7-stav3">
+								<content>
+									<p>За евидентирање података о хидролошким станицама подземних вода и раду ових станица користи се Историјат хидролошке станице подземних вода – Прилог 14.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan7-stav4">
+								<content>
+									<p>Подаци о преузетим лимниграфским тракама са хидролошких станица површинских вода које су опремљене аналогним уређајима за регистровање водостаја евидентирају се на хидролошким реонским станицама.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>НАЧИН ПРИКУПЉАЊА ПОДАТАКА ИЗ ДРЖАВНОГ ХИДРОЛОШКОГ ОСМАТРАЧКОГ СИСТЕМА</heading>
+				<content>
+					<article id="gla4-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla4-clan8-stav1">
+								<content>
+									<p>Начин и динамика прикупљања хидролошких података и података о хидролошкој станици одређени су програмом рада хидролошке станице.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan8-stav2">
+								<content>
+									<p>Осмотрене хидролошке податке у 6,00 сати UTC, као и податке у 18,00 сати UTC од претходног дана осматрачи достављају свакодневно телефоном служби Завода надлежној за послове прогнозе вода.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan8-stav3">
+								<content>
+									<p>Подаци у редовним и ванредним терминима прикупљају се путем телефона или се преузимају са аутоматских хидролошких станица.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan8-stav4">
+								<content>
+									<p>Дневни хидролошки подаци евидентирају се у обрасцу Дневни хидролошки билтен – Прилог 15.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan8-stav5">
+								<content>
+									<p>Подаци из става 4. овог члана, који су евидентирани у Јутарњем хидролошком билтену, дистрибуирају се електронском поштом надлежним органима и другим корисницима – Прилог 16.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan8-stav6">
+								<content>
+									<p>За време екстремних хидролошких догађаја, односно када је водостај изнад коте при којој се проглашава редовна/ванредна одбрана од поплава, хидролошка мерења и осматрање врше се чешће, а подаци се достављају путем телефона и радио станице директно служби Завода надлежној за прогнозу вода.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan8-stav7">
+								<content>
+									<p>Евидентирани ванредни хидролошки подаци дистрибуирају се корисницима путем електронске поште у форми Билтена ванредних осматрања водостаја – Прилог17.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla4-clan9-stav1">
+								<content>
+									<p>Прилози 1–17 одштампани су уз овај правилник и чине његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla4-clan10-stav1">
+								<content>
+									<p>Дневник осматрања површинских вода и Месечни извештај хидролошког осматрања за претходни месец достављају се месечно, до петог у месецу, хидролошким реонским станицама.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan10-stav2">
+								<content>
+									<p>Подаци о водостају и температури воде са станица које су опремљене уређајима за дигитално регистровање водостаја и температура воде, као и подаци хидрометријских мерења протока воде која су извршена ултразвучним мерачем протока прикупљају се преко рачунарско-телекомуникационог система Завода.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan10-stav3">
+								<content>
+									<p>Лимниграфске траке достављају се путем поште или се доносе директно у Завод који врши њихово евидентирање, дигитализацију, архивирање и трајно чување.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla4-clan11-stav1">
+								<content>
+									<p>Хидролошки подаци евидентирани у складу са овим правилником уносе се у хидрометеоролошки информациони систем Завода на хидролошким реонским станицама, а Месечни извештај о нивоу подземних вода доставља се надлежној служби Републичког хидрометеоролошког завода.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan11-stav2">
+								<content>
+									<p>Подаци са станица опремљених уређајима за дигитално регистровање нивоа и температуре подземних вода преузимају се једном месечно до 15. у месецу за претходни месец и достављају надлежној служби Завода електронском поштом где се врши стандардизација дигиталне форме и унос у хидрометеоролошки информациони систем.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>ЗАВРШНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla5-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla5-clan12-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav2">
+								<content>
+									<p>Броj 92-7/13-3</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav3">
+								<content>
+									<p>У Београду, 21. фебруара 2013. године</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav4">
+								<content>
+									<p>Директор,</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav5">
+								<content>
+									<p>Милан Дацић, с.р.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav6">
+								<content>
+									<p>ПРИЛОЗИ</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav7">
+								<content>
+									<p>Прилог 1 -   HYDRA  извештај</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav8">
+								<content>
+									<p>Прилог 2 -  HYFOR  извештај</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav9">
+								<content>
+									<p>Прилог 3 -  Дневник мерења и осматрања  површинских вода</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav10">
+								<content>
+									<p>Прилог 4 -  Месечни извештај мерења и  осматрања површинских вода</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav11">
+								<content>
+									<p>Прилог 5 -  Записник са хидрометријског мерења</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav12">
+								<content>
+									<p>Прилог 6 -  Месечни извештај мерења садржаја  лебдећег наноса</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav13">
+								<content>
+									<p>Прилог 7 -  Детаљно мерење лебдећег наноса</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav14">
+								<content>
+									<p>Прилог 8 -  Нивелмански записник</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav15">
+								<content>
+									<p>Прилог 9 -  Попречни пресек - подаци теренских  мерења</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav16">
+								<content>
+									<p>Прилог 10 -  Дневник хидролошких мерења и  осматрања подземних вода</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav17">
+								<content>
+									<p>Прилог 11 -  Месечни извештај о нивоу и  температури подземних вода са главне хидролошке станице</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav18">
+								<content>
+									<p>Прилог 12 -  Технички записник о постављању  хидролошких станица</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav19">
+								<content>
+									<p>Прилог 13 -  Историјат хидролошке станице  површинских вода</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav20">
+								<content>
+									<p>Прилог 14 -  Историјат хидролошке станице  подземних вода</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav21">
+								<content>
+									<p>Прилог 15 -  Дневни хидролошки билтен</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav22">
+								<content>
+									<p>Прилог 16 -  Јутарњи хидролошки билтен</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

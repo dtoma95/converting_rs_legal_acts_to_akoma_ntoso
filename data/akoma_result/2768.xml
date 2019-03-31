@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1996/24-3/main"/>
+					<FRBRuri value="/rs/act/1996/24-3"/>
+					<FRBRdate date="1996" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1996/24-3/srp@/main"/>
+					<FRBRuri value="/rs/act/1996/24-3/srp@"/>
+					<FRBRdate date="1996" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1996/24-3/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1996/24-3/srp@.akn"/>
+					<FRBRdate date="1996" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1996-5-31" name="службени лист срј" number="24" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="V МОНЕТАРНИ СИСТЕМ, ФИНАНСИЈСКЕ ОРГАНИЗАЦИЈЕ И ФИНАНСИЈСКО ПОСЛОВАЊЕ" value="v монетарни систем, финансијске организације и финансијско пословање"/>
+				<keyword id="grupa" showAs="6. Издавање, основна обележја и пуштање у оптицај новчаница, кованог новца и пригодног кованог новца" value="6. издавање, основна обележја и пуштање у оптицај новчаница, кованог новца и пригодног кованог новца"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1996-05-27" id="usvajanje"/>
+				<step date="1996-05-31" id="stupanje_na_snagu"/>
+				<step date="1996-05-31" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 17. </ref>и <ref>члана 50. став 2. </ref>Закона о Народној банци Југославије (“<ref id="ref2" href="/rs/act/93/32/srp@">Службени лист СРЈ”, бр. 32/93, 41/94</ref> и 61/95), а у вези с чланом 5. Уредбе о новом динару (“<ref id="ref3" href="/rs/act/94/6/srp@">Службени лист СРЈ”, бр. 6/94, 12/94</ref> и 57/94), заменик гувернера Народне банке Југославије доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о пуштању у оптицај кованог новца апоена од 1 новог динара</title>
+			<date>&quot;Службени лист СРЈ&quot;, број 24 од 31. маја 1996.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Народна банка Југославије пустиће у оптицај 10. јуна 1996. године ковани новац апоена од 1 новог динара, са обележјима  утврђеним Одлуком о издавању и основним обележјима кованог новца апоена од 10 и 50 пара и 1 новог динара (“<ref id="ref4" href="/rs/act/96/24/srp@">Службени лист СРЈ”, бр. 24/96</ref>).</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Ова одлука ступа на снагу даном објављивања у “Службеном листу СРЈ”.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>О. бр. 48</p>
+						</content>
+					</clause>
+					<section id="od27">
+						<num>27.</num>
+						<heading> маја 1996. године</heading>
+						<content>
+							<clause id="od27-stav1">
+								<content>
+									<p>Београд</p>
+								</content>
+							</clause>
+							<clause id="od27-stav2">
+								<content>
+									<p>Заменик гувернера</p>
+								</content>
+							</clause>
+							<clause id="od27-stav3">
+								<content>
+									<p>Народне банке Југославије,</p>
+								</content>
+							</clause>
+							<clause id="od27-stav4">
+								<content>
+									<p>мр  Божидар Газивода, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</section>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

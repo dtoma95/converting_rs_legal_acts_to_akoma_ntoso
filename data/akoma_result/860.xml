@@ -1,0 +1,355 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2010/4-3/main"/>
+					<FRBRuri value="/rs/act/2010/4-3"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2010/4-3/srp@/main"/>
+					<FRBRuri value="/rs/act/2010/4-3/srp@"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2010/4-3/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2010/4-3/srp@.akn"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2010-1-29" name="службени гласник рс“" number="4" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="10. Стечај" value="10. стечај"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2010-01-28" id="usvajanje"/>
+				<step date="2010-01-30" id="stupanje_na_snagu"/>
+				<step date="2010-01-30" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 30. јануара 2010. године (види <ref>члан 10. </ref>Уредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 136. став 9. </ref>Закона о стечају („<ref id="ref12" href="/rs/act/09/104/srp@">Службени гласник РС”, број 104/09</ref>) и <ref>члана 42. став 1. </ref>Закона о Влади („<ref id="ref13" href="/rs/act/05/55/srp@">Службени гласник РС”, бр. 55/05, 71/05</ref> – исправка, 101/07 и 65/08),</p>
+		</preamble>
+		<preface>
+			<authority>Влада доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о садржини, начину уписа и вођења Регистра стечајних маса</title>
+			<date>„Службени гласник РС“, број 4 од 29. јануара 2010.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овом уредбом уређује се садржина, начин уписа и вођења Регистра стечајних маса (у даљем тексту: Регистар).</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Стечајна маса која се региструје у Регистру, у смислу закона којим се уређује стечај и ове уредбе, јесте:</p>
+							<point id="clan1-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> стечајна маса у коју улази новац добијен продајом стечајног дужника, као и имовина стечајног дужника која није била предмет процене вредности стечајног дужника као правног лица приликом његове продаје;</p>
+								</content>
+							</point>
+							<point id="clan1-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> стечајна маса стечајног дужника коју, по доношењу решења о закључењу стечајног поступка над стечајним дужником, чине средства издвојена по основу оспорених потраживања и средства која се остваре окончањем парница у корист стечајног дужника.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Регистар се води као јединствена, централна, јавна електронска база података о стечајним масама из <ref>члана 1. став 2. </ref>ове уредбе.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>У Регистар се региструју подаци о стечајној маси, промене регистрованих података, као и брисање података о стечајној маси из Регистра.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Регистар води Агенција за привредне регистре (у даљем тексту: Агенција) преко Регистратора стечајних маса (у даљем тексту: Регистратор).</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>На вођење Регистра сходно се примењују одредбе закона и других прописа којима се уређује регистрација привредних субјеката.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Регистар садржи податке о стечајној маси, и то:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> пословно име, седиште и матични/регистарски број стечајног дужника;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> матични број;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> порески идентификациони број;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> назив суда, број и датум решења из <ref>члана 1. став 2. </ref>ове уредбе;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> бројеве рачуна у банкама;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> лично име и матични број стечајног управника;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> датум и време регистрације;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> датум и време регистрације промене података;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> податак о брисању стечајне масе из Регистра;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> забележбе података од значаја за правни промет.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Регистар може да садржи и следеће податке:</p>
+							<point id="clan4-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> вредност стечајне масе, уколико је процењена;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> број телефона и факса стечајног управника;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> адресу електронске поште стечајног управника;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> друге податке, у складу са законом.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>У Регистар се региструју и све промене података садржаних у Регистру.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Подаци из <ref>члана 4. </ref>ове уредбе региструју се на основу регистрационе пријаве коју подноси стечајни управник.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Регистрација података из <ref>члана 4. </ref>ове уредбе врши се и по службеној дужности на основу акта надлежног органа или у поступку размене података са другим надлежним органом, у ком случају се о извршеној регистрацији података не доноси посебан акт.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>Регистрациона пријава подноси се на предложеном обрасцу објављеном на интернет страни Агенције или као поднесак у коме се наводе подаци о стечајној маси чија се регистрација пријављује, као и подаци о подносиоцу регистрационе пријаве и о начину на који треба доставити акт којим је одлучено о регистрационој пријави.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Уз регистрациону пријаву из <ref>члана 5. </ref>ове уредбе подноси се:</p>
+							<point id="clan6-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> извод из одговарајућег јавног регистра, којим се доказује идентитет стечајног дужника, ако стечајни дужник није регистрован у регистру који води Агенција;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> решење надлежног суда о обустави стечајног поступка против стечајног дужника и наставку поступка у односу на стечајну масу, за регистрацију података о стечајној маси из <ref>члана 1. став 2. тачка 1</ref>) ове уредбе;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> решење надлежног суда о закључењу стечајног поступка и именовању стечајног управника за заступника стечајне масе за регистрацију података о стечајној маси из <ref>члана 1. став 2. тачка 2</ref>) ове уредбе, уколико суд ово решење није доставио надлежном регистру који се води код Агенције на објављивање и доказ о посебном наменском рачуну на који је положен износ на име оспорених потраживања издвојен приликом завршне деобе стечајне масе, односно доказ да је овај износ положен код суда;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> оверен потпис стечајног управника, уколико наведени документ није достављен надлежном регистру који се води код Агенције у поступку регистрације података о стечају стечајног дужника;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> доказ о уплаћеној накнади за регистрацију.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Уз регистрациону пријаву забележбе података од значаја за правни промет подноси се документ који је основ за забележбу и доказ о уплаћеној накнади за регистрацију.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Промене регистрованих података пријављују се Регистру најкасније у року од 15 дана од дана извршене промене, на начин на који се врши упис података у Регистар.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Уз регистрациону пријаву промена података из става 1. овог члана као доказ прилаже се документација која је основ за те промене или на основу које су те промене извршене, као и доказ о уплаћеној накнади за регистрацију.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Уз регистрациону пријаву брисања из Регистра стечајне масе из <ref>члана 1. став 2. тачка 1</ref>) ове уредбе прилаже се решење надлежног суда о закључењу стечајног поступка.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Уз регистрациону пријаву брисања из Регистра стечајне масе из <ref>члана 1. став 2. тачка 2</ref>) ове уредбе прилаже се изјава стечајног управника дата под материјалном и кривичном одговорношћу о окончању свих послова из решења о закључењу стечајног поступка, укључујући и окончање намирења поверилаца у складу са законом којим се уређује стечај.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Ова уредба ступа на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>05 број 110-319/2010-1</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>У Београду, 28. јануара 2010. године</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav4">
+						<content>
+							<p>Влада</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav5">
+						<content>
+							<p>Председник,</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav6">
+						<content>
+							<p>др Мирко Цветковић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

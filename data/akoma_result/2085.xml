@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2002/36-2/main"/>
+					<FRBRuri value="/rs/act/2002/36-2"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2002/36-2/srp@/main"/>
+					<FRBRuri value="/rs/act/2002/36-2/srp@"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2002/36-2/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2002/36-2/srp@.akn"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2002-6-25" name="службени гласник рс" number="36" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="6. Средње образовање и васпитање" value="6. средње образовање и васпитање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2002-06-20" id="usvajanje"/>
+				<step date="2002-07-03" id="stupanje_na_snagu"/>
+				<step date="2002-07-03" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 11. став 3. </ref>Закона о средњој школи („<ref id="ref1" href="/rs/act/92/50/srp@">Службени гласник РС”, бр. 50/92, 53/93, 67/93, 48/94, 24/96</ref> и 23/2002),</p>
+			<p>Влада Републике Србије доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о промени седишта средњих школа у Београду</title>
+			<date>„Службени гласник РС”, број  36 од 25.   јуна  2002.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Зуботехничка школа са седиштем у општини Савски венац, у улици Фабрисова број 10, мења седиште на локацију у улици Станка Враза број 63, у општини Звездара.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Школа за негу лепоте са седиштем у општини Вождовац, у улици Војводе Степе број 283, мења седиште на локацију у улици Јована Суботића број 2, у општини Вождовац.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Ова одлука ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>05 број 611-9320/2002</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>У Београду, 20. јуна 2002. године</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>Влада Републике Србије</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav5">
+						<content>
+							<p>Потпредседник,</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav6">
+						<content>
+							<p>Јожеф Каса, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

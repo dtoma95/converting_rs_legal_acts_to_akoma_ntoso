@@ -1,0 +1,452 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1996/28-866/main"/>
+					<FRBRuri value="/rs/act/1996/28-866"/>
+					<FRBRdate date="1996" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1996/28-866/srp@/main"/>
+					<FRBRuri value="/rs/act/1996/28-866/srp@"/>
+					<FRBRdate date="1996" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1996/28-866/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1996/28-866/srp@.akn"/>
+					<FRBRdate date="1996" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1996-6-21" name="службени гласник рс" number="28" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="5. Оружје, муниција, опасне и експлозивне материје" value="5. оружје, муниција, опасне и експлозивне материје"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1996-05-29" id="usvajanje"/>
+				<step date="1996-06-29" id="stupanje_na_snagu"/>
+				<step date="1996-06-29" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 19. </ref>Закона о испитивању, жигосању и обележавању ватреног оружја и муниције („<ref id="ref1" href="/rs/act/95/46/srp@">Службени гласник Републике Србије”, број 46/95</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар надлежан за послове индустрије у споразуму са министром надлежним за унутрашње послове, доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о условима, начину и поступку испитивања, жигосања и обележавања ватреног оружја  и муниције</title>
+			<date>„Службени гласник РС”, број 28 од 21. јуна 1996.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником утврђују се услови, начин, поступак и врсте испитивања, односно контроле ватреног оружја, муниције, елемента муниције и направа, начин жигосања, обележавања и контроле паковања муниције и одређују знакови за жигосање и обележавање, односно жиг, облик и садржина потврде и налепнице за обележавање муниције.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Испитивање, жигосање и обележавање ватреног оружја, муниције, елемената муниције и направа обавља се ради потврђивања њихове исправности и квалитета према прописаним стандардима, техничким нормативима и нормама квалитета.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Ватрено оружје и направе испитују се ако је извршена:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> замена неког битног конструктивног дела уз подешавање дела у склопу оружја;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> промена димензија;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> промена отпорности битних конструктивних делова изазвана механичком или неком другом обрадом (ковањем, глодањем, стругањем, бушењем, заваривањем, брушењем, еродирањем, гравирањем и др.).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Испитивање ватреног оружја обухвата контролу оружја пре торментације, торментацију и контролу после торментације.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Контрола ватреног оружја пре торментације обухвата:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> контролу нанетих ознака на оружју;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> визуелну контролу;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> контролу димензија;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> контролу сигурности функционисања оружја.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Контролом нанетих ознака проверава се да ли се на једном од битних конструктивних делова оружја налазе следећа обележја:</p>
+							<point id="clan6-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив, фирма или фабрички знак који носи произвођач;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> серијски број за евидентирање оружја;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> ознака модела која омогућава идентификацију оружја;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> назив метка који се може испаљивати из цеви.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Визуелном контролом проверава се квалитет површинске обраде, постојање површинских дефеката, нечистоћа и корозија на оружју, грешке при раду битних конструктивних делова, деформације цеви или лежишта.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Контролом димензија проверава се калибар цеви, димензија лежишта метка, величина зазора између чела цеви и баскиле, дужина цеви и сигурност брављења.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Контролом сигурности функционисања оружја проверавају се механизми за: пуњење полуаутоматског оружја (убацивање метка у цеви, извлачење метка из цеви, избацивање метка), затварање, окидање и опаљење метка, запињање и кочење и други механизми посебно значајни за правилно и безбедно функционисање и ношење оружја.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Торментација се врши на готовом оружју или битним конструктивним деловима оружја испаљивањем по два торментачна метка.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Готовим оружјем, у смислу овог правилника, сматра се и оружје које се накнадно брунира или гравира, као и оружје склопљено од испитаних битних конструктивних делова.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>Код вишецевног оружја, свака цев се испитује испаљивањем по два торментачна метка по цеви, а код револвера свако лежите у добошу испитује се испаљивањем по једног торментачног метка.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Контрола оружја после торментације обухвата проверу сигурности функционисања оружја, визуелну контролу и димензионалну контролу.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Испитивање муниције и елемената муниције врши се проверавањем узетих узорака сваке поједине серије произведене муниције.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Муниција се пакује у амбалажу погодну за руковање. Јединица основног паковања затвара се на прописан начин и обележава се следећим ознакама:</p>
+							<point id="clan13-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив или знак произвођача или онога за кога се муниција лаборише;</p>
+								</content>
+							</point>
+							<point id="clan13-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> назив метка према стандардима;</p>
+								</content>
+							</point>
+							<point id="clan13-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> индентификациони број серије и број метака у основном паковању.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan13-stav2">
+						<content>
+							<p>На муницију високих перформанси и торментачну муницију ставља се додатна ознака која јасно упозорава да се муниција не може користити у нормалним условима експлоатације оружја и из оружја које није било подвргнуто специјалном испитивању.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan14">
+				<num>14.</num>
+				<content>
+					<clause id="clan14-stav1">
+						<content>
+							<p>Жигосање ватреног оружја и направа врши се ако је испитивањем утврђено да испуњавају услове прописане стандардима, техничким нормативима и нормама квалитета.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan15">
+				<num>15.</num>
+				<content>
+					<clause id="clan15-stav1">
+						<content>
+							<p>Жигосање ватреног оружја и направа врши се после испитивања тако што се на битним конструктивним деловима на видљив начин утискују торментачни жигови дати у Прилогу 1. који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan15-stav2">
+						<content>
+							<p>Битни конструктивни делови из става 1. овог члана јесу:</p>
+							<point id="clan15-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> свака цев и глава, усадник, навлака, затварач (тело и глава затварача), сандук, код свих врста оружја, сем револвера;</p>
+								</content>
+							</point>
+							<point id="clan15-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> цев, добош, усадник, код револвера;</p>
+								</content>
+							</point>
+							<point id="clan15-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> цев, свако лежиште и затварач (тело и глава затварача), код оружја чије лежиште није израђено у цеви.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan16">
+				<num>16.</num>
+				<content>
+					<clause id="clan16-stav1">
+						<content>
+							<p>За ватрено оружје и направе за које је у поступку испитивања утврђено да испуњавају прописане услове издаје се писана потврда на Обрасцу број 1. који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav2">
+						<content>
+							<p>Потврда садржи: врсту испитиваног оружја, односно направе, отисак утиснутог жига и друге прописане ознаке за ватрено оружје, односно направе, врсту испитивања, место и датум испитивања.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan17">
+				<num>17.</num>
+				<content>
+					<clause id="clan17-stav1">
+						<content>
+							<p>Обележавање муниције и елемената муниције врши се после утврђивања испуњености услова прописаним стандардима, техничким нормативима и нормама квалитета.</p>
+						</content>
+					</clause>
+					<clause id="clan17-stav2">
+						<content>
+							<p>У свако паковање муниције, односно елемената муниције за које је утврђено да испуњавају прописане услове ставља се писана потврда о извршеном испитивању, а на омоту паковања прописана налепница.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan18">
+				<num>18.</num>
+				<content>
+					<clause id="clan18-stav1">
+						<content>
+							<p>Писана потврда о извршеном испитивању муниције, односно елемената муниције издаје се на Обрасцу број 2, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan18-stav2">
+						<content>
+							<p>Налепница која се ставља на свако паковање муниције односно елемената муниције израђује се од хартије или другог одговарајућег материјала и има облик траке, а димензије налепнице зависе од величине омота на који се налепница ставља.</p>
+						</content>
+					</clause>
+					<clause id="clan18-stav3">
+						<content>
+							<p>Налепница садржи податке о организацији која је извршила испитивање и обележавање муниције, односно елемената муниције и утиснут жиг коначног пријема означен под редним бројем 11. Прилога 1.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan19">
+				<num>19.</num>
+				<content>
+					<clause id="clan19-stav1">
+						<content>
+							<p>Даном ступања на снагу овог правилника престаје да важи Правилник о поступку за испитивање и жигосање, односно обележавање ручног ватреног оружја, муниције и ручних апарата („<ref id="ref2" href="/rs/act/73/15/srp@">Службени гласник СРС”, број 15/73</ref>).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan20">
+				<num>20.</num>
+				<content>
+					<clause id="clan20-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan20-stav2">
+						<content>
+							<p>Број 110-00-3/96-01</p>
+						</content>
+					</clause>
+					<clause id="clan20-stav3">
+						<content>
+							<p>У Београду, 29. маја 1996. године</p>
+						</content>
+					</clause>
+					<clause id="clan20-stav4">
+						<content>
+							<p>Министар</p>
+						</content>
+					</clause>
+					<clause id="clan20-stav5">
+						<content>
+							<p>индустрије,</p>
+						</content>
+					</clause>
+					<clause id="clan20-stav6">
+						<content>
+							<p>мр  Оскар Фодор, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan20-stav7">
+						<content>
+							<p>Министар</p>
+						</content>
+					</clause>
+					<clause id="clan20-stav8">
+						<content>
+							<p>унутрашњих послова,</p>
+						</content>
+					</clause>
+					<clause id="clan20-stav9">
+						<content>
+							<p>Зоран Соколовић, с.р.</p>
+						</content>
+					</clause>
+					<став id="clan20-stav10">
+						<img height="864" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/65adbb7c-a5aa-4fc0-a2a3-7b5b74e5a95c.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419580&amp;regactid=419580" width="614"/>
+						<content/>
+					</став>
+					<став id="clan20-stav11">
+						<img height="814" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/3da37704-ba51-4f58-87d1-619300b25461.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419580&amp;regactid=419580" width="624"/>
+						<content/>
+					</став>
+					<став id="clan20-stav12">
+						<img height="292" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/60843755-06f9-40f0-9ccb-69ca00659cfc.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419580&amp;regactid=419580" width="407"/>
+						<content/>
+					</став>
+					<став id="clan20-stav13">
+						<img height="283" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/d14deb3e-71bd-4003-8df0-030a043ad500.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419580&amp;regactid=419580" width="419"/>
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

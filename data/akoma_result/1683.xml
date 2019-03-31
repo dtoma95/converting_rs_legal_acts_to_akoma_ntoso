@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2018/31-119/main"/>
+					<FRBRuri value="/rs/act/2018/31-119"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/31-119/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/31-119/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/31-119/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/31-119/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2018-4-27" name="службени гласник рс" number="31" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Решење" value="решење"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="10. Социјална заштита и друштвена брига о деци" value="10. социјална заштита и друштвена брига о деци"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2018-04-20" id="usvajanje"/>
+				<step date="" id="stupanje_na_snagu"/>
+				<step date="" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 87. став 3. </ref>Закона о социјалној заштити („<ref id="ref1" href="/rs/act/11/24/srp@">Службени гласник РС”, број 24/11</ref>),</p>
+			<p>Министар за рад, запошљавање, борачка и социјална питања доноси</p>
+		</preamble>
+		<preface>
+			<authority>РЕШЕЊЕ</authority>
+			<title>о номиналним износима новчане социјалне помоћи</title>
+			<date>&quot;Службени гласник РС&quot;, број 31 од 27. априла     2018.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Полазећи од основице за утврђивање висине новчане социјалне помоћи, која усклађена са индексом потрошачких цена у претходних шест месеци од 1. априла 2018. године износи 8.283,00 динара, номинални износи новчане социјалне помоћи утврђују се:</heading>
+				<content>
+					<point id="od1-tac1">
+						<num>1)</num>
+						<content>
+							<p> за појединца, односно носиоца права у породици у висини 1 од основице или 8.283,00 динара;</p>
+						</content>
+					</point>
+					<point id="od1-tac2">
+						<num>2)</num>
+						<content>
+							<p> за сваку наредну одраслу особу у породици у висини 0,5 од основице или 4.142,00 динара;</p>
+						</content>
+					</point>
+					<point id="od1-tac3">
+						<num>3)</num>
+						<content>
+							<p> за дете до 18 година у висини 0,3 од основице или 2.485,00 динара;</p>
+						</content>
+					</point>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Ово решење се примењује почев од утврђивања права на новчану социјалну помоћ за април 2018. године.</heading>
+				<content/>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Ово решење објавити у „Службеном гласнику Републике Србије”.</heading>
+				<content>
+					<clause id="od3-stav1">
+						<content>
+							<p>Број 338-00-002/3/2018-09</p>
+						</content>
+					</clause>
+					<clause id="od3-stav2">
+						<content>
+							<p>У Београду, 20. априла 2018. године</p>
+						</content>
+					</clause>
+					<clause id="od3-stav3">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="od3-stav4">
+						<content>
+							<p>Зоран Ђорђевић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

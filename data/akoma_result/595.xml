@@ -1,0 +1,841 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2012/4-20/main"/>
+					<FRBRuri value="/rs/act/2012/4-20"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2012/4-20/srp@/main"/>
+					<FRBRuri value="/rs/act/2012/4-20/srp@"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2012/4-20/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2012/4-20/srp@.akn"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2012-1-20" name="службени гласник рс" number="4" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="VIII РАЗВОЈ" value="viii развој"/>
+				<keyword id="grupa" showAs="4. Квалитет предмета опште употребе и животних намирница" value="4. квалитет предмета опште употребе и животних намирница"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-12-22" id="usvajanje"/>
+				<step date="2012-01-28" id="stupanje_na_snagu"/>
+				<step date="2012-01-28" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 55. став 2. </ref>Закона о безбедности хране („<ref id="ref3" href="/rs/act/09/41/srp@">Службени гласник РС”, број 41/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, трговине, шумарства и водопривреде доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о квалитету чаја, биљног чаја и њихових производа</title>
+			<date>&quot;Службени гласник РС&quot;, број 4 од 20. јануара   2012.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>УВОДНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником ближе се прописују услови у погледу квалитета чаја, биљног чаја и њихових производа који морају да буду испуњени у производњи и промету упакованог готовог производа, и то за класификацију, категоризацију и назив; физичка, хемијска, физичко-хемијска и сензорска својства, као и састав; методе узимања узорака и испитивање квалитета; паковање и декларисање; додатне захтеве за означавање производа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Производи од чаја, односно биљног чаја, у смислу овог правилника су:</p>
+									<point id="gla1-clan2-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> инстант-чај, односно биљни инстант-чај;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> чај без кофеина.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Одредбе овог правилника не односе се на биљне сировине у промету, на чајеве који спадају у категорију дијететских производа и традиционалних биљних лекова, на дозвољена одступања стварних количина од означених називних количина за претходно упаковани чај, биљни чај и њихове производе, као и на поступак испитивања стварног одступања од означене, односно декларисане називне масе или запремине.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla1-clan4-stav1">
+								<content>
+									<p>Поједини изрази употребљени у овом правилнику имају следеће значење:</p>
+									<point id="gla1-clan4-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> чај јесу осушени лисни пупољци и млади изданци варијетета биљне врсте   Camellia sinensis L. (синоним   Thea sinensis L), фамилија Theaceae, третирани одговарајућим поступцима (мацерација, аерација, сушење), од којих се на уобичајен начин може припремити напитак;</p>
+										</content>
+									</point>
+									<point id="gla1-clan4-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> биљни чај јесте уједначено уситњен и осушен део биљке (плод или делови плода, семе, цвет, делови цвета, лист, херба, стабљика, кора, корен, ризом, вреже или кртола) од којих се на уобичајен начин може припремити напитак, а у који спадају воћни чај и мешавина биљног чаја;</p>
+										</content>
+									</point>
+									<point id="gla1-clan4-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> воћни чај јесте мешавина биљног чаја која садржи више од 50% уситњених сувих делова дивљег или гајеног воћа;</p>
+										</content>
+									</point>
+									<point id="gla1-clan4-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> мешавина биљног чаја јесте хомогена мешавина два или више биљна чаја;</p>
+										</content>
+									</point>
+									<point id="gla1-clan4-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> инстант-чај, односно биљни инстант-чај јесте производ који се добија екстракцијом чаја, односно биљног чаја од кога се напитак припрема директним растварањем у топлој или хладној води, а може бити у чврстом или течном стању;</p>
+										</content>
+									</point>
+									<point id="gla1-clan4-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> инстант-чај у чврстом стању јесте суви екстракт одређеног дела биљке којем се могу додати адитиви у складу са прописом којим се уређује квалитет и употреба адитива и арома у храни;</p>
+										</content>
+									</point>
+									<point id="gla1-clan4-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> биљни инстант-чај у чврстом стању јесте суви екстракт одређеног дела биљке, односно мешавина два или више сува екстракта различитих биљака, којима се могу додати адитиви у складу са прописом којим се уређује квалитет и употреба адитива и арома у храни;</p>
+										</content>
+									</point>
+									<point id="gla1-clan4-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> инстант-чај у течном стању јесте течни екстракт или тинктура одређеног дела биљке;</p>
+										</content>
+									</point>
+									<point id="gla1-clan4-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> биљни инстант-чај у течном стању јесте течни екстракт или тинктура одређеног дела биљке, односно мешавина два или више течна екстракта или тинктуре различитих биљака;</p>
+										</content>
+									</point>
+									<point id="gla1-clan4-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> ароматизовани чај, односно ароматизовани биљни чај и њихови производи   јесу чај, односно биљни чај и њихови производи са истакнутим податком о врсти чаја, односно биљног чаја, односно њихових производа који се стављају у промет као чај, односно биљни чај, односно њихови производи којима су додате природне ароме или друге одговарајуће ароме у складу са прописом којим се уређује квалитет и употреба адитива и арома у храни.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla1-clan5-stav1">
+								<content>
+									<p>Пре почетка производње, произвођач доноси произвођачку спецификацију за готове производе из <ref>члана 1. овог</ref> правилника, у складу са законом којим се уређује безбедност хране.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan5-stav2">
+								<content>
+									<p>Произвођачка спецификација из става 1. овог члана садржи евиденциони број, датум доношења, назив производа и трговачко име, ако га производ има, кратак опис технолошког поступка производње, основне захтеве квалитета, извештај о извршеном испитивању здравствене исправности и квалитета (физичкa, хемијскa и сензорска својства), датум почетка производње, као и податке из декларације, у складу са законом којим се уређује безбедност хране.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>УСЛОВИ У ПОГЛЕДУ КВАЛИТЕТА ПРОИЗВОДА</heading>
+				<content>
+					<тачка id="gla2-clan5-tac1">
+						<num>1.</num>
+						<content>
+							<p> Класификација, категоризација, назив, физичка, хемијска, физичко-хемијска и сензорска својства, као и састав производа</p>
+						</content>
+					</тачка>
+					<subsection id="gla2-podod1">
+						<num>а</num>
+						<heading> Чај</heading>
+						<content>
+							<article id="gla2-podod1-clan6">
+								<num>6.</num>
+								<content>
+									<clause id="gla2-podod1-clan6-stav1">
+										<content>
+											<p>Према начину производње, чај се класификује и ставља у промет као:</p>
+											<point id="gla2-podod1-clan6-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> црни чај (ферментисан чај);</p>
+												</content>
+											</point>
+											<point id="gla2-podod1-clan6-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> зелени чај (неферментисан чај);</p>
+												</content>
+											</point>
+											<point id="gla2-podod1-clan6-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> улонг чај (полуферментисан чај).</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla2-podod1-clan6-stav2">
+										<content>
+											<p>Ако се у производњи користе делови потпуно развијеног листа грма чаја, такав чај се ставља у промет под називом „ломљени чај”.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod1-clan7">
+								<num>7.</num>
+								<content>
+									<clause id="gla2-podod1-clan7-stav1">
+										<content>
+											<p>Чај, ароматизовани чај и чај без кофеина према квалитету класификује се и ставља у промет као:</p>
+											<point id="gla2-podod1-clan7-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> чај I квалитета, који не садржи више од 15% m/m других делова декларисане биљне сировине;</p>
+												</content>
+											</point>
+											<point id="gla2-podod1-clan7-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> чај II квалитета, који не садржи више од 30% m/m других делова декларисане биљне сировине.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod1-clan8">
+								<num>8.</num>
+								<content>
+									<clause id="gla2-podod1-clan8-stav1">
+										<content>
+											<p>Чај који се ставља у промет мора у погледу квалитета да испуњава следеће услове:</p>
+											<point id="gla2-podod1-clan8-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> да не садржи покварено или плесниво лишће, чајну прашину или чајне отпатке слепљене лепљивим материјама или формиране на други начин;</p>
+												</content>
+											</point>
+											<point id="gla2-podod1-clan8-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> да не садржи стране примесе биљног порекла или материје другог порекла, додате ради повећања масе;</p>
+												</content>
+											</point>
+											<point id="gla2-podod1-clan8-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> да није претходно екстрахован, осим чаја без кофеина;</p>
+												</content>
+											</point>
+											<point id="gla2-podod1-clan8-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> да нема измењен изглед;</p>
+												</content>
+											</point>
+											<point id="gla2-podod1-clan8-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> да садржи највише до 30% m/m петељки и чајних гранчица, с тим што се при одређивању количине петељки и гранчица не узимају у обзир лисне жилице (са остатком или без остатка лиске);</p>
+												</content>
+											</point>
+											<point id="gla2-podod1-clan8-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> да садржи највише 1% делова других биљака које не могу бити идентификоване визуелним прегледом или лупом;</p>
+												</content>
+											</point>
+											<point id="gla2-podod1-clan8-stav1-tac7">
+												<num>7)</num>
+												<content>
+													<p> да садржи највише 15% недиференцираних и спрашених делова (честице чија је највећа димензија мања од 0,75 m/m);</p>
+												</content>
+											</point>
+											<point id="gla2-podod1-clan8-stav1-tac8">
+												<num>8)</num>
+												<content>
+													<p> да садржи најмање 32% m/m воденог екстракта;</p>
+												</content>
+											</point>
+											<point id="gla2-podod1-clan8-stav1-tac9">
+												<num>9)</num>
+												<content>
+													<p> да садржи од 4% до 8% m/m укупног пепела;</p>
+												</content>
+											</point>
+											<point id="gla2-podod1-clan8-stav1-tac10">
+												<num>10)</num>
+												<content>
+													<p> да садржи до 12% m/m влаге;</p>
+												</content>
+											</point>
+											<point id="gla2-podod1-clan8-stav1-tac11">
+												<num>11)</num>
+												<content>
+													<p> да садржи најмање 1% m/m кофеина, осим чаја без кофеина.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod1-clan9">
+								<num>9.</num>
+								<content>
+									<clause id="gla2-podod1-clan9-stav1">
+										<content>
+											<p>Под називом чај без кофеина, уз истицање података о врсти чаја према начину производње (нпр. „црни чај без кофеина”), ставља се у промет чај код кога је одговарајућим технолошким поступцима извршена екстракција кофеина, тако да финални производ не садржи више од 0,4% овог састојка.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+					<subsection id="gla2-podod2">
+						<num>б</num>
+						<heading> Биљни чај</heading>
+						<content>
+							<article id="gla2-podod2-clan10">
+								<num>10.</num>
+								<content>
+									<clause id="gla2-podod2-clan10-stav1">
+										<content>
+											<p>Биљни чај, осим ако није друкчије прописано у Прилогу - Дозвољене вредности у погледу садржаја влаге, укупног пепела, екстракта и страних примеса, као и нека специфична испитивања за биљне чајеве, који је одштампан уз овај правилник и чини његов саставни део (у даљем тексту: Прилог), као и ароматизовани биљни чај, према квалитету класификује се и ставља у промет као:</p>
+											<point id="gla2-podod2-clan10-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> чај I квалитета, који не садржи више од 15% m/m других делова декларисане биљне сировине;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan10-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> чај II квалитета, који не садржи више од 30% m/m других делова декларисане биљне сировине.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod2-clan11">
+								<num>11.</num>
+								<content>
+									<clause id="gla2-podod2-clan11-stav1">
+										<content>
+											<p>Биљни чај у погледу квалитета треба да испуњава услове који су дати у Прилогу овог правилника.</p>
+										</content>
+									</clause>
+									<clause id="gla2-podod2-clan11-stav2">
+										<content>
+											<p>Биљни чај и његови производи који нису наведени у Прилогу овог правилника, у погледу квалитета треба да испуњавају следеће услове:</p>
+											<point id="gla2-podod2-clan11-stav2-tac1">
+												<num>1)</num>
+												<content>
+													<p> по изгледу, мирису и укусу треба да одговарају сировини која је декларисана;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan11-stav2-tac2">
+												<num>2)</num>
+												<content>
+													<p> мешавина биљног чаја треба да представља мешавину равномерно распоређених појединачних састојака;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan11-stav2-tac3">
+												<num>3)</num>
+												<content>
+													<p> треба да садрже највише 15% спрашених делова (честице чија је највећа димензија мања од 0,75 m/m);</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan11-stav2-tac4">
+												<num>4)</num>
+												<content>
+													<p> треба да садрже највише 1% делова других биљака који се не декларишу;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan11-stav2-tac5">
+												<num>5)</num>
+												<content>
+													<p> треба да садрже највише 12% влаге;</p>
+												</content>
+											</point>
+											<point id="gla2-podod2-clan11-stav2-tac6">
+												<num>6)</num>
+												<content>
+													<p> треба да садрже највише 10% укупног пепела.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod2-clan12">
+								<num>12.</num>
+								<content>
+									<clause id="gla2-podod2-clan12-stav1">
+										<content>
+											<p>Биљни чај ставља се у промет под називом „чај од...”, при чему се наводи име биљке на српском језику са јасно назначеним делом биљке који је употребљен при производњи („чај од цвета камилице”, „чај од листа нане” и сл.).</p>
+										</content>
+									</clause>
+									<clause id="gla2-podod2-clan12-stav2">
+										<content>
+											<p>Декларација биљног чаја може да садржи и латински назив биљке, као и заштићено или трговачко име биљног чаја.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+					<subsection id="gla2-podod3">
+						<num>в</num>
+						<heading> Инстант-чај, односно биљни инстант-чај</heading>
+						<content>
+							<article id="gla2-podod3-clan13">
+								<num>13.</num>
+								<content>
+									<clause id="gla2-podod3-clan13-stav1">
+										<content>
+											<p>Инстант-чај, односно биљни инстант-чај у чврстом стању у погледу квалитета треба да испуњава следеће услове:</p>
+											<point id="gla2-podod3-clan13-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> да мирис и укус одговарају сировини од које су произведени;</p>
+												</content>
+											</point>
+											<point id="gla2-podod3-clan13-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> да садржај влаге није већи од 8% m/m;</p>
+												</content>
+											</point>
+											<point id="gla2-podod3-clan13-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> да је растворљивост у води најмање 95%.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod3-clan14">
+								<num>14.</num>
+								<content>
+									<clause id="gla2-podod3-clan14-stav1">
+										<content>
+											<p>Течни инстант-чај, односно течни биљни инстант-чај у погледу квалитета треба да испуњава следеће услове:</p>
+											<point id="gla2-podod3-clan14-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> да мирис и укус одговарају сировини од које су произведени;</p>
+												</content>
+											</point>
+											<point id="gla2-podod3-clan14-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> да садржај етанола није већи од 70% v/v;</p>
+												</content>
+											</point>
+											<point id="gla2-podod3-clan14-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> да садржај метанола и 2-пропанола није већи од 0,05% v/v.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+					<subsection id="gla2-podod4">
+						<num>г</num>
+						<heading> Ароматизовани чај, односно ароматизовани биљни чај и њихови производи</heading>
+						<content>
+							<article id="gla2-podod4-clan15">
+								<num>15.</num>
+								<content>
+									<clause id="gla2-podod4-clan15-stav1">
+										<content>
+											<p>Чај, односно биљни чај и њихови производи могу бити ароматизовани.</p>
+										</content>
+									</clause>
+									<clause id="gla2-podod4-clan15-stav2">
+										<content>
+											<p>Чај коме је додата природна арома, односно делови других биљака (кора поморанџе, кора цимета, цвет јасмина и сл.) је природно ароматизовани чај.</p>
+										</content>
+									</clause>
+									<clause id="gla2-podod4-clan15-stav3">
+										<content>
+											<p>Ароматизовани чај, односно ароматизовани биљни чај и њихови производи стављају се у промет као чај, односно биљни чај и њихови производи којима су додате одговарајуће ароме у складу са прописом којим се уређује квалитет и употреба адитива и арома у храни („зелени чај са аромом лимуна”, „мешавина биљног чаја са аромом цимета” и сл.).</p>
+											<тачка id="gla2-podod4-clan15-stav3-tac2">
+												<num>2.</num>
+												<content>
+													<p> Mетодe узимања узорака и испитивање квалитета, паковањe и декларисањe и додатни захтеви за означавање производа</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod4-clan16">
+								<num>16.</num>
+								<content>
+									<clause id="gla2-podod4-clan16-stav1">
+										<content>
+											<p>Начин узимања узорака, одређивање пепела, кофеина и сирове целулозе утврђују се у складу са следећим стандардима:</p>
+											<point id="gla2-podod4-clan16-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> SRPS ISO 1839:1995 – Чај – Узимање узорака;</p>
+												</content>
+											</point>
+											<point id="gla2-podod4-clan16-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> SRPS ISO 10727:1996 – Чај и инстант-чај у чврстом облику – Одређивање садржаја кофеина – Метода течне хроматографије високе перформансе;</p>
+												</content>
+											</point>
+											<point id="gla2-podod4-clan16-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> SRPS ISO 5498:1996, Пољопривредно прехрамбени производи – Одређивање садржаја сирове целулозе – Општа метода.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla2-podod4-clan16-stav2">
+										<content>
+											<p>Одређивање влаге, пепела, садржаја етанола, садржаја 2 –пропанола и метанола, као и остала специфична испитивања утврђују се у складу са V. Југословенском фармакопејом.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod4-clan17">
+								<num>17.</num>
+								<content>
+									<clause id="gla2-podod4-clan17-stav1">
+										<content>
+											<p>Готови производи из <ref>члана 1. овог</ref> правилника:</p>
+											<point id="gla2-podod4-clan17-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> стављају се у промет искључиво у оригиналном паковању којим се обезбеђује очување квалитета до момента отварања у року употребе;</p>
+												</content>
+											</point>
+											<point id="gla2-podod4-clan17-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> треба да имају декларацију у складу са прописом којим се уређује декларисање и означавање упакованих намирница, односно хране;</p>
+												</content>
+											</point>
+											<point id="gla2-podod4-clan17-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> чувају се на сувом и хладном месту, без излагања сунчевој светлости, влази и великој промени температуре и не могу да стоје близу производа чији мирис могу да апсорбују;</p>
+												</content>
+											</point>
+											<point id="gla2-podod4-clan17-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> који су упаковани у подељена, једнодозна паковања (филтер кесице)у таквом паковању треба да садрже честице величине од 0,75 до 2 mm.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-podod4-clan18">
+								<num>18.</num>
+								<content>
+									<clause id="gla2-podod4-clan18-stav1">
+										<content>
+											<p>Удео сваког појединачног састојка у мешавини биљног чаја који је у декларацији изражен у процентима може да одступа, а дозвољена одступања сваког појединачног састојка дата су у Табели 1.</p>
+										</content>
+									</clause>
+									<clause id="gla2-podod4-clan18-stav2">
+										<content>
+											<p>Табела 1. Дозвољено одступање појединачног састојка у мешавини биљног чаја</p>
+										</content>
+									</clause>
+									<став id="gla2-podod4-clan18-stav3">
+										<table class="tabela-sa-borderom">
+											
+		
+											<tbody>
+												
+			
+												<tr>
+													
+				
+													<td>
+														
+				
+														<p>Редни број</p>
+													</td>
+													
+				
+													<td>
+														
+				
+														<p>Удео појединачног састојка </p>
+													</td>
+													
+				
+													<td>
+														
+				
+														<p>Дозвољено одступање</p>
+													</td>
+													
+			
+												</tr>
+												
+			
+												<tr>
+													
+				
+													<td>
+														
+				
+														<p>1.</p>
+													</td>
+													
+				
+													<td>
+														
+				
+														<p>до 5%</p>
+													</td>
+													
+				
+													<td align="center">
+														
+				
+														<p>±40%</p>
+													</td>
+													
+			
+												</tr>
+												
+			
+												<tr>
+													
+				
+													<td>
+														
+				
+														<p>2.</p>
+													</td>
+													
+				
+													<td>
+														
+				
+														<p>више од 5% до 10%</p>
+													</td>
+													
+				
+													<td align="center">
+														
+				
+														<p>±35%</p>
+													</td>
+													
+			
+												</tr>
+												
+			
+												<tr>
+													
+				
+													<td>
+														
+				
+														<p>3.</p>
+													</td>
+													
+				
+													<td>
+														
+				
+														<p>више од 10% до 50%</p>
+													</td>
+													
+				
+													<td align="center">
+														
+				
+														<p>±25%</p>
+													</td>
+													
+			
+												</tr>
+												
+			
+												<tr>
+													
+				
+													<td>
+														
+				
+														<p>4.</p>
+													</td>
+													
+				
+													<td>
+														
+				
+														<p>више од 50%</p>
+													</td>
+													
+				
+													<td align="center">
+														
+				
+														<p>±20%</p>
+													</td>
+													
+			
+												</tr>
+												
+		
+											</tbody>
+											
+	
+										</table>
+										
+	
+										<content/>
+									</став>
+									<clause id="gla2-podod4-clan18-stav4">
+										<content>
+											<p>Дозвољено одступање сваког појединачног састојка из става 1. овог члана утврђује се на основу узорка од 20 насумице узетих оригиналних паковања (филтер кесица или друго појединачно паковање), а сматра се да се ради о дозвољеном одступању ако је минимум 18 узорака тог састојка у границама дозвољеног одступања наведеног у Табели 1.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla3-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="gla3-clan19-stav1">
+								<content>
+									<p>Даном ступања на снагу овог правилника престаје да важи Правилник о квалитету и другим захтевима за чај, биљни чај и инстант-чај („<ref id="ref4" href="/rs/act/05/51/srp@">Службени лист СЦГ”, број 51/05</ref>).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla3-clan20-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном   гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan20-stav2">
+								<content>
+									<p>Број 110-00-207/2011-09</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan20-stav3">
+								<content>
+									<p>У Београду, 22. децембрa 2011. године</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan20-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan20-stav5">
+								<content>
+									<p>Душан Петровић, с.р.</p>
+								</content>
+							</clause>
+							<став id="gla3-clan20-stav6">
+								<img alt="caj_Page_1.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/caj_Page_1_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=418363&amp;regactid=418363"/>
+								<content/>
+							</став>
+							<став id="gla3-clan20-stav7">
+								<img alt="caj_Page_2.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/caj_Page_2_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=418363&amp;regactid=418363"/>
+								<content/>
+							</став>
+							<став id="gla3-clan20-stav8">
+								<img alt="caj_Page_3.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/caj_Page_3_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=418363&amp;regactid=418363"/>
+								<content/>
+							</став>
+							<став id="gla3-clan20-stav9">
+								<img alt="caj_Page_4.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/caj_Page_4_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=418363&amp;regactid=418363"/>
+								<content/>
+							</став>
+							<став id="gla3-clan20-stav10">
+								<img alt="caj_Page_5.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/caj_Page_5_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=418363&amp;regactid=418363"/>
+								<content/>
+							</став>
+							<став id="gla3-clan20-stav11">
+								<img alt="caj_Page_6.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/caj_Page_6_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=418363&amp;regactid=418363"/>
+								<content/>
+							</став>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

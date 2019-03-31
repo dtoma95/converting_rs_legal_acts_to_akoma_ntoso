@@ -1,12 +1,14 @@
-from reasoner.patterns import recognize_pattern, TokenType
+from tokenizer.TokenType import TokenType
+
+
 
 class BasicReasoner():
-    def __init__(self, htmlroot, akomabuilder):
-        self.htmlroot = htmlroot
+    def __init__(self, tokenizer, akomabuilder):
+        self.tokenizer = tokenizer
         self.akomabuilder = akomabuilder
         self.current_token = False
-        self.generator = None
         self.current_hierarchy = {
+            TokenType.DEO: 0,
             TokenType.GLAVA: 0,
             TokenType.ODELJAK: 0,
             TokenType.PODODELJAK: 0,
@@ -16,38 +18,31 @@ class BasicReasoner():
             TokenType.PODTACKA: 0,
             TokenType.ALINEJA: 0}
 
-    def token_generator(self):
-        for child in self.htmlroot:
-
-            self.current_token = recognize_pattern(child)
-           # print(self.current_token.type,self.current_token.value)
-            yield self.current_token
-
-    def get_next_token(self):
-        if self.generator is None:
-            self.generator = self.token_generator()
-        try:
-            return next(self.generator)
-        except StopIteration:
-            self.current_token = None
-            return None
-
     def start(self):
         body = False
+        preface = []
         while self.current_token is not None:
-            self.get_next_token()
+            self.current_token = self.tokenizer.get_next_token()
+
             if(self.current_token is None):
                 break
-            if self.current_token.type <= TokenType.CLAN:
+            if body is False and self.current_token.type <= TokenType.CLAN :
                 body = True
+                self.akomabuilder.build_preface(preface)
+            else:
+                preface.append(self.current_token)
             if body:
                 self.reason()
 
     def reason(self):
+
         if self.current_token is None:
             return
-        if self.current_token.type == TokenType.GLAVA and self.current_token.value == None:
-            self.glava_find_title()
+
+        if self.current_token.type == TokenType.DEO and self.current_token.value == None:
+            self.deo_glava_find_title()
+        elif self.current_token.type == TokenType.GLAVA and self.current_token.value == None:
+            self.deo_glava_find_title()
         elif self.current_token.type == TokenType.STAV and self.current_token.value[-1:] != "." and self.current_token.value[-1:] != ":"and self.current_token.value[-1:] != ",":
             self.title_find_clan()
         else:
@@ -55,25 +50,33 @@ class BasicReasoner():
             if self.current_token.type == TokenType.STAV and self.current_token.value[-1:] == ":":
                 self.expect_tacke()
 
-    def glava_find_title(self):
+    def deo_glava_find_title(self):
         glava = self.current_token
-        self.get_next_token()
+        self.current_token = self.tokenizer.get_next_token()
         if (self.current_token.type != TokenType.STAV):
             print("WARNING - GLAVA NEMA NASLOV")
+            self.akomabuilder.add_token(glava, self.get_identification(glava))
+            self.reason()
         elif (self.current_token.value[-1:] == "."):
             print("WARNING - NASLOV GLAVE NE SME DA IMA TACKU NA KRAJU")
-        glava.text = self.current_token.value
-        return glava
+            self.akomabuilder.add_token(glava, self.get_identification(glava))
+            self.reason()
+        else:
+            glava.value = self.current_token.value
+            self.akomabuilder.add_token(glava, self.get_identification(glava))
+        #self.reason()
 
     def title_find_clan(self):
         naslov = self.current_token
-        self.get_next_token()
+        self.current_token = self.tokenizer.get_next_token()
         if self.current_token is None:
             return
         if self.current_token.type != TokenType.CLAN:
             print("WARNING - NEMA CLANA ISPOD NASLOVA")
-            #self.akomabuilder.add_token(naslov, self.get_identification(self.current_token))
+            self.akomabuilder.add_token(naslov, self.get_identification(naslov))
             self.reason() # deal with this unknown element
+            print(self.current_hierarchy)
+            print(naslov.value)
         else:
             self.current_token.value = naslov.value
             self.akomabuilder.add_token(self.current_token, self.get_identification(self.current_token))
@@ -81,7 +84,7 @@ class BasicReasoner():
     def expect_tacke(self):
         #print("TACKA?")
         while self.current_token is not None:
-            self.get_next_token()
+            self.current_token = self.tokenizer.get_next_token()
             if(self.current_token is None):
                 break
             elif self.current_token.type == TokenType.ODELJAK:
@@ -89,8 +92,8 @@ class BasicReasoner():
                     self.current_token.type = TokenType.TACKA
                     self.current_token.name = "тачка"
                 self.reason()
-            elif self.current_token.type <= TokenType.STAV:
-                break
+           # elif self.current_token.type <= TokenType.STAV:
+           #     self.reason()
             else:
                 self.reason()
 
@@ -110,15 +113,15 @@ class BasicReasoner():
         #if token.type+1 != TokenType.CLAN and token.type != TokenType.ALINEJA:
          #   self.current_hierarchy[token.type+1] = 0
 
-        values = ["gla", "od", "podod", "clan", "stav", "tac", "podtac", "ali"]
+        values = ["deo","gla", "od", "podod", "clan", "stav", "tac", "podtac", "ali"]
         retval = ""
-        for i in range(TokenType.GLAVA, TokenType.ALINEJA+1):
+        for i in range(TokenType.DEO, TokenType.ALINEJA+1):
             if token.type < i:
                 break
             if self.current_hierarchy[i] == 0:
                 continue
 
-            retval += values[i-1] + str(self.current_hierarchy[i]) + "_"
+            retval += values[i] + str(self.current_hierarchy[i]) + "-"
 
         return retval[:-1]
 

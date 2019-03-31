@@ -1,0 +1,268 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2011/98-10/main"/>
+					<FRBRuri value="/rs/act/2011/98-10"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/98-10/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/98-10/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/98-10/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/98-10/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2011-12-23" name="службени гласник рс" number="98" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="10. Култура" value="10. култура"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-12-15" id="usvajanje"/>
+				<step date="2011-12-31" id="stupanje_na_snagu"/>
+				<step date="2011-12-31" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 8. став 5. </ref>Закона о обавезном примерку публикација („<ref id="ref1" href="/rs/act/11/52/srp@">Службени гласник РС”, број 52/11</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар културе, информисања и информационог друштва доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о достављању oбавезног примерка електронских публикација депозитним библиотекама и њиховом коришћењу</title>
+			<date>&quot;Службени гласник РС&quot;, број 98 од 23.   децембра 2011.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се услови достављања обавезног примерка електронских публикација депозитним библиотекама и њиховом коришћењу.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Електронска публикација, сагласно Закону о обавезном примерку публикација (у даљем тексту: Закон), јесте:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> публикација објављена у електронској форми као посебна физичка целина (на различитим носачима: дискета, CD, DVD, Blu Ray Disc, USB, и сл.),</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> публикација која је доступна на интернету,</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> публикација припремљена за штампу у формату који одговара међународним стандардима универзалне доступности информација (даље у тексту: дигитална копија обавезног примерка штампане публикације).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Обавезу достављања обавезног примерка електронских публикација депозитним библиотекама – Народној библиотеци Србије и Библиотеци матице српске, сагласно Закону, имају издавачи и дистрибутери, то јест правна или физичка лица која издају публикације ради њихове дистрибуције у Републици Србији, односно дистрибуирају у Републици Србији током године више од десет примерака електронских публикација.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Публикације објављене у електронској форми као посебне физичке целине (дискета, CD, DVD, Blu Ray Disc, USB, и сл.) достављају се депозитним библиотекама, у пет примерака, без електронске заштите приступа или са одговарајућом шифром за приступ.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Дигиталне копије обавезног примерка штампане публикације достављају се депозитним библиотекама, у PDF формату, појединачно за сваку публикацију, од корица до корица, у једном фајлу.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Обавезни елементи PDF формата који се доставља су:</p>
+							<point id="clan5-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> било која верзија PDF-а од верзије 1.0 до верзије 1.7 и даље,</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> резолуција од 72 dpi, RGB палета боја, са JPG компресијом слика,</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> главни текст не сме да буде векторски, то јест претворен у криве,</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> све странице публикација треба да буду раздвојене,</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> PDF фајл за монографске публикације треба именовати по COBISS ID броју за ту публикацију, а за све друге врсте публикација у договору са стручњацима депозитних библиотека.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Дигиталне копије обавезног примерка штампане публикације достављају се:</p>
+							<point id="clan6-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> на оптичким дисковима, који се уништавају после пребацивања на сервере депозитних библиотека,</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> путем електронске поште,</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> путем линка преко којег је омогућено слање фајлова (upload).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Издавач приликом депоновања дигиталне копије обавезног примерка штампане публикације може да изабере једну од три понуђене опције:</p>
+							<point id="clan7-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> депоновање на офлајн серверима без могућности приступа (такозвани   dark archive),</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> депоновање са могућношћу приступа само у просторијама депозитних библиотека,</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> депоновање са могућношћу отвореног приступа преко интернета.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Дигиталне копије обавезног примерка штампане публикације се, у складу са Законом, могу користити само на начин који онемогућава њихово копирање и дистрибуцију, као ни приступ формату дигиталних копија штампаних публикација обавезног примерка.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>Депозитне библиотеке израђују посебан софтвер за достављање, чување и коришћење дигиталних копија обавезног примерка штампаних публикација, који конвертује PDF фајлове у слике JPG формата.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>Слепим и слабовидим корисницима се у читаоницама депозитних библиотека омогућава коришћење дигиталних копија обавезног примерка штампаних публикација у txt формату.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Ако носилац ауторског права жели да дигитална копија обавезног примерка његове штампане публикације буде у отвореном приступу (open source) преко сервера депозитних библиотека, потписује типски уговор о отвореном приступу приликом достављања публикације депозитним библиотекама.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Број 110-00-50/2011-11</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav3">
+						<content>
+							<p>У Београду, 15. децембра 2011. године</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav5">
+						<content>
+							<p>Предраг Марковић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

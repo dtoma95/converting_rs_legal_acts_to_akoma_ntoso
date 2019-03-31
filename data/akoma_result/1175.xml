@@ -1,0 +1,179 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2007/31-72/main"/>
+					<FRBRuri value="/rs/act/2007/31-72"/>
+					<FRBRdate date="2007" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2007/93-16/srp@/main"/>
+					<FRBRuri value="/rs/act/2007/93-16/srp@"/>
+					<FRBRdate date="2007" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2007/93-16/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2007/93-16/srp@.akn"/>
+					<FRBRdate date="2007" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2007-3-30" name="службени гласник рс" number="31" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="8. Девизно пословање и страна улагања" value="8. девизно пословање и страна улагања"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2007-03-28" id="usvajanje"/>
+				<step date="2007-03-31" id="stupanje_na_snagu"/>
+				<step date="2007-04-01" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="31/2007-72" id="e1" type="generation"/>
+				<eventRef date="93/2007-16" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Одлука је ступила на снагу наредног дана од дана објављивања у „Службеном гласнику РС”, односно 31. марта 2007. године а примењује се од 1. априла 2007. године (види тачку 8. Одлуке).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 21. став 1, </ref>а у вези с чланом 59. Закона о Народној банци Србије („<ref id="ref2" href="/rs/act/2003/72/srp@">Службени гласник РС”, бр. 72/2003</ref> и 55/2004) и чланом 32. став 4. Закона о девизном пословању („<ref id="ref3" href="/rs/act/2006/62/srp@">Службени гласник РС”, број 62/2006</ref>),</p>
+			<p>Гувернер Народне банке Србије доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о међубанкарском клирингу плаћања у девизама</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 31 од 30. марта 2007, 93 од 12. октобра 2007.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Овом одлуком прописује се начин на који Народна банка Србије обавља међубанкарски клиринг плаћања у девизама (у даљем тексту: клиринг) између банака из <ref>члана 2. став 3. </ref>Закона о девизном пословању (у даљем тексту: банка), као и између банака и Народне банке Србије као учесника у клирингу.*</heading>
+				<content>
+					<clause id="od1-stav1">
+						<content>
+							<p>Народна банка Србије може обављати клиринг и између банке и банке чије је седиште на територији државе с чијом је централном банком Народна банка Србије закључила споразум о клирингу.</p>
+						</content>
+					</clause>
+					<clause id="od1-stav2">
+						<content>
+							<p>*<ref id="ref4" href="/rs/act/2007/93/srp@">Службени гласник РС, број 93/2007</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> За учешће у клирингу, банка је дужна да поднесе захтев и закључи уговор с Народном банком Србије, који може да закључи само банка која је учесник у РТГС систему и у клиринг систему Народне банке Србије.</heading>
+				<content/>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Клиринг се обавља као нето обрачун у еврима, и то преко рачуна девизне обавезне резерве банке код Народне банке Србије (у даљем тексту: рачун девизне обавезне резерве), односно за Народну банку Србије преко обрачунског рачуна.*</heading>
+				<content>
+					<clause id="od3-stav1">
+						<content>
+							<p>Плаћање, наплаћивање и преноси по текућим и капиталним пословима који су предмет клиринга обављају се преко рачуна девизне обавезне резерве, на начин прописан одлуком којом се уређују услови и начин обављања платног промета са иностранством и упутством за њено спровођење.</p>
+						</content>
+					</clause>
+					<clause id="od3-stav2">
+						<content>
+							<p>*<ref id="ref5" href="/rs/act/2007/93/srp@">Службени гласник РС, број 93/2007</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Клиринг из тачке 1. став 1. ове одлуке обавља се у складу с том одлуком, оперативним правилима којима се уређује клиринг а која утврђује Народна банка Србије и на основу овлашћења банке на основу ког Народна банка Србије задужује рачун девизне обавезне резерве, и то по основу нето позиције из мултилатералног обрачуна у клирингу.</heading>
+				<content>
+					<clause id="od4-stav1">
+						<content>
+							<p>Клиринг из тачке 1. став 2. ове одлуке обавља се у складу с том одлуком, споразумом из тог става и оперативним правилима за овај клиринг приложеним уз тај споразум, као и на основу овлашћења банке на основу ког Народна банка Србије задужује рачун девизне обавезне резерве, и то по основу нето позиције из мултилатералног обрачуна у клирингу.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> Оперативним правилима из ове одлуке утврђују се начин и услови за прикључење у клиринг, мере заштите и одговорности, лимит и нето позиција банке, пријем налога, начин извршења плаћања, коначност обрачуна, термински план клиринга и његово радно време, искључење из клиринга, као и накнада за пружање услуга клиринга.</heading>
+				<content/>
+			</section>
+			<section id="od6">
+				<num>6.</num>
+				<heading> Банке су дужне да податке о својим обавезама по основу плаћања у девизама достављају Народној банци Србије електронски, у складу са оперативним правилима из ове одлуке.</heading>
+				<content>
+					<clause id="od6-stav1">
+						<content>
+							<p>После достављања података из става 1. ове тачке, Народна банка Србије обрачунава мултилатералне нето износе по основу плаћања у девизама и за те износе задужује и одобрава рачун девизне обавезне резерве по основу обрачунате нето позиције.</p>
+						</content>
+					</clause>
+					<clause id="od6-stav2">
+						<content>
+							<p>О извршеном клирингу, односно задужењу и одобрењу рачуна девизне обавезне резерве – Народна банка Србије обавештава све учеснике у клирингу у складу са овом одлуком и оперативним правилима из те одлуке.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od7">
+				<num>7.</num>
+				<heading> Народна банка Србије редовно обавештава банке о евентуалним застојима и другим проблемима у обављању послова из ове одлуке.</heading>
+				<content>
+					<clause id="od7-stav1">
+						<content>
+							<p>7а. Одредбе ове одлуке које се односе на клиринг између банака односе се и на клиринг између Народне банке Србије и банака.</p>
+						</content>
+					</clause>
+					<clause id="od7-stav2">
+						<content>
+							<p>*<ref id="ref6" href="/rs/act/2007/93/srp@">Службени гласник РС, број 93/2007</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od8">
+				<num>8.</num>
+				<heading> Ова одлука ступа на снагу наредног дана од дана објављивања у „Службеном гласнику РС”, а примењује се од 1. априла 2007. године.</heading>
+				<content>
+					<clause id="od8-stav1">
+						<content>
+							<p>О. број 43</p>
+						</content>
+					</clause>
+					<clause id="od8-stav2">
+						<content>
+							<p>У Београду, 28. марта 2007. године</p>
+						</content>
+					</clause>
+					<clause id="od8-stav3">
+						<content>
+							<p>Гувернер</p>
+						</content>
+					</clause>
+					<clause id="od8-stav4">
+						<content>
+							<p>Народне банке Србије,</p>
+						</content>
+					</clause>
+					<clause id="od8-stav5">
+						<content>
+							<p>Радован Јелашић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2017/53-99/main"/>
+					<FRBRuri value="/rs/act/2017/53-99"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2017/53-99/srp@/main"/>
+					<FRBRuri value="/rs/act/2017/53-99/srp@"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2017/53-99/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2017/53-99/srp@.akn"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2017-5-30" name="службени гласник рс" number="53" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Наредба" value="наредба"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="5. Оружје, муниција, опасне и експлозивне материје" value="5. оружје, муниција, опасне и експлозивне материје"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2017-05-30" id="usvajanje"/>
+				<step date="2017-05-31" id="stupanje_na_snagu"/>
+				<step date="2017-05-31" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Наредба је ступила на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 31. маја 2017. године (види тачку 4. Наредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 46. </ref>Закона о оружју и муницији („<ref id="ref2" href="/rs/act/15/20/srp@">Службени гласник РС”, број 20/15</ref>) и <ref>члана 15. </ref>ст. 1. и 3. Закона о државној управи („<ref id="ref3" href="/rs/act/05/79/srp@">Службени гласник РС”, бр. 79/05, 101/07, 95/10</ref> и 99/14),</p>
+			<p>Министар унутрашњих послова доноси</p>
+		</preamble>
+		<preface>
+			<authority>НАРЕДБУ</authority>
+			<title>о легализацији оружја</title>
+			<date>&quot;Службени гласник РС&quot;, број 53 од 30.      маја 2017.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Власници оружја из категорије Б и Ц, који на дан ступања на снагу ове наредбе немају исправу издату од надлежног органа могу, у року од 1. јуна 2017. године до 1. октобра 2017. године, поднети захтев за издавање одговарајуће исправе.</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Власници оружја из тачке 1. ове наредбе, укључујући и власнике оружја из категорије А исто могу, у року из те тачке, предати надлежном органу, односно у власништво Републике Србије.</heading>
+				<content/>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> У случајевима из тач. 1. и 2. ове наредбе, власници оружја нису дужни да доказују порекло и у прописаном року неће одговарати за неовлашћено држање и ношење оружја.</heading>
+				<content/>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Ова наредба ступа на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”.</heading>
+				<content>
+					<clause id="od4-stav1">
+						<content>
+							<p>01 број 5352/17-4</p>
+						</content>
+					</clause>
+					<clause id="od4-stav2">
+						<content>
+							<p>У Београду, 30. маја 2017. године</p>
+						</content>
+					</clause>
+					<clause id="od4-stav3">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="od4-stav4">
+						<content>
+							<p>др Небојша Стефановић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

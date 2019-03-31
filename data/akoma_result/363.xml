@@ -1,0 +1,654 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1993/49-2289/main"/>
+					<FRBRuri value="/rs/act/1993/49-2289"/>
+					<FRBRdate date="1993" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1993/49-2289/srp@/main"/>
+					<FRBRuri value="/rs/act/1993/49-2289/srp@"/>
+					<FRBRdate date="1993" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1993/49-2289/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1993/49-2289/srp@.akn"/>
+					<FRBRdate date="1993" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1993-7-1" name="службени гласник рс" number="49" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Закон" value="закон"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="5. Високо образовање" value="5. високо образовање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1993-07-01" id="usvajanje"/>
+				<step date="1993-07-09" id="stupanje_na_snagu"/>
+				<step date="1993-07-09" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Закон је ступио на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 9. јула 1993. године (види <ref>члан 19. </ref>Закона).Одлуком о промени назива Учитељског факултета у Врању Универзитета у Нишу (<ref id="ref12" href="/rs/act/2015/51/srp@">Службени гласник РС, број 51/2015</ref>) промењен је назив Учитељског факултет у Врању Универзитета у Нишу, са седиштем у Врању, тако да сада гласи Педагошки факултет у Врању Универзитета у Нишу (види тачку 2. Одлуке - 51/2015-7).Одлуком о промени назива Учитељског факултета у Ужицу Универзитета у Крагујевцу (<ref id="ref13" href="/rs/act/2017/92/srp@">Службени гласник РС, број 92/2017</ref>) промењен је називУчитељског факултета у Ужицу Универзитета у Крагујевцу тако да сада гласи Педагошки факултет у Ужицу Универзитета у Крагујевцу (види тачку 2. Одлуке - 92/2017-44).</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<title>ЗАКОН</title>
+			<title>о  оснивању учитељских факултета и о укидању и промени делатности педагошких  академија и виших школа</title>
+			<date>„Службени гласник РС”, број 49 од 1.  јула 1993.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>УЧИТЕЉСКИ ФАКУЛТЕТИ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>За образовање учитеља са високом стручном спремом оснивају се учитељски факултети под називом:</p>
+									<point id="gla1-clan1-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> „Учитељски факултет у Београду, са потпуном одговорношћу”, са седиштем у Београду;</p>
+										</content>
+									</point>
+									<point id="gla1-clan1-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> „Учитељски факултет у Ужицу, са потпуном одговорношћу”, са седиштем у Ужицу;</p>
+										</content>
+									</point>
+									<point id="gla1-clan1-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> „Учитељски факултет у Јагодини, са потпуном одговорношћу”, са седиштем у Јагодини;</p>
+										</content>
+									</point>
+									<point id="gla1-clan1-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> „Учитељски факултет у Врању, са потпуном одговорношћу”, са седиштем у Врању;</p>
+										</content>
+									</point>
+									<point id="gla1-clan1-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> „Учитељски факултет у Сомбору, са потпуном одговорношћу”, са седиштем у Сомбору;</p>
+										</content>
+									</point>
+									<point id="gla1-clan1-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> „Учитељски факултет у Призрену, са потпуном одговорношћу”, са седиштем у Призрену.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Учитељски факултет у Београду у саставу је Универзитета у Београду.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav2">
+								<content>
+									<p>Учитељски факултет у Ужицу у саставу је Универзитета у Крагујевцу.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav3">
+								<content>
+									<p>Учитељски факултет у Јагодини у саставу је Универзитета у Крагујевцу.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav4">
+								<content>
+									<p>Учитељски факултет у Врању у саставу је Универзитета у Нишу.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav5">
+								<content>
+									<p>Учитељски факултет у Сомбору у саставу је Универзитета у Новом Саду.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav6">
+								<content>
+									<p>Учитељски факултет у Призрену у саставу је Универзитета у Приштини.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Учитељски факултети обављају делатност основних студија и научни рад у циљу подизања квалитета наставе.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav2">
+								<content>
+									<p>Учитељски факултети могу обављати облике студија за иновације знања и стручно образовање и усавршавање, као и друге делатности, односно послове, који су у функцији делатности из става 1. овог члана, у складу са законом и статутом факултета.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla1-clan4-stav1">
+								<content>
+									<p>На оснивање, организацију и рад учитељских факултета сходно се примењују прописи који се односе на јавне службе и факултете, ако овим законом није друкчије одређено.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla1-clan5-stav1">
+								<content>
+									<p>Учитељски факултети остварују наставни план и програм прве године основних студија од школске 1993/94. године.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla1-clan6-stav1">
+								<content>
+									<p>Учитељски факултети преузимају имовину (средства, права и обавезе) коју користе педагошке академије, и то:</p>
+									<point id="gla1-clan6-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> Учитељски факултет у Београду – имовину Педагошке академије за образовање учитеља у Београду;</p>
+										</content>
+									</point>
+									<point id="gla1-clan6-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> Учитељски факултет у Ужицу – имовину Педагошке академије „Желимир Жељо Ђурић” у Ужицу;</p>
+										</content>
+									</point>
+									<point id="gla1-clan6-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> Учитељски факултет у Јагодини – имовину Педагошке академије у Јагодини;</p>
+										</content>
+									</point>
+									<point id="gla1-clan6-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> Учитељски факултет у Врању – имовину Педагошке академије „Иво Андрић” у Врању;</p>
+										</content>
+									</point>
+									<point id="gla1-clan6-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> Учитељски факултет у Сомбору – имовину Педагошке академије „Жарко Зрењанин” у Сомбору;</p>
+										</content>
+									</point>
+									<point id="gla1-clan6-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> Учитељски факултет у Призрену – имовину Педагошке академије „Ђевдет Дода” у Призрену.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla1-clan6-stav2">
+								<content>
+									<p>Завршне рачуне педагошких академија из става 1. овог члана донеће те академије, са стањем на дан 31. јула 1993. године.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla1-clan7-stav1">
+								<content>
+									<p>До конституисања савета учитељског факултета образује се привремени савет.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan7-stav2">
+								<content>
+									<p>Привремени савет има десет чланова које именује и разрешава Влада Републике Србије (у даљем тексту: Влада).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla1-clan8-stav1">
+								<content>
+									<p>Привремени савет:</p>
+									<point id="gla1-clan8-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> донеће статут учитељског факултета до 31. јула 1993. године;</p>
+										</content>
+									</point>
+									<point id="gla1-clan8-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> донеће наставни план и програм основних студија, уз сагласност универзитета у чијем је саставу учитељски факултет;</p>
+										</content>
+									</point>
+									<point id="gla1-clan8-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> одлучује о пословању и коришћењу средстава учитељског факултета;</p>
+										</content>
+									</point>
+									<point id="gla1-clan8-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> именује чланове комисије за припрему извештаја за избор наставника и сарадника;</p>
+										</content>
+									</point>
+									<point id="gla1-clan8-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> врши избор наставника и сарадника;</p>
+										</content>
+									</point>
+									<point id="gla1-clan8-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> утврђује средње школе одговарајуће за упис на прву годину основних студија, садржај, начин и време полагања класификационог испита, као и мерила за утврђивање редоследа кандидата за упис у прву годину основних студија;</p>
+										</content>
+									</point>
+									<point id="gla1-clan8-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> објавиће конкурс за упис студената у прву годину основних студија за школску 1993/94. годину до 31. јула 1993. године;</p>
+										</content>
+									</point>
+									<point id="gla1-clan8-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> обавља друге послове из надлежности савета утврђене законом.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla1-clan8-stav2">
+								<content>
+									<p>Привремени савет престаје са радом даном конституисања савета учитељског факултета.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla1-clan9-stav1">
+								<content>
+									<p>До избора декана учитељског факултета, Влада именује лице са правима и обавезама декана утврђеним законом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ПЕДАГОШКЕ АКАДЕМИЈЕ И ВИШЕ ПЕДАГОШКЕ ШКОЛЕ</heading>
+				<content>
+					<article id="gla2-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla2-clan10-stav1">
+								<content>
+									<p>Укидају се дана 31. јула 1993. године следеће педагошке академије и више педагошке школе:</p>
+									<point id="gla2-clan10-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> Педагошка академија за образовање учитеља, са седиштем у Београду;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> Педагошка академија, са седиштем у Јагодини;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> Педагошка академија „Жарко Зрењанин”, са седиштем у Сомбору;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> Педагошка академија „Желимир Жељо-Ђурић”, са седиштем у Ужицу;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> Педагошка академија „Иво Андрић”, са седиштем у Врању;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> Виша педагошка школа, са седиштем у Приштини;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> Виша педагошка школа „Ђевдет Дода”, са седиштем у Призрену;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> Виша педагошка школа, са седиштем у Ђаковици;</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla2-clan11-stav1">
+								<content>
+									<p>Престају са остваривањем наставних планова и програма за образовање учитеља дана 31. јула 1993. године:</p>
+									<point id="gla2-clan11-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> Педагошка академија, са седиштем у Крушевцу;</p>
+										</content>
+									</point>
+									<point id="gla2-clan11-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> Педагошка академија, са седиштем у Пироту;</p>
+										</content>
+									</point>
+									<point id="gla2-clan11-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> Педагошка академија „Моша Пијаде”, са седиштем у Новом Саду;</p>
+										</content>
+									</point>
+									<point id="gla2-clan11-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> Педагошка академија „Зора Крџалић – Зага”, са седиштем у Кикинди;</p>
+										</content>
+									</point>
+									<point id="gla2-clan11-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> Виша педагошка школа, са седиштем у Гњилану;</p>
+										</content>
+									</point>
+									<point id="gla2-clan11-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> Педагошка академија „Душан Јерковић”, са седиштем у Шапцу;</p>
+										</content>
+									</point>
+									<point id="gla2-clan11-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> Педагошка академија, са седиштем у Неготину;</p>
+										</content>
+									</point>
+									<point id="gla2-clan11-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> Педагошка академија „Душан Тривунац”, са седиштем у Алексинцу;</p>
+										</content>
+									</point>
+									<point id="gla2-clan11-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> Педагошка академија „Душан Вукасовић Диоген”, са седиштем у Сремској Митровици;</p>
+										</content>
+									</point>
+									<point id="gla2-clan11-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> Педагошка академија, са седиштем у Суботици;</p>
+										</content>
+									</point>
+									<point id="gla2-clan11-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> Педагошка академија „Жива Јовановић”, са седиштем у Вршцу.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla2-clan12-stav1">
+								<content>
+									<p>Педагошке академије и Виша педагошка школа из <ref>члана 11. овог</ref> закона, као и Педагошка академија за образовање васпитача у Београду, обављаће делатност под називом, и то:</p>
+									<point id="gla2-clan12-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> Педагошка академија, са седиштем у Крушевцу – под називом „Виша школа за образовање васпитача, са потпуном одговорношћу”;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> Педагошка академија, са седиштем у Пироту – под називом „Виша школа за образовање васпитача, са потпуном одговорношћу”;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> Педагошка академија „Моша Пијаде”, са седиштем у Новом Саду – под називом „Виша школа за образовање васпитача, са потпуном одговорношћу”;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> Педагошка академија „Зора Крџалић – Зага”, са седиштем у Кикинди – под називом „Виша школа за образовање васпитача, са потпуном одговорношћу”;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> „Виша педагошка школа”, са седиштем у Гњилану – под називом „Виша школа за образовање васпитача, са потпуном одговорношћу”;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> „Педагошка академија за образовање васпитача”, са седиштем у Београду – под називом „Виша школа за образовање васпитача, са потпуном одговорношћу”;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> Педагошка академија „Душан Јерковић”, са седиштем у Шапцу – под називом „Виша школа за образовање васпитача, са потпуном одговорношћу”;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> Педагошка академија, са седиштем у Неготину – под називом „Виша школа за образовање васпитача, са потпуном одговорношћу”;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> Педагошка академија „Душан Тривунац”, са седиштем у Алексинцу – под називом „Виша школа за образовање васпитача, са потпуном одговорношћу”;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> Педагошка академија „Душан Вукасовић Диоген”, са седиштем у Сремској Митровици – под називом „Виша школа за образовање васпитача, са потпуном одговорношћу”;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> Педагошка академија, са седиштем у Суботици – под називом „Виша школа за образовање васпитача, са потпуном одговорношћу”; и</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac12">
+										<num>12)</num>
+										<content>
+											<p> Педагошка академија „Жива Јовановић”, са седиштем у Вршцу – под називом „Виша школа за образовање васпитача, са потпуном одговорношћу”.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan12-stav2">
+								<content>
+									<p>Више школе из става 1. тач. 7. до 12. овог члана оствариваће наставни план и програм за образовање васпитача почев од школске 1993/94. године.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ПРЕЛАЗНЕ И ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla3-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla3-clan13-stav1">
+								<content>
+									<p>Имовину виших педагошких школа из <ref>члана 10. </ref>тач. 6. и 8. овог закона преузимају на коришћење установе које обављају делатност образовања, ученичког и студентског стандарда чији је оснивач Република.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav2">
+								<content>
+									<p>Више педагошке школе из става 1. овог члана сачиниће завршне рачуне са стањем на дан 31. јула 1993. године.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav3">
+								<content>
+									<p>Комисија коју образује Влада извршиће попис имовине виших педагошких школа из <ref>члана 10. </ref>тач. 6. и 8. овог закона и расподелу те имовине на кориснике из става 1. овог члана.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla3-clan14-stav1">
+								<content>
+									<p>Изузетно, више школе из <ref>члана 12. </ref>тач. 1. до 5. и 7. до 12. овог закона могу вршити упис студената у школској 1993/94. години за стицање образовања учитеља у оквиру броја који утврди Влада.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan14-stav2">
+								<content>
+									<p>Право уписа у прву годину студија на вишу школу из става 1. овог члана имају лица са стеченим средњим образовањем просветне струке.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla3-clan15-stav1">
+								<content>
+									<p>Студенти уписани у педагошке академије из <ref>члана 10. </ref>тач. 1. до 5. овог закона, закључно са школском 1992/93. годином, имају право да до 30. септембра 1998. године заврше више образовање по наставним плановима и програмима по којима су започели образовање, као и правилима студија, на једној од виших школа из <ref>члана 12. овог</ref> закона.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan15-stav2">
+								<content>
+									<p>Студенти уписани у Вишу педагошку школу у Приштини, Вишу педагошку школу „Ђевдет Дода” у Призрену и Вишу педагошку школу у Ђаковици, закључно са школском 1992/93. годином, имају право да до 30. септембра 1998. године заврше више образовање по наставним плановима и програмима по којима су започели образовање, као и правилима студија, у Вишој школи за образовање васпитача у Гњилану.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan15-stav3">
+								<content>
+									<p>Студенти уписани на смеру за образовање учитеља у вишој школи из <ref>члана 12. </ref>тач. 1. до 5. и 7. до 12. овог закона, закључно са школском 1992/93. годином, имају право да до 30. септембра 1998. године заврше више образовање по наставним плановима и програмима по којима су започели образовање, као и правилима студија, у тој вишој школи.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan15-stav4">
+								<content>
+									<p>Студенти уписани на смеру за образовање учитеља на вишој школи из <ref>члана 12. </ref>тач. 1. до 5. и 7. до 12. овог закона у школској 1993/94. години имају право да до 30. септембра 1999. године заврше више образовање по наставном плану и програму по коме су започели образовање, као и правилима студија у тој вишој школи.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="gla3-clan16-stav1">
+								<content>
+									<p>Ученици уписани у вишу школу из <ref>члана 12. овог</ref> закона, закључно са школском 1989/90. годином, имају право да до 30. септембра 1995. године заврше средње образовање по наставним плановима и програмима по којима су започели образовање у тој вишој школи.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan16-stav2">
+								<content>
+									<p>Диплому о стеченом средњем образовању издаје виша школа из става 1. овог члана.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="gla3-clan17-stav1">
+								<content>
+									<p>Радницима виших школа из <ref>члана 12. овог</ref> закона, за чијим је радом престала потреба услед промене делатности, обезбеђује се једно од права утврђених законом којим се уређују радни односи.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="gla3-clan18-stav1">
+								<content>
+									<p>Виша школа из <ref>члана 12. овог</ref> закона усагласиће своју организацију, статут и друге акте, у року од 30 дана од дана ступања на снагу овог закона.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="gla3-clan19-stav1">
+								<content>
+									<p>Овај закон ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

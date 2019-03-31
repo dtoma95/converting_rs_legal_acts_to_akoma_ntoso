@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2007/99-9/main"/>
+					<FRBRuri value="/rs/act/2007/99-9"/>
+					<FRBRdate date="2007" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2007/99-9/srp@/main"/>
+					<FRBRuri value="/rs/act/2007/99-9/srp@"/>
+					<FRBRdate date="2007" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2007/99-9/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2007/99-9/srp@.akn"/>
+					<FRBRdate date="2007" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2007-11-2" name="службени гласник рс“" number="99" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="1. Пензијско и инвалидско осигурање" value="1. пензијско и инвалидско осигурање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2007-10-22" id="usvajanje"/>
+				<step date="2007-11-10" id="stupanje_na_snagu"/>
+				<step date="2008-01-01" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 155. став 5. </ref>и <ref>члана 161. став 5. </ref>Закона о пензијском и инвалидском осигурању (<ref id="ref2" href="/rs/act/03/34/srp@">,,Службени гласник РС”, бр. 34/03, 64/04</ref> – УС, 84/04 – др. закон, 85/05, 101/05 – др. закон и 63/06 – УС),</p>
+		</preamble>
+		<preface>
+			<authority>Министар рада и социјалне политике доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о начину подношења доказа о броју регистрованих чланова удружења пензионера</title>
+			<date>„Службени гласник РС“, број 99 од 2. новембра 2007.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником уређује се начин подношења доказа о броју регистрованих чланова удружења пензионера која су основана на нивоу Републике Србије и која имају више од 50.000 регистрованих чланова.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Поднесак са доказом о броју регистрованих чланова – удружења пензионера подносе министарству надлежном за послове пензијског и инвалидског осигурања (у даљем тексту: Министарство).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Поднесак са доказом о броју регистрованих чланова садржи печат и потпис овлашћеног лица удружења пензионера.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Уз поднесак са доказом о броју регистрованих чланова из става 1. овог члана прилаже се:</p>
+							<point id="clan3-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> акт о оснивању или статут удружења пензионера;</p>
+								</content>
+							</point>
+							<point id="clan3-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> изјава удружења пензионера о броју регистрованих чланова потписана од овлашћеног лица;</p>
+								</content>
+							</point>
+							<point id="clan3-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> списак регистрованих чланова удружења пензионера.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Уколико су испуњени сви потребни услови, Министарство писменим путем обавештава удружење пензионера да поднесак садржи доказ о броју регистрованих чланова.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Уколико се број регистрованих чланова удружења пензионера смањи тако да буде мањи од 50.000, удружење пензионера дужно је да о томе обавести Министарство најкасније у року од осам дана од дана утврђене промене.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, а примењује се од 1. јануара 2008. године.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Број 011-00-00873/2007-07</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>У Београду, 22. октобра 2007. године</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav5">
+						<content>
+							<p>Расим Љајић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

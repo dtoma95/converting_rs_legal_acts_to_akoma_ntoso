@@ -1,0 +1,404 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2006/64-43/main"/>
+					<FRBRuri value="/rs/act/2006/64-43"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2006/64-43/srp@/main"/>
+					<FRBRuri value="/rs/act/2006/64-43/srp@"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2006/64-43/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2006/64-43/srp@.akn"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2006-7-26" name="службени гласник рс“" number="64" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="I ДРЖАВНО УРЕЂЕЊЕ" value="i државно уређење"/>
+				<keyword id="grupa" showAs="14. Удружења, политичке странке, цркве, верске заједнице и друге организације" value="14. удружења, политичке странке, цркве, верске заједнице и друге организације"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2006-07-24" id="usvajanje"/>
+				<step date="2006-08-03" id="stupanje_na_snagu"/>
+				<step date="2006-08-03" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 21. став 4. </ref>Закона о црквама и верским заједницама („<ref id="ref8" href="/rs/act/06/36/srp@">Службени гласник РС”, број 36/06</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар вера доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о садржини и начину вођења Регистра цркава и верских заједница</title>
+			<date>„Службени гласник РС“, број 64 од 26. јула 2006.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником ближе се уређује поступак регистрације цркава и верских заједница и прописује се садржина и начин вођења Регистра цркава и верских заједница (у даљем тексту: Регистар).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Под именом Српска православна црква у Регистар се уписују Патријаршија и све епархије Српске православне цркве у Србији и у свету.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>У сагласју са Српском православном црквом у Регистар се уписује и одговарајућа организациона јединица Румунске православне цркве у Банату.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Под именом Католичка црква у Србији (Римокатоличка и Гркокатоличка) у Регистар се на основу пријаве Бискупске конференције уписују све бискупије Римокатоличке цркве које су организоване на територији Србије и Апостолски егзархат за гркокатолике.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Цркве из <ref>члана 13. </ref>Закона о црквама и верским заједницама (у даљем тексту: Закон) се уписују у Регистар под својим традиционалним именом уз додатак: „у Србији”.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Под именом Исламска заједница у Србији у Регистар се уписују легитимни, на основу унутрашњих прописа образовани мешихати и муфтијства, као и организационе јединице у њиховом саставу које пријаве.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Под именом Јеврејска заједница у Србији у Регистар се уписује Савез јеврејских општина Србије са организационим јединицама које Савез пријави.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Конфесионалне заједнице и друге верске организације из <ref>члана 16. </ref>Закона и остале верске организације (у даљем тексту: верске организације) уписују се у Регистар под именима са којима се пријаве, у складу са чланом 9. став 4. и чланом 19. Закона.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Кад верске организације оснују савезе и уније духовних и еванђеоских цркава Србије и друга удружења, чланице савеза или уније уписују се у Регистар под истим условима као и самосталне верске организације.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>Број оснивача верске организације, предвиђен чланом 18. став 2. тачка 1. Закона, износи најмање 100 пунолетних држављана који имају пребивалиште у Републици Србији или исти број страних држављана са сталним боравком на територији Републике Србије и усклађиваће се са законом.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>Верске организације које су оснивачи социјалних и хуманитарних организација, образовних, културних и издавачких установа, информативних и мисионарских гласила, привредних субјеката, као и културних и социјалних удружења или невладиних организација, пре подношења захтева за упис у Реигистар, односно пре добијања решења о упису у Регистар, треба да називе установа, организација и делатности ускладе са Законом (<ref>члан 9. став 4</ref>; <ref>члан 33. став 3. </ref>и <ref>члан 43. </ref>ст. 2. и 3. Закона).</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav5">
+						<content>
+							<p>У Регистар и у решење о регистрацији верске организације уписује се датум њене прве пријаве по раније важећим законима и прописима.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav6">
+						<content>
+							<p>Верска организација може вршити своје делатности на основу легализације стечне пријавом по раније важећим законима и прописима у овој области, без обавезе да се упише у Регистар, под условом да њена делатност није ограничена чланом 3. Закона.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav7">
+						<content>
+							<p>Верска организација која нема пријаву и која не жели да се упише у Регистар ужива верске слободе на основу Устава и међународних конвенција о људским правима и слободи вероисповедања, у складу са чл. 1, 2. и 5. Закона, осим ако је њено деловање у супротности са чланом 3. Закона.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Регистар прописан овим правилником има облик тврдо укоричене књиге.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>На насловној страни Регистра уписује се назив: „Регистар цркава и верских заједница” и број регистра.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Регистар је састављен од регистарских листова чије су стране нумерисане.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Регистар се оверава печатом органа и потписом службеног лица које је овлашћено за вођење Регистра.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav3">
+						<content>
+							<p>У Регистар се, за сваку цркву и верску заједницу, подаци уписују на посебној страни.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Регистарски лист из <ref>члана 9. овог</ref> правилника садржи рубрике у које се уписују подаци предвиђени чланом 21. Закона:</p>
+							<alinea id="clan10-stav1-ali1">
+								<content>
+									<p>едни број уписа;</p>
+								</content>
+							</alinea>
+							<alinea id="clan10-stav1-ali2">
+								<content>
+									<p>азив цркве или верске заједнице;</p>
+								</content>
+							</alinea>
+							<alinea id="clan10-stav1-ali3">
+								<content>
+									<p>дреса седишта цркве или верске заједнице;</p>
+								</content>
+							</alinea>
+							<alinea id="clan10-stav1-ali4">
+								<content>
+									<p>ично име, адреса и својство лица овлашћеног да заступа и представља цркву, верску заједницу или верску организацију;</p>
+								</content>
+							</alinea>
+							<alinea id="clan10-stav1-ali5">
+								<content>
+									<p>ично име и адреса лица овлашћеног да поднесе пријаву или захтев за упис у Регистар;</p>
+								</content>
+							</alinea>
+							<alinea id="clan10-stav1-ali6">
+								<content>
+									<p>рганизационе јединице, органи и установе са својством правног лица стеченог на основу <ref>члана 9. </ref>Закона;</p>
+								</content>
+							</alinea>
+							<alinea id="clan10-stav1-ali7">
+								<content>
+									<p>одаци о верским школама, културним установама, удружењима, хуманитарним, добротворним и здравственим организацијама чији је оснивач црква, верска заједница или верска организација;</p>
+								</content>
+							</alinea>
+							<alinea id="clan10-stav1-ali8">
+								<content>
+									<p>атум и време уписа у Регистар и број решења о упису;</p>
+								</content>
+							</alinea>
+							<alinea id="clan10-stav1-ali9">
+								<content>
+									<p>атум и број решења о брисању из претходног регистра правних лица;</p>
+								</content>
+							</alinea>
+							<alinea id="clan10-stav1-ali10">
+								<content>
+									<p>дбацивање захтева за упис у Регистар;</p>
+								</content>
+							</alinea>
+							<alinea id="clan10-stav1-ali11">
+								<content>
+									<p>дбијање захтева за упис у Регистар;</p>
+								</content>
+							</alinea>
+							<alinea id="clan10-stav1-ali12">
+								<content>
+									<p>одаци о брисању из Регистра;</p>
+								</content>
+							</alinea>
+							<alinea id="clan10-stav1-ali13">
+								<content>
+									<p>апомена.</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Попуњавање рубрика у Регистру врши се уписивањем одговарајућих података, који су назначени у продужетку броја рубрике.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Рубрике у Регистру попуњавају се читко и уписани текст се не сме исправљати и брисати.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Упис верске организације у Регистар врши се на основу решења донетог у складу са чланом 20. Закона.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav2">
+						<content>
+							<p>Акти и документи на основу којих је прихваћена пријава за упис у Регистар, као и акта и документа на основу којих је позитивно решен захтев верске организације за упис у Регистар, чувају се у посебном омоту за сваку цркву и верску заједницу и представљају саставни део Регистра.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav3">
+						<content>
+							<p>На омоту списа уписује се назив цркве и верске заједнице уписане у Регистар и регистарски број под којим је извршен упис.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>У рубрици „одбацивање и одбијање пријаве” уписује се број решења којим је пријава одбијена – одбачена и основ за одбацивање – одбијање.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan14">
+				<num>14.</num>
+				<content>
+					<clause id="clan14-stav1">
+						<content>
+							<p>Промене у Регистру могу се вршити само на основу писмене одлуке или решења које доноси министар.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav2">
+						<content>
+							<p>Упис промене одређене чињенице или податка уписаног у Регистар врши се у одговарајућој рубрици регистарског листа, непосредно испод основног уписа који се прецртава косом црвеном линијом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan15">
+				<num>15.</num>
+				<content>
+					<clause id="clan15-stav1">
+						<content>
+							<p>Брисање цркве и верске заједнице из регистра врши се прецртавањем регистарског листа двема паралелним косим линијама. У одговарајућу рубрику се уписује датум доношења и број решења о брисању из регистра.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan16">
+				<num>16.</num>
+				<content>
+					<clause id="clan16-stav1">
+						<content>
+							<p>Уз Регистар као помоћна књига води се именик.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan17">
+				<num>17.</num>
+				<content>
+					<clause id="clan17-stav1">
+						<content>
+							<p>Лице овлашћено за вођење Регистра дужно је да чува Регистар и списе предмета од злоупотребе, уништења и оштећења.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan18">
+				<num>18.</num>
+				<content>
+					<clause id="clan18-stav1">
+						<content>
+							<p>Подаци уписани у Регистар су јавни.</p>
+						</content>
+					</clause>
+					<clause id="clan18-stav2">
+						<content>
+							<p>Увид у Регистар и списе предмета може се вршити само уз обавезно присуство лица овлашћеног за вођење Регистра.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan19">
+				<num>19.</num>
+				<content>
+					<clause id="clan19-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan19-stav2">
+						<content>
+							<p>Број 110-00-5/2006-01</p>
+						</content>
+					</clause>
+					<clause id="clan19-stav3">
+						<content>
+							<p>У Београду, 24. јула 2006. године</p>
+						</content>
+					</clause>
+					<clause id="clan19-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan19-stav5">
+						<content>
+							<p>Милан Радуловић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

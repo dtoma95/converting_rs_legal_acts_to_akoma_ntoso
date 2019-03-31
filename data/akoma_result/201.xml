@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2017/29-124/main"/>
+					<FRBRuri value="/rs/act/2017/29-124"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2017/29-124/srp@/main"/>
+					<FRBRuri value="/rs/act/2017/29-124/srp@"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2017/29-124/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2017/29-124/srp@.akn"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2017-3-24" name="службени гласник рс" number="29" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="8. Коморе здравствених радника" value="8. коморе здравствених радника"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2017-02-28" id="usvajanje"/>
+				<step date="2017-04-01" id="stupanje_na_snagu"/>
+				<step date="2017-04-01" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 7. став 1. тачка 9</ref>. Закона о коморама здравствених радника и <ref>члана 10. став 1. тачка 11</ref>. и <ref>члана 27. </ref>Статута Лекарске коморе Србије,</p>
+			<p>Скупштина Лекарске коморе Србије, на Једанаестој редовној седници одржаној 28. фебруара 2017. године у Београду, донела је</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о висини накнада за издавање извода, уверења и потврда</title>
+			<date>&quot;Службени гласник РС&quot;, број 29 од 24. марта      2017.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Накнада за издавање извода, потврда и уверења члановима Коморе износи 100,00 динара једнократно.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Накнада за издавање новог лиценцног листа, због насталих промена у подацима са лиценцног листа, након издавања лиценце износи 200,00 динара једнократно.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Одлука ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, a објављује се након добијања сагласности од стране Министарства здравља Републике Србије.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Одлука се објављује и у Гласнику Коморе и интернет страници.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>У Београду, 28. фебруара 2017. године</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav4">
+						<content>
+							<p>Председник Скупштине Лекарске коморе Србије,</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav5">
+						<content>
+							<p>др sci мед. Јадранка Равић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

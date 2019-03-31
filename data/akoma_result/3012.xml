@@ -1,0 +1,768 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2006/26-14/main"/>
+					<FRBRuri value="/rs/act/2006/26-14"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2009/3-24/srp@/main"/>
+					<FRBRuri value="/rs/act/2009/3-24/srp@"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2009/3-24/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2009/3-24/srp@.akn"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2006-3-28" name="службени гласник рс“" number="26" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="1. Пензијско и инвалидско осигурање" value="1. пензијско и инвалидско осигурање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2006-03-24" id="usvajanje"/>
+				<step date="2006-03-29" id="stupanje_na_snagu"/>
+				<step date="2006-04-01" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="26/2006-14" id="e1" type="generation"/>
+				<eventRef date="3/2009-24" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Одлука је ступила на снагу наредног дана од дана објављивања у „Службеном гласнику РС”, односно 29. марта 2006. године, а примењује се од 1. априла 2006. године (види тачку 5. Одлуке).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 7. став 5. </ref>Закона о добровољним пензијским фондовима и пензијским плановима („<ref id="ref1" href="/rs/act/2005/85/srp@">Службени гласник РС”, број 85/2005</ref>),</p>
+			<p>Гувернер Народне банке Србије доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о структури и начину израчунавања капитала друштва за управљање добровољним пензијским фондом</title>
+			<date>„Службени гласник РС“, бр. 26  од 28. марта 2006, 3 од 16. јануара 2009.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Овом одлуком ближе се уређују структура и начин израчунавања капитала друштва за управљање добровољним пензијским фондом (у даљем тексту: друштво за управљање фондом).</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Структуру капитала друштва за управљање фондом (у даљем тексту: капитал) чине:*</heading>
+				<content>
+					<alinea id="od2-ali1">
+						<content>
+							<p>кцијски капитал,*</p>
+						</content>
+					</alinea>
+					<alinea id="od2-ali2">
+						<content>
+							<p>мисиона премија,*</p>
+						</content>
+					</alinea>
+					<alinea id="od2-ali3">
+						<content>
+							<p>аконске резерве,*</p>
+						</content>
+					</alinea>
+					<alinea id="od2-ali4">
+						<content>
+							<p>татутарне и сличне резерве,*</p>
+						</content>
+					</alinea>
+					<alinea id="od2-ali5">
+						<content>
+							<p>0% износа ревалоризационих резерви (осим нереализованих губитака по основу хартија од вредности),*</p>
+						</content>
+					</alinea>
+					<alinea id="od2-ali6">
+						<content>
+							<p>ераспоређена добит ранијих година,*</p>
+						</content>
+					</alinea>
+					<alinea id="od2-ali7">
+						<content>
+							<p>ереализовани губици по основу хартија од вредности, као одбитна ставка,*</p>
+						</content>
+					</alinea>
+					<alinea id="od2-ali8">
+						<content>
+							<p>епокривени губитак, као одбитна ставка,*</p>
+						</content>
+					</alinea>
+					<alinea id="od2-ali9">
+						<content>
+							<p>ткупљене сопствене акције, као одбитна ставка,*</p>
+						</content>
+					</alinea>
+					<alinea id="od2-ali10">
+						<content>
+							<p>еуплаћени уписани капитал, као одбитна ставка.*</p>
+						</content>
+					</alinea>
+					<clause id="od2-stav1">
+						<content>
+							<p>*<ref id="ref2" href="/rs/act/2009/3/srp@">Службени гласник, број 3/2009</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Начин обрачуна капитала приказан је у Прилогу 1, који је одштампан уз ову одлуку и њен је саставни део.</heading>
+				<content/>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Друштво за управљање фондом дужно је да Народну банку Србије обавештава о сваком смањењу капитала испод динарске противвредности износа од 1.000.000 евра, и то најкасније у року од пет дана од дана тог смањења.</heading>
+				<content/>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> Ова одлука ступа на снагу наредног дана од дана објављивања у „Службеном гласнику РС”, а примењује се од 1. априла 2006. године.</heading>
+				<content>
+					<clause id="od5-stav1">
+						<content>
+							<p>О. број 27</p>
+						</content>
+					</clause>
+					<clause id="od5-stav2">
+						<content>
+							<p>У Београду, 24. марта 2006. године</p>
+						</content>
+					</clause>
+					<clause id="od5-stav3">
+						<content>
+							<p>Гувернер</p>
+						</content>
+					</clause>
+					<clause id="od5-stav4">
+						<content>
+							<p>Народне банке Србије,</p>
+						</content>
+					</clause>
+					<clause id="od5-stav5">
+						<content>
+							<p>Радован Јелашић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="od5-stav6">
+						<content>
+							<p>Прилог 1*</p>
+						</content>
+					</clause>
+					<clause id="od5-stav7">
+						<content>
+							<p>ОБРАЧУН КАПИТАЛА*</p>
+						</content>
+					</clause>
+					<став id="od5-stav8">
+						<table border="1" cellpadding="0" class="MsoNormalTable">
+							
+		
+							<tbody>
+								<tr>
+									
+			
+									<td colspan="3" style="border-style:none; border-width:medium; padding:0.0625rem; " valign="top">
+										
+			
+										<p>
+			(у хиљадама динара)*</p>
+										
+		
+									</td>
+								</tr>
+								<tr>
+									
+			
+									<td style="width:10%;padding:0.0625rem; ; border-right-style:none; border-right-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			Редни број*</p>
+										
+			
+									</td>
+									
+			
+									<td align="left" style="width:70%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			Назив*</p>
+										
+			
+									</td>
+									
+			
+									<td style="width:20%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top" width="84">
+										
+			
+										<p>
+			Вредност*</p>
+										
+			
+									</td>
+									
+		
+								</tr>
+								
+		
+								<tr>
+									
+			
+									<td style="width:10%;padding:0.0625rem; ; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			1.*</p>
+										
+			
+									</td>
+									
+			
+									<td align="left" style="width:70%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			Акцијски капитал*</p>
+									</td>
+									
+			
+									<td style="width:20%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top" width="84">
+										
+			
+										<p>
+			</p>
+									</td>
+								</tr>
+								
+		
+								<tr>
+									
+			
+									<td style="width:10%;padding:0.0625rem; ; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			2.*</p>
+										
+			
+									</td>
+									
+			
+									<td align="left" style="width:70%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			Емисиона премија*</p>
+									</td>
+									
+			
+									<td style="width:20%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top" width="84">
+										
+			
+										<p>
+			</p>
+									</td>
+								</tr>
+								
+		
+								<tr>
+									
+			
+									<td align="left" style="width:10%;padding:0.0625rem; ; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			3.*</p>
+										
+			
+									</td>
+									
+			
+									<td align="left" style="width:70%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			Законске резерве*</p>
+									</td>
+									
+			
+									<td style="width:20%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top" width="84">
+										
+			
+										<p>
+			</p>
+									</td>
+								</tr>
+								
+		
+								<tr>
+									
+			
+									<td align="left" style="width:10%;padding:0.0625rem; ; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			4.*</p>
+										
+			
+									</td>
+									
+			
+									<td align="left" style="width:70%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			Статутарне и сличне резерве*</p>
+									</td>
+									
+			
+									<td style="width:20%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top" width="84">
+										
+			
+										<p>
+			</p>
+									</td>
+								</tr>
+								
+		
+								<tr>
+									
+			
+									<td align="left" style="width:10%;padding:0.0625rem; ; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			5.*</p>
+										
+			
+									</td>
+									
+			
+									<td align="left" style="width:70%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			50% износа ревалоризационих резерви*</p>
+										
+			
+									</td>
+									
+			
+									<td style="width:20%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top" width="84">
+										
+			
+										<p>
+			</p>
+									</td>
+								</tr>
+								
+		
+								<tr>
+									
+			
+									<td align="left" style="width:10%;padding:0.0625rem; ; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p/>
+										
+			
+									</td>
+									<td align="left" style="width:70%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			(осим нереализованих губитака по основу*</p>
+										
+			
+									</td>
+									
+			
+									<td style="width:20%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top" width="84">
+										
+			
+										<p>
+			</p>
+									</td>
+								</tr>
+								
+		
+								<tr>
+									
+			
+									<td align="left" style="width:10%;padding:0.0625rem; ; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			</p>
+										
+			
+									</td>
+									<td align="left" style="width:70%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			хартија од вредности)*</p>
+									</td>
+									
+			
+									<td style="width:20%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top" width="84">
+										
+			
+										<p>
+			</p>
+									</td>
+								</tr>
+								
+		
+								<tr>
+									
+			
+									<td align="left" style="width:10%;padding:0.0625rem; ; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			6.*</p>
+										
+			
+									</td>
+									
+			
+									<td align="left" style="width:70%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			Нераспоређена добит ранијих година*</p>
+										
+			
+									</td>
+									
+			
+									<td style="width:20%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top" width="84">
+										
+			
+										<p>
+			</p>
+									</td>
+								</tr>
+								
+		
+								<tr>
+									
+			
+									<td align="left" style="width:10%;padding:0.0625rem; ; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			7.*</p>
+										
+			
+									</td>
+									
+			
+									<td align="left" style="width:70%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			Укупно капитал пре одбитних ставки (1+2+3+4+5+6)*</p>
+										
+			
+									</td>
+									
+			
+									<td style="width:20%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top" width="84">
+										
+			
+										<p>
+			</p>
+									</td>
+								</tr>
+								
+		
+								<tr>
+									
+			
+									<td align="left" style="width:10%;padding:0.0625rem; ; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			8.*</p>
+										
+			
+									</td>
+									
+			
+									<td align="left" style="width:70%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			Нереализовани губици по основу хартија од вредности*</p>
+										
+			
+									</td>
+									
+			
+									<td style="width:20%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top" width="84">
+										
+			
+										<p>
+			</p>
+									</td>
+								</tr>
+								
+		
+								<tr>
+									
+			
+									<td align="left" style="width:10%;padding:0.0625rem; ; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			9.*</p>
+										
+			
+									</td>
+									
+			
+									<td align="left" style="width:70%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			Непокривени губитак*</p>
+									</td>
+									
+			
+									<td style="width:20%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top" width="84">
+										
+			
+										<p>
+			</p>
+									</td>
+								</tr>
+								
+		
+								<tr>
+									
+			
+									<td align="left" style="width:10%;padding:0.0625rem; ; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			10.*</p>
+										
+			
+									</td>
+									
+			
+									<td align="left" style="width:70%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			Откупљене сопствене акције*</p>
+									</td>
+									
+			
+									<td style="width:20%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top" width="84">
+										
+			
+										<p>
+			</p>
+									</td>
+								</tr>
+								
+		
+								<tr>
+									
+			
+									<td align="left" style="width:10%;padding:0.0625rem; ; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			11.*</p>
+										
+			
+									</td>
+									
+			
+									<td align="left" style="width:70%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			Неуплаћени уписани капитал*</p>
+									</td>
+									
+			
+									<td style="width:20%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top" width="84">
+										
+			
+										<p>
+			</p>
+									</td>
+								</tr>
+								
+		
+								<tr>
+									
+			
+									<td align="left" style="width:10%;padding:0.0625rem; ; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			12.*</p>
+										
+			
+									</td>
+									
+			
+									<td align="left" style="width:70%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			Укупно одбитне ставке (8+9+10+11)*</p>
+										
+			
+									</td>
+									
+			
+									<td style="width:20%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top" width="84">
+										
+			
+										<p>
+			</p>
+									</td>
+								</tr>
+								
+		
+								<tr>
+									
+			
+									<td style="width:10%;padding:0.0625rem; ; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			13.*</p>
+										
+			
+									</td>
+									
+			
+									<td align="left" style="width:70%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			Капитал (7-12)*</p>
+									</td>
+									
+			
+									<td style="width:20%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top" width="84">
+										
+			
+										<p>
+			</p>
+									</td>
+								</tr>
+								
+		
+								<tr>
+									
+			
+									<td style="width:10%;padding:0.0625rem; ; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			14.*</p>
+										
+			
+									</td>
+									
+			
+									<td align="left" style="width:70%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			Динарска противвредност износа од 1.000.000 евра*</p>
+										
+			
+									</td>
+									
+			
+									<td style="width:20%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top" width="84">
+										
+			
+										<p>
+			</p>
+									</td>
+								</tr>
+								
+		
+								<tr>
+									
+			
+									<td style="width:10%;padding:0.0625rem; ; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			15.*</p>
+										
+			
+									</td>
+									
+			
+									<td align="left" style="width:70%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top">
+										
+			
+										<p>
+			Разлика (13-14)*</p>
+									</td>
+									
+			
+									<td style="width:20%;padding:0.0625rem; ; border-left-style:none; border-left-width:medium; border-top-style:solid; border-top-width:0.0750000187500047rem; border-bottom-style:solid; border-bottom-width:0.0750000187500047rem" valign="top" width="84">
+										
+			
+										<p>
+			</p>
+									</td>
+								</tr>
+								
+	
+							</tbody>
+						</table>
+						
+
+						<content/>
+					</став>
+					<clause id="od5-stav9">
+						<content>
+							<p>*</p>
+						</content>
+					</clause>
+					<clause id="od5-stav10">
+						<content>
+							<p>*<ref id="ref3" href="/rs/act/2009/3/srp@">Службени гласник, број 3/2009</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

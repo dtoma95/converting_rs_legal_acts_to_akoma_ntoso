@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2000/21-593/main"/>
+					<FRBRuri value="/rs/act/2000/21-593"/>
+					<FRBRdate date="2000" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2000/23-629/srp@/main"/>
+					<FRBRuri value="/rs/act/2000/23-629/srp@"/>
+					<FRBRdate date="2000" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2000/23-629/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2000/23-629/srp@.akn"/>
+					<FRBRdate date="2000" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2000-6-9" name="службени гласник рс" number="21" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="XII ГРАЂЕВИНАРСТВО, ГРАЂЕВИНСКО ЗЕМЉИШТЕ И КОМУНАЛНОСТАМБЕНЕ ДЕЛАТНОСТИ" value="xii грађевинарство, грађевинско земљиште и комуналностамбене делатности"/>
+				<keyword id="grupa" showAs="5. Гробља и сахрањивање" value="5. гробља и сахрањивање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2000-06-07" id="usvajanje"/>
+				<step date="" id="stupanje_na_snagu"/>
+				<step date="" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="21/2000-593" id="e1" type="generation"/>
+				<eventRef date="23/2000-629" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 90. тачка 2</ref>. Устава Републике Србије</p>
+			<p>Влада Републике Србије доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>О ПОДИЗАЊУ СПОМЕН ОБЕЛЕЖЈА – СИМБОЛА ОТПОРА НАРОДА НАТО АГРЕСИЈИ</title>
+			<date>„Службени гласник РС”, број 21   од 9. јуна 2000, 23  од  27. јуна 2000.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Подиже се Спомен обележје „Вечна ватра  *” – симбол отпора народа НАТО агресији.</heading>
+				<content>
+					<clause id="od1-stav1">
+						<content>
+							<p>*<ref id="ref1" href="/rs/act/2000/23/srp@">Службени гласник РС, број 23/2000</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Спомен обележје из тачке 1. ове одлуке поставиће се у Новом Београду – блоку 14 (локација Ушће).</heading>
+				<content/>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Организацију и реализацију послова на подизању Спомен обележја из тачке 1. ове одлуке извршиће Републичка дирекција за обнову земље.</heading>
+				<content/>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Средства за подизање Спомен обележја обезбедиће се из донација предузећа – извођача радова на обнови земље, других предузећа, грађана Савезне Републике Југославије и страних правних и физичких лица.</heading>
+				<content/>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> Ову одлуку одбјавити у „Службеном гласнику Републике Србије”.</heading>
+				<content>
+					<clause id="od5-stav1">
+						<content>
+							<p>05 број 63-1896/2000-1</p>
+						</content>
+					</clause>
+					<clause id="od5-stav2">
+						<content>
+							<p>У Београду, 7. јуна 2000. године</p>
+						</content>
+					</clause>
+					<clause id="od5-stav3">
+						<content>
+							<p>Влада Републике Србије</p>
+						</content>
+					</clause>
+					<clause id="od5-stav4">
+						<content>
+							<p>Потпредседник,</p>
+						</content>
+					</clause>
+					<clause id="od5-stav5">
+						<content>
+							<p>проф. др Милован Бојић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

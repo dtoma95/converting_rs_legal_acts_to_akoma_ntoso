@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2011/30-8/main"/>
+					<FRBRuri value="/rs/act/2011/30-8"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/30-8/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/30-8/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/30-8/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/30-8/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2011-5-6" name="службени гласник рс" number="30" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="4. Заштита биља" value="4. заштита биља"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-03-15" id="usvajanje"/>
+				<step date="2011-05-14" id="stupanje_na_snagu"/>
+				<step date="2011-05-14" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 8. став 3, </ref><ref>члана 9. став 2. </ref>и <ref>члана 10. став 2. </ref>Закона о заштити права оплемењивача биљних сорти („<ref id="ref3" href="/rs/act/09/41/srp@">Службени гласник РС”, број 41/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, трговине, шумарства и водопривреде доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о методама испитивања различитости, униформности и стабилности биљне сорте</title>
+			<date>&quot;Службени гласник РС&quot;, број 30 од 6. маја 2011.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се методе испитивања различитости, униформности и стабилности биљне сорте (у даљем тексту: ДУС испитивање).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Поједини изрази употребљени у овом правилнику имају следеће значење:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> Опште упутство јесте упутство које прописује Међународна унија за заштиту нових биљних сорти (у даљем тексту: UPOV), а којим се одређују опште методе за извођење ДУС испитивања;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> Техничко упутство за појединачне биљне врсте или групе биљних сорти јесте упутство којим се разрађују методе садржане у Општем упутству и дају практичне смернице за извођење ДУС испитивања за сваку биљну врсту или групу биљних сорти, које садржи листу особина нове биљне сорте које обухвата ДУС испитивање, а које прописује UPOV.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>ДУС испитивање биљне сорте изводи се у складу са Општим упутством и Техничким упутствима за појединачне биљне врсте или групе биљних сорти.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Репродукциони материјал биљне сорте за извођење ДУС испитивања доставља се нетретиран, осим ако извођач огледа захтева или дозволи третирање.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Ако је репродукциони материјал биљне сорте третиран, о томе се доставља информација.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>ДУС испитивање подразумева упоређивање особина биљне сорте (у даљем тексту: сорта кандидат) са сортама референтне колекције, у циљу утврђивања различитости сорте кандидата у односу на било коју другу сорту чије је постојање општепознато у време подношења захтева за додељивање права оплемењивача, као и утврђивање униформности и стабилности.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>ДУС испитивања се врше одговарајућом методом, која, у зависности од типа испољавања (експресије) особине нове биљне сорте, може бити визуелно оцењивање и/или мерење степена испољавања (експресије) особина сорте кандидата.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Особине нове биљне сорте, у зависности од типа испољавања (експресије), могу бити квалитативне, квантитативне и псеудо-квалитативне.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>ДУС испитивање обухвата испитивање биљне сорте у огледном пољу и у лабораторији, у складу са законом којим се уређује заштита права оплемењивача биљних сорти.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>ДУС испитивање биљне сорте у огледном пољу траје најмање две године или два независна периода вегетације, а у случају да постоји потреба за потврђивањем различитости, испитивање може бити продужено.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>После прве године испитивања издаје се претходни извештај о обављеним испитивањима, резултатима испитивања и могућим проблемима у извођењу испитивања.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>По завршетку испитивања издаје се коначан извештај о спроведеном ДУС испитивању.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav5">
+						<content>
+							<p>Позитиван коначан извештај о ДУС испитивању у прилогу садржи опис сорте.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Број 110-00-00308/2010-09</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>У Београду, 15. марта 2011. године</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav5">
+						<content>
+							<p>Душан Петровић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

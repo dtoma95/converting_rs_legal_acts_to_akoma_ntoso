@@ -1,0 +1,262 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2001/43-1/main"/>
+					<FRBRuri value="/rs/act/2001/43-1"/>
+					<FRBRdate date="2001" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/92-12/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/92-12/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/92-12/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/92-12/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2001-7-17" name="службени гласник рс“" number="43" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Закон" value="закон"/>
+				<keyword id="oblast" showAs="I ДРЖАВНО УРЕЂЕЊЕ" value="i државно уређење"/>
+				<keyword id="grupa" showAs="4. Државни и други празници, годишњице и дани који се посебно обележавају" value="4. државни и други празници, годишњице и дани који се посебно обележавају"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2001-07-10" id="usvajanje"/>
+				<step date="2001-07-25" id="stupanje_na_snagu"/>
+				<step date="2001-07-25" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="43/2001-1" id="e1" type="generation"/>
+				<eventRef date="101/2007-5" id="e2" type="amendment"/>
+				<eventRef date="92/2011-12" id="e3" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Закон је ступио на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије, односно 25. јула 2001. године (види <ref>члан 7. </ref>Закона).</p>
+				</note>
+				<note id="not2">
+					<p>Закон је ступио на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије, односно 25. јула 2001. године (види <ref>члан 7. </ref>Закона).</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<title>ЗАКОН</title>
+			<title>о  државним и другим празницима у Републици Србији</title>
+			<date>„Службени   гласник РС“, бр. 43 од 17. јула  2001, 101 од 6. новембра  2007,  92 од 7. децембра 2011.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Државни празник Републике Србије јесте Сретење – Дан државности Србије, спомен на дан када је на збору у Орашцу 1804. године дигнут Први српски устанак и дан када је у Крагујевцу 1835. године издан и заклетвом потврђен први Устав Књажевства Сербије.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Сретење – Дан државности Србије празнује се  15. и 16. фебруара.</p>
+						</content>
+					</clause>
+					<article id="clan1.а">
+						<num>1а</num>
+						<heading>*<ref id="ref3" href="/rs/act/2011/92/srp@">Службени гласник РС, број 92/2011</ref></heading>
+						<content>
+							<clause id="clan1.а-stav1">
+								<content>
+									<p>Државни празници Републике Србије јесу и Нова година, Празник рада, Дан победе и Дан примирја у  Првом светском рату.</p>
+								</content>
+							</clause>
+							<clause id="clan1.а-stav2">
+								<content>
+									<p>Нова година празнује се 1. и 2. јануара, Празник  рада – 1. и 2. маја, Дан  победе 9. маја а Дан примирја у Првом  светском рату 11. новембра.</p>
+								</content>
+							</clause>
+							<clause id="clan1.а-stav3">
+								<content>
+									<p>*<ref id="ref4" href="/rs/act/2007/101/srp@">Службени гласник РС, број 101/2007</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>**<ref id="ref5" href="/rs/act/2011/92/srp@">Службени гласник РС, број 92/2011</ref></heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>У Републици Србији празнују се верски празници:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> први дан Божића (7. јануар);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> Васкршњи празници почев од Великог петка закључно са другим даном Васкрса.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>У дане државних и верских празника који се празнују у Републици Србији не раде државни и други органи, привредна друштва и други облици организовања за обављање делатности или услуга, осим на Дан победе који се празнује радно.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Државни и други органи, привредна друштва и други облици организовања за обављање делатности или услуга дужни су да, у складу са законом и прописима донесеним на основу закона, обезбеде непрекидно обављање делатности, односно услуга и у дане државних и верских празника који се празнују у Републици Србији ако би због прекида обављања делатности, односно услуга настале штетне последице за грађане и државу.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Привредна друштва и други облици организовања за обављање делатности или услуга чија природа делатности, односно технологија процеса рада захтева непрекидан рад, могу да раде и у дане државних и верских празника који се празнују у Републици Србији.</p>
+						</content>
+					</clause>
+					<article id="clan3.а">
+						<num>3а</num>
+						<heading>*<ref id="ref6" href="/rs/act/2007/101/srp@">Службени гласник РС, број 101/2007</ref></heading>
+						<content>
+							<clause id="clan3.а-stav1">
+								<content>
+									<p>Ако један од датума када се празнују државни празници Републике Србије падне у  недељу, не ради се првог наредног радног дана.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>*<ref id="ref7" href="/rs/act/2007/101/srp@">Службени гласник РС, број 101/2007</ref></heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Запослени имају право да не раде у дане следећих верских празника, и то:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> православци – на први дан крсне славе;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> католици и припадници других хришћанских верских заједница – на први дан Божића и у дане Ускршњих празника почев од Великог петка закључно са другим даном Ускрса, према њиховом календару;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> припадници исламске заједнице – на први дан Рамазанског бајрама и први дан Курбанског бајрама;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> припадници јеврејске заједнице – на први дан Јом Кипура.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>У Републици Србији се празнује и обележава радно Свети Сава – Дан духовности,  Видовдан – спомен на Косовску битку, Дан сећања на жртве холокауста, геноцида и  других жртава фашизма у Другом светском рату и Дан сећања на српске жртве у  Другом светском рату – спомен на 21. октобар 1941. године и крваву јесен 1941.  године када су немачке окупационе снаге извршиле масовни ратни злочин над  цивилима у Крагујевцу и широм Србије.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Свети Сава празнује се 27. јануара, Дан сећања на жртве холокауста, геноцида и  других жртава фашизма у Другом светском рату – 22. априла, Видовдан 28. јуна,  Дан сећања на српске жртве у Другом светском рату – 21. октобра.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<heading>*<ref id="ref8" href="/rs/act/2011/92/srp@">Службени гласник РС, број 92/2011</ref></heading>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Даном ступања на снагу овог закона престају да важе:</p>
+							<point id="clan6-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> Закон о државним и другим празницима у Републици Србији („<ref id="ref9" href="/rs/act/77/23/srp@">Службени гласник СРС&quot;, бр. 23/77</ref> и 13/90 и „<ref id="ref10" href="/rs/act/91/78/srp@">Службени гласник РС&quot;, бр. 78/91</ref> и 55/96),</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> <ref>члан 60. </ref>Закона о радним односима („<ref id="ref11" href="/rs/act/96/55/srp@">Службени гласник РС&quot;, бр. 55/96</ref> и 28/2001).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Овај закон ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије&quot;.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>ОДРЕДБЕ КОЈЕ НИСУ УНЕТЕ У &quot;ПРЕЧИШЋЕН ТЕКСТ&quot; ЗАКОНА</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>Закона о изменама и допунама Закона о државним и другим празницима у Републици Србији: &quot;<ref id="ref12" href="/rs/act/2007/101/srp@">Службени гласник РС&quot;, број 101/2007</ref>-5</heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Престаје да важи Закон о државним празницима Савезне Републике Југославије („<ref id="ref13" href="/rs/act/97/29/srp@">Службени лист СРЈ”, бр. 29/97</ref> и 63/02).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Овај закон ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

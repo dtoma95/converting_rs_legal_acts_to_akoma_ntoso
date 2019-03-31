@@ -1,0 +1,237 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1986/70-2073/main"/>
+					<FRBRuri value="/rs/act/1986/70-2073"/>
+					<FRBRdate date="1986" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1986/70-2073/srp@/main"/>
+					<FRBRuri value="/rs/act/1986/70-2073/srp@"/>
+					<FRBRdate date="1986" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1986/70-2073/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1986/70-2073/srp@.akn"/>
+					<FRBRdate date="1986" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1986-12-26" name="службени лист сфрј" number="70" showAs="Службени лист СФРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="10. Лично име, лична карта, матични број грађана" value="10. лично име, лична карта, матични број грађана"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1986-12-11" id="usvajanje"/>
+				<step date="1987-01-03" id="stupanje_na_snagu"/>
+				<step date="1987-01-03" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу осмог дана од дана објављивања у „Службеном листу СФРЈ, односно 3. јануара 1987. године (види <ref>члан 11. </ref>Уредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<authority>На основу <ref>члана 5. </ref>Закона о јединственом регистру становништва („<ref id="ref7" href="/rs/act/86/24/srp@">Службени лист СФРЈ“, бр. 24/86</ref>), Савезно извршно веће доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о  јединственом начину обезбеђивања података о грађанима, који се уносе у  јединствени регистар становништва и о јединственом начину вођења регистра</title>
+			<date>„Службени лист СФРЈ”, број 70 од 26. децембра 1986.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овом уредбом прописује се јединствен начин обезбеђивања података о грађанима, који се уносе у јединствени регистар становништва (у даљем тексту: регистар) и јединствен начин вођења регистра, евидентирања промена података, размене података и исказивања и давања података из регистра.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Орган, односно организација надлежна за вођење регистра уводи регистар евидентирањем података из <ref>члана 2. </ref>тач. 1. до 4. Закона о јединственом регистру становништва (у даљем тексту: Закон) за све грађане са свог подручја, које обезбеђује из евиденције пребивалишта грађана и евиденције одређених јединствених матичних бројева грађана.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Проверу и допуну података из става 1. овог члана орган, односно организација која води регистар врши преко матичних књига.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Органи, односно организације које воде евиденцију пребивалишта, евиденцију одређених јединствених матичних бројева грађана и матичне књиге дужни су да достављају тражене податке органима, односно организацијама које воде регистар.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Након увођења регистра, надлежни органи који воде податке о грађанима који се евидентирају у регистру из <ref>члана 2. </ref>тач. 1. до 4. Закона дужни су да достављају те податке надлежним органима или организацијама које воде регистар, и то:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> органи који воде евиденцију пребивалишта – о грађанима који су пријавили промену адресе стана;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> органи који воде матичне књиге – о грађанима који су рођени и умрли;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> органи надлежни за пријем и отпуст из држављанства СФРЈ – о грађанима којима је престало држављанство СФРЈ и лицима која су примљена у држављанство СФРЈ;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> органи надлежни за промену имена и презимена – о променама имена и презимена грађана;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> органи, односно организације које одређују јединствени матични број грађана – о изменама јединственог матичног броја грађана.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Органи, односно организације из <ref>члана 3. </ref>ове уредбе податке о грађанима достављају у року предвиђеном републичким, односно покрајинским прописима, а најдоцније у року од 30 дана од дана евидентирања тих података.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Регистар се води на начин којим се обезбеђује текуће исказивање и давање индивидуалних и збирних података о грађанима.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Подаци садржани у регистру евидентирају се на начин који се примењује у евиденцијама које служе као извор за обезбеђивање података за регистар.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Орган, односно организација која води регистар дужан је да евидентира сваку промену података у регистру у року предвиђеном републичким, односно покрајинским прописима, а најдоцније у року од осам дана од дана пријема извештаја о промени.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Орган, односно организација која је евидентирала податке о грађанину у регистру пре промене пребивалишта дужна је да, на захтев органа или организације на чијем подручју је ново пребивалиште грађанина, достави податке из <ref>члана 2. </ref>Закона у року предвиђеном републичким, односно покрајинским прописима, а најдоцније у року од 15 дана од дана пријема захтева.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Након увођења регистра, орган, односно организација која води регистар дужна је да у регистар евидентира датум уписа, односно исписа грађана из регистра и датум промене података садржаних у регистру.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content/>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<heading>Након увођења регистра, односно уписа у регистар, орган, односно организација која води регистар дужна је да све податке о грађанима из <ref>члана 2. </ref>Закона евидентира на начин којим се обезбеђује трајно чување свих промењених података и могућност њиховог накнадног коришћења</heading>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Органи, односно организације које воде регистар дужне су да међусобно размењују податке из регистра. Тражене податке из регистра ти органи, односно организације дужне су да достављају најдоцније у року од 30 дана од дана подношења захтева.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Ова уредба ступа на снагу осмог дана од дана објављивања у „Службеном листу СФРЈ&quot;.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Е. п. бр. 505</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<section id="od11">
+				<num>11.</num>
+				<heading> децембра 1986. године</heading>
+				<content>
+					<clause id="od11-clan11-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od11-clan11-stav2">
+						<content>
+							<p>Савезно извршно веће</p>
+						</content>
+					</clause>
+					<clause id="od11-clan11-stav3">
+						<content>
+							<p>Потпредседник,</p>
+						</content>
+					</clause>
+					<clause id="od11-clan11-stav4">
+						<content>
+							<p>Милош Милосављевић, с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

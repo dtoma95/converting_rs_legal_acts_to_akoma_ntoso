@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2009/104-156/main"/>
+					<FRBRuri value="/rs/act/2009/104-156"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2010/81-37/srp@/main"/>
+					<FRBRuri value="/rs/act/2010/81-37/srp@"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2010/81-37/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2010/81-37/srp@.akn"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="15. Управљање отпадом" value="15. управљање отпадом"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2009-12-09" id="usvajanje"/>
+				<step date="2009-12-24" id="stupanje_na_snagu"/>
+				<step date="2009-12-24" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="104/2009-156" id="e1" type="generation"/>
+				<eventRef date="81/2010-37" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<body/>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,232 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2006/5-17/main"/>
+					<FRBRuri value="/rs/act/2006/5-17"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2006/5-17/srp@/main"/>
+					<FRBRuri value="/rs/act/2006/5-17/srp@"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2006/5-17/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2006/5-17/srp@.akn"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2006-1-20" name="“службени гласник рс" number="5" showAs="“Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="6. Дуван" value="6. дуван"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2005-12-29" id="usvajanje"/>
+				<step date="2006-01-21" id="stupanje_na_snagu"/>
+				<step date="2006-01-21" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 7. став 5. </ref>Закона о дувану („<ref id="ref2" href="/rs/act/05/101/srp@">Службени гласник РС”, број 101/05</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, шумарства и водопривреде, доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о садржини и начину вођења евиденције од стране произвођача и обрађивача дувана</title>
+			<date>“Службени гласник РС”, број  5    од  20. јануара 2006.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником ближе се прописује садржина и начин вођења евиденције, коју у вези са производњом и обрадом дувана воде произвођачи и обрађивачи дувана.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Произвођач дувана, који је уписан у Регистар произвођача дувана код Управе за дуван као органа управе у саставу Министарства финансија (у даљем тексту: Управа), дужан је да води евиденцију у вези са производњом дувана која садржи податке о:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> укупној производњи дувана: укупно планираној производњи дувана, укупној сопственој и уговореној производњи дувана, укупно заснованој производњи дувана (расађен дуван) и укупно заснованој производњи дувана (однегован дуван по типовима дувана) на обрасцу број 1. Евиденција о укупној производњи дувана, који је одштампан уз овај правилник и чини његов саставни део;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> употребљеном семену за производњу дувана: о пореклу и количини семена намењеног за сетву, на обрасцу број 2. Евиденција о употребљеном семену за производњу дувана, који је одштампан уз овај правилник и чини његов саставни део;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> производњи дувана по свакој парцели и по сваком уговору: о сопственој и уговореној производњи, заснованој производњи дувана (расађен дуван) и заснованој производњи дувана (однегован дуван) и бројевима катастарских парцела, на обрасцу број 3. Евиденција о производњи дувана по свакој парцели и по сваком уговору, који је одштампан уз овај правилник и чини његов саставни део;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> произведеним и откупљеним количинама дувана: о количинама произведеног сопственог дувана, количини откупљеног дувана од произвођача дувана физичких лица, укупним количинама произведеног дувана и укупне количине продатог дувана, на обрасцу број 4. Евиденција о произведеним и откупљеним количинама дувана, који је одштампан уз овај правилник и чини његов саставни део;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> физичким лицима – произвођачима дувана на обрасцу број 5. Евиденција физичких лица, који је одштампан уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Обрађивач дувана који је уписан у Регистар обрађивача дувана код Управе дужан је да води евиденцију у вези са обрадом дувана, која садржи податке о:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> плану обраде дувана;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> количинама запримљеног дувана из сопствене производње;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> количинама купљеног дувана од других произвођача;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> количинама обрађеног дувана;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> количинама услужно обрађеног дувана;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> количинама укупно обрађеног дувана;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> количинама продатог обрађеног дувана;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> количинама обрађеног дувана на залихама.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Обрађивач дувана из става 1. овог члана води евиденцију на обрасцу број 6. Подаци о обради дувана, који је одштампан уз овај правилник и чине његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Ако је обрађивач дувана из става 1. овог члана истовремено уписан у Регистар произвођача дувана, дужан је да води и евиденцију из <ref>члана 2. овог</ref> правилника на обрасцима од бр. 1. до бр. 5.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу наредног дана од објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Број 110-00-00148/2005-09</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>У Београду, 29. децембра 2005. године</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav5">
+						<content>
+							<p>Ивана Дулић-Марковић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav6">
+						<content>
+							<p>Прилози</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav7">
+						<content>
+							<p>Образац бр. 1 -   Евиденција о  укупној производњи дувана</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav8">
+						<content>
+							<p>Образац бр. 2 -    Евиденција о употребљеном семену за  производњу дувана</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav9">
+						<content>
+							<p>Образац бр. 3 -  Евиденција о производњи дувана по  свакој парцели и по сваком уговору</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav10">
+						<content>
+							<p>Образац бр. 4 -   Евиденција о произведеним и откупљеним  количинама дувана</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav11">
+						<content>
+							<p>Образац бр. 5 -   Евиденција физичких  лица</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

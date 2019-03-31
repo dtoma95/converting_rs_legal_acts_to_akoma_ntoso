@@ -1,0 +1,278 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1997/27-557/main"/>
+					<FRBRuri value="/rs/act/1997/27-557"/>
+					<FRBRdate date="1997" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2009/82-20/srp@/main"/>
+					<FRBRuri value="/rs/act/2009/82-20/srp@"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2009/82-20/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2009/82-20/srp@.akn"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1997-6-26" name="службени гласник рс" number="27" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Упутство" value="упутство"/>
+				<keyword id="oblast" showAs="XII ГРАЂЕВИНАРСТВО, ГРАЂЕВИНСКО ЗЕМЉИШТЕ И КОМУНАЛНОСТАМБЕНЕ ДЕЛАТНОСТИ" value="xii грађевинарство, грађевинско земљиште и комуналностамбене делатности"/>
+				<keyword id="grupa" showAs="3. Становање и одржавање стамбених зграда" value="3. становање и одржавање стамбених зграда"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1997-06-17" id="usvajanje"/>
+				<step date="1997-06-27" id="stupanje_na_snagu"/>
+				<step date="1997-06-27" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="27/1997-557" id="e1" type="generation"/>
+				<eventRef date="43/2001-26" id="e2" type="amendment"/>
+				<eventRef date="28/2002-9" id="e3" type="amendment"/>
+				<eventRef date="82/2009-20" id="e4" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<body>
+			<clause id="stav1">
+				<content>
+					<p>На основу  <ref>члана 32. </ref>Закона о становању („<ref id="ref1" href="/rs/act/92/50/srp@">Службени гласник РС“, бр. 50/92, 76/92, 84/92, 33/93, 53/93, 67/93, 46/94, 47/94, 48/94, 44/95, 49/95</ref> и 16/97),</p>
+				</content>
+			</clause>
+			<clause id="stav2">
+				<content>
+					<p>Министар грађевина доноси</p>
+				</content>
+			</clause>
+			<clause id="stav3">
+				<content>
+					<p>УПУТСТВО</p>
+				</content>
+			</clause>
+			<clause id="stav4">
+				<content>
+					<p>о начину утврђивања закупнине</p>
+				</content>
+			</clause>
+			<clause id="stav5">
+				<content>
+					<p>„Службени гласник РС&quot;, бр. 27 од 26.  јуна 1997, 43 од 17.  јула 2001, 28 од 29.  маја 2002, 82 од 6. октобра 2009.</p>
+				</content>
+			</clause>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Овим упутством ближе се прописује начин утврђивања висине месечне закупнине за стан у друштвеној, државној и својини грађана који се користи на неодређено време.</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Закупнина се утврђује на основу броја бодова, површине стана и коефицијента и израчунава се према следећој формули:</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>Зк = Бб х По х Ко</p>
+						</content>
+					</clause>
+					<clause id="od2-stav2">
+						<content>
+							<p>Зк – месечна закупнина</p>
+						</content>
+					</clause>
+					<clause id="od2-stav3">
+						<content>
+							<p>Бб – број бодова</p>
+						</content>
+					</clause>
+					<clause id="od2-stav4">
+						<content>
+							<p>По – површина стана у м2</p>
+						</content>
+					</clause>
+					<clause id="od2-stav5">
+						<content>
+							<p>Ко – коефицијент</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Број бодова конкретног стана утврђује се на основу Листе за утврђивање квалитета зграде и стана која је одштампана у прилогу овог упутства и чини његов саставни део.</heading>
+				<content/>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Коефицијент се добија тако што се износ у висини од   15% просечне месечне зараде без пореза и доприноса у Републици Србији* у претходном обрачунском периоду ставља наспрам броја бодова стана просечне опремљености (600 бодова) и површине стана 56 м2 и израчунава се према следећој формули:</heading>
+				<content>
+					<став id="od4-stav1">
+						<table align="center" border="0" cellpadding="0" class="MsoNormalTable" style="width:12.5rem" width="200">
+							
+	
+							<tbody>
+								<tr>
+									
+		
+									<td style="width:48.5%;padding:0.0625rem .6.25rem .6.25rem .6.25rem" width="48%">
+										
+		
+										<p>
+		</p>
+									</td>
+									<td style="width:48.5%;padding:0.0625rem .6.25rem .6.25rem .6.25rem" width="48%">
+										
+		
+										<p>
+		Из</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:48.5%;padding:0.0625rem .6.25rem .6.25rem .6.25rem" width="48%">
+										
+		
+										<p>
+		Ко =</p>
+										
+		
+									</td>
+									
+		
+									<td style="width:48.5%;padding:0.0625rem .6.25rem .6.25rem .6.25rem" width="48%">
+										
+		
+										<p>
+		––––––––</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:48.5%;padding:0.0625rem .6.25rem .6.25rem .6.25rem" width="48%">
+										
+		
+										<p>
+		</p>
+									</td>
+									<td style="width:48.5%;padding:0.0625rem .6.25rem .6.25rem .6.25rem" width="48%">
+										
+		
+										<p>
+		Бб х По</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+
+							</tbody>
+						</table>
+						
+
+						<content/>
+					</став>
+					<clause id="od4-stav2">
+						<content>
+							<p>Из - износ у висини 15% просечне месечне зараде без пореза и доприноса у Републици Србији у претходном обрачунском периоду*</p>
+						</content>
+					</clause>
+					<clause id="od4-stav3">
+						<content>
+							<p>Бб – број бодова стана просечне опремљености (600 бодова)</p>
+						</content>
+					</clause>
+					<clause id="od4-stav4">
+						<content>
+							<p>По – корисна површина стана 56 м2</p>
+						</content>
+					</clause>
+					<clause id="od4-stav5">
+						<content>
+							<p>*<ref id="ref2" href="/rs/act/2009/82/srp@">Службени гласник РС, број  82/2009</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> Ово упутство ступа на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије&quot;.</heading>
+				<content>
+					<clause id="od5-stav1">
+						<content>
+							<p>Број 011-00-79/97-02</p>
+						</content>
+					</clause>
+					<clause id="od5-stav2">
+						<content>
+							<p>У Београду, 17. јуна 1997. године</p>
+						</content>
+					</clause>
+					<clause id="od5-stav3">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="od5-stav4">
+						<content>
+							<p>проф. др  Бранислав Ивковић,   с.р.</p>
+						</content>
+					</clause>
+					<став id="od5-stav5">
+						<img height="891" id="Picture 1" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/6d8c27e2-5f0e-4666-9a4e-f798ee1b4e50.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419555&amp;regactid=419555" width="605"/>
+						<content/>
+					</став>
+					<став id="od5-stav6">
+						<img height="898" id="Picture 2" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/afc331bc-3459-4f96-825c-0e547cd556ed.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419555&amp;regactid=419555" width="605"/>
+						<content/>
+					</став>
+					<став id="od5-stav7">
+						<img height="898" id="Picture 3" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/86200801-f5cd-4082-8b25-39f5148ee961.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419555&amp;regactid=419555" width="605"/>
+						<content/>
+					</став>
+					<став id="od5-stav8">
+						<img height="888" id="Picture 4" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/911332da-2259-44c8-9294-48fc2f0d72a9.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419555&amp;regactid=419555" width="605"/>
+						<content/>
+					</став>
+					<став id="od5-stav9">
+						<img height="921" id="Picture 5" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/85711454-39f5-46aa-bc24-9b43595acb18.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419555&amp;regactid=419555" width="604"/>
+						<content/>
+					</став>
+					<став id="od5-stav10">
+						<img height="903" id="Picture 6" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/3fba9798-0940-4a9c-afee-f5794b135494.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419555&amp;regactid=419555" width="605"/>
+						<content/>
+					</став>
+					<став id="od5-stav11">
+						<img height="830" id="Picture 7" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/5deb2955-252e-4bc8-86c1-1d904cf468ba.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419555&amp;regactid=419555" width="605"/>
+						<content/>
+					</став>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

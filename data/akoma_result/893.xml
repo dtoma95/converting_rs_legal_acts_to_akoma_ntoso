@@ -1,0 +1,483 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2011/67-44/main"/>
+					<FRBRuri value="/rs/act/2011/67-44"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2017/61-84/srp@/main"/>
+					<FRBRuri value="/rs/act/2017/61-84/srp@"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2017/61-84/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2017/61-84/srp@.akn"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2011-9-13" name="службени гласник рс" number="67" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="5. Алкохолна пића" value="5. алкохолна пића"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-09-01" id="usvajanje"/>
+				<step date="2011-09-21" id="stupanje_na_snagu"/>
+				<step date="2011-10-01" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="67/2011-44" id="e1" type="generation"/>
+				<eventRef date="61/2017-84" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник је ступио на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 21. септембра 2011. године, а примењује се од 1. октобра 2011. године (види <ref>члан 11. </ref>Правилника).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу <ref>члана 18. став 6. </ref>Закона о вину („<ref id="ref7" href="/rs/act/09/41/srp@">Службени гласник РС”, број 41/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, трговине, шумарства и водопривреде, доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о садржини и начину вођења Винарског регистра, као и о обрасцу захтева за упис у Винарски регистар</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 67 од 13. септембра 2011,   61 од 23. јуна 2017.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником ближе се прописује садржина и начин вођења Винарског регистра, као и образац захтева за упис у Винарски регистар.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Поједини изрази употребљени у овом правилнику имају следеће значење:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> брисана је (види <ref>члан 1. </ref>Правилника -   61/2017-84)</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> Винарски регистар јесте база података о произвођачима и њиховим винима, као и о другим подацима у складу са овим правилником;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> брисана је (види <ref>члан 1. </ref>Правилника -   61/2017-84)</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> произвођач шире, вина и других производа јесте правно лице, односно предузетник који се бави производњом шире, вина и других производа и који је уписан у Винарски регистар (у даљем тексту: произвођач);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> тржишна винска година јесте година у којој се у потпуности или делимично обавља производња вина, односно других производа и која траје од 1. августа у години у којој је обављена берба грожђа до 31. јула наредне календарске године  (у даљем тексту: винска година);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> пријава производње јесте годишња промена података о производњи шире, вина и других производа од грожђа са родних виноградарских парцела уписаних у Виноградарски регистар, односно од увезеног грожђа, вина и других производа за дату  винску годину која се пријављује сваке године до   31. децембра;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> пријава залиха јесте годишња промена података о залихама вина и других производа за дату  винску годину на дан 31. јул коју произвођач и трговац вином који има просек годишње продаје вина већи од 100.000 литара, пријављују сваке године до 31. августа;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> регистарски број произвођача јесте јединствен, непоновљив број који се трајно додељује сваком произвођачу уписаном у Винарски регистар (у даљем тексту: регистарски број).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>*<ref id="ref8" href="/rs/act/2017/61/srp@">Службени гласник РС, број 61/2017</ref></heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Винарски регистар (у даљем тексту: Регистар) садржи:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> податке о произвођачу, односно пуниоцу (назив, седиште, адреса, матични број, порески идентификациони број);</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> податке о одговорном лицу;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> шифру делатности;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> податке о производњи, сировинама и готовим производима;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> податке о производним погонима и складиштима;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> податке о технолошкој опреми за прераду и за пуњење вина;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> податке о судовима за производњу, одлежавање и складиштење (чување) вина и других производа;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> податке о лабораторијским инструментима;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> податке о пријављеним, односно регистрованим жиговима;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> податке о стандардима квалитета и сертификатима;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> податке о обиму годишње продаје и броју боца;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> податке о пријави производње;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> податке о пријави залиха.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Регистар се води у електронској форми и може се повезивати са другим базама и регистрима министарства надлежног за послове пољопривреде (у даљем тексту: Министарство).</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Регистар из става 1. овог члана може се водити и у облику регистарске књиге на основу података из Регистра у електронској форми.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>На насловној страни регистарске књиге ставља се печат Министарства, назив регистра и редни број књиге.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Регистарска књига састоји се из регистарских уложака који се формирају за сваког уписаног произвођача са његовим винима и другим производима.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Регистарски улошци из става 1. овог члана састоје се од омота у који се улаже документација од значаја за упис, промену података, упис података о пријави производње, упис података о пријави залиха и брисање из Регистра.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>У једном регистарском улошку могу се водити подаци само за једног произвођача.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>Сви омоти регистарског улошка су нумерисани, а сва документација се трајно чува у складу са прописима којима се уређује архивска грађа.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Упис у Регистар врши се на основу решења министра надлежног за послове пољопривреде о испуњености услова у погледу објеката, просторија, техничких услова, опреме, судова и уређаја, као и у погледу стручног кадра и приликом уписа у Регистар додељује му се регистарски број  .</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Произвођач може да има само један регистарски број.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>Регистарски број који је једном додељен не може се мењати.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav4">
+						<content>
+							<p>Регистарски број који је додељен једном произвођачу не може бити додељен неком другом произвођачу у случају његовог брисања из Регистра.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<heading>*<ref id="ref9" href="/rs/act/2017/61/srp@">Службени гласник РС, број 61/2017</ref></heading>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>У Регистар се уписују и промене података.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Свака промена података уписаних у Регистар пријављује се Министарству у року од 15 дана од дана настале промене, у складу са Законом о вину  .</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>Набавка опреме, судова, односно лабораторијских инструмената чији капацитет није већи од   30 % од укупног капацитета у винарији у односу на последње стање, односно промену се не сматра променом.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>Брисан је ранији став 4. (види <ref>члан 3. </ref>Правилника   - 61/2017-84)</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<heading>*<ref id="ref10" href="/rs/act/2017/61/srp@">Службени гласник РС, број 61/2017</ref></heading>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Произвођач се брише из Регистра, на основу решења министра надлежног за послове пољопривреде, ако поднесе захтев за брисање на основу одлуке о престанку обављања делатности.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Министарство може и по службеној дужности да покрене поступак за брисање из Регистра.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>Брисање из Регистра врши се повлачењем дијагоналне линије преко свих рубрика осим рубрике „промене” у коју се уноси број и датум акта на основу кога је извршена промена, односно брисање произвођача из Регистра.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Упис у Регистар врши се на основу захтева произвођача, у складу са Законом о вину.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Захтев из става 1. овог члана подноси се   Министарству пољопривреде и заштите животне средине, Београд, Немањина 22–26.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav3">
+						<content>
+							<p>Захтев из става 1. овог члана подноси се на Обрасцу ВВ 2 – Захтев за упис у Винарски регистар који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<heading>*<ref id="ref11" href="/rs/act/2017/61/srp@">Службени гласник РС, број 61/2017</ref></heading>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Уз захтев за упис у Регистар подноси се:</p>
+							<point id="clan10-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> извод из Регистра привредних субјеката;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> документација којом се потврђује испуњеност услова у погледу стручног кадра (стручно лице);</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> документација којом се потврђује власништво,   закуп, односно коришћење објеката, односно просторија за производњу вина;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> брисана је (види <ref>члан 4. </ref>Правилника -   61/2017-84)</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> доказ о уплаћеној административној такси за упис произвођача у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> доказ о уплаћеној накнади трошкова за утврђивање услова за обављање производње шире, вина и других производа.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Ако подносилац захтева не достави потребну   документацију из става 1. тачка 1) овог члана, Министарство по службеној   дужности од надлежних органа прибавља податке о чињеницама о којима се води   службена евиденција у складу са законом који уређује општи управни поступак.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<heading>*<ref id="ref12" href="/rs/act/2017/61/srp@">Службени гласник РС, број 61/2017</ref>)</heading>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије” а примењује се од 1. октобра 2011. године.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Број 110-00-183/2011-09</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav3">
+						<content>
+							<p>У Београду, 1. септембра 2011. године</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav5">
+						<content>
+							<p>Душан Петровић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav6">
+						<content>
+							<p>Прилози:</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav7">
+						<content>
+							<p>НАПОМЕНА   ИЗДАВАЧА: Правилником о изменама и допунама Правилника о садржини и начину вођења Винарског регистра, као и о обрасцу захтева за упис у Винарски регистар   (&quot;<ref id="ref13" href="/rs/act/2017/61/srp@">Службени гласник РС&quot;, број 61/2017</ref>) Образац ВВ2 – Захтев за упис у   Винарски регистар замењен је новим обрасцем (види <ref>члан 4. </ref>Правилника -   61/2017-84).</p>
+						</content>
+					</clause>
+					<став id="clan11-stav8">
+						<img src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/img3.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423244&amp;regactid=423244"/>
+						<content/>
+					</став>
+					<став id="clan11-stav9">
+						<img src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/img5.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423244&amp;regactid=423244"/>
+						<content/>
+					</став>
+					<став id="clan11-stav10">
+						<img src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/img7.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423244&amp;regactid=423244"/>
+						<content/>
+					</став>
+					<став id="clan11-stav11">
+						<img src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/img9.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423244&amp;regactid=423244"/>
+						<content/>
+					</став>
+					<став id="clan11-stav12">
+						<img src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/imgB.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423244&amp;regactid=423244"/>
+						<content/>
+					</став>
+					<став id="clan11-stav13">
+						<img src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/imgD.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423244&amp;regactid=423244"/>
+						<content/>
+					</став>
+					<став id="clan11-stav14">
+						<img src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/imgF.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423244&amp;regactid=423244"/>
+						<content/>
+					</став>
+					<став id="clan11-stav15">
+						<img src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/img11.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423244&amp;regactid=423244"/>
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

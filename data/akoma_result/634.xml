@@ -1,0 +1,1136 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2008/31-27/main"/>
+					<FRBRuri value="/rs/act/2008/31-27"/>
+					<FRBRdate date="2008" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2014/140-45/srp@/main"/>
+					<FRBRuri value="/rs/act/2014/140-45/srp@"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2014/140-45/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2014/140-45/srp@.akn"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2008-3-28" name="службени гласник рс“" number="31" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Статут" value="статут"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="1. Пензијско и инвалидско осигурање" value="1. пензијско и инвалидско осигурање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2008-02-07" id="usvajanje"/>
+				<step date="2008-04-05" id="stupanje_na_snagu"/>
+				<step date="2008-04-05" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="31/2008-27" id="e1" type="generation"/>
+				<eventRef date="37/2008-45" id="e2" type="amendment"/>
+				<eventRef date="140/2014-45" id="e3" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На  основу <ref>члана 160. став 1. тачка 1</ref>) Закона о пензијском и инвалидском осигурању  („<ref id="ref9" href="/rs/act/03/34/srp@">Службени гласник РС”, бр. 34/03, 64/04</ref> – УС, 84/04 – др. закон, 85/05, 101/05  – др. закон и 63/06 – УС),</p>
+			<p>Управни одбор Републичког фонда за пензијско и инвалидско осигурање, на седници  одржаној 7. фебруара 2008. године, донео је</p>
+		</preamble>
+		<preface>
+			<authority>СТАТУТ</authority>
+			<title>Републичког фонда за пензијско и инвалидско осигурање</title>
+			<date>„Службени гласник РС“, бр.  31од  28. марта 2008, 37 од 11. априла 2008 -исправка,  140 од 22. децембра 2014.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading> ОСНОВНЕ ОДРЕДБЕ</heading>
+				<content>
+					<clause id="gla1-stav1">
+						<content>
+							<p>Члан  1.</p>
+						</content>
+					</clause>
+					<clause id="gla1-stav2">
+						<content>
+							<p>Овим  статутом ближе се уређује делокруг Републичког фонда за пензијско и инвалидско  осигурање (у даљем тексту: Фонд), основе организације, надлежност органа Фонда и  начин њиховог рада, коришћење средстава, основе финансијског управљања и  ревизије, остваривање и заштита права и друга питања од значаја за рад Фонда.</p>
+						</content>
+					</clause>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Фонд  је правно лице које има статус организације за обавезно социјално осигурање, са  правима и обавезама утврђеним законом и овим статутом и уписује се у судски  регистар.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav2">
+								<content>
+									<p>Фонд  је носилац права, обавеза и одговорности у правном промету у односу на средства  којима располаже.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav3">
+								<content>
+									<p>Седиште Фонда је у Београду, Др Александра Костића број 9.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Рад  Фонда је јаван.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav2">
+								<content>
+									<p>Јавност рада обезбеђује се на начин утврђен законом и овим статутом.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav3">
+								<content>
+									<p>Члан  4.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav4">
+								<content>
+									<p>Фонд  има печат и пријемни штамбиљ.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav5">
+								<content>
+									<p>Члан  5.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav6">
+								<content>
+									<p>Печат Фонда има облик круга, пречника 32 мм, у чијој средини је грб Републике  Србије.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav7">
+								<content>
+									<p>Текст печата Фонда исписује се на српском језику ћириличким писмом у  концентричним круговима око грба Републике Србије.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav8">
+								<content>
+									<p>У  спољном кругу печата исписује се назив Републике Србије.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav9">
+								<content>
+									<p>У  печату који се користи на територији аутономне покрајине, назив аутономне  покрајине исписује се у првом следећем кругу испод назива Републике Србије.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav10">
+								<content>
+									<p>У  следећем унутрашњем кругу исписује се назив Фонда.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav11">
+								<content>
+									<p>Назив организационе јединице исписује се у следећем кругу.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav12">
+								<content>
+									<p>Седиште Фонда, односно организационе јединице, исписује се у дну печата.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav13">
+								<content>
+									<p>Члан  6.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav14">
+								<content>
+									<p>Сви  примерци печата морају бити истоветни по садржини и величини. Сваки од примерака  обележава се редним бројем, римском цифром која се ставља између грба Републике  Србије и седишта Фонда.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav15">
+								<content>
+									<p>Број  примерака печата одређује директор Фонда.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav16">
+								<content>
+									<p>Члан  7.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav17">
+								<content>
+									<p>О  потреби постојања малог печата, као и о броју примерака, величини, скраћеном  називу Фонда, односно организационе јединице и употреби малог печата одлучује  директор Фонда.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav18">
+								<content>
+									<p>Члан  8.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav19">
+								<content>
+									<p>Пријемни штамбиљ Фонда је правоугаоног облика димензија 70х30 mm и садржи назив  и седиште Фонда и рубрике за упис: датума пријема, органа, организационе  јединице, броја под којим је акт евидентиран, броја прилога и вредности.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav20">
+								<content>
+									<p>Пријемни штамбиљ Фонда који се користи у организационим јединицама Фонда, поред  текста из става 1. овог члана, садржи и назив и седиште организационе јединице.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav21">
+								<content>
+									<p>Текст штамбиља исписује се на српском језику, ћириличким писмом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla1-clan9-stav1">
+								<content>
+									<p>На  подручју организационе јединице на којој је, у складу са законом, у службеној  употреби и језик припадника националних мањина, текст печата, односно пријемног  штамбиља, поред текста из <ref>члана 5. </ref>односно <ref>члана 8. овог</ref> статута, садржи и текст  исписан на језику и писму припадника националних мањина, у складу са законом.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan9-stav2">
+								<content>
+									<p>Пречник печата који се исписује на српском језику и језику и писму припадника  националних мањина износи од 40 mm до 60 mm.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan9-stav3">
+								<content>
+									<p>Члан  10.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan9-stav4">
+								<content>
+									<p>Фонд  има заштитни знак и лого чији се облик и садржина утврђују одлуком директора  Фонда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading> ДЕЛОКРУГ ФОНДА</heading>
+				<content>
+					<article id="gla2-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla2-clan11-stav1">
+								<content>
+									<p>У  Фонду се обављају послови утврђени законом и овим статутом, обезбеђују  материјални, организациони, кадровски и други услови за спровођење система  обавезног пензијског и инвалидског осигурања, прати и анализира систем  пензијског и инвалидског осигурања и дају иницијативе за његово унапређење и  развој.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading> ОСНОВЕ ОРГАНИЗАЦИЈЕ И ОРГАНИ ФОНДА</heading>
+				<content>
+					<section id="gla3-od1">
+						<num>1.</num>
+						<heading> Основе организације Фонда</heading>
+						<content>
+							<article id="gla3-od1-clan12">
+								<num>12.</num>
+								<content>
+									<clause id="gla3-od1-clan12-stav1">
+										<content>
+											<p>Ради  обезбеђивања законитог, непосредног, ефикасног и рационалног остваривања права  из обавезног пензијског и инвалидског осигурања и обављања других послова  спровођења пензијског и инвалидског осигурања, у Фонду се, на функционалном и  територијалном принципу, образују организационе јединице:</p>
+											<point id="gla3-od1-clan12-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p>  Дирекција Фонда са седиштем у Београду;</p>
+												</content>
+											</point>
+											<point id="gla3-od1-clan12-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p>  Служба Дирекције Фонда у Приштини;</p>
+												</content>
+											</point>
+											<point id="gla3-od1-clan12-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p>  Дирекција Покрајинског фонда са седиштем у Новом Саду;</p>
+												</content>
+											</point>
+											<point id="gla3-od1-clan12-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p>  Филијала за град Београд;</p>
+												</content>
+											</point>
+											<point id="gla3-od1-clan12-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p>  филијале;</p>
+												</content>
+											</point>
+											<point id="gla3-od1-clan12-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p>  службе филијала и испоставе.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla3-od1-clan12-stav2">
+										<content>
+											<p>Надлежност организационих јединица и седишта организационих јединица из става 1.  тач. 5. и 6, као и основе унутрашње организације, уређују се актом о  организацији Фонда.</p>
+											<тачка id="gla3-od1-clan12-stav2-tac2">
+												<num>2.</num>
+												<content>
+													<p> Органи Фонда</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+									<clause id="gla3-od1-clan12-stav3">
+										<content>
+											<p>Члан  13.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od1-clan12-stav4">
+										<content>
+											<p>Органи Фонда јесу Управни одбор * и директор.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od1-clan12-stav5">
+										<content>
+											<p>*<ref id="ref10" href="/rs/act/2014/140/srp@">Службени  гласник РС, број 140/2014</ref></p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</section>
+					<section id="gla3-od2">
+						<num>2.</num>
+						<heading>1.  Управни одбор</heading>
+						<content>
+							<clause id="gla3-od2-clan12-stav1">
+								<content>
+									<p>Члан  14.</p>
+								</content>
+							</clause>
+							<clause id="gla3-od2-clan12-stav2">
+								<content>
+									<p>Управни одбор, поред послова утврђених Законом о пензијском и инвалидском  осигурању (у даљем тексту: Закон), обавља и следеће послове:</p>
+									<point id="gla3-od2-clan12-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p>  обезбеђује наменско и економично коришћење средстава Фонда и стара се о увећању  средстава на економским основама;</p>
+										</content>
+									</point>
+									<point id="gla3-od2-clan12-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p>  усваја извештај о пословању Фонда;</p>
+										</content>
+									</point>
+									<point id="gla3-od2-clan12-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p>  одлучује о оснивању другог правног лица;</p>
+										</content>
+									</point>
+									<point id="gla3-od2-clan12-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p>  доноси опште акте за спровођење система обавезног пензијског и инвалидског  осигурања;</p>
+										</content>
+									</point>
+									<point id="gla3-od2-clan12-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p>  предлаже акт о утврђивању професионалних болести, телесних оштећења и послова на  којима се стаж осигурања рачуна са увећаним трајањем;</p>
+										</content>
+									</point>
+									<point id="gla3-od2-clan12-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p>  одлучује о поверавању управних, аналитичких, финансијских, административних,  техничких и других послова другим организацијама, као и о обављању тих послова  за друге организације;</p>
+										</content>
+									</point>
+									<point id="gla3-od2-clan12-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p>  доноси пословник о раду;</p>
+										</content>
+									</point>
+									<point id="gla3-od2-clan12-stav2-tac8">
+										<num>8)</num>
+										<content>
+											<p>  образује радна тела;</p>
+										</content>
+									</point>
+									<point id="gla3-od2-clan12-stav2-tac9">
+										<num>9)</num>
+										<content>
+											<p>  утврђује месечну накнаду члановима Управног одбора * и накнаду  за рад чланова радних тела Управног одбора;</p>
+										</content>
+									</point>
+									<point id="gla3-od2-clan12-stav2-tac10">
+										<num>10)</num>
+										<content>
+											<p>  обавља и друге послове у складу са законом, овим статутом и другим општим актима  Фонда.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-od2-clan12-stav3">
+								<content>
+									<p>*<ref id="ref11" href="/rs/act/2014/140/srp@">Службени  гласник РС, број 140/2014</ref></p>
+								</content>
+							</clause>
+							<clause id="gla3-od2-clan12-stav4">
+								<content>
+									<p>Члан  15.</p>
+								</content>
+							</clause>
+							<article id="gla3-od2-clan16">
+								<num>16.</num>
+								<heading>Брисан је  (види <ref>члан 3. </ref>Одлуке - 140/2014-45)</heading>
+								<content>
+									<clause id="gla3-od2-clan16-stav1">
+										<content>
+											<p>Члану Управног одбора престаје мандат пре истека времена на које је  именован оставком, односно разрешењем.*</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan16-stav2">
+										<content>
+											<p>У случају престанка мандата члану Управног одбора, пре истека времена на  које је именован, именује се нови члан чији мандат траје онолико времена колико  би трајао мандат члана на чије место се именује.*</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan16-stav3">
+										<content>
+											<p>*<ref id="ref12" href="/rs/act/2014/140/srp@">Службени  гласник РС, број 140/2014</ref></p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan16-stav4">
+										<content>
+											<p>Члан  17.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan16-stav5">
+										<content>
+											<p>Председник Управног одбора:</p>
+											<point id="gla3-od2-clan16-stav5-tac1">
+												<num>1)</num>
+												<content>
+													<p>  представља Управни одбор;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan16-stav5-tac2">
+												<num>2)</num>
+												<content>
+													<p>  сазива седнице Управног одбора, предлаже дневни ред и председава седницама;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan16-stav5-tac3">
+												<num>3)</num>
+												<content>
+													<p>  покреће расправу о одређеним питањима из надлежности Управног одбора;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan16-stav5-tac4">
+												<num>4)</num>
+												<content>
+													<p>  потписује акте које доноси Управни одбор;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan16-stav5-tac5">
+												<num>5)</num>
+												<content>
+													<p>  потписује уговор о раду са директором Фонда и директором Покрајинског фонда;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan16-stav5-tac6">
+												<num>6)</num>
+												<content>
+													<p>  обавља и друге послове у складу са законом и овим статутом.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan16-stav6">
+										<content>
+											<p>Члан  18.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan16-stav7">
+										<content>
+											<p>Заменик председника Управног одбора замењује председника за време његове  одсутности или спречености и обавља послове које му он повери.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan16-stav8">
+										<content>
+											<p>Члан  19.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan16-stav9">
+										<content>
+											<p>За  рад Управног одбора неопходно је да седници присуствује већина* од укупног  броја чланова Управног одбора.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan16-stav10">
+										<content>
+											<p>Управни одбор доноси одлуке већином гласова од укупног броја чланова Управног  одбора.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan16-stav11">
+										<content>
+											<p>*<ref id="ref13" href="/rs/act/2014/140/srp@">Службени  гласник РС, број 140/2014</ref></p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan16-stav12">
+										<content>
+											<p>Члан  20.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan16-stav13">
+										<content>
+											<p>Управни одбор може образовати радна тела ради разматрања одређених питања из  надлежности Управног одбора.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan16-stav14">
+										<content>
+											<p>Радна тела могу бити сталног или привременог карактера.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan16-stav15">
+										<content>
+											<p>За  чланове радних тела могу бити именовани чланови Управног одбора, као и друга  лица.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan24">
+								<num>21-24.</num>
+								<heading>Брисан је  ранији назив одељка изнад <ref>члана 21</ref>. (види <ref>члан 6. </ref>Одлуке - 140/2014-45)</heading>
+								<content>
+									<clause id="gla3-od2-clan24-stav1">
+										<content>
+											<p>Брисани су  (види <ref>члан 6. </ref>Одлуке - 140/2014-45)</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<section id="gla3-od2">
+								<num>2.</num>
+								<heading>2.  Директор*</heading>
+								<content>
+									<clause id="gla3-od2-clan24-stav1">
+										<content>
+											<p>*<ref id="ref14" href="/rs/act/2014/140/srp@">Службени гласник  РС, број 140/2014</ref></p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan24-stav2">
+										<content>
+											<p>Члан  25.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan24-stav3">
+										<content>
+											<p>Директор Фонда, поред послова утврђених законом, обавља и следеће послове:</p>
+											<point id="gla3-od2-clan24-stav3-tac1">
+												<num>1)</num>
+												<content>
+													<p>  врши наредбодавне функције за извршење финансијског плана Фонда;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan24-stav3-tac2">
+												<num>2)</num>
+												<content>
+													<p>  пласира слободна средства Фонда у складу са законом,уз  сагласност Управног одбора*;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan24-stav3-tac3">
+												<num>3)</num>
+												<content>
+													<p>  предлаже опште акте које доноси Управни одбор;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan24-stav3-tac4">
+												<num>4)</num>
+												<content>
+													<p>  спроводи одлуке и друге опште акте које доноси** Управни одбор **;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan24-stav3-tac5">
+												<num>5)</num>
+												<content>
+													<p>  доноси опште акте и упутства у складу са законом и овим статутом;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan24-stav3-tac6">
+												<num>6)</num>
+												<content>
+													<p>  доноси решења о усклађивању вредности општег бода, о усклађивању пензија и  новчаних накнада из пензијског и инвалидског осигурања, о усклађивању основица  осигурања на које се обрачунава и плаћа допринос за пензијско и инвалидско  осигурање за лица укључена у обавезно осигурање, о претходном усклађивању  пензија за одређене категорије осигураника и о висини накнаде погребних  трошкова;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan24-stav3-tac7">
+												<num>7)</num>
+												<content>
+													<p>  координира рад Дирекције Фонда и Покрајинског фонда;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan24-stav3-tac8">
+												<num>8)</num>
+												<content>
+													<p>  одлучује о заснивању радног односа, као и о правима, обавезама и одговорности  запослених у Фонду;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan24-stav3-tac9">
+												<num>9)</num>
+												<content>
+													<p>  обезбеђује остваривање јавности рада Фонда;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan24-stav3-tac10">
+												<num>10)</num>
+												<content>
+													<p>  обавља и друге послове у складу са законом, овим статутом и другим актима Фонда.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan24-stav4">
+										<content>
+											<p>*<ref id="ref15" href="/rs/act/2008/37/srp@">Службени гласник РС, број 37/2008</ref></p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan24-stav5">
+										<content>
+											<p>**<ref id="ref16" href="/rs/act/2014/140/srp@">Службени гласник  РС, број 140/2014</ref></p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan24-stav6">
+										<content>
+											<p>Члан  26.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan24-stav7">
+										<content>
+											<p>Директор Покрајинског фонда обавља следеће послове:</p>
+											<point id="gla3-od2-clan24-stav7-tac1">
+												<num>1)</num>
+												<content>
+													<p>  одлучује у другом степену и у поступку ревизије првостепених решења о правима из  пензијског и инвалидског осигурања;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan24-stav7-tac2">
+												<num>2)</num>
+												<content>
+													<p>  одлучује о заснивању радног односа, као и о правима, обавезама и одговорности  запослених у Покрајинском фонду у складу са општим актима Фонда;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan24-stav7-tac3">
+												<num>3)</num>
+												<content>
+													<p>  подноси иницијативу директору Фонда за измену општих аката Фонда;</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan24-stav7-tac4">
+												<num>4)</num>
+												<content>
+													<p>  обавља и друге послове у складу са законом, овим статутом и другим актима Фонда.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan24-stav8">
+										<content>
+											<p>Члан  27.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan24-stav9">
+										<content>
+											<p>Управни одбор доноси одлуку о спровођењу конкурса за именовање директора Фонда,  односно одлуку о покретању иницијативе за именовање директора Покрајинског  фонда, најкасније три месеца пре истека мандата.</p>
+										</content>
+									</clause>
+									<article id="gla3-od2-clan28">
+										<num>28.</num>
+										<content>
+											<clause id="gla3-od2-clan28-stav1">
+												<content>
+													<p>За  директора Фонда може бити именовано лице које има правни или економски факултет  и најмање шест година радног искуства.</p>
+												</content>
+											</clause>
+											<clause id="gla3-od2-clan28-stav2">
+												<content>
+													<p>Члан  29.</p>
+												</content>
+											</clause>
+											<clause id="gla3-od2-clan28-stav3">
+												<content>
+													<p>За  директора Покрајинског фонда може бити именовано лице које има правни или  економски факултет и најмање шест година радног искуства.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla3-od2-clan30">
+										<num>30.</num>
+										<content>
+											<clause id="gla3-od2-clan30-stav1">
+												<content>
+													<p>Директор Фонда учествује у раду Управног одбора * без права  одлучивања.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla3-od2-clan31">
+										<num>31.</num>
+										<heading>*<ref id="ref17" href="/rs/act/2014/140/srp@">Службени гласник  РС, број 140/2014</ref></heading>
+										<content>
+											<clause id="gla3-od2-clan31-stav1">
+												<content>
+													<p>Директор Фонда може бити разрешен дужности и пре времена на које је именован,  ако функцију директора не врши у складу са законом, овим статутом и другим  општим актима Фонда, ако му престане радни однос у складу са законом или поднесе  захтев за разрешење.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla3-od2-clan32">
+										<num>32.</num>
+										<content>
+											<clause id="gla3-od2-clan32-stav1">
+												<content>
+													<p>Директор Покрајинског фонда може бити разрешен дужности и пре времена на које је  именован, ако функцију директора не врши у складу са законом, овим статутом и  другим општим актима Фонда, ако му престане радни однос у складу са законом, ако  поднесе захтев за разрешење, као и на образложени предлог надлежног органа АП  Војводина или директора Фонда.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla3-od2-clan33">
+										<num>33.</num>
+										<content>
+											<clause id="gla3-od2-clan33-stav1">
+												<content>
+													<p>Управни одбор разрешава дужности директора Фонда уз претходну сагласност Владе,  а директора Покрајинског фонда уз сагласност надлежног органа АП Војводина.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla3-od2-clan34">
+										<num>34.</num>
+										<content>
+											<clause id="gla3-od2-clan34-stav1">
+												<content>
+													<p>Директор Фонда има два заменика који га замењују за време његове одсутности или  спречености и обављају послове које им он повери.</p>
+												</content>
+											</clause>
+											<clause id="gla3-od2-clan34-stav2">
+												<content>
+													<p>Директор Фонда има помоћнике и саветнике.</p>
+												</content>
+											</clause>
+											<clause id="gla3-od2-clan34-stav3">
+												<content>
+													<p>Ближи услови за постављење заменика, помоћника и саветника утврђују се актом о  унутрашњој организацији и систематизацији послова у Фонду.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla3-od2-clan35">
+										<num>35.</num>
+										<content>
+											<clause id="gla3-od2-clan35-stav1">
+												<content>
+													<p>Директор Фонда може генералним, односно појединачним пуномоћјем своје овлашћење  за потписивање пренети на друга лица.</p>
+												</content>
+											</clause>
+											<clause id="gla3-od2-clan35-stav2">
+												<content>
+													<p>Директор Фонда може одређене послове из своје надлежности пренети на руководеће  и друге стручне раднике у Фонду.</p>
+												</content>
+											</clause>
+											<clause id="gla3-od2-clan35-stav3">
+												<content>
+													<p>Члан  36.</p>
+												</content>
+											</clause>
+											<clause id="gla3-od2-clan35-stav4">
+												<content>
+													<p>Директор Покрајинског фонда може генералним, односно појединачним пуномоћјем  своје овлашћење за потписивање пренети на друга лица.</p>
+												</content>
+											</clause>
+											<clause id="gla3-od2-clan35-stav5">
+												<content>
+													<p>Директор Покрајинског фонда може одређене послове из своје надлежности пренети  на руководеће и друге стручне раднике у Покрајинском фонду.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+								</content>
+							</section>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading> КОРИШЋЕЊЕ СРЕДСТАВА И ОСНОВЕ ФИНАНСИЈСКОГ УПРАВЉАЊА И РЕВИЗИЈЕ У ФОНДУ</heading>
+				<content>
+					<article id="gla4-clan37">
+						<num>37.</num>
+						<content>
+							<clause id="gla4-clan37-stav1">
+								<content>
+									<p>Средства за обавезно пензијско и инвалидско осигурање користе се за намене  предвиђене финансијским планом Фонда, у складу са законом и овим статутом.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan37-stav2">
+								<content>
+									<p>Члан  38.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan37-stav3">
+								<content>
+									<p>Финансијско пословање Фонда обухвата израду финансијског плана, праћење  остваривања прихода и извршавање расхода, вођење књиговодства и евиденција о  финансијском пословању и средствима Фонда, израду извештаја о финансијском  пословању и израду годишњег обрачуна.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan39">
+						<num>39.</num>
+						<content>
+							<clause id="gla4-clan39-stav1">
+								<content>
+									<p>У  Фонду се, ради остваривања циљева утврђених законом којим се уређује буџетски  систем, образује интерна ревизија која је функционално и организационо  независна, чија се надлежност и седиште одређују општим актом о организацији и  систематизацији послова у Фонду.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan39-stav2">
+								<content>
+									<p>Члан  40.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan39-stav3">
+								<content>
+									<p>Фонд  у складу са законом и овим статутом има подрачуне консолидованог рачуна Трезора  и подрачуне за посебне намене.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan39-stav4">
+								<content>
+									<p>На  подрачуне Дирекције Фонда преносе се средства са уплатних рачуна на које се  уплаћују доприноси за пензијско и инвалидско осигурање са територије Републике  без аутономних покрајина, са територије АП Косово и Метохија и са подрачуна  Покрајинског фонда.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan39-stav5">
+								<content>
+									<p>Ради  евиденције о оствареним средствима, на подрачун Покрајинског фонда преносе се  средства са уплатних рачуна на које се уплаћују доприноси за пензијско и  инвалидско осигурање са територије АП Војводина.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan39-stav6">
+								<content>
+									<p>Са  подрачуна Дирекције Фонда, на подрачуне Покрајинског фонда, Службе Дирекције  Фонда у Приштини и подрачуне филијала Фонда, преносе се средстава за спровођење  пензијског и инвалидског осигурања на њиховом подручју.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan39-stav7">
+								<content>
+									<p>Члан  41.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan39-stav8">
+								<content>
+									<p>Ради  остваривања права осигураника и корисника у филијалама и службама филијала, могу  се отворити акредитиви на које се преносе средства са подрачуна Дирекције Фонда,  Покрајинског фонда, Службе Дирекције Фонда у Приштини, односно филијале.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan39-stav9">
+								<content>
+									<p>Актом о организацији Фонда одређују се филијале које могу отворити подрачун,  односно акредитив.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan39-stav10">
+								<content>
+									<p>Директор Фонда овлашћује директора Покрајинског фонда и руководеће раднике у  Дирекцији Фонда, Служби Дирекције Фонда у Приштини, Филијали за град Београд и  филијалама да располажу средствима на подрачуну и да учествују у платном  промету.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan39-stav11">
+								<content>
+									<p>Директор Покрајинског фонда своје овлашћење из става 3. овог члана може пренети  на руководеће раднике у Дирекцији Покрајинског фонда и филијалама на територији  АП Војводина.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan39-stav12">
+								<content>
+									<p>Члан  42.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan39-stav13">
+								<content>
+									<p>Приходи остварени од имовине којом Фонд располаже, од новчаних средстава  остварених продајом домаћих акција и осталог капитала, приходи од камате на  финансијска улагања и од продаје и промета хартија од вредности, користе се у  складу са законом за намене утврђене финансијским планом Фонда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading> ОСТВАРИВАЊЕ И ЗАШТИТА ПРАВА</heading>
+				<content>
+					<clause id="gla5-clan39-stav1">
+						<content>
+							<p>Члан  43.</p>
+						</content>
+					</clause>
+					<clause id="gla5-clan39-stav2">
+						<content>
+							<p>За  решавање о правима из пензијског и инвалидског осигурања, пензијском стажу и  утврђивању својства осигураника (у даљем тексту: права из пензијског и  инвалидског осигурања) и правима из пензијског и инвалидског осигурања применом  међународних уговора о социјалном осигурању закључених са државама које су, као  републике, биле у саставу СФРЈ, у првом степену, надлежна је филијала на чијем  је подручју осигураник био последњи пут осигуран.</p>
+						</content>
+					</clause>
+					<clause id="gla5-clan39-stav3">
+						<content>
+							<p>У  случају да је од престанка осигурања до покретања поступка протекло 12 месеци,  за решавање о правима из става 1. овог члана надлежна је филијала на чијем  подручју лице које подноси захтев за покретање поступка има пребивалиште.</p>
+						</content>
+					</clause>
+					<article id="gla5-clan44">
+						<num>44.</num>
+						<content>
+							<clause id="gla5-clan44-stav1">
+								<content>
+									<p>За  решавање о правима из пензијског и инвалидског осигурања применом међународних  уговора о социјалном осигурању, изузев међународних уговора закључених са  државама које су, као републике, биле у саставу СФРЈ, у првом степену је  надлежна Дирекција Фонда, односно Дирекција Покрајинског фонда.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan44-stav2">
+								<content>
+									<p>Члан  45.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan44-stav3">
+								<content>
+									<p>Решење о правима из пензијског и инвалидског осигурања у првом степену доноси  директор филијале.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan44-stav4">
+								<content>
+									<p>Директор филијале може овластити друге руководеће раднике у филијали за доношење  решења из става 1. овог члана.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan44-stav5">
+								<content>
+									<p>Решење о правима из пензијског и инвалидског осигурања применом међународних  уговора о социјалном осигурању, изузев међународних уговора закључених са  државама које су, као републике, биле у саставу СФРЈ, у првом степену доноси  руководилац организационе јединице надлежне за пензијско и инвалидско осигурање  по међународним уговорима у Дирекцији фонда, односно руководилац у Дирекцији  Покрајинског фонда.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan44-stav6">
+								<content>
+									<p>Руководилац организационе јединице у Дирекцији Фонда, односно руководилац у  Дирекцији Покрајинског фонда може овластити друге руководеће раднике у дирекцији  за доношење решења из става 3. овог члана.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan44-stav7">
+								<content>
+									<p>Члан  46.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan44-stav8">
+								<content>
+									<p>Првостепено решење подлеже претходној контроли коју врши лице одређено актом о  унутрашњој организацији и систематизацији послова у Фонду.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan47">
+						<num>47.</num>
+						<content>
+							<clause id="gla5-clan47-stav1">
+								<content>
+									<p>За  решавање о правима из пензијског и инвалидског осигурања у другом степену и у  поступку ревизије надлежна је Дирекција Фонда, односно Дирекција Покрајинског  фонда.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan47-stav2">
+								<content>
+									<p>Члан  48.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan47-stav3">
+								<content>
+									<p>Решење о правима из пензијског и инвалидског осигурања у другом степену и у  поступку ревизије доноси руководилац организационе јединице у Дирекцији Фонда  надлежне за остваривање права из пензијског и инвалидског осигурања, односно  директор Покрајинског фонда.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan47-stav4">
+								<content>
+									<p>Руководилац организационе јединице у Дирекцији Фонда, односно директор  Покрајинског фонда може овластити друге руководеће раднике у Дирекцији, односно  Покрајинском фонду за доношење решења из става 1. овог члана.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan47-stav5">
+								<content>
+									<p>Члан  49.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan47-stav6">
+								<content>
+									<p>О  извршеном усклађивању пензија и новчаних накнада по прописима о пензијском и  инвалидском осигурању, кориснику се посебно не доноси решење, већ се даје  писмено обавештење на чеку којим се врши исплата усклађене пензије, односно  новчане накнаде.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan47-stav7">
+								<content>
+									<p>Решење о усклађивању пензија доноси се на захтев корисника права, односно по  службеној дужности.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan50">
+						<num>50.</num>
+						<content>
+							<clause id="gla5-clan50-stav1">
+								<content>
+									<p>Поводом сукоба надлежности у поступку за остваривање права одлучује директор  Фонда, односно директор Покрајинског фонда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading> ЈАВНОСТ РАДА</heading>
+				<content>
+					<clause id="gla6-clan50-stav1">
+						<content>
+							<p>Члан  51.</p>
+						</content>
+					</clause>
+					<clause id="gla6-clan50-stav2">
+						<content>
+							<p>Јавност рада Фонда остварује се пружањем информација осигураницима и корисницима  у вези са правима из обавезног пензијског и инвалидског осигурања, као и  органима и организацијама заинтересованим за рад Фонда.</p>
+						</content>
+					</clause>
+					<clause id="gla6-clan50-stav3">
+						<content>
+							<p>Седнице Управног одбора Фонда су отворене за медије, осим ако се ради о питањима  за која Управни одбор одлучи да се расправа и одлучивање обавља без присуства  јавности.</p>
+						</content>
+					</clause>
+					<clause id="gla6-clan50-stav4">
+						<content>
+							<p>Јавност рада се остварује путем средстава јавног информисања, одржавањем  конференција за новинаре, објављивањем аката у складу са Законом и овим  статутом, представљањем Фонда на Интернету, саопштењима за јавност и другим  информацијско-телекомуникационим средствима.</p>
+						</content>
+					</clause>
+					<clause id="gla6-clan50-stav5">
+						<content>
+							<p>Ради информисања јавности  Фонд издаје информативно гласило у електронској, односно штампаној форми.*</p>
+						</content>
+					</clause>
+					<clause id="gla6-clan50-stav6">
+						<content>
+							<p>Програмска концепција  информативног гласила као и услови његовог издавања уређују се актом Фонда.*</p>
+						</content>
+					</clause>
+					<clause id="gla6-clan50-stav7">
+						<content>
+							<p>Ради информисања запослених  Фонд издаје билтен у електронској форми.*</p>
+						</content>
+					</clause>
+					<article id="gla6-clan52">
+						<num>52.</num>
+						<heading>*<ref id="ref18" href="/rs/act/2014/140/srp@">Службени гласник  РС, број 140/2014</ref></heading>
+						<content>
+							<clause id="gla6-clan52-stav1">
+								<content>
+									<p>Подаци и документација чије би саопштавање могло да штети интересима и пословном  угледу Фонда, односно интересима физичког лица на кога се подаци односе,  представљају пословну тајну.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan52-stav2">
+								<content>
+									<p>Начин руковања подацима и документима који представљају пословну тајну, заштита  пословне тајне, повреда чувања пословне тајне и одговорност, утврђују се актом  Фонда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla7">
+				<num>VII</num>
+				<heading> ПРЕЛАЗНЕ И ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla7-clan53">
+						<num>53.</num>
+						<content>
+							<clause id="gla7-clan53-stav1">
+								<content>
+									<p>До  доношења општих аката Фонда из <ref>члана 65. </ref>Закона о изменама и допунама Закона о  пензијском и инвалидском осигурању („<ref id="ref19" href="/rs/act/05/85/srp@">Службени гласник РС”, број 85/05</ref>), осим  акта о организацији Фонда, примењиваће се општи акти Републичког фонда за  пензијско и инвалидско осигурање запослених, Одлука о начину утврђивања  доприноса за осигуранике којима се својство осигураника утврђује по истеку рока  за подношење пријаве на осигурање, односно када допринос није утврђен и наплаћен  од стране органа надлежног за послове јавних прихода Републичког фонда за  пензијско и инвалидско осигурање самосталних делатности и Одлука о утврђивању  доприноса за осигуранике којима се својство осигураника утврђује по истеку рока  до подношења пријаве на осигурање Републичког фонда за пензијско и инвалидско  осигурање пољопривредника, донетих на основу Закона.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan54">
+						<num>54.</num>
+						<content>
+							<clause id="gla7-clan54-stav1">
+								<content>
+									<p>До  доношења општих аката из <ref>члана 25. став 1. тачка 5</ref>) овог статута примењиваће се  општи акти Републичког фонда за пензијско и инвалидско осигурање запослених,  донети на основу закона.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan54-stav2">
+								<content>
+									<p>Изузетно од става 1. овог члана, поступак по захтевима за решавање о правима  запослених Републичког фонда за пензијско и инвалидско осигурање запослених,  Републичког фонда за пензијско и инвалидско осигурање самосталних делатности и  Републичког фонда за пензијско и инвалидско осигурање пољопривредника, окончаће  се на начин и под условима утврђеним општим актом по коме је поступак покренут.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan54-stav3">
+								<content>
+									<p>Члан  55.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan54-stav4">
+								<content>
+									<p>До  обезбеђења печата и пријемног штамбиља Фонда, у складу са законом и овим  статутом, у обављању послова из делокруга Фонда користиће се печат и штамбиљ  чија је намена, садржина и изглед утврђена Статутом Републичког фонда за  пензијско и инвалидско осигурање запослених („<ref id="ref20" href="/rs/act/03/89/srp@">Службени гласник РС”, бр. 89/03</ref> и  44/05).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan56">
+						<num>56.</num>
+						<content>
+							<clause id="gla7-clan56-stav1">
+								<content>
+									<p>Овај  статут, по добијању сагласности Владе, објављује се у „Службеном гласнику  Републике Србије” и ступа на снагу осмог дана од дана објављивања.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan56-stav2">
+								<content>
+									<p>08/5  број 022.2-10/6</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan56-stav3">
+								<content>
+									<p>У  Београду, 7. фебруара 2008. године</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan56-stav4">
+								<content>
+									<p>Управни одбор Републичког фонда</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan56-stav5">
+								<content>
+									<p>за  пензијско и инвалидско осигурање</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan56-stav6">
+								<content>
+									<p>Председник,</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

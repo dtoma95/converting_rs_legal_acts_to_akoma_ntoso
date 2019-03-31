@@ -1,0 +1,541 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2014/125-34/main"/>
+					<FRBRuri value="/rs/act/2014/125-34"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2014/125-34/srp@/main"/>
+					<FRBRuri value="/rs/act/2014/125-34/srp@"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2014/125-34/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2014/125-34/srp@.akn"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2014-11-14" name="службени гласник рс" number="125" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="5. Оружје, муниција, опасне и експлозивне материје" value="5. оружје, муниција, опасне и експлозивне материје"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2014-10-24" id="usvajanje"/>
+				<step date="2014-11-22" id="stupanje_na_snagu"/>
+				<step date="2014-11-22" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 55. став 3. </ref>Закона о транспорту опасног терета („<ref id="ref4" href="/rs/act/10/88/srp@">Службени гласник РС”, број 88/10</ref>),</p>
+			<p>Министар грађевинарства, саобраћаја и инфраструктуре доноси</p>
+		</preamble>
+		<preface>
+			<title>ПРАВИЛНИК</title>
+			<authority>о начину транспорта опасног терета у водном саобраћају и обавезе учесника у транспорту опасног терета у ванредним догађајима</authority>
+			<title>&quot;Службени гласник РС&quot;, број 125 од 14.      новембра 2014.</title>
+			<date>Предмет правилника</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се начин транспорта опасног терета у водном саобраћају и обавезе учесника у транспорту опасног терета у ванредним догађајима.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>Начин транспорта опасног терета</heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>У водном саобраћају опасан терет транспортује се у складу са:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> Законом о транспорту опасног терета („<ref id="ref5" href="/rs/act/10/88/srp@">Службени гласник РС”, број 88/10</ref>);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> поглављем 7.1 (одељак 7.1.5.1 и 7.2.5.1) и поглављем 3.2 табела А, колона (12) и табела Ц, колона (19) Европског споразума о међународном транспорту опасног терета унутрашњим пловним путевима – ADN („<ref id="ref6" href="/rs/act/10/3/srp@">Службени гласник РС – Међународни уговори”, бр.           3/10</ref> и           1/14).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>У водном саобраћају опасан терет транспортује се бродом, конвојем или саставом за транспорт опасног терета (у даљем тексту: брод), на начин којим се обезбеђује заштита животне средине и здравља људи.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>У водном саобраћају мала количина опасног терета може да се транспортује и скелом, у складу са чланом 55. став 2. Закона о транспорту опасног терета.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>У водном саобраћају транспорт опасног терета обавља се бродом који се обележава у складу са одредбама Европског споразума о међународном транспорту опасног терета унутрашњим пловним путевима ADN ( у даљем тексту: ADN), из <ref>члана 2. став 1. тачка 2</ref>) овог правилника.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Брод којим се транспортује запаљив терет наведен у ADN има следеће ознаке:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> дању – плавим конусом окренутим врхом према доле, у складу са поглављем 3.2, табела А, колона (12) или табела Ц, колона (19) ADN;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> ноћу – плавим светлом у складу са поглављем 3.2, табела А, колона (12) или табела Ц, колона (19) ADN.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Ознаке на броду којим се транспортује опасан терет из става 1. овог члана треба да буду постављене на погодном месту и довољно високо да се виде са свих страна.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>Плави конус може да буде замењен са једним плавим конусом на прамцу и једним плавим конусом на крми који се поставља на висину не мању од 3m.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Брод којим се транспортује опасан терет који представља опасност по живот и здравље људи наведен у ADN, има следеће ознаке:</p>
+							<point id="clan6-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> дању – са два плава конуса окренута врхом према доле, у складу са поглављем 3.2, табела А, колона (12) или табела Ц, колона (19) ADN;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> ноћу – са два плава светла са два плава конуса окренута врхом према доле, у складу са поглављем 3.2, табела А, колона (12) или табела Ц, колона (19) ADN.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Ознаке на броду којим се транспортује опасан терет из става 1. овог члана треба да буду постављене на погодном месту, удаљене најмање 1m једна изнад друге и довољно високо да се виде са свих страна.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>Два плава конуса могу да буду замењена са два плава конуса на прамцу и два плава конуса на крми који су постављени на висину не мању од 3m.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Брод којим се транспортује експлозиван терет наведен у ADN, има следеће ознаке:</p>
+							<point id="clan7-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> дању – са три плава конуса окренута врхом према доле, у складу са Поглављем 3.2, табела А, колона (12) ADN;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> ноћу – са два плава светла, у складу са Поглављем 3.2, табела А, колона (12) ADN.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Ознаке на броду којим се транспортује опасан терет из става 1. овог члана треба да буду постављене на погодном месту и довољно високо да се виде са свих страна.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Брод којим се обавља транспорт опасног терета из <ref>члана 3. овог</ref> правилника обележава се на начин који је дат у Прилогу – Визуелно обележавање брода, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>У водном саобраћају транспорт опасног терета обавља се бродом који има јачину плавих светала минимално 0,7 cd (кандела).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Брод који покреће потискивани или бочни састав са опасним теретом из чл. 5–7. овог правилника означава се у складу са прописима из <ref>члана 2. овог</ref> правилника и овим правилником.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Потискивани састави из става 1. овог члана, покретани са два потискивача везана бок уз бок, имају ознаке на десној страни потискивача у складу са врстом опасног терета из чл. 5–7. овог правилника.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Брод, потискивани или бочни састав који истовремено врши транспорт више врста опасних терета из чл. 5–7. овог правилника, означава се бројем плавих светала или плавих конуса који одговара тој врсти опасног терета, у складу са овим правилником и означава се са већим бројем плавих светала, односно конуса.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Брод који се не означава у складу са ознакама из чл. 5–7. овог правилника, за који је издат сертификат у складу са одељком 8.1.8 ADN или привремени сертификат у складу са одељком 8.1.9 ADN, када се приближава и пролази кроз преводницу са бродом који транспортује опасан терет из чл. 5–7. овог правилника, истиче исте ознаке као и брод који транспортује опасан терет.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<heading>Обавезе учесника у транспорту опасног терета у ванредним догађајима</heading>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Учесник у транспорту опасног терета у водном саобраћају у случају ванредног догађаја има обавезу да тражи помоћ на следећи начин:</p>
+							<point id="clan13-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> кружним махањем заставом или било којим другим погодним предметом;</p>
+								</content>
+							</point>
+							<point id="clan13-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> кружним махањем светлом;</p>
+								</content>
+							</point>
+							<point id="clan13-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> означавањем брода заставом изнад или испод које се налази тело у облику лопте или било шта слично том телу;</p>
+								</content>
+							</point>
+							<point id="clan13-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> испаљивањем ракета или сличним средствима које избацују црвене звездице, које се испаљују једна за другом у кратким временским интервалима, ако то, по природи опасног терета који се транспортује, не представља додатну опасност;</p>
+								</content>
+							</point>
+							<point id="clan13-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> светлосним сигналом који се састоји од групе (тачка и цртица-SOS) Morse Code;</p>
+								</content>
+							</point>
+							<point id="clan13-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> запаљивањем ватре која може да буде произведена изгарањем катрана, уља, и сл. ако то , према природи опасног терета који се транспортује не представља додатну опасност;</p>
+								</content>
+							</point>
+							<point id="clan13-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> активирањем ракета за осветљење које је црвене боје;</p>
+								</content>
+							</point>
+							<point id="clan13-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> лаганим махањем раширених руку.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan14">
+				<num>14.</num>
+				<content>
+					<clause id="clan14-stav1">
+						<content>
+							<p>У случају ванредног догађаја који за последицу има цурење опасног терета на броду истиче се знак „Не прилази”.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav2">
+						<content>
+							<p>Знак из става 1. овог члана састоји се од звучног и светлосног сигнала.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav3">
+						<content>
+							<p>Звучни сигнал се састоји од једног кратког и једног дугог звука који се непрекидно понавља најмање 15 минута узастопно.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav4">
+						<content>
+							<p>Светлосни сигнал даје се упоредо са звучним сигналом, жуте је боје, јак по интензитету и видљив са свих страна.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav5">
+						<content>
+							<p>Знак „Не прилази” обавезно ће бити истакнут на броду који има ознаке из чл. 5–7. овог правилника, ако посада не може да спречи насталу опасност по људски живот или животну средину, осим на потисницама и осталим пловилима без моторног погона.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav6">
+						<content>
+							<p>Учесник у транспорту опасног терета који у свом саставу има потискивани или бочни састав знак „Не прилази” истиче на броду на којем се налази заповедник.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav7">
+						<content>
+							<p>Знак „Не прилази” аутоматски се емитује и обезбеђује се од могућности ненамерног активирања.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan15">
+				<num>15.</num>
+				<content>
+					<clause id="clan15-stav1">
+						<content>
+							<p>Учесник у водном саобраћају који опази знак „Не прилази” предузима потребне мере да спречи опасност која прети, и то:</p>
+							<point id="clan15-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> ако се брод креће према опасном подручју, држи се што је могуће даље од тог подручја и, по потреби, врши окретање;</p>
+								</content>
+							</point>
+							<point id="clan15-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> кад је брод прошао опасно подручје, наставља да плови највећом могућом брзином;</p>
+								</content>
+							</point>
+							<point id="clan15-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> посади се издају заповести које се односе на:</p>
+									<item id="clan15-stav1-tac3-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> затвaрање свих прозора и отвора са спољашње стране;</p>
+										</content>
+									</item>
+									<item id="clan15-stav1-tac3-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> гашење свих незаштићених светала;</p>
+										</content>
+									</item>
+									<item id="clan15-stav1-tac3-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> престанак пушења;</p>
+										</content>
+									</item>
+									<item id="clan15-stav1-tac3-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> заустављање свих непотребних помоћних машина;</p>
+										</content>
+									</item>
+									<item id="clan15-stav1-tac3-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> избегавање стварања варница.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan15-stav2">
+						<content>
+							<p>Одредбе става 1. тачка 3) овог члана примењују се и на брод усидрен у близини ванредног догађаја. Опажањем знака „Не прилази”, посада усидреног брода напустиће брод према потреби.</p>
+						</content>
+					</clause>
+					<clause id="clan15-stav3">
+						<content>
+							<p>Приликом поступања у складу са ст. 1. и 2. овог члана узима се у обзир смер кретања водене струје и ветра.</p>
+						</content>
+					</clause>
+					<clause id="clan15-stav4">
+						<content>
+							<p>Учесник у водном саобраћају предузима мере из ст. 1. и 2. овог члана и у случају да се знак „Не прилази” емитује са обале.</p>
+						</content>
+					</clause>
+					<clause id="clan15-stav5">
+						<content>
+							<p>Учесник у транспорту опасног терета, који прими сигнал „Не прилази”, без одлагања, обавештава лучку капетанију и речну полицију.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan16">
+				<num>16.</num>
+				<content>
+					<clause id="clan16-stav1">
+						<content>
+							<p>У случају ванредног догађаја заповедник брода и састава који транспортују опасан терет у складу са АDN, обавештава лучку капетанију на прописаном радио каналу о:</p>
+							<point id="clan16-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> типу брода;</p>
+								</content>
+							</point>
+							<point id="clan16-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> имену брода;</p>
+								</content>
+							</point>
+							<point id="clan16-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> UN броју;</p>
+								</content>
+							</point>
+							<point id="clan16-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> позицији и смеру пловидбе;</p>
+								</content>
+							</point>
+							<point id="clan16-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> службеном идентификационом броју брода, за поморске бродове – IMO број;</p>
+								</content>
+							</point>
+							<point id="clan16-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> дужини и ширини брода;</p>
+								</content>
+							</point>
+							<point id="clan16-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> врсти, дужини и ширини састава;</p>
+								</content>
+							</point>
+							<point id="clan16-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> врсти и количини опасног терета;</p>
+								</content>
+							</point>
+							<point id="clan16-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> броју особа на броду.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan17">
+				<num>17.</num>
+				<content>
+					<clause id="clan17-stav1">
+						<content>
+							<p>Начин обележавања брода представљен у виду цртежа, дат је у Прилогу – Визуелно обележавање брода, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan18">
+				<num>18.</num>
+				<heading>Завршна одредба</heading>
+				<content>
+					<clause id="clan18-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan18-stav2">
+						<content>
+							<p>Број 110-00-0002/2014-01</p>
+						</content>
+					</clause>
+					<clause id="clan18-stav3">
+						<content>
+							<p>У Београду, 24. октобра 2014. године</p>
+						</content>
+					</clause>
+					<clause id="clan18-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan18-stav5">
+						<content>
+							<p>проф. др Зорана Михајловић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

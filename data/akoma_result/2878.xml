@@ -1,0 +1,355 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2016/106-87/main"/>
+					<FRBRuri value="/rs/act/2016/106-87"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2016/106-87/srp@/main"/>
+					<FRBRuri value="/rs/act/2016/106-87/srp@"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2016/106-87/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2016/106-87/srp@.akn"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2016-12-28" name="службени гласник рс" number="106" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="7. Скијалишта и жичаре" value="7. скијалишта и жичаре"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2016-12-15" id="usvajanje"/>
+				<step date="2017-01-05" id="stupanje_na_snagu"/>
+				<step date="2017-01-05" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 5. став 3. </ref>Закона о жичарама за транспорт лица („<ref id="ref2" href="/rs/act/15/38/srp@">Службени гласник РС”, број 38/15</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар грађевинарства, саобраћаја и инфраструктуре доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о начину вођења, садржини и изгледу обрасца евиденције жичара</title>
+			<date>&quot;Службени гласник РС&quot;, број 106 од 28.      децембра 2016.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се начин вођења евиденције жичара, садржина и изглед обрасца евиденције жичара.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Eвиденцију жичара води Дирекција за железнице (у даљем тексту: Дирекција) у складу са законом којим се уређују жичаре за транспорт лица.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Евиденција жичара води се у писменом облику.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Евиденција из става 1. овог члана састоји се од Уписника жичара и штампаних образаца, при чему се за сваку појединачну жичару води један образац евиденције жичара.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Дирекција сваку појединачну жичару, одмах по подношењу захтева за издавање одобрења за рад жичаре, уписује у Уписник жичаре, дат у Прилогу 1, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>У Уписник жичаре уписују се:</p>
+							<point id="clan4-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> евиденцијски број жичаре;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> назив жичаре и локација;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> управљач жичаре;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> датум уноса података у образац и име лица које је унело податке.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Евиденцијски број жичаре је јединствени број који Дирекција додељује свакој жичари, где су цифре јединственог броја у формату X-XXXX-XX распоређене на следећи начин:</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav4">
+						<content>
+							<p>Прва цифра означава у коју је групу жичара спада:</p>
+							<point id="clan4-stav4-tac1">
+								<num>1)</num>
+								<content>
+									<p> за висеће жичаре прва цифра је 1;</p>
+								</content>
+							</point>
+							<point id="clan4-stav4-tac2">
+								<num>2)</num>
+								<content>
+									<p> за успињаче прва цифра је 2;</p>
+								</content>
+							</point>
+							<point id="clan4-stav4-tac3">
+								<num>3)</num>
+								<content>
+									<p> за вучнице прва цифра је 3.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan4-stav5">
+						<content>
+							<p>Друга група цифара (четири цифре) је година производње жичаре.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav6">
+						<content>
+							<p>Трећа група цифара је редни број уписа жичаре у Уписник жичаре.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Евиденција жичара садржи нарочито податке о:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> техничким и технолошким карактеристикама жичара;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> превозу, контролама и ванредним догађајима на жичарама;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> одобрењима за рад жичара;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> власнику жичаре;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> управљачу жичаре (у даљем тексту: управљач);</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> правним или физичким лицима која изводе стручни преглед;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> техничком одговорном лицу жичаре и његовом заменику;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> грађевинској и употребној дозволи;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> годишњем стручно-техничком прегледу.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Податке из става 1. овог члана који се односе на сваку појединачну жичару управљач жичаре доставља Дирекцији при подношењу захтева за издавање одобрења за рад жичаре које се издаје на период од годину дана у складу са законом којим се уређују жичаре за транспорт лица.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>Податке о ванредним догађајима из става 1. тачка 2. овог члана управљач жичаре доставља најкасније 10 дана од наступања ванредног догађаја када се ради о озбиљној несрећи, а подаци о свим осталим ванредним догађајима се достављају при сваком подношењу захтева за издавање одобрења за рад жичаре.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>Уколико дође до измене података о жичари из става 1. овог члана пре истека рока од годину дана, управљач жичаре их доставља у року од 15 дана од дана настанка промене.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Подаци који се уносе у образац евиденције жичаре дати су у Прилогу 2, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>У Прилогу 2 наведени подаци који се уносе у образац евиденције жичаре за поједину врсту жичара означени су са „X”, а подаци који се не уносе за поједину врсту жичара означени су са „O”.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>Подаци о висећим жичарама уносе се у образац евиденције висећих жичара дат у Прилогу 3, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav4">
+						<content>
+							<p>Подаци о успињачама уносе се у образац евиденције успињача дат у Прилогу 4, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav5">
+						<content>
+							<p>Подаци о вучницама уносе се у образац евиденције вучница дат у Прилогу 5, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Уколико управљач жичаре достави податке о промени података о жичари, отвара се нови образац евиденције жичаре.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>У новоотворени образац уписују се непромењени подаци са претходног обрасца и уносе промењени у складу са достављеном документацијом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Уколико Дирекција из оправданих разлога сматра да достављене податке из <ref>члана 6. став 1. овог</ref> правилника треба додатно проверити пре или после издавања одобрења за рад жичаре, Дирекција може извршити проверу тачности наведених података.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Број 110-00-00205/2016-04</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav3">
+						<content>
+							<p>У Београду, 15. децембра 2016. године</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav5">
+						<content>
+							<p>проф. др Зорана Михајловић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav6">
+						<content>
+							<p>Прилози</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav7">
+						<content>
+							<p>Прилог 1 - Уписник      жичаре</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav8">
+						<content>
+							<p>Прилог 2 - Подаци      који се уносе у образац евиденције жичаре</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav9">
+						<content>
+							<p>Прилог 3 - Образац      евиденције висећих жичара</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav10">
+						<content>
+							<p>Прилог 4 - Образац      евиденције успињача</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

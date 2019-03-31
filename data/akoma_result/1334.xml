@@ -1,0 +1,596 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1962/2-17/main"/>
+					<FRBRuri value="/rs/act/1962/2-17"/>
+					<FRBRdate date="1962" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1962/2-17/srp@/main"/>
+					<FRBRuri value="/rs/act/1962/2-17/srp@"/>
+					<FRBRdate date="1962" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1962/2-17/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1962/2-17/srp@.akn"/>
+					<FRBRdate date="1962" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1962-1-20" name="службени гласник нрс" number="2" showAs="Службени гласник НРС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XII ГРАЂЕВИНАРСТВО, ГРАЂЕВИНСКО ЗЕМЉИШТЕ И КОМУНАЛНОСТАМБЕНЕ ДЕЛАТНОСТИ" value="xii грађевинарство, грађевинско земљиште и комуналностамбене делатности"/>
+				<keyword id="grupa" showAs="5. Гробља и сахрањивање" value="5. гробља и сахрањивање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1961-12-16" id="usvajanje"/>
+				<step date="1962-01-28" id="stupanje_na_snagu"/>
+				<step date="1962-01-28" id="primena"/>
+			</workflow>
+		</meta>
+		<preface>
+			<authority>На основу чл. 29. Закона о сахрањивању и гробљима („<ref id="ref1" href="/rs/act/61/20/srp@">Службени гласник НРС“, бр. 20/61</ref>), Савет за социјалну политику и комунална питања НР Србије доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>О ЕВИДЕНЦИЈАМА КОЈЕ СУ ДУЖНИ ДА ВОДЕ ОРГАНИ УПРАВЉАЊА ГРОБЉИМА</title>
+			<date>„Службени гласник НРС”, број 2 од 20. I 1962.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Вођење погребних евиденција у вези са сахрањивањем, односно са управљањем, уређивањем, одржавањем и коришћењем гробља, врши се по одредбама Закона о сахрањивању и гробљима и овог правилника.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Орган управљањем гробљем дужан је да води следеће евиденције:</p>
+							<тачка id="clan2-stav1-tac1">
+								<num>1.</num>
+								<content>
+									<p> главну књигу сахрањених,</p>
+								</content>
+							</тачка>
+							<тачка id="clan2-stav1-tac2">
+								<num>2.</num>
+								<content>
+									<p> регистар лица која су стекла право на коришћење гробног места,</p>
+								</content>
+							</тачка>
+							<тачка id="clan2-stav1-tac3">
+								<num>3.</num>
+								<content>
+									<p> регистар сахрањених лица,</p>
+								</content>
+							</тачка>
+							<тачка id="clan2-stav1-tac4">
+								<num>4.</num>
+								<content>
+									<p> картотеку гробних места, и</p>
+								</content>
+							</тачка>
+							<тачка id="clan2-stav1-tac5">
+								<num>5.</num>
+								<content>
+									<p> збирку исправа – досије – сахрањеног.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>За гробља у селима и насељима, која немају више од 5.000 становника, орган управљања дужан је да води само главну књигу сахрањених.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Поред обавезних евиденција из претходног члана, орган управљања гробљем може да води и друге евиденције, с обзиром на своје потребе, обим рада и друге околности.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Уколико у једном месту постоје два или више гробља у употреби, све евиденције из <ref>члана 2. овог</ref> правилника воде се за свако гробље посебно.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Главна књига сахрањених (у даљем тексту: главна књига) води се у облику књиге и у њу се уписују хронолошким редом сва лица која су сахрањена у одређеном гробљу (образац бр. 1).</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Главна књига мора бити повезана са тврдим корицама и листовима на чврстој белој финој хартији. Књиге се нумеришу редним римским а странице редним арапским бројевима. Књига мора бити прошивена јемствеником са прописаном овером и печатом надлежног органа управе општинског народног одбора.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Главна књига садржи:</p>
+							<тачка id="clan6-stav1-tac1">
+								<num>1.</num>
+								<content>
+									<p> редни број,</p>
+								</content>
+							</тачка>
+							<тачка id="clan6-stav1-tac2">
+								<num>2.</num>
+								<content>
+									<p> презиме, очево име и име,</p>
+								</content>
+							</тачка>
+							<тачка id="clan6-stav1-tac3">
+								<num>3.</num>
+								<content>
+									<p> место и датум рођења,</p>
+								</content>
+							</тачка>
+							<тачка id="clan6-stav1-tac4">
+								<num>4.</num>
+								<content>
+									<p> занимање,</p>
+								</content>
+							</тачка>
+							<тачка id="clan6-stav1-tac5">
+								<num>5.</num>
+								<content>
+									<p> последње пребивалиште (место, улица и број),</p>
+								</content>
+							</тачка>
+							<тачка id="clan6-stav1-tac6">
+								<num>6.</num>
+								<content>
+									<p> место и време када је смрт наступила,</p>
+								</content>
+							</тачка>
+							<тачка id="clan6-stav1-tac7">
+								<num>7.</num>
+								<content>
+									<p> узрок смрти и дијагнозу болести,</p>
+								</content>
+							</тачка>
+							<тачка id="clan6-stav1-tac8">
+								<num>8.</num>
+								<content>
+									<p> податке о упису у матичну књигу умрлих,</p>
+								</content>
+							</тачка>
+							<тачка id="clan6-stav1-tac9">
+								<num>9.</num>
+								<content>
+									<p> податке о сахрани (број парцеле и гробног места и датум сахране),</p>
+								</content>
+							</тачка>
+							<тачка id="clan6-stav1-tac10">
+								<num>10.</num>
+								<content>
+									<p> презиме и име лица које је стекло право на коришћење гробног места,</p>
+								</content>
+							</тачка>
+							<тачка id="clan6-stav1-tac11">
+								<num>11.</num>
+								<content>
+									<p> примедбу.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>У главну књигу подаци се уносе из извода из матичне књиге умрлих, из потврде о утврђеној смрти, односно из налога за сахрану, као и из других аката и књига. Упис у књигу врши се на целом табаку прописаног формата.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>У случају преноса посмртних остатака на друго гробље, у главној књизи у рубрици примедба забележиће се на које су гробље остаци пренети.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Регистар лица која су стекла право на коришћење гробног места (у даљем тексту: регистар) води се у облику књиге и у њу се уписују по азбучном реду сва лица која су ово право стекла у одређеном гробљу (образац бр. 2).</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Регистар мора бити повезан са тврдим корицама и листовима на чврстој белој финој хартији. Књиге се нумеришу редним римским а странице редним арапским бројевима.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Регистар садржи:</p>
+							<тачка id="clan9-stav1-tac1">
+								<num>1.</num>
+								<content>
+									<p> презиме, очево име и име,</p>
+								</content>
+							</тачка>
+							<тачка id="clan9-stav1-tac2">
+								<num>2.</num>
+								<content>
+									<p> податке о гробном месту (број парцеле и гробног места),</p>
+								</content>
+							</тачка>
+							<тачка id="clan9-stav1-tac3">
+								<num>3.</num>
+								<content>
+									<p> податке о уплаћеној накнади за коришћење гробног места (износ уплате, број и датум признанице),</p>
+								</content>
+							</тачка>
+							<тачка id="clan9-stav1-tac4">
+								<num>4.</num>
+								<content>
+									<p> рок коришћења гробног места,</p>
+								</content>
+							</тачка>
+							<тачка id="clan9-stav1-tac5">
+								<num>5.</num>
+								<content>
+									<p> податке о лицима сахрањеним у одређеном гробном месту (редни број из главне књиге),</p>
+								</content>
+							</тачка>
+							<тачка id="clan9-stav1-tac6">
+								<num>6.</num>
+								<content>
+									<p> примедбу.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>У регистар подаци се уносе из главне књиге, из признанице о извршеној уплати накнаде за коришћење одређеног гробног места, као и из других аката и књига. Упис у књигу врши се на половини табака прописаног формата.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Уколико је неко лице још за живота уплатило накнаду и тиме стекло право на коришћење гробном места у одређеном гробљу, ово лице се уписује у регистар, с тим што се ова околност констатује у примедби.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Када се врши пренос посмртних остатака пре истека њиховог рока почивања, у смислу чл. 20. и 21. Закона о сахрањивању и гробљима, орган управљања гробљем унеће у регистар ову констатацију. У оваквим случајевима орган управљања гробљем дужан је да се стара да се у регистар оног гробља на које посмртни остаци буду пренети, упишу сва лица која су стекла право на коришћење гробног места у гробљу са којег су посмртни остаци пренети. При овом новом упису у регистар ће се, као рок коришћења новог гробног места, унети само време које је преостало, по извршеном преносу, од рока за који је извршена уплата.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Регистар сахрањених лица води се у облику књиге и у њу се уписују по азбучном реду сва лица која су сахрањена у одређеном гробљу (образац бр. 3).</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav2">
+						<content>
+							<p>Регистар мора бити повезан са тврдим корицама и листовима на чврстој белој финој хартији.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan14">
+				<num>14.</num>
+				<content>
+					<clause id="clan14-stav1">
+						<content>
+							<p>Регистар сахрањених лица садржи:</p>
+							<тачка id="clan14-stav1-tac1">
+								<num>1.</num>
+								<content>
+									<p> презиме, очево име и име,</p>
+								</content>
+							</тачка>
+							<тачка id="clan14-stav1-tac2">
+								<num>2.</num>
+								<content>
+									<p> датум смрти,</p>
+								</content>
+							</тачка>
+							<тачка id="clan14-stav1-tac3">
+								<num>3.</num>
+								<content>
+									<p> редни број из главне књиге,</p>
+								</content>
+							</тачка>
+							<тачка id="clan14-stav1-tac4">
+								<num>4.</num>
+								<content>
+									<p> примедбу.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan15">
+				<num>15.</num>
+				<content>
+					<clause id="clan15-stav1">
+						<content>
+							<p>У регистар сахрањених лица подаци се уносе из главне књиге. Упис у књигу врши се на половини табака прописаног формата.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan16">
+				<num>16.</num>
+				<content>
+					<clause id="clan16-stav1">
+						<content>
+							<p>У случају преноса посмртних остатака на друго гробље у регистру ће се у примедби назначити на које су гробље посмртни остаци пренети. У оваквим случајевима орган управљања гробљем на које су пренети посмртни остаци, уписује сахрањено лице у свој регистар и у примедби уписује ову околност.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan17">
+				<num>17.</num>
+				<content>
+					<clause id="clan17-stav1">
+						<content>
+							<p>Картотека гробних места води се у облику слободних листова (картона), који се слажу по редном броју парцеле, а унутар парцеле по редном броју гробних места (образац бр. 4).</p>
+						</content>
+					</clause>
+					<clause id="clan17-stav2">
+						<content>
+							<p>Картотека из претходног става формира се одмах по извршеној регулацији и парцелацији гробља. За свако гробно место (гроб или гробницу) отвара се у картотеци посебан картон.</p>
+						</content>
+					</clause>
+					<clause id="clan17-stav3">
+						<content>
+							<p>Картони су од полутврдог картона формата 15х20 цм. зелене боје за гробове, а плаве боје за гробнице.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan18">
+				<num>18.</num>
+				<content>
+					<clause id="clan18-stav1">
+						<content>
+							<p>Картон гробног места садржи:</p>
+							<тачка id="clan18-stav1-tac1">
+								<num>1.</num>
+								<content>
+									<p> ознаку гробног места (број парцеле и број гроба или гробнице),</p>
+								</content>
+							</тачка>
+							<тачка id="clan18-stav1-tac2">
+								<num>2.</num>
+								<content>
+									<p> презиме и име сахрањеног,</p>
+								</content>
+							</тачка>
+							<тачка id="clan18-stav1-tac3">
+								<num>3.</num>
+								<content>
+									<p> датум сахране,</p>
+								</content>
+							</тачка>
+							<тачка id="clan18-stav1-tac4">
+								<num>4.</num>
+								<content>
+									<p> редни број из главне књиге,</p>
+								</content>
+							</тачка>
+							<тачка id="clan18-stav1-tac5">
+								<num>5.</num>
+								<content>
+									<p> презиме, очево име и име лица које је стекло право на коришћење гробног места,</p>
+								</content>
+							</тачка>
+							<тачка id="clan18-stav1-tac6">
+								<num>6.</num>
+								<content>
+									<p> промене у праву на коришћење гробног места,</p>
+								</content>
+							</тачка>
+							<тачка id="clan18-stav1-tac7">
+								<num>7.</num>
+								<content>
+									<p> редни број из регистра,</p>
+								</content>
+							</тачка>
+							<тачка id="clan18-stav1-tac8">
+								<num>8.</num>
+								<content>
+									<p> трајање права на коришћење гробног места,</p>
+								</content>
+							</тачка>
+							<тачка id="clan18-stav1-tac9">
+								<num>9.</num>
+								<content>
+									<p> примедбу.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan19">
+				<num>19.</num>
+				<content>
+					<clause id="clan19-stav1">
+						<content>
+							<p>Картон гробног места попуњава се одмах по извршеној сахрани на основу података из главне књиге и регистра.</p>
+						</content>
+					</clause>
+					<clause id="clan19-stav2">
+						<content>
+							<p>Кад истекне право на коришћење гробног места, а исто не буде продужено, као и у случају преноса посмртних остатака на друго гробље, картон одређеног гробног места вади се из картотеке и оставља у посебну евиденцију, а на његово место ставља се нов празан картон са одговарајућом забелешком у примедби. У картотеци гробља на које су пренети посмртни остаци, уписују се у картон одговарајућег гробног места сви подаци, са забелешком у примедби о извршеном преносу.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan20">
+				<num>20.</num>
+				<content>
+					<clause id="clan20-stav1">
+						<content>
+							<p>Збирка исправа сахрањеног лица (у даљем тексту: досије) води се у облику корица од полутврдог картона (образац бр. 5.).</p>
+						</content>
+					</clause>
+					<clause id="clan20-stav2">
+						<content>
+							<p>Досије носи број под којим је сахрањено лице уписано у главну књигу.</p>
+						</content>
+					</clause>
+					<clause id="clan20-stav3">
+						<content>
+							<p>У досије се улажу хронолошким редом сва акта, односно њихове копије или оверени преписи, на основу којих су извршени уписи у главну књигу и у регистар, као: извод из матичне књиге умрлих, потврда о утврђеној смрти, одобрење за извршење сахране, признаница о извршеној уплати накнаде за коришћење гробног места, акта која се односе на права и обавезе лица која су стекла право на коришћење гробног места и друга.</p>
+						</content>
+					</clause>
+					<clause id="clan20-stav4">
+						<content>
+							<p>У случају преноса посмртних остатака на друго гробље преносе се и сва уложена акта, с тим што у празном досијеу остаје докуменат о извршеном преносу. На гробљу, на које су посмртни остаци пренети, формира се нов досије и у њега улажу пренета акта и уписују подаци из главне књиге и регистра тог другог гробља.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan21">
+				<num>21.</num>
+				<content>
+					<clause id="clan21-stav1">
+						<content>
+							<p>Обрасци бр. 1, 2, 3, 4, и 5 чине саставни део овог правилника.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan22">
+				<num>22.</num>
+				<content>
+					<clause id="clan22-stav1">
+						<content>
+							<p>Органи управљања гробљима дужни су да воде све евиденције прописане овим правилником почев од 1. јануара 1962. године.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan23">
+				<num>23.</num>
+				<content>
+					<clause id="clan23-stav1">
+						<content>
+							<p>Постојеће евиденције и документацију на гробљима орган управљања саобразиће одредбама овог правилника у роковима и на начин који одреди општински народни одбор.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan24">
+				<num>24.</num>
+				<content>
+					<clause id="clan24-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана по објављивању у „Службеном гласнику НР Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan24-stav2">
+						<content>
+							<p>Бр. 750/61</p>
+						</content>
+					</clause>
+					<clause id="clan24-stav3">
+						<content>
+							<p>У Београду, 16. децембра 1961. године</p>
+						</content>
+					</clause>
+					<clause id="clan24-stav4">
+						<content>
+							<p>Председник</p>
+						</content>
+					</clause>
+					<clause id="clan24-stav5">
+						<content>
+							<p>Савета за социјалну политику</p>
+						</content>
+					</clause>
+					<clause id="clan24-stav6">
+						<content>
+							<p>и комуналан питања НРС,</p>
+						</content>
+					</clause>
+					<clause id="clan24-stav7">
+						<content>
+							<p>Боса Цветић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan24-stav8">
+						<content>
+							<p>НАПОМЕНА ИЗДАВАЧА</p>
+						</content>
+					</clause>
+					<clause id="clan24-stav9">
+						<content>
+							<p>Обрасци бр. 1. до 5. одштампани су у „Службеном гласнику НРС”, број 19/62 на страни 19.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,715 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1990/11-461/main"/>
+					<FRBRuri value="/rs/act/1990/11-461"/>
+					<FRBRdate date="1990" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1991/49-2018/srp@/main"/>
+					<FRBRuri value="/rs/act/1991/49-2018/srp@"/>
+					<FRBRdate date="1991" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1991/49-2018/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1991/49-2018/srp@.akn"/>
+					<FRBRdate date="1991" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1990-3-17" name="службени гласник срс" number="11" showAs="Службени гласник СРС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="12. Заштита природе" value="12. заштита природе"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1990-02-23" id="usvajanje"/>
+				<step date="1990-03-25" id="stupanje_na_snagu"/>
+				<step date="1990-03-25" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="11/1990-461" id="e1" type="generation"/>
+				<eventRef date="49/1991-2018" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу  <ref>члана 23. став 1. тачка 2</ref>. Закона о заштити природе („<ref id="ref3" href="/rs/act/88/29/srp@">Службени гласник СРС”,  број 29/88</ref>),</p>
+			<p>Извршно  веће Скупштине Социјалистичке Републике Србије доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о стављању под заштиту  животињских врста као природних реткости</title>
+			<date>„Службени  гласник СРС”, број 11 од 17.  марта  1990, „Службени гласник РС”, број 49 од 15.  августа  1991.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Као природне реткости стављају се  под заштиту ретке, проређене* и угрожене животињске врсте којима је из  природних узрока или људском делатношћу угрожен опстанак као врсте, односно  које су угрожене коришћењем и прометом* ради очувања генофонда, односно  појединих чланова животињских заједница одређених екосистема Републике.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>*<ref id="ref4" href="/rs/act/1991/49/srp@">Службени гласник РС, број 49/1991</ref></heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Под потпуну  забрану коришћења и промета стављају се следеће животињске врсте:*</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>Класа INSECTA (инсекти)</heading>
+				<content>
+					<section id="gla1-od1">
+						<num>1.</num>
+						<heading> Фамилија Carabidae (бауљари или  трчуљци):</heading>
+						<content>
+							<point id="gla1-od1-clan2-tac1">
+								<num>1)</num>
+								<content>
+									<p> Calosoma sycophanta Web.;</p>
+								</content>
+							</point>
+							<point id="gla1-od1-clan2-tac2">
+								<num>2)</num>
+								<content>
+									<p> Calosoma inquisitor L.;</p>
+								</content>
+							</point>
+							<point id="gla1-od1-clan2-tac3">
+								<num>3)</num>
+								<content>
+									<p> Proceras gigas Crentz.;</p>
+								</content>
+							</point>
+							<point id="gla1-od1-clan2-tac4">
+								<num>4)</num>
+								<content>
+									<p> Carabus cancellatus Illg.;</p>
+								</content>
+							</point>
+							<point id="gla1-od1-clan2-tac5">
+								<num>5)</num>
+								<content>
+									<p> Carabus Ullrichi Germ.;</p>
+								</content>
+							</point>
+							<point id="gla1-od1-clan2-tac6">
+								<num>6)</num>
+								<content>
+									<p> Carabus intricattus L.;</p>
+								</content>
+							</point>
+							<point id="gla1-od1-clan2-tac7">
+								<num>7)</num>
+								<content>
+									<p> Carabus coriaceus L..</p>
+								</content>
+							</point>
+						</content>
+					</section>
+					<section id="gla1-od2">
+						<num>2.</num>
+						<heading> Фамилија Formicidae (мрави)</heading>
+						<content>
+							<point id="gla1-od2-clan2-tac1">
+								<num>1)</num>
+								<content>
+									<p> Formica rufa L. (риђи шумски  мрав)</p>
+								</content>
+							</point>
+						</content>
+					</section>
+					<section id="gla1-od3">
+						<num>3.</num>
+						<heading> Фамилија Coccinellidae  (бубамаре):</heading>
+						<content>
+							<point id="gla1-od3-clan2-tac1">
+								<num>1)</num>
+								<content>
+									<p> Adalia bipunctata L.;</p>
+								</content>
+							</point>
+							<point id="gla1-od3-clan2-tac2">
+								<num>2)</num>
+								<content>
+									<p> Coccinella septempunctata L.;</p>
+								</content>
+							</point>
+							<point id="gla1-od3-clan2-tac3">
+								<num>3)</num>
+								<content>
+									<p> Anatis ocellata L.;</p>
+								</content>
+							</point>
+							<point id="gla1-od3-clan2-tac4">
+								<num>4)</num>
+								<content>
+									<p> Exhochomus quadpustulatus L.;</p>
+								</content>
+							</point>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>Класа  CRUSTACEA*</heading>
+				<content>
+					<section id="gla2-od1">
+						<num>1.</num>
+						<heading> Све врсте рода  Astacus (слатководни ракови);*</heading>
+						<content>
+							<clause id="gla2-od1-clan2-stav1">
+								<content>
+									<p>III.* Класа AMPHIBIA  (водоземци):</p>
+									<тачка id="gla2-od1-clan2-stav1-tac1">
+										<num>1.</num>
+										<content>
+											<p> Фамилија Salamandridae (репати  водоземци):</p>
+											<point id="gla2-od1-clan2-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> Triturus cristatus (велики  мрмољак);</p>
+												</content>
+											</point>
+										</content>
+									</тачка>
+									<point id="gla2-od1-clan2-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> Salamandra atra (црни даждевњак).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-od1-clan2-stav2">
+								<content>
+									<p>IV.* Класа REPTILIA  (гмизавци):</p>
+									<тачка id="gla2-od1-clan2-stav2-tac1">
+										<num>1.</num>
+										<content>
+											<p> Фамилија Lacertaidae:</p>
+											<point id="gla2-od1-clan2-stav2-tac1">
+												<num>1)</num>
+												<content>
+													<p> Lacerta praticola pontica (шумски  гуштер).</p>
+												</content>
+											</point>
+										</content>
+									</тачка>
+									<тачка id="gla2-od1-clan2-stav2-tac2">
+										<num>2.</num>
+										<content>
+											<p> Фамилија Scincidae</p>
+										</content>
+									</тачка>
+									<point id="gla2-od1-clan2-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> Ablepharus kitaibelii Bibron  (кратконоги гуштер).</p>
+										</content>
+									</point>
+									<тачка id="gla2-od1-clan2-stav2-tac3">
+										<num>3.</num>
+										<content>
+											<p> Фамилија  Emydae:*</p>
+										</content>
+									</тачка>
+									<point id="gla2-od1-clan2-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> Emys  orbicularis (барска корњача);*</p>
+										</content>
+									</point>
+									<тачка id="gla2-od1-clan2-stav2-tac4">
+										<num>4.</num>
+										<content>
+											<p> Фамилија  Testudinidae:*</p>
+										</content>
+									</тачка>
+									<point id="gla2-od1-clan2-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> Testudo  hermanni (обична или грчка чанчара);*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-od1-clan2-stav3">
+								<content>
+									<p>V.* Класа AVES (птице):</p>
+									<тачка id="gla2-od1-clan2-stav3-tac1">
+										<num>1.</num>
+										<content>
+											<p> Фамилија Vulturidae (стрвинари):</p>
+											<point id="gla2-od1-clan2-stav3-tac1">
+												<num>1)</num>
+												<content>
+													<p> Gyps Fulvus Habl (белоглави суп).</p>
+												</content>
+											</point>
+										</content>
+									</тачка>
+									<тачка id="gla2-od1-clan2-stav3-tac2">
+										<num>2.</num>
+										<content>
+											<p> Фамилија Tetraonidae (тетреби):</p>
+										</content>
+									</тачка>
+									<point id="gla2-od1-clan2-stav3-tac1">
+										<num>1)</num>
+										<content>
+											<p> Tetrao urogallus L. (велики  тетреб).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-od1-clan2-stav4">
+								<content>
+									<p>VI.* Класа MAMMALIA (сисари):</p>
+									<тачка id="gla2-od1-clan2-stav4-tac1">
+										<num>1.</num>
+										<content>
+											<p> Фамилија Rhinolophidae (шишмиши  потковичари):</p>
+											<point id="gla2-od1-clan2-stav4-tac1">
+												<num>1)</num>
+												<content>
+													<p> Rhinolophus ferrum-equinum Schreb  (велики потковичар):</p>
+												</content>
+											</point>
+										</content>
+									</тачка>
+									<point id="gla2-od1-clan2-stav4-tac2">
+										<num>2)</num>
+										<content>
+											<p> Rhinolophus euryale Blas (средњи  потковичар);</p>
+										</content>
+									</point>
+									<point id="gla2-od1-clan2-stav4-tac3">
+										<num>3)</num>
+										<content>
+											<p> Rhinolophus hipposideros Bechst  (мали потковичар).</p>
+										</content>
+									</point>
+									<тачка id="gla2-od1-clan2-stav4-tac2">
+										<num>2.</num>
+										<content>
+											<p> Фамилија Vespertilionidae  (шишмиши глатконосци):</p>
+										</content>
+									</тачка>
+									<point id="gla2-od1-clan2-stav4-tac1">
+										<num>1)</num>
+										<content>
+											<p> Myotis myotis Bork (велики  шишмиш);</p>
+										</content>
+									</point>
+									<point id="gla2-od1-clan2-stav4-tac2">
+										<num>2)</num>
+										<content>
+											<p> Myotis dasycneme Boie (барски  шишмиш);</p>
+										</content>
+									</point>
+									<point id="gla2-od1-clan2-stav4-tac3">
+										<num>3)</num>
+										<content>
+											<p> Myotis oxygnathus Mont (оштроухи  шишмиш);</p>
+										</content>
+									</point>
+									<point id="gla2-od1-clan2-stav4-tac4">
+										<num>4)</num>
+										<content>
+											<p> Myotis capaccinii Bonap (дугоноги  шишмиш);</p>
+										</content>
+									</point>
+									<point id="gla2-od1-clan2-stav4-tac5">
+										<num>5)</num>
+										<content>
+											<p> Myotis daubentoni Leisl (поводни  шишмиш);</p>
+										</content>
+									</point>
+									<point id="gla2-od1-clan2-stav4-tac6">
+										<num>6)</num>
+										<content>
+											<p> Myotis bechsteini Kuhl (дугоухи  шишмиш);</p>
+										</content>
+									</point>
+									<point id="gla2-od1-clan2-stav4-tac7">
+										<num>7)</num>
+										<content>
+											<p> Myotis mystacinus Leisl (бркати  шишмиш);</p>
+										</content>
+									</point>
+									<point id="gla2-od1-clan2-stav4-tac8">
+										<num>8)</num>
+										<content>
+											<p> Myotis emarginatus Geoffr  (тробојни шишмиш);</p>
+										</content>
+									</point>
+									<point id="gla2-od1-clan2-stav4-tac9">
+										<num>9)</num>
+										<content>
+											<p> Myotis nattereri Kuhl (ројтасти  шишмиш);</p>
+										</content>
+									</point>
+									<point id="gla2-od1-clan2-stav4-tac10">
+										<num>10)</num>
+										<content>
+											<p> Vespertilio murinus L. (двобојни  љиљак);</p>
+										</content>
+									</point>
+									<point id="gla2-od1-clan2-stav4-tac11">
+										<num>11)</num>
+										<content>
+											<p> Eptesicus nilssonii Keyserl. и  Blas. (северни ноћник);</p>
+										</content>
+									</point>
+									<point id="gla2-od1-clan2-stav4-tac12">
+										<num>12)</num>
+										<content>
+											<p> Eptesicus serotinus Schreb.  (велики вечерник);</p>
+										</content>
+									</point>
+									<point id="gla2-od1-clan2-stav4-tac13">
+										<num>13)</num>
+										<content>
+											<p> Nyctalus leisteri Kuhl (мали  вечерник);</p>
+										</content>
+									</point>
+									<point id="gla2-od1-clan2-stav4-tac14">
+										<num>14)</num>
+										<content>
+											<p> Nyctalus noctula Schreb. (рани  веченик);</p>
+										</content>
+									</point>
+									<point id="gla2-od1-clan2-stav4-tac15">
+										<num>15)</num>
+										<content>
+											<p> Nyctalus lasiopterus Schreb.  (џиновски верак);</p>
+										</content>
+									</point>
+									<point id="gla2-od1-clan2-stav4-tac16">
+										<num>16)</num>
+										<content>
+											<p> Pipistrellus pipistrellus  Schreb. (нетопир);</p>
+										</content>
+									</point>
+									<point id="gla2-od1-clan2-stav4-tac17">
+										<num>17)</num>
+										<content>
+											<p> Barbastella barbastellus Schreb.  (црни широкоух);</p>
+										</content>
+									</point>
+									<point id="gla2-od1-clan2-stav4-tac18">
+										<num>18)</num>
+										<content>
+											<p> Plecotus auritus L. (дугоухи  љиљак);</p>
+										</content>
+									</point>
+									<point id="gla2-od1-clan2-stav4-tac19">
+										<num>19)</num>
+										<content>
+											<p> Miniopterus schrebersi Kuhl  (дугокрили крилаш).</p>
+										</content>
+									</point>
+									<тачка id="gla2-od1-clan2-stav4-tac3">
+										<num>3.</num>
+										<content>
+											<p> Фамилија Mustelidae (куне):</p>
+										</content>
+									</тачка>
+									<point id="gla2-od1-clan2-stav4-tac1">
+										<num>1)</num>
+										<content>
+											<p> Vormela peregusna Guenld. (шарени  твор).</p>
+										</content>
+									</point>
+									<тачка id="gla2-od1-clan2-stav4-tac4">
+										<num>4.</num>
+										<content>
+											<p> Фамилија Erinaceidae (јежеви):</p>
+										</content>
+									</тачка>
+									<point id="gla2-od1-clan2-stav4-tac1">
+										<num>1)</num>
+										<content>
+											<p> Erinaceus europaeus L.  (тамнопрсни јеж).</p>
+										</content>
+									</point>
+									<тачка id="gla2-od1-clan2-stav4-tac5">
+										<num>5.</num>
+										<content>
+											<p> Фамилија Muscardinidae (пухови):</p>
+										</content>
+									</тачка>
+									<point id="gla2-od1-clan2-stav4-tac1">
+										<num>1)</num>
+										<content>
+											<p> Drymoys nitedula Pallas. (шумски  пух);</p>
+										</content>
+									</point>
+									<point id="gla2-od1-clan2-stav4-tac2">
+										<num>2)</num>
+										<content>
+											<p> Muscardinus avellanarius L. (пух  орашар).</p>
+										</content>
+									</point>
+									<тачка id="gla2-od1-clan2-stav4-tac6">
+										<num>6.</num>
+										<content>
+											<p> Фамилија Sciuridae (веверице):</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="gla2-od1-clan2-stav5">
+								<content>
+									<p>1 ) Cetullus cetullus L. (текуница).</p>
+								</content>
+							</clause>
+							<article id="gla2-od1-clan3">
+								<num>3.</num>
+								<heading>*<ref id="ref5" href="/rs/act/1991/49/srp@">Службени  гласник РС, број 49/1991</ref></heading>
+								<content>
+									<clause id="gla2-od1-clan3-stav1">
+										<content>
+											<p>Забрањен је лов, убијање и на други  начин уништавање одраслих јединки, младунаца и јаја природних реткости из члана  2. ове одлуке као и разарање гнезда, узнемиравање и прогањање, а нарочито у  периоду биолошке репродукције.</p>
+										</content>
+									</clause>
+									<article id="gla2-od1-clan3.а">
+										<num>3а</num>
+										<content>
+											<clause id="gla2-od1-clan3.а-stav1">
+												<content>
+													<p>Под контролу  коришћења и промета стављају се следеће врсте:*</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+								</content>
+							</article>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>Класа HIRUDINEA  1. Фамилија Hirudinidae (пијавице):*</heading>
+				<content>
+					<point id="gla1-clan3.а-tac1">
+						<num>1)</num>
+						<content>
+							<p> Hirudo  medicinalis (медицинска пијавица).*</p>
+						</content>
+					</point>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>Класа MOLLUSCA  (мекушци)*</heading>
+				<content>
+					<тачка id="gla2-clan3.а-tac1">
+						<num>1.</num>
+						<content>
+							<p> Фамилија  Helicidae (пужеви):*</p>
+							<point id="gla2-clan3.а-tac1">
+								<num>1)</num>
+								<content>
+									<p> Helix pomatia  (виноградарски пуж);*</p>
+								</content>
+							</point>
+						</content>
+					</тачка>
+					<тачка id="gla2-clan3.а-tac2">
+						<num>2.</num>
+						<content>
+							<p> Helix aspersa  (баштенски пуж).*</p>
+						</content>
+					</тачка>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>Класа  AMPHIBIA (водоземци)*</heading>
+				<content>
+					<тачка id="gla3-clan3.а-tac3">
+						<num>3.</num>
+						<content>
+							<p> Фамилија  Ranidae (жабе):*</p>
+						</content>
+					</тачка>
+					<point id="gla3-clan3.а-tac1">
+						<num>1)</num>
+						<content>
+							<p> Rana  esculenta;*</p>
+						</content>
+					</point>
+					<point id="gla3-clan3.а-tac2">
+						<num>2)</num>
+						<content>
+							<p> Rana lessnae;*</p>
+						</content>
+					</point>
+					<point id="gla3-clan3.а-tac3">
+						<num>3)</num>
+						<content>
+							<p> Rana  ridibunda.*</p>
+						</content>
+					</point>
+					<article id="gla3-clan3.б">
+						<num>3б</num>
+						<heading>*<ref id="ref6" href="/rs/act/1991/49/srp@">Службени гласник РС, број 49/1991</ref></heading>
+						<content>
+							<clause id="gla3-clan3.б-stav1">
+								<content>
+									<p>Врсте из члана 3а  могу се сакупљати и откупљивати под условима утврђеним у овој одлуци.*</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan3.б-stav2">
+								<content>
+									<p>Организација из  члана 3в став 1. ове одлуке може привремено да забрани сакупљање појединих врста  на одређеном подручју где су те врсте угрожене због непридржавања утврђених  услова од стране сакупљача, односно откупљивача или других разлога.*</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan3.б-stav3">
+								<content>
+									<p>За животињске  врсте из фамилије пијавица утврђује се ловостај сваке треће године, с тим што је  први период ловостаја од 1. јануара 1992. године до 31. децембра 1992. год.*</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan3.б-stav4">
+								<content>
+									<p>За животињске  врсте из фамилије пужева утврђује се:*</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan3.б-stav5">
+								<content>
+									<p>- ловостај сваке  године у периоду од 1. октобра до 30. јуна;*</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan3.б-stav6">
+								<content>
+									<p>- забрана  сакупљања, откупа и стављања у промет јединки, врста чија је ширина кућице мања  од 4 цм.*</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan3.б-stav7">
+								<content>
+									<p>За животињске  врсте из фамилије жаба утврђује се:*</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan3.б-stav8">
+								<content>
+									<p>- ловостај у  периоду размножавања (од 1. августа до 1. јуна);*</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan3.б-stav9">
+								<content>
+									<p>- забрана  сакупљања јединки врста лакших од 50 и тежих од 150 гр, односно мањих од 9 и  већих од 150 цм.*</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan3.в">
+						<num>3в</num>
+						<heading>*<ref id="ref7" href="/rs/act/1991/49/srp@">Службени  гласник РС, број 49/1991</ref></heading>
+						<content>
+							<clause id="gla3-clan3.в-stav1">
+								<content>
+									<p>Сакупљање, односно  откуп животињских врста из члана 3а ове одлуке одобрава Завод за заштиту  природе.*</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan3.в-stav2">
+								<content>
+									<p>Захтев за издавање  одобрења из става 1. овог члана подноси се најкасније 15 дана пре сезоне  сакупљања врста.*</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan3.в-stav3">
+								<content>
+									<p>Акт о одобравању  сакупљања садржи врсту која се може скупљати, односно откупљивати, количину,  период за који се издаје одобрење и подручје сакупљања, односно откупа.*</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan3.в-stav4">
+								<content>
+									<p>Завод за заштиту  природе дужан је да један примерак акта из става 3. овог члана доставља  општинском органу надлежном за послове привреде и пољопривреде.*</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan3.в-stav5">
+								<content>
+									<p>Правна или физичка  лица која врше откуп врсте из члана 3а ове одлуке дужна су да податке о  откупљеним количинама достављају Заводу за заштиту природе.*</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan4">
+						<num>4.</num>
+						<heading>*<ref id="ref8" href="/rs/act/1991/49/srp@">Службени гласник РС, број 49/1991</ref></heading>
+						<content>
+							<clause id="gla3-clan4-stav1">
+								<content>
+									<p>За природне реткости из <ref>члана 2.  </ref>и члана 3а* ове одлуке донеће се програм заштите и развоја којим ће се  утврдити и услови за њихову популаризацију и информисање.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan5">
+						<num>5.</num>
+						<heading>*<ref id="ref9" href="/rs/act/1991/49/srp@">Службени гласник РС, број 49/1991</ref></heading>
+						<content>
+							<clause id="gla3-clan5-stav1">
+								<content>
+									<p>О заштити природних реткости стара  се Републички завод за заштиту природе спровођењем програма заштите и развоја из  <ref>члана 4. </ref>ове одлуке, вршењем стручног надзора над спровођењем утврђених мера  заштите и популаризацијом заштићених природних реткости, као и имаоци, односно  корисници тих реткости.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla3-clan6-stav1">
+								<content>
+									<p>Ова одлука ступа на снагу осмог дана  од дана објављивања у &quot;Службеном гласнику Социјалистичке Републике Србије&quot;.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan6-stav2">
+								<content>
+									<p>05 број  501-603/32-2</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan6-stav3">
+								<content>
+									<p>У  Београду, 23. фебруара 1990. године</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan6-stav4">
+								<content>
+									<p>Извршно веће Скупштине Социјалистичке Републике Србије</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan6-stav5">
+								<content>
+									<p>Потпредседник,</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

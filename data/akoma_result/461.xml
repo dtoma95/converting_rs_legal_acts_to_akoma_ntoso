@@ -1,0 +1,2083 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2013/29-4/main"/>
+					<FRBRuri value="/rs/act/2013/29-4"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2019/6-20/srp@/main"/>
+					<FRBRuri value="/rs/act/2019/6-20/srp@"/>
+					<FRBRdate date="2019" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2019/6-20/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2019/6-20/srp@.akn"/>
+					<FRBRdate date="2019" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2013-3-29" name="службени гласник рс" number="29" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="4. Здравствено осигурање" value="4. здравствено осигурање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2013-03-28" id="usvajanje"/>
+				<step date="2013-04-06" id="stupanje_na_snagu"/>
+				<step date="2013-04-06" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="29/2013-4" id="e1" type="generation"/>
+				<eventRef date="49/2013-6" id="e2" type="amendment"/>
+				<eventRef date="51/2013-32" id="e3" type="amendment"/>
+				<eventRef date="86/2013-4" id="e4" type="amendment"/>
+				<eventRef date="119/2014-27" id="e5" type="amendment"/>
+				<eventRef date="86/2015-15" id="e6" type="amendment"/>
+				<eventRef date="95/2016-6" id="e7" type="amendment"/>
+				<eventRef date="111/2017-5" id="e8" type="amendment"/>
+				<eventRef date="56/2018-9" id="e9" type="amendment"/>
+				<eventRef date="68/2018-3" id="e10" type="amendment"/>
+				<eventRef date="6/2019-20" id="e11" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу осмог дана од дана објављивања у ,,Службеном гласнику Републике Србије”, односно 6. априла 2013. године (види <ref>члан 18. </ref>Уредбе).Уредба о допуни Уредбе о планирању и врсти роба и услуга за које се спроводе централизоване јавне набавке (<ref id="ref19" href="/rs/act/2015/86/srp@">Службени гласник РС, број 86/2015</ref>) ступила је на снагу наредног дана од дана објављивања у Службеном гласнику Републике Србије, односно 15. октобра 2015. године (види <ref>члан 2. </ref>Уредбе - 86/2015-15).Уредба о допуни Уредбе о планирању и врсти роба и услуга за које се спроводе централизоване јавне набавке (<ref id="ref20" href="/rs/act/2016/95/srp@">Службени гласник РС, број 95/2016</ref>) ступила је на снагу наредног дана од дана објављивања у Службеном гласнику Републике Србије, односно 1. децембра 2016. године (види <ref>члан 2. </ref>Уредбе - 95/2016-6).Уредба о допуни Уредбе о планирању и врсти роба и услуга за које се спроводе централизоване јавне набавке (<ref id="ref21" href="/rs/act/2017/111/srp@">Службени гласник РС, број 111/2017</ref>) ступила је на снагу наредног дана од дана објављивања у Службеном гласнику Републике Србије, односно 12. децембра 2017. године (види <ref>члан 2. </ref>Уредбе – 111/2017-5).Уредба о допунама Уредбе о планирању и врсти роба и услуга за које се спроводе централизоване јавне набавке (<ref id="ref22" href="/rs/act/2018/56/srp@">Службени гласник РС, број 56/2018</ref>) ступила је на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 26. јула 2018. године (види <ref>члан 2. </ref>Уредбе - 56/2018-9).Уредба о измени и допуни Уредбе о планирању и врсти роба и услуга за које се спроводе централизоване јавне набавке (<ref id="ref23" href="/rs/act/2018/68/srp@">Службени гласник РС, број 68/2018</ref>) ступила је на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 8. септембра 2018. године (види <ref>члан 2. </ref>Уредбе - 68/2018-3).Уредба о измени Уредбе о планирању и врсти роба и услуга за које се спроводе централизоване јавне набавке (<ref id="ref24" href="/rs/act/2018/68/srp@">Службени гласник РС, број 68/2018</ref>) ступила је на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”, односно2. фебруара 2019. године (види <ref>члан 2. </ref>Уредбе - 6/2019-20).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу члана 212а став 8. Закона о здравственом осигурању („<ref id="ref25" href="/rs/act/05/107/srp@">Службени гласник РС”, бр. 107/05, 109/05</ref> – исправка, 57/11, 110/12 – УС и 119/12) и <ref>члана 42. став 1. </ref>Закона о Влади („<ref id="ref26" href="/rs/act/05/55/srp@">Службени гласник РС”, 55/05, 71/05</ref> – исправка, 101/07, 65/08, 16/11, 68/12 – УС и 72/12),</p>
+		</preamble>
+		<preface>
+			<authority>Влада доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о планирању и врсти роба и услуга за које се спроводе централизоване јавне набавке</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 29 од 29. марта 2013, 49 од 5. јуна   2013, 51 од 12. јуна 2013 - исправка, 86 од 30. септембра 2013, 119 од 31.   октобра 2014, 86 од 14. октобра 2015, 95 од 30. новембра 2016, 111 од 11.   децембра 2017, 56 од 18. јула 2018, 68 од 7. септембра 2018, 6 од 1.   фебруара 2019.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Предмет уређивања</heading>
+				<content>
+					<article id="od1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="od1-clan1-stav1">
+								<content>
+									<p>Овом уредбом уређују се услови, начин и поступак планирања потреба здравствених установа из Плана мреже здравствених установа које доноси Влада (у даљем тексту: здравствене установе), одређује се врста роба и услуга за које се спроводе централизоване јавне набавке и које су обухваћене Планом централизованих јавних набавки и уређују друга питања од значаја за планирање, организовање и спровођење централизованих јавних набавки.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Услови, начин и поступак планирања потреба здравствених установа за спровођење централизованих јавних набавки</heading>
+				<content>
+					<article id="od2-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="od2-clan2-stav1">
+								<content>
+									<p>Планирање потреба здравствених установа за набавку роба и услуга за које се спроводе централизоване јавне набавке и које су обухваћене Планом централизованих јавних набавки, врши се ако су за те набавке обезбеђена средства у годишњем финансијском плану здравствене установе, односно у годишњем финансијском плану Републичког фонда за здравствено осигурање (у даљем тексту: Републички фонд).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="od2-clan3-stav1">
+								<content>
+									<p>План централизованих јавних набавки припрема се на основу планова потреба роба и услуга здравствених установа (у даљем тексту: план потреба) који се доносе за сваку буџетску годину, односно за период на који се закључује уговор са Републичким фондом, на начин и по поступку прописаним овом уредбом.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan3-stav2">
+								<content>
+									<p>План централизованих јавних набавки садржи:</p>
+									<point id="od2-clan3-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> део који се односи на план потреба сваке појединачне здравствене установе за робе и услуге за које се спроводе централизоване јавне набавке;</p>
+										</content>
+									</point>
+									<point id="od2-clan3-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> део који се односи на план потреба исказан по врсти и количини роба и услуга за које се спроводе централизоване јавне набавке.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="od2-clan4-stav1">
+								<content>
+									<p>План потреба здравствених установа за које се спроводе централизоване јавне набавке доноси управни одбор здравствене установе, на предлог директора здравствене установе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="od2-clan5-stav1">
+								<content>
+									<p>Здравствена установа припрема план потреба за које се спроводе централизоване јавне набавке у складу са Стручно-методолошким упутством за израду плана потреба, на јединственом обрасцу који је саставни део тог упутства.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav2">
+								<content>
+									<p>Стручно-методолошко упутство и јединствени образац из става 1. овог члана доноси завод за јавно здравље основан за територију Републике (у даљем тексту: Институт за јавно здравље Србије), по претходно прибављеној сагласности Министарства здравља.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav3">
+								<content>
+									<p>Стручно-методолошко упутство и јединствени образац   из става 1. овог члана Институт за јавно здравље Србије доноси најкасније до   31. јануара текуће буџетске године за припрему плана потреба здравствених   установа за спровођење централизованих јавних набавки за наредну буџетску   годину.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav4">
+								<content>
+									<p>Стручно-методолошко упутство и јединствени образац из става 2. овог члана Институт за јавно здравље Србије доставља здравственим установама најкасније 30 дана пре дана који је овом уредбом одређен као дан достављања плана потреба здравствених установа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan6">
+						<num>6.</num>
+						<heading>*<ref id="ref27" href="/rs/act/2013/49/srp@">Службени   гласник РС, број 49/2013</ref></heading>
+						<content>
+							<clause id="od2-clan6-stav1">
+								<content>
+									<p>За израду предлога плана потреба здравствених установа за које се спроводе централизоване јавне набавке, директор здравствене установе образује комисију састављену од лица стручних за област медицине, фармације, односно стоматологије, као и лица стручних за област економије и права.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan6-stav2">
+								<content>
+									<p>Комисија из става 1. овог члана, израђује предлог плана потреба најкасније до 30. јуна текуће године за наредну буџетску годину, на основу:</p>
+									<point id="od2-clan6-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> плана рада здравствене установе из претходне буџетске године, односно из периода на који је закључен уговор са Републичким фондом;</p>
+										</content>
+									</point>
+									<point id="od2-clan6-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> исказане потрошње лекова и медицинских средстава у претходној години, на основу фактурисаних услуга према Републичком фонду;</p>
+										</content>
+									</point>
+									<point id="od2-clan6-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> коначног обрачуна здравствене установе и Републичког фонда по завршеној буџетској години;</p>
+										</content>
+									</point>
+									<point id="od2-clan6-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> плана рада здравствене установе за буџетску годину, за коју се планира спровођење централизоване јавне набавке, на које је мишљење дао завод за јавно здравље основан за територију на којој се здравствена установа налази;</p>
+										</content>
+									</point>
+									<point id="od2-clan6-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> планиране потрошње роба и услуга за које се спроводе централизоване јавне набавке за наредну буџетску годину, на које је мишљење дао завод за јавно здравље основан за територију на којој се здравствена установа налази;</p>
+										</content>
+									</point>
+									<point id="od2-clan6-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> финансијских средстава планираних за робе и услуге за које се спроводе централизоване јавне набавке у финансијском плану здравствене установе за одређену буџетску годину, односно за период за који закључује уговор са Републичким фондом.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od2-clan6-stav3">
+								<content>
+									<p>Републички фонд дужан је да здравственим установама достави податке из става 1. тачка 6) овог члана, најкасније до 10. јула текуће године, а на основу упутства о припреми нацрта буџета Републике Србије, које доноси министар надлежан за послове финансија, као и на основу Фискалне стратегије за организације за обавезно социјално осигурање, за наредну буџетску годину.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan6-stav4">
+								<content>
+									<p>Здравствена установа дужна је да усклади предлог плана потреба из става 2. овог члана са подацима из става 3. овог члана.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="od2-clan7-stav1">
+								<content>
+									<p>Предлог плана потреба припремљен на начин прописан чланом 6. ове уредбе, директор доставља на мишљење стручном савету здравствене установе.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan7-stav2">
+								<content>
+									<p>По прибављеном мишљењу из става 1. овог члана, директор утврђује предлог плана потреба и доставља га управном одбору здравствене установе ради усвајања.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="od2-clan8-stav1">
+								<content>
+									<p>Здравствена установа доставља план потреба за наредну буџетску годину, донет на начин из <ref>члана 6. став 2. </ref>ове уредбе, Институту за јавно здравље Србије, најкасније до 20. јула текуће године, у електронској форми као и у писменом облику, ради доношења Плана централизованих јавних набавки за наредну буџетску годину.</p>
+									<тачка id="od2-clan8-stav1-tac3">
+										<num>3.</num>
+										<content>
+											<p> Доношење Плана централизованих јавних набавки</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="od2-clan9-stav1">
+								<content>
+									<p>Институт за јавно здравље Србије на основу прикупљених, обједињених и анализираних планова потреба здравствених установа утврђује предлог Плана централизованих јавних набавки, који доставља на мишљење републичким стручним комисијама основаним у складу са законом којим се уређује здравствена заштита (у даљем тексту: републичке стручне комисије).</p>
+								</content>
+							</clause>
+							<clause id="od2-clan9-stav2">
+								<content>
+									<p>Републичке стручне комисије у року од 15 дана од дана достављања предлога плана централизованих јавних набавки дају мишљење на тај предлог.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan9-stav3">
+								<content>
+									<p>Републичке стручне комисије у мишљењу из става 2. овог члана могу да предложе измене, односно допуне података из предлога Плана централизованих јавних набавки у областима за које су основане.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan9-stav4">
+								<content>
+									<p>Ако републичке стручне комисије у року из става 2. овог члана не доставе мишљење на предлог Плана централизованих јавних набавки, Институт за јавно здравље Србије наставља са поступком доношења Плана централизованих јавних набавки, у складу са овом уредбом.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan9-stav5">
+								<content>
+									<p>Ако су републичке стручне комисије доставиле предлог за измене, односно допуне предлога Плана централизованих јавних набавки у складу са ставом 3. овог члана, Институт за јавно здравље Србије спроводи поступак усклађивања предлога Плана централизованих јавних набавки са датим мишљењима.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan9-stav6">
+								<content>
+									<p>По утврђивању коначног текста предлога Плана централизованих јавних набавки управни одбор Института за јавно здравље Србије на предлог директора доноси План централизованих јавних набавки, који се доставља Републичком фонду најкасније до 15. августа у текућој години за наредну буџетску годину.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="od2-clan10-stav1">
+								<content>
+									<p>Републички фонд започиње са поступцима централизованих јавних набавки у складу са Планом централизованих јавних набавки за наредну буџетску годину, најкасније 1. новембра текуће године, односно најкасније наредног дана од дана када Влада усвоји предлог закона којим се уређује буџет Републике Србије и предлог одлука о давању сагласности на финансијске планове организација за обавезно социјално осигурање и финансијских планова организација за обавезно социјално осигурање.</p>
+									<тачка id="od2-clan10-stav1-tac4">
+										<num>4.</num>
+										<content>
+											<p> Врсте робе и услуга за које се спроводе централизоване јавне набавке</p>
+											<тачка id="od2-clan10-stav1-tac4">
+												<num>4.</num>
+												<content>
+													<p>1. Врсте робе и услуга за које се спроводе централизоване јавне набавке у здравственим установама</p>
+												</content>
+											</тачка>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="od2-clan11-stav1">
+								<content>
+									<p>За потребе здравствених установа спроводе се централизоване јавне набавке робе за одговарајућу врсту енергената које користе одређене здравствене установе.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan11-stav2">
+								<content>
+									<p>За потребе здравствених установа спроводе се централизоване јавне набавке услуга, и то за:</p>
+									<point id="od2-clan11-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> осигурање имовине здравствене установе;</p>
+										</content>
+									</point>
+									<point id="od2-clan11-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> осигурање лица запослених у здравственој установи.</p>
+										</content>
+									</point>
+									<тачка id="od2-clan11-stav2-tac4">
+										<num>4.</num>
+										<content>
+											<p>2. Врсте робе стационарних здравствених установа за које се спроводе централизоване јавне набавке</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="od2-clan12-stav1">
+								<content>
+									<p>За потребе стационарних здравствених установа спроводе се централизоване јавне набавке робе, и то за:</p>
+									<point id="od2-clan12-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> лекове са Листе лекова који се прописују и издају на терет средстава обавезног здравственог осигурања (у даљем: тексту: Листа лекова);</p>
+										</content>
+									</point>
+									<point id="od2-clan12-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> медицински гасови;</p>
+										</content>
+									</point>
+									<point id="od2-clan12-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> медицинска средства:</p>
+											<item id="od2-clan12-stav1-tac3-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> уградни материјал:</p>
+													<alinea id="od2-clan12-stav1-tac3-podtac1-ali1">
+														<content>
+															<p>рафтови,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac1-ali2">
+														<content>
+															<p>ндоваскуларни графтови,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac1-ali3">
+														<content>
+															<p>алвуле и рингови,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac1-ali4">
+														<content>
+															<p>оронарни стентови,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac1-ali5">
+														<content>
+															<p>оронарни стентови обложени леком,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac1-ali6">
+														<content>
+															<p>ериферни стентови,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac1-ali7">
+														<content>
+															<p>аротидни стентови,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac1-ali8">
+														<content>
+															<p>ејсмејкери и дефибрилатори,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac1-ali9">
+														<content>
+															<p>нтраокуларна сочива,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac1-ali10">
+														<content>
+															<p>мплантати за кукове и колена,</p>
+														</content>
+													</alinea>
+												</content>
+											</item>
+											<item id="od2-clan12-stav1-tac3-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> санитетски и медицински потрошни материјал:</p>
+													<alinea id="od2-clan12-stav1-tac3-podtac2-ali1">
+														<content>
+															<p>авоји,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac2-ali2">
+														<content>
+															<p>ата,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac2-ali3">
+														<content>
+															<p>опломери,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac2-ali4">
+														<content>
+															<p>прицеви,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac2-ali5">
+														<content>
+															<p>патуле/штапићи,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac2-ali6">
+														<content>
+															<p>калпел ножићи,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac2-ali7">
+														<content>
+															<p>истеми за трансфузију,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac2-ali8">
+														<content>
+															<p>утотрансфузиони системи/сетови за интраоперативно спашавање крви,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac2-ali9">
+														<content>
+															<p>истеми за инфузију,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac2-ali10">
+														<content>
+															<p>укавице латекс и ПВЦ рукавице,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac2-ali11">
+														<content>
+															<p>ируршке рукавице (стерилне),</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac2-ali12">
+														<content>
+															<p>аске,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac2-ali13">
+														<content>
+															<p>омпресе,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac2-ali14">
+														<content>
+															<p>есе за урин,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac2-ali15">
+														<content>
+															<p>атетери,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac2-ali16">
+														<content>
+															<p>алон катетери,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac2-ali17">
+														<content>
+															<p>гле,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac2-ali18">
+														<content>
+															<p>аза,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac2-ali19">
+														<content>
+															<p>ластери,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac2-ali20">
+														<content>
+															<p>КГ електроде,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan12-stav1-tac3-podtac2-ali21">
+														<content>
+															<p>TG филмови,</p>
+														</content>
+													</alinea>
+												</content>
+											</item>
+											<item id="od2-clan12-stav1-tac3-podtac3">
+												<num>(3)</num>
+												<content>
+													<p> материјал за дијализу у складу са прописима којима се уређују стандарди материјала за дијализу;</p>
+												</content>
+											</item>
+										</content>
+									</point>
+									<point id="od2-clan12-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> медицински алкохол;</p>
+										</content>
+									</point>
+									<point id="od2-clan12-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> капе;</p>
+										</content>
+									</point>
+									<point id="od2-clan12-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> каљаче;</p>
+										</content>
+									</point>
+									<point id="od2-clan12-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> хируршки мантили.</p>
+										</content>
+									</point>
+									<тачка id="od2-clan12-stav1-tac4">
+										<num>4.</num>
+										<content>
+											<p>3. Врсте робе у домовима здравља и заводима које обављају делатност на примарном нивоу здравствене заштите за које се спроводе централизоване јавне набавке</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="od2-clan13-stav1">
+								<content>
+									<p>За потребе домова здравља и завода који обављају делатност на примарном нивоу здравствене заштите спроводе се централизоване јавне набавке робе, и то за:</p>
+									<point id="od2-clan13-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> лекове са Листе лекова за парентералну примену који се примењују у овим здравственим установама, у складу са законом;</p>
+										</content>
+									</point>
+									<point id="od2-clan13-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> медицинска средства:</p>
+											<item id="od2-clan13-stav1-tac2-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> санитетски и медицински потрошни материјал:</p>
+													<alinea id="od2-clan13-stav1-tac2-podtac1-ali1">
+														<content>
+															<p>авоји,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan13-stav1-tac2-podtac1-ali2">
+														<content>
+															<p>ата,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan13-stav1-tac2-podtac1-ali3">
+														<content>
+															<p>опломери,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan13-stav1-tac2-podtac1-ali4">
+														<content>
+															<p>прицеви,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan13-stav1-tac2-podtac1-ali5">
+														<content>
+															<p>патуле/штапићи,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan13-stav1-tac2-podtac1-ali6">
+														<content>
+															<p>калпел ножићи,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan13-stav1-tac2-podtac1-ali7">
+														<content>
+															<p>истеми за инфузију,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan13-stav1-tac2-podtac1-ali8">
+														<content>
+															<p>укавице латекс и ПВЦ рукавице,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan13-stav1-tac2-podtac1-ali9">
+														<content>
+															<p>ируршке рукавице (стерилне),</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan13-stav1-tac2-podtac1-ali10">
+														<content>
+															<p>аске,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan13-stav1-tac2-podtac1-ali11">
+														<content>
+															<p>омпресе,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan13-stav1-tac2-podtac1-ali12">
+														<content>
+															<p>есе за урин,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan13-stav1-tac2-podtac1-ali13">
+														<content>
+															<p>атетери,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan13-stav1-tac2-podtac1-ali14">
+														<content>
+															<p>гле,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan13-stav1-tac2-podtac1-ali15">
+														<content>
+															<p>аза,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan13-stav1-tac2-podtac1-ali16">
+														<content>
+															<p>ластери,</p>
+														</content>
+													</alinea>
+													<alinea id="od2-clan13-stav1-tac2-podtac1-ali17">
+														<content>
+															<p>КГ електроде;</p>
+														</content>
+													</alinea>
+												</content>
+											</item>
+										</content>
+									</point>
+									<point id="od2-clan13-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> медицински алкохол.</p>
+										</content>
+									</point>
+									<тачка id="od2-clan13-stav1-tac4">
+										<num>4.</num>
+										<content>
+											<p>4. Врсте робе у апотекама које обављају делатност на примарном нивоу здравствене заштите за које се спроводе централизоване јавне набавке</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="od2-clan14-stav1">
+								<content>
+									<p>За потребе апотека које обављају делатност на примарном нивоу здравствене заштите спроводе се централизоване јавне набавке робе, и то за лекове са Листе лекова.</p>
+									<тачка id="od2-clan14-stav1-tac4">
+										<num>4.</num>
+										<content>
+											<p>5. Врсте робе у заводима, односно институтима за трансфузију крви за које се спроводе централизоване јавне набавке</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="od2-clan15-stav1">
+								<content>
+									<p>За потребе завода, односно института за трансфузију крви спроводе се централизоване јавне набавке робе потребне за обављање трансфузиолошке здравствене делатности, и то за:</p>
+									<point id="od2-clan15-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> пластичне кесе за крв (двоструке и четвороструке);</p>
+										</content>
+									</point>
+									<point id="od2-clan15-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> филтери за еритроците;</p>
+										</content>
+									</point>
+									<point id="od2-clan15-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> филтери за тромбоците;</p>
+										</content>
+									</point>
+									<point id="od2-clan15-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> реагенси за тестирање трансмисијом преносивих болести;</p>
+										</content>
+									</point>
+									<point id="od2-clan15-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> тест серуми за типизацију еритроцитних ангитена;</p>
+										</content>
+									</point>
+									<point id="od2-clan15-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> реагенси за одређивање крвних група (A, B, O, Rh и остали за методу у епрувети);</p>
+										</content>
+									</point>
+									<point id="od2-clan15-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> сетови за донорске аферезне поступке;</p>
+										</content>
+									</point>
+									<point id="od2-clan15-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> реагенси за одређивање крвних група, скрининг и идентификацију антитела у микроепрувети.</p>
+										</content>
+									</point>
+									<тачка id="od2-clan15-stav1-tac5">
+										<num>5.</num>
+										<content>
+											<p> Прелазне и завршна одредба</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="od2-clan16-stav1">
+								<content>
+									<p>Стручно-методолошко упутство са јединственим обрасцем за израду плана потреба које се доноси на основу овлашћења из <ref>члана 5. </ref>ове уредбе биће донето у року од 45 дана од дана ступања на снагу ове уредбе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="od2-clan17-stav1">
+								<content>
+									<p>До почетка спровођења централизованих јавних   набавки у складу са Планом централних јавних набавки за 2015. годину на   основу ове уредбе, Републички фонд спроводи централизоване јавне набавке за   потребе здравствених установа у 2013. години, са којима има закључене   уговоре о пружању здравствене заштите, у складу са законом, и то:</p>
+									<point id="od2-clan17-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> лекови са Листе лекова:</p>
+											<item id="od2-clan17-stav1-tac1-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> цитостатици са Ц Листе лекова,</p>
+												</content>
+											</item>
+											<item id="od2-clan17-stav1-tac1-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> лекови за лечење хемофилије,</p>
+												</content>
+											</item>
+											<item id="od2-clan17-stav1-tac1-podtac3">
+												<num>(3)</num>
+												<content>
+													<p> еритропоетини,</p>
+												</content>
+											</item>
+											<item id="od2-clan17-stav1-tac1-podtac4">
+												<num>(4)</num>
+												<content>
+													<p> биолошки лекови за лечење Chronove болести и   Улцерозног колитиса,</p>
+												</content>
+											</item>
+											<item id="od2-clan17-stav1-tac1-podtac5">
+												<num>(5)</num>
+												<content>
+													<p> биолошки лекови за лечење реуматоидних   болести,</p>
+												</content>
+											</item>
+											<item id="od2-clan17-stav1-tac1-podtac6">
+												<num>(6)</num>
+												<content>
+													<p> пегиловани интерферон алфа 2а и 26,</p>
+												</content>
+											</item>
+											<item id="od2-clan17-stav1-tac1-podtac7">
+												<num>(7)</num>
+												<content>
+													<p> интерферон бета 1а и 16,</p>
+												</content>
+											</item>
+											<item id="od2-clan17-stav1-tac1-podtac8">
+												<num>(8)</num>
+												<content>
+													<p> вакцине за обавезну имунизацију, осим вакцине   и хуманог имуноглобулина против беснила,</p>
+												</content>
+											</item>
+											<item id="od2-clan17-stav1-tac1-podtac9">
+												<num>(9)</num>
+												<content>
+													<p> глатирамер ацетат,</p>
+												</content>
+											</item>
+											<item id="od2-clan17-stav1-tac1-podtac10">
+												<num>(10)</num>
+												<content>
+													<p> антитуберкулотици прве линије;</p>
+												</content>
+											</item>
+											<item id="od2-clan17-stav1-tac1-podtac11">
+												<num>(11)</num>
+												<content>
+													<p> лекови за лечење урођених болести   метаболизма,</p>
+												</content>
+											</item>
+										</content>
+									</point>
+									<point id="od2-clan17-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> уградни материјал:</p>
+											<item id="od2-clan17-stav1-tac2-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> графтови,</p>
+												</content>
+											</item>
+											<item id="od2-clan17-stav1-tac2-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> ендоваскуларни графтови,</p>
+												</content>
+											</item>
+											<item id="od2-clan17-stav1-tac2-podtac3">
+												<num>(3)</num>
+												<content>
+													<p> валвуле и рингови,</p>
+												</content>
+											</item>
+											<item id="od2-clan17-stav1-tac2-podtac4">
+												<num>(4)</num>
+												<content>
+													<p> коронарни стентови,</p>
+												</content>
+											</item>
+											<item id="od2-clan17-stav1-tac2-podtac5">
+												<num>(5)</num>
+												<content>
+													<p> коронарни стентови обложени леком,</p>
+												</content>
+											</item>
+											<item id="od2-clan17-stav1-tac2-podtac6">
+												<num>(6)</num>
+												<content>
+													<p> периферни стентови,</p>
+												</content>
+											</item>
+											<item id="od2-clan17-stav1-tac2-podtac7">
+												<num>(7)</num>
+												<content>
+													<p> каротидни стентови,</p>
+												</content>
+											</item>
+											<item id="od2-clan17-stav1-tac2-podtac8">
+												<num>(8)</num>
+												<content>
+													<p> пејсмејкери и дефибрилатори,</p>
+												</content>
+											</item>
+											<item id="od2-clan17-stav1-tac2-podtac9">
+												<num>(9)</num>
+												<content>
+													<p> интраокуларна сочива;</p>
+												</content>
+											</item>
+										</content>
+									</point>
+									<point id="od2-clan17-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> материјал за дијализу у складу са прописима   којима се уређују стандарди материјала за дијализу;</p>
+										</content>
+									</point>
+									<point id="od2-clan17-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> медицинска средства за једнократну употребу</p>
+											<item id="od2-clan17-stav1-tac4-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> аутотрансфузиони системи/сетови за   интраоперативно спашавање крви,</p>
+												</content>
+											</item>
+											<item id="od2-clan17-stav1-tac4-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> балон катетери.</p>
+												</content>
+											</item>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<article id="od2-clan17.а">
+								<num>17а</num>
+								<heading>*<ref id="ref28" href="/rs/act/2013/49/srp@">Службени   гласник РС, број 49/2013</ref></heading>
+								<content>
+									<clause id="od2-clan17.а-stav1">
+										<content>
+											<p>До почетка спровођења централизованих јавних   набавки у складу са Планом централних јавних набавки за 2015. годину на   основу ове уредбе, Републички фонд спроводи централизоване јавне набавке за   потребе здравствених установа у 2014. години, са којима има закључене   уговоре о пружању здравствене заштите, у складу са законом, и то:</p>
+											<point id="od2-clan17.а-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> лекови са Листе лекова у складу са списком   лекова који је сачињен према генеричким називима лекова са Листе лекова и   који је дат у прилогу ове уредбе и чини њен саставни део, осим лекова који   се издају на рецепт и вакцине и хуманог имуноглобулина против беснила;</p>
+												</content>
+											</point>
+											<point id="od2-clan17.а-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> уградни материјал:</p>
+													<item id="od2-clan17.а-stav1-tac2-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> графтови,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.а-stav1-tac2-podtac2">
+														<num>(2)</num>
+														<content>
+															<p> ендоваскуларни графтови,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.а-stav1-tac2-podtac3">
+														<num>(3)</num>
+														<content>
+															<p> валвуле и рингови,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.а-stav1-tac2-podtac4">
+														<num>(4)</num>
+														<content>
+															<p> коронарни стентови са и без лека,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.а-stav1-tac2-podtac5">
+														<num>(5)</num>
+														<content>
+															<p> периферни стентови,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.а-stav1-tac2-podtac6">
+														<num>(6)</num>
+														<content>
+															<p> каротидни стентови,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.а-stav1-tac2-podtac7">
+														<num>(7)</num>
+														<content>
+															<p> пејсмејкери и дефибрилатори,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.а-stav1-tac2-podtac8">
+														<num>(8)</num>
+														<content>
+															<p> интраокуларна сочива;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.а-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> материјал за дијализу у складу са прописима   којима се уређују стандарди материјала за дијализу;</p>
+												</content>
+											</point>
+											<point id="od2-clan17.а-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> медицинска средства за једнократну употребу:</p>
+													<item id="od2-clan17.а-stav1-tac4-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> аутотрансфузиони системи/сетови за   интраоперативно спашавање крви,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.а-stav1-tac4-podtac2">
+														<num>(2)</num>
+														<content>
+															<p> балон катетери,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.а-stav1-tac4-podtac3">
+														<num>(3)</num>
+														<content>
+															<p> потрошни материјал за уградњу интраокуларних   сочива;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.а-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> крв и компоненте од крви за потребе   завода/института за трансфузију крви и здравствених установа које обављају   трансфузиолошку делатност:</p>
+													<item id="od2-clan17.а-stav1-tac5-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> филтери за еритроците,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.а-stav1-tac5-podtac2">
+														<num>(2)</num>
+														<content>
+															<p> филтери за тромбоците,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.а-stav1-tac5-podtac3">
+														<num>(3)</num>
+														<content>
+															<p> сетови за донорске аферезне поступке;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.а-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> енергенти;</p>
+												</content>
+											</point>
+											<point id="od2-clan17.а-stav1-tac7">
+												<num>7)</num>
+												<content>
+													<p> услуге осигурања за здравствене установе:</p>
+													<item id="od2-clan17.а-stav1-tac7-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> осигурање имовине здравствених установа,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.а-stav1-tac7-podtac2">
+														<num>(2)</num>
+														<content>
+															<p> осигурање лица запослених у здравственим   установама;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.а-stav1-tac8">
+												<num>8)</num>
+												<content>
+													<p> медицински гасови.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="od2-clan17.б">
+								<num>17б</num>
+								<heading>*<ref id="ref29" href="/rs/act/2013/49/srp@">Службени   гласник РС, број 49/2013</ref></heading>
+								<content>
+									<clause id="od2-clan17.б-stav1">
+										<content>
+											<p>До почетка спровођења централизованих јавних   набавки у складу са Планом централних јавних набавки за 2016. годину на   основу ове уредбе, Републички фонд спроводи централизоване јавне набавке за   потребе здравствених установа у 2015. години, са којима има закључене   уговоре о пружању здравствене заштите, у складу са законом, и то:</p>
+											<point id="od2-clan17.б-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> лекови са Листе лекова:</p>
+													<item id="od2-clan17.б-stav1-tac1-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> лекови са Листе А и Листе А1 Листе лекова,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.б-stav1-tac1-podtac2">
+														<num>(2)</num>
+														<content>
+															<p> лекови са Листе Б:</p>
+															<alinea id="od2-clan17.б-stav1-tac1-podtac2-ali1">
+																<content>
+																	<p>акцине за обавезну имунизацију, осим вакцине и   хуманог имуноглобулина против беснила,</p>
+																</content>
+															</alinea>
+															<alinea id="od2-clan17.б-stav1-tac1-podtac2-ali2">
+																<content>
+																	<p>екови са Списка лекова који је сачињен према   генеричким називима лекова са Листе Б Листе лекова (у даљем тексту: Списак   лекова), који је одштампан уз ову уредбу и чини њен саставни део,</p>
+																</content>
+															</alinea>
+														</content>
+													</item>
+													<item id="od2-clan17.б-stav1-tac1-podtac3">
+														<num>(3)</num>
+														<content>
+															<p> лекови са Листе Ц Листе са Списка лекова,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.б-stav1-tac1-podtac4">
+														<num>(4)</num>
+														<content>
+															<p> лекови са Листе Д:</p>
+															<alinea id="od2-clan17.б-stav1-tac1-podtac4-ali1">
+																<content>
+																	<p>нтитуберкулотици прве линије,</p>
+																</content>
+															</alinea>
+															<alinea id="od2-clan17.б-stav1-tac1-podtac4-ali2">
+																<content>
+																	<p>нтитуберкулотици друге линије,</p>
+																</content>
+															</alinea>
+															<alinea id="od2-clan17.б-stav1-tac1-podtac4-ali3">
+																<content>
+																	<p>екови са Листе Б Листе лекова са Списка лекова,   а који се налазе и на Листи Д Листе Лекова;</p>
+																</content>
+															</alinea>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.б-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> лекови који се не налазе на Листи лекова:</p>
+													<item id="od2-clan17.б-stav1-tac2-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> лекови за лечење ретких болести;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.б-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> уградни материјал:</p>
+													<item id="od2-clan17.б-stav1-tac3-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> графтови,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.б-stav1-tac3-podtac2">
+														<num>(2)</num>
+														<content>
+															<p> ендоваскуларни графтови,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.б-stav1-tac3-podtac3">
+														<num>(3)</num>
+														<content>
+															<p> валвуле и рингови,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.б-stav1-tac3-podtac4">
+														<num>(4)</num>
+														<content>
+															<p> коронарни стентови,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.б-stav1-tac3-podtac5">
+														<num>(5)</num>
+														<content>
+															<p> коронарни стентови обложени леком,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.б-stav1-tac3-podtac6">
+														<num>(6)</num>
+														<content>
+															<p> периферни стентови,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.б-stav1-tac3-podtac7">
+														<num>(7)</num>
+														<content>
+															<p> каротидни стентови,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.б-stav1-tac3-podtac8">
+														<num>(8)</num>
+														<content>
+															<p> пејсмејкери и дефибрилатори,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.б-stav1-tac3-podtac9">
+														<num>(9)</num>
+														<content>
+															<p> интраокуларна сочива;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.б-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> материјал за дијализу у складу са прописима   којима се уређују стандарди материјала за дијализу;</p>
+												</content>
+											</point>
+											<point id="od2-clan17.б-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> медицинска средства за једнократну употребу:</p>
+													<item id="od2-clan17.б-stav1-tac5-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> аутотрансфузиони системи/сетови за   интраоперативно спашавање крви,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.б-stav1-tac5-podtac2">
+														<num>(2)</num>
+														<content>
+															<p> балон катетери,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.б-stav1-tac5-podtac3">
+														<num>(3)</num>
+														<content>
+															<p> потрошни материјал за уградњу интраокуларних   сочива;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.б-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> крв и компоненте од крви за потребе   завода/института за трансфузију крви и здравствених установа које обављају   трансфузиолошку делатност:</p>
+													<item id="od2-clan17.б-stav1-tac6-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> филтери за еритроците,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.б-stav1-tac6-podtac2">
+														<num>(2)</num>
+														<content>
+															<p> филтери за тромбоците,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.б-stav1-tac6-podtac3">
+														<num>(3)</num>
+														<content>
+															<p> сетови за донорске аферезне поступке;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.б-stav1-tac7">
+												<num>7)</num>
+												<content>
+													<p> енергенти:</p>
+													<item id="od2-clan17.б-stav1-tac7-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> електрична енергија;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.б-stav1-tac8">
+												<num>8)</num>
+												<content>
+													<p> осигурање имовине здравствених установа;</p>
+												</content>
+											</point>
+											<point id="od2-clan17.б-stav1-tac9">
+												<num>9)</num>
+												<content>
+													<p> осигурање лица запослених у здравственим   установама.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="od2-clan17.в">
+								<num>17в</num>
+								<heading>*<ref id="ref30" href="/rs/act/2014/119/srp@">Службени гласник РС,   број 119/2014</ref></heading>
+								<content>
+									<clause id="od2-clan17.в-stav1">
+										<content>
+											<p>До почетка спровођења централизованих јавних набавки у складу са   Планом централизованих јавних набавки за 2017. годину на основу ове уредбе,   Републички фонд спроводи централизоване јавне набавке за потребе   здравствених установа у 2016. години, са којима има закључене уговоре о   пружању здравствене заштите, у складу са законом, и то набавку:</p>
+											<point id="od2-clan17.в-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> Лекова са Листе лекова:</p>
+													<item id="od2-clan17.в-stav1-tac1-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> лекова са Листе А и Листе А1,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.в-stav1-tac1-podtac2">
+														<num>(2)</num>
+														<content>
+															<p> лекова са Листе Б, осим вакцине против беснила и хуманог   имуноглобулина против беснила и продуката од крви које производи Институт за   трансфузију крви Србије,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.в-stav1-tac1-podtac3">
+														<num>(3)</num>
+														<content>
+															<p> лекова са Листе Ц,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.в-stav1-tac1-podtac4">
+														<num>(4)</num>
+														<content>
+															<p> лекова са Листе Д, и то:</p>
+															<alinea id="od2-clan17.в-stav1-tac1-podtac4-ali1">
+																<content>
+																	<p>нтитуберкулотика прве линије,</p>
+																</content>
+															</alinea>
+															<alinea id="od2-clan17.в-stav1-tac1-podtac4-ali2">
+																<content>
+																	<p>нтитуберкулотика друге линије,</p>
+																</content>
+															</alinea>
+															<alinea id="od2-clan17.в-stav1-tac1-podtac4-ali3">
+																<content>
+																	<p>екова са Листе Д, а који се налазе и на Листи А, Листи А1, Листи   Б и Листи Ц, који се набављају само у изузетним случајевима када снабдевање   леком истог ИНН, истог или сродног фармацеутског облика и исте јачине са   Листе А, А1, Б или Ц не задовољава потребе у лечењу осигураних лица   Републичког фонда;</p>
+																</content>
+															</alinea>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.в-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> Лекова који се не налазе на Листи лекова:</p>
+													<item id="od2-clan17.в-stav1-tac2-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> лекова за лечење ретких болести;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.в-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> Уградног материјала, са пратећим специфичним потрошним   материјалом, који је неопходан за његову имплантацију, осим уградног   материјала са пратећим специфичним потрошним материјалом намењеног   педијатријској популацији:</p>
+													<item id="od2-clan17.в-stav1-tac3-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> графтова,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.в-stav1-tac3-podtac2">
+														<num>(2)</num>
+														<content>
+															<p> ендоваскуларних графтова,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.в-stav1-tac3-podtac3">
+														<num>(3)</num>
+														<content>
+															<p> валвула и рингова,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.в-stav1-tac3-podtac4">
+														<num>(4)</num>
+														<content>
+															<p> стентова,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.в-stav1-tac3-podtac5">
+														<num>(5)</num>
+														<content>
+															<p> интраокуларних сочива;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.в-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> Уградног материјала, са пратећим специфичним потрошним   материјалом, који је неопходан за његову имплантацију:</p>
+													<item id="od2-clan17.в-stav1-tac4-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> пејсмејкера, електрода и имплантабилних дефибрилатора;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.в-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> Санитетског и медицинског потрошног материјала:</p>
+													<item id="od2-clan17.в-stav1-tac5-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> балон катетера,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.в-stav1-tac5-podtac2">
+														<num>(2)</num>
+														<content>
+															<p> аутотрансфузионих система/сетова за интраоперативно спашавање   крви,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.в-stav1-tac5-podtac3">
+														<num>(3)</num>
+														<content>
+															<p> филтера за еритроците филтрираних накнадно,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.в-stav1-tac5-podtac4">
+														<num>(4)</num>
+														<content>
+															<p> филтера за тромбоците филтрираних накнадно,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.в-stav1-tac5-podtac5">
+														<num>(5)</num>
+														<content>
+															<p> сетова за донорске аферезне поступке;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.в-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> Енергената:</p>
+													<item id="od2-clan17.в-stav1-tac6-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> електричне енергије.</p>
+														</content>
+													</item>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="od2-clan17.г">
+								<num>17г</num>
+								<heading>*<ref id="ref31" href="/rs/act/2015/86/srp@">Службени гласник РС, број 86/2015</ref></heading>
+								<content>
+									<clause id="od2-clan17.г-stav1">
+										<content>
+											<p>До почетка спровођења централизованих јавних набавки у складу са Планом   централизованих јавних набавки за 2018. годину на основу ове уредбе,   Републички фонд спроводи централизоване јавне набавке за потребе   здравствених установа у 2017. години, са којима има закључене уговоре о   пружању здравствене заштите, у складу са законом, и то:</p>
+											<point id="od2-clan17.г-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> Лекови са Листе лекова:</p>
+													<item id="od2-clan17.г-stav1-tac1-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> лекови са Листе А и Листе А1,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.г-stav1-tac1-podtac2">
+														<num>(2)</num>
+														<content>
+															<p> лекови са Листе Б, осим вакцине против беснила и хуманог имуноглобулина   против беснила и продуката од крви које производи Институт за трансфузију   крви Србије,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.г-stav1-tac1-podtac3">
+														<num>(3)</num>
+														<content>
+															<p> лекови са Листе Ц,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.г-stav1-tac1-podtac4">
+														<num>(4)</num>
+														<content>
+															<p> лекови са Листе Д, и то:</p>
+															<alinea id="od2-clan17.г-stav1-tac1-podtac4-ali1">
+																<content>
+																	<p>нтитуберкулотици прве линије,</p>
+																</content>
+															</alinea>
+															<alinea id="od2-clan17.г-stav1-tac1-podtac4-ali2">
+																<content>
+																	<p>нтитуберкулотици друге линије,</p>
+																</content>
+															</alinea>
+															<alinea id="od2-clan17.г-stav1-tac1-podtac4-ali3">
+																<content>
+																	<p>екови са Листе Д, а који се налазе и на Листи А, Листи А1, Листи Б и   Листи Ц, који се набављају само у изузетним случајевима када снабдевање   леком истог ИНН, истог или сродног фармацеутског облика и исте јачине са   Листе А, А1, Б или Ц не задовољава потребе у лечењу осигураних лица   Републичког фонда;</p>
+																</content>
+															</alinea>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.г-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> Лекови који се не налазе на Листи лекова:</p>
+													<item id="od2-clan17.г-stav1-tac2-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> лекови за лечење ретких болести;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.г-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> Уградни материјал, са пратећим специфичним потрошним материјалом, који је   неопходан за његову имплантацију, осим уградног материјала са пратећим   специфичним потрошним материјалом намењеног педијатријској популацији:</p>
+													<item id="od2-clan17.г-stav1-tac3-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> графтови,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.г-stav1-tac3-podtac2">
+														<num>(2)</num>
+														<content>
+															<p> ендоваскуларни графтови,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.г-stav1-tac3-podtac3">
+														<num>(3)</num>
+														<content>
+															<p> валвуле и рингови,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.г-stav1-tac3-podtac4">
+														<num>(4)</num>
+														<content>
+															<p> стентови,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.г-stav1-tac3-podtac5">
+														<num>(5)</num>
+														<content>
+															<p> интраокуларна сочива;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.г-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> Уградни материјал, са пратећим специфичним потрошним материјалом, који је   неопходан за његову имплантацију:</p>
+													<item id="od2-clan17.г-stav1-tac4-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> пејсмејкери, електроде и имплантабилни дефибрилатори;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.г-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> Санитетски и медицински потрошни материјал:</p>
+													<item id="od2-clan17.г-stav1-tac5-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> балон катетери,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.г-stav1-tac5-podtac2">
+														<num>(2)</num>
+														<content>
+															<p> аутотрансфузиони системи/сетови за интраоперативно спашавање крви,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.г-stav1-tac5-podtac3">
+														<num>(3)</num>
+														<content>
+															<p> филтери за еритроците филтрирани накнадно,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.г-stav1-tac5-podtac4">
+														<num>(4)</num>
+														<content>
+															<p> филтери за тромбоците филтрирани накнадно,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.г-stav1-tac5-podtac5">
+														<num>(5)</num>
+														<content>
+															<p> сетови за донорске аферезне поступке;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.г-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> Енергенти:</p>
+													<item id="od2-clan17.г-stav1-tac6-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> електрична енергија.</p>
+														</content>
+													</item>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="od2-clan17.д">
+								<num>17д</num>
+								<heading>*<ref id="ref32" href="/rs/act/2016/95/srp@">Службени гласник РС, број 95/2016</ref></heading>
+								<content>
+									<clause id="od2-clan17.д-stav1">
+										<content>
+											<p>До почетка спровођења централизованих јавних   набавки у складу са Планом централизованих јавних набавки за 2019. годину на   основу ове уредбе, Републички фонд спроводи централизоване јавне набавке за   потребе здравствених установа у 2018. години, са којима има закључене   уговоре о пружању здравствене заштите, у складу са законом, и то:</p>
+											<point id="od2-clan17.д-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> Лекови са Листе лекова:</p>
+													<item id="od2-clan17.д-stav1-tac1-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> лекови са Листе А и Листе А1,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.д-stav1-tac1-podtac2">
+														<num>(2)</num>
+														<content>
+															<p> лекови са Листе Б, осим вакцине против беснила   и хуманог имуноглобулина против беснила и продуката од крви које производи   Институт за трансфузију крви Србије,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.д-stav1-tac1-podtac3">
+														<num>(3)</num>
+														<content>
+															<p> лекови са Листе Ц,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.д-stav1-tac1-podtac4">
+														<num>(4)</num>
+														<content>
+															<p> лекови са Листе Д, и то:</p>
+															<alinea id="od2-clan17.д-stav1-tac1-podtac4-ali1">
+																<content>
+																	<p>нтитуберкулотици прве линије,</p>
+																</content>
+															</alinea>
+															<alinea id="od2-clan17.д-stav1-tac1-podtac4-ali2">
+																<content>
+																	<p>нтитуберкулотици друге линије,</p>
+																</content>
+															</alinea>
+															<alinea id="od2-clan17.д-stav1-tac1-podtac4-ali3">
+																<content>
+																	<p>екови са Листе Д, а који се налазе и на Листи   А, Листи А1, Листи Б и Листи Ц Листе лекова, који се набављају само у   изузетним случајевима када снабдевање леком истог ИНН, истог или сродног   фармацеутског облика и исте јачине са Листе А, А1, Б или Ц не задовољава   потребе у лечењу осигураних лица Републичког фонда;</p>
+																</content>
+															</alinea>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.д-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> Лекови који се не налазе на Листи лекова:</p>
+													<item id="od2-clan17.д-stav1-tac2-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> лекови за лечење ретких болести;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.д-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> Уградни материјал, са пратећим специфичним   потрошним материјалом, који је неопходан за његову имплантацију, осим   уградног материјала са пратећим специфичним потрошним материјалом намењеног   педијатријској популацији:</p>
+													<item id="od2-clan17.д-stav1-tac3-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> графтови,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.д-stav1-tac3-podtac2">
+														<num>(2)</num>
+														<content>
+															<p> ендоваскуларни графтови,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.д-stav1-tac3-podtac3">
+														<num>(3)</num>
+														<content>
+															<p> валвуле и рингови,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.д-stav1-tac3-podtac4">
+														<num>(4)</num>
+														<content>
+															<p> стентови,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.д-stav1-tac3-podtac5">
+														<num>(5)</num>
+														<content>
+															<p> интраокуларна сочива;</p>
+														</content>
+													</item>
+													<item id="od2-clan17.д-stav1-tac3-podtac6">
+														<num>(6)</num>
+														<content>
+															<p> брисана је (види <ref>члан 1. </ref>Уредбе -   68/2018-3)</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.д-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> Уградни материјал, са пратећим специфичним   потрошним материјалом, који је неопходан за његову имплантацију:</p>
+													<item id="od2-clan17.д-stav1-tac4-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> пејсмејкери, електроде и имплантабилни   дефибрилатори;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.д-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> Санитетски и медицински потрошни материјал:</p>
+													<item id="od2-clan17.д-stav1-tac5-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> балон катетери,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.д-stav1-tac5-podtac2">
+														<num>(2)</num>
+														<content>
+															<p> аутотрансфузиони системи/сетови за   интраоперативно спашавање крви,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.д-stav1-tac5-podtac3">
+														<num>(3)</num>
+														<content>
+															<p> филтери за еритроците филтрирани накнадно,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.д-stav1-tac5-podtac4">
+														<num>(4)</num>
+														<content>
+															<p> филтери за тромбоците филтрирани накнадно,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.д-stav1-tac5-podtac5">
+														<num>(5)</num>
+														<content>
+															<p> сетови за донорске аферезне поступке;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="od2-clan17.д-stav2">
+										<content>
+											<p>5a) брисана је (види <ref>члан 1. </ref>Уредбе -   68/2018-3)</p>
+											<point id="od2-clan17.д-stav2-tac6">
+												<num>6)</num>
+												<content>
+													<p> Енергенти:</p>
+													<item id="od2-clan17.д-stav2-tac6-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> електрична енергија.</p>
+														</content>
+													</item>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="od2-clan17.д-stav3">
+										<content>
+											<p>*<ref id="ref33" href="/rs/act/2017/111/srp@">Службени гласник РС, број 111/2017</ref></p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="od2-clan17.ђ">
+								<num>17ђ</num>
+								<heading>**<ref id="ref34" href="/rs/act/2018/68/srp@">Службени гласник РС, број 68/2018</ref></heading>
+								<content>
+									<clause id="od2-clan17.ђ-stav1">
+										<content>
+											<p>До почетка спровођења централизованих јавних   набавки у складу са Планом централизованих јавних набавки за 2020. годину на   основу ове уредбе, Републички фонд спроводи централизоване јавне набавке за   потребе здравствених установа у 2019. години, са којима има закључене   уговоре о пружању здравствене заштите, у складу са законом, и то:</p>
+											<point id="od2-clan17.ђ-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> Лекови са Листе лекова:</p>
+													<item id="od2-clan17.ђ-stav1-tac1-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> лекови са Листе А и Листе А1,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.ђ-stav1-tac1-podtac2">
+														<num>(2)</num>
+														<content>
+															<p> лекови са Листе Б, осим вакцине против беснила   и хуманог имуноглобулина против беснила и продуката од крви које производи   Институт за трансфузију крви Србије,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.ђ-stav1-tac1-podtac3">
+														<num>(3)</num>
+														<content>
+															<p> лекови са Листе Ц,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.ђ-stav1-tac1-podtac4">
+														<num>(4)</num>
+														<content>
+															<p> лекови са Листе Д, и то:</p>
+															<alinea id="od2-clan17.ђ-stav1-tac1-podtac4-ali1">
+																<content>
+																	<p>нтитуберкулотици прве линије,</p>
+																</content>
+															</alinea>
+															<alinea id="od2-clan17.ђ-stav1-tac1-podtac4-ali2">
+																<content>
+																	<p>нтитуберкулотици друге линије,</p>
+																</content>
+															</alinea>
+															<alinea id="od2-clan17.ђ-stav1-tac1-podtac4-ali3">
+																<content>
+																	<p>екови са Листе Д, а који се налазе и на Листи   А, Листи А1, Листи Б и Листи Ц Листе лекова, који се набављају само у   изузетним случајевима када снабдевање леком истог ИНН, истог или сродног   фармацеутског облика и исте јачине са Листе А, А1, Б или Ц не задовољава   потребе у лечењу осигураних лица Републичког фонда;</p>
+																</content>
+															</alinea>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.ђ-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> Лекови који се не налазе на Листи лекова:</p>
+													<item id="od2-clan17.ђ-stav1-tac2-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> лекови за лечење ретких болести;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.ђ-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> Уградни материјал, са пратећим специфичним   потрошним материјалом, који је неопходан за његову имплантацију, осим   уградног материјала са пратећим специфичним потрошним материјалом намењеног   педијатријској популацији:</p>
+													<item id="od2-clan17.ђ-stav1-tac3-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> графтови,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.ђ-stav1-tac3-podtac2">
+														<num>(2)</num>
+														<content>
+															<p> ендоваскуларни графтови,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.ђ-stav1-tac3-podtac3">
+														<num>(3)</num>
+														<content>
+															<p> валвуле и рингови,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.ђ-stav1-tac3-podtac4">
+														<num>(4)</num>
+														<content>
+															<p> стентови,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.ђ-stav1-tac3-podtac5">
+														<num>(5)</num>
+														<content>
+															<p> интраокуларна сочива,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.ђ-stav1-tac3-podtac6">
+														<num>(6)</num>
+														<content>
+															<p> брисана је (види <ref>члан 1. </ref>Уредбе - 6/2019-20)</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.ђ-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> Уградни материјал, са пратећим специфичним   потрошним материјалом, који је неопходан за његову имплантацију:</p>
+													<item id="od2-clan17.ђ-stav1-tac4-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> пејсмејкери, електроде и имплантабилни   дефибрилатори;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.ђ-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> Санитетски и медицински потрошни материјал:</p>
+													<item id="od2-clan17.ђ-stav1-tac5-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> балон катетери,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.ђ-stav1-tac5-podtac2">
+														<num>(2)</num>
+														<content>
+															<p> аутотрансфузиони системи/сетови за   интраоперативно спашавање крви,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.ђ-stav1-tac5-podtac3">
+														<num>(3)</num>
+														<content>
+															<p> филтери за еритроците филтрирани накнадно,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.ђ-stav1-tac5-podtac4">
+														<num>(4)</num>
+														<content>
+															<p> филтери за тромбоците филтрирани накнадно,</p>
+														</content>
+													</item>
+													<item id="od2-clan17.ђ-stav1-tac5-podtac5">
+														<num>(5)</num>
+														<content>
+															<p> сетови за донорске аферезне поступке;</p>
+														</content>
+													</item>
+												</content>
+											</point>
+											<point id="od2-clan17.ђ-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> Материјал за дијализу у складу са прописима   којима се уређују стандарди материјала за дијализу;</p>
+												</content>
+											</point>
+											<point id="od2-clan17.ђ-stav1-tac7">
+												<num>7)</num>
+												<content>
+													<p> Енергенти:</p>
+													<item id="od2-clan17.ђ-stav1-tac7-podtac1">
+														<num>(1)</num>
+														<content>
+															<p> електрична енергија.</p>
+														</content>
+													</item>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</article>
+					<article id="od2-clan18">
+						<num>18.</num>
+						<heading>*<ref id="ref35" href="/rs/act/2018/68/srp@">Службени гласник РС, број 68/2018</ref></heading>
+						<content>
+							<clause id="od2-clan18-stav1">
+								<content>
+									<p>Ова уредба ступа на снагу осмог дана од дана објављивања у ,,Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan18-stav2">
+								<content>
+									<p>05 број 110-2664/2013</p>
+								</content>
+							</clause>
+							<clause id="od2-clan18-stav3">
+								<content>
+									<p>У Београду, 28. марта 2013. године</p>
+								</content>
+							</clause>
+							<clause id="od2-clan18-stav4">
+								<content>
+									<p>Влада</p>
+								</content>
+							</clause>
+							<clause id="od2-clan18-stav5">
+								<content>
+									<p>Председник,</p>
+								</content>
+							</clause>
+							<clause id="od2-clan18-stav6">
+								<content>
+									<p>Ивица Дачић,   с.р.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan18-stav7">
+								<content>
+									<p>Прилози</p>
+								</content>
+							</clause>
+							<clause id="od2-clan18-stav8">
+								<content>
+									<p>НАПОМЕНА   ИЗДАВАЧА:</p>
+								</content>
+							</clause>
+							<clause id="od2-clan18-stav9">
+								<content>
+									<p>Одредбом <ref>члана 3. </ref>Уредбе о   измени и допунама Уредбе о планирању и врсти роба и услуга за које се   спроводе централизоване јавне набавке (&quot;<ref id="ref36" href="/rs/act/2013/49/srp@">Службени гласник РС&quot;, број 49/2013</ref>)   (и Исправком ове уредбе, објављеном у &quot;Службеном гласнику РС&quot;, број 51/2013)   у Уредби о планирању и врсти роба и услуга за које се спроводе   централизоване јавне набавке додати су члан 17а и прилог Списак лекова (види   <ref>члан 2. </ref>Уредбе - 49/2013-6 и Исправку Уредбе - 51/2013-164).</p>
+								</content>
+							</clause>
+							<clause id="od2-clan18-stav10">
+								<content>
+									<p>Одредбом <ref>члана 1. </ref>Уредбе о   измени и допуни Уредбе о планирању и врсти роба и услуга за које се спроводе   централизоване јавне набавке (&quot;<ref id="ref37" href="/rs/act/2013/86/srp@">Службени гласник РС&quot;, број 86/2013</ref>) измењен   је прилог Списак лекова (види <ref>члан 1. </ref>Уредбе - 86/2013-4).</p>
+								</content>
+							</clause>
+							<clause id="od2-clan18-stav11">
+								<content>
+									<p>Одредбама <ref>члана 2. </ref>Уредбе о допуни Уредбе о планирању и врсти   роба и услуга за које се спроводе централизоване јавне набавке (&quot;<ref id="ref38" href="/rs/act/2014/119/srp@">Службени   гласник РС&quot;, број 119/2014</ref>) у Уредби о планирању и врсти роба и услуга за   које се спроводе централизоване јавне набавке додати су члан 17б и   прилог Списак лекова (види <ref>члан 1. </ref>Уредбе - 119/2014-27)</p>
+								</content>
+							</clause>
+							<clause id="od2-clan18-stav12">
+								<content>
+									<p>Списак лекова (предвиђен   чланом 17а Уредбе)</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

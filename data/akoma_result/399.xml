@@ -1,0 +1,2072 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1996/61-1/main"/>
+					<FRBRuri value="/rs/act/1996/61-1"/>
+					<FRBRdate date="1996" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1996/62-2/srp@/main"/>
+					<FRBRuri value="/rs/act/1996/62-2/srp@"/>
+					<FRBRdate date="1996" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1996/62-2/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1996/62-2/srp@.akn"/>
+					<FRBRdate date="1996" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1996-12-20" name="службени лист срј" number="61" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="9. Класификација делатности" value="9. класификација делатности"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1996-12-19" id="usvajanje"/>
+				<step date="1996-12-28" id="stupanje_na_snagu"/>
+				<step date="1996-12-28" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="61/1996-1" id="e1" type="generation"/>
+				<eventRef date="62/1996-2" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник је донет на основу Уредбе о разврставању јединица разврставања према Класификацији делатности („<ref id="ref1" href="/rs/act/1996/45/srp@">Службени лист СРЈ”, бр. 45/1996, 58/1996, 17/1998</ref> и 63/1998), која је престала важи. Правилник није формалноправно стављен ван снаге.</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<authority>На основу  члана 12а. став 2. Уредбе о разврставању јединица разврставања према Класификацији делатности (“<ref id="ref2" href="/rs/act/96/45/srp@">Службени лист СРЈ”, бр. 45/96</ref> и 58/96), директор Савезног завода за статистику доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о методологији за разврставање јединица разврставања према класификацији  делатности и методологији за вођење регистра јединица разврставања</title>
+			<date>„Службени лист СРЈ”, бр. 61 од 20.  децембра 1996, 62 од 27.  децембра 1996  - исправка</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником утврђују се методологија за разврставање по делатностима према Класификацији делатности предузећа и других облика организовања, државних органа и органа јединица локалне самоуправе, политичких, синдикалних и других организација (у даљем тексту: јединица разврставања) и методологија за вођење Регистра јединица разврставања (у даљем тексту: Регистар).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>Методологија за разврставање јединица разврставања по делатностима</heading>
+				<content>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Јединице разврставања и њихови делови, односно пословне, организационе и друге јединице у саставу разврставају се по делатностима у категорије Класификације делатности према критеријумима утврђеним овим правилником.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Јединице разврставања и њихови делови, односно пословне, организационе и друге јединице у саставу разврставају се према делатностима које обављају. Ако јединица разврставања обавља више делатности, разврстава се у одговарајућу категорију Класификације делатности према делатности коју претежно обавља (претежна делатност).</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav2">
+								<content>
+									<p>Делатност новоосноване јединице разврставања утврђује се на основу података о предмету пословања садржаних у акту о оснивању.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla1-clan4-stav1">
+								<content>
+									<p>Претежна делатност предузећа које се бави производњом робе или обављањем услуга је делатност у којој је предузеће остварило највећу добит увећану за износ бруто-зарада у претходној календарској години.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan4-stav2">
+								<content>
+									<p>Претежна делатност предузећа  које делатност обавља у организационим деловима  утврђује* се на основу делатности тих делова. Делатност делова предузећа одређује се према врсти производа које производи, односно врсти услуга које врши, независно од делатности предузећа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan5">
+						<num>5.</num>
+						<heading>*<ref id="ref3" href="/rs/act/1996/62/srp@">Службени лист СРЈ, број 62/1996</ref></heading>
+						<content>
+							<clause id="gla1-clan5-stav1">
+								<content>
+									<p>Претежна делатност задруге која се бави производњом робе, прометом робе или обављањем услуга је делатност у којој је задруга остварила највећу добит, односно вишак прихода над расходима у претходној календарској години.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla1-clan6-stav1">
+								<content>
+									<p>Претежна делатност установе утврђује се на основу акта о оснивању.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan6-stav2">
+								<content>
+									<p>Ако је актом о оснивању предвиђено да установа обавља више делатности, претежна делатност се утврђује на основу делатности у којој је остварена највећа бруто зарада у претходној календарској години.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla1-clan7-stav1">
+								<content>
+									<p>Делови предузећа у којима се обављају основне или споредне делатности разврставају се према врсти производа које производе или врсти услуга које врше, независно од делатности предузећа.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan7-stav2">
+								<content>
+									<p>Делови предузећа у којима се обављају помоћне делатности распоређују се у делатност у коју је разврстано предузеће у чијем се саставу налазе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla1-clan8-stav1">
+								<content>
+									<p>Јединица разврставања подноси пријаву за разврставање на обрасцу РЈР-1, а за део предузећа, пословну, организациону и другу јединицу у саставу подноси се образац РЈР-1а.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan8-stav2">
+								<content>
+									<p>Обрасци из става 1. овог члана одштампани су уз овај правилник и чине његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>Методологија за вођење Регистра јединица разврставања</heading>
+				<content>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>Регистар се води применом електронске обраде података тако да:</p>
+									<point id="gla2-clan9-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> садржи податке о разврставању по делатностима према Класификацији делатности јединица разврставања и њихових делова, односно пословних, организационих и других јединица у саставу;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> садржи идентификационе и класификационе податке о јединицама разврставања и њиховим деловима, односно пословним, организационим и другим јединицама у саставу (назив-фирма, адреса, облик организовања и др.) потребне за дефинисање скупова у спровођењу статистичких истраживања и за праћење промена;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> омогући међусобно повезивање података из различитих статистичких истраживања, као и података статистичких истраживања са подацима из евиденција надлежних органа.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla2-clan10-stav1">
+								<content>
+									<p>У Регистар се уписују:</p>
+									<point id="gla2-clan10-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> предузећа, задружни облици организовања, пословна удружења, банке и друге финансијске организације, организације за осигурање, установе, државни органи и органи јединица локалне самоуправе, правосудни органи, политичке организације, синдикати, друштвене организације, удружења грађана и друге организације;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> делови предузећа и пословне, организационе и друге јединице у саставу који су уписани у судски регистар, односно који обављају другу делатност или имају другу локацију (адресу).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla2-clan11-stav1">
+								<content>
+									<p>У Регистар се уносе следећи подаци о јединици разврставања: назив (фирма), седиште и адреса, матични број, врста облика организовања, облик својине, делатност, порекло капитала, подаци из других регистара, подаци о повезивању јединице разврставања и подаци о променама у организовању и разврставању по делатностима.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav2">
+								<content>
+									<p>О деловима предузећа и пословним, организационим и другим јединицама у саставу уписују се следећи подаци: назив (фирма), адреса, делатност и подаци о променама.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla2-clan12-stav1">
+								<content>
+									<p>Регистар се води на основу података из пријава за разврставање из <ref>члана 8. овог</ref> правилника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla2-clan13-stav1">
+								<content>
+									<p>Јединица разврставања уписом у Регистар добија матични број, а део предузећа и пословна, организациона и друга јединица у саставу поред матичног броја јединице разврставања у чијем је саставу добија и редни број.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan13-stav2">
+								<content>
+									<p>Матични број је стална идентификациона нумеричка ознака у Регистру која се користи у статистичким истраживањима, у пословним комуникацијама јединице разврставања са трећим лицима и у повезивању података из различитих извора.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla2-clan14-stav1">
+								<content>
+									<p>Регистар се састоји од досијеа и базе података о јединицама разврставања, деловима предузећа и пословним, организационим и другим јединицама у саставу.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan14-stav2">
+								<content>
+									<p>Досије садржи пријаву за разврставање и преписку са јединицом разврставања у вези с променама.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla2-clan15-stav1">
+								<content>
+									<p>Даном ступања на снагу овог правилника престаје да важи Правилник о разврставању организација и заједница по делатностима („<ref id="ref4" href="/rs/act/76/42/srp@">Службени лист СФРЈ”, бр. 42/76, 61/77, 5/78, 72/80</ref> и 69/83).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="gla2-clan16-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном листу СРЈ”.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan16-stav2">
+								<content>
+									<p>Број 350-2111/1</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<section id="gla2-od19">
+						<num>19.</num>
+						<heading> децембра 1996. године</heading>
+						<content>
+							<clause id="gla2-od19-clan16-stav1">
+								<content>
+									<p>Београд мр</p>
+								</content>
+							</clause>
+							<clause id="gla2-od19-clan16-stav2">
+								<content>
+									<p>Директор</p>
+								</content>
+							</clause>
+							<clause id="gla2-od19-clan16-stav3">
+								<content>
+									<p>Савезног завода за статистику,</p>
+								</content>
+							</clause>
+							<clause id="gla2-od19-clan16-stav4">
+								<content>
+									<p>Милован   Живковић, с. р.</p>
+								</content>
+							</clause>
+							<став id="gla2-od19-clan16-stav5">
+								<img height="783" id="Picture 1" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/834638dc-7adf-4af4-a78a-6b9332ab71ef.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=179726&amp;regactid=179726" width="550"/>
+								<content/>
+							</став>
+							<став id="gla2-od19-clan16-stav6">
+								<img height="754" id="Picture 2" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/f6242512-d83e-4f07-a129-4d5123f548f1.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=179726&amp;regactid=179726" width="550"/>
+								<content/>
+							</став>
+							<став id="gla2-od19-clan16-stav7">
+								<img height="743" id="Picture 3" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/bc2b4bbd-469d-4618-a4bb-30b608a13dcd.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=179726&amp;regactid=179726" width="550"/>
+								<content/>
+							</став>
+							<clause id="gla2-od19-clan16-stav8">
+								<content>
+									<p>УПУТСТВО ЗА ПОПУЊАВАЊЕ ОБРАСЦА</p>
+								</content>
+							</clause>
+							<clause id="gla2-od19-clan16-stav9">
+								<content>
+									<p>Пријаву за разврставање по делатности подноси предузеће, задруга, банка и друга финансијска организација, берза, организација за осигурање, установа, државни орган, орган јединице локалне самоуправе, политичка организација, друштвена организација, удружење грађана и друга организација настала оснивањем, организовањем или повезивањем.</p>
+								</content>
+							</clause>
+							<clause id="gla2-od19-clan16-stav10">
+								<content>
+									<p>Пријаву подноси и јединица разврставања која је настала поделом, спајањем, припајањем, односно која је променила облик организовања, као и јединица разврставања која је променила податке о фирми, називу, седишту, адреси и делатности.</p>
+								</content>
+							</clause>
+							<clause id="gla2-od19-clan16-stav11">
+								<content>
+									<p>Јединица разврставања која је престала стечајем, ликвидацијом или на други законом прописани начин подноси такође ову пријаву ради њеног брисања из Регистра.</p>
+								</content>
+							</clause>
+							<clause id="gla2-od19-clan16-stav12">
+								<content>
+									<p>У образац РЈР-1 подаци се уписују на следећи начин:</p>
+								</content>
+							</clause>
+							<clause id="gla2-od19-clan16-stav13">
+								<content>
+									<p>Матични број</p>
+								</content>
+							</clause>
+							<clause id="gla2-od19-clan16-stav14">
+								<content>
+									<p>Приликом подношења пријаве за настанак јединице разврставања, матични број уписује у образац орган у републици који врши разврставање по делатностима а приликом подношења пријаве престанка, промене облика организовања и осталих промена матични број у образац уписује јединица разврставања.</p>
+								</content>
+							</clause>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОПШТИ ПОДАЦИ</heading>
+				<content>
+					<clause id="gla1-clan16-stav1">
+						<content>
+							<p>Под редним бројем 1 „Назив (фирма)”:</p>
+							<alinea id="gla1-clan16-stav1-ali1">
+								<content>
+									<p>од 1) јединица разврставања уписује фирму у облику у коме је наведена у статуту, односно регистрована у судском или посебном регистру;</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan16-stav1-ali2">
+								<content>
+									<p>од 2) јединица разврставања која има скраћену ознаку фирме, односно скраћени назив уписује га у облику у коме је уписан у статут, односно судски или посебан регистар.</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="gla1-clan16-stav2">
+						<content>
+							<p>Под редним бројем 2 „Врста облика организовања”, јединица разврставања уписује један од следећих одговора:</p>
+						</content>
+					</clause>
+					<clause id="gla1-clan16-stav3">
+						<content>
+							<p>ОБЛИЦИ ОРГАНИЗОВАЊА</p>
+						</content>
+					</clause>
+					<став id="gla1-clan16-stav4">
+						<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:100.0%" width="100%">
+							
+	
+							<tbody>
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		– предузећа:</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		</p>
+									</td>
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		ортачко друштво</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		10</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		командитно друштво</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		11</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		акционарско друштво</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		12</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		једночлано акционарско друштво</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		13</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		друштво с ограниченом одговорношћу</p>
+										
+		
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		14</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		једночлано друштво с ограниченом одговорношћу</p>
+										
+		
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		15</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		друштвено предузеће</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		16</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		јавно предузеће</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		17</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		предузетник</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		18</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		пословно удружење</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		19</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		– задруге:</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		</p>
+									</td>
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		земљорадничка задруга</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		21</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		стамбена задруга</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		22</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		потрошачка задруга</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		23</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		занатска задруга</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		24</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		здравствена задруга</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		25</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		омладинска, студентска и ученичка задруга</p>
+										
+		
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		26</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		друга задруга</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		29</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		– банке и друге финансијске организације:</p>
+										
+		
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		</p>
+									</td>
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		банка</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		31</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		друга финансијска организација</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		32</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		– берзе:</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		</p>
+									</td>
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		берза</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		33</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		берзански посредник</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		34</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		– организације за осигурање:</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		</p>
+									</td>
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		акционарско друштво за осигурање</p>
+										
+		
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		36</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		друштво за узајамно осигурање</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		37</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		агенција за послове пружања других услуга у осигурању</p>
+										
+		
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		38</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		– установе:</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		</p>
+									</td>
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		установа</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		85</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		– остале организације:</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		</p>
+									</td>
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		државни орган</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		71</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		правосудни орган</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		72</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		орган јединице локалне самоуправе</p>
+										
+		
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		73</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		политичка организација</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		81</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		друштвена организација</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		82</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		удружење грађана</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		83</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		остали облици</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		90</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+
+							</tbody>
+						</table>
+						
+
+						<content/>
+					</став>
+					<clause id="gla1-clan16-stav5">
+						<content>
+							<p>Под редним бројем 3 „Облик својине”, јединица разврставања уписује један од следећих одговора:</p>
+						</content>
+					</clause>
+					<став id="gla1-clan16-stav6">
+						<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:100.0%" width="100%">
+							
+	
+							<tbody>
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		без ознаке својине</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		0</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		друштвена</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		1</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		приватна</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		2</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		задружна</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		3</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		два или више облика својине</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		4</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		државна</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		5</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+
+							</tbody>
+						</table>
+						
+
+						<content/>
+					</став>
+					<clause id="gla1-clan16-stav7">
+						<content>
+							<p>Под редним бројем 4 „Порекло капитала”, јединица разврставања уписује један од следећих одговора:</p>
+						</content>
+					</clause>
+					<став id="gla1-clan16-stav8">
+						<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:100.0%" width="100%">
+							
+	
+							<tbody>
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		без ознаке порекла капитала</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		0</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		домаћи капитал</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		1</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		страни капитал</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		2</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		мешовити капитал</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		3</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+
+							</tbody>
+						</table>
+						
+
+						<content/>
+					</став>
+					<clause id="gla1-clan16-stav9">
+						<content>
+							<p>Под редним бројем 5 „Повезивање јединице разврставања”, зависно предузеће, предузеће које је повезано у холдинг или предузеће које је на други начин зависно од контролног, доминантног, управљачког и другог предузећа уписује фирму тог предузећа и његов матични број.</p>
+						</content>
+					</clause>
+					<clause id="gla1-clan16-stav10">
+						<content>
+							<p>Под редним бројем 6 „Јединица разврставања је основана за територију”, јавно предузеће, установа, државни орган, правосудни орган, јединица локалне самоуправе, комора, задружни савез и сл. уписује један од следећих одговора:</p>
+						</content>
+					</clause>
+					<став id="gla1-clan16-stav11">
+						<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:100.0%" width="100%">
+							
+	
+							<tbody>
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		месна заједница</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		1</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		општина</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		2</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		више општина (град)</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		3</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		аутономна покрајина</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		4</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		република чланица</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		5</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+										
+		
+										<p>
+		савезна држава</p>
+									</td>
+									
+		
+									<td style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+										
+		
+										<p>
+		6</p>
+										
+		
+									</td>
+									
+	
+								</tr>
+								
+
+							</tbody>
+						</table>
+						
+
+						<content/>
+					</став>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ПОДАЦИ О СЕДИШТУ И АДРЕСИ</heading>
+				<content>
+					<clause id="gla2-clan16-stav1">
+						<content>
+							<p>Уписује се назив насеља у коме је седиште јединице разврставања и поштански број, улица и кућни број. Ако јединица разврставања обавља делатност у више насеља, седиштем се сматра насеље у коме је њена управа.</p>
+						</content>
+					</clause>
+					<clause id="gla2-clan16-stav2">
+						<content>
+							<p>Остали подаци о јединици разврставања (име и презиме директора, телефон и телефакс) уписује се на предвиђеним линијама.</p>
+						</content>
+					</clause>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ПОДАЦИ ИЗ ДРУГИХ РЕГИСТАРА</heading>
+				<content>
+					<clause id="gla3-clan16-stav1">
+						<content>
+							<p>Под редним бројем 1 „Регистарски орган”, јединица разврставања уписује назив судског регистра или посебног регистра у који је јединица уписана као и регистарски број и датум уписа.</p>
+						</content>
+					</clause>
+					<clause id="gla3-clan16-stav2">
+						<content>
+							<p>Под редним бројем 2 „Број жиро-рачуна”, уписује се жиро-рачун који јединица разврставања има код Народне банке Југославије – Завода за обрачун и плаћања.</p>
+						</content>
+					</clause>
+					<clause id="gla3-clan16-stav3">
+						<content>
+							<p>Под редним бројем 3 „Број обвезника доприноса”, уписује се број обвезника доприноса под којим се јединица разврставања води код фонда за пензијско и инвалидско осигурање.</p>
+						</content>
+					</clause>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ПОДАЦИ О ДЕЛАТНОСТИ</heading>
+				<content>
+					<clause id="gla4-clan16-stav1">
+						<content>
+							<p>Под редним бројем 1 „Делатност и подаци о пословању”, предузеће или други облик организовања који се бави производњом робе или вршењем услуга на тржишту обавезно попуњава одговор на ово питање приликом прве пријаве делатности по Класификацији делатности, тј. до јула 1997. године до када су предузећа дужна да ускладе своју организацију са одредбама Закона о предузећима. После тог рока одговор на ово питање даје се само код промене претежне делатности. У кол. 2. до 6. уписују се редом подаци за сваку делатност која се обавља у предузећу, са називом и шифром подгрупе из Класификације делатности и подаци о пословању предузећа као целине, према завршном рачуну за претходну годину. Као извори података о пословању по делатностима могу се користити: обрачунске калкулације, погонски обрачуни, обрачуни по деловима предузећа и други аналитички обрачуни који се израђују за интерне потребе предузећа. Ако се јаве разлике између података по делатностима добијених из тих извора и укупних износа за предузеће добијених из завршних рачуна и уписаних у колону „укупно”, треба их објаснити у простору за напомене.</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan16-stav2">
+						<content>
+							<p>Предузеће или други облик организовања који делатност обавља у деловима предузећа уписује податке за сваки део предузећа у посебан ред са називом дела предузећа, подацима о пословању и шифром подгрупе делатности која је претходно утврђена за тај део предузећа.</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan16-stav3">
+						<content>
+							<p>Под редним бројем 2 „Претежна делатност”:</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan16-stav4">
+						<content>
+							<p>Под 1) предузеће или други облик организовања који се бави производњом робе или вршењем услуга на тржишту уписује предлог подгрупе делатности на основу података о пословању наведених у табели и методологије за разврставање по делатностима из овог правилника.</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan16-stav5">
+						<content>
+							<p>Установе, државни органи, органи јединице локалне самоуправе, политичке организације, синдикалне организације, друштвене организације, удружења грађана и сл. уписују предлог подгрупе делатности на основу методологије за разврставање.</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan16-stav6">
+						<content>
+							<p>Под редним бројем 3 „Регистрација за вршење спољнотрговинског промета”, заокружује се један од одговора (да или не), зависно од тога да ли је јединица разврставања уписана у судски регистар за вршење послова спољне трговине.</p>
+						</content>
+					</clause>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>ПОДАЦИ О ПРОМЕНИ</heading>
+				<content>
+					<clause id="gla5-clan16-stav1">
+						<content>
+							<p>Под редним бројем 1 јединица разврставања заокружује врсту промене због које је образац попуњен.</p>
+						</content>
+					</clause>
+					<clause id="gla5-clan16-stav2">
+						<content>
+							<p>Под редним број 2 уписује датум пријаве промене.</p>
+						</content>
+					</clause>
+					<clause id="gla5-clan16-stav3">
+						<content>
+							<p>Под редним бројем 3 даје се опис и објашњење промене.</p>
+							<point id="gla5-clan16-stav3-tac1">
+								<num>1)</num>
+								<content>
+									<p> Настанак јединице разврставања</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="gla5-clan16-stav4">
+						<content>
+							<p>Новонастала јединица разврставања попуњава у целини Образац РЈР-1, зависно од тога на који начин настаје, и заокружује једну од шифара настанка, и то:</p>
+						</content>
+					</clause>
+					<clause id="gla5-clan16-stav5">
+						<content>
+							<p>12 - настанак оснивањем - новоосновано предузеће, задруга, банка и друга финансијска организација, организација за осигурање, установа и сл. Зависно од облика организовања, законо су прописани услови које јединице разврставања морају испунити да би могле бити уписане у судски регистар и разврставане према Класификацији делатности;</p>
+						</content>
+					</clause>
+					<clause id="gla5-clan16-stav6">
+						<content>
+							<p>13 - настанак спајањем - ново предузеће или други облик организовања настао спајањем два или више предузећа или других облика организовања;</p>
+						</content>
+					</clause>
+					<clause id="gla5-clan16-stav7">
+						<content>
+							<p>14 - настанак поделом - ново предузеће или други облик организовања настао услед поделе на два и више нових предузећа или других облика организовања;</p>
+						</content>
+					</clause>
+					<clause id="gla5-clan16-stav8">
+						<content>
+							<p>19 - настанак на други начин - новоосноване јединице разврставања које настају на основу закона или их оснује група грађана, као што су: државни органи, органи јединица локалне самоуправе, правосудни органи, политичке организације, синдикати, друштвене организације, удружења грађана и сл.</p>
+							<point id="gla5-clan16-stav8-tac2">
+								<num>2)</num>
+								<content>
+									<p> Престанак јединице разврставања</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="gla5-clan16-stav9">
+						<content>
+							<p>Јединица разврставања која престаје да постоји попуњава делимично Образац РЈР-1, наводећи матични број, назив седиште, адресу и начин престанка. Зависно од тога на који начин престане да постоји јединица разврставања, заокружује се једна од шифара престанка, и то:</p>
+						</content>
+					</clause>
+					<clause id="gla5-clan16-stav10">
+						<content>
+							<p>21 - престанак ликвидацијом - ликвидационо веће по окончању ликвидационог поступка у предузећу, задрузи, банци, организацији за осигурање и другом облику организовања у складу са важећим савезним законом;</p>
+						</content>
+					</clause>
+					<clause id="gla5-clan16-stav11">
+						<content>
+							<p>22 - престанак стечајем - стечајно веће по доношењу решења о закључењу стечајног поступка у предузећу, задрузи, банци, организацији за осигурање и другом облику организовања у складу са важећим законом;</p>
+						</content>
+					</clause>
+					<clause id="gla5-clan16-stav12">
+						<content>
+							<p>23 - престанак припајањем - предузеће или други облик организовања који припајањем улази у састав предузећа преузимаоца;</p>
+						</content>
+					</clause>
+					<clause id="gla5-clan16-stav13">
+						<content>
+							<p>24 - престанак спајањем - предузеће или други облик организовања који се споји с другим предузећем и оснује ново предузеће;</p>
+						</content>
+					</clause>
+					<clause id="gla5-clan16-stav14">
+						<content>
+							<p>25 - престанак поделом - предузеће или други облик организовања који се подели на два или више нових предузећа;</p>
+						</content>
+					</clause>
+					<clause id="gla5-clan16-stav15">
+						<content>
+							<p>29 - престанак на други начин - јединица разврставања која престаје да постоји на основу одлуке државних органа или одлуке групе грађана који су оснивачи јединице разврставања. На тај начин престају: државни органи, органи јединица локалне самоуправе, правосудни органи, политичке организације, синдикалне организације, друштвене организације, удружења грађана и сл.</p>
+							<point id="gla5-clan16-stav15-tac3">
+								<num>3)</num>
+								<content>
+									<p> Друге промене</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="gla5-clan16-stav16">
+						<content>
+							<p>Јединица разврставања која пријављује једну од осталих промена предвиђених у Обрасцу РЈР-1 попуњава делимично пријаву, наводећи матични број, назив, седиште и адресу, и заокружује шифру промене која се пријављује. У простору за напомене јединица разврставања може детаљније описати промену која се пријављује или навести друге податке који су промењени.</p>
+						</content>
+					</clause>
+					<clause id="gla5-clan16-stav17">
+						<content>
+							<p>Јединица разврставања која пријављује промену обележја које није наведено као врста промене у Обрасцу РЈР-1 заокружује шифру „69 промена осталих података”, а у „Напомени” наводи обележја која се мењају.</p>
+						</content>
+					</clause>
+					<став id="gla5-clan16-stav18">
+						<img height="768" id="Picture 4" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/cc375bcd-183b-4eae-a882-8a60f0ff2e1a.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=179726&amp;regactid=179726" width="550"/>
+						<content/>
+					</став>
+					<clause id="gla5-clan16-stav19">
+						<content>
+							<p>УПУТСТВО ЗА ПОПУЊАВАЊЕ ОБРАСЦА</p>
+						</content>
+					</clause>
+					<clause id="gla5-clan16-stav20">
+						<content>
+							<p>Пријаву за разврставање дела предузећа, пословне, организационе и друге јединице у саставу (Образац РЈР-1а) јединица разврставања попуњава за сваки део предузећа, пословну, организациону и другу јединицу у свом саставу и улаже у Образац РЈР-1.</p>
+						</content>
+					</clause>
+					<clause id="gla5-clan16-stav21">
+						<content>
+							<p>Део предузећа је сваки део који има овлашћења у правном промету, односно који је уписан у судски регистар, део који је утврђен општим актом предузећа и део који има посебан обрачун резултата пословања или посебан подрачун.</p>
+						</content>
+					</clause>
+					<clause id="gla5-clan16-stav22">
+						<content>
+							<p>Под делом предузећа, пословном, организационом или другом јединицом у саставу подразумева се и део предузећа или другог облика организовања у коме се обавља делатност по правилу различита од делатности предузећа или другог облика организовања у чијем је саставу.</p>
+						</content>
+					</clause>
+					<clause id="gla5-clan16-stav23">
+						<content>
+							<p>Делови предузећа или других облика организовања који имају другу адресу третирају се као посебан део предузећа, пословна, организациона и друга јединица у саставу и када не представљају заокружену пословну или производну целину, па и онда када обављају исту делатност као предузеће, односно други облик организовања у чијем су саставу.</p>
+						</content>
+					</clause>
+					<clause id="gla5-clan16-stav24">
+						<content>
+							<p>Статус и пословање наведених делова предузећа по правилу се регулише статутом предузећа у чијем су саставу. Примери овако дефинисаних делова предузећа, пословних, организационих и других јединица у саставу су: рудник, електрана, каменолом, ливница, пилана, предионица, ткачница, пивара, млин, пекара, ауто парк, сервис, продавница, стовариште, хотел, ресторан, болница, амбуланта и др.</p>
+						</content>
+					</clause>
+					<clause id="gla5-clan16-stav25">
+						<content>
+							<p>У образац РЈР-1а подаци се уписују на следећи начин:</p>
+						</content>
+					</clause>
+				</content>
+			</chapter>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>НАЗИВ (ФИРМА) У ЧИЈЕМ ЈЕ САСТАВУ</heading>
+				<content>
+					<clause id="gla1-clan16-stav1">
+						<content>
+							<p>Јединица разврставања уписује у потпуном облику назив (фирму), насеље и матични број предузећа или другог облика организовања у чијем је саставу.</p>
+						</content>
+					</clause>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ПОДАЦИ О ДЕЛУ ПРЕДУЗЕЋА, ПОСЛОВНОЈ, ОРГАНИЗАЦИОНОЈ И ДРУГОЈ ЈЕДИНИЦИ У САСТАВУ</heading>
+				<content>
+					<clause id="gla2-clan16-stav1">
+						<content>
+							<p>Јединица разврставања уписује свој потпун назив, редни број, поштански број, насеље, улицу, кућни број и општину.</p>
+						</content>
+					</clause>
+					<clause id="gla2-clan16-stav2">
+						<content>
+							<p>Редни број јединице разврставања је четворомесна нумеричка ознака која се додељује делу предузећа, организационој, пословној и другој јединици у саставу, која почиње од један и иде до броја колико има делова у саставу предузећа, односно других облика организовања. Редни број који је додељен делу предузећа је сталан, служи за идентификацију у оквиру предузећа у чијем је саставу и не може се мењати док део предузећа постоји. Новом делу предузећа додељује се следећи број, при чему се води рачуна о последњем додељеном броју.</p>
+						</content>
+					</clause>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ДЕЛАТНОСТ</heading>
+				<content>
+					<clause id="gla3-clan16-stav1">
+						<content>
+							<p>Јединица разврставања описује делатност коју обавља и уноси свој предлог за разврставање у одговарајућу категорију Класификације делатности (подгрупа).</p>
+						</content>
+					</clause>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ПОДАЦИ О ПРОМЕНИ</heading>
+				<content>
+					<clause id="gla4-clan16-stav1">
+						<content>
+							<p>Под редним бројем 1 „Врста промене”, јединица разврставања заокружује један од предвиђених модалитета промене (1-оснивање - организовање; 2-престанак; 3-промене у подацима; 4-промена матичног броја).</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan16-stav2">
+						<content>
+							<p>Зависно од врсте промене коју јединица разврставања пријављује, заокружује се један од следећих одговора:</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan16-stav3">
+						<content>
+							<p>- за новонастали део предузећа попуњава се у целини Образац РЈР-1а и заокружује шифра „1 - оснивање-организовање”;</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan16-stav4">
+						<content>
+							<p>- за део предузећа који престаје да постоји попуњава се делимично Образац РЈР-1а навођењем назива (фирме) предузећа у чијем је саставу, матичног броја и редног броја дела предузећа. Код врсте промене заокружује се шифра „2 - престанак”;</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan16-stav5">
+						<content>
+							<p>- ако код дела предузећа настану промене назива, адресних података и делатности, предузеће попуњава на Обрасцу РЈР-1а назив (фирму), матични број и редни број дела предузећа као и податке који се мењају, заокружујући назив податка који се мења. Код врсте промене заокружује се шифра „3 - промене у подацима”;</p>
+						</content>
+					</clause>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

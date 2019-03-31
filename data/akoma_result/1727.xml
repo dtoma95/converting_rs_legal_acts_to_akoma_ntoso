@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1971/43-951/main"/>
+					<FRBRuri value="/rs/act/1971/43-951"/>
+					<FRBRdate date="1971" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1971/43-951/srp@/main"/>
+					<FRBRuri value="/rs/act/1971/43-951/srp@"/>
+					<FRBRdate date="1971" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1971/43-951/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1971/43-951/srp@.akn"/>
+					<FRBRdate date="1971" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1971-10-30" name="службени гласник срс" number="43" showAs="Службени гласник СРС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Упутство" value="упутство"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="13. Заштита од пожара" value="13. заштита од пожара"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1971-09-17" id="usvajanje"/>
+				<step date="1971-11-07" id="stupanje_na_snagu"/>
+				<step date="1971-11-07" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 73. </ref>Закона о заштити од пожара („<ref id="ref2" href="/rs/act/70/50/srp@">Службени гласник СР Србије“, бр. 50/70</ref>) у споразуму са Републичким секретаријатом за општенародну одбрану, Републички секретаријат за унутрашње послове, доноси</p>
+		</preamble>
+		<preface>
+			<authority>УПУТСТВО</authority>
+			<title>о начину вршења надзора над спровођењем мера заштите од пожара у радним  организацијама које производе за војне потребе</title>
+			<date>„Службени гласник СРС” број 43 од 30. октобра 1971.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Надзор над спровођењем мера заштите од пожара у радним организацијама које производе за војне потребе врши Републички секретаријат за унутрашње послове по одредбама Закона о заштити од пожара, прописа донетих на основу тог закона и овог упутства.</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Под појмом радне организације које производе предмете наоружања и војне опреме односно које су радне организације за такву поизводњу оспособљене, подразумевају се радне организације које је одредило Савезно извршно веће на основу <ref>члана 71. </ref>Закона о народној одбрани.</heading>
+				<content/>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> За вршење надзора из тачке 1. овог упутства инспектори противпожарне заштите морају имати посебно овлашћење, које издаје надлежни војни орган. Надзор над спровођењем мера заштите од пожара врши се уз учешће стручњака кога одређује надлежни војни орган.</heading>
+				<content/>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Ако се при вршењу надзора из тачке 1. овог упутства укаже потреба за стручним експертизама или за сарадњом стручних установа и техничких инспекција, инспектори ће за учешће стручњака поменутих институција затражити овлашћење од надлежног војног органа.</heading>
+				<content/>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> Ово упутство ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Социјалистичке Републике Србије”.</heading>
+				<content>
+					<clause id="od5-stav1">
+						<content>
+							<p>Број 217-143/71</p>
+						</content>
+					</clause>
+					<clause id="od5-stav2">
+						<content>
+							<p>У Београду, 17. септембра 1971. године</p>
+						</content>
+					</clause>
+					<clause id="od5-stav3">
+						<content>
+							<p>Заменик</p>
+						</content>
+					</clause>
+					<clause id="od5-stav4">
+						<content>
+							<p>републичког секретара</p>
+						</content>
+					</clause>
+					<clause id="od5-stav5">
+						<content>
+							<p>за унутрашње послове,</p>
+						</content>
+					</clause>
+					<clause id="od5-stav6">
+						<content>
+							<p>Стево Пувалић, с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

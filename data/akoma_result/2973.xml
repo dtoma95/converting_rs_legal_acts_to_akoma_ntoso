@@ -1,0 +1,793 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2011/78-251/main"/>
+					<FRBRuri value="/rs/act/2011/78-251"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/78-251/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/78-251/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/78-251/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/78-251/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2011-10-19" name="службени гласник рс" number="78" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="9. Доприноси за обавезно социјално осигурање" value="9. доприноси за обавезно социјално осигурање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-10-13" id="usvajanje"/>
+				<step date="2011-10-27" id="stupanje_na_snagu"/>
+				<step date="2011-10-27" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 27. октобра 2011. године (види <ref>члан 12. </ref>Уредбе).Поступак преузимања података од организација и Пореске управе започиње именовањем Тима, најраније у року од осам дана од дана ступања на снагу ове уредбе, односно од 27. октобра 2011. године, а завршава се успостављањем Јединствене базе најкасније до 31. децембра 2012. године. Поступак преузимања података из <ref>члана 3. </ref>ове уредбе који се односе на основице доприноса за пензијско и инвалидско осигурање, висину уплаћених доприноса за пензијско и инвалидско осигурање и периоде на који се та уплата односи – за период од 1. јануара 2003. до 31. децембра 2012. године, од Републичког фонда за пензијско и инвалидско осигурање, завршава се најкасније 31. децембра 2016. године. Поступак преузимања података из <ref>члана 3. </ref>ове уредбе који се односе на основице доприноса за пензијско и инвалидско осигурање и периоде на који се та уплата односи – за период од 1. јануара 1970. до 31. децембра 2002. године, од Републичког фонда за пензијско и инвалидско осигурање, завршава се најкасније 31. децембра 2019. године (види <ref>члан 11. </ref>Уредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 34. став 3. </ref>Закона о Централном регистру обавезног социјалног осигурања („<ref id="ref12" href="/rs/act/10/30/srp@">Службени гласник РС”, број 30/10</ref>) и <ref>члана 42. став 1. </ref>Закона о Влади („<ref id="ref13" href="/rs/act/05/55/srp@">Службени гласник РС”, бр. 55/05, 71/05</ref> – исправка, 101/07, 65/08 и 16/11),</p>
+			<p>Влада доноси</p>
+		</preamble>
+		<preface>
+			<title>УРЕДБУ</title>
+			<authority>о ближој садржини, року и начину преузимања података неопходних за успостављање Јединствене базе података Централног регистра обавезног социјалног осигурања</authority>
+			<title>&quot;Службени гласник РС&quot;, број 78 од 19. октобра      2011.</title>
+			<date>Предмет Уредбе</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овом уредбом уређује се ближа садржина података који су неопходни за успостављање Јединствене базе података о обвезницима доприноса за обавезно социјално осигурање и осигураним лицима (у даљем тексту: Јединствена база), рок и начин преузимања тих података, као и рокови у којима ће организације за обавезно социјално осигурање и Пореска управа усагласити податкe из својих база.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Организације обавезног социјалног осигурања у смислу Закона о Централном регистру обавезног социјалног осигурања (у даљем тексту: Закон) и ове уредбе јесу: Републички фонд за пензијско и инвалидско осигурање, Републички фонд за здравствено осигурање и Национална служба за запошљавање (у даљем тексту: организације).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>Успостављање Јединствене базе</heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Јединствена база Централног регистра обавезног социјалног осигурања ( у даљем тексту: Централни регистар) успоставља се преузимањем података из постојећих база података које воде oрганизације и Пореска управа, чија је ближа садржина прописана овoм уредбом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>Садржина података који се преузимају</heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Ради успостављања Јединствене базе од Републичког фонда за пензијско и инвалидско осигурање преузимају се:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> подаци о осигуранику:</p>
+									<item id="clan3-stav1-tac1-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> презиме и име,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac1-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> јединствени матични број грађана – лични број осигураника,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac1-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> пол,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac1-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> дан, месец и година рођења,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac1-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> занимање,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac1-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> школска спрема,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac1-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> основ осигурања, основ престанка осигурања,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac1-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> датум стицања и престанка својства осигураника,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac1-podtac9">
+										<num>(9)</num>
+										<content>
+											<p> датум промене у току осигурања,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac1-podtac10">
+										<num>(10)</num>
+										<content>
+											<p> радно време,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac1-podtac11">
+										<num>(11)</num>
+										<content>
+											<p> назив и седиште обвезника плаћања доприноса,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac1-podtac12">
+										<num>(12)</num>
+										<content>
+											<p> матични број регистра и порески идентификациони број послодавца,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac1-podtac13">
+										<num>(13)</num>
+										<content>
+											<p> регистарски број послодавца,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac1-podtac14">
+										<num>(14)</num>
+										<content>
+											<p> посебни подаци о осигуранику,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac1-podtac15">
+										<num>(15)</num>
+										<content>
+											<p> да ли је осигураник корисник права из пензијског и инвалидског осигурања,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac1-podtac16">
+										<num>(16)</num>
+										<content>
+											<p> основице доприноса за пензијско и инвалидско осигурања, висина уплаћених доприноса за пензијско и инвалидско осигурање и периоди на који се та уплата односи;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> подаци о обвезнику плаћања доприноса:</p>
+									<item id="clan3-stav1-tac2-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> регистарски број обвезника плаћања доприноса,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac2-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> порески идентификациони број (ПИБ) додељен од надлежног органа или ЈМБГ физичког лица,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac2-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> матични број регистра додељен од надлежног органа,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac2-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> шифра делатности обвезника плаћања доприноса,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac2-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> пословно име/презиме и име физичког лица обвезника плаћања доприноса,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac2-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> седиште/адреса (место, улица и број) обвезника плаћања доприноса,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac2-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> број и назив поште седишта/пребивалишта обвезника плаћања доприноса,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac2-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> општина на којој се налази седиште/пребивалиште обвезника плаћања доприноса,</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac2-podtac9">
+										<num>(9)</num>
+										<content>
+											<p> датум почетка, престанка и промене у пословању.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Од Републичког фонда за здравствено осигурање преузимају се:</p>
+							<point id="clan3-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> подаци о осигуранику:</p>
+									<item id="clan3-stav2-tac1-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> презиме и име,</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac1-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> јединствени матични број грађана – лични број осигураника,</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac1-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> пол,</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac1-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> дан, месец и година рођења,</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac1-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> занимање,</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac1-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> школска спрема,</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac1-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> основ осигурања,</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac1-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> датум стицања, односно престанка својства осигураника, као и промене у току осигурања,</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac1-podtac9">
+										<num>(9)</num>
+										<content>
+											<p> адреса пребивалишта,</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac1-podtac10">
+										<num>(10)</num>
+										<content>
+											<p> пословно име и седиште обвезника плаћања доприноса,</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac1-podtac11">
+										<num>(11)</num>
+										<content>
+											<p> матични број регистра и порески идентификациони број обвезника плаћања доприноса,</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac1-podtac12">
+										<num>(12)</num>
+										<content>
+											<p> општина на којој се налази пребивалиште осигураника и</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac1-podtac13">
+										<num>(13)</num>
+										<content>
+											<p> држављанство;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan3-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> за чланове породице осигураника из тачке 1) овог става, и то:</p>
+									<item id="clan3-stav2-tac2-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> презиме и име,</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac2-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> јединствени матични број грађана,</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac2-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> пол,</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac2-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> дан, месец и година рођења,</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac2-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> сродство са осигураником и</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac2-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> адреса пребивалишта;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan3-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> подаци о обвезнику плаћања доприноса:</p>
+									<item id="clan3-stav2-tac3-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> регистарски број обвезника плаћања доприноса,</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac3-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> порески идентификациони број (ПИБ) додељен од надлежног органа или ЈМБГ физичког лица,</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac3-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> матични број регистра додељен од надлежног органа,</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac3-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> шифра делатности обвезника плаћања доприноса,</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac3-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> пословно име (презиме и име) обвезника плаћања доприноса,</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac3-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> седиште/адреса (место, улица и број) обвезника плаћања доприноса,</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac3-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> општина на чијој територији се налази седишта/пребивалишта обавезника плаћања доприноса,</p>
+										</content>
+									</item>
+									<item id="clan3-stav2-tac3-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> датум почетка, престанка и промене у пословању обавезника плаћања доприноса.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Од Пореске управе преузимају се следећи подаци:</p>
+							<item id="clan3-stav3-podtac1">
+								<num>(1)</num>
+								<content>
+									<p> порески идентификациони број,</p>
+								</content>
+							</item>
+							<item id="clan3-stav3-podtac2">
+								<num>(2)</num>
+								<content>
+									<p> матични број регистра,</p>
+								</content>
+							</item>
+							<item id="clan3-stav3-podtac3">
+								<num>(3)</num>
+								<content>
+									<p> ЈМБГ предузетника/физичког лица,</p>
+								</content>
+							</item>
+							<item id="clan3-stav3-podtac4">
+								<num>(4)</num>
+								<content>
+									<p> пословно име правног лица, назив предузетника и/или предузетничке радње физичког лица,</p>
+								</content>
+							</item>
+							<item id="clan3-stav3-podtac5">
+								<num>(5)</num>
+								<content>
+									<p> правна форма привредног субјекта,</p>
+								</content>
+							</item>
+							<item id="clan3-stav3-podtac6">
+								<num>(6)</num>
+								<content>
+									<p> општина седишта правног лица, предузетника, адреса физичког лица,</p>
+								</content>
+							</item>
+							<item id="clan3-stav3-podtac7">
+								<num>(7)</num>
+								<content>
+									<p> место, седиште правног лица, предузетника, адреса физичког лица,</p>
+								</content>
+							</item>
+							<item id="clan3-stav3-podtac8">
+								<num>(8)</num>
+								<content>
+									<p> шифра делатности.</p>
+								</content>
+							</item>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>Од Националне службе за запошљавање преузимају се:</p>
+							<point id="clan3-stav4-tac1">
+								<num>1)</num>
+								<content>
+									<p> подаци о кориснику новчане накнаде:</p>
+									<item id="clan3-stav4-tac1-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> презиме и име незапосленог – корисника новчане накнаде,</p>
+										</content>
+									</item>
+									<item id="clan3-stav4-tac1-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> ЈМБГ незапосленог – корисника новчане накнаде,</p>
+										</content>
+									</item>
+									<item id="clan3-stav4-tac1-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> пол незапосленог,</p>
+										</content>
+									</item>
+									<item id="clan3-stav4-tac1-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> дан, месец и година рођења незапосленог,</p>
+										</content>
+									</item>
+									<item id="clan3-stav4-tac1-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> пребивалиште незапосленог (адреса становања),</p>
+										</content>
+									</item>
+									<item id="clan3-stav4-tac1-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> занимање незапосленог,</p>
+										</content>
+									</item>
+									<item id="clan3-stav4-tac1-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> образовни профил/звање незапосленог,</p>
+										</content>
+									</item>
+									<item id="clan3-stav4-tac1-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> датум почетка и престанка права на новчану накнаду;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan3-stav4-tac2">
+								<num>2)</num>
+								<content>
+									<p> подаци о кориснику привремене накнаде за лица са подручја АП Косово и Метохија:</p>
+									<item id="clan3-stav4-tac2-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> презиме и име – корисника привремене накнаде,</p>
+										</content>
+									</item>
+									<item id="clan3-stav4-tac2-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> ЈМБГ корисника привремене накнаде,</p>
+										</content>
+									</item>
+									<item id="clan3-stav4-tac2-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> пол,</p>
+										</content>
+									</item>
+									<item id="clan3-stav4-tac2-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> дан, месец и година рођења,</p>
+										</content>
+									</item>
+									<item id="clan3-stav4-tac2-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> пребивалиште/боравиште корисника привремене накнаде,</p>
+										</content>
+									</item>
+									<item id="clan3-stav4-tac2-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> занимање корисника привремене накнаде,</p>
+										</content>
+									</item>
+									<item id="clan3-stav4-tac2-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> образовни профил/звање корисника привремене накнаде и</p>
+										</content>
+									</item>
+									<item id="clan3-stav4-tac2-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> датум стицања права на привремену накнаду.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>Преузимање података</heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Организације и Пореска управа дужне су да податке из <ref>члана 3. </ref>ове уредбе учине доступним ради преноса у Јединствену базу у изворном облику и из изворних база података.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<heading>Тим за пренос података</heading>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Преузимањем података из <ref>члана 3. </ref>ове уредбе управља Тим за пренос података (у даљем тексту: Тим), који именује министар надлежан за социјалну политику из реда запослених у Централном регистру, Републичком фонду за пензијско и инвалидско осигурање, Републичком фонду за здравствено осигурање, Националној служби за запошљавање и Пореској управи.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Свака од организација из става 1. овог члана и Пореска управа предлажу по два своја представника, од којих један мора бити дипломирани правник или дипломирани економиста, који поседује дугогодишње искуство на пословима матичне евиденције, односно на пословима из основне делатности учесника у поступку успостављања Јединствене базе, а други – задужен за информационе технологије, са дугогодишњим искуством и познавањем структуре и начина рада изворног система.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<heading>Задаци Тима</heading>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Тим је задужен за:</p>
+							<point id="clan6-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> организовање, планирање и спровођење активности у поступку преноса података у Јединствену базу;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> координацију дизајна, имплементацију и тестирање комплетног поступка преноса података;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> идентификовање грешака и прослеђивање надлежним организацијама или органу ради исправке погрешних података;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> верификацију података, пре коначног преноса података у Јединствену базу.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Тим је дужан да министру надлежном за социјалну политику периодично, а најмање једном у три месеца доставља извештај о току поступка преноса података, као и коначан извештај о завршеном поступку преноса података у Јединствену базу.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<heading>Усаглашавање подaтака и провера тачности</heading>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>По преузимању података из <ref>члана 3. </ref>ове уредбе од организација и Пореске управе, а пре уноса у базу Централног регистра, врши се усаглашавање сродних података из различитих база, као и провера њихове тачности и потпуности.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Ако податак није потпун или није тачан, Централни регистар не врши његову исправку, већ о томе сачињава извештај који садржи груписане (генерисане) податке који нису исправни и доставља га организацијама или Пореској управи, ради исправљања утврђених неправилности и усаглашавања података, пре њиховог уноса у Јединствену базу.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>Организације и Пореска управа врше исправке на основу расположивих евиденција, микрофилмских копија пријава, личних картона и других изворних података или у сарадњи са подносиоцима пријава за матичну евиденцију и подносиоцима пореских пријава.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>Организације и Пореска управа дужне су да у року од 30 дана, од дана утврђене несагласности односно нетачности, изврше исправке података и учине их доступним ради преноса у Јединствену базу.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<heading>Извештај о завршеном поступку преноса података</heading>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Централни регистар, после извршених свих провера тачности, пренетих података из база организација и Пореске управе, у Јединствену базу, потврђује да је завршен пренос података неопходних за успостављање Јединствене базе, а на основу чега Тим сачињава коначан извештај у складу са чланом 6. став 2. ове уредбе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<heading>Означавање података</heading>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Подаци из <ref>члана 3. </ref>ове уредбе уносе се и означавају у Јединственој бази шифрама прописаним Јединственим кодексом шифара, у складу са Уредбом о садржини, обрасцу и начину подношења Јединствене пријаве на обавезно социјално осигурање, Јединственим методолошким принципима и Јединственом кодексу шифара за унос података у Јединствену базу Централног регистра обавезног социјалног осигурања („<ref id="ref14" href="/rs/act/10/54/srp@">Службени гласник РС”, број 54/10</ref>).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<heading>Заштита података</heading>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Заштита података пренетих у Јединствену базу обезбеђује се у складу са законом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<heading>Рокови за окончање поступка преузимања података</heading>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Поступак преузимања података од организација и Пореске управе започиње именовањем Тима, најраније у року од осам дана од дана ступања на снагу ове уредбе, а завршава се успостављањем Јединствене базе најкасније до 31. децембра 2012. године.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Поступак преузимања података из <ref>члана 3. </ref>ове уредбе који се односе на основице доприноса за пензијско и инвалидско осигурање, висину уплаћених доприноса за пензијско и инвалидско осигурање и периоде на који се та уплата односи – за период од 1. јануара 2003. до 31. децембра 2012. године, од Републичког фонда за пензијско и инвалидско осигурање, завршава се најкасније 31. децембра 2016. године.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav3">
+						<content>
+							<p>Поступак преузимања података из <ref>члана 3. </ref>ове уредбе који се односе на основице доприноса за пензијско и инвалидско осигурање и периоде на који се та уплата односи – за период од 1. јануара 1970. до 31. децембра 2002. године, од Републичког фонда за пензијско и инвалидско осигурање, завршава се најкасније 31. децембра 2019. године.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<heading>Завршна одредба</heading>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Ова уредба ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav2">
+						<content>
+							<p>05 број 110-7680/2011-2</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav3">
+						<content>
+							<p>У Београду, 13. октобра 2011. године</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav4">
+						<content>
+							<p>Влада</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav5">
+						<content>
+							<p>Председник,</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav6">
+						<content>
+							<p>др Мирко Цветковић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

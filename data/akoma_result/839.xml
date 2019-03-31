@@ -1,0 +1,289 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2012/117-70/main"/>
+					<FRBRuri value="/rs/act/2012/117-70"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2012/117-70/srp@/main"/>
+					<FRBRuri value="/rs/act/2012/117-70/srp@"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2012/117-70/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2012/117-70/srp@.akn"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2012-12-12" name="службени гласник рс" number="117" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="16. Хидрометеоролошки послови" value="16. хидрометеоролошки послови"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2012-12-10" id="usvajanje"/>
+				<step date="2012-12-20" id="stupanje_na_snagu"/>
+				<step date="2012-12-20" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 23. став 8. </ref>Закона о метеоролошкој и хидролошкој делатности („<ref id="ref1" href="/rs/act/10/88/srp@">Службени гласник РС”, брoj 88/10</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Директор Републичког хидрометеоролошког завода, доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о садржини и начину вођења Регистра државних мрежа метеоролошких и хидролошких станица и допунских мрежа метеоролошких и хидролошких станица, као и начину уписа у Регистар</title>
+			<date>&quot;Службени гласник РС&quot;, број 117 од 12.   децембра 2012.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником ближе се уређује садржина и начин вођења Регистра државних мрежа метеоролошких и хидролошких станица и допунских мрежа метеоролошких и хидролошких станица, као и начин уписа у Регистар.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Регистар државних мрежа метеоролошких и хидролошких станица и допунских мрежа метеоролошких и хидролошких станица (у даљем тексту: Регистар) садржи податке о државним органима и другим правним лицима надлежним за станице у саставу државних мрежа метеоролошких и/или хидролошких станица, односно податке о имаоцима станица у саставу допунских мрежа метеоролошких и/или хидролошких станица, и то:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> датум и редни број уписа у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> тип мреже (државна или допунска) и врсту мреже према програму мерења и осматрања;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> власништву над мрежом;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> врсту станице (метеоролошка или хидролошка);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> пословно име, седиште и адресу правног лица/предузетника који се уписује у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> име, презиме, адресу и јединствени матични број грађана (у даљем тексту: ЈМБГ) за физичко лице;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> порески идентификациони број (ПИБ), матични број и шифра делатности за правно лице односно предузетника;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> број и датум о упису у Регистар другог надлежног органа у којем је правно лице/предузетник регистрован;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> име, презиме и ЈМБГ лица овлашћеног за заступање;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> међународни и/или национални идентификациони број станице;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> податке о локацији станице, и то: географске координате, надморску висину, назив места и речног слива;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> податке о програму станице;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> податке о мерилима станице;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac14">
+								<num>14)</num>
+								<content>
+									<p> податке о стручном кадру;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac15">
+								<num>15)</num>
+								<content>
+									<p> број и датум решења о упису у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac16">
+								<num>16)</num>
+								<content>
+									<p> промене/допуне података уписаних у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac17">
+								<num>17)</num>
+								<content>
+									<p> број и датум решења о променама/допунама података;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac18">
+								<num>18)</num>
+								<content>
+									<p> број и датум решења о брисању из Регистра.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>У Регистар се уписују и промене података, као и брисања података.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Подаци из Регистра су јавни.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav4">
+						<content>
+							<p>Саставни део Регистра чини документација која се подноси уз захтев и која се чува трајно у складу са прописима којима се уређује чување архивске грађе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Свакој метеоролошкој, односно хидролошкој станици приликом уписа у Регистар додељује се регистарски број.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Станица из става 1. овог члана може да има само један регистарски број.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Регистар се води у облику регистарске књиге, која се води у писаном облику, на српском језику, ћириличним писмом, штампаним словима.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Регистарска књига састоји се од регистарских листова и састоји се из два дела:</p>
+							<point id="clan4-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> у првом делу регистарске књиге води се регистар метеоролошких и хидролошких станица у саставу државних мрежа метеоролошких и хидролошких станица;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> у другом делу води се регистар станица у саставу допунских мрежа метеоролошких и хидролошких станица.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Регистар се води и као електронска база података која се може повезивати са другим регистрима и базама података које води Републички хидрометеоролошки завод, у складу са законом којим се уређује метеоролошка и хидролошка делатност.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav4">
+						<content>
+							<p>Регистар који се води у облику регистарске књиге и регистар који се води у електронском облику садрже идентичне податке.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Упис података у Регистар врши се по захтеву обвезника за подношење захтева за упис станица у саставу државних мрежа метеоролошких и/или хидролошких станица, односно захтеву који подноси ималац станице у саставу допунских мрежа метеоролошких и/или хидролошких станица, као и документације која се уз захтев прилаже.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у ,,Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Број 011-50/12-3</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>У Београду, 10. децембра 2012. године</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav4">
+						<content>
+							<p>Директор,</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav5">
+						<content>
+							<p>Милан Дацић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

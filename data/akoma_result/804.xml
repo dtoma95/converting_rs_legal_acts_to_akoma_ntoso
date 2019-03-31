@@ -1,0 +1,822 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2018/46-49/main"/>
+					<FRBRuri value="/rs/act/2018/46-49"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/46-49/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/46-49/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/46-49/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/46-49/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2018-6-15" name="службени гласник рс" number="46" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="6. Средње образовање и васпитање" value="6. средње образовање и васпитање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2018-06-13" id="usvajanje"/>
+				<step date="2018-06-23" id="stupanje_na_snagu"/>
+				<step date="2018-06-23" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 12. став 13. </ref>Закона о дуалном образовању („<ref id="ref14" href="/rs/act/17/101/srp@">Службени гласник РС”, број 101/17</ref>) и <ref>члана 48. став 1. тачка 3</ref>. подтачка 1. Статута Привредне коморе Србије („<ref id="ref15" href="/rs/act/16/39/srp@">Службени гласник РС”, број 39/16</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Управни одбор Привредне коморе Србије, на седници одржаној 13. јуна 2018. године, доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о организацији, саставу и начину рада Комисије за утврђивање испуњености услова за извођење учења кроз рад код послодавца</title>
+			<date>&quot;Службени гласник РС&quot;, број 46 од 15. јуна 2018.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>УВОДНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<heading>Предмет уређивања</heading>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником ближе се уређују организација, састав и начин рада Комисије за утврђивање испуњености услова за извођење учења кроз рад код послодавца (у даљем тексту: Комисија).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ОРГАНИЗАЦИЈА, САСТАВ И НАЧИН РАДА КОМИСИЈЕ</heading>
+				<content>
+					<article id="gla2-clan2">
+						<num>2.</num>
+						<heading>Образовање Комисије</heading>
+						<content>
+							<clause id="gla2-clan2-stav1">
+								<content>
+									<p>Председник Привредне коморе Србије (у даљем тексту ПКС) образује Комисију за образовни профил или групу сродних образовних профила за које се образовање организује по дуалном моделу.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan2-stav2">
+								<content>
+									<p>Решењем о образовању Комисије утврђује се мандат Комисије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan3">
+						<num>3.</num>
+						<heading>Број чланова Комисије</heading>
+						<content>
+							<clause id="gla2-clan3-stav1">
+								<content>
+									<p>Комисија има председника и четири члана.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<heading>Састав Комисије</heading>
+						<content>
+							<clause id="gla2-clan4-stav1">
+								<content>
+									<p>Комисију чине:</p>
+									<alinea id="gla2-clan4-stav1-ali1">
+										<content>
+											<p>ва стручњака за одговарајућу област рада,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan4-stav1-ali2">
+										<content>
+											<p>едан наставник из одговарајуће области средњег стручног образовања и васпитања,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan4-stav1-ali3">
+										<content>
+											<p>едан инспектор рада и</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan4-stav1-ali4">
+										<content>
+											<p>едан представник министарства надлежног за послове образовања.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav2">
+								<content>
+									<p>Стручњаке за одговарајућу област рада одређује ПКС, и то:</p>
+									<alinea id="gla2-clan4-stav2-ali1">
+										<content>
+											<p>едног запосленог у ПКС;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan4-stav2-ali2">
+										<content>
+											<p>едног представника привреде из редова чланова ПКС.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav3">
+								<content>
+									<p>Запослени у ПКС је председник Комисије.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav4">
+								<content>
+									<p>Наставника из одговарајуће области средњег стручног образовања и васпитања одређује одговарајућа средња стручна школа за ту врсту образовања и васпитања са територије школске управе за коју се образује Комисија, из реда наставника практичне наставе и вежби, односно координатора учења кроз рад.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav5">
+								<content>
+									<p>Инспектора рада одређује министарство надлежно за област рада.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav6">
+								<content>
+									<p>Министарство надлежно за послове образовања одређује свог представника у раду Комисије.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav7">
+								<content>
+									<p>Административно-техничке послове за потребе Комисије обавља ПКС.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan5">
+						<num>5.</num>
+						<heading>Изузеће из рада Комисије</heading>
+						<content>
+							<clause id="gla2-clan5-stav1">
+								<content>
+									<p>Члан Комисије – представник привреде из редова чланова ПКС мора се изузети из рада Комисије уколико је у сукобу интереса, односно уколико је:</p>
+									<alinea id="gla2-clan5-stav1-ali1">
+										<content>
+											<p>аконски заступник у привредном друштву односно уколико је запослен у привредном друштву или код предузетника за кога се врши провера испуњености услова за извођење учења кроз рад или</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan5-stav1-ali2">
+										<content>
+											<p>редузетник за кога се врши провера испуњености услова за извођење учења кроз рад или</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan5-stav1-ali3">
+										<content>
+											<p>а други начин повезан са привредним друштвом или предузетником за кога се врши провера испуњености услова за извођење учења кроз рад (оснивач, чланство у органу привредног друштва, ангажовање по основу рада ван радног односа, итд.).</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan6">
+						<num>6.</num>
+						<heading>Подношење захтева</heading>
+						<content>
+							<clause id="gla2-clan6-stav1">
+								<content>
+									<p>Привредно друштво или предузетник (у даљем тексту: Послодавац) подноси ПКС захтев за утврђивање испуњености услова за извођење учења кроз рад (у даљем тексту: Захтев), на обрасцу који је у прилогу овог правилника и чини његов саставни део.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav2">
+								<content>
+									<p>Захтев се подноси електронским путем или у штампаном облику, лично или препорученом поштом на адресу ПКС.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav3">
+								<content>
+									<p>Уз Захтев се прилаже следећа документација:</p>
+									<alinea id="gla2-clan6-stav3-ali1">
+										<content>
+											<p>снивачки акт и решење Агенције за привредне регистре о упису у регистар привредних субјеката;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan6-stav3-ali2">
+										<content>
+											<p>длука о одређивању лица за безбедност и здравље на раду;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan6-stav3-ali3">
+										<content>
+											<p>звод из Акта о процени ризика за радна места на којима ће ученици обављати учење кроз рад;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan6-stav3-ali4">
+										<content>
+											<p>тручни налаз о извршеном прегледу и провери опреме за рад на којој ће ученици обављати учење кроз рад, уколико опрема за рад подлеже прегледу и провери;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan6-stav3-ali5">
+										<content>
+											<p>звештај о контроли исправности опреме за рад;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan6-stav3-ali6">
+										<content>
+											<p>тручни налаз о извршеном испитивању услова радне околине;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan6-stav3-ali7">
+										<content>
+											<p>рограм оспособљавања за безбедан и здрав рад ученика;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan6-stav3-ali8">
+										<content>
+											<p>путство за безбедан и здрав рад опреме за рад на којој ће ученик обављати учење кроз рад.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav4">
+								<content>
+									<p>Уколико се Захтев подноси у штампаном облику, фотокопија документације из става 3. овог члана доставља се уз Захтев.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav5">
+								<content>
+									<p>Уколико се Захтев подноси електронским путем, документација из става 3. овог члана доставља се у облику електронског документа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan7">
+						<num>7.</num>
+						<heading>Поступање по поднетом захтеву</heading>
+						<content>
+							<clause id="gla2-clan7-stav1">
+								<content>
+									<p>По пријему Захтева, ПКС проверава да ли је Захтев уредан, односно да ли садржи све податке и документацију из <ref>члана 6. овог</ref> правилника и у року од три дана по пријему Захтева обавештава послодавца о томе.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav2">
+								<content>
+									<p>Уколико се утврди да је Захтев непотпун, ПКС у року од три дана писаним путем позива Послодавца да Захтев допуни у року од наредних осам дана, уз упозорење да ће у случају непоступања његов захтев бити одбачен као неуредан.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav3">
+								<content>
+									<p>Уколико је Захтев уредан, односно уколико Послодавац у остављеном року допуни Захтев, Комисија приступа провери испуњености услова за извођење учења кроз рад код Послодавца.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<heading>Провера испуњености услова</heading>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>Комисија врши проверу испуњености услова за извођење учења кроз рад код Послодавца из <ref>члана 11. </ref>Закона о дуалном образовању (у даљем тексту: Закон) на следећи начин:</p>
+									<alinea id="gla2-clan8-stav1-ali1">
+										<content>
+											<p>ровера испуњености услова из <ref>члана 11. </ref>тач. 1)–2) Закона врши се увидом у објекте у којима ће бити реализовано учење кроз рад за конкретан образовни профил за који се ученик образује, на основу реализоване посете Послодавцу;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan8-stav1-ali2">
+										<content>
+											<p>ровера испуњености услова из <ref>члана 11. тачка 3</ref>) Закона врши се увидом у Регистар о издатим лиценцама за инструктора који води ПКС;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan8-stav1-ali3">
+										<content>
+											<p>ровера испуњености услова из <ref>члана 11. </ref>тач. 5)–7) Закона врши се на основу података добијених од надлежних органа који воде службену евиденцију о тим подацима.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav2">
+								<content>
+									<p>Провера испуњености услова из <ref>члана 11. тачка 4</ref>) Закона врши се увидом у достављену документацију из <ref>члана 6. став 4. овог</ref> правилника, као и на основу реализоване посете Послодавцу.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav3">
+								<content>
+									<p>Комисија је дужна да утврди да ученик неће обављати послове који су штетни по здравље, безбедност или морал деце, послове који се обављају у оквиру опасних околности или опасних делатности, у смислу прописа којим се утврђује опасан рад за децу.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav4">
+								<content>
+									<p>Комисија проверава да ли је Послодавац на основу процењених ризика предузео све превентивне мере за безбедан и здрав рад ученика у складу са прописима из области безбедности и здравља на раду.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav5">
+								<content>
+									<p>Комисија нарочито проверава:</p>
+									<alinea id="gla2-clan8-stav5-ali1">
+										<content>
+											<p>рганизацију рада на радном месту на коме се ученици оспособљавају за рад код Послодавца;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan8-stav5-ali2">
+										<content>
+											<p>ачин организовања послова безбедности и здравља на раду;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan8-stav5-ali3">
+										<content>
+											<p>тручни налаз о извршеном прегледу и провери опреме за рад, као и стручни налаз о извршеном испитивању услова радне околине, при чему сваки од стручних налаза мора имати позитиван закључак;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan8-stav5-ali4">
+										<content>
+											<p>а ли су на опреми за рад примењене све превентивне мере безбедности и здравља на раду;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan8-stav5-ali5">
+										<content>
+											<p>рироду, степен и трајање изложености ученика физичким, биолошким и хемијским штетностима;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan8-stav5-ali6">
+										<content>
+											<p>ачин, обим и употребу опреме за рад, машина, уређаја и алата;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan8-stav5-ali7">
+										<content>
+											<p>рограм оспособљавања и ниво оспособљавања за безбедан и здрав рад ученика.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<heading>План посета послодавцима</heading>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>Председник Комисије сазива седницу Комисије на којој се утврђује план посета послодавцима.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav2">
+								<content>
+									<p>План посете садржи:</p>
+									<alinea id="gla2-clan9-stav2-ali1">
+										<content>
+											<p>писак одговорних лица са којима ће Комисија обавити разговор;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan9-stav2-ali2">
+										<content>
+											<p>писак лиценцираних инструктора;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan9-stav2-ali3">
+										<content>
+											<p>писак просторија и опреме наведене у Захтеву, које ће Комисија обићи.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav3">
+								<content>
+									<p>Посета се реализује према утврђеном плану посета. ПКС обавештава Послодавца о датуму реализације посете Комисије и доставља му утврђени план посете најкасније 7 дана пре планираног термина посете.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan10">
+						<num>10.</num>
+						<heading>Извештај Комисије</heading>
+						<content>
+							<clause id="gla2-clan10-stav1">
+								<content>
+									<p>Након извршене провере испуњености услова за извођење учења кроз рад код Послодавца из <ref>члана 11. </ref>Закона, Комисија је дужна да у року од осам дана од дана извршене посете сачини извештај.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav2">
+								<content>
+									<p>На основу утврђених чињеница, Комисија у извештају из става 1. овог члана констатује:</p>
+									<point id="gla2-clan10-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> да Послодавац испуњава услове за извођење учења кроз рад, уколико су испуњени сви услови из <ref>члана 11. </ref>Закона и предлаже издавање потврде о испуњености услова за извођење учења кроз рад;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> да Послодавац не испуњава услове за извођење учења кроз рад, уз таксативно навођење свих услова које Послодавац не испуњава и образложење околности на основу којих је утврђено да Послодавац не испуњава те услове.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav3">
+								<content>
+									<p>Комисија доставља ПКС извештај из става 1. овог чланa у року од три дана.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan11">
+						<num>11.</num>
+						<heading>Одлучивање по Захтеву</heading>
+						<content>
+							<clause id="gla2-clan11-stav1">
+								<content>
+									<p>ПКС, нa прeдлoг Кoмисиje, Послодавцу који је испунио све прописане услове издаје Потврду о испуњености услова за извођење учења кроз рад, у року од 15 дана од дана пријема извештаја Кoмисиje из <ref>члана 10. овог</ref> правилника.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav2">
+								<content>
+									<p>Уколико Комисија у извештају из <ref>члана 10. овог</ref> правилника утврди да Послодавац не испуњава услове за извођење учења кроз рад, ПКС доноси решење о томе које је коначно у управном поступку.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>УТВРЂИВАЊЕ ПРЕСТАНКА ИСПУЊЕНОСТИ УСЛОВА ЗА ИЗВОЂЕЊЕ УЧЕЊА КРОЗ РАД</heading>
+				<content>
+					<clause id="gla3-clan11-stav1">
+						<content>
+							<p>Поступак за утврђивање престанка испуњености услова</p>
+						</content>
+					</clause>
+					<clause id="gla3-clan11-stav2">
+						<content>
+							<p>Члан12.</p>
+						</content>
+					</clause>
+					<clause id="gla3-clan11-stav3">
+						<content>
+							<p>Иницијативу за покретање поступка за утврђивање престанка испуњености услова за извођење учења кроз рад може поднети свако заинтересовано лице.</p>
+						</content>
+					</clause>
+					<clause id="gla3-clan11-stav4">
+						<content>
+							<p>Иницијатива из става 1. овог члана подноси се ПКС, која о томе обавештава Комисију у року од осам дана од дана пријема иницијативе.</p>
+						</content>
+					</clause>
+					<clause id="gla3-clan11-stav5">
+						<content>
+							<p>Уколико Комисија утврди да је послодавац престао да испуњава услов из чана 11. Закона који се односи на инструкторе, даје налог послодавцу да делегира нове запослене који ће обављати послове инструктора за учење кроз рад и који ће у року од шест месеци стећи лиценцу у складу са Законом.</p>
+						</content>
+					</clause>
+					<clause id="gla3-clan11-stav6">
+						<content>
+							<p>Уколико утврди да је Послодавац престао да испуњава друге услове прописане чланом 11. Закона, Комисија предлаже ПКС да донесе решење о престанку испуњености услова за извођење учења кроз рад.</p>
+						</content>
+					</clause>
+					<clause id="gla3-clan11-stav7">
+						<content>
+							<p>На основу предлога Комисије из става 3. овог члана, ПКС доноси решење о престанку испуњености услова за извођење учења кроз рад код Послодавца које је коначно у управном поступку.</p>
+						</content>
+					</clause>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ЗАВРШНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla4-clan13">
+						<num>13.</num>
+						<heading>Ступање на снагу</heading>
+						<content>
+							<clause id="gla4-clan13-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+									<тачка id="gla4-clan13-stav1-tac2">
+										<num>02.</num>
+										<content>
+											<p>01 број 4/4</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="gla4-clan13-stav2">
+								<content>
+									<p>У Београду, 13. јуна 2018. године</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan13-stav3">
+								<content>
+									<p>Привредна комора Србије</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan13-stav4">
+								<content>
+									<p>Председник,</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan13-stav5">
+								<content>
+									<p>Марко Чадеж, с.р.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan13-stav6">
+								<content>
+									<p>Прилози</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan13-stav7">
+								<content>
+									<p>Образац број 1</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan13-stav8">
+								<content>
+									<p>На основу <ref>члана 12. став 5. </ref>Закона о дуалном образовању („<ref id="ref16" href="/rs/act/17/101/srp@">Службени гласник РС”, број 101/17</ref>), подносим:</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan13-stav9">
+								<content>
+									<p>ЗАХТЕВ</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan13-stav10">
+								<content>
+									<p>ЗА УТВРЂИВАЊЕ ИСПУЊЕНОСТИ УСЛОВА ЗА ИЗВОЂЕЊЕ УЧЕЊА КРОЗ РАД КОД ПОСЛОДАВЦА</p>
+								</content>
+							</clause>
+							<став id="gla4-clan13-stav11">
+								<table class="tabela-sa-borderom">
+									
+				
+					
+					
+				
+				
+									<tbody>
+										
+					
+										<tr class="No-Table-Style">
+											
+						
+											<td class="No-Table-Style">
+												
+							
+												<p>Назив привредног субјекта </p>
+												
+						
+											</td>
+											
+						
+											<td class="No-Table-Style">
+					</td>
+										</tr>
+										
+					
+										<tr class="No-Table-Style">
+											
+						
+											<td class="No-Table-Style">
+												
+							
+												<p>Одговорна особа (предузетник </p>
+												
+							
+												<p>или законски заступник привредног друштва)</p>
+												
+						
+											</td>
+											
+						
+											<td class="No-Table-Style">
+					</td>
+										</tr>
+										
+					
+										<tr class="No-Table-Style">
+											
+						
+											<td class="No-Table-Style">
+												
+							
+												<p>Адреса</p>
+												
+						
+											</td>
+											
+						
+											<td class="No-Table-Style">
+					</td>
+										</tr>
+										
+					
+										<tr class="No-Table-Style">
+											
+						
+											<td class="No-Table-Style">
+												
+							
+												<p>Контакт особа: </p>
+												
+							
+												<p>Име и презиме, </p>
+												
+							
+												<p>Радно место, </p>
+												
+							
+												<p>Е-маил, </p>
+												
+							
+												<p>Службени мобилни телефон, </p>
+												
+							
+												<p>фиксни телефон </p>
+												
+						
+											</td>
+											
+						
+											<td class="No-Table-Style">
+					</td>
+										</tr>
+										
+				
+									</tbody>
+									
+			
+								</table>
+								
+			
+								<content/>
+							</став>
+							<clause id="gla4-clan13-stav12">
+								<content>
+									<p>У прилогу Захтева достављам следећу документацију:</p>
+									<alinea id="gla4-clan13-stav12-ali1">
+										<content>
+											<p>отокопију Оснивачког акта и решења АПР о упису у регистар, као доказ обављања делатности (уколико се документа достављају у папиру)</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+							<clause id="gla4-clan13-stav13">
+								<content>
+									<p>______________________________________ (навести шифру и назив)</p>
+									<alinea id="gla4-clan13-stav13-ali1">
+										<content>
+											<p>длуку о одређивању лица за безбедност и здравље на раду;</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan13-stav13-ali2">
+										<content>
+											<p>звод из Акта о процени ризика за радна места на којима ће ученици обављати учење кроз рад;</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan13-stav13-ali3">
+										<content>
+											<p>тручни налаз о извршеном прегледу и провери опреме за рад на којој ће ученици обављати учење кроз рад, уколико опрема за рад подлеже прегледу и провери;</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan13-stav13-ali4">
+										<content>
+											<p>звештај о контроли исправности опреме за рад;</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan13-stav13-ali5">
+										<content>
+											<p>тручни налаз о извршеном испитивању услова радне околине;</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan13-stav13-ali6">
+										<content>
+											<p>рограм оспособљавања за безбедан и здрав рад ученика;</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan13-stav13-ali7">
+										<content>
+											<p>путство за безбедан и здрав рад опреме за рад на којој ће ученик обављати учење кроз рад.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+							<clause id="gla4-clan13-stav14">
+								<content>
+									<p>Учење кроз рад ће се обављати на следећим локацијама (навести тачне адресе):</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan13-stav15">
+								<content>
+									<p>• _______________________________________________________</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan13-stav16">
+								<content>
+									<p>• _______________________________________________________</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan13-stav17">
+								<content>
+									<p>• _______________________________________________________</p>
+								</content>
+							</clause>
+							<став id="gla4-clan13-stav18">
+								<table class="Basic-Table" id="table024">
+									
+				
+					
+					
+				
+				
+									<tbody>
+										
+					
+										<tr class="Basic-Table">
+											
+						
+											<td class="Basic-Table">
+												
+							
+												<p>У _____________, </p>
+												
+						
+											</td>
+											
+						
+											<td class="Basic-Table">
+					</td>
+										</tr>
+										
+					
+										<tr class="Basic-Table">
+											
+						
+											<td class="Basic-Table">
+												
+							
+												<p>Датум: _________________</p>
+												
+						
+											</td>
+											
+						
+											<td class="Basic-Table">
+												
+							
+												<p>_____________________________</p>
+												
+						
+											</td>
+											
+					
+										</tr>
+										
+					
+										<tr class="Basic-Table">
+											
+						
+											<td class="Basic-Table">
+						</td>
+											<td class="Basic-Table">
+												
+							
+												<p>(име и презиме, функција и својеручни потпис законског заступника привредног друштва, односно предузетника)</p>
+												
+						
+											</td>
+											
+					
+										</tr>
+										
+				
+									</tbody>
+									
+			
+								</table>
+								
+	
+
+
+								<content/>
+							</став>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

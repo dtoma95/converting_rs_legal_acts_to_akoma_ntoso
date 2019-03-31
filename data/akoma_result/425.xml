@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2008/7-21/main"/>
+					<FRBRuri value="/rs/act/2008/7-21"/>
+					<FRBRdate date="2008" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2008/7-21/srp@/main"/>
+					<FRBRuri value="/rs/act/2008/7-21/srp@"/>
+					<FRBRdate date="2008" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2008/7-21/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2008/7-21/srp@.akn"/>
+					<FRBRdate date="2008" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2008-1-18" name="службени гласник рс" number="7" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="3. Осигурање" value="3. осигурање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2008-01-16" id="usvajanje"/>
+				<step date="2008-01-19" id="stupanje_na_snagu"/>
+				<step date="2008-01-19" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу члана 243в став 4. Закона о осигурању („<ref id="ref0" href="/rs/act/04/55/srp@">Службени гласник РС”, бр. 55/04, 70/04</ref> – исправка, 61/05, 61/05 – др. закон, 85/05 – др. закон и 101/07),</p>
+		</preamble>
+		<preface>
+			<authority>Министар финансија доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о висини посебне накнаде (провизије) остварене закључењем уговора о продаји капитала, односно имовине друштава за осигурање</title>
+			<date>&quot;Службени гласник РС&quot; број  7 од 18. јануара 2008.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником одређује се висина посебне накнаде остварене закључењем уговора о продаји капитала, односно имовине друштава за осигурање (у даљем тексту: провизија).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Висина провизије износи 0,9% од уговорене цене.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Провизија се обрачунава и наплаћује из средстава остварених од продаје капитала, односно имовине у поступку приватизације, пре уплате тих средстава на уплатни рачун буџета Републике Србије.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Број 110-00-416/2007-16</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>У Београду, 16. јануара 2008. године</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav5">
+						<content>
+							<p>др  Мирко Цветковић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

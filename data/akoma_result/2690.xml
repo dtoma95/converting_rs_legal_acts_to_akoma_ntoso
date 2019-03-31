@@ -1,0 +1,1294 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2010/36-6/main"/>
+					<FRBRuri value="/rs/act/2010/36-6"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2010/36-6/srp@/main"/>
+					<FRBRuri value="/rs/act/2010/36-6/srp@"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2010/36-6/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2010/36-6/srp@.akn"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2010-5-28" name="службени гласник рс“" number="36" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Закон" value="закон"/>
+				<keyword id="oblast" showAs="VII РАДНИ ОДНОСИ И ЗАПОШЉАВАЊЕ" value="vii радни односи и запошљавање"/>
+				<keyword id="grupa" showAs="7. Волонтирање" value="7. волонтирање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2010-05-26" id="usvajanje"/>
+				<step date="2010-06-05" id="stupanje_na_snagu"/>
+				<step date="2010-12-06" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Закон је ступио на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 5. јуна 2010. године, а примењује се по истеку рока од шест месеци од дана његовог ступања на снагу, односно од 6. децембра 2010. године (види <ref>члан 34. </ref>Закона).</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<title>ЗАКОН</title>
+			<title>о волонтирању</title>
+			<date>„Службени гласник РС“, брoj 36 од 28. маја 2010.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОСНОВНЕ ОДРЕДБЕ</heading>
+				<content>
+					<section id="gla1-od1">
+						<num>1.</num>
+						<heading> Предмет</heading>
+						<content>
+							<article id="gla1-od1-clan1">
+								<num>1.</num>
+								<content>
+									<clause id="gla1-od1-clan1-stav1">
+										<content>
+											<p>Овим законом уређују се основни појмови у вези са волонтирањем, начела волонтирања, уговор о волонтирању, права и обавезе волонтера и организатора волонтирања и надзор над применом овог закона.</p>
+										</content>
+									</clause>
+									<clause id="gla1-od1-clan1-stav2">
+										<content>
+											<p>Сви појмови који се користе у овом закону у мушком роду обухватају исте појмове и у женском роду у складу са законом.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</section>
+					<section id="gla1-od2">
+						<num>2.</num>
+						<heading> Значење појмова</heading>
+						<content>
+							<article id="gla1-od2-clan2">
+								<num>2.</num>
+								<content>
+									<clause id="gla1-od2-clan2-stav1">
+										<content>
+											<p>Волонтирање, у смислу овог закона, јесте организовано добровољно пружање услуге или обављање активности од општег интереса, за опште добро или за добро другог лица, без исплате новчане накнаде или потраживања друге имовинске користи, осим ако овим законом није друкчије одређено.</p>
+										</content>
+									</clause>
+									<clause id="gla1-od2-clan2-stav2">
+										<content>
+											<p>Дугорочно волонтирање јесте волонтирање које траје дуже од 10 часова недељно, најмање три месеца без прекида.</p>
+										</content>
+									</clause>
+									<clause id="gla1-od2-clan2-stav3">
+										<content>
+											<p>Одредбе овог закона примењују се на краткорочно и дугорочно волонтирање.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla1-od2-clan3">
+								<num>3.</num>
+								<content>
+									<clause id="gla1-od2-clan3-stav1">
+										<content>
+											<p>Волонтирањем, у смислу овог закона, не сматра се:</p>
+											<point id="gla1-od2-clan3-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> време проведено на стручном оспособљавању и усавршавању или на практичном раду без заснивања радног односа, у складу са законом;</p>
+												</content>
+											</point>
+											<point id="gla1-od2-clan3-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> рад ван радног односа, у складу са законом;</p>
+												</content>
+											</point>
+											<point id="gla1-od2-clan3-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> обављање услуга или активности које је једно лице дужно да пружи другом лицу, у складу са законом и другим прописом;</p>
+												</content>
+											</point>
+											<point id="gla1-od2-clan3-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> извршавање судских, прекршајних и других одлука надлежних органа;</p>
+												</content>
+											</point>
+											<point id="gla1-od2-clan3-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> обављање услуга или активности које су уобичајене у породичним, пријатељским или суседским односима;</p>
+												</content>
+											</point>
+											<point id="gla1-od2-clan3-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> обављање послова Црвеног крста Србије који су везани за остваривање циљева и задатака у складу са законом и другим прописом;</p>
+												</content>
+											</point>
+											<point id="gla1-od2-clan3-stav1-tac7">
+												<num>7)</num>
+												<content>
+													<p> обављање послова и активности у политичким странкама, синдикатима и другим удружењима, који су везани за остваривање циљева и задатака тих организација, односно удружења од стране њихових чланова, у складу са статутом;</p>
+												</content>
+											</point>
+											<point id="gla1-od2-clan3-stav1-tac8">
+												<num>8)</num>
+												<content>
+													<p> обављање „ad hoc” активности од општег интереса, за опште добро или за добро трећег лица, које не трају дуже од 10 часова недељно, најдуже 30 дана без прекида или са прекидима, у току календарске године.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla1-od2-clan4">
+								<num>4.</num>
+								<content>
+									<clause id="gla1-od2-clan4-stav1">
+										<content>
+											<p>Волонтер може бити домаће или страно физичко лице, у складу са овим законом.</p>
+										</content>
+									</clause>
+									<clause id="gla1-od2-clan4-stav2">
+										<content>
+											<p>Организатор волонтирања може бити правно лице чији основни циљ, у складу са оснивачким актом, није стицање добити.</p>
+										</content>
+									</clause>
+									<clause id="gla1-od2-clan4-stav3">
+										<content>
+											<p>Изузетно, организатор волонтирања може бити привредно друштво и јавно предузеће, под условима утврђеним овим законом.</p>
+										</content>
+									</clause>
+									<clause id="gla1-od2-clan4-stav4">
+										<content>
+											<p>Државни орган, орган аутономне покрајине, орган јединице локалне самоуправе и орган месне заједнице могу бити организатори волонтирања у складу са овим законом, другим прописима и потврђеним међународним уговорима.</p>
+										</content>
+									</clause>
+									<clause id="gla1-od2-clan4-stav5">
+										<content>
+											<p>Корисник волонтирања може бити физичко лице, правно лице чији основни циљ није стицање добити или организатор волонтирања чији основни циљ није стицање добити.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>НАЧЕЛА ВОЛОНТИРАЊА</heading>
+				<content>
+					<тачка id="gla2-clan4-tac1">
+						<num>1.</num>
+						<content>
+							<p> Начело солидарности и промовисања волонтирања</p>
+						</content>
+					</тачка>
+					<article id="gla2-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla2-clan5-stav1">
+								<content>
+									<p>Волонтирање се промовише као активност од интереса за Републику Србију, односно од јавног интереса, којом се доприноси активном укључивању грађана у друштвене процесе и развоју хуманијег и равноправнијег демократског друштва једнаких могућности, као и побољшању квалитета живота грађана.</p>
+									<тачка id="gla2-clan5-stav1-tac2">
+										<num>2.</num>
+										<content>
+											<p> Начело забране дискриминације</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla2-clan6-stav1">
+								<content>
+									<p>Забрањено је свако неоправдано прављење разлике или неједнако поступање, односно пропуштање организатора волонтирања према волонтерима које представља дискриминацију у складу са законом, осим ако друкчије не произлази из природе волонтерске активности, могућности самог волонтера или ако није друкчије одређено овим законом.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav2">
+								<content>
+									<p>Организатор волонтирања и волонтер дужни су да поступају према физичким лицима – корисницима волонтирања у складу са начелом из става 1. овог члана.</p>
+									<тачка id="gla2-clan6-stav2-tac3">
+										<num>3.</num>
+										<content>
+											<p> Начело заштите корисника волонтирања</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla2-clan7-stav1">
+								<content>
+									<p>Организатор волонтирања дужан је да обезбеди да се обављање волонтерских услуга и активности врши на начин којим се штити лични интегритет и интерес корисника волонтирања.</p>
+									<тачка id="gla2-clan7-stav1-tac4">
+										<num>4.</num>
+										<content>
+											<p> Начело забране злоупотребе волонтирања</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>Забрањено је организовање волонтирања у циљу стицања добити.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav2">
+								<content>
+									<p>Забрањено је волонтирање којим се замењује рад који обављају лица у складу са прописима о раду.</p>
+									<тачка id="gla2-clan8-stav2-tac5">
+										<num>5.</num>
+										<content>
+											<p> Начело заштите омладине</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>На малолетне волонтере и лица између навршене 18. и 21. године живота при обављању волонтирања примењују се прописи који се односе на заштиту ових лица на раду.</p>
+									<тачка id="gla2-clan9-stav1-tac6">
+										<num>6.</num>
+										<content>
+											<p> Начело бесплатности волонтирања</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla2-clan10-stav1">
+								<content>
+									<p>Волонтер нема право на новчану накнаду или другу имовинску корист за волонтирање.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav2">
+								<content>
+									<p>Новчаном накнадом или имовинском користи за волонтера не сматра се накнада трошкова волонтирања, и то за:</p>
+									<point id="gla2-clan10-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> радну одећу и средства и опрему за личну заштиту волонтера;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> путовања, смештај и исхрану волонтера и других трошкова који настану у вези са извршавањем волонтерских услуга и активности;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> лекарске прегледе обезбеђене за потребе волонтирања;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> обуке за обављање волонтерских услуга и активности;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> премије осигурања исплаћене за случај повреде или професионалне болести током волонтирања, односно новчане накнаде у сврху осигурања од одговорности за штету насталу код организатора волонтирања или трећег лица.</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> исплату џепарца, код дугорочног волонтирања, чији месечни износ не може бити већи од 30% од нето износа минималне месечне зараде за пуно радно време у Републици Србији.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav3">
+								<content>
+									<p>Исплата џепарца утврђује се уговором о волонтирању.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>УСЛОВИ ЗА ВОЛОНТИРАЊЕ</heading>
+				<content>
+					<article id="gla3-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla3-clan11-stav1">
+								<content>
+									<p>Волонтирање може да обавља лице које има најмање 15 година живота.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan11-stav2">
+								<content>
+									<p>Лице млађе од 18 година живота може да волонтира уз писмену сагласност родитеља или старатеља.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan11-stav3">
+								<content>
+									<p>Лице млађе од 15 година живота може бити укључено у обављање васпитно-образовних волонтерских активности, у складу са прописима о образовању и васпитању и ратификованим међународним конвенцијама.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan11-stav4">
+								<content>
+									<p>Волонтери не могу радити на пословима који су опасни за живот и здравље или се обављају у условима опасним за живот и здравље.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla3-clan12-stav1">
+								<content>
+									<p>Ако су корисници волонтирања деца, особе са инвалидитетом, стара лица, лица којима је неопходна помоћ и нега другог лица, болесне особе или особе које су потпуно или делимично лишене пословне способности организатор волонтирања дужан је да поступа са посебном пажњом приликом избора и обуке волонтера.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan12-stav2">
+								<content>
+									<p>Волонтирање са корисницима из става 1. овог члана не може да обавља:</p>
+									<point id="gla3-clan12-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> лице којем је изречена мера безбедности обавезног психијатријског лечења на слободи или обавезног лечења наркомана или алкохоличара или забране вршења позива, делатности и дужности, која је у вези са делатношћу волонтирања;</p>
+										</content>
+									</point>
+									<point id="gla3-clan12-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> правоснажно осуђено лице за кривично дело против живота и тела, против слобода и права човека и грађанина, против полне слободе, против брака и породице, против здравља људи;</p>
+										</content>
+									</point>
+									<point id="gla3-clan12-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> лице које је у потпуности или делимично лишено пословне способности;</p>
+										</content>
+									</point>
+									<point id="gla3-clan12-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> лице које је у потпуности или делимично лишено родитељског права и лице према коме су изречене мере због насиља у породици.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla3-clan13-stav1">
+								<content>
+									<p>Страни држављанин и лице без држављанства има право да волонтира у Републици Србији у складу са законом и потврђеним међународним уговорима.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>УСЛОВИ ЗА ПРИВРЕДНА ДРУШТВА И ЈАВНА ПРЕДУЗЕЋА ЗА ОРГАНИЗОВАЊЕ ВОЛОНТИРАЊА</heading>
+				<content>
+					<article id="gla4-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla4-clan14-stav1">
+								<content>
+									<p>Привредно друштво, односно јавно предузеће може да буде организатор волонтирања у складу са овим законом, ако:</p>
+									<point id="gla4-clan14-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> организује волонтирање за опште добро, односно добро другог лица на пословима ван делатности привредног друштва, односно јавног предузећа;</p>
+										</content>
+									</point>
+									<point id="gla4-clan14-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> се обављањем волонтерских услуга и активности не стиче добит;</p>
+										</content>
+									</point>
+									<point id="gla4-clan14-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> волонтирање не замењује рад запослених и других радно ангажованих лица у привредном друштву, односно јавном предузећу.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla4-clan14-stav2">
+								<content>
+									<p>Правно лице из става 1. овог члана дужно је да прибави сагласност министарства надлежног за рад (у даљем тексту: министарство) на програм волонтирања.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan14-stav3">
+								<content>
+									<p>Програм волонтирања, нарочито, садржи податке о организатору и кориснику волонтирања, месту обављања и трајање волонтирања, планирани број волонтера, опис волонтерских услуга и активности, податке о оспособљавању за волонтере.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan14-stav4">
+								<content>
+									<p>Правно лице из става 1. овог члана дужно је да министарству уз програм волонтирања достави извод из регистра привредних субјеката и правилник о организацији и систематизацији послова, а на захтев министарства и другу документацију којом се доказује да се волонтирање обавља у складу са ставом 1. овог члана.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan14-stav5">
+								<content>
+									<p>Министарство је дужно да у року од 15 дана од дана пријема програма волонтирања, односно допуне документације одлучи о давању или одбијању сагласности на програм волонтирања.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>УГОВОР О ВОЛОНТИРАЊУ</heading>
+				<content>
+					<article id="gla5-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla5-clan15-stav1">
+								<content>
+									<p>Волонтирање се обавља на основу уговора о волонтирању.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan15-stav2">
+								<content>
+									<p>Уговор о волонтирању закључују организатор волонтирања и волонтер.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan15-stav3">
+								<content>
+									<p>Уговор о волонтирању обавезно се закључује у писаном облику:</p>
+									<point id="gla5-clan15-stav3-tac1">
+										<num>1)</num>
+										<content>
+											<p> код дугорочног волонтирања;</p>
+										</content>
+									</point>
+									<point id="gla5-clan15-stav3-tac2">
+										<num>2)</num>
+										<content>
+											<p> са малолетним волонтером;</p>
+										</content>
+									</point>
+									<point id="gla5-clan15-stav3-tac3">
+										<num>3)</num>
+										<content>
+											<p> са страним држављанином и лицем без држављанства;</p>
+										</content>
+									</point>
+									<point id="gla5-clan15-stav3-tac4">
+										<num>4)</num>
+										<content>
+											<p> са држављанином Републике Србије који волонтира у иностранству, ако организатор волонтирања има седиште у Републици Србији;</p>
+										</content>
+									</point>
+									<point id="gla5-clan15-stav3-tac5">
+										<num>5)</num>
+										<content>
+											<p> ако су корисници волонтирања лица из <ref>члана 12. овог</ref> закона;</p>
+										</content>
+									</point>
+									<point id="gla5-clan15-stav3-tac6">
+										<num>6)</num>
+										<content>
+											<p> на захтев волонтера, организатора волонтирања или корисника волонтирања.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="gla5-clan16-stav1">
+								<content>
+									<p>Уговор о дугорочном волонтирању који се закључи са страним држављанином и лицем без држављанства сматра се доказом о оправданости привременог боравка, у складу са законом којим се уређује кретање и боравак странаца.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="gla5-clan17-stav1">
+								<content>
+									<p>Волонтирањем у складу са овим законом не губе се права по основу незапослености.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="gla5-clan18-stav1">
+								<content>
+									<p>Уговор о волонтирању, нарочито, садржи:</p>
+									<point id="gla5-clan18-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> име и презиме волонтера, место његовог пребивалишта, односно боравишта;</p>
+										</content>
+									</point>
+									<point id="gla5-clan18-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> назив и седиште организатора волонтирања;</p>
+										</content>
+									</point>
+									<point id="gla5-clan18-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> податке о кориснику волонтирања;</p>
+										</content>
+									</point>
+									<point id="gla5-clan18-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> податке о месту и трајању волонтирања;</p>
+										</content>
+									</point>
+									<point id="gla5-clan18-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> опис волонтерских услуга или активности;</p>
+										</content>
+									</point>
+									<point id="gla5-clan18-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> податке о оспособљавању за волонтирање;</p>
+										</content>
+									</point>
+									<point id="gla5-clan18-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> трошкове волонтирања и начин њихове накнаде;</p>
+										</content>
+									</point>
+									<point id="gla5-clan18-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> друга права и обавезе волонтера, организатора волонтирања или корисника волонтирања.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla5-clan18-stav2">
+								<content>
+									<p>Организатор волонтирања дужан је да од волонтера, пре закључивања уговора о волонтирању из <ref>члана 15. став 1. тачка 5</ref>) овог закона, прибави потврду надлежног органа да код волонтера не постоје сметње из <ref>члана 12. овог</ref> закона.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan18-stav3">
+								<content>
+									<p>Потврда из става 2. овог члана не може да буде старија од шест месеци.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="gla5-clan19-stav1">
+								<content>
+									<p>Уговор о волонтирању престаје:</p>
+									<point id="gla5-clan19-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> истеком времена на који је закључен или испуњењем уговорне обавезе;</p>
+										</content>
+									</point>
+									<point id="gla5-clan19-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> споразумом уговорних страна;</p>
+										</content>
+									</point>
+									<point id="gla5-clan19-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> једностраним раскидом уговора;</p>
+										</content>
+									</point>
+									<point id="gla5-clan19-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> даном правоснажности одлуке о наступању сметње из <ref>члана 12. овог</ref> закона;</p>
+										</content>
+									</point>
+									<point id="gla5-clan19-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> када се родитељ или старатељ малолетног лица не сагласи са наставком волонтирања;</p>
+										</content>
+									</point>
+									<point id="gla5-clan19-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> у другим случајевима одређеним уговором о волонтирању.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla5-clan20-stav1">
+								<content>
+									<p>Волонтер може у свако доба да раскине уговор о волонтирању на начин прописан за његово закључивање, без обавезе да за то наведе разлог.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan20-stav2">
+								<content>
+									<p>Организатор волонтирања може да раскине уговор о волонтирању:</p>
+									<point id="gla5-clan20-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> кад престане потреба за волонтирањем;</p>
+										</content>
+									</point>
+									<point id="gla5-clan20-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> ако не може да обезбеди услове за даље волонтирање;</p>
+										</content>
+									</point>
+									<point id="gla5-clan20-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> ако волонтер не испуњава уговорене обавезе;</p>
+										</content>
+									</point>
+									<point id="gla5-clan20-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> ако волонтер својим активностима угрожава корисника волонтирања;</p>
+										</content>
+									</point>
+									<point id="gla5-clan20-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> у другим случајевима одређеним уговором о волонтирању.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>ПРАВА И ОБАВЕЗЕ ВОЛОНТЕРА И ОБАВЕЗЕ ОРГАНИЗАТОРА ВОЛОНТИРАЊА</heading>
+				<content>
+					<тачка id="gla6-clan20-tac1">
+						<num>1.</num>
+						<content>
+							<p> Права волонтера</p>
+						</content>
+					</тачка>
+					<article id="gla6-clan21">
+						<num>21.</num>
+						<content>
+							<clause id="gla6-clan21-stav1">
+								<content>
+									<p>Волонтер има право:</p>
+									<point id="gla6-clan21-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> да буде упознат са условима волонтирања, услугама и активностима које ће обављати, правима која му припадају на основу овог закона, других прописа и општих аката организатора волонтирања;</p>
+										</content>
+									</point>
+									<point id="gla6-clan21-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> да у писаном облику, на свој захтев, добије опис волонтерске услуге или активности;</p>
+										</content>
+									</point>
+									<point id="gla6-clan21-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> да буде упознат са кодексом понашања, односно етичким правилима понашања која су прописана у делатностима у којима се обавља волонтирање;</p>
+										</content>
+									</point>
+									<point id="gla6-clan21-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> на одговарајуће оспособљавање, ако је такво оспособљавање потребно за обављање волонтерских услуга и активности;</p>
+										</content>
+									</point>
+									<point id="gla6-clan21-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> на стручну помоћ и подршку током волонтирања;</p>
+										</content>
+									</point>
+									<point id="gla6-clan21-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> на накнаду уговорених трошкова насталих у вези са волонтирањем;</p>
+										</content>
+									</point>
+									<point id="gla6-clan21-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> на безбедне и здраве услове рада и средства и опрему за личну заштиту, у складу са природом волонтерских услуга и активности које обавља;</p>
+										</content>
+									</point>
+									<point id="gla6-clan21-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> да се упозна са опасностима и штетностима која су у вези са волонтерским услугама и активностима које обавља;</p>
+										</content>
+									</point>
+									<point id="gla6-clan21-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> на одмор у току волонтирања и дневни одмор, у уговореном трајању;</p>
+										</content>
+									</point>
+									<point id="gla6-clan21-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> на заштиту приватности и личних података;</p>
+										</content>
+									</point>
+									<point id="gla6-clan21-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> да буде консултован при одлучивању о начину обављања волонтерске услуге и активности;</p>
+										</content>
+									</point>
+									<point id="gla6-clan21-stav1-tac12">
+										<num>12)</num>
+										<content>
+											<p> друга права одређена овим законом и уговором о волонтирању.</p>
+										</content>
+									</point>
+									<тачка id="gla6-clan21-stav1-tac2">
+										<num>2.</num>
+										<content>
+											<p> Обавезе волонтера</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan22">
+						<num>22.</num>
+						<content>
+							<clause id="gla6-clan22-stav1">
+								<content>
+									<p>Волонтер је дужан да:</p>
+									<point id="gla6-clan22-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> волонтира у складу са законом, уговором о волонтирању и упутствима организатора волонтирања;</p>
+										</content>
+									</point>
+									<point id="gla6-clan22-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> пружа услуге лично и непосредно у складу са правилима струке и професионалне етике, када пружање услуге захтева стручна знања;</p>
+										</content>
+									</point>
+									<point id="gla6-clan22-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> пружа услуге непристрасно, без обзира на лична својства корисника;</p>
+										</content>
+									</point>
+									<point id="gla6-clan22-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> обавести организатора волонтирања о битним околностима које утичу или би могле да утичу на обављање волонтерских услуга и активности или које угрожавају његов живот или здравље, односно живот или здравље лица с којима долази у контакт за време волонтирања;</p>
+										</content>
+									</point>
+									<point id="gla6-clan22-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> чува службену тајну и поверљиве, личне податке о кориснику волонтирања;</p>
+										</content>
+									</point>
+									<point id="gla6-clan22-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> одбије волонтирање које није у складу са законом или уговором о волонтирању.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan23">
+						<num>23.</num>
+						<content>
+							<clause id="gla6-clan23-stav1">
+								<content>
+									<p>Волонтер није дужан да волонтира у складу са упутством организатора волонтирања:</p>
+									<point id="gla6-clan23-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> ако извршавање упутства може да угрози живот и здравље волонтера, корисника волонтирања или другог лица;</p>
+										</content>
+									</point>
+									<point id="gla6-clan23-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> које је морално неприхватљиво за волонтера, корисника волонтирања или друго лице;</p>
+										</content>
+									</point>
+									<point id="gla6-clan23-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> које је у супротности са законом или уговором о волонтирању.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla6-clan23-stav2">
+								<content>
+									<p>Ако извршавање упутства може да проузрокује штету волонтеру, кориснику волонтирања или трећем лицу волонтер је дужан да на то упозори организатора волонтирања писменим путем.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan23-stav3">
+								<content>
+									<p>Волонтер не одговара за проузроковану штету ако је претходно писменим путем упозорио организатора волонтирања на такву могућност.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan24">
+						<num>24.</num>
+						<content>
+							<clause id="gla6-clan24-stav1">
+								<content>
+									<p>Организатор волонтирања је одговоран за штету коју волонтер проузрокује кориснику или трећем лицу у вези са вршењем волонтерске услуге или активности.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan24-stav2">
+								<content>
+									<p>Организатор волонтирања који је надокнадио штету коју је проузроковао волонтер намерно или крајњом непажњом, има право да од тог волонтера захтева накнаду плаћеног износа.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan24-stav3">
+								<content>
+									<p>Волонтер је одговоран за штету коју вршењем волонтерске услуге или активности проузрокује организатору волонтирања намерно или крајњом непажњом.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan24-stav4">
+								<content>
+									<p>На утврђивање постојања штете, њену висину, околности под којима је настала, одговорност и начин накнаде, сходно се примењују прописи о раду.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan24-stav5">
+								<content>
+									<p>Организатор волонтирања је у обавези да волонтеру накнади штету коју претрпи у вези са волонтирањем, осим ако је штета настала крајњом непажњом волонтера.</p>
+									<тачка id="gla6-clan24-stav5-tac3">
+										<num>3.</num>
+										<content>
+											<p> Обавезе организатора волонтирања</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan25">
+						<num>25.</num>
+						<content>
+							<clause id="gla6-clan25-stav1">
+								<content>
+									<p>Организатор волонтирања дужан је да:</p>
+									<point id="gla6-clan25-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> обезбеди волонтеру безбедност и здравље током обављања волонтерских услуга и активности, у складу са законом;</p>
+										</content>
+									</point>
+									<point id="gla6-clan25-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> изда волонтеру потврду о обављеном волонтирању, на његов захтев;</p>
+										</content>
+									</point>
+									<point id="gla6-clan25-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> обезбеди средства за обављање волонтерских услуга и активности;</p>
+										</content>
+									</point>
+									<point id="gla6-clan25-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> обезбеди тајност личних података волонтера и заштиту приватности;</p>
+										</content>
+									</point>
+									<point id="gla6-clan25-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> обезбеди друге услове за волонтирање и права волонтера прописана овим законом и уговором о волонтирању.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla6-clan25-stav2">
+								<content>
+									<p>Потврда о краткорочном волонтирању издаје се на захтев волонтера даном престанка волонтирања.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan25-stav3">
+								<content>
+									<p>Потврда о волонтирању из става 1. тачка 2) и става 2. овог члана, нарочито, садржи: личне податке о волонтеру, кориснику и организатору волонтирања, кратак опис волонтерских услуга и активности, трајање волонтирања и податке о оспособљавању волонтера током волонтирања.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan25-stav4">
+								<content>
+									<p>Организатор волонтирања одговара за тачност података уписаних у потврду о волонтирању.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan25-stav5">
+								<content>
+									<p>Потврда о волонтирању може да се изда у облику књижице (волонтерска књижица).</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan25-stav6">
+								<content>
+									<p>Ближу садржину и изглед потврде о волонтирању прописује министар надлежан за послове рада (у даљем тексту: министар).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan26">
+						<num>26.</num>
+						<content>
+							<clause id="gla6-clan26-stav1">
+								<content>
+									<p>Организатор волонтирања дужан је да организује оспособљавање волонтера за рад са децом, особама са инвалидитетом, старим лицима, особама којима је неопходна помоћ и нега другог лица, болесним особама или особама које су потпуно или делимично лишене пословне способности, када је такво оспособљавање потребно за обављање волонтерских услуга и активности.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan27">
+						<num>27.</num>
+						<content>
+							<clause id="gla6-clan27-stav1">
+								<content>
+									<p>Организатор волонтирања дужан је да волонтера осигура за случај повреде и професионалног обољења током волонтирања:</p>
+									<point id="gla6-clan27-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> ако је тако уговорено;</p>
+										</content>
+									</point>
+									<point id="gla6-clan27-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> када се ради о дугорочном волонтирању.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla7">
+				<num>VII</num>
+				<heading>ЕВИДЕНЦИЈА О ВОЛОНТИРАЊУ</heading>
+				<content>
+					<article id="gla7-clan28">
+						<num>28.</num>
+						<content>
+							<clause id="gla7-clan28-stav1">
+								<content>
+									<p>Организатор волонтирања дужан је да води евиденцију о волонтирању.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan28-stav2">
+								<content>
+									<p>Евиденција о дугорочном волонтирању садржи: опис програма волонтирања, односно волонтерских услуга и активности, трајање волонтирања, односно трајање програма волонтирања, број волонтера ангажованих на програму волонтирања, податке о кориснику волонтирања, личне податке о волонтеру, податке о оспособљавању волонтера и друге податке од значаја за волонтирање.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan28-stav3">
+								<content>
+									<p>Евиденција о краткорочном волонтирању садржи: опис програма волонтирања, односно волонтерских услуга и активности, податке о трајању програма волонтирања и броју ангажованих волонтера.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan28-stav4">
+								<content>
+									<p>Евиденција о волонтирању почиње да се води даном почетка обављања волонтирања, а престаје даном престанка волонтирања.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan28-stav5">
+								<content>
+									<p>Садржину и начин вођења евиденције прописује министар.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla8">
+				<num>VIII</num>
+				<heading>ЕВИДЕНЦИЈА О ОРГАНИЗАТОРИМА ВОЛОНТИРАЊА</heading>
+				<content>
+					<article id="gla8-clan29">
+						<num>29.</num>
+						<content>
+							<clause id="gla8-clan29-stav1">
+								<content>
+									<p>Министарство води евиденцију о организаторима волонтирања.</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan29-stav2">
+								<content>
+									<p>Организатор волонтирања дужан је да министарству поднесе пријаву о организовању волонтирања које се обавља у складу са одредбама овог закона.</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan29-stav3">
+								<content>
+									<p>Пријава се подноси приликом првог организовања волонтирања.</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan29-stav4">
+								<content>
+									<p>Садржину пријаве и начин уписа и брисања организатора волонтирања из евиденције прописује министар.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla9">
+				<num>IX</num>
+				<heading>ИЗВЕШТАЈ О ВОЛОНТИРАЊУ</heading>
+				<content>
+					<article id="gla9-clan30">
+						<num>30.</num>
+						<content>
+							<clause id="gla9-clan30-stav1">
+								<content>
+									<p>Организатор волонтирања дужан је да министарству достави извештај о волонтирању најкасније до 31. марта текуће године за претходну годину.</p>
+								</content>
+							</clause>
+							<clause id="gla9-clan30-stav2">
+								<content>
+									<p>Извештај о волонтирању садржи податке о: организатору волонтирања, програму волонтирања, односно волонтерским услугама и активностима, кориснику волонтирања, волонтерима и уговорима о волонтирању.</p>
+								</content>
+							</clause>
+							<clause id="gla9-clan30-stav3">
+								<content>
+									<p>Ближу садржину и начин подношења извештаја прописује министар.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla10">
+				<num>X</num>
+				<heading>НАДЗОР</heading>
+				<content>
+					<article id="gla10-clan31">
+						<num>31.</num>
+						<content>
+							<clause id="gla10-clan31-stav1">
+								<content>
+									<p>Надзор над применом овог закона, других прописа о волонтирању и уговора о волонтирању врши инспекција рада, односно управна инспекција.</p>
+								</content>
+							</clause>
+							<clause id="gla10-clan31-stav2">
+								<content>
+									<p>У вршењу инспекцијског надзора, инспектор је овлашћен да решењем наложи организатору волонтирања да у одређеном року отклони утврђене повреде закона, других прописа о волонтирању и уговора о волонтирању.</p>
+								</content>
+							</clause>
+							<clause id="gla10-clan31-stav3">
+								<content>
+									<p>Организатор волонтирања дужан је да, најкасније у року од 15 дана од дана истека рока за отклањање утврђене повреде, обавести инспекцију о извршењу решења.</p>
+								</content>
+							</clause>
+							<clause id="gla10-clan31-stav4">
+								<content>
+									<p>Инспектор рада, односно управни инспектор поднеће захтев за покретање прекршајног поступка ако нађе да је организатор волонтирања, повредом закона или других прописа којима се уређује волонтирање извршио прекршај.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla11">
+				<num>XI</num>
+				<heading>КАЗНЕНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla11-clan32">
+						<num>32.</num>
+						<content>
+							<clause id="gla11-clan32-stav1">
+								<content>
+									<p>Новчаном казном од 100.000,00 до 500.000,00 динара казниће се за прекршај организатор волонтирања са својством правног лица:</p>
+									<point id="gla11-clan32-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> ако прекрши начело забране дискриминације (<ref>члан 6</ref>);</p>
+										</content>
+									</point>
+									<point id="gla11-clan32-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> ако организује волонтирање у циљу стицања добити или волонтирањем замењује рад (<ref>члан 8</ref>);</p>
+										</content>
+									</point>
+									<point id="gla11-clan32-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> ако закључи уговор о волонтирању са малолетним лицем супротно одредбама овог закона (<ref>члан 11</ref>);</p>
+										</content>
+									</point>
+									<point id="gla11-clan32-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> ако закључи уговор о волонтирању са лицем из <ref>члана 12. став 2. овог</ref> закона;</p>
+										</content>
+									</point>
+									<point id="gla11-clan32-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> ако не прибави сагласност министарства за организовање волонтирања у складу са одредбама овог закона (<ref>члан 14</ref>);</p>
+										</content>
+									</point>
+									<point id="gla11-clan32-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> ако не закључи уговор о волонтирању са волонтером у складу са одредбама овог закона (<ref>члан 15. став 3</ref>);</p>
+										</content>
+									</point>
+									<point id="gla11-clan32-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> ако не прибави потврду од волонтера пре закључења уговора о волонтирању у складу са одредбама овог закона (<ref>члан 18. став 2</ref>);</p>
+										</content>
+									</point>
+									<point id="gla11-clan32-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> ако волонтеру не изда потврду о волонтирању или у потврду упише нетачне податке (<ref>члан 25</ref>);</p>
+										</content>
+									</point>
+									<point id="gla11-clan32-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> ако не води евиденцију о волонтирању у складу са овим законом (<ref>члан 28</ref>);</p>
+										</content>
+									</point>
+									<point id="gla11-clan32-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> ако не пријави организовање волонтирања у складу са овим законом (<ref>члан 29</ref>);</p>
+										</content>
+									</point>
+									<point id="gla11-clan32-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> ако не достави извештај министарству у складу са овим законом (<ref>члан 30</ref>);</p>
+										</content>
+									</point>
+									<point id="gla11-clan32-stav1-tac12">
+										<num>12)</num>
+										<content>
+											<p> ако не поступи по решењу инспектора рада, односно управног инспектора у складу са овим законом (<ref>члан 31</ref>).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla11-clan32-stav2">
+								<content>
+									<p>Ако је прекршајем из става 1. тачка 2) овог члана прибављена имовинска корист, корист ће се одузети.</p>
+								</content>
+							</clause>
+							<clause id="gla11-clan32-stav3">
+								<content>
+									<p>Новчаном казном од 10.000,00 до 100.000,00 динара казниће се за прекршај из става 1. овог члана одговорно лице у правном лицу и одговорно лице у државном органу, органу територијалне аутономије и јединице локалне самоуправе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla12">
+				<num>XII</num>
+				<heading>ПРЕЛАЗНЕ И ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla12-clan33">
+						<num>33.</num>
+						<content>
+							<clause id="gla12-clan33-stav1">
+								<content>
+									<p>Прописи за извршење овог закона донеће се у року од шест месеци од ступања на снагу овог закона.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla12-clan34">
+						<num>34.</num>
+						<content>
+							<clause id="gla12-clan34-stav1">
+								<content>
+									<p>Овај закон ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, а примењује се по истеку рока од шест месеци од дана његовог ступања на снагу.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

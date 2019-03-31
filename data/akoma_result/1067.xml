@@ -1,0 +1,958 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1999/8-36/main"/>
+					<FRBRuri value="/rs/act/1999/8-36"/>
+					<FRBRdate date="1999" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1999/8-36/srp@/main"/>
+					<FRBRuri value="/rs/act/1999/8-36/srp@"/>
+					<FRBRdate date="1999" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1999/8-36/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1999/8-36/srp@.akn"/>
+					<FRBRdate date="1999" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1999-2-12" name="службени лист срј" number="8" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Наредба" value="наредба"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="4. Заштита биља" value="4. заштита биља"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1999-02-10" id="usvajanje"/>
+				<step date="1999-02-20" id="stupanje_na_snagu"/>
+				<step date="1999-02-20" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 11. став 1. </ref>тач. 2. и 6. Закона о заштити биља (“<ref id="ref1" href="/rs/act/98/24/srp@">Службени лист СРЈ”, бр. 24/98</ref>), савезни министар за пољопривреду доноси</p>
+		</preamble>
+		<preface>
+			<authority>НАРЕДБУ</authority>
+			<title>О ЗАБРАНИ УВОЗА И ПРОВОЗА ПОЈЕДИНИХ ВРСТА БИЉА И О ОДРЕЂИВАЊУ КАРАНТИНСКОГ НАДЗОРА НАД ПОЈЕДИНИМ ВРСТАМА БИЉА КОЈЕ СЕ УВОЗЕ РАДИ ГАЈЕЊА</title>
+			<date>„Службени лист СРЈ”, број 8 од 12. II 1999.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Забрањује се увоз и провоз преко територије Савезне Републике Југославије одређених врста биља, и то:</heading>
+				<content>
+					<став id="od1-stav1">
+						<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:100.0%;border:outset black 0.0833333333333333rem" width="100%">
+							
+ 
+							<tbody>
+								<tr>
+									
+  
+									<td style="width:8.0%;border:inset black 0.0833333333333333rem;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="8%">
+										
+  
+										<p>Ред. бр.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="30%">
+										
+  
+										<p>Врста биља</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:32.0%;border:inset black 0.0833333333333333rem;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="32%">
+										
+  
+										<p>Предмет забране</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="30%">
+										
+  
+										<p>Карантински штетни организми</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:8.0%;border:inset black 0.0833333333333333rem;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="8%">
+										
+  
+										<p>1</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="30%">
+										
+  
+										<p>2</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:32.0%;border:inset black 0.0833333333333333rem;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="32%">
+										
+  
+										<p>3</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" width="30%">
+										
+  
+										<p>4</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:8.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="8%">
+										
+  
+										<p>1.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Биље
+  рода Abies, Picea, Pinus, Pseudotsuga, Tsuga и Larix које је пореклом из
+  Француске, Шпаније и ваневропских земаља</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:32.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="32%">
+										
+  
+										<p>Забрана
+  се односи на увоз биља као и делова за размножавање тог биља, осим семена и
+  узорака калем-гранчица и полена који су пореклом из незаражених подручја, а
+  увозе их научне организације које се баве селекцијом, увођењем нових врста,
+  сорти, линија и хибрида или заштитом биља.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Chrysomyxa
+  arctostaphyli Dietel Guignardia laricina (Saw.) Yaman et lto. Melampsora
+  farlowii (Arthur) J. Davis Mycosphaerella larici leptolepis Ito et al.
+  Acleris variana (Fern.) </p>
+										
+  
+										<p>Cronartium
+  spp. (неевр.) Melampsora medusae Thum. </p>
+										
+  
+										<p>Arceuthobium
+  spp. (неевр.) </p>
+										
+  
+										<p>Pissodes
+  spp. (неевр.)</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:8.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="8%">
+										
+  
+										<p>2.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Биље
+  рода Castanea i Quercus из свих земаља и рода Ulmus које је пореклом из Сједињених
+  Америчких Држава</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:32.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="32%">
+										
+  
+										<p>Забрана
+  се односи на увоз биља као и делова за размножавање тог биља осим семена
+  Quercus и Ulmus и узорака семена Castanea који су пореклом из незаражених
+  подручја, а увозе их научне организације које се баве селекцијом, увођењем
+  нових врста, сорти, линија и хибрида или заштитом биља.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Cronatium
+  spp. (неевр.) Ceratocystis </p>
+										
+  
+										<p>fagacearum
+  (Bretz) </p>
+										
+  
+										<p>Hunt
+  i вектори Elm phloem necrosis MLO</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:8.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="8%">
+										
+  
+										<p>3.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Биље
+  рода Juniperus које је пореклом из земаља Азије и Северне Америке</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:32.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="32%">
+										
+  
+										<p>Забрана
+  се односи на увоз и провоз биља као и делова за размножавање тог биља, осим
+  семена.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Gymnosporangium
+  spp. (неевр.)</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:8.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="8%">
+										
+  
+										<p>4.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Биље
+  фамилије Rosaceae (родови Chaenomeles, Cydonia, Crataegus, Malus, Photinia,
+  Prunus, Pyrus i Rosa) које је пореклом из земаља Азије и Северне Америке</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:32.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="32%">
+										
+  
+										<p>Забрана
+  се односи на увоз и провоз биља као и делова за размножавање тог биља, осим
+  семена и биља које је у стадијуму мировања без лишћа и плодова (у периоду
+  мировања увоз је дозољен и одређује се карантински надзор).</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Gymnosporangium
+  spp. (неевр.)</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:8.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="8%">
+										
+  
+										<p>5.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Биље
+  рода Populus пореклом из Француске, Шпаније и ваневропских земаља и рода
+  Platanus пореклом из Сједињених Америчких Држава, Француске, Италије,
+  Шпаније, Јерменије и других земаља у којима је утврђен карантински штетни
+  организам Ceratocystis fimbirata f. sp. platani.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:32.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="32%">
+										
+  
+										<p>Забрана
+  се односи на увоз биља као и делова за размножавање тог биља, осим семена и
+  увоз узорака биља који су пореклом из незаражених подручја, а увозе их научне
+  организације које се баве увођењем нових врста, сорти, линија и хибрида.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Xanthomonas
+  arboricole pv. populi (ex de Camm) Vauterin et al. Mycosphaerrlla populorum
+  G. Thompson </p>
+										
+  
+										<p>Ceratocystis
+  fimbriata Ell. et Halsted f. sp. platani Walter</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:8.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="8%">
+										
+  
+										<p>6.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Кромпир
+  (Solanum tuberosum и Solanum spp.) пореклом из Мексика и земаља Централне и
+  Јужне Америке.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:32.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="32%">
+										
+  
+										<p>Забрана
+  се односи на увоз кромпира за семе и потрошњу, укључујући дивље или
+  полукултивисане клонове, и то на кртоле, биљке с кореном и делове биљке, осим
+  правог семена и културе ткива и узорака који су пореклом из незаражених
+  подручја, а увозе их научне организације које се баве увођењем нових врста,
+  сорти, линија и хибрида.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Phoma
+  andina Turkensteen Septoria lycopersici Speg. var. melegutii Ciccarone et
+  Boerema Potato spindle tuber viroid неевр. вируси кромпира Premnotrypes spp.
+  (Andean) Nacobbus aberrans (Thorne) Thorne et Allen.</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:8.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="8%">
+										
+  
+										<p>7.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Четинарско
+  дрво из ваневропских земаља са којег није скинута кора.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:32.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="32%">
+										
+  
+										<p>Забрана
+  се односи на увоз дрвета осим на дрво које је осушено на мање од 20% влаге
+  изражене у постотку суве материје (ознаке K.D. “Kilndried” и сл.).</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Cronartium
+  spp. неевр. Inonotus weirii (Murrill) Kotlaba et Pouzar Bursaphelenchus
+  xyluphilus (Steiner et Buhrer) Nickle et al. и вектори</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:8.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="8%">
+										
+  
+										<p>8.
+  </p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Дрво
+  храста рода Quercus које је пореклом из Сједињених Америчких Држава, Руске
+  Федерације и Румуније и дрвета кестена рода Castenea пореклом из свих земаља,
+  с којег није скинута кора.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:32.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="32%">
+										
+  
+										<p>Забрана
+  се односи на увоз дрвета осим на дрво које је осушено на мање од 20% влаге
+  изражене у постотку суве материје.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Ceratocystis
+  fagacearum (Bretz) Hunt</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:8.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="8%">
+										
+  
+										<p>9.
+  </p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Дрво
+  рода Populus, Ulmus, Zelkova, Fraxinus i Tillia americana које је пореклом из
+  ваневропских земаља с којег није скинута кора.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:32.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="32%">
+										
+  
+										<p>Забрана
+  се односи на увоз дрвета, осим на дрво које је осушено на мање од 20% влаге
+  изражене у постотку суве материје.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Xanthomonas
+  arboricola pv. populi (ec de Camm) Vauterin et al. Mycosphaerella populorum
+  G. Thompson Scolytidae (неевр.)</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:8.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="8%">
+										
+  
+										<p>10.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Трупци
+  и резана грађа дрвета рода Platanus из Сједињених Америчких Држава,
+  Француске, Италије, Шпаније, Јерменије и других земаља у којима је утврђен
+  Ceratosystis fimbriata f. sp. platani.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:32.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="32%">
+										
+  
+										<p>Забрана
+  се односи на увоз трупаца и резане грађе дрвета.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Ceratocystis
+  fimbriata Ell. et Helsted f. sp. platani Walter</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:8.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="8%">
+										
+  
+										<p>11.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Коре
+  дрвета из тачке 1. под редним бр. 7. 8. 9. и 10. </p>
+										
+  
+									</td>
+									
+  
+									<td style="width:32.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="32%">
+										
+  
+										<p>Забрана
+  се односи на увоз коре дрвета ако у земљи порекла није извршена дезинсекција
+  и дезинфекција фумигацијом или ферментирање прописаном методом.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Xanthomonas
+  arboricola pv. populi (ex de Camm) Vauterin et al. Mycosphaerella populorum
+  G. Thompson Ceratocystis fimbriata Ell. et Halsted f. sp. platani Walter
+  Cronartium spp. (неевр.) Inonotus weirii (Murrill) Kotlaba et Pouzar
+  Bursaphelenchus xylophilus (Steiner et Buhrer) Nickle et al. Scolytidae
+  (неевр.)</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:8.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="8%">
+										
+  
+										<p>12.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Кукурузовина
+  и сиркова слама ако су пореклом из земаља Африке</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:32.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="32%">
+										
+  
+										<p>Забрана
+  се односи на увоз и провоз кукурузовине и сиркове сламе.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Buseola
+  fusca (Noctuidae)</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:8.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="8%">
+										
+  
+										<p>13.
+  </p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Земља,
+  компост и супстрати мешани са земљом или компостом, са биљем или без биља,
+  који су пореклом из ваневропских земаља.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:32.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="32%">
+										
+  
+										<p>Забрана
+  се односи на увоз земље, компоста и мешаног супстрата над којим није извршена
+  дезинфекција и дезинсекција.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Trechispora
+  brinkman ni (Bresad.) Rogers Anomala orientalis Waterh. Popillia japonica
+  Newm. Trypetidae neevr. Globodera pallida (Stone) Mulvey et Stone G.
+  rostochiensis (Wolle-weber) Mulvey et Stone Radopholus citrophilus, Huettel
+  et al. R. similis (Cobb) Thorne Heterodera glycines lchinohe</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:8.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="8%">
+										
+  
+										<p>14.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Биље
+  рода Fragaria пореклом из ваневропских земаља.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:32.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="32%">
+										
+  
+										<p>Забрана
+  се односи на увоз биља осим семена и плодова.</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:30.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="30%">
+										
+  
+										<p>Xanthomonas
+  fragariae Kennedy et King Strawberry latent C disease Anthonomus signatus Say
+  Aphelenchoides besseyi Christie</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+
+							</tbody>
+						</table>
+						
+
+
+						<content/>
+					</став>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Одређује се карантински надзор над биљем које се увози ради гајења, и то:</heading>
+				<content>
+					<point id="od2-tac1">
+						<num>1)</num>
+						<content>
+							<p> над узорцима калем-гранчица и полена родова Abies, Picea, Pinus, Pseudotsuga, Tsuga и Larix и узорцима семена биља рода Castanea и Quercus ако је увоз ограничен одредбама тачке 1. под редним бр. 1. и 2. ове наредбе;</p>
+						</content>
+					</point>
+					<point id="od2-tac2">
+						<num>2)</num>
+						<content>
+							<p> над биљем рода Abies, Picea, Pinus, Pseudotsuga, Tsuga и Larix пореклом из ваневропских земаља;</p>
+						</content>
+					</point>
+					<point id="od2-tac3">
+						<num>3)</num>
+						<content>
+							<p> над биљем рода Populus и Platanus ако је увоз ограничен одредбама тачке 1. под редним бројем 5. ове наредбе;</p>
+						</content>
+					</point>
+					<point id="od2-tac4">
+						<num>4)</num>
+						<content>
+							<p> над узорцима семенског кромпира (Solanum spp.) ако је увоз ограничен одредбама тачке 1. под редним бројем 6 ове наредбе.</p>
+						</content>
+					</point>
+					<clause id="od2-stav1">
+						<content>
+							<p>Карантински надзор над биљем под 2) и 3) ове тачке односи се на цело живо биље и његове делове за размножавање, осим семена.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Док траје провера здравственог стања над биљем које се гаји, то биље и његови делови не смеју се размножавати без одобрења савезног органа надлежног за послове пољопривреде, а ни износити с одређене парцеле или премештати на другу парцелу.</heading>
+				<content/>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Увозник је дужан да о увозу биља из тачке 2. ове наредбе савезном инспектору за заштиту биља (у даљем тексту: савезни инспектор) достави писмену пријаву са подацима о држаоцу биља, локацији садње и катастарској општини и броју катастарске парцеле на којој ће бити засађена увезена пошиљка. До добијања ових података пошиљка ће се налазити под царинским надзором.</heading>
+				<content>
+					<clause id="od4-stav1">
+						<content>
+							<p>На основу докумената која прате пошиљку и пријаве, савезни инспектор сачињава записник о врсти, количини биља и локацији садње и доноси решење о карантинском надзору.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> Овлашћена организација која прати здравствено стање биља дужна је да савезном инспектору достави извештај у року од 15 дана по пријему решења о карантинском надзору, а следеће извештаје - одмах након обављених провера здравственог стања у току вегетације.</heading>
+				<content/>
+			</section>
+			<section id="od6">
+				<num>6.</num>
+				<heading> Даном ступања на снагу ове наредбе престаје да важи Наредба о забрани увоза и провоза појединих врста биља и одређивању карантинског надзора над појединим врстама биља које се увозе ради гајења (“<ref id="ref2" href="/rs/act/91/59/srp@">Службени лист СФРЈ”, бр. 59/91</ref>).</heading>
+				<content/>
+			</section>
+			<section id="od7">
+				<num>7.</num>
+				<heading> Ова наредба ступа на снагу осмог дана од дана објављивања у “Службеном листу СРЈ”.</heading>
+				<content>
+					<clause id="od7-stav1">
+						<content>
+							<p>Број: 1/0-01-002/002</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od10">
+				<num>10.</num>
+				<heading> фебруара 1999. године</heading>
+				<content>
+					<clause id="od10-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od10-stav2">
+						<content>
+							<p>Савезни министар</p>
+						</content>
+					</clause>
+					<clause id="od10-stav3">
+						<content>
+							<p>за пољопривреду</p>
+						</content>
+					</clause>
+					<clause id="od10-stav4">
+						<content>
+							<p>Недељко Шиповац, с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

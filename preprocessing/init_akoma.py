@@ -45,5 +45,7 @@ def init_xml(type):
     retval += '<'+type+'><meta></meta><body></body></'+type+'>'
     retval += '</akomaNtoso>'
     #print(retval)
+    ET.register_namespace('', "http://www.akomantoso.org/2.0")
     root = ET.fromstring(retval)
+    print("SADAD", list(list(root)[0]))
     return root

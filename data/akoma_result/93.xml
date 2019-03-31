@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2010/71-42/main"/>
+					<FRBRuri value="/rs/act/2010/71-42"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2010/71-42/srp@/main"/>
+					<FRBRuri value="/rs/act/2010/71-42/srp@"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2010/71-42/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2010/71-42/srp@.akn"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2010-10-4" name="службени гласник рс" number="71" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="10. Рибарство" value="10. рибарство"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2010-09-22" id="usvajanje"/>
+				<step date="2010-10-12" id="stupanje_na_snagu"/>
+				<step date="2010-10-12" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>Ha основу <ref>члана 21. став 3. </ref>Закона о заштити и одрживом коришћењу рибљег фонда („<ref id="ref1" href="/rs/act/09/36/srp@">Службени гласник PC”, број 36/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар животне средине и просторног планирања доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о програму мониторинга ради праћења стања рибљег фонда у риболовним водама</title>
+			<date>„Службени гласник РС“, број 71 од 4. октобра 2010.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се програм мониторинга ради праћења стања рибљег фонда у риболовним водама.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Програм мониторинга садржи:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> податке о риболовним водама са описом локалитета који су испитивани (GPS координате, надморска висина и сл.);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> основне биолошке карактеристике риболовних вода рибарског подручја: заступљеност појединих макрофита, доминантне врсте и биомаса фитопланктона, доминантне врсте и биомаса зоопланктона, доминантне врсте макрозообентоса, остале важније животињске врсте које имају утицаја на рибљи фонд (ракови, водоземци, гмизавци, птице и сисари);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> типове текућих вода у смислу ихтиоценотичке висинске зонације и поделу вода према саставу рибљег фонда на салмонидне и ципринидне воде;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> податке о саставу рибљег фонда: квалитативно – квантитативни састав рибљег фонда (систематизовано no редовима, фамилијама и др. са процентним уделом поједине врсте у укупној биомаси и абунданција), биомаса и годишња продукција заступљених рибљих врста са посебним освртом на риболовно најзначајније врсте и брсте за које je трајно забрањен улов (изражено у kg/ha или kg/km речног тока);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> попис рибљих плодишта;</p>
+									<point id="clan2-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> дозвољени излов рибе пo врстама и количинама риба на основу годишњег прираста рибљег фонда;</p>
+										</content>
+									</point>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> попис потенцијалних загађивача на испитиваним риболовним водама.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>При избору места и времена узорковања потребно je посебно уважавати разноликост типова станишта на поједином рибарском подручју као и сезонске специфичности.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Узорковање риба обавља се електроагрегатом који доводи до реверзибилне електронаркозе риба, мрежарским, удичарским и самоловним алатима и средствима за привредни риболов као и алатима и помоћним средствима за рекреативни риболов.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Приликом узорковања макрофита потребно je описати станишта и основне врсте, као и проценат покривености риболовне воде.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>За све узорковане риболовне воде потребно je навести Shannon-Wiener-ов индекс разноврсности ихтиофауне.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav5">
+						<content>
+							<p>Узорковање и обрада података обавља се према стандардним методама у риболовном рибарству, ихтиологији, рибарственој биологији, екологији копнених вода и у складу са захтевима мониторинга Европске агенције за заштиту животне средине.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Броj 110-00-155/2010-05</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>У Београду, 22. септембра 2010. године</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav5">
+						<content>
+							<p>др Оливер Дулић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

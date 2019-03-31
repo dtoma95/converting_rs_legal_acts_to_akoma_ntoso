@@ -1,0 +1,491 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1990/10-414/main"/>
+					<FRBRuri value="/rs/act/1990/10-414"/>
+					<FRBRdate date="1990" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1990/10-414/srp@/main"/>
+					<FRBRuri value="/rs/act/1990/10-414/srp@"/>
+					<FRBRdate date="1990" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1990/10-414/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1990/10-414/srp@.akn"/>
+					<FRBRdate date="1990" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1990-3-10" name="службени гласник срс" number="10" showAs="Службени гласник СРС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="1. Привредна друштва, предузећа и предузетници" value="1. привредна друштва, предузећа и предузетници"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1990-02-23" id="usvajanje"/>
+				<step date="1990-03-18" id="stupanje_na_snagu"/>
+				<step date="1990-03-18" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 21. </ref>Закона о личном раду („<ref id="ref1" href="/rs/act/89/54/srp@">Службени гласник СРС“, број 54/89</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Републички секретаријат за индустрију, енергетику и грађевинарство доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о садржају, начину вођења и  обрасцу регистра радњи</title>
+			<date>„Службени гласник СРС”, број 10 до 10. марта 1990.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>У регистар радње који води општински орган управе надлежан за послове привреде уписују се подаци који су значајни за пословање и престанак радње, утврђени овим правилником.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Општински орган управе надлежан за послове привреде води регистар радњи у облику регистарске књиге чије су стране нумерисане.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>На насловној страни књиге ставља се штамбиљ органа управе који води регистар, назив регистра и број књиге.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Књига регистра мора пре употребе бити оверена од органа надлежних за оверу.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav4">
+						<content>
+							<p>Регистар се може водити и путем аутоматске обраде података.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Свака страна у регистру чини регистарски уложак који се обележава редним бројем.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>У једном регистарском улошку могу се водити (уписивати) подаци само за једну радњу.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Регистарски уложак састоји се од омота и механизма у који се улажу листови Л1, Л1а, Л2, Л3, Л4, Л5, Л6, Л7 и Л8.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>Обрасци листова Л1, Л1а, Л2, Л3, Л4, Л5, Л6, Л7 и Л8 одштампани су уз овај правилник и чине његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav5">
+						<content>
+							<p>Регистарски улошци повезани су одговарајућим механизмом са корицама регистарске књиге тако да чине целину из које се могу издвојити.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav6">
+						<content>
+							<p>У регистарски уложак улажу се само они листови који су назначени овим правилником.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav7">
+						<content>
+							<p>Сви листови који се улажу у омот регистарског улошка нумерисани су.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav8">
+						<content>
+							<p>Нумерацију листова врши овлашћено лице редним бројевима.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Ако се упис података изврши погрешно исправка се врши на тај начин што се текст који се исправља прецртава црвеним мастилом, али тако да остане читљив, а уместо њега исписује се црвеним мастилом нови текст.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Свака исправка текста у регистарском улошку мора бити читљива и оверена потписом лица које води регистар.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Ако се поједини подаци измене због настале промене обележавање тих података врши се у рубрици напомене.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Уколико се промене не могу евидентирати у рубрици напомене, отвара се нови одговарајући лист, у њега преносе сви важећи подаци са претходног листа и означује лист (и страна листа) са које су пренети.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>На листу са којег су ови подаци пренети назначује се редни број стране листа и ознака листа на који је извршено преношење.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>Сваки упис промене података мора бити оверен потписом лица које води регистар.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>У регистар радњи у лист Л1 уписују се:</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<subsection id="podod1">
+				<num>а</num>
+				<heading> подаци из пријаве,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod2">
+				<num>б</num>
+				<heading> подаци о облику радње,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod3">
+				<num>в</num>
+				<heading> подаци о радницима који се запошљавају у радњи зато што оснивач не испуњава услов школске спреме, односно здравствене способности,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod4">
+				<num>г</num>
+				<heading> подаци о стручном пословођи,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod5">
+				<num>д</num>
+				<heading> подаци о рачуну овлашћене банке преко којег послује радња са статусом правног лица,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod6">
+				<num>ђ</num>
+				<heading> подаци о обављању делатности из радног односа, односно у својству пензионера (или подаци о другом основу обезбеђења права из социјалног осигурања),</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod7">
+				<num>е</num>
+				<heading> подаци о престанку радње.</heading>
+				<content>
+					<clause id="podod7-clan6-stav1">
+						<content>
+							<p>Када је оснивач радње странац у податке под редним бројем 3 уписује се и назнака „физичко страно лице” и ближи основ боравка у СФРЈ; број личне карте (за оне који имају стално настањење у СФРЈ, или лице које има одобрени привремени боравак, азиланте, избеглице, лица без држављанства) и јединствен матични број странаца (за стално настањење, азиланте, избеглице и апатриде).</p>
+						</content>
+					</clause>
+					<clause id="podod7-clan6-stav2">
+						<content>
+							<p>Подаци о делатностима уписују се према Одлуци о јединственој класификацији делатности и номенклатури трговинских струка.</p>
+						</content>
+					</clause>
+					<clause id="podod7-clan6-stav3">
+						<content>
+							<p>Када је број делатности већи од простора у листу Л1, или се накнадно мења, упис се наставља на листу Л4.</p>
+						</content>
+					</clause>
+					<clause id="podod7-clan6-stav4">
+						<content>
+							<p>Када се оснива заједничка радња у податке под редним бројем 3, уписује се лице овлашћено за представљање и заступање, а подаци за остале осниваче са истим садржајем уписују се на полеђини листа Л1.</p>
+						</content>
+					</clause>
+					<clause id="podod7-clan6-stav5">
+						<content>
+							<p>Лист Л1 попуњава се у два примерка и један примерак се доставља Републичком заводу за статистику.</p>
+						</content>
+					</clause>
+					<article id="podod7-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="podod7-clan7-stav1">
+								<content>
+									<p>Привремени упис радње у регистар врши се у засебном регистарском улошку на листу Л1а.</p>
+								</content>
+							</clause>
+							<clause id="podod7-clan7-stav2">
+								<content>
+									<p>Лист Л1а садржи:</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</subsection>
+			<subsection id="podod8">
+				<num>а</num>
+				<heading> податке о броју пријаве,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod9">
+				<num>б</num>
+				<heading> личне податке оснивача,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod10">
+				<num>в</num>
+				<heading> податке о делатностима које ће се обављати у радњи,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod11">
+				<num>г</num>
+				<heading> податке о важењу решења о привременом упису.</heading>
+				<content>
+					<article id="podod11-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="podod11-clan8-stav1">
+								<content>
+									<p>У листу Л2, Л3 и Л4 уносе се подаци који су подложни променама и уписују се у регистар по временском (хронолошком) реду када су настали, односно када је примљено обавештење о њиховој промени.</p>
+								</content>
+							</clause>
+							<clause id="podod11-clan8-stav2">
+								<content>
+									<p>Уз сваку промену наводи се основ за њено уписивање у регистар (пријава, решење и сл.).</p>
+								</content>
+							</clause>
+							<clause id="podod11-clan8-stav3">
+								<content>
+									<p>У лист Л2 уносе се: подаци о привременом обустављању обављања делатности – рада радње, одаци о периоду обустављања, разлози и основ обустављања.</p>
+								</content>
+							</clause>
+							<clause id="podod11-clan8-stav4">
+								<content>
+									<p>У лист Л3 уносе се: подаци о запосленим радницима у радњи.</p>
+								</content>
+							</clause>
+							<clause id="podod11-clan8-stav5">
+								<content>
+									<p>У лист Л4 уписује се и измена – промена делатности радње: почетак обављања нових и престанак обављања појединих делатности.</p>
+								</content>
+							</clause>
+							<clause id="podod11-clan8-stav6">
+								<content>
+									<p>Полеђина образаца листова Л2, Л3 и Л4 истоветна је.</p>
+								</content>
+							</clause>
+							<clause id="podod11-clan8-stav7">
+								<content>
+									<p>У случају испуњености лица и наличја листа Л2, односно Л3, односно Л4 у регистарски уложак се улаже нови одговарајући лист и означава страна овог листа (нпр. Л2 страна 3).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod11-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="podod11-clan9-stav1">
+								<content>
+									<p>У лист Л5 унос се подаци о просторијама које се користе за обављање делатности ван пословног седишта радње.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod11-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="podod11-clan10-stav1">
+								<content>
+									<p>У лист Л6 врши се упис података о просторијама које оснивачи радње користе за обављање делатности, а уписане су у регистар другог општинског органа.</p>
+								</content>
+							</clause>
+							<clause id="podod11-clan10-stav2">
+								<content>
+									<p>Упис коришћења просторија из става 1. овог члана врши се у посебном регистарском улошку за сваку радњу регистровану на територији друге општине.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod11-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="podod11-clan11-stav1">
+								<content>
+									<p>Лист Л7 попуњава се уз лист Л1 у случају када се у радњи обавља делатност превоза моторним возилом, запрежним возилом, пловним и ваздухопловним објектом и жичаром, осим превоза за сопствене потребе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod11-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="podod11-clan12-stav1">
+								<content>
+									<p>Лист Л8 попуњава општински орган који врши упис у регистар и доставља на објављивање „Службеном гласнику СР Србије”.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod11-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="podod11-clan13-stav1">
+								<content>
+									<p>Ради лакшег коришћења података уписаних у регистар води се именик у који се уписују по азбучном реду лица – однивачи радње.</p>
+								</content>
+							</clause>
+							<clause id="podod11-clan13-stav2">
+								<content>
+									<p>Поред имена лица уписаних у именик уписује се књига регистра и регистарски уложак на којем су уписани подаци за односно лице.</p>
+								</content>
+							</clause>
+							<clause id="podod11-clan13-stav3">
+								<content>
+									<p>Именик се може водити као посебна књига или у виду картотеке.</p>
+								</content>
+							</clause>
+							<clause id="podod11-clan13-stav4">
+								<content>
+									<p>Посебан именик може се водити за радње које су основане и послују као правно лице.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod11-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="podod11-clan14-stav1">
+								<content>
+									<p>Даном ступања на снагу овог правилника престаје да важи Правилник о садржају и начину вођења регистра издатих решења о одобрењу за обављање привредних делатности самосталним личним радом средствима у својини грађана („<ref id="ref2" href="/rs/act/85/34/srp@">Службени гласник СРС”, број 34/85</ref>).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod11-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="podod11-clan15-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Социјалистичке Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="podod11-clan15-stav2">
+								<content>
+									<p>Број 110-1/90-09</p>
+								</content>
+							</clause>
+							<clause id="podod11-clan15-stav3">
+								<content>
+									<p>У Београду, 23. фебруара 1990. године</p>
+								</content>
+							</clause>
+							<clause id="podod11-clan15-stav4">
+								<content>
+									<p>Републички секретаријат за индустрију, енергетику и грађевинарство</p>
+								</content>
+							</clause>
+							<clause id="podod11-clan15-stav5">
+								<content>
+									<p>Републички секретар,</p>
+								</content>
+							</clause>
+							<clause id="podod11-clan15-stav6">
+								<content>
+									<p>мр Никола Шаиновић, с.р.</p>
+								</content>
+							</clause>
+							<став id="podod11-clan15-stav7">
+								<img height="893" id="Picture 1" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/8fbaae1d-3067-498f-8679-dcc7a9d8d1c8.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425339&amp;regactid=425339" width="800"/>
+								<content/>
+							</став>
+							<став id="podod11-clan15-stav8">
+								<img height="897" id="Picture 2" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/78b569b3-6f5f-4fca-b954-4fcb230f9ed8.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425339&amp;regactid=425339" width="300"/>
+								<content/>
+							</став>
+							<став id="podod11-clan15-stav9">
+								<img height="506" id="Picture 3" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/7e52493b-ef0d-4a82-b62d-83d63fd1a0b1.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425339&amp;regactid=425339" width="300"/>
+								<content/>
+							</став>
+							<став id="podod11-clan15-stav10">
+								<img height="279" id="Picture 4" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/5407328e-b342-486d-8f0c-4fa6d1cd5c22.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425339&amp;regactid=425339" width="300"/>
+								<content/>
+							</став>
+							<став id="podod11-clan15-stav11">
+								<img height="174" id="Picture 5" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/feb35e6a-d89f-472b-8db8-d0592e2de979.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425339&amp;regactid=425339" width="300"/>
+								<content/>
+							</став>
+							<став id="podod11-clan15-stav12">
+								<img height="427" id="Picture 6" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/2852458b-1a58-4d8d-bc61-54270e3efad6.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425339&amp;regactid=425339" width="300"/>
+								<content/>
+							</став>
+							<став id="podod11-clan15-stav13">
+								<img height="205" id="Picture 7" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/7cdd7188-c07e-4b23-aabe-30a1aebd2e93.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425339&amp;regactid=425339" width="300"/>
+								<content/>
+							</став>
+							<clause id="podod11-clan15-stav14">
+								<content>
+									<p>Образац Л 6</p>
+								</content>
+							</clause>
+							<став id="podod11-clan15-stav15">
+								<img height="179" id="Picture 8" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/8ac2385d-24eb-459e-9dbc-2b5b630d807d.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425339&amp;regactid=425339" width="300"/>
+								<content/>
+							</став>
+							<clause id="podod11-clan15-stav16">
+								<content>
+									<p>Образац Л 7</p>
+								</content>
+							</clause>
+							<став id="podod11-clan15-stav17">
+								<img height="152" id="Picture 9" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/5222fa4e-05f9-46d3-ba0f-0c02195f3ec9.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425339&amp;regactid=425339" width="300"/>
+								<content/>
+							</став>
+							<clause id="podod11-clan15-stav18">
+								<content>
+									<p>Образац Л 8</p>
+								</content>
+							</clause>
+							<став id="podod11-clan15-stav19">
+								<img height="797" id="Picture 10" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/060d64ae-e10e-4a31-9d45-cc51a8ae2393.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425339&amp;regactid=425339" width="550"/>
+								<content/>
+							</став>
+						</content>
+					</article>
+				</content>
+			</subsection>
+		</body>
+	</act>
+</akomaNtoso>

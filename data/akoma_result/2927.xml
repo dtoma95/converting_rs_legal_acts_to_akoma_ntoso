@@ -1,0 +1,377 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1997/54-1/main"/>
+					<FRBRuri value="/rs/act/1997/54-1"/>
+					<FRBRdate date="1997" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1997/54-1/srp@/main"/>
+					<FRBRuri value="/rs/act/1997/54-1/srp@"/>
+					<FRBRdate date="1997" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1997/54-1/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1997/54-1/srp@.akn"/>
+					<FRBRdate date="1997" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1997-10-31" name="службени лист срј“" number="54" showAs="Службени лист СРЈ“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="3. Војна опрема, наоружање и роба двоструке намене" value="3. војна опрема, наоружање и роба двоструке намене"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1997-10-30" id="usvajanje"/>
+				<step date="1997-11-08" id="stupanje_na_snagu"/>
+				<step date="1997-11-08" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу осмог дана од дана објављивања у “Службеном листу СРЈ”, односно 8. новембра 1997. године (види <ref>члан 10. </ref>Уредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<authority>На основу <ref>члана 27. </ref>Закона о производњи и промету наоружања и војне опреме (“<ref id="ref8" href="/rs/act/96/41/srp@">Службени лист СРЈ”, бр. 41/96</ref>), Савезна влада доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о превозу наоружања и војне опреме</title>
+			<date>„Службени лист СРЈ“, број 54 од 31. октобра 1997.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овом уредбом прописују се начин превоза и мере безбедности при превозу наоружања и војне опреме.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Одредбе ове уредбе не односе се на превоз наоружања и војне опреме за потребе Војске Југославије.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav3">
+						<content>
+							<p>Начин превоза и мере безбедности при превозу наоружања и војне опреме из става 2. овог члана прописује савезни министар  за одбрану.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Превозом наоружања и војне опреме, у смислу ове уредбе, сматрају се сви видови транспорта на територији и преко границе Савезне Републике Југославије, као и радње у вези с тим транспортом (припреме за превоз, утовар, истовар, успутне манипулације).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Превозна средства којима се превозе наоружање и војна опрема морају бити технички исправна и израђена, опремљена и  обележена у складу с техничким прописима.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>За превоз наоружања и војне опреме потребно је одобрење, које издаје орган надлежан за унутрашње послове.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Захтев за издавање одобрења за превоз наоружања и војне опреме подноси се надлежном органу најдоцније 48 часова пре започињања превоза.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Захтев из <ref>члана 4. став 2. </ref>ове уредбе садржи:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> фирму, односно назив и седиште пошиљаоца наоружања и војне опреме (у даљем тексту: пошиљалац);</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> врсту, назив, количину и начин паковања наоружања и војне опреме;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> број под којим се наоружање и војна опрема воде у номенклатури опасних материја (ако се ради о опасним материјама и предметима);</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> фирму, односно назив и седиште произвођача наоружања и војне опреме;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> фирму, односно назив и седиште превозника;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> датум и час започињања превоза, трасу и крајње место испоруке;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> врсту и ознаку превозног средства;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> фирму, односно назив и седиште примаоца.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>За превоз наоружања и војне опреме преко границе Савезне Републике Југославије, уз захтев из става 1. овог члана прилаже се и дозвола о промету, коју издаје Савезно министарство за одбрану.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Пошиљалац је дужан да уз сваку пошиљку наоружања и војне опреме превознику преда следећа документа:</p>
+							<point id="clan6-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> одобрење за превоз из <ref>члана 4. </ref>ове уредбе;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> исправу о превозу из <ref>члана 7. </ref>ове уредбе;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> преглед посебних мера безбедности из <ref>члана 8. </ref>ове уредбе.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Исправа о превозу наоружања и војне опреме, коју издаје пошиљалац, садржи:</p>
+							<point id="clan7-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> податке о врсти наоружања и војне опреме (редни број, идентификациони број и назив материје или предмета, ознаку разреда и групе компатибилности, као и начин паковања, према званичним међународним препорукама за превоз опасних материја – ако се ради о опасним материјама или предметима);</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> податке о количини (бруто маса, нето маса, број комада и др.);</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> назнаку пошиљаоца да су испуњени услови прописани за превоз наоружања и војне опреме;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> фирму, односно назив и седиште пошиљаоца и примаоца;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> назнаку да је уз исправу о превозу наоружања и војне опреме превознику предат и преглед посебних мера безбедности;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> назнаку да су наоружани пратиоци упознати с мерама из тачке 5. овог члана;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> потпис и печат пошиљаоца.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Изузетно од одредбе става 1. овог члана, исправа о превозу наоружања и војне опреме се не издаје ако товарни лист или  други одговарајући документ о превозу садржи податке из става 1. овог члана.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Преглед посебних мера безбедности, које утврђује пошиљалац, садржи:</p>
+							<point id="clan8-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> ознаку врсте опасности коју представља и последице које може да изазове пошиљка при превозу;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> мере које треба предузети ради спречавања или ублажавања последица опасности у току превоза (неисправност превозног средства, саобраћајни удес и сл.);</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> поступак са лицем које дође у додир с материјама и предметима из пошиљке;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> обавезу у погледу обезбеђења пошиљке у месту отпремања, у току превожења, за време успутних задржавања и у време предајепримаоцу на месту истовара;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> поступак при оштећењу или уклањању пломби или услед нестанка пошиљке, односно дела пошиљке;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> фирму, односно назив и седиште органа или предузећа који се морају обавестити када је пошиљка угрожена, односно о незгоди или удесу при превозу наоружања и војне опреме;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> обавезу чувања и заштите података који се односе на пошиљку.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Наоружање и војна опрема превозе се уз наоружану пратњу, коју, у складу са одобрењем из <ref>члана 4. </ref>ове уредбе, обезбеђује пошиљалац.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Подаци о наоружаној пратњи уносе се у одобрење за превоз из <ref>члана 4. </ref>ове уредбе.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav3">
+						<content>
+							<p>Наоружана пратња је дужна да присуствује свим радњама које се обављају у вези са превозом (припреме за превоз, утовар, истовар, успутне манипулације) и мора бити оспособљена за обављање службе обезбеђења у месту и у покрету.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav4">
+						<content>
+							<p>Лица из наоружане пратње морају бити наоружана наоружањем и муницијом, чију врсту и количину одређује пошиљалац, а само изузетно, по овлашћењу пошиљаоца – прималац или шпедитер, у складу са одредбом става 1. овог члана.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Ова уредба ступа на снагу осмог дана од дана објављивања у “Службеном листу СРЈ”.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Савезна влада</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>Е. п. бр. 347</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<section id="od30">
+				<num>30.</num>
+				<heading> октобра 1997. године</heading>
+				<content>
+					<clause id="od30-clan10-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od30-clan10-stav2">
+						<content>
+							<p>Председник,</p>
+						</content>
+					</clause>
+					<clause id="od30-clan10-stav3">
+						<content>
+							<p>др  Радоје Контић,  с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

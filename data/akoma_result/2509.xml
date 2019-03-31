@@ -1,0 +1,399 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2014/75-20/main"/>
+					<FRBRuri value="/rs/act/2014/75-20"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/88-8/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/88-8/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/88-8/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/88-8/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2014-7-21" name="службени гласник рс" number="75" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="VI СВОЈИНСКИ И ОБЛИГАЦИОНИ, ПОРОДИЧНИ И БРАЧНИ ОДНОСИ" value="vi својински и облигациони, породични и брачни односи"/>
+				<keyword id="grupa" showAs="13. Промет непокретности" value="13. промет непокретности"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2014-07-17" id="usvajanje"/>
+				<step date="2014-07-29" id="stupanje_na_snagu"/>
+				<step date="2014-07-29" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="75/2014-20" id="e1" type="generation"/>
+				<eventRef date="88/2018-8" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу <ref>члана 30. став 1. </ref>тач. 1), 2) и 3) Закона о посредовању у промету и закупу непокретности („<ref id="ref9" href="/rs/act/13/95/srp@">Службени гласник РС”, број 95/13</ref>),</p>
+			<p>Министар трговине, туризма и телекомуникација доноси</p>
+		</preamble>
+		<preface>
+			<title>ПРАВИЛНИК</title>
+			<authority>о Регистру посредника у промету и закупу непокретности</authority>
+			<title>&quot;Службени гласник РС&quot;, бр.      75 од 21. јула 2014, 88 од 15. новембар 2018.</title>
+			<date>Предмет</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се облик, садржина и начин вођења Регистра посредника у промету и закупу непокретности (у даљем тексту: Регистар), образац захтева за упис у Регистар и образац извода из Регистра.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>Облик Регистра</heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Регистар се води у писаном и електронском облику, као јединствена, централна и јавна база података о посредницима.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>Садржина Регистра</heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Регистар садржи следеће податке:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> редни број и датум уписа у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> број и датум решења о упису у Регистар, односно решења о брисању из Регистра;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> пословно име, адресу седишта и огранка, порески идентификациони број (у даљем тексту: ПИБ), матични број, број телефона, електронску адресу и адресу Интернет странице (ако постоји) посредника;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> податке о лицима која обављају      послове посредовања са положеним стручним испитом за посреднике      у промету и закупу непокретности (у даљем тексту: стручни      испит);</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>4а) податке о члану привредног друштва      (оснивачу, власнику) односно предузетнику, заступнику привредног      друштва и пословођи, ако је предузетник поверио послове      пословођења пословно способном физичком лицу;</p>
+							<point id="clan3-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> податке о изреченим заштитним мерама из <ref>члана 32. став 2. </ref>и <ref>члана 33. став 4. </ref>Закона о посредовању у промету и закупу непокретности (у даљем тексту: Закон).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>*<ref id="ref10" href="/rs/act/2018/88/srp@">Службени гласник РС, број 88/2018</ref></p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>Образац захтева за упис у Регистар</heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Образац захтева за упис у Регистар садржи следеће податке:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> пословно име и адресу седишта и огранка, број телефона, електронску адресу и адресу Интернет странице (ако постоји) подносиоца;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> име и презиме, адресу и ЈМБГ      предузетника, односно пословође;</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>2а) име и презиме, адресу и ЈМБГ      (за странце – број пасоша, државу издавања и лични број) члана      привредног друштва (оснивача, власника);</p>
+							<point id="clan4-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> матични број и ПИБ подносиоца;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> име и презиме, адресу и ЈМБГ лица са положеним стручним испитом и број уверења о положеном стручном испиту;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> потпис овлашћеног лица.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Образац захтева за упис у Регистар одштампан је уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav4">
+						<content>
+							<p>*<ref id="ref11" href="/rs/act/2018/88/srp@">Службени гласник РС, број 88/2018</ref></p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<heading>Упис у Регистар</heading>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Подносилац захтева за упис у Регистар уписује се у Регистар ако уз захтев на обрасцу из <ref>члана 4. овог</ref> правилника достави:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> изјаву подносиоца да је одређено лице које има положен стручни испит запослено или ангажовано ван радног односа код подносиоца, или да је одређено лице које има положен стручни испит оснивач или члан привредног друштва (у даљем тексту: члан друштва) које је подносилац, односно предузетник који је подносилац;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> примерак уговора о осигурању од одговорности за штету у складу са чланом 13. Закона;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> пуномоћје, ако се захтев подноси преко пуномоћника.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Уз изјаву из става 1. тачка 1) овог члана, прилаже се изјава лица из те тачке, која садржи ЈМБГ и оверен потпис тог лица, којом потврђује да је запослено или ангажовано ван радног односа код подносиоца захтева, односно да је члан друштва.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>Ако се изјава из става 1. тачка 1) овог члана односи на подносиоца изјаве као лице са положеним стручним испитом, уз њу се не прилаже изјава из става 2. овог члана.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>Докази из става 3. овог члана подносе се у оригиналу или овереној фотокопији, чине саставни део Регистра и чувају се трајно, у складу са законом.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav5">
+						<content>
+							<p>Доказе о томе да члан привредног      друштва (оснивач, власник), односно предузетник, заступник      привредног друштва, односно пословођа, ако је предузетник      поверио послове пословођења пословно способном физичком лицу,      као и физичка лица са положеним стручним испитом нису осуђивана      за кривична дела против привреде, кривично дело примања мита,      кривично дело давања мита, кривично дело преваре, кривична дела      тероризма и кривична дела организованог криминала, министарство      надлежно за послове трговине прибавља по службеној дужности,      осим ако странка изричито изјави да ће те доказе прибавити сама.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav6">
+						<content>
+							<p>*<ref id="ref12" href="/rs/act/2018/88/srp@">Службени гласник РС, број 88/2018</ref></p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<heading>Промена података у Регистру</heading>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Промена података у Регистру врши се на основу одговарајућих доказа из <ref>члана 5. став 1. овог</ref> правилника, у складу са Законом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<heading>Брисање из Регистра</heading>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Посредник се брише из Регистра из      разлога прописаних чланом 10. став 1. Закона.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Посредник подноси захтев за брисање из      Регистра на обрасцу из <ref>члана 4. овог</ref> правилника, у коме се      попуњавају само рубрике са подацима о привредном друштву или      предузетнику.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>*<ref id="ref13" href="/rs/act/2018/88/srp@">Службени гласник РС, број 88/2018</ref></p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<heading>Образац извода из регистра</heading>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Образац извода из Регистра садржи:</p>
+							<point id="clan8-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив министарства надлежног за послове трговине;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> правни основ;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> редни број и датум уписа у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> број и датум решења о упису у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> пословно име, адресу седишта и огранка, ПИБ, матични број, број телефона, електронску адресу и адресу Интернет странице (ако постоји) посредника;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> податке о лицима која обављају      послове посредовања са положеним стручним испитом;</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>6а) податке о члану привредног друштва      (оснивачу, власнику) односно предузетнику, заступнику привредног      друштва и пословођи, ако је предузетник поверио послове      пословођења пословно способном физичком лицу;</p>
+							<point id="clan8-stav2-tac7">
+								<num>7)</num>
+								<content>
+									<p> податке о изреченим заштитним мерама из <ref>члана 32. став 2. </ref>и <ref>члана 33. став 4. </ref>Закона;</p>
+								</content>
+							</point>
+							<point id="clan8-stav2-tac8">
+								<num>8)</num>
+								<content>
+									<p> потпис овлашћеног лица и службени печат.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>Извод из Регистра издаје се на захтев.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav4">
+						<content>
+							<p>Образац извода из Регистра одштампан је уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav5">
+						<content>
+							<p>*<ref id="ref14" href="/rs/act/2018/88/srp@">Службени гласник РС, број 88/2018</ref></p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<heading>Ступање на снагу</heading>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Број 011-00-20/2014-04</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav3">
+						<content>
+							<p>У Београду, 17. јула 2014. године</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav5">
+						<content>
+							<p>Расим Љајић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav6">
+						<content>
+							<p>Прилози</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav7">
+						<content>
+							<p>НАПОМЕНА ИЗДАВАЧА: Правилником о изменама и допунама Правилника о Регистру посредника у промету и закупу непокретности (&quot;<ref id="ref15" href="/rs/act/2018/88/srp@">Службени гласник РС&quot;, број 88/2018</ref>) Обрасци ЗУРП и ИРП замењени су новим обрасцима (види <ref>члан 6. </ref>Правилника - 88/2018-8)</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav8">
+						<content>
+							<p>Образац ЗУРП - Захтев за упис у      Регистар посредника у промету и закупу непокретности</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,731 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2010/41-87/main"/>
+					<FRBRuri value="/rs/act/2010/41-87"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2010/41-87/srp@/main"/>
+					<FRBRuri value="/rs/act/2010/41-87/srp@"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2010/41-87/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2010/41-87/srp@.akn"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2010-6-15" name="“службени гласник рс" number="41" showAs="“Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="10. Култура" value="10. култура"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2010-06-01" id="usvajanje"/>
+				<step date="2010-06-23" id="stupanje_na_snagu"/>
+				<step date="2015-06-23" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>/* Style Definitions */ table.MsoNormalTable {mso-style-name:&quot;Table Normal&quot;; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-qformat:yes; mso-style-parent:&quot;&quot;; mso-padding-alt:0cm 0.45rem 0cm 0.45rem; mso-para-margin-top:0cm; mso-para-margin-right:0cm; mso-para-margin-bottom:0.833333333333333rem; mso-para-margin-left:0cm; line-height:115%; mso-pagination:widow-orphan; font-size:0.916666666666667rem; font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:&quot;Times New Roman&quot;; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin;} .auto-style1 {  text-indent: 2.40000060000015rem;  line-height: 1.05000026250007rem;  margin-top: 0.750000187500047rem;  margin-bottom: 0.750000187500047rem; }</p>
+			<p>На основу <ref>члана 63. став 3. </ref>Закона о култури („<ref id="ref2" href="/rs/act/09/72/srp@">Службени гласник РС”, брoj 72/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар културе доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о садржини и начину вођења евиденције лица која  самостално обављају уметничку или другу делатност  у области културе</title>
+			<date>“Службени гласник РС”, брoj 41 од 15. јуна 2010.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником утврђује се садржина и начин вођења евиденције лица која самостално обављају уметничку или другу делатност у области културе (у даљем тексту: Евиденција).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Евиденцију, у складу са Законом о култури, за сваку културну делатност, води одговарајуће репрезентативно удружење у култури (у даљем тексту: Удружење).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Евиденција се води на Обрасцу 1 у облику укоричене и прошивене књиге са означеним страницама, овереним од стране надлежног репрезентативног удружења, и на чијим корицама је назначен назив Евиденције као и назив и седиште Удружења.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Oбразац из става 1. овог члана oдштампан је уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Евиденција се води и у електронској форми.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>У Евиденцију се уписују:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> редни број уписа;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> презиме (име једног родитеља) и име лица које самостално обавља уметничку или другу делатност у области културе;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> датум и место рођења, општина, држављанство;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> пребивалиште, адреса и број телефона;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> делатност лица које самостално обавља уметничку или другу делатност у области културе;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> датум почетка самосталног обављања делатности и број акта о утврђивању статуса лица које самостално обавља уметничку или другу делатност у области културе;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> датум престанка обављања делатности;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> подаци о испуњености услова прописаних Законом о култури, за стицање статуса лица које самостално обавља уметничку или другу делатност у области културе;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> промена података;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> датум уписа;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> напомена.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Сваки упис, односно исправку у Евиденцији потписује овлашћено лице у Удружењу којe је извршило упис у Евиденцију.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>У Евиденцију се, у складу са чланом 65. Закона о култури, уписују и промене података у вези са условима за упис у Евиденцију, у року од 15 дана од дана настанка промене.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Погрешан упис у Евиденцију исправља се његовим прецртавањем дијагоналном линијом, тако да се погрешан упис може прочитати.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Изнад погрешног уписа врши се правилан упис.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Лице које је стекло статус лица које самостално обавља уметничку или другу делатност у области културе брише се из Евиденције на лични захтев.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Лице које је стекло статус лица које самостално обавља уметничку или другу делатност у области културе брише се из евиденције по службеној дужности кад Удружење решењем утврди да то лице више не испуњава услове прописане Законом о култури за стицање статуса лица која самостално обављају уметничку или другу делатност у области културе.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>Брисање из Евиденције врши се прецртавањем дијагоналном линијом преко свих рубрика, осим рубрике „напомене”, у коју се уписује да је извршено брисање из Евиденције, број и датум акта на основу кога је извршено брисање.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Лицима која самостално обављају уметничку или другу делатност у области културе Удружење издаје уверења о чињеницама уписаним у Евиденцију, сагласно подацима из Евиденције.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Уверење из става 1. овог члана издаје се на Обрасцу 2 који je одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Број 110-00-16/2010-18</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>У Београду, 1. јуна 2010. године</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav5">
+						<content>
+							<p>Небојша Брадић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav6">
+						<content>
+							<p>Образац 1</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav7">
+						<content>
+							<p>Редни број уписа_________</p>
+						</content>
+					</clause>
+					<став id="clan10-stav8">
+						<table border="1" cellpadding="0" class="MsoNormalTable" style="border: 0.0833333333333333rem solid windowtext;">
+							
+    
+							<tbody>
+								
+        
+								<tr style="">
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;">
+										
+            
+										<p>1.</p>
+										
+            
+									</td>
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem; width: 32.7166666666667rem;" width="523">
+										
+            
+										<p>Презиме (име једног родитеља) и име лица које 
+            самостално обавља уметничку или другу делатност 
+            у области културе</p>
+										
+            
+									</td>
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem; width: 3.57916666666667rem;" width="57">
+										
+            
+										<p/>
+										
+            
+									</td>
+									
+        
+								</tr>
+								
+        
+								<tr style="">
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;">
+										
+            
+										<p>2.</p>
+										
+            
+									</td>
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem; width: 32.7166666666667rem;" width="523">
+										
+            
+										<p>Датум и место рођења, општина, држављанство</p>
+										
+            
+									</td>
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem; width: 3.57916666666667rem;" width="57">
+										
+            
+										<p/>
+										
+            
+									</td>
+									
+        
+								</tr>
+								
+        
+								<tr style="">
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;">
+										
+            
+										<p>3.</p>
+										
+            
+									</td>
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem; width: 32.7166666666667rem;" width="523">
+										
+            
+										<p>Пребивалиште,</p>
+										
+            
+										<p>адреса и број телефона</p>
+										
+            
+									</td>
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem; width: 3.57916666666667rem;" width="57">
+										
+            
+										<p/>
+										
+            
+									</td>
+									
+        
+								</tr>
+								
+        
+								<tr style="">
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;">
+										
+            
+										<p>4.</p>
+										
+            
+									</td>
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem; width: 32.7166666666667rem;" width="523">
+										
+            
+										<p>Делатност лица које самостално обавља уметничку или   другу делатност у области културе</p>
+										
+            
+									</td>
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem; width: 3.57916666666667rem;" width="57">
+										
+            
+										<p/>
+										
+            
+									</td>
+									
+        
+								</tr>
+								
+        
+								<tr style="">
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;">
+										
+            
+										<p>5.</p>
+										
+            
+									</td>
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem; width: 32.7166666666667rem;" width="523">
+										
+            
+										<p>Датум почетка самосталног обављања делатности и број   акта о утврђивању статуса лица које самостално обавља уметничку или другу   делатност у области културе </p>
+										
+            
+									</td>
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem; width: 3.57916666666667rem;" width="57">
+										
+            
+										<p/>
+										
+            
+									</td>
+									
+        
+								</tr>
+								
+        
+								<tr style="">
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;">
+										
+            
+										<p>6.</p>
+										
+            
+									</td>
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem; width: 32.7166666666667rem;" width="523">
+										
+            
+										<p>Датум престанка обављања делатности</p>
+										
+            
+									</td>
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem; width: 3.57916666666667rem;" width="57">
+										
+            
+										<p/>
+										
+            
+									</td>
+									
+        
+								</tr>
+								
+        
+								<tr style="">
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;">
+										
+            
+										<p>7.</p>
+										
+            
+									</td>
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem; width: 32.7166666666667rem;" width="523">
+										
+            
+										<p>Подаци о испуњености услова, прописаних Законом о   култури за стицање статуса лица које самостално обавља уметничку или другу   делатност у области културе</p>
+										
+            
+									</td>
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem; width: 3.57916666666667rem;" width="57">
+										
+            
+										<p/>
+										
+            
+									</td>
+									
+        
+								</tr>
+								
+        
+								<tr style="">
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;">
+										
+            
+										<p>8.</p>
+										
+            
+									</td>
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem; width: 32.7166666666667rem;" width="523">
+										
+            
+										<p>Промена података</p>
+										
+            
+									</td>
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem; width: 3.57916666666667rem;" width="57">
+										
+            
+										<p/>
+										
+            
+									</td>
+									
+        
+								</tr>
+								
+        
+								<tr style="">
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;">
+										
+            
+										<p>9.</p>
+										
+            
+									</td>
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem; width: 32.7166666666667rem;" width="523">
+										
+            
+										<p>Датум уписа</p>
+										
+            
+									</td>
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem; width: 3.57916666666667rem;" width="57">
+										
+            
+										<p/>
+										
+            
+									</td>
+									
+        
+								</tr>
+								
+        
+								<tr style="">
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;">
+										
+            
+										<p>10.</p>
+										
+            
+									</td>
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem; width: 32.7166666666667rem;" width="523">
+										
+            
+										<p>Напомена</p>
+										
+            
+									</td>
+									
+            
+									<td style="border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem; width: 3.57916666666667rem;" width="57">
+										
+            
+										<p/>
+										
+            
+									</td>
+									
+        
+								</tr>
+								
+    
+							</tbody>
+							
+
+						</table>
+						
+
+						<content/>
+					</став>
+					<clause id="clan10-stav9">
+						<content>
+							<p>Образац 2</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav10">
+						<content>
+							<p>_______________________________</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav11">
+						<content>
+							<p>(назив репрезентативног удружења у култури)</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav12">
+						<content>
+							<p>Број: _________________</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav13">
+						<content>
+							<p>Датум: _______________</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav14">
+						<content>
+							<p>Седиште: _____________</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav15">
+						<content>
+							<p>На основу <ref>члана 64. став 1. </ref>Закона о култури („<ref id="ref3" href="/rs/act/09/72/srp@">Службени гласник РС”, број 72/09</ref>) _______________________________________________________________________, издаје</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav16">
+						<content>
+							<p>(репрезентативно удружење у култури)</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav17">
+						<content>
+							<p>У В Е Р Е Њ Е</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav18">
+						<content>
+							<p>________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav19">
+						<content>
+							<p>(презиме, очево име и име лица које самостално обавља уметничку или другу  делатност у области културе)</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav20">
+						<content>
+							<p>________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav21">
+						<content>
+							<p>(пребивалиште и адреса)</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav22">
+						<content>
+							<p>уписан је у евиденцију лица која самостално обављају уметничку или другу делатност у области културе коју води _________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav23">
+						<content>
+							<p>(репрезентативно удружење у култури)</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav24">
+						<content>
+							<p>под редним бројем _________ у __________ години, као лице које самостално обавља __________________________.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav25">
+						<content>
+							<p>(делатност, односно послове)</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav26">
+						<content>
+							<p>________________________</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav27">
+						<content>
+							<p>(потпис овлашћеног лица)</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav28">
+						<content>
+							<p>М. П.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

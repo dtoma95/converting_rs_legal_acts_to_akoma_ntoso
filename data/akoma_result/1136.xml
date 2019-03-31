@@ -1,0 +1,710 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1997/14-3/main"/>
+					<FRBRuri value="/rs/act/1997/14-3"/>
+					<FRBRdate date="1997" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1997/14-3/srp@/main"/>
+					<FRBRuri value="/rs/act/1997/14-3/srp@"/>
+					<FRBRdate date="1997" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1997/14-3/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1997/14-3/srp@.akn"/>
+					<FRBRdate date="1997" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1997-5-16" name="службени лист срј" number="14" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="2. Јавне службе и јавне установе" value="2. јавне службе и јавне установе"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1997-03-27" id="usvajanje"/>
+				<step date="1997-04-01" id="stupanje_na_snagu"/>
+				<step date="1997-04-01" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу 1. априла 1997. године (види <ref>члан 28. </ref>Уредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу   <ref>члана 5. став 1. </ref>Закона о савезним јавним установама  (“<ref id="ref4" href="/rs/act/96/46/srp@">Службени лист СРЈ”, бр. 46/96</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Савезна влада доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о   Савезној  јавној установи   Југословенски  регистар бродова унутрашње пловидбе</title>
+			<date>„Службени лист СРЈ”, број 14 од 16.   маја  1997.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Оснива се Југословенски регистар бродова унутрашње пловидбе (у даљем тексту: Југорегистар) као савезна јавна установа за обављање стручних и техничких послова у области утврђивања способности бродова за пловидбу од значаја за остваривање надлежности Савезне Републике Југославије.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>Назив и седиште Југорегистра</heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Назив Југорегистра је: Савезна јавна установа Југословенски регистар бродова унутрашње пловидбе.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Седиште Југорегистра је у Београду.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>Делатност Југорегистра</heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Делатности од општег интереса које обавља Југорегистар су:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> утврђивање способности за пловидбу бродова трговачке морнарице Савезне Републике Југославије вршењем техничког надзора над грађењем или преправљањем, односно прегледом тих бродова у току пловидбе;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> утврђивање сигурности уређаја за укрцавање терета на брод и искрцавање са брода;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> баждарење бродова;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> издавање бродовима исправе за чије је издавање савезним законом овлашћен;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> утврђивање техничких услова за типове уређаја, машина, опреме и материјала који се уграђују на бродовима, односно који служе за одржавање способности бродова за пловидбу;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> праћење и проучавање узрока удеса бродова проузрокованих неисправностима или недостацима конструкције трупа машина, уређаја и опреме који служе за одржавање безбедности пловидбе.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Југорегистар може, у складу са својом делатношћу, пружати услуге и за потребе других домаћих и страних правних и физичких лица, ако тиме не доводи у питање потпуно и благовремено обављање делатности из <ref>члана 3. </ref>ове уредбе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<heading>Права, обавезе и одговорности између оснивача и Југорегистра</heading>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>За вршење делатности од општег интереса из <ref>члана 3. </ref>ове уредбе, Југорегистар утврђује годишњи програм вршења услуга за наредну годину, у складу са роковима утврђеним за доношење савезног буyета за ту годину.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>На програм из става 1. овог члана сагласност даје Савезна влада.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>На основу програма из става 1. овог члана, Југорегистар закључује уговор са Савезним министарством за саобраћај којим се утврђује обим послова који ће Југорегистар извршити, рокови за њихово извршавање и висина накнаде.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>Закљученим уговором накнада за обављање послова може се утврдити до висине обезбеђених средстава у савезном буyету за ту годину.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav5">
+						<content>
+							<p>За послове који се обављају дугорочно, закључује се оквирни уговор на основу програма који се за такве послове посебно утврђује и на који сагласност даје Савезна влада.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Савезна влада даје сагласност на: статут, годишњи програм и оквирне програме рада; статусне промене и повезивање; промену обављања делатности; инвестиционе одлуке у складу са статутом; годишњи финансијски план и престанак Југорегистра, као и у другим случајевима предвиђеним Законом о савезним јавним установама.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<heading>Органи Југорегистра и њихов делокруг</heading>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Органи Југорегистра су: савет, директор, надзорни одбор и стручни савет.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Савет има председника и пет чланова.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Савезна влада именује и разрешава председника и три члана савета, на предлог Савезног министарства за саобраћај.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>Два члана савета бирају се из реда запослених у Југорегистру, на начин утврђен статутом Југорегистра.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav4">
+						<content>
+							<p>У случају једнаке поделе гласова, глас председника је одлучујући, ако статутом није друкчије одређено.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav5">
+						<content>
+							<p>Мандат чланова савета траје пет година, уз могућност поновног избора.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Савет Југорегистра:</p>
+							<point id="clan9-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> доноси статут;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> утврђује пословну и развојну политику;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> усваја годишњи обрачун и периодичне обрачуне;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> доноси годишњи програм и оквирне програме рада;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> усваја годишњи извештај о пословању;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> доноси годишњи финансијски план;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> доноси инвестиционе одлуке;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> одлучује о распоређивању вишка прихода над расходима и покрићу губитака;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> одлучује о промени обављања делатности, као и промени седишта Југорегистра;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> одлучује о статусним променама и престанку Југорегистра;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> доноси акт о организацији и систематизацији радних места и друге опште акте утврђене статутом;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> одлучује о другим питањима утврђеним статутом.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Савет Југорегистра, уз сагласност Савезне владе, одлучује о:</p>
+							<point id="clan9-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> прибављању и отуђењу непокретности;</p>
+								</content>
+							</point>
+							<point id="clan9-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> давању у закуп непокретности које користи Југорегистар;</p>
+								</content>
+							</point>
+							<point id="clan9-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> висини тарифе за пружање услуга корисницима Југорегистра.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Савезна влада именује и разрешава директора Југорегистра, на предлог Савезног министарства за саобраћај.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>За директора Југорегистра може бити именовано лице које има високу школску спрему и искуство у обављању руководећих послова и задатака у области саобраћаја.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Директор Југорегистра:</p>
+							<point id="clan11-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> заступа Југорегистар;</p>
+								</content>
+							</point>
+							<point id="clan11-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> организује рад у Југорегистру и руководи тим радом;</p>
+								</content>
+							</point>
+							<point id="clan11-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> извршава одлуке савета и предузима мере за њихово спровођење;</p>
+								</content>
+							</point>
+							<point id="clan11-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> стара се о законитости рада и одговара за законитост рада Југорегистра и коришћење и располагање имовином Југорегистра;</p>
+								</content>
+							</point>
+							<point id="clan11-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> врши и друге послове утврђене статутом.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Мандат директора траје пет година, уз могућност поновног избора.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Надзорни одбор има председника и два члана.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav2">
+						<content>
+							<p>Савезна влада именује и разрешава председника и једног члана надзорног одбора, на предлог Савезног министарства за саобраћај.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav3">
+						<content>
+							<p>Један члан надзорног одбора бира се из реда запослених у Југорегистру, на начин утврђен статутом Југорегистра.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav4">
+						<content>
+							<p>Мандат чланова надзорног одбора траје пет година, уз могућност поновног избора.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Надзорни одбор врши надзор над законитошћу рада савета и директора; прегледа извештаје о пословању, билансима и пословној политици Југорегистра; контролише остваривање општег интереса и обавља друге послове утврђене статутом.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav2">
+						<content>
+							<p>Надзорни одбор, најмање једанпут годишње, обавештава савет Југорегистра и Савезну владу о резултатима извршеног надзора.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan14">
+				<num>14.</num>
+				<content>
+					<clause id="clan14-stav1">
+						<content>
+							<p>Стручни савет је стручни орган Југорегистра.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav2">
+						<content>
+							<p>Стручни савет Југорегистра:</p>
+							<point id="clan14-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> даје органима Југорегистра предлоге и мишљења о стручним питањима из њиховог делокруга;</p>
+								</content>
+							</point>
+							<point id="clan14-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> обавља и друге послове утврђене статутом Југорегистра.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan14-stav3">
+						<content>
+							<p>Број чланова стручног савета утврђује се статутом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan15">
+				<num>15.</num>
+				<heading>Заступање Југорегистра</heading>
+				<content>
+					<clause id="clan15-stav1">
+						<content>
+							<p>Поред директора Југорегистар могу заступати и друга лица утврђена статутом Југорегистра.</p>
+						</content>
+					</clause>
+					<clause id="clan15-stav2">
+						<content>
+							<p>Статутом Југорегистра може се ограничити овлашћење заступника на закључивање одређених уговора или на вршење других правних радњи, а може се одредити да заступник закључује уговоре и врши друге правне радње само уз сагласност директора Југорегистра.</p>
+						</content>
+					</clause>
+					<clause id="clan15-stav3">
+						<content>
+							<p>Заступник Југорегистра, у односу на Југорегистар који заступа дужан је да се придржава овлашћења одређених статутом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan16">
+				<num>16.</num>
+				<heading>Имовина и начин финансирања обављања делатности Југорегистра</heading>
+				<content>
+					<clause id="clan16-stav1">
+						<content>
+							<p>Имовину Југорегистра чине право својине на непокретним и покретним стварима, новчана средства, хартије од вредности и друга имовинска права (у даљем тексту: средства), која Југорегистар користи, њима управља и располаже.</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav2">
+						<content>
+							<p>Средства из става 1. овог члана су у државној својини.</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav3">
+						<content>
+							<p>О прибављању, коришћењу и располагању средствима из става 1. овог члана одлучује орган Југорегистра одређен статутом.</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav4">
+						<content>
+							<p>Југорегистар, у обављању делатности, користи, управља и располаже средствима, под условима и на начин утврђен савезним законом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan17">
+				<num>17.</num>
+				<content>
+					<clause id="clan17-stav1">
+						<content>
+							<p>Средства за финансирање обављања делатности Југорегистра обезбеђују се:</p>
+							<point id="clan17-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> из прихода које оствари обављањем делатности од општег интереса на основу уговора закљученог са Савезним министарством за саобраћај;</p>
+								</content>
+							</point>
+							<point id="clan17-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> из прихода које оствари пружањем услуга другим корисницима, у складу са тарифом за пружање услуга корисницима;</p>
+								</content>
+							</point>
+							<point id="clan17-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> из поклона и других прихода које оствари, у складу са законом.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan18">
+				<num>18.</num>
+				<content>
+					<clause id="clan18-stav1">
+						<content>
+							<p>Цена услуга које Југорегистар пружа другим корисницима утврђује се уговором између Југорегистра и тих корисника, у складу са тарифом за пружање услуга корисницима.</p>
+						</content>
+					</clause>
+					<clause id="clan18-stav2">
+						<content>
+							<p>Цена услуга које нису предвиђене тарифом из става 1. овог члана утврђује се уговором између Југорегистра и корисника.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan19">
+				<num>19.</num>
+				<content>
+					<clause id="clan19-stav1">
+						<content>
+							<p>Изузетно, поред имовине у државној својини, Југорегистар у обављању своје делатности може користити покретне ствари, односно друга средства која му дају на коришћење међународни органи, организације и институције.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan20">
+				<num>20.</num>
+				<heading>Начин остваривања стручног и управног надзора над обављањем делатности Југорегистра</heading>
+				<content>
+					<clause id="clan20-stav1">
+						<content>
+							<p>Надзор над обављањем делатности Југорегистра у складу с правилима одговарајуће струке (стручни надзор), спроводи стручни савет Југорегистра.</p>
+						</content>
+					</clause>
+					<clause id="clan20-stav2">
+						<content>
+							<p>Вршење надзора из става 1. овог члана утврђују се статутом, односно другим општим актом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan21">
+				<num>21.</num>
+				<content>
+					<clause id="clan21-stav1">
+						<content>
+							<p>Савезно министарство за саобраћај врши надзор у погледу обављања делатности Југорегистра које су од општег интереса и у вршењу тог надзора предузима мере за које је овлашћен савезним законом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan22">
+				<num>22.</num>
+				<heading>Облик одговорности Југорегистра за обавезе у правном промету</heading>
+				<content>
+					<clause id="clan22-stav1">
+						<content>
+							<p>Југорегистар одговара за своје обавезе целокупном имовином којом располаже.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan23">
+				<num>23.</num>
+				<heading>Прелазне и завршне одредбе</heading>
+				<content>
+					<clause id="clan23-stav1">
+						<content>
+							<p>Досадашњи Југословенски регистар бродова унутрашње пловидбе наставља са радом као савезна јавна установа са свим правима, обавезама и одговорностима утврђеним овом уредбом.</p>
+						</content>
+					</clause>
+					<clause id="clan23-stav2">
+						<content>
+							<p>Даном почетка рада Југорегистар преузима средства, права и обавезе и запослене досадашњег Југословенског регистра бродова унутрашње пловидбе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan24">
+				<num>24.</num>
+				<content>
+					<clause id="clan24-stav1">
+						<content>
+							<p>До именовања председника и чланова савета и председника и чланова надзорног одбора Југорегистра, послове из њиховог делокруга обављаће досадашњи савет Југословенског регистра бродова унутрашње пловидбе.</p>
+						</content>
+					</clause>
+					<clause id="clan24-stav2">
+						<content>
+							<p>До именовања директора Југорегистра послове директора обављаће досадашњи директор Југословенског регистра бродова унутрашње пловидбе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan25">
+				<num>25.</num>
+				<content>
+					<clause id="clan25-stav1">
+						<content>
+							<p>Председника и чланове савета, директора и председника и чланове надзорног одбора Југорегистра именоваће Савезна влада у року од 30 дана од дана ступања на снагу ове уредбе, осим чланова савета и надзорног одбора који се бирају из реда запослених.</p>
+						</content>
+					</clause>
+					<clause id="clan25-stav2">
+						<content>
+							<p>Досадашњи савет Југословенског регистра бродова унутрашње пловидбе изабраће чланове савета и надзорног одбора из реда запослених у року из става 1. овог члана.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan26">
+				<num>26.</num>
+				<content>
+					<clause id="clan26-stav1">
+						<content>
+							<p>Савет Југорегистра је дужан да у року од 30 дана од дана именовања донесе статут и акт о организацији и систематизацији радних места Југорегистра.</p>
+						</content>
+					</clause>
+					<clause id="clan26-stav2">
+						<content>
+							<p>Стручни савет Југорегистра образоваће се у року од 30 дана од дана ступања на снагу статута.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan27">
+				<num>27.</num>
+				<content>
+					<clause id="clan27-stav1">
+						<content>
+							<p>Даном ступања на снагу ове уредбе престаје да важи Одлука о вршењу послова Југословенског регистра бродова на територији Савезне Републике Југославије („<ref id="ref5" href="/rs/act/92/7/srp@">Службени лист СРЈ”, бр. 7/92</ref>).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan28">
+				<num>28.</num>
+				<content>
+					<clause id="clan28-stav1">
+						<content>
+							<p>Ова уредба ступа на снагу 1. априла 1997. године.</p>
+						</content>
+					</clause>
+					<clause id="clan28-stav2">
+						<content>
+							<p>Савезна влада</p>
+						</content>
+					</clause>
+					<clause id="clan28-stav3">
+						<content>
+							<p>Е. п. бр. 97,</p>
+							<тачка id="clan28-stav3-tac27">
+								<num>27.</num>
+								<content>
+									<p> марта 1997. године</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="clan28-stav4">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="clan28-stav5">
+						<content>
+							<p>Председник</p>
+						</content>
+					</clause>
+					<clause id="clan28-stav6">
+						<content>
+							<p>др  Радоје Контић,   с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

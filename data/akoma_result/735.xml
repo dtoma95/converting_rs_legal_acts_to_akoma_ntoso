@@ -1,0 +1,440 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2013/31-74/main"/>
+					<FRBRuri value="/rs/act/2013/31-74"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2013/31-74/srp@/main"/>
+					<FRBRuri value="/rs/act/2013/31-74/srp@"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2013/31-74/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2013/31-74/srp@.akn"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2013-4-5" name="службени гласник рс" number="31" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="3. Семе и садни материјал" value="3. семе и садни материјал"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2013-04-01" id="usvajanje"/>
+				<step date="2013-04-13" id="stupanje_na_snagu"/>
+				<step date="2013-04-13" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 5. став 2. </ref>Закона о признавању сорти пољопривредног биља („<ref id="ref1" href="/rs/act/10/30/srp@">Службени гласник РС”, број 30/10</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, шумарства и водопривреде доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о методама испитивања сорте шећерне репе   (Beta vulgaris ssp. altissima var. sacharifera Alef.)   ради признавања сорте</title>
+			<date>&quot;Службени гласник РС&quot;, број 31 од 5. априла 2013.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се методе испитивања сорте шећерне репе   Beta vulgaris ssp. altissima var. sacharifera Alef.   (у даљем тексту: сорта) на огледном пољу и у лабораторији, ради признавања сорте.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Методама из става 1. овог члана испитују се одређене битне особине сорте, ради утврђивања:</p>
+							<point id="clan1-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> боље производне и употребне вредности сорте (VCU тест);</p>
+								</content>
+							</point>
+							<point id="clan1-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> различитости, униформности и стабилности сорте (DUS тест).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Производна и употребна вредност сорте утврђује се на основу резултата испитивања одређених битних особина сорте које се односе на:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> принос корена (изражен у t/ha);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> садржај шећера (изражен у процентима);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> принос кристалног шећера (изражен у t/ha);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> отпорност или толерантност на болести.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Сорта има бољу производну и употребну вредност ако у току испитивања одређених битних особина из става 1. овог члана покаже боље резултате у поређењу са тим особинама сорте стандард.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Испитивање сорте на огледном пољу траје две године.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Испитивање производне и употребне вредности сорте врши се на огледном пољу, на најмање три локалитета.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>За сорту за коју је у захтеву за признавање наведено да је толерантна на ризоктонију (Rhizoctoniа solani), врши се испитивање на најмање једном локалитету где је лабораторијским методама утврђено присуство ризоктоније.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>За сорту за коју је у захтеву за признавање наведено да је толерантна или отпорна на нематоде (Heterodera schachtii), врши се испитивање на најмање једном локалитету где је утврђено присуство нематода.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Сорта се испитује на огледном пољу које је постављено на земљишту које мора бити добрих производних особина и припремљено одговарајућим агротехничким мерама.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Предусев на огледном пољу мора бити одговарајући усев за сетву шећерне репе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>На огледном пољу, оглед се изводи по плану „потпуно случајног блок система” у четири понављања.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Оглед се поставља на следећи начин, у зависности од техничких могућности механизације:</p>
+							<point id="clan6-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> дужина парцеле – 10 m;</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> ширина парцеле – 1,8 m (2,0 m);</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> површина парцеле – 18 m2, (20 m2);</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> број редова биљака – четири;</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> број редова биљака за обрачун на парцели – два реда у средини;</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac6">
+								<num>6)</num>
+								<content>
+									<p> број биљака у реду – 50;</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac7">
+								<num>7)</num>
+								<content>
+									<p> број биљака за обрачун на парцели – 100;</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac8">
+								<num>8)</num>
+								<content>
+									<p> растојање између редова биљака – 45 cm (50 cm);</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac9">
+								<num>9)</num>
+								<content>
+									<p> растојање између биљака у реду – 20 cm;</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac10">
+								<num>10)</num>
+								<content>
+									<p> обрачунску парцелу чине два реда у средини – ширине 9 m² (10 m²);</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac11">
+								<num>11)</num>
+								<content>
+									<p> број биљака по хектару – 111.111 биљака (100.000 биљака);</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac12">
+								<num>12)</num>
+								<content>
+									<p> растојање између блокова – 100 cm.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>Оглед се поставља на локалитету у оптималном агротехничком року.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav4">
+						<content>
+							<p>Сетва испитиване сорте и сорте стандард се обавља истог дана на једном локалитету.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Количина ђубрива, време и начин његове примене, као и одговарајуће мере неге приликом испитивања сорте одређују се, у зависности од специфичних услова локалитета (предусев, тип земљишта, подаци о анализи хранљивих материја у земљишту, временске прилике, потребе биљака и сл.), у складу са добром пољопривредном праксом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>У периоду гајења сорте на огледном пољу евидентирају се следећи подаци:</p>
+							<point id="clan8-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> датум сетве;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> датум ницања;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> датум вађења корена;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> број прораслица;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> присуство оштећења од Cercospora beticola (оцењује се оценом од 1 до 5).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Вађење корена шећерне репе врши се од 1. до 20. октобра у години испитивања.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Мерење приноса обавља се на следећи начин:</p>
+							<point id="clan9-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> по одсецању глава са листом, узимају се сви коренови са обрачунске парцеле и мере;</p>
+								</content>
+							</point>
+							<point id="clan9-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> евидентира се укупна маса коренова у kg, са сваке обрачунске парцеле из четири понављања;</p>
+								</content>
+							</point>
+							<point id="clan9-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> евидентира се број успелих биљака.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan9-stav3">
+						<content>
+							<p>Уколико се приликом евиденције броја биљака из става 2. тачка 3) овог члана установи да у три и више понављања недостаје више од 20% биљака за оглед са међуредним размаком од 50 cm, односно 30% биљака за оглед са међуредним размаком од 45 cm, сорта се искључује из огледа.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>У лабораторији се испитује садржај шећера и обрачунава се принос кристалног шећера.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>За испитивање сорте у лабораторији припрема се просечан узорак из сваког понављања са сваког локалитета.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>Узорци из става 2. овог члана се припремају тако што се из сваког понављања узима 25 коренова редом. Узорак се означава истом шифрованом ознаком као и сорта на огледном пољу, у складу са законом којим се уређује признавање сорти пољопривредног биља.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav4">
+						<content>
+							<p>Врећа са узорком се обележава са две етикете заштићене пластичном фолијом, тако да се једна етикета ставља у врећу, а друга везује са спољне стране вреће.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav5">
+						<content>
+							<p>Узорци коренова се достављају лабораторији која обавља хемијско-технолошке анализе истог дана након вађења, а најкасније наредног дана након вађења.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Обрада једногодишњих и двогодишњих података о резултатима приноса корена и садржаја шећера врши се израчунавањем анализе варијансе по плану „потпуно случајног блок система”, а оцена значајности се изражава на основу LSD теста или Dunnet – овог теста за поређење средина третмана са стандардом на нивоу значајности p=0,05 и p=0,01.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Поред оцене значајности из става 2. овог члана, за принос корена и садржај шећера израчунава се и коефицијент варијације (Cv) огледа.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav3">
+						<content>
+							<p>За обрачун укупног приноса користе се подаци укупног приноса корена са обрачунске парцеле по понављањима.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Испитивање различитости, униформности и стабилности (DUS тест) сорте спроводи се у складу са методом одређеном техничким упутством за тестирање различитости, униформности и стабилности сорте.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav2">
+						<content>
+							<p>Број 110-00-38/2013-09</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav3">
+						<content>
+							<p>У Београду, 1. априла 2013. године</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav5">
+						<content>
+							<p>Горан Кнежевић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,663 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2016/4-88/main"/>
+					<FRBRuri value="/rs/act/2016/4-88"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2016/4-88/srp@/main"/>
+					<FRBRuri value="/rs/act/2016/4-88/srp@"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2016/4-88/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2016/4-88/srp@.akn"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2016-1-22" name="службени гласник рс" number="4" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XI ТРГОВИНА, ТУРИЗАМ И УГОСТИТЕЉСТВО" value="xi трговина, туризам и угоститељство"/>
+				<keyword id="grupa" showAs="2. Туризам и угоститељство" value="2. туризам и угоститељство"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2016-01-14" id="usvajanje"/>
+				<step date="2016-01-25" id="stupanje_na_snagu"/>
+				<step date="2016-01-25" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник је ступио на снагу 25. jануара 2016. године (види <ref>члан 17. </ref>Правилника).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 45. став 6. </ref>Закона о туризму („<ref id="ref2" href="/rs/act/09/36/srp@">Службени гласник РС”, бр. 36/09, 88/10, 99/11</ref> – др. закон, 93/12 и 84/15),</p>
+		</preamble>
+		<preface>
+			<authority>Министар трговине, туризма и телекомуникација доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о облику, садржини и начину вођења евиденције уговора закључених са трећим лицима којима је поверено извршење услуга из програма путовања и продатих туристичких путовања</title>
+			<date>&quot;Службени гласник РС&quot;, број 4 од 22. јануара      2016.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се облик, садржина и начин вођења евиденције уговора које туристичка агенција закључује са трећим лицима којима је поверено извршење услуга из програма путовања и продатих туристичких путовања.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Поједини изрази употребљени у овом правилнику имају следеће значење:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> евиденција је евиденција уговора и евиденција продатих туристичких путовања;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> евиденција уговора је скуп података о евидентираним уговорима које туристичка агенција закључује са трећим лицима којима је поверено извршење услуга из програма путовања;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> евиденција продатих туристичких путовања је скуп података о евидентираним продатим туристичким путовањима у коју организатор уписује и издате гаранције путовања;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> место вођења евиденције је седиште или други пословни простор туристичке агенције у коме се води евиденција;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> организатор је туристичка агенција организатор туристичког путовања;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> пословни простор је место пословања у коме туристичка агенција непосредно нуди на продају и продаје туристичка путовања;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> посредник је туристичка агенција посредник у продаји туристичких путовања;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> туристичка агенција је туристичка агенција организатор туристичког путовања и туристичка агенција посредник у продаји туристичких путовања.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Туристичка агенција води евиденцију уговора на Обрасцу 1, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Туристичка агенција води евиденцију продатих туристичких путовања на Обрасцу 2, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Организатор за продата туристичка путовања води евиденцију података о издатим гаранцијама путовања на Обрасцу 2а, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>Туристичка агенција води евиденцију из ст. 1. и 2. овог члана и за организовање и продају излета.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Евиденција се води својеручно или електронски.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>У случају да се евиденција води својеручно евиденција се уписује у посебну Књигу евиденције уговора и Књигу евиденције продатих туристичких путовања.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Одговорно лице одлучује о начину вођења евиденције из става 1. овог члана.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Место вођења евиденције је седиште туристичке агенције.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Изузетно у случају да туристичка агенција у свом седишту не обавља делатност евиденција се може водити у другом пословном простору.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>У случају да туристичка агенција има више пословних простора одговорно лице одлучује који пословни простор је место вођења евиденције.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>Подаци за евиденцију продатих туристичких путовања, са подацима о путницима, се из пословних простора на крају радног дана достављају електронским путем у место вођења евиденције, ради њиховог обједињавања.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav5">
+						<content>
+							<p>Посредник на крају радног дана електронским путем достављa организатору, у место вођења евиденције, податке који се уносе у евиденцију продатих туристичких путовања, са подацима о путницима.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav6">
+						<content>
+							<p>Ако се евиденција води својеручно, у случају из ст. 4. и 5. овог члана, попуњен образац се скенира и доставља електронским путем у место вођења евиденције ради њиховог обједињавања.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav7">
+						<content>
+							<p>Електронска достава података за евиденцију продатих туристичких путовања, са бројем путника, у случају из ст. 4. и 5. овог члана, потврђује се од стране примаоца, након чега је пошиљалац, са потврдом пријема, штампа и одлаже у посебан регистар.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav8">
+						<content>
+							<p>Потврда пријема из става 7. овог члана, садржи потврду броја продатих туристичких путовања и броја путника.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Организатор уписује у евиденцију уговора податке из уговора закључених са трећим лицима којима је поверено извршење услуга превоза, смештаја, услуга туристичких професија (услуге туристичких водича, локалних туристичких водича туристичких пратиоца, представника на туристичкој дестинацији и аниматора), других услуга из програма путовања, уговоре у вези са пословима организације и продаје излета, као и уговоре о посредовању у продаји туристичког путовања са посредницима којима је поверена продаја и посредовање у продаји туристичких путовања.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Организатор уписује у евиденцију уговора и податак о закљученом уговору са даваоцем гаранције путовања.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>Посредник уписује у евиденцију уговора податке из уговора о посредовању у продаји туристичког путовања закључених са организатором путовања, као и податке из других уговора у вези са пословима организације и продаје излета.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav4">
+						<content>
+							<p>Податке из уговора туристичка агенција уписује у евиденцију уговора најкасније наредног радног дана после потписивања уговора.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Евиденција уговора садржи следеће податке, и то:</p>
+							<point id="clan7-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> редни број;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> податке о правном или физичком лицу са којим је закључен уговор;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> седиште или адреса лица са којим је закључен уговор;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> број уговора;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> датум закључења;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> предмет уговора;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> период пружања услуга;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> рок важења уговора;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> напомену.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Туристичка агенција дневно уписује податке у евиденцију продатих туристичких путовања.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Уколико у дану није било продатих туристичких путовања, у евиденцију туристичких путовања уписују се подаци наредног дана у коме је продато прво туристичко путовање.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Евиденција продатих туристичких путовања садржи следеће податке, и то:</p>
+							<point id="clan9-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> редни број;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> име и презиме путника/носиоца уговора;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> број потврде о путовању;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> датум издавања потврде о путовању;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> број издате гаранције путовања;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> датум издавања гаранције путовања;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> број фискалног исечка/фактуре;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> датумом издавања фискалног исечка/фактуре;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> укупно уплаћен износ у динарима;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> број путника;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> организатор путовања/број лиценце;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> назив и својство субјекта продаје;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> место /адреса продаје;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac14">
+								<num>14)</num>
+								<content>
+									<p> напомену.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Евиденција продатих туристичких путовања садржи следеће податке о издатим гаранцијама путовања, и то:</p>
+							<point id="clan10-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> редни број;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> број гаранције путовања;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> датум издавања гаранције путовања;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> име и презиме путника;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> адресу путника;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> контакт телефон, е-маил адресу путника и др.;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> број потврде о путовању;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> датум издавања потврде о путовању;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> место поласка;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> датум и време почетка и завршетка путовања;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> одредиште (земља, место);</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> периоде боравка са датумима ако је боравак у деловима;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> напомену.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Редни број из евиденције продатих туристичких путовања уписује се својеручно на издату потврду о путовању.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>У евиденцији продатих туристичких путовања сторнирање услед отказа, промене датума или периода трајања путовања врши се прецртавањем одговарајућег редног броја уз упис датума и назнаке „упис сторниран” у колони „напомена”.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav3">
+						<content>
+							<p>Сторнирање из става 2. овог члана, у колони „напомена” потписује запослено лице.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Туристичка агенција у евиденцију продатих туристичких путовања уноси податке у евиденцију непосредно по издавању потврде о путовању.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav2">
+						<content>
+							<p>Ако се евиденција води у електронском облику, штампање страница врши се на крају радног дана.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav3">
+						<content>
+							<p>Одштампане странице из става 2. oвог члана морају бити нумерисане, оверене потписом запосленог лица и хронолошки се одлажу у посебан регистар.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav4">
+						<content>
+							<p>Ради доступности евиденције надлежном контролном органу, врши се додатно штампање података из рачунара.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav5">
+						<content>
+							<p>Ради доступности документације и уговора који су закључени на страном језику, туристичка агенција ће, на захтев контролног органа, обезбедити њихов превод, оверен од стране овлашћеног лица.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Ако се евиденција води својеручно подаци се уписују у Књигу евиденције уговора и Књигу евиденције продатих туристичких путовања.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav2">
+						<content>
+							<p>Књига евиденције уговора води се на Обрасцу 1.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav3">
+						<content>
+							<p>Књига евиденције продатих туристичких путовања води се на Обрасцу 2 и Обрасцу 2а.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav4">
+						<content>
+							<p>Књиге евиденције из става 1. овог члана се израђују у тврдом повезу, са нумерисаним странама, осим прве и последње.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav5">
+						<content>
+							<p>На корицама је одштампан назив књиге евиденције, са назнаком обрасца, а на првој ненумерисаној страни исти назив и назив и седиште туристичке агенције која води књигу евиденције.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan14">
+				<num>14.</num>
+				<content>
+					<clause id="clan14-stav1">
+						<content>
+							<p>После извршених уписа за протеклу годину врши се закључивање евиденције.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav2">
+						<content>
+							<p>Закључивање евиденције врши се на последњој страници уписа за протеклу годину, која се оверава потписом одговорног лица и печатом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan15">
+				<num>15.</num>
+				<content>
+					<clause id="clan15-stav1">
+						<content>
+							<p>Евиденција се води ажурно и то по начелима уредности и тачности, на начин који не дозвољава брисање унетих података и на начин којим се омогућава увид у податке по хронолошком реду.</p>
+						</content>
+					</clause>
+					<clause id="clan15-stav2">
+						<content>
+							<p>Евиденција и документација, на основу које су вршени уписи, чувају се у складу са прописима којима се уређују рачуноводство и ревизија.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan16">
+				<num>16.</num>
+				<content>
+					<clause id="clan16-stav1">
+						<content>
+							<p>Даном ступања на снагу овог правилника престаје да важи Правилник о облику, садржини и начину вођења евиденције уговора закључених са трећим лицима којима је поверено извршење услуга из програма путовања и продатих туристичких путовања („<ref id="ref3" href="/rs/act/11/37/srp@">Службени гласник РС”, број 37/11</ref>).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan17">
+				<num>17.</num>
+				<content>
+					<clause id="clan17-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу 25. jануара 2016. године.</p>
+						</content>
+					</clause>
+					<clause id="clan17-stav2">
+						<content>
+							<p>Број 110-00-00087/2015-03</p>
+						</content>
+					</clause>
+					<clause id="clan17-stav3">
+						<content>
+							<p>У Београду, 14. јануара 2016. године</p>
+						</content>
+					</clause>
+					<clause id="clan17-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan17-stav5">
+						<content>
+							<p>др Расим Љајић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan17-stav6">
+						<content>
+							<p>Образац 1 - Евиденција уговора</p>
+						</content>
+					</clause>
+					<clause id="clan17-stav7">
+						<content>
+							<p>Образац 2 - Евиденција продатих      туристичких путовања</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

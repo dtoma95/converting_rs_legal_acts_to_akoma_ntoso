@@ -1,0 +1,344 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2001/4-5/main"/>
+					<FRBRuri value="/rs/act/2001/4-5"/>
+					<FRBRdate date="2001" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2001/27-1/srp@/main"/>
+					<FRBRuri value="/rs/act/2001/27-1/srp@"/>
+					<FRBRdate date="2001" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2001/27-1/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2001/27-1/srp@.akn"/>
+					<FRBRdate date="2001" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2001-1-26" name="службени лист срј" number="4" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="IV ЈАВНИ ПРИХОДИ" value="iv јавни приходи"/>
+				<keyword id="grupa" showAs="4. Јавни зајмови" value="4. јавни зајмови"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2001-01-25" id="usvajanje"/>
+				<step date="2001-01-27" id="stupanje_na_snagu"/>
+				<step date="2001-01-27" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="4/2001-5" id="e1" type="generation"/>
+				<eventRef date="6/2001-1" id="e2" type="amendment"/>
+				<eventRef date="27/2001-1" id="e3" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 4. став 4. </ref>Закона о измирењу обавеза по основу девизне штедње грађана (“<ref id="ref4" href="/rs/act/98/59/srp@">Службени лист СРЈ”, бр. 59/98</ref> и 44/99),</p>
+			<p>Савезна влада доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о  емисији обвезница Савезне Републике Југославије за измирење обавеза по основу  девизне штедње грађана</title>
+			<date>„Службени лист СРЈ”, бр. 4 од 26. јануара 2001, 6 од 9. фебруара 2001, 27 од 8. јуна 2001.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Ради измирења обавеза по основу девизне штедње грађана, Савезна Република Југославија емитоваће 30. априла 2001. године обвезнице серије А у износу од 1.121.000.000 DEM и серије Б у износу од 5.850.000.000 DEM (у даљем тексту: обвезнице).</heading>
+				<content>
+					<clause id="od1-stav1">
+						<content>
+							<p>Висину средстава из става 1. ове тачке чини износ девиза код овлашћених банака које имају депоновану девизну штедњу код Народне банке Југославије, са стањем на дан 31. децембар 1997. године, увећану за износ камате до краја отплатног периода, утврђене чланом 2. Закона о измирењу обавеза по основу девизне штедње грађана (“<ref id="ref5" href="/rs/act/98/59/srp@">Службени лист СРЈ”, бр. 59/98</ref> и 44/99) (у даљем тексту: Закон), умањену за обавезе према девизним штедишама из <ref>члана 10. став 1. </ref>Закона за 2000. и 2001. годину.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Обавезе из обвезница серије А по једном девизном штедном улогу доспевају у следећим роковима:</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>- 31. маја 2002. године - у висини 540 DEM;</p>
+						</content>
+					</clause>
+					<clause id="od2-stav2">
+						<content>
+							<p>- 31. маја 2003. године - у висини 740 DEM;</p>
+						</content>
+					</clause>
+					<clause id="od2-stav3">
+						<content>
+							<p>- 31. маја 2004. године - у висини 1.030 DEM.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Обавезе из обвезница серије Б извршавају се у 14 једнаких шестомесечних рата које доспевају 1. јула и 28. децембра сваке године.</heading>
+				<content>
+					<clause id="od3-stav1">
+						<content>
+							<p>Прва рата доспева 1. јула 2005. године.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Обвезнице гласе на доносиоца.</heading>
+				<content/>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> Обвезнице серије А емитију се у апоенима од 500 DEM; 100 DEM; 50 DEM и 10 DEM.</heading>
+				<content>
+					<clause id="od5-stav1">
+						<content>
+							<p>Обвезнице серије А које доспевају у 2002, 2003. и 2004. години штампају се без купона.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od6">
+				<num>6.</num>
+				<heading> Обвезнице серије Б емитују се у апоенима од 100.000 DEM; 10.000 DEM; 5.000 DEM; 1.000 DEM; 500 DEM и 100 DEM.</heading>
+				<content>
+					<clause id="od6-stav1">
+						<content>
+							<p>Обвезнице серије Б штампају се са четрнаест купона.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od7">
+				<num>7.</num>
+				<heading> Образац обвезница одштампан је у прилогу ове одлуке и чини њен саставни део.</heading>
+				<content/>
+			</section>
+			<section id="od8">
+				<num>8.</num>
+				<heading> Обвезнице се по номиналној вредности пре рока доспећа могу користити сагласно чл. 16. и 18. Закона и то за:</heading>
+				<content>
+					<alinea id="od8-ali1">
+						<content>
+							<p>уповину акција предузећа у процесу својинске трансформације ради продаје друштвеног капитала;</p>
+						</content>
+					</alinea>
+					<alinea id="od8-ali2">
+						<content>
+							<p>уповину акција овлашћених банака код којих је положена девизна штедња до висине њиховог учешћа утврђеног у <ref>члану 6. </ref>Закона;</p>
+						</content>
+					</alinea>
+					<alinea id="od8-ali3">
+						<content>
+							<p>уповину станова, стамбених објеката, пословног простора, земљишта и друге имовине у државној својини;</p>
+						</content>
+					</alinea>
+					<alinea id="od8-ali4">
+						<content>
+							<p>лаћање трошкова лечења, набавке лекова и сахране, сагласно пропису Савезне владе.</p>
+						</content>
+					</alinea>
+					<clause id="od8-stav1">
+						<content>
+							<p>У роковима доспећа обвезницом се може плаћати: порез на промет, акцизе, порез на имовину, порез на доходак грађана и порез на добит корпорације.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od9">
+				<num>9.</num>
+				<heading> Промет обвезница је слободан и ослобођен од пореза на промет, провизије на платни промет и пореза на капиталну добит.</heading>
+				<content/>
+			</section>
+			<section id="od10">
+				<num>10.</num>
+				<heading> Средства за исплату обавеза из обвезница обезбеђују се у складу са одредбама <ref>члана 7. </ref>Закона и уплаћују на посебан рачун код Народне банке Југославије.</heading>
+				<content/>
+			</section>
+			<section id="od11">
+				<num>11.</num>
+				<heading> Исплату доспелих обавеза из обвезница, врши овлашћена банка у девизама или на захтев доносиоца у динарима, по средњем курсу на дан исплате.</heading>
+				<content>
+					<clause id="od11-stav1">
+						<content>
+							<p>Исплатом купона број 14. сматра се да је обвезница серије Б у целости исплаћена.</p>
+						</content>
+					</clause>
+					<clause id="od11-stav2">
+						<content>
+							<p>11а. При конверзији у EUR примењиваће се фиксни курс Европске централне банке 1 EUR=1,95583 DEM.*</p>
+						</content>
+					</clause>
+					<clause id="od11-stav3">
+						<content>
+							<p>*<ref id="ref6" href="/rs/act/2001/6/srp@">Службени лист СРЈ, број 6/2001</ref></p>
+						</content>
+					</clause>
+					<clause id="od11-stav4">
+						<content>
+							<p>11б) Обвезнице серије А у апоенима од 500 DEM, 100 DEM, 50 DEM и 10 DEM и обвезнице серије Б у апоенима од 5.000 DEM, 1.000 DEM, 500 DEM и 100 DEM дистрибуираће се од 30. јуна 2001. године.*</p>
+						</content>
+					</clause>
+					<clause id="od11-stav5">
+						<content>
+							<p>По једном девизном штедном улогу обвезнице серије А дистрибуираће се у вредности до 2.310 DEM, а обвезнице серије Б – до 7.000 DEM.*</p>
+						</content>
+					</clause>
+					<clause id="od11-stav6">
+						<content>
+							<p>*<ref id="ref7" href="/rs/act/2001/27/srp@">Службени лист СРЈ, број 27/2001</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od12">
+				<num>12.</num>
+				<heading> Даном ступања на снагу ове одлуке престаје да важи Одлука о емисији обвезница Савезне Републике Југославије за измирење обавеза по основу девизне штедње грађана (“
+
+
+					<ref id="ref8" href="/rs/act/2000/23/srp@">
+						Службени лист СРЈ”, бр. 23/2000</ref>
+
+					)
+
+					.</heading>
+				<content/>
+			</section>
+			<section id="od13">
+				<num>13.</num>
+				<heading> Ова одлука ступа на снагу наредног дана од дана објављивања у “Службеном листу СРЈ”.</heading>
+				<content>
+					<clause id="od13-stav1">
+						<content>
+							<p>Е.п. бр. 7</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od25">
+				<num>25.</num>
+				<heading> јануара 2001. године</heading>
+				<content>
+					<clause id="od25-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od25-stav2">
+						<content>
+							<p>Савезна влада</p>
+						</content>
+					</clause>
+					<clause id="od25-stav3">
+						<content>
+							<p>Председник</p>
+						</content>
+					</clause>
+					<clause id="od25-stav4">
+						<content>
+							<p>Зоран Жижић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="od25-stav5">
+						<content>
+							<p>ОДРЕДБЕ КОЈЕ НИСУ УНЕТЕ У &quot;ПРЕЧИШЋЕН ТЕКСТ&quot; ОДЛУКЕ</p>
+						</content>
+					</clause>
+					<clause id="od25-stav6">
+						<content>
+							<p>Одлуку о допуни Одлуке о емисији обвезница Савезне Републике Југославије за измирење обавеза по основу девизне штедње грађана: &quot<ref id="ref9" href="/rs/act/2001/6/srp@">Службени лист СРЈ&quot;, број 6/2001</ref>-1</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> У обрасцу обвезница који чине саставни део ове одлуке, у плашту после последњег става додаје се нови став који гласи:</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>“При конверзији у EUR примењиваће се фиксни курс Европске централне банке 1 EUR = 1,95583 DEM”.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Ова одлука ступа на снагу наредног дана од дана објављивања у “Службеном листу СРЈ”.</heading>
+				<content>
+					<став id="od3-stav1">
+						<img height="714" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/606b6fde-d81e-4aae-b602-2bc74612e790.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419986&amp;regactid=419986" width="527"/>
+						<content/>
+					</став>
+					<став id="od3-stav2">
+						<img height="604" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/32c23fdd-dc8d-4ed1-949d-6998c5444253.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419986&amp;regactid=419986" width="523"/>
+						<content/>
+					</став>
+					<став id="od3-stav3">
+						<img height="724" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/5a4bc0be-58c3-4ab1-bfc7-9c6347ebcb3e.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419986&amp;regactid=419986" width="519"/>
+						<content/>
+					</став>
+					<став id="od3-stav4">
+						<img height="616" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/a33b2bb1-125c-4616-b0a9-e0e757269903.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419986&amp;regactid=419986" width="523"/>
+						<content/>
+					</став>
+					<став id="od3-stav5">
+						<img height="721" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/e2742301-dbbf-4379-afb2-e0546c000460.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419986&amp;regactid=419986" width="519"/>
+						<content/>
+					</став>
+					<став id="od3-stav6">
+						<img height="608" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/efddc3c5-f2af-452f-8e4d-14189b665919.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419986&amp;regactid=419986" width="519"/>
+						<content/>
+					</став>
+					<став id="od3-stav7">
+						<img height="722" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/25267736-4826-4fa2-be6f-534c90cab16d.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419986&amp;regactid=419986" width="519"/>
+						<content/>
+					</став>
+					<став id="od3-stav8">
+						<img height="665" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/ffc0fe39-b8be-47a7-b8bb-246a0465a8f5.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419986&amp;regactid=419986" width="523"/>
+						<content/>
+					</став>
+					<став id="od3-stav9">
+						<img height="727" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/34a68621-78ee-47e7-8c86-6a32ff823458.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419986&amp;regactid=419986" width="523"/>
+						<content/>
+					</став>
+					<став id="od3-stav10">
+						<img height="713" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/c98ed374-f2e8-4598-b3d6-a9139de11a9b.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419986&amp;regactid=419986" width="523"/>
+						<content/>
+					</став>
+					<став id="od3-stav11">
+						<img height="715" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/472a39e5-cef7-40bd-9d2f-a328ecd74b9b.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419986&amp;regactid=419986" width="523"/>
+						<content/>
+					</став>
+					<став id="od3-stav12">
+						<img height="721" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/b81fb4e6-26d9-48c0-b813-cb89ba9b5da7.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419986&amp;regactid=419986" width="519"/>
+						<content/>
+					</став>
+					<став id="od3-stav13">
+						<img height="699" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/71870cc0-fd7f-4bd0-8680-df9d4c2f3ba9.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419986&amp;regactid=419986" width="519"/>
+						<content/>
+					</став>
+					<став id="od3-stav14">
+						<img height="709" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/649a74d0-c071-43f6-b94c-d4cba01947b6.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419986&amp;regactid=419986" width="515"/>
+						<content/>
+					</став>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

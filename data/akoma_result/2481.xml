@@ -1,0 +1,689 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2010/102-10/main"/>
+					<FRBRuri value="/rs/act/2010/102-10"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2010/102-10/srp@/main"/>
+					<FRBRuri value="/rs/act/2010/102-10/srp@"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2010/102-10/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2010/102-10/srp@.akn"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2010-12-30" name="службени гласник рс" number="102" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="12. Заштита природе" value="12. заштита природе"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2010-12-24" id="usvajanje"/>
+				<step date="2011-01-07" id="stupanje_na_snagu"/>
+				<step date="2011-01-07" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу осмог дана од објављивања у „Службеном гласнику Републике Србије”, односно 7. јануара 2011. године (види <ref>члан 16. </ref>Уредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 38. став 4. </ref>Закона о заштити природе („<ref id="ref9" href="/rs/act/09/36/srp@">Службени гласник РС”, бр. 36/09, 88/10</ref> и 91/10 – исправка) и <ref>члана 42. став 1. </ref>Закона о Влади („<ref id="ref10" href="/rs/act/05/55/srp@">Службени гласник РС”, бр. 55/05, 71/05</ref> – исправка, 101/07 и 65/08),</p>
+		</preamble>
+		<preface>
+			<authority>Влада доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о еколошкoj мрежи</title>
+			<date>&quot;Службени гласник РС&quot;, број 102 од 30. децембра 2010.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>УВОДНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овом уредбом се утврђује еколошка мрежа (у даљем тексту: еколошка мрежа), као и ближи начин управљања и финансирања еколошке мреже, ради очувања биолошке и предеоне разноврсности, односно типова станишта од посебног значаја за очување, обнaвљања и/или унапређивања нарушених станишта и очување одређених врста.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>САСТАВ ЕКОЛОШКЕ МРЕЖЕ</heading>
+				<content>
+					<article id="gla2-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla2-clan2-stav1">
+								<content>
+									<p>Еколошку мрежу чине:</p>
+									<point id="gla2-clan2-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> еколошки значајнa подручја;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> еколошки коридори који повезују еколошки значајна подручја на простору Републике Србије, као коридори од националног значаја и еколошки коридори који омогућују повезивање са еколошким мрежама суседних земаља, у складу са међународним прописима као еколошки коридори од међународног значаја;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> заштитна зона тамо где је потребна да штити еколошки значајна подручја и еколошке коридоре од могућих штетних спољних утицаја.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla2-clan3-stav1">
+								<content>
+									<p>Еколошки значајна подручја из <ref>члана 2. </ref>ове уредбе обухватају просторне целине на којима се налазе:</p>
+									<point id="gla2-clan3-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> одређена заштићена подручја проглашена на основу закона којим се уређује заштита природе са приоритетним циљем очувања биодиверзитета, укључујући подручја у поступку проглашења заштите и подручја која су одговарајућим стратешким документима планирана за заштиту;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> подручја од посебног интереса за очување, односно Емерлад мрежа, која су идентификована на основу Конвенције о очувању европске дивље флоре и фауне и природних станишта (Бернске конвенције);</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> одређена подручја дефинисана на основу међународних програма за идентификацију значајних подручја за птице (ИБА), биљке (ИПА) и дневне лептире (ПБА);</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> подручја која се налазе на листи Конвенције о влажним стаништима од међународног значаја (Рамсарска подручја ) или су планирана за упис у ту листу;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> одређени спелеолошки објекти;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> погранична еколошки значајна подручја која омогућују повезивање са еколошким мрежама суседних земаља у складу са међународним прописима;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> одређена подручја типова станишта од посебног значаја за очување идентификована у складу са Правилником о критеријумима за издвајање типова станишта, о типовима станишта, осетљивим, угроженим, ретким и за заштиту приоритетним типовима станишта и о мерама заштите за њихово очување („<ref id="ref11" href="/rs/act/10/35/srp@">Службени гласник РС”, број 35/10</ref>);</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> одређена станишта дивљих врста утврђених у складу са Правилником о проглашењу и заштити строго заштићених и заштићених дивљих врста биљака, животиња и гљива („<ref id="ref12" href="/rs/act/10/5/srp@">Службени гласник РС ”, број 5/10</ref>);</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> остала еколошки значајна подручја која нису обухваћена овим подручјима која су као еколошки значајна утврђена просторним плановима.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla2-clan4-stav1">
+								<content>
+									<p>Еколошка мрежа се графички документује прегледном картом еколошке мреже и рефералном картом у размери 1:300.000 која се допуњује и чува у министарству надлежном за послове животне средине и Заводу за заштиту природе Србије (у даљем тексту: Завод).</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav2">
+								<content>
+									<p>Списак еколошки значајних подручја дат је у Прилогу – Еколошки значајна подручја Републике Србије, који је одштампан уз ову уредбу и чини њен саставни део.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav3">
+								<content>
+									<p>Еколошки коридори од међународног значаја наведени су у Прилогу 2 –Еколошки коридори од међународног значаја у Републици Србији, који је одштампан уз ову уредбу и чини њен саставни део.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav4">
+								<content>
+									<p>Осим еколошких коридора из става 3. овог члана, еколошки коридори могу бити водотоци у природном и полуприродном стању и канали са полуприродном вегетацијом, као и други предеони елементи (међе, живице, пољозаштитни појасеви, пашњаци, ливаде и други вештачки коридори) који стварају везу између еколошки значајних подручја и који су идентификовани у бази података Завода и Покрајинског завода за заштиту природе (у даљем тексту: Покрајински завод).</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav5">
+								<content>
+									<p>Завод и Покрајински завод у сарадњи са другим стручним и научним институцијама припремају документацију и врше послове идентификације и картирања типова станишта из <ref>члана 3. </ref>тач. 7) и 8) ове уредбе.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav6">
+								<content>
+									<p>Базе података о стаништима из става 5. овог члана допуњују се сагласно извршењу послова на идентификацији и картирању и воде се у Заводу и Покрајинском заводу, не објављују се у „Службеном гласнику Републике Србије” и доступне су јавности у складу са законом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>УПРАВЉАЊЕ ЕКОЛОШКОМ МРЕЖОМ</heading>
+				<content>
+					<article id="gla3-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla3-clan5-stav1">
+								<content>
+									<p>Eколошком мрежом управља се на начин који обезбеђује очување повољног стања осетљивих, ретких, угрожених и типова станишта од посебног значаја за очување и популација строго заштићених и заштићених дивљих врста, од националног и међународног значаја, као и одржање и унапређење функционалне и просторне повезаности њених делова.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan5-stav2">
+								<content>
+									<p>Под управљањем еколошком мрежом подразумева се управљање појединачним еколошки значајним подручјима и еколошким коридорима, ради одржавања и унапређивања функционалне целовитости еколошке мреже.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla3-clan6-stav1">
+								<content>
+									<p>Заштита еколошке мреже обезбеђује се спровођењем прописаних мера заштите ради очувања биолошке и предеоне разноврсности, одрживог коришћења и обнављања природних ресурса и добара и унапређења заштићених подручја, типова станишта и станишта дивљих врста у складу са законом којим се уређује заштита природе, и другим прописима, као и актима о проглашењу заштићених подручја и међународним уговорима.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan6-stav2">
+								<content>
+									<p>Мере заштите еколошке мреже односе се на правна и физичка лица која користе природне вредности и обављају активности и радове, у складу са законом којим се уређује заштита природе.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan6-stav3">
+								<content>
+									<p>На подручју еколошке мреже примењују се мере, методе и техничко-технолошка решења са циљем очувања повољног стања еколошки значајних подручја и унапређивања нарушеног стања делова еколошке мреже.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan6-stav4">
+								<content>
+									<p>Поред мера заштите из става 1. овог члана, мере заштите дате су и у Прилогу 3. – Мере заштите еколошке мреже, који је одштампан уз ову уредбу и чини њен саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla3-clan7-stav1">
+								<content>
+									<p>Подручјем еколошке мреже које је истовремено и заштићено подручје, у складу са законом управља управљач тог заштићеног подручја.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan7-stav2">
+								<content>
+									<p>Еколошки значајним подручјем које није стављено под заштиту као заштићено подручје управља правно лице које оснива или одреди Влада на предлог министарства надлежног за послове заштите животне средине, односно орган надлежан за послове заштите животне средине аутономне покрајине, односно орган надлежан за послове заштите животне средине јединице локалне самоуправе, на чијој се територији налази подручје еколошке мреже.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan7-stav3">
+								<content>
+									<p>Еколошким коридорима који се налазе изван заштићеног подручја управља правно лице које оснива или одреди орган надлежан за послове заштите животне средине јединице локалне самоуправе, на чијем се подручју налази подручје еколошке мреже.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan7-stav4">
+								<content>
+									<p>Еколошки значајним подручјем и/или еколошким коридором које није стављено под заштиту као заштићено подручје, а налази се на територији две или више јединица локалне самоуправе, споразумно управљају јединице тих локалних самоуправа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla3-clan8-stav1">
+								<content>
+									<p>Управљање деловима еколошке мреже спроводи се на основу планова управљања.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan8-stav2">
+								<content>
+									<p>План управљања из става 1. овог члана доноси правно лице коме је поверено управљање делом еколошке мреже.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan8-stav3">
+								<content>
+									<p>За део еколошке мреже који је истовремено и заштићено подручје доноси се план управљања тог подручја који садржи све елементе управљања овог дела еколошке мреже.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla3-clan9-stav1">
+								<content>
+									<p>Просторни и урбанистички планови, програми и основе коришћења природних ресурса морају бити усаглашени са плановима управљања делова еколошке мреже и овом уредбом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ФИНАНСИРАЊЕ</heading>
+				<content>
+					<article id="gla4-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla4-clan10-stav1">
+								<content>
+									<p>Финансирање еколошке мреже обезбеђује се из:</p>
+									<point id="gla4-clan10-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> средстава буџета Републике Србије, аутономне покрајине, односно јединице локалне самоуправе;</p>
+										</content>
+									</point>
+									<point id="gla4-clan10-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> средства Фонда за заштиту животне средине;</p>
+										</content>
+									</point>
+									<point id="gla4-clan10-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> накнада за коришћење заштићеног подручја;</p>
+										</content>
+									</point>
+									<point id="gla4-clan10-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> средства за очување приоритетних типова станишта и угрожених врста обезбеђују се на основу пројеката из домаћих и међународних фондова и кредитирањем;</p>
+										</content>
+									</point>
+									<point id="gla4-clan10-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> донација, поклона и помоћи;</p>
+										</content>
+									</point>
+									<point id="gla4-clan10-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> других извора у складу са законом.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla4-clan10-stav2">
+								<content>
+									<p>Влада ће обезбедити средства у буџету Републике Србије за реализацију пројеката идентификације и картирања станишта на територији Републике Србије и израду карте станишта из <ref>члана 4. став 5. </ref>ове уредбе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>ПРАЋЕЊЕ СТАЊА ЕКОЛОШКЕ МРЕЖЕ</heading>
+				<content>
+					<article id="gla5-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla5-clan11-stav1">
+								<content>
+									<p>На подручју еколошке мреже обезбеђује се праћење стања:</p>
+									<point id="gla5-clan11-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> станишта популација дивљих врста;</p>
+										</content>
+									</point>
+									<point id="gla5-clan11-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> типова станишта од посебног значаја очување;</p>
+										</content>
+									</point>
+									<point id="gla5-clan11-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> ефективности спроведених мера заштите и унапређења, као и степена остварења утврђених циљева очувања и унапређивања функционалности и интегритета еколошке мреже.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla5-clan11-stav2">
+								<content>
+									<p>Праћење стања еколошке мреже врше Завод и Покрајински завод у сарадњи са другим стручним и научним институцијама и управљачима, у складу са законом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>НАДЗОР</heading>
+				<content>
+					<article id="gla6-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla6-clan12-stav1">
+								<content>
+									<p>Надзор над спровођењем ове уредбе врши министарство надлежно за послове животне средине.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla8">
+				<num>VIII</num>
+				<heading>ПРЕЛАЗНЕ И ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla8-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla8-clan13-stav1">
+								<content>
+									<p>Завод и Покрајински завод у сарадњи са Републичким геодетским заводом идентификују границе делова еколошке мреже, из рефералне карте из <ref>члана 4. став 1. </ref>и Прилога 1. и 2. ове уредбе, на државној карти у размери 1: 5000 у року од две године од дана ступања на снагу ове уредбе тако што на ортофото подлози државне карте преко које су преклопљене границе катастарских парцела наносе границе делова еколошке мреже.</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan13-stav2">
+								<content>
+									<p>До завршетка послова из става 1. овог члана, при изради планова управљања делова еколошке мреже, просторних и урбанистичких планова, развојних програма и пројеката користе се картографски приказ из <ref>члана 4. став 1. </ref>ове уредбе и подаци Завода које те институције предочавају носиоцима израде наведених докумената у поступку издавања услова заштите природе.</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan13-stav3">
+								<content>
+									<p>План управљања из <ref>члана 8. </ref>ст. 2. и 3. ове уредбе биће донети у року од две године од дана ступања на снагу ове уредбе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla8-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla8-clan14-stav1">
+								<content>
+									<p>Еколошки значајна подручја Европске Уније NATURA 2000 биће идентификована и постају део европске еколошке мреже NATURA 2000 даном приступања Републике Србије Европској унији.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla8-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla8-clan15-stav1">
+								<content>
+									<p>Влада, односно орган аутономне покрајине или орган јединице локалне самоуправе, основаће односно одредити правно лице за управљање делом еколошке мреже, у складу са чланом 7. ове уредбе у року од годину дана од дана ступања на снагу ове уредбе.</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan15-stav2">
+								<content>
+									<p>Постојећи просторни и урбанистички планови, пројектна документација, основе (шумске, ловне, пољопривредне, водопривредне, риболовне и др.) програми и стратегије у свим делатностима које утичу на делове еколошке мреже усагласиће се са планом управљања и овом уредбом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla8-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="gla8-clan16-stav1">
+								<content>
+									<p>Ова уредба ступа на снагу осмог дана од објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan16-stav2">
+								<content>
+									<p>05 број 110-9411/2010-3</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan16-stav3">
+								<content>
+									<p>У Београду, 24. децембра 2010. године</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan16-stav4">
+								<content>
+									<p>Влада</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan16-stav5">
+								<content>
+									<p>Председник,</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan16-stav6">
+								<content>
+									<p>др Мирко Цветковић, с.р.</p>
+								</content>
+							</clause>
+							<став id="gla8-clan16-stav7">
+								<img alt="Ekoloski_Page_01.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Ekoloski_Page_01_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=306091&amp;regactid=306091"/>
+								<content/>
+							</став>
+							<став id="gla8-clan16-stav8">
+								<img alt="Ekoloski_Page_02.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Ekoloski_Page_02_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=306091&amp;regactid=306091"/>
+								<content/>
+							</став>
+							<став id="gla8-clan16-stav9">
+								<img alt="Ekoloski_Page_03.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Ekoloski_Page_03_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=306091&amp;regactid=306091"/>
+								<content/>
+							</став>
+							<став id="gla8-clan16-stav10">
+								<img alt="Ekoloski_Page_04.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Ekoloski_Page_04_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=306091&amp;regactid=306091"/>
+								<content/>
+							</став>
+							<став id="gla8-clan16-stav11">
+								<img alt="Ekoloski_Page_05.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Ekoloski_Page_05_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=306091&amp;regactid=306091"/>
+								<content/>
+							</став>
+							<став id="gla8-clan16-stav12">
+								<img alt="Ekoloski_Page_06.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Ekoloski_Page_06_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=306091&amp;regactid=306091"/>
+								<content/>
+							</став>
+							<став id="gla8-clan16-stav13">
+								<img alt="Ekoloski_Page_07.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Ekoloski_Page_07_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=306091&amp;regactid=306091"/>
+								<content/>
+							</став>
+							<став id="gla8-clan16-stav14">
+								<img alt="Ekoloski_Page_08.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Ekoloski_Page_08_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=306091&amp;regactid=306091"/>
+								<content/>
+							</став>
+							<став id="gla8-clan16-stav15">
+								<img alt="Ekoloski_Page_09.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Ekoloski_Page_09_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=306091&amp;regactid=306091"/>
+								<content/>
+							</став>
+							<став id="gla8-clan16-stav16">
+								<img alt="Ekoloski_Page_10.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Ekoloski_Page_10_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=306091&amp;regactid=306091"/>
+								<content/>
+							</став>
+							<став id="gla8-clan16-stav17">
+								<img alt="Ekoloski_Page_11.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Ekoloski_Page_11_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=306091&amp;regactid=306091"/>
+								<content/>
+							</став>
+							<став id="gla8-clan16-stav18">
+								<img alt="Ekoloski_Page_12.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Ekoloski_Page_12_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=306091&amp;regactid=306091"/>
+								<content/>
+							</став>
+							<став id="gla8-clan16-stav19">
+								<img alt="Ekoloski_Page_13.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Ekoloski_Page_13_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=306091&amp;regactid=306091"/>
+								<content/>
+							</став>
+							<став id="gla8-clan16-stav20">
+								<img alt="Ekoloski_Page_14.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Ekoloski_Page_14_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=306091&amp;regactid=306091"/>
+								<content/>
+							</став>
+							<clause id="gla8-clan16-stav21">
+								<content>
+									<p>Прилог 2</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan16-stav22">
+								<content>
+									<p>ЕКОЛОШКИ КОРИДОРИ ОД МЕЂУНАРОДНОГ ЗНАЧАЈА У РЕПУБЛИЦИ СРБИЈИ</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan16-stav23">
+								<content>
+									<p>Еколошки коридори од међународног значаја су следећи водотоци и њихов обалски појас:</p>
+									<point id="gla8-clan16-stav23-tac1">
+										<num>1)</num>
+										<content>
+											<p> Дунав, укључујући заштићена подручја СРП „Багремара”, ПП „Бегечка јама”, СП „Каменички парк”, СП „Ивановачка ада”, СП „Ритске шуме на Мачковом спруду”, СП „Рибарско острво” у Новом Саду (у поступку заштите), као и подручја предвиђена за заштиту: Богојевачки рит, Рит између Плавне и Бачког Новог Села, Ритови Подунавља.</p>
+										</content>
+									</point>
+									<point id="gla8-clan16-stav23-tac2">
+										<num>2)</num>
+										<content>
+											<p> Тиса, укључујући заштићена подручја ПП „Камараш, ПП „Стара Тиса код Бисерног острва”, као и подручја предвиђена/резервисана за заштиту: Горња Тиса и Доња Тиса.</p>
+										</content>
+									</point>
+									<point id="gla8-clan16-stav23-tac3">
+										<num>3)</num>
+										<content>
+											<p> Сава, Дрина, Јужна и Велика Морава, Тамиш, Кереш, Златица, Караш, Нера, Брзава, Моравица, Босут и Студва.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla8-clan16-stav24">
+								<content>
+									<p>Прилог 3</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan16-stav25">
+								<content>
+									<p>МЕРЕ ЗАШТИТЕ ЕКОЛОШКЕ МРЕЖЕ</p>
+									<point id="gla8-clan16-stav25-tac1">
+										<num>1)</num>
+										<content>
+											<p> забрањено је уништавање и нарушавање станишта као и уништавање и узнемиравање дивљих врста;</p>
+										</content>
+									</point>
+									<point id="gla8-clan16-stav25-tac2">
+										<num>2)</num>
+										<content>
+											<p> забрањена је промена намена површина под природном и полуприродном вегетацијом (ливаде, пашњаци, тршћаци итд.)</p>
+										</content>
+									</point>
+									<point id="gla8-clan16-stav25-tac3">
+										<num>3)</num>
+										<content>
+											<p> забрањена је промена морфолошких и хидролошких особина подручја од којих зависи функционалност коридора;</p>
+										</content>
+									</point>
+									<point id="gla8-clan16-stav25-tac4">
+										<num>4)</num>
+										<content>
+											<p> планирањем намене површина, као и активним мерама заштите очувати и унапредити природне и полуприродне елементе коридора у складу са предеоним и вегетацијским карактеристикама подручја;</p>
+										</content>
+									</point>
+									<point id="gla8-clan16-stav25-tac5">
+										<num>5)</num>
+										<content>
+											<p> стимулисати традиционалне видове коришћења простора који доприносе очувању и унапређивању биодиверзитета;</p>
+										</content>
+									</point>
+									<point id="gla8-clan16-stav25-tac6">
+										<num>6)</num>
+										<content>
+											<p> предузети мере којима се обезбеђују спречавање, односно смањење, контрола и санација свих облика загађивања;</p>
+										</content>
+									</point>
+									<point id="gla8-clan16-stav25-tac7">
+										<num>7)</num>
+										<content>
+											<p> унапредити еколошке коридоре унутар грађевинских подручја успостављањем континуитета зелених површина чија структура и намена подржава функције коридора;</p>
+										</content>
+									</point>
+									<point id="gla8-clan16-stav25-tac8">
+										<num>8)</num>
+										<content>
+											<p> на местима укрштања еколошких коридора са елементима инфраструктурних система који формирају баријере за миграцију врста, обезбедити техничко-технолошка решења за неометано кретање дивљих врста;</p>
+										</content>
+									</point>
+									<point id="gla8-clan16-stav25-tac9">
+										<num>9)</num>
+										<content>
+											<p> изван зоне становања насеља забрањена је изградња објеката чија намена није директно везана за воду на растојању мањем од 50 m од обале стајаћих вода, односно линије средњег водостаја водотока.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla8-clan16-stav26">
+								<content>
+									<p>МЕРЕ ЗАШТИТЕ ЗА ЗАШТИТНУ ЗОНУ</p>
+									<point id="gla8-clan16-stav26-tac1">
+										<num>1)</num>
+										<content>
+											<p> зоналним распоредом урбано-руралних садржаја, применом одговарајућих техничко-тенхолошких и других решења елиминисати или ублажити негативне утицаје на живи свет;</p>
+										</content>
+									</point>
+									<point id="gla8-clan16-stav26-tac2">
+										<num>2)</num>
+										<content>
+											<p> забрањено је обављање активности које могу довести до продирања и ширења инвазивних врста из окружења;</p>
+										</content>
+									</point>
+									<point id="gla8-clan16-stav26-tac3">
+										<num>3)</num>
+										<content>
+											<p> приликом коришћења природних ресурса потребно је обезбедити очување хидролошког режима неопходног за функционалност еколошки значајног подручја и/или еколошког коридора;</p>
+										</content>
+									</point>
+									<point id="gla8-clan16-stav26-tac4">
+										<num>4)</num>
+										<content>
+											<p> стимулисати подизање заштитног зеленила дуж граница еколошког коридора у складу са потребама врста и станишних типова подручја.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,1179 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2011/31-195/main"/>
+					<FRBRuri value="/rs/act/2011/31-195"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/31-195/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/31-195/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/31-195/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/31-195/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2011-5-9" name="службени гласник рс" number="31" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="14. Заштита од зрачења и нуклеарна сигурност" value="14. заштита од зрачења и нуклеарна сигурност"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-02-09" id="usvajanje"/>
+				<step date="2011-05-17" id="stupanje_na_snagu"/>
+				<step date="2011-05-17" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 21. став 1. </ref>Закона о заштити од јонизујућих зрачења и о нуклеарној сигурности („<ref id="ref2" href="/rs/act/09/36/srp@">Службени гласник РС”, број 36/09</ref>) и тачке 8. став 5. подтачка 9) Одлуке о оснивању Агенције за заштиту од јонизујућих зрачења и нуклеарну сигурност Србије („<ref id="ref3" href="/rs/act/09/76/srp@">Службени гласник РС”, број 76/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Управни одбор Агенције за заштиту од јонизујућих зрачења и нуклеарну сигурност Србије, доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о утврђивању Програма за допунско обучавање и оспособљавање професионално изложених лица и лица одговорних за спровођење мера заштите од јонизујућих зрачења</title>
+			<date>&quot;Службени гласник РС&quot;, број 31 од 9. маја 2011.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником утврђује се Програм за допунско обучавање и оспособљавање професионално изложених лица и лица одговорних за спровођење мера заштите од јонизујућих зрачења, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Програмом из <ref>члана 1. овог</ref> правилника утврђује се садржина и начин спровођења програма.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Овај правилник, по добијању сагласности Владе, објављује се у „Службеном гласнику Републике Србије” и ступа на снагу осмог дана од дана објављивања.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Број 110-00-3/2011-01</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>У Београду, 9. фебруара 2011. године</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>Председник</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav5">
+						<content>
+							<p>Управног одбора,</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav6">
+						<content>
+							<p>проф. др  Иштван Бикит, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav7">
+						<content>
+							<p>ПРОГРАМ ЗА ДОПУНСКО ОБУЧАВАЊЕ И ОСПОСОБЉАВАЊЕ ПРОФЕСИОНАЛНО ИЗЛОЖЕНИХ ЛИЦА И ЛИЦА ОДГОВОРНИХ ЗА СПРОВОЂЕЊЕ МЕРА ЗАШТИТЕ ОД ЈОНИЗУЈУЋИХ ЗРАЧЕЊА</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Увод</heading>
+				<content>
+					<clause id="od1-clan3-stav1">
+						<content>
+							<p>Програмом за допунско обучавање и оспособљавање професионално изложених лица и лица одговорних за спровођење мера заштите од јонизујућих зрачења (у даљем тексту: Програм) обезбеђује се примена јединственог начина извођења и садржаја обуке и стално образовање, провера и унапређење знања из области примене мера заштите од јонизујућих зрачења на пословима са повећаним ризиком услед излагања јонизујућим зрачењима.</p>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav2">
+						<content>
+							<p>Поједини изрази употребљени у овом програму имају следеће значење:</p>
+							<point id="od1-clan3-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p>   допунско обучавање   обухвата допунско обучавање за рад са изворима јонизујућих зрачења;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p>   стручно оспособљавање   је процес систематског усвајања, обнављања и допуњавања знања и вештина за обављање радијационе делатности после стицања одговарајућег образовања, допунског обучавања или оспособљавања за спровођење мера заштите од јонизујућих зрачења.</p>
+									<тачка id="od1-clan3-stav2-tac2">
+										<num>2.</num>
+										<content>
+											<p> Начин спровођења Програма</p>
+										</content>
+									</тачка>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav3">
+						<content>
+							<p>Програм се спроводи кроз допунско обучавање, оспособљавање за спровођење мера заштите од јонизујућих зрачења и периодичну обнову знања.</p>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav4">
+						<content>
+							<p>Полазници допунског обучавања и оспособљавања за спровођење мера заштите од јонизујућих зрачења током обуке која укључује практичне вежбе са изворима јонизујућих зрачења, морају бити под непосредним надзором професионално изложених лица овлашћених за спровођење обучавања, као и лица одговорног за заштиту од јонизујућих зрачења, у складу са законом којим се уређује заштита од јонизујућих зрачења.</p>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav5">
+						<content>
+							<p>(а) Допунско обучавање за рад са изворима јонизујућих зрачења и оспособљавање за спровођење мера заштите од јонизујућих зрачења</p>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav6">
+						<content>
+							<p>Допунско обучавање за рад са изворима јонизујућих зрачења и оспособљавање за спровођење мера заштите од јонизујућих зрачења врши се пре почетка рада са изворима јонизујућих зрачења за следеће врсте послова:</p>
+							<point id="od1-clan3-stav6-tac1">
+								<num>1)</num>
+								<content>
+									<p> рад са отвореним изворима јонизујућих зрачења, класе послова I, II и III;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav6-tac2">
+								<num>2)</num>
+								<content>
+									<p> рад са стоматолошким рендген-апаратима (oсим за стоматологе, радиологе, рендген техничаре и више рендген техничаре);</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav6-tac3">
+								<num>3)</num>
+								<content>
+									<p> рад са рендген-апаратима у ветеринарској рендген дијагностици (осим за радиологе, рендген техничаре и више рендген техничаре);</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav6-tac4">
+								<num>4)</num>
+								<content>
+									<p> рад са уређајима за индустријско радиографско испитивање;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav6-tac5">
+								<num>5)</num>
+								<content>
+									<p> рад са мернорегулационим уређајима у индустрији;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav6-tac6">
+								<num>6)</num>
+								<content>
+									<p> рад са рендген апаратима у медицини (осим за радиологе, рендген техничаре и више рендген техничаре);</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav6-tac7">
+								<num>7)</num>
+								<content>
+									<p> промет радиоактивног материјала.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav7">
+						<content>
+							<p>Оспособљавање за спровођење мера заштите од јонизујућих зрачења спроводи се за сва лица професионално изложена јонизујућим зрачењима и за лица одговорна за спровођење мера заштите од јонизујућих зрачења пре почетка рада са изворима јонизујућих зрачења.</p>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav8">
+						<content>
+							<p>(б) Периодична обнова знања</p>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav9">
+						<content>
+							<p>Стручно оспособљавање врши се кроз додатну обуку за руковање новим уређајима у оквиру радијационе делатности за коју је лице оспособљено и кроз периодичну обнову знања.</p>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav10">
+						<content>
+							<p>Периодична обнова знања се спроводи за сва професионално изложена лица најмање једном у пет година.</p>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav11">
+						<content>
+							<p>(в) Начин провере савладаности програма</p>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav12">
+						<content>
+							<p>После спроведеног допунског обучавања за рад са изворима јонизујућих зрачења и оспособљавања за спровођење мера заштите од јонизујућих зрачења, спроводи се провера знања полазника.</p>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav13">
+						<content>
+							<p>Провера знања се обавља у писаном облику у виду теста. Полазник одговара избором једног од три понуђена одговора. Полазник је позитивно одговорио на тест провере знања ако је освојио најмање 80 % од максимално могућег броја бодова.</p>
+							<тачка id="od1-clan3-stav13-tac3">
+								<num>3.</num>
+								<content>
+									<p> Обим и број часова</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav14">
+						<content>
+							<p>Укупан број часова за допунско обучавање за послове из одељка 2. Начин спровођења Програма, пододељак (а) Допунско обучавање за рад са изворима јонизујућих зрачења и оспособљавање за спровођење мера заштите од јонизујућих зрачења за послове из става 1. је:</p>
+							<point id="od1-clan3-stav14-tac1">
+								<num>1)</num>
+								<content>
+									<p> рад са отвореним изворима јонизујућих зрачења:</p>
+									<item id="od1-clan3-stav14-tac1-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> класа послова I и II: укупно 120 часова (60 часова теоријске и 60 часова практичне обуке),</p>
+										</content>
+									</item>
+									<item id="od1-clan3-stav14-tac1-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> класа послова III: укупно 60 часова (30 часова теоријске и 30 часова практичне обуке);</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="od1-clan3-stav14-tac2">
+								<num>2)</num>
+								<content>
+									<p> рад са стоматолошким рендген-апаратима: укупно 20 часова (10 часова теоријске и 10 часова практичне обуке);</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav14-tac3">
+								<num>3)</num>
+								<content>
+									<p> рад са рендген-апаратима у ветеринарској рендген дијагностици: укупно 30 часова (15 часова теоријске и 15 часова практичне обуке);</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav14-tac4">
+								<num>4)</num>
+								<content>
+									<p> рад са уређајима за индустријско радиографско испитивање:</p>
+									<item id="od1-clan3-stav14-tac4-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> обука нивоа I: укупно 85 часова (40 часова теоријске и 45 часова практичне обуке),</p>
+										</content>
+									</item>
+									<item id="od1-clan3-stav14-tac4-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> обука нивоа II: укупно 110 часова (85 часова теоријске и 25 часова практичне обуке);</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="od1-clan3-stav14-tac5">
+								<num>5)</num>
+								<content>
+									<p> рад са мернорегулационим уређајима у индустрији: укупно 40 часова (30 часова теоријске и 10 часова практичне наставе);</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav14-tac6">
+								<num>6)</num>
+								<content>
+									<p> рад са рендген уређајима у медицини: укупно 20 часова (15 часова теоријске и 5 часова практичне наставе);</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav14-tac7">
+								<num>7)</num>
+								<content>
+									<p> промет радиоактивног материјала: укупно 20 часова (15 часова теоријске и 5 часова практичне наставе).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav15">
+						<content>
+							<p>Број часова за оспособљавање ради спровођења мера заштите од јонизујућих зрачења за лица која нису обухваћена ставом 1. овог одељка је: укупно 20 часова (15 часова теоријске и 5 часова практичне обуке).</p>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav16">
+						<content>
+							<p>Број часова за оспособљавање ради спровођења мера заштите од јонизујућих зрачења за лица одговорна за спровођење мера заштите од јонизујућих зрачења у медицинској примени извора јонизујућих зрачења, ради стицања сертификата који издаје Агенција за заштиту од јонизујућих зрачења и нуклеарну сигурност Србије (у даљем тексту: Агенција) је укупно 30 часова.</p>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav17">
+						<content>
+							<p>Број часова за оспособљавање ради спровођења мера заштите од јонизујућих зрачења за лица одговорна за спровођење мера заштите од јонизујућих зрачења у областима примене извора јонизујућих зрачења које нису наведене у ставу 3. овог одељка ради стицања сертификата који издаје Агенција је укупно 20 часова.</p>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav18">
+						<content>
+							<p>Број часова за периодичну обнову знања за оспособљавање ради спровођења мера заштите од јонизујућих зрачења за сва лица професионално изложена јонизујућим зрачењима осим за лица одговорна за заштиту од јонизујућих зрачења у медицинској примени извора јонизујућих зрачења је укупно 12 часова.</p>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav19">
+						<content>
+							<p>Број часова за периодичну обнову знања за оспособљавање ради спровођења мера заштите од јонизујућих зрачења за лица одговорна за спровођење мера заштите од јонизујућих зрачења у медицинској примени извора јонизујућих зрачења је укупно 20 часова.</p>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav20">
+						<content>
+							<p>Број часова за оспособљавање ради спровођење мера заштите од јонизујућих зрачења за лица одговорна за спровођење мера заштите од јонизујућих зрачења (коришћење извора јонизујућих зрачења који морају бити евидентирани) је укупно 6 часова.</p>
+							<тачка id="od1-clan3-stav20-tac4">
+								<num>4.</num>
+								<content>
+									<p> Садржина Програма</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav21">
+						<content>
+							<p>Програм обухвата:</p>
+							<point id="od1-clan3-stav21-tac1">
+								<num>1)</num>
+								<content>
+									<p> основне појмове и дефиниције;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav21-tac2">
+								<num>2)</num>
+								<content>
+									<p> основе радијационе физике;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav21-tac3">
+								<num>3)</num>
+								<content>
+									<p> дозиметрију зрачења;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav21-tac4">
+								<num>4)</num>
+								<content>
+									<p> биолошко дејство зрачења и радијациони ризик;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav21-tac5">
+								<num>5)</num>
+								<content>
+									<p> домаћу легислативу и међународне препоруке у заштити од јонизујућих зрачења и</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav21-tac6">
+								<num>6)</num>
+								<content>
+									<p> заштиту од јонизујућих зрачења:</p>
+									<item id="od1-clan3-stav21-tac6-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> остваривање заштите на радном месту,</p>
+										</content>
+									</item>
+									<item id="od1-clan3-stav21-tac6-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> праћење изложености зрачењу (лица, околине, пацијената),</p>
+										</content>
+									</item>
+									<item id="od1-clan3-stav21-tac6-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> здравствени надзор над професионално изложеним лицима,</p>
+										</content>
+									</item>
+									<item id="od1-clan3-stav21-tac6-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> знаци упозорења на опасност од зрачења.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav22">
+						<content>
+							<p>Програм допунског обучавања спроводи се у следећим областима:</p>
+							<point id="od1-clan3-stav22-tac1">
+								<num>1)</num>
+								<content>
+									<p> примена извора јонизујућих зрачења у медицини:</p>
+									<item id="od1-clan3-stav22-tac1-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> конвенционална рендген дијагностика,</p>
+										</content>
+									</item>
+									<item id="od1-clan3-stav22-tac1-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> стоматологија,</p>
+										</content>
+									</item>
+									<item id="od1-clan3-stav22-tac1-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> мамографија,</p>
+										</content>
+									</item>
+									<item id="od1-clan3-stav22-tac1-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> инвазивне методе у рендген дијагностици,</p>
+										</content>
+									</item>
+									<item id="od1-clan3-stav22-tac1-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> компјутеризована томографија,</p>
+										</content>
+									</item>
+									<item id="od1-clan3-stav22-tac1-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> нуклеарна медицина,</p>
+										</content>
+									</item>
+									<item id="od1-clan3-stav22-tac1-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> радиотерапија;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="od1-clan3-stav22-tac2">
+								<num>2)</num>
+								<content>
+									<p> примена извора јонизујућих зрачења у ветерини;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav22-tac3">
+								<num>3)</num>
+								<content>
+									<p> коришћење отворених извора зрачења у индустрији, истраживању и образовању;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav22-tac4">
+								<num>4)</num>
+								<content>
+									<p> коришћење затворених извора зрачења и рендген уређаја у индустрији, истраживању и образовању;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav22-tac5">
+								<num>5)</num>
+								<content>
+									<p> индустријска радиографија;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav22-tac6">
+								<num>6)</num>
+								<content>
+									<p> инсталирање, поправка и одржавање извора јонизујућих зрачења у медицинској примени;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav22-tac7">
+								<num>7)</num>
+								<content>
+									<p> промет радиоактивног материјала.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav23">
+						<content>
+							<p>Програм допунског обучавања односи се на врсту извора јонизујућих зрачења којима су лица изложена; и то уређаје који производе јонизујућа зрачења; отворене изворе зрачења или затворене изворе зрачења са посебним освртом на високоактивне изворе.</p>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav24">
+						<content>
+							<p>Теме од посебног значаја се у програму допунског обучавања обрађују у обиму који зависи од области спровођења и укупног броја часова:</p>
+							<point id="od1-clan3-stav24-tac1">
+								<num>1)</num>
+								<content>
+									<p> принципи рада извора јонизујућих зрачења;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav24-tac2">
+								<num>2)</num>
+								<content>
+									<p> индивидуални мониторинг изложених лица;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav24-tac3">
+								<num>3)</num>
+								<content>
+									<p> заштита пацијената, трудница, лица која помажу пацијенту;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav24-tac4">
+								<num>4)</num>
+								<content>
+									<p> сигурност при коришћењу високоактивних извора;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav24-tac5">
+								<num>5)</num>
+								<content>
+									<p> безбедност извора јонизујућих зрачења;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav24-tac6">
+								<num>6)</num>
+								<content>
+									<p> радиоактивни отпад;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav24-tac7">
+								<num>7)</num>
+								<content>
+									<p> утицај извора јонизујућих зрачења на животну средину;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav24-tac8">
+								<num>8)</num>
+								<content>
+									<p> могући акциденти и поступци у ванредним ситуацијама;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav24-tac9">
+								<num>9)</num>
+								<content>
+									<p> транспорт извора јонизујућих зрачења;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav24-tac10">
+								<num>10)</num>
+								<content>
+									<p> осигурање и контрола квалитета у спровођењу мера заштите.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav25">
+						<content>
+							<p>Програм оспособљавања за спровођење мера заштите од јонизујућих зрачења за конвенционалну рендген дијагностику, стоматологију, мамографију, инвазивне методе у рендген дијагностици и компјутеризовану томографију обухвата:</p>
+							<point id="od1-clan3-stav25-tac1">
+								<num>1)</num>
+								<content>
+									<p> методе примене;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav25-tac2">
+								<num>2)</num>
+								<content>
+									<p> оправданост;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav25-tac3">
+								<num>3)</num>
+								<content>
+									<p> ризик примене;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav25-tac4">
+								<num>4)</num>
+								<content>
+									<p> могућност коришћења резултата претходних дијагностичких поступака;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav25-tac5">
+								<num>5)</num>
+								<content>
+									<p> пацијентне дозе;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav25-tac6">
+								<num>6)</num>
+								<content>
+									<p> заштиту околине;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav25-tac7">
+								<num>7)</num>
+								<content>
+									<p> заштиту пацијената;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav25-tac8">
+								<num>8)</num>
+								<content>
+									<p> заштиту радника;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav25-tac9">
+								<num>9)</num>
+								<content>
+									<p> научна и медицински оправдана истраживања;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav25-tac10">
+								<num>10)</num>
+								<content>
+									<p> систематски преглед становништва;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav25-tac11">
+								<num>11)</num>
+								<content>
+									<p> алтернативне медицинске методе;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav25-tac12">
+								<num>12)</num>
+								<content>
+									<p> контролу квалитета;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav25-tac13">
+								<num>13)</num>
+								<content>
+									<p> поступке у случају ванредних догађаја;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav25-tac14">
+								<num>14)</num>
+								<content>
+									<p> вежбе.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav26">
+						<content>
+							<p>Програм оспособљавања за спровођење мера заштите од јонизујућих зрачења у нуклеарној медицини обухвата:</p>
+							<point id="od1-clan3-stav26-tac1">
+								<num>1)</num>
+								<content>
+									<p> методе примене;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav26-tac2">
+								<num>2)</num>
+								<content>
+									<p> оправданост;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav26-tac3">
+								<num>3)</num>
+								<content>
+									<p> ризик примене;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav26-tac4">
+								<num>4)</num>
+								<content>
+									<p> могућност коришћење претходних дијагностичких поступака;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav26-tac5">
+								<num>5)</num>
+								<content>
+									<p> пацијентне дозе;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav26-tac6">
+								<num>6)</num>
+								<content>
+									<p> заштиту околине;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav26-tac7">
+								<num>7)</num>
+								<content>
+									<p> заштиту пацијената;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav26-tac8">
+								<num>8)</num>
+								<content>
+									<p> заштиту радника;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav26-tac9">
+								<num>9)</num>
+								<content>
+									<p> научна и медицински оправдана истраживања;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav26-tac10">
+								<num>10)</num>
+								<content>
+									<p> алтернативне медицинске методе;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav26-tac11">
+								<num>11)</num>
+								<content>
+									<p> контролу квалитета;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav26-tac12">
+								<num>12)</num>
+								<content>
+									<p> поступке у случају ванредних догађаја;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav26-tac13">
+								<num>13)</num>
+								<content>
+									<p> вежбе;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav26-tac14">
+								<num>14)</num>
+								<content>
+									<p> примену радиофармака;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav26-tac15">
+								<num>15)</num>
+								<content>
+									<p> сигурност при раду са отвореним изворима зрачења;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav26-tac16">
+								<num>16)</num>
+								<content>
+									<p> чување радиоактивног материјала;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav26-tac17">
+								<num>17)</num>
+								<content>
+									<p> деконтаминацију;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav26-tac18">
+								<num>18)</num>
+								<content>
+									<p> радиоактивни отпад, чување и складиштење;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav26-tac19">
+								<num>19)</num>
+								<content>
+									<p> услове за ослобађање од регулаторне контроле радиоактивног материјала.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav27">
+						<content>
+							<p>Програм оспособљавања за спровођење мера заштите од јонизујућих зрачења у радиотерапији обухвата:</p>
+							<point id="od1-clan3-stav27-tac1">
+								<num>1)</num>
+								<content>
+									<p> методе примене;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav27-tac2">
+								<num>2)</num>
+								<content>
+									<p> оправданост примене;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav27-tac3">
+								<num>3)</num>
+								<content>
+									<p> ризик примене;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav27-tac4">
+								<num>4)</num>
+								<content>
+									<p> заштиту околине;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav27-tac5">
+								<num>5)</num>
+								<content>
+									<p> заштиту пацијената;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav27-tac6">
+								<num>6)</num>
+								<content>
+									<p> заштиту радника;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav27-tac7">
+								<num>7)</num>
+								<content>
+									<p> научна и медицински оправдана истраживања;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav27-tac8">
+								<num>8)</num>
+								<content>
+									<p> контролу квалитета;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav27-tac9">
+								<num>9)</num>
+								<content>
+									<p> поступке у случају ванредних догађаја;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav27-tac10">
+								<num>10)</num>
+								<content>
+									<p> вежбе;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav27-tac11">
+								<num>11)</num>
+								<content>
+									<p> деловање великих доза на биолошки материјал;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav27-tac12">
+								<num>12)</num>
+								<content>
+									<p> методе у радиотерапији;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav27-tac13">
+								<num>13)</num>
+								<content>
+									<p> планирање радиотерапије;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav27-tac14">
+								<num>14)</num>
+								<content>
+									<p> затворене извори зрачења у радиотерапији;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav27-tac15">
+								<num>15)</num>
+								<content>
+									<p> безбедност високоактивних извора зрачења;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav27-tac16">
+								<num>16)</num>
+								<content>
+									<p> радиоактивни отпад и складиштење.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav28">
+						<content>
+							<p>Програм оспособљавања за спровођење мера заштите од јонизујућих зрачења у ветерини обухвата:</p>
+							<point id="od1-clan3-stav28-tac1">
+								<num>1)</num>
+								<content>
+									<p> методе рендген дијагностике у ветерини;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav28-tac2">
+								<num>2)</num>
+								<content>
+									<p> оправданост примене;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav28-tac3">
+								<num>3)</num>
+								<content>
+									<p> ризик примене;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav28-tac4">
+								<num>4)</num>
+								<content>
+									<p> заштиту околине;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav28-tac5">
+								<num>5)</num>
+								<content>
+									<p> заштиту радника;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav28-tac6">
+								<num>6)</num>
+								<content>
+									<p> заштиту животиња;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav28-tac7">
+								<num>7)</num>
+								<content>
+									<p> алтернативне методе испитивања;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav28-tac8">
+								<num>8)</num>
+								<content>
+									<p> контролу квалитета;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav28-tac9">
+								<num>9)</num>
+								<content>
+									<p> поступке у случају ванредних догађаја;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav28-tac10">
+								<num>10)</num>
+								<content>
+									<p> вежбе.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav29">
+						<content>
+							<p>Програм оспособљавања за спровођење мера заштите од јонизујућих зрачења при коришћењу отворених извора зрачења у индустрији, истраживању и образовању обухвата:</p>
+							<point id="od1-clan3-stav29-tac1">
+								<num>1)</num>
+								<content>
+									<p> отворене изворе и употребу;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav29-tac2">
+								<num>2)</num>
+								<content>
+									<p> мере заштите у лабораторијама;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav29-tac3">
+								<num>3)</num>
+								<content>
+									<p> чување радиоактивног материјала;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav29-tac4">
+								<num>4)</num>
+								<content>
+									<p> деконтаминацију;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav29-tac5">
+								<num>5)</num>
+								<content>
+									<p> радиоактивни отпад, испуштање у околину и складиштење;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav29-tac6">
+								<num>6)</num>
+								<content>
+									<p> заштиту радника;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav29-tac7">
+								<num>7)</num>
+								<content>
+									<p> мере за случај ванредног догађаја;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav29-tac8">
+								<num>8)</num>
+								<content>
+									<p> вежбе.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav30">
+						<content>
+							<p>Програм оспособљавања за спровођење мера заштите од јонизујућих зрачења при коришћењу затворених извора зрачења у индустрији, истраживању и образовању обухвата:</p>
+							<point id="od1-clan3-stav30-tac1">
+								<num>1)</num>
+								<content>
+									<p> уређаје и њихово коришћење;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav30-tac2">
+								<num>2)</num>
+								<content>
+									<p> заштиту радника;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav30-tac3">
+								<num>3)</num>
+								<content>
+									<p> заштиту околине;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav30-tac4">
+								<num>4)</num>
+								<content>
+									<p> чување радиоактивног материјала;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav30-tac5">
+								<num>5)</num>
+								<content>
+									<p> радиоактивни отпад;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav30-tac6">
+								<num>6)</num>
+								<content>
+									<p> посебне мере заштите при постављању, поправци и одржавању извора и уређаја;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav30-tac7">
+								<num>7)</num>
+								<content>
+									<p> мере за случај ванредног догађаја;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav30-tac8">
+								<num>8)</num>
+								<content>
+									<p> вежбе.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav31">
+						<content>
+							<p>Програм оспособљавања за спровођење мера заштите од јонизујућих зрачења у индустријској радиографији обухвата:</p>
+							<point id="od1-clan3-stav31-tac1">
+								<num>1)</num>
+								<content>
+									<p> уређаје и примену;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav31-tac2">
+								<num>2)</num>
+								<content>
+									<p> мере заштите у затвореном простору;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav31-tac3">
+								<num>3)</num>
+								<content>
+									<p> мере заштите на отвореном;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav31-tac4">
+								<num>4)</num>
+								<content>
+									<p> заштиту радника;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav31-tac5">
+								<num>5)</num>
+								<content>
+									<p> услове за коришћење, поправку и одржавање;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav31-tac6">
+								<num>6)</num>
+								<content>
+									<p> мере за случај ванредног догађаја;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav31-tac7">
+								<num>7)</num>
+								<content>
+									<p> вежбе.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav32">
+						<content>
+							<p>Програм оспособљавања за спровођење мера заштите од јонизујућих зрачења за инсталирање, поправке и одржавање извора јонизујућих зрачења у медицини обухвата:</p>
+							<point id="od1-clan3-stav32-tac1">
+								<num>1)</num>
+								<content>
+									<p> уређаје и њихово коришћење;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav32-tac2">
+								<num>2)</num>
+								<content>
+									<p> заштиту радника;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav32-tac3">
+								<num>3)</num>
+								<content>
+									<p> делове уређаја и поступке који непосредно утичу на сигурност пацијената;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav32-tac4">
+								<num>4)</num>
+								<content>
+									<p> мере за случај ванредног догађаја;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav32-tac5">
+								<num>5)</num>
+								<content>
+									<p> вежбе.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="od1-clan3-stav33">
+						<content>
+							<p>Програм оспособљавања за спровођење мера заштите од јонизујућих зрачења при промету радиоактивног материјала обухвата:</p>
+							<point id="od1-clan3-stav33-tac1">
+								<num>1)</num>
+								<content>
+									<p> одговорност и обавезе у промету извора зрачења;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav33-tac2">
+								<num>2)</num>
+								<content>
+									<p> затворене и отворене изворе и поступак са њима;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav33-tac3">
+								<num>3)</num>
+								<content>
+									<p> радиоактивни отпад и испуштање и одлагање у животну средину;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav33-tac4">
+								<num>4)</num>
+								<content>
+									<p> заштиту радника;</p>
+								</content>
+							</point>
+							<point id="od1-clan3-stav33-tac5">
+								<num>5)</num>
+								<content>
+									<p> мере за случај ванредног догађаја.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

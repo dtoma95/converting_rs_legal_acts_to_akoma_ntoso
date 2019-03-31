@@ -1,0 +1,1463 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2013/10-304/main"/>
+					<FRBRuri value="/rs/act/2013/10-304"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2013/10-304/srp@/main"/>
+					<FRBRuri value="/rs/act/2013/10-304/srp@"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2013/10-304/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2013/10-304/srp@.akn"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2013-1-30" name="службени гласник рс" number="10" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="3. Семе и садни материјал" value="3. семе и садни материјал"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2013-01-25" id="usvajanje"/>
+				<step date="2013-02-07" id="stupanje_na_snagu"/>
+				<step date="2013-02-07" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 5. став 2. </ref>Закона о признавању сорти пољопривредног биља („<ref id="ref6" href="/rs/act/10/30/srp@">Службени гласник РС”, број 30/10</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, шумарства и водопривреде доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о методама испитивања сорте соје ради признавања сорте</title>
+			<date>&quot;Службени гласник РС&quot;, број 10 од 30. јануара      2013.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>УВОДНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником прописују се методе испитивања сорте соје (у даљем тексту: сорта) на огледном пољу и у лабораторији, ради признавања сорте.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan1-stav2">
+								<content>
+									<p>Методама из става 1. овог члана испитују се одређене битне особине сорте, ради утврђивања:</p>
+									<point id="gla1-clan1-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> производне и употребне вредности сорте (VCU тест);</p>
+										</content>
+									</point>
+									<point id="gla1-clan1-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> различитости, униформности и стабилности сорте (DUS тест).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>МЕТОДЕ ИСПИТИВАЊА ПРОИЗВОДНЕ И УПОТРЕБНЕ ВРЕДНОСТИ СОРТЕ (VCU тест)</heading>
+				<content>
+					<тачка id="gla2-clan1-tac1">
+						<num>1.</num>
+						<content>
+							<p> Битне особине сорте</p>
+						</content>
+					</тачка>
+					<article id="gla2-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla2-clan2-stav1">
+								<content>
+									<p>Производна и употребна вредност сорте утврђује се на основу резултата испитивања одређених битних особина сорте које се односе на:</p>
+									<point id="gla2-clan2-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> принос сировог зрна;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> садржај влаге у зрну у моменту жетве;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> принос зрна са 14% влаге;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> висина до прве махуне у cm;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> отпорност на полегање и пуцање махуна;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> толерантност на болести и штеточине;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> садржај уља у семену соје;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> садржај протеина (у процентима) у семену соје;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> маса 1000 зрна у моменту жетве.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan2-stav2">
+								<content>
+									<p>Сорта се испитује тако што се битне особине из става 1. овог члана сорте која се испитује, упоређују са битним особинама једне или више сорти стандард, а у складу са законом којим се уређује признавање сорти пољопривредног биља.</p>
+									<тачка id="gla2-clan2-stav2-tac2">
+										<num>2.</num>
+										<content>
+											<p> Испитивање на огледном пољу</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan3">
+						<num>3.</num>
+						<heading>Оглед</heading>
+						<content>
+							<clause id="gla2-clan3-stav1">
+								<content>
+									<p>Сорта се испитује у више локалитета на огледном пољу. Оглед чине елементарне парцеле на којима се врши испитивање.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav2">
+								<content>
+									<p>Оглед из става 1. овог члана се изводи по плану „потпуно случајног блок система” у четири понављања.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<heading>Разврставање сорте</heading>
+						<content>
+							<clause id="gla2-clan4-stav1">
+								<content>
+									<p>Сорта се испитује на огледном пољу у складу са захтевом за признавање сорте у коме власник сорте, односно његов овлашћени заступник предлаже да се сорта, ради испитивања, разврста у одговарајућу групу према зрењу, и то као: веома рана (група 000 и 00),   рана (група 0), средње рана (група I), средње касна (група II) и веома касна (група III).</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav2">
+								<content>
+									<p>Сорта разврстана на начин из става 1. овог члана, ради испитивања, сеје се у одређени оглед.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan5">
+						<num>5.</num>
+						<heading>Предусев</heading>
+						<content>
+							<clause id="gla2-clan5-stav1">
+								<content>
+									<p>Предусев на целој површини огледног поља на коме се врши испитивање сорте мора да буде иста култура, али не може да буде уљана репица, сунцокрет и соја.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan6">
+						<num>6.</num>
+						<heading>Агротехничке мере</heading>
+						<content>
+							<clause id="gla2-clan6-stav1">
+								<content>
+									<p>Сорта се испитује на земљишту које је пре сетве испитано на присутност земљишних штеточина и, по потреби, изводи се предсетвено третирање инсектицидима.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav2">
+								<content>
+									<p>Количине минералних ђубрива, време и начин њихове примене, као и остале агротехничке мере примењују се на огледном пољу тако да буду у складу са највишим нивоом технологије производње соје, а ради испољавања генетског потенцијала сорте.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan7">
+						<num>7.</num>
+						<heading>Сетва</heading>
+						<content>
+							<clause id="gla2-clan7-stav1">
+								<content>
+									<p>Семе сорте које се доставља за испитивање на огледном пољу мора да буде испитано на квалитет и мора да је здравствено исправно.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav2">
+								<content>
+									<p>Сорта у плодореду, на истој огледној парцели, може да се сеје најмање после четири године, под условом да у том периоду нису сејане друге уљане биљне врсте.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav3">
+								<content>
+									<p>Сетву сорти треба обавити истог дана, а у року који се у том локалитету сматра оптималним.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<heading>Постављање огледа</heading>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>У зависности од групе сорте из <ref>члана 4. овог</ref> правилника поставља се оглед за испитивање сорти са елементима датим у Табели – Eлементи огледа за испитивања сорте соје.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav2">
+								<content>
+									<p>Табела – Елементи огледа за испитивања сорте соје</p>
+								</content>
+							</clause>
+							<став id="gla2-clan8-stav3">
+								<table class="tabela-sa-borderom">
+									
+		
+									<tbody>
+										
+			
+										<tr>
+											
+				
+											<td rowspan="2" style="width: 40%">
+												
+				
+												<p>Елементи огледа</p>
+												
+				
+											</td>
+											
+				
+											<td colspan="5">
+												
+				
+												<p>Група зрења</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td class="auto-style1" style="width: 12%">
+												
+				
+												<p>Веома рана </p>
+												
+				
+												<p>(група 000 и 00)</p>
+												
+				
+											</td>
+											
+				
+											<td class="auto-style1" style="width: 12%">
+												
+				
+												<p>Рана </p>
+												
+				
+												<p>(група 0)</p>
+												
+				
+											</td>
+											
+				
+											<td class="auto-style1" style="width: 12%">
+												
+				
+												<p>Средње рана </p>
+												
+				
+												<p>(група I)</p>
+												
+				
+											</td>
+											
+				
+											<td class="auto-style1" style="width: 12%">
+												
+				
+												<p>Средње касна </p>
+												
+				
+												<p>(група II)</p>
+												
+				
+											</td>
+											
+				
+											<td class="auto-style1" style="width: 12%">
+												
+				
+												<p>Веома касна (група III)</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td style="width: 40%">
+												
+				
+												<p>дужина основне парцеле (m)</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>5</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>5</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>5</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>5</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>5</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td style="width: 40%">
+												
+				
+												<p>ширина основне парцеле (m)</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>3</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>3</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>3</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>3</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>3</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td style="width: 40%">
+												
+				
+												<p>површина основне парцеле (m2)</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>15</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>15</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>15</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>15</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>15</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td style="width: 40%">
+												
+				
+												<p>површина обрачунске парцеле</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>10</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>10</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>10</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>10</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>10</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td style="width: 40%">
+												
+				
+												<p>број редова</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>6</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>6</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>6</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>6</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>6</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td style="width: 40%">
+												
+				
+												<p>број редова у жетви</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>4</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>4</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>4</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>4</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>4</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td style="width: 40%">
+												
+				
+												<p>размак између редова (cm)</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>50</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>50</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>50</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>50</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>50</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td style="width: 40%">
+												
+				
+												<p>број семена у реду</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>138</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>125</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>113</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>100</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>88</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td style="width: 40%">
+												
+				
+												<p>број посејаних семена на парцели</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>828</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>750</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>678</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>600</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>528</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td style="width: 40%">
+												
+				
+												<p>размак између блокова (m)</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>1</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>1</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>1</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>1</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>1</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td style="width: 40%">
+												
+				
+												<p>број понављања</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>4</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>4</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>4</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>4</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>4</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td style="width: 40%">
+												
+				
+												<p>заштитни појас око целе огледне парцеле (m)</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>1</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>1</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>1</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>1</p>
+												
+				
+											</td>
+											
+				
+											<td class="potpis" style="width: 12%">
+												
+				
+												<p>1</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+		
+									</tbody>
+									
+	
+								</table>
+								
+	
+								<content/>
+							</став>
+						</content>
+					</article>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<heading>Евиденција података</heading>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>У току вегетације евидентирају се следећи подаци:</p>
+									<point id="gla2-clan9-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> датум сетве;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> датум ницања (више од 50% никлих биљака);</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> боја цвета;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> боја длачица;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> датум пуног зрења (када је у 95% махуна семе зрело);</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> датум жетве са следећим показатељима:</p>
+											<item id="gla2-clan9-stav1-tac6-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> висина биљке изражена у cm,</p>
+												</content>
+											</item>
+											<item id="gla2-clan9-stav1-tac6-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> висина биљке до прве махуне изражена у cm – мерење се врши од површине земље до висине нодије на којој се налази прва махуна, са истих биљака код којих се мери и висина биљке,</p>
+												</content>
+											</item>
+											<item id="gla2-clan9-stav1-tac6-podtac3">
+												<num>(3)</num>
+												<content>
+													<p> полегање биљке оцењује се оценом од нула (0) до пет (5), са одговарајућим значењем, и то као:</p>
+													<alinea id="gla2-clan9-stav1-tac6-podtac3-ali1">
+														<content>
+															<p>цена 0 – све биљке усправне,</p>
+														</content>
+													</alinea>
+													<alinea id="gla2-clan9-stav1-tac6-podtac3-ali2">
+														<content>
+															<p>цена 1 – биљке мало искошене,</p>
+														</content>
+													</alinea>
+													<alinea id="gla2-clan9-stav1-tac6-podtac3-ali3">
+														<content>
+															<p>цена 2 – биљке приметно нагнуте,</p>
+														</content>
+													</alinea>
+													<alinea id="gla2-clan9-stav1-tac6-podtac3-ali4">
+														<content>
+															<p>цена 3 – горња половина биљака повијена наниже,</p>
+														</content>
+													</alinea>
+													<alinea id="gla2-clan9-stav1-tac6-podtac3-ali5">
+														<content>
+															<p>цена 4 – биљке јако нагнуте, врхом додирују земљу,</p>
+														</content>
+													</alinea>
+													<alinea id="gla2-clan9-stav1-tac6-podtac3-ali6">
+														<content>
+															<p>цена 5 – већина биљака целом дужином лежи на земљи,</p>
+														</content>
+													</alinea>
+												</content>
+											</item>
+											<item id="gla2-clan9-stav1-tac6-podtac4">
+												<num>(4)</num>
+												<content>
+													<p> пуцање махуна (приказује се % испуцалих махуна у односу на укупан број махуне у време зрења).</p>
+												</content>
+											</item>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan10">
+						<num>10.</num>
+						<heading>Жетва</heading>
+						<content>
+							<clause id="gla2-clan10-stav1">
+								<content>
+									<p>Непосредно пред жетву за сваку сорту, на основним парцелама, утврђује се број биљака на парцелици, при чему је дозвољено одступање од предвиђеног броја 20% мање до 10% више од тог броја.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla2-clan11-stav1">
+								<content>
+									<p>Извођач огледа обавља жетву у фази пуне зрелости сваке сорте посебно, без чекања да се цео оглед истовремено пожање.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav2">
+								<content>
+									<p>За сваку сорту која се испитује, на свим основним парцелама, приликом жетве утврђује се принос сировог зрна, садржај влаге у зрну и маса 1000 зрна.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan12">
+						<num>12.</num>
+						<heading>Праћење и оцењивање појаве болести</heading>
+						<content>
+							<clause id="gla2-clan12-stav1">
+								<content>
+									<p>У току испитивања сорте на огледном пољу врши се праћење и оцењивање појаве следећих болести: пламењача (Peronospora manshurica); бела трулеж (Sclerotinia sclerotiorum); црна пегавост – рак стабла (Diaporthe phaseolorum var. caulivora); бактериозна пегавост (Pseudomonas syringae pv. glycinea).</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan12-stav2">
+								<content>
+									<p>У случају појаве болести из става 1. овог члана оцењује се интензитет појаве тих болести оценом од један (1) до девет (9), са одговарајућим значењем о присуству болести, и то као:</p>
+									<point id="gla2-clan12-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> оцена 1 – без симптома болести;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> оцена 2 – до 2% оболелих биљака;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> оцена 3 – до 5% оболелих биљака;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> оцена 4 – дo 10% оболелих биљака;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> оцена 5 – дo 20% оболелих биљака;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> оцена 6 – дo 40%, оболелих биљака;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> оцена 7 – дo 60% оболелих биљака;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav2-tac8">
+										<num>8)</num>
+										<content>
+											<p> оцена 8 – дo 80% оболелих биљака;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav2-tac9">
+										<num>9)</num>
+										<content>
+											<p> оцена 9 – преко 80% оболелих биљака.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan12-stav3">
+								<content>
+									<p>У случају појаве вирозе оцењује се интензитет појаве те болести у одговарајућем проценту оболелих биљака.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan13">
+						<num>13.</num>
+						<heading>Евидентирање појаве штеточина</heading>
+						<content>
+							<clause id="gla2-clan13-stav1">
+								<content>
+									<p>Ако се у току испитивања сорте на огледном пољу појаве биљне штеточине у значајнијем броју врши се њихово евидентирање.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan14">
+						<num>14.</num>
+						<heading>Узимање узорака за хемијску анализу</heading>
+						<content>
+							<clause id="gla2-clan14-stav1">
+								<content>
+									<p>За хемијску анализу семена узима се са сваког локалитета просечан узорак укупне масе 500 g који се састоји од смеше из сва четири понављања.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan14-stav2">
+								<content>
+									<p>Узорак семена се пакује у натрон или платнену кесу, добро затвори, обележи шифрама које је имао у огледу и доставља овлашћеној лабораторији која ради хемијско-технолошке анализе узорака.</p>
+									<тачка id="gla2-clan14-stav2-tac3">
+										<num>3.</num>
+										<content>
+											<p> Испитивање у лабораторији</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla2-clan15-stav1">
+								<content>
+									<p>Хемијско-технолошке анализе у лабораторији обављају се на просечним узорцима из свих локалитета.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan15-stav2">
+								<content>
+									<p>На сваком узорку обављају се анализе на садржај влаге, протеина и уља у зрну.</p>
+									<тачка id="gla2-clan15-stav2-tac4">
+										<num>4.</num>
+										<content>
+											<p> Подаци о резултатима испитивања</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="gla2-clan16-stav1">
+								<content>
+									<p>Извођач огледа који испитује сорту на огледном пољу евидентира следеће податке: назив извођача огледа; име и презиме одговорног лица за извођење огледа; локалитет на коме се изводи оглед; тип земљишта и садржај хранљивих материја у земљишту на коме се налази огледно поље; предусев; обављене агротехничке мере; податке из чл. 9. и 10. и <ref>члана 11. став 2. овог</ref> правилника, као и друге податке који утичу на принос испитиване сорте (оштећења од дивљачи, птица, штеточина и природних непогода и друго).</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan16-stav2">
+								<content>
+									<p>Извођач огледа који испитује отпорност или толерантност сорте на болест из <ref>члана 12. овог</ref> правилника и појаву штеточина из <ref>члана 13. овог</ref> правилника евидентира податке о резултатима таквог испитивања, као и назив извођача огледа, име лица одговорног за извођење огледа и локалитет на коме се оглед изводи.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan16-stav3">
+								<content>
+									<p>Извођач огледа који испитује сорту у лабораторији евидентира податке који се односе на садржај влаге, протеина и уља у зрну из <ref>члана 15. став 2. овог</ref> правилника, као и назив извођача огледа, одговорно лице за извођење огледа и локалитет на коме се изводи оглед.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan16-stav4">
+								<content>
+									<p>Подаци из ст. 1–3. овог члана саставни су део годишњих и коначних резултата испитивања.</p>
+									<тачка id="gla2-clan16-stav4-tac5">
+										<num>5.</num>
+										<content>
+											<p> Обрада података о резултатима испитивања</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan17">
+						<num>17.</num>
+						<heading>Обрада података резултата испитивања приноса зрна и приноса уља</heading>
+						<content>
+							<clause id="gla2-clan17-stav1">
+								<content>
+									<p>Обрада података о резултатима испитивања приноса зрна и приноса уља, врши се израчунавањем анализе варијансе по плану „потпуно случајног блок система”, а оцена значајности се изражава на основу Lsd – теста или Dunnet-овог теста за поређење средина третмана са стандардом на нивоу значајности p=0,05 и p=0,01.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan17-stav2">
+								<content>
+									<p>Поред оцене значајности из става 2. овог члана, израчунава се и коефицијент варијације (Cv) огледа.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan17-stav3">
+								<content>
+									<p>За обрачун приноса уља користе се подаци укупног приноса зрна са обрачунске парцеле по понављањима и садржај уља у процентима.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan18">
+						<num>18.</num>
+						<heading>Обрада података о резултатима испитивања осталих битних особина</heading>
+						<content>
+							<clause id="gla2-clan18-stav1">
+								<content>
+									<p>Обрада података о резултатима испитивања осталих битних особина сорте врши се израчунавањем аритметичке средине.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>МЕТОДА ИСПИТИВАЊА РАЗЛИЧИТОСТИ, УНИФОРМНОСТИ И СТАБИЛНОСТИ СОРТЕ (DUS тест)</heading>
+				<content>
+					<article id="gla3-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="gla3-clan19-stav1">
+								<content>
+									<p>Различитост, униформност и стабилност сорте испитује се методом одређеном техничким упутством за тестирање различитости, униформности и стабилности сорте.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ЗАВРШНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla4-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla4-clan20-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav2">
+								<content>
+									<p>Број 110-00-00091/2012-09</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav3">
+								<content>
+									<p>У Београду, 25. јануара 2013. године</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav5">
+								<content>
+									<p>Горан Кнежевић, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

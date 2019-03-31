@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2012/60-6/main"/>
+					<FRBRuri value="/rs/act/2012/60-6"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2012/60-6/srp@/main"/>
+					<FRBRuri value="/rs/act/2012/60-6/srp@"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2012/60-6/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2012/60-6/srp@.akn"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2012-6-20" name="службени гласник рс" number="60" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="9. Доприноси за обавезно социјално осигурање" value="9. доприноси за обавезно социјално осигурање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2012-05-29" id="usvajanje"/>
+				<step date="2012-06-28" id="stupanje_na_snagu"/>
+				<step date="2012-06-28" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 17. став 3. </ref>Закона о Централном регистру обавезног социјалног осигурања („<ref id="ref2" href="/rs/act/10/30/srp@">Службени гласник РС”, број 30/10</ref>),</p>
+			<p>Министар рада и социјалне политике доноси</p>
+		</preamble>
+		<preface>
+			<title>ПРАВИЛНИК</title>
+			<authority>о садржини, начину одређивања и додељивања јединственог броја за потребе социјалног осигурања</authority>
+			<title>&quot;Службени гласник РС&quot;, број 60 од 20. јуна   2012.</title>
+			<date>Предмет Правилника</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником уређује се садржинa, начин одређивања и додељивања jединственог броја за потребе социјалног осигурања, који Централни регистар обавезног социјалног осигурања (у даљем тексту: Централни регистар) додељује сваком обвезнику доприноса и осигураном лицу.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Обвезник доприноса, у смислу Закона о Централном регистру обавезног социјалног осигурања (у даљем тексту: Закон), јесте осигураник и послодавац или исплатилац прихода на чији терет се плаћа допринос, а осигурана лица су осигураници и чланови породица осигураника који остварују права из обавезног социјалног осигурања у складу са законима који уређују пензијско и инвалидско осигурање, здравствено осигурање и осигурање за случај незапослености (у даљем тексту: носилац јединственог броја).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>Jединствени број</heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Јединствени број, сагласно Закону, јесте јединствени, случајно изабрани број који додељује Централни регистар за потребе обавезног социјалног осигурања обвезницима доприноса и осигураним лицима.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Јединствени број се користи у размени података између Централног регистра и корисника података.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Јединствени број који је додељен не може се мењати, без обзира на промене које прате носиоца јединственог броја, а једном одређен и додељен број није могуће поново додељивати.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>Садржина јединствeног бројa</heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Јединствени број састоји се од три поља, има 12 ознака од чега у првом пољу две словне, у другом пољу осам бројчаних и у трећем пољу две бројчане ознаке које представљају контролне цифре.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Јединствени број има следећу структуру: AA XXXXXXXX YY</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Словна ознака: „AA” представља oзнaку лица и, у зависности од тога да ли се ради о правном или о физичком лицу, дефинисана су два типа ознаке:</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>FL – ознака за физичка лица;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav5">
+						<content>
+							<p>RS – ознака за правна лица.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav6">
+						<content>
+							<p>Бројчана ознака: „XXXXXXXX” представља случajaн брoj oд осам дeкaдних цифaрa зa кoгa je нeoпхoднo дa сe oбeзбeди дa je jeдинствeн (дa сe нe пoнaвљa).</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav7">
+						<content>
+							<p>Бројчана ознака: „YY” представља двe кoнтрoлнe цифрe кoje сe рaчунajу нa oснoву AAXXXXXXXX дeлa брoja, a пo утврђеном aлгoритму кojи прeдстaвљa тajну.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>Одређивање и додељивање јединственог броја</heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Централни регистар, по службеној дужности, одређује и додељује jединствени број:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> осигураницима и осигураним лицима, у поступку регистрације, приликом пријема јединствене пријаве у Централни регистар;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> обвезницима доприносa – послодавцима и исплатиоцима прихода, приликом преузимања података из регистара који воде органи и организације надлежни за регистрацију правних и физичких лица, као и за упис лица која обављају одређену делатност.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Јединствени број се додељује и затеченим обвезницима доприноса, осигураницима и осигураним лицима који су, у поступку успостављања Јединствене базе Централног регистра, из постојећих база података организација обавезног социјалног осигурања и Пореске управе преузети у Јединствену базу Централног регистра.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<heading>Генерисање случајног броја из другог поља</heading>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>При генерисању новог случајног бројa из <ref>члана 3. став 4. овог</ref> правилника, прво се проверава да ли је тај број већ искоришћен, па ако није, врши се процес генерисања тог броја, по утврђеном алгоритму, а ако јесте генерише се други број који пролази исту проверу.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<heading>Неактиван јединствени број</heading>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Одређен и додељен јединствени број правном лицу прелази у статус неактивног јединственог броја након спроведеног поступка ликвидације или принудне ликвидације, закључења стечајног поступка или услед статусне промене која за последицу има брисање правног лица из регистра.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Одређен и додељен јединствени број физичком лицу прелази у статус неактивног јединственог броја када предузетник – физичко лице изгуби својство предузетника брисањем из регистра привредних субјеката.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<heading>Додела два или више јединствених бројева</heading>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>У случају да се осигуранику одреде и доделе два јединствена броја или више јединствених бројева, користи се јединствени број који је први одређен, односно додељен, а касније одређени, односно додељени јединствени број поништава се.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Јединствени број који је одређен и додељен, а након тога поништен, остаје забележен као неактиван – поништен јединствени број и не може се доделити другом носиоцу јединственог броја.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<heading>Ступање правилника на снагу</heading>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Број 110-00-00475/2012-07</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>У Београду, 29. маја 2012. године</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav5">
+						<content>
+							<p>Расим Љајић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

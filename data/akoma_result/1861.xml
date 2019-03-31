@@ -1,0 +1,1031 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2011/102-83/main"/>
+					<FRBRuri value="/rs/act/2011/102-83"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2013/119-17/srp@/main"/>
+					<FRBRuri value="/rs/act/2013/119-17/srp@"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2013/119-17/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2013/119-17/srp@.akn"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2011-12-31" name="службени гласник рс" number="102" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="2. Војска Србије" value="2. војска србије"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-12-29" id="usvajanje"/>
+				<step date="2012-01-08" id="stupanje_na_snagu"/>
+				<step date="2012-01-08" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="102/2011-83" id="e1" type="generation"/>
+				<eventRef date="37/2012-3" id="e2" type="amendment"/>
+				<eventRef date="107/2012-10" id="e3" type="amendment"/>
+				<eventRef date="119/2013-17" id="e4" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 8. јануара 2012. године (види <ref>члан 31. </ref>Уредбе).Даном ступања на снагу ове уредбе Фонд наставља са радом у складу са делокругом, организацијом и надлежностима утврђеним овом уредбом (види <ref>члан 27. </ref>Уредбе).Даном ступања на снагу ове уредбе престаје мандат члановима Скупштине Фонда, а њене послове преузима Управни одбор (види <ref>члан 28. </ref>Уредбе).Директор, заменик директора и чланови органа Фонда именовани до дана ступања на снагу ове уредбе, настављају са радом и обављањем послова у складу са одредбама ове уредбе до именовања директора, заменика директора и чланова органа Фонда, у складу са овом уредбом (види <ref>члан 28. </ref>Уредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 278. </ref>Закона о Војсци Југославије („<ref id="ref12" href="/rs/act/94/43/srp@">Службени лист СРЈ”, бр. 43/94, 28/96, 22/99, 44/99, 74/99, 3/02, 37/02</ref> и „<ref id="ref13" href="/rs/act/05/7/srp@">Службени лист СЦГ”, бр. 7/05</ref> и 44/05), а у вези са чланом 197. став 2. Закона о Војсци Србије („<ref id="ref14" href="/rs/act/07/116/srp@">Службени гласник РС”, бр. 116/07, 88/09</ref> и 101/10 – др. закон) и <ref>члана 42. став 1. </ref>Закона о Влади („<ref id="ref15" href="/rs/act/05/55/srp@">Службени гласник РС”, бр. 55/05, 71/05</ref> – исправка, 101/07, 65/08 и 16/11),</p>
+		</preamble>
+		<preface>
+			<authority>Влада доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о надлежности, делокругу, организацији и начину пословања Фонда за социјално осигурање војних осигураника</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 102 од 31. децембра 2011,      37 од 22. априла 2012, 107 од 9. новембра 2012, 119 од 30.      децембра 2013.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>УВОДНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овом уредбом уређује се надлежност, делокруг, организација и начин пословања Фонда за социјално осигурање војних осигураника (у даљем тексту: Фонд).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Појмови који се користе у овој уредби имају следеће значење:</p>
+									<point id="gla1-clan2-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> здравствено осигурање војних осигураника је осигурање којим се обезбеђује војним осигураницима право на коришћење обавезне здравствене заштите и право на новчана примања по основу права из здравственог осигурања, под условима прописаним законом;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> војни осигураници у смислу остваривања права из здравственог осигурања, јесу лица која имају својство професионалног војног лица, лица која су остварила право на пензију по основу вршења професионалне војне службе, као и чланови њихових породица утврђени прописима којима се уређује здравствена заштита, уколико осигурање не остварују по другом основу;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> други осигураници су: војници на одслужењу војног рока, ученици и кадети војних школа, слушаоци школа за резервне официре и лица у резервном саставу, у складу са законом;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> материјално обезбеђење обухвата прописане накнаде трошкова по основу обезбеђивања станова и друге врсте помоћи за побољшање материјалног положаја корисника права одређене законом;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> корисник права на материјално обезбеђење је војни осигураник који остварује право на обезбеђење станова и друге врсте материјалне помоћи, под условима прописаним законом и општим актима Фонда;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> војноздравствене установе су установе Министарства одбране које врше послове здравствене заштите као делатност логистичке подршке Војске Србије;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> цивилне здравствене установе су здравствене установе које обављају здравствену делатност на територији Републике Србије у складу са законом.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>НАДЛЕЖНОСТ ФОНДА</heading>
+				<content>
+					<article id="gla2-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla2-clan3-stav1">
+								<content>
+									<p>Фонд је правно лице са статусом      организације за обавезно социјално осигурање у којем се      остварују права из обавезног здравственог осигурања војних      осигураника и обезбеђују средства за здравствено осигурање и      материјално обезбеђење корисника права у складу са законом којим      се уређује здравствено осигурање војних осигураника.*</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav2">
+								<content>
+									<p>Фонд је носилац права, обавеза и одговорности у правном промету у односу на средства за финансирање здравственог осигурања и материјалног обезбеђења којима располаже.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav3">
+								<content>
+									<p>Фонд се уписује у судски регистар.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<heading>*<ref id="ref16" href="/rs/act/2012/107/srp@">Службени гласник РС, број 107/2012</ref></heading>
+						<content>
+							<clause id="gla2-clan4-stav1">
+								<content>
+									<p>Обавезно здравствено осигурање и материјално обезбеђење војних и других осигураника обезбеђује и спроводи Фонд и организационе јединице Фонда одређене статутом Фонда.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav2">
+								<content>
+									<p>Одређене послове обавезног здравственог осигурања војних и других осигураника по основу обавезне здравствене заштите у војним односно цивилним здравственим установама Фонд обавља и на основу уговора са Републичким фондом за здравствено осигурање, у складу са законом којим се уређује здравствено осигурање.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla2-clan5-stav1">
+								<content>
+									<p>Рад органа Фонда је јаван.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan5-stav2">
+								<content>
+									<p>Општа акта Фонда објављују се у „Службеном војном листу” на начин на који се објављују прописи из области одбране.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ДЕЛОКРУГ ФОНДА</heading>
+				<content>
+					<article id="gla3-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla3-clan6-stav1">
+								<content>
+									<p>Фонд обезбеђује остваривање права и обавеза из здравственог осигурања војних осигураника и других осигураника и остваривање права на материјално обезбеђење корисника права прописаних законом и општим актима Фонда.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan6-stav2">
+								<content>
+									<p>Поред послова из става 1. овог члана, Фонд обавља и следеће послове:</p>
+									<point id="gla3-clan6-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> обезбеђује наменско и економично коришћење средстава здравственог осигурања     и материјалног обезбеђења*;</p>
+										</content>
+									</point>
+									<point id="gla3-clan6-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> организује и обезбеђује ефикасно и рационално обављање послова спровођења здравственог осигурања      и материјалног обезбеђења* и законито остваривање права;</p>
+										</content>
+									</point>
+									<point id="gla3-clan6-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> врши статистичка и друга истраживања у области здравственог осигурања војних осигураника;</p>
+										</content>
+									</point>
+									<point id="gla3-clan6-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> устројава и организује матичну евиденцију и врши контролу пријаве и одјаве на здравствено осигурање, оверава и поништава здравствену књижицу и картицу здравственог осигурања;</p>
+										</content>
+									</point>
+									<point id="gla3-clan6-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> обавља послове у вези са накнадом штете причињене Фонду по основу злоупотреба у вези са коришћењем права из здравственог осигурања и материјалног обезбеђења;</p>
+										</content>
+									</point>
+									<point id="gla3-clan6-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> закључује уговоре са цивилним здравственим установама које пружају здравствене услуге у складу са законом и обезбеђује средства за спровођење здравствене заштите на основу тих уговора;</p>
+										</content>
+									</point>
+									<point id="gla3-clan6-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> води евиденцију и прати наплату доприноса и других прихода Фонда;</p>
+										</content>
+									</point>
+									<point id="gla3-clan6-stav2-tac8">
+										<num>8)</num>
+										<content>
+											<p> обавља послове у вези са управљањем и располагањем покретном и непокретном имовином Фонда;</p>
+										</content>
+									</point>
+									<point id="gla3-clan6-stav2-tac9">
+										<num>9)</num>
+										<content>
+											<p> пружа стручну помоћ осигураницима и корисницима права из здравственог осигурања и материјалног обезбеђења;</p>
+										</content>
+									</point>
+									<point id="gla3-clan6-stav2-tac10">
+										<num>10)</num>
+										<content>
+											<p> обезбеђује информисање војних осигураника у вези са остваривањем права из здравственог осигурања и материјалног обезбеђења;</p>
+										</content>
+									</point>
+									<point id="gla3-clan6-stav2-tac11">
+										<num>11)</num>
+										<content>
+											<p> остварује стручну, пословну и другу сарадњу и закључује уговоре и друге правне послове са домаћим правним и физичким лицима;</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan6-stav3">
+								<content>
+									<p>11а) обезбеђује финансијске и      друге услове за остваривање права на коришћење здравствене      заштите у иностранству, односно на упућивање војних осигураника      на лечење у иностранство;*</p>
+									<point id="gla3-clan6-stav3-tac12">
+										<num>12)</num>
+										<content>
+											<p> обавља и друге послове утврђене законом, статутом и другим актима Фонда.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan6-stav4">
+								<content>
+									<p>Одлуку о упућивању војног      осигураника на лечење у иностранство Фонд доноси уз претходно      прибављену сагласност министра одбране.**</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan6-stav5">
+								<content>
+									<p>*<ref id="ref17" href="/rs/act/2012/37/srp@">Службени гласник РС, број      37/2012</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan7">
+						<num>7.</num>
+						<heading>**<ref id="ref18" href="/rs/act/2012/107/srp@">Службени      гласник РС, број 107/2012</ref></heading>
+						<content>
+							<clause id="gla3-clan7-stav1">
+								<content>
+									<p>Ради спровођења и унапређења здравственог осигурања, Фонд остварује сарадњу са надлежним министарствима и правним и физичким лицима.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla3-clan8-stav1">
+								<content>
+									<p>Министарство одбране даје претходну      сагласност на општа акта која доносе органи Фонда, изузев општих      аката на које сагласност даје Влада.*</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan8-stav2">
+								<content>
+									<p>*<ref id="ref19" href="/rs/act/2012/107/srp@">Службени      гласник РС, број 107/2012</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ОРГАНИЗАЦИЈА ФОНДА</heading>
+				<content>
+					<article id="gla4-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla4-clan9-stav1">
+								<content>
+									<p>Фондом управљају органи Фонда под условима прописаним законом.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan9-stav2">
+								<content>
+									<p>Органи Фонда су: Управни одбор, Надзорни одбор и директор.</p>
+									<тачка id="gla4-clan9-stav2-tac1">
+										<num>1.</num>
+										<content>
+											<p> Управни одбор</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla4-clan10-stav1">
+								<content>
+									<p>Управни одбор:</p>
+									<point id="gla4-clan10-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> доноси статут, пословник о раду и друге опште акте, у складу са законом;</p>
+										</content>
+									</point>
+									<point id="gla4-clan10-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> утврђујe индикације за протезе, ортопедска и друга помагала и санитетска средства, рокове трајања тих средстава и помагала и услове за израду, односно набавку тих средстава и помагала, као и индикације за коришћење медицинске рехабилитације;</p>
+										</content>
+									</point>
+									<point id="gla4-clan10-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> утврђује начин остваривања права чланова породице војног осигураника на посмртну помоћ;</p>
+										</content>
+									</point>
+									<point id="gla4-clan10-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> одлучује о употреби, условима и начину коришћења средстава за побољшање материјалног положаја корисника права;</p>
+										</content>
+									</point>
+									<point id="gla4-clan10-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> доноси план и програм рада Фонда, финансијски план, план набавки и завршни рачун Фонда, уз претходну сагласност Министарства одбране;</p>
+										</content>
+									</point>
+									<point id="gla4-clan10-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> одлучује о отписивању потраживања Фонда насталих услед штете причињене средствима Фонда;</p>
+										</content>
+									</point>
+									<point id="gla4-clan10-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> одлучује о пословању и другим питањима од значаја за рад Фонда;</p>
+										</content>
+									</point>
+									<point id="gla4-clan10-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> подноси извештај о пословању Фонда     Министарству одбране и* Влади;</p>
+										</content>
+									</point>
+									<point id="gla4-clan10-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> обавља и друге послове, у складу са статутом Фонда.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla4-clan10-stav2">
+								<content>
+									<p>Статутом Фонда ближе се уређују: унутрашња организација и начин рада Фонда, јавност рада органа Фонда и друга питања значајна за рад органа и пословање Фонда.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan10-stav3">
+								<content>
+									<p>Влада, на предлог министра одбране, даје сагласност на статут Фонда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan11">
+						<num>11.</num>
+						<heading>*<ref id="ref20" href="/rs/act/2012/107/srp@">Службени гласник      РС, број 107/2012</ref></heading>
+						<content>
+							<clause id="gla4-clan11-stav1">
+								<content>
+									<p>Управни одбор има девет чланова, укључујући председника и заменика председника.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan11-stav2">
+								<content>
+									<p>Председника, заменика председника и чланове Управног одбора именује Влада на четири године, на предлог министра одбране.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan11-stav3">
+								<content>
+									<p>Начин рада, овлашћења и одговорности чланова Управног одбора, као и друга питања од значаја за његов рад уређују се статутом Фонда и пословником о раду Управног одбора.</p>
+									<тачка id="gla4-clan11-stav3-tac2">
+										<num>2.</num>
+										<content>
+											<p> Надзорни одбор</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla4-clan12-stav1">
+								<content>
+									<p>Надзорни одбор:</p>
+									<point id="gla4-clan12-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> врши надзор над финансијским пословањем Фонда;</p>
+										</content>
+									</point>
+									<point id="gla4-clan12-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> врши увид у спровођење законских обавеза Фонда;</p>
+										</content>
+									</point>
+									<point id="gla4-clan12-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> врши увид у спровођење одлука Управног одбора;</p>
+										</content>
+									</point>
+									<point id="gla4-clan12-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> обавља и друге послове у складу са Статутом Фонда.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla4-clan12-stav2">
+								<content>
+									<p>Надзорни одбор најмање једном годишње подноси извештај о раду      Фонда Министарству одбране и Влади.*</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan12-stav3">
+								<content>
+									<p>Органи      и запослени у Фонду дужни су да члановима Надзорног одбора ставе      на увид документацију и податке и да пруже обавештења од значаја      за вршење надзора.*</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan13">
+						<num>13.</num>
+						<heading>*<ref id="ref21" href="/rs/act/2012/107/srp@">Службени гласник      РС, број 107/2012</ref></heading>
+						<content>
+							<clause id="gla4-clan13-stav1">
+								<content>
+									<p>Надзорни одбор има пет чланова, укључујући председника и заменика председника.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan13-stav2">
+								<content>
+									<p>Председника, заменика председника и чланове Надзорног одбора именује Влада на четири године, на предлог министра одбране.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan13-stav3">
+								<content>
+									<p>Начин рада, овлашћења и одговорности чланова Надзорног одбора, као и друга питања од значаја за његов рад уређују се статутом Фонда и пословником о раду Надзорног одбора.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla4-clan14-stav1">
+								<content>
+									<p>Влада, на предлог министра одбране, може да разреши председника и заменика председника Управног одбора и Надзорног одбора, као и Управни одбор и Надзорни одбор у целини и пре истека времена на које су именовани, када утврди да своја права и дужности не обављају у складу са овом уредбом и статутом Фонда.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan14-stav2">
+								<content>
+									<p>Председник, заменик председника и чланови Управног одбора и Надзорног одбора могу поднети оставку и пре истека времена на које су именовани.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan14-stav3">
+								<content>
+									<p>У случају оставке или разрешења појединог члана Управног одбора или Надзорног одбора, нови члан именује се до истека мандата том сазиву Управног, односно Надзорног одбора.</p>
+									<тачка id="gla4-clan14-stav3-tac3">
+										<num>3.</num>
+										<content>
+											<p> Директор</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla4-clan15-stav1">
+								<content>
+									<p>Директор:</p>
+									<point id="gla4-clan15-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> представља и заступа Фонд;</p>
+										</content>
+									</point>
+									<point id="gla4-clan15-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> организује рад и пословање Фонда;</p>
+										</content>
+									</point>
+									<point id="gla4-clan15-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> стара се о законитости рада Фонда и одговара за законитост рада;</p>
+										</content>
+									</point>
+									<point id="gla4-clan15-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> стара се о припреми општих аката и других материјала о којима одлучује Управни одбор;</p>
+										</content>
+									</point>
+									<point id="gla4-clan15-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> организује извршавање одлука и закључака које доноси Управни одбор и Надзорни одбор;</p>
+										</content>
+									</point>
+									<point id="gla4-clan15-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> предлаже министру одбране акт о унутрашњој организацији и систематизацији радних места Фонда;</p>
+										</content>
+									</point>
+									<point id="gla4-clan15-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> предлаже Управном одбору план и програм рада Фонда, финансијски план, план набавки и завршни рачун Фонда;</p>
+										</content>
+									</point>
+									<point id="gla4-clan15-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> решава о правима из здравственог осигурања      и правима корисника пензије на материјално обезбеђење* када је посебним прописима одређено да о тим правима решава Фонд;</p>
+										</content>
+									</point>
+									<point id="gla4-clan15-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> одлучује о правима из радног односа запослених;</p>
+										</content>
+									</point>
+									<point id="gla4-clan15-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> врши и друге послове утврђене законом и статутом Фонда.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan16">
+						<num>16.</num>
+						<heading>*<ref id="ref22" href="/rs/act/2012/37/srp@">Службени гласник РС, број      37/2012</ref></heading>
+						<content>
+							<clause id="gla4-clan16-stav1">
+								<content>
+									<p>Директора * и      заменика директора** именује министар одбране на четири године.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan16-stav2">
+								<content>
+									<p>*<ref id="ref23" href="/rs/act/2012/37/srp@">Службени гласник РС, број      37/2012</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan17">
+						<num>17.</num>
+						<heading>**<ref id="ref24" href="/rs/act/2012/107/srp@">Службени гласник      РС, број 107/2012</ref></heading>
+						<content>
+							<clause id="gla4-clan17-stav1">
+								<content>
+									<p>Чланови органа Фонда по истеку мандата настављају да обављају текуће и неодложне послове, у складу са законом и статутом Фонда, до дана именовања нових чланова у органе Фонда.</p>
+									<тачка id="gla4-clan17-stav1-tac4">
+										<num>4.</num>
+										<content>
+											<p> Стручна служба Фонда</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="gla4-clan18-stav1">
+								<content>
+									<p>Обављање стручних, административних, финансијских и других      послова за потребе Фонда обезбеђује Министарство одбране, на      терет средстава Фонда.*</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan18-stav2">
+								<content>
+									<p>Министар одбране може одредити да одређене стручне послове из      области социјалног осигурања војних осигураника обављају      јединице и установе Војске Србије.*</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan18-stav3">
+								<content>
+									<p>*<ref id="ref25" href="/rs/act/2013/119/srp@">Службени гласник РС, број 119/2013</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>НАЧИН ПОСЛОВАЊА ФОНДА</heading>
+				<content>
+					<article id="gla5-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="gla5-clan19-stav1">
+								<content>
+									<p>У Фонду се обезбеђује економично, рационално и ефикасно коришћење средстава за намене утврђене законом и овом уредбом.</p>
+									<тачка id="gla5-clan19-stav1-tac1">
+										<num>1.</num>
+										<content>
+											<p> Финансијско пословање</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla5-clan20-stav1">
+								<content>
+									<p>Приход Фонда чине средства остварена:</p>
+									<point id="gla5-clan20-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> од доприноса за здравствено осигурање војних осигураника;</p>
+										</content>
+									</point>
+									<point id="gla5-clan20-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> из буџета;</p>
+										</content>
+									</point>
+									<point id="gla5-clan20-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> из прихода остварених по основу улагања средстава Фонда;</p>
+										</content>
+									</point>
+									<point id="gla5-clan20-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> по основу накнаде штете;</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla5-clan20-stav2">
+								<content>
+									<p>4а) брисана      је (види <ref>члан 7. </ref>Уредбе - 107/2012-10)</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan20-stav3">
+								<content>
+									<p>4б)      брисана је      (види <ref>члан 7. </ref>Уредбе - 107/2012-10)</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan20-stav4">
+								<content>
+									<p>4в)      брисана је      (види <ref>члан 7. </ref>Уредбе - 107/2012-10)</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan20-stav5">
+								<content>
+									<p>4г)      брисана је      (види <ref>члан 7. </ref>Уредбе - 107/2012-10)</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan20-stav6">
+								<content>
+									<p>4д)      брисана      је (види <ref>члан 7. </ref>Уредбе - 107/2012-10)</p>
+									<point id="gla5-clan20-stav6-tac5">
+										<num>5)</num>
+										<content>
+											<p> из других прихода Фонда у складу са законом.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan21">
+						<num>21.</num>
+						<content>
+							<clause id="gla5-clan21-stav1">
+								<content>
+									<p>Средства Фонда користе се за:*</p>
+									<point id="gla5-clan21-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p>      остваривање права из здравственог осигурања;*</p>
+										</content>
+									</point>
+									<point id="gla5-clan21-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> рад      органа Фонда;*</p>
+										</content>
+									</point>
+									<point id="gla5-clan21-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p>      унапређење система здравствене заштите и опремање медицинском      опремом;*</p>
+										</content>
+									</point>
+									<point id="gla5-clan21-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p>      друге обавезе одређене законом, овом уредбом и другим прописима      из области здравственог осигурања и за остваривање других права,      у складу са законом.*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan22">
+						<num>22.</num>
+						<heading>*<ref id="ref26" href="/rs/act/2012/107/srp@">Службени      гласник РС, број 107/2012</ref></heading>
+						<content>
+							<clause id="gla5-clan22-stav1">
+								<content>
+									<p>Финансијско пословање Фонда обухвата:</p>
+									<point id="gla5-clan22-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> израду финансијског плана прихода и расхода;</p>
+										</content>
+									</point>
+									<point id="gla5-clan22-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> остваривање прихода и извршење расхода;</p>
+										</content>
+									</point>
+									<point id="gla5-clan22-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> вођење пословних књига;</p>
+										</content>
+									</point>
+									<point id="gla5-clan22-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> састављање завршног рачуна и биланса.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla5-clan22-stav2">
+								<content>
+									<p>Припрема, достављање и усвајање      финансијског плана и завршног рачуна Фонда обавља се у складу са      одредбама закона којим се уређује буџетски систем Републике      Србије.*</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan23">
+						<num>23.</num>
+						<heading>*<ref id="ref27" href="/rs/act/2012/107/srp@">Службени гласник      РС, број 107/2012</ref></heading>
+						<content>
+							<clause id="gla5-clan23-stav1">
+								<content>
+									<p>Допринос за здравствено осигурање професионалних војних лица обрачунава се и уплаћује у складу са посебним законом.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan23-stav2">
+								<content>
+									<p>Републички фонд за пензијско и инвалидско осигурање обрачунава и уплаћује Фонду доприносе за здравствено осигурање корисника пензије остварене по основу професионалне војне службе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan24">
+						<num>24.</num>
+						<content>
+							<clause id="gla5-clan24-stav1">
+								<content>
+									<p>Из средстава доприноса за здравствено осигурање финансирају се трошкови обавезног здравственог осигурања,               расходи за обављање послова из <ref>члана 18. </ref>ове уредбе* и накнаде у случају повреде на раду и професионалне болести и у другим случајевима утврђеним законом.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan24-stav2">
+								<content>
+									<p>*<ref id="ref28" href="/rs/act/2013/119/srp@">Службени гласник      РС, број 119/2013</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<section id="gla5-od2">
+						<num>2.</num>
+						<heading> Накнада штете</heading>
+						<content>
+							<article id="gla5-od2-clan25">
+								<num>25.</num>
+								<content>
+									<clause id="gla5-od2-clan25-stav1">
+										<content>
+											<p>Фонд има право да захтева накнаду причињене штете по основу злоупотребе права из обавезног здравственог осигурања односно материјалног обезбеђења, под условима прописаним законом.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>НАДЗОР НАД РАДОМ ФОНДА</heading>
+				<content>
+					<article id="gla6-clan26">
+						<num>26.</num>
+						<content>
+							<clause id="gla6-clan26-stav1">
+								<content>
+									<p>Министарство одбране врши надзор над радом Фонда.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan26-stav2">
+								<content>
+									<p>Министарство одбране у вршењу надзора на радом Фонда овлашћено је да:</p>
+									<point id="gla6-clan26-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> захтева извештаје и податке о раду;</p>
+										</content>
+									</point>
+									<point id="gla6-clan26-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> утврди стање извршавања послова, упозори на уочене неправилности и одреди мере и рок за њихово отклањање;</p>
+										</content>
+									</point>
+									<point id="gla6-clan26-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> издаје инструкције;</p>
+										</content>
+									</point>
+									<point id="gla6-clan26-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> наложи предузимање послова које сматра потребним;</p>
+										</content>
+									</point>
+									<point id="gla6-clan26-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> покрене поступак за утврђивање одговорности.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla6-clan26-stav3">
+								<content>
+									<p>Извештај о раду садржи приказ извршавања послова, предузете мере, њихово дејство, као и друге податке.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla7">
+				<num>VII</num>
+				<heading>ПРЕЛАЗНЕ И ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla7-clan27">
+						<num>27.</num>
+						<content>
+							<clause id="gla7-clan27-stav1">
+								<content>
+									<p>Даном ступања на снагу ове уредбе Фонд наставља са радом у складу са делокругом, организацијом и надлежностима утврђеним овом уредбом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan28">
+						<num>28.</num>
+						<content>
+							<clause id="gla7-clan28-stav1">
+								<content>
+									<p>Даном ступања на снагу ове уредбе престаје мандат члановима Скупштине Фонда, а њене послове преузима Управни одбор.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan28-stav2">
+								<content>
+									<p>Директор, заменик директора и чланови органа Фонда именовани до дана ступања на снагу ове уредбе, настављају са радом и обављањем послова у складу са одредбама ове уредбе до именовања директора, заменика директора и чланова органа Фонда, у складу са овом уредбом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan29">
+						<num>29.</num>
+						<content>
+							<clause id="gla7-clan29-stav1">
+								<content>
+									<p>Директора и заменика директора Фонда именоваће министар одбране у року од 30 дана од дана ступања на снагу ове уредбе.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan29-stav2">
+								<content>
+									<p>У року од 90 дана од дана ступања на снагу ове уредбе, министар одбране предложиће Влади лица за именовање чланова Управног одбора и Надзорног одбора.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan29-stav3">
+								<content>
+									<p>Управни одбор ће у року од 30 дана од дана конституисања органа Фонда, у складу са овом уредбом, донети статут Фонда и пословник о раду Управног одбора.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan29-stav4">
+								<content>
+									<p>Члан 30</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan29-stav5">
+								<content>
+									<p>Даном ступања на снагу ове уредбе престаје да важи Уредба о надлежностима, делокругу, организацији и начину пословања Фонда за социјално осигурање војних осигураника („<ref id="ref29" href="/rs/act/94/36/srp@">Службени лист СРЈ”, број 36/94</ref>).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan31">
+						<num>31.</num>
+						<content>
+							<clause id="gla7-clan31-stav1">
+								<content>
+									<p>Ова уредба ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan31-stav2">
+								<content>
+									<p>05 број 110-10031/2011-1</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan31-stav3">
+								<content>
+									<p>У Београду, 29. децембра 2011. године</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan31-stav4">
+								<content>
+									<p>Влада</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan31-stav5">
+								<content>
+									<p>Први потпредседник Владе –</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan31-stav6">
+								<content>
+									<p>заменик председника Владе,</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan31-stav7">
+								<content>
+									<p>Ивица Дачић, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

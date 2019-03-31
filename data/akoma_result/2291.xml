@@ -1,0 +1,371 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2012/18-3/main"/>
+					<FRBRuri value="/rs/act/2012/18-3"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2013/54-105/srp@/main"/>
+					<FRBRuri value="/rs/act/2013/54-105/srp@"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2013/54-105/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2013/54-105/srp@.akn"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2012-3-9" name="службени гласник рс" number="18" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="XI ТРГОВИНА, ТУРИЗАМ И УГОСТИТЕЉСТВО" value="xi трговина, туризам и угоститељство"/>
+				<keyword id="grupa" showAs="2. Туризам и угоститељство" value="2. туризам и угоститељство"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2012-03-01" id="usvajanje"/>
+				<step date="2012-03-17" id="stupanje_na_snagu"/>
+				<step date="2012-03-17" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="18/2012-3" id="e1" type="generation"/>
+				<eventRef date="54/2013-105" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 17. марта 2012. године (види <ref>члан 11. </ref>Уредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 60. став 6. </ref>Закона о туризму („<ref id="ref7" href="/rs/act/09/36/srp@">Службени гласник РС”, бр. 36/09, 88/10</ref> и 99/11 – др. закон) и <ref>члана 42. став 1. </ref>Закона о Влади („<ref id="ref8" href="/rs/act/05/55/srp@">Службени гласник РС”, бр. 55/05, 71/05</ref> – исправка, 101/07, 65/08 и 16/11),</p>
+		</preamble>
+		<preface>
+			<authority>Влада доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о условима које мора да испуњава здравствена установа за пружање угоститељских услуга трећим лицима</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 18 од 9. марта   2012, 54 од 21. јуна 2013.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Oвом уредбом се прописују технички, економски, тржишни и други услови које мора да испуњава здравствена установа која пружа услуге смештаја и исхране трећим лицима.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Здравствена установа у којој се организује боравак и пружање услуга превенције, лечења и рехабилитације корисницима по основу упута надлежне лекарске комисије и комисије Републичког фонда за пензијско и инвалидско осигурање (у даљем тексту: здравствена установа), може пружати услуге смештаја, припремања и услуживања хране, пића и напитака трећим лицима (у даљем тексту: угоститељске услуге), на основу одобрења министра надлежног за послове туризма (у даљем тексту: министар).</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Здравствена установа пружа угоститељске услуге у објектима који испуњавају прописане минимално-техничке и санитарно-хигијенске услове за уређење и опремање угоститељских објеката (у даљем тексту: угоститељски објекат).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Здравствена установа својим актом одређује врсту угоститељског објекта и врсту услуге која се у њему пружа, као и број и структуру смештајних јединица у угоститељском објекту за смештај.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Број и структура смештајних јединица у којима се пружају услуге смештаја трећим лицима усаглашава се са планом мреже здравствених установа и са одредбама уговора који су закључени са Републичким фондом за здравствено осигурање и Републичким фондом за пензијско и инвалидско осигурање.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Смештајне јединице морају бити видно означене бројевима према принципима нумерације.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Одобрење из <ref>члана 2. став 1. </ref>ове уредбе издаје се решењем које се доноси на захтев здравствене установе.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Захтев из става 1. овог члана садржи:</p>
+							<point id="clan4-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> податке о здравственој установи;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> податке о угоститељском објекту;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> изјаву о испуњености минимално-техничких и санитарно-хигијенских услова;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> сагласност Привредне коморе Србије;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> сагласност министарства надлежног за послове здравља;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac6">
+								<num>6)</num>
+								<content>
+									<p> оверену копију уговора са Републичким фондом за здравствено осигурање о пружању здравствених услуга и Републичким фондом за пензијско и инвалидско осигурање.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Решење из става 1. овог члана је коначно.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content/>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<heading>Брисан је (види <ref>члан 1. </ref>Уредбе - 54/2013-105)</heading>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Угоститељски објекат који послује у оквиру здравствене установе разврстава се у одређену категорију угоститељског објекта за смештај врсте хотел, на захтев здравствене установе, ако поред услова из <ref>члана 2. </ref>ове уредбе, испуњава и услове утврђене стандардима за одређену категорију хотела и ако представља засебну грађевинску целину.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Уз захтев из става 1. овог члана прилаже се изјава са подацима о испуњености стандарда прописаних за одређену категорију хотела, као и са подацима о броју соба које су искључиво намењене пацијентима који може износити највише до 20% од укупног броја соба.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>У погледу права и обавеза здравствених установа у поступку разврставања угоститељског објекта у одређену категорију хотела, као и начин разврставања, примењују се одговарајуће одредбе закона којим се уређује туризам.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav4">
+						<content>
+							<p>Решење о разврставању угоститељског објекта у одређену категорију хотела које се доноси у складу са законом из става 3. овог члана, поред осталог, садржи и тачан број соба које су изузете из поступка категоризације.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Здравствена установа је дужна да за пружање угоститељских услуга у угоститељском објекту испуни услове који су прописани законом којим се уређује туризам, а нарочито да:</p>
+							<point id="clan7-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> на улазу у угоститељски објекат видно истакне назив здравствене установе и седиште, назив и врсту угоститељског објекта, као и радно време и да га се придржава у свом пословању;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> на улазу у угоститељски објекат видно истакне ознаку категорије хотела односно посебног стандарда који се у њему пружа, утврђеног решењем министра;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> у месту пословања у ком обавља угоститељску делатност поседује решење о одобрењу за пружање услуга исхране и смештаја трећим лицима издато од стране министра;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> се евидентира у Регистру туризма и да у месту пословања у ком обавља угоститељску делатност поседује уверење о евидентирању;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> у угоститељском објекту одржава просторије и опрему и пружа услуге према прописаним стандардима за врсту објеката у којој обавља делатност и за категорију хотела која му је одређена решењем министра;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> у писаном, говорном или визуелном јавном оглашавању тачно користи врсту угоститељског објекта и категорију хотела која му је одређена решењем министра;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> истакне цене смештаја, пансиона и полупансиона, износ боравишне таксе у свакој соби и на рецепцији, као и да истакне цене хране, пића и напитака у ценовницима који морају бити доступни корисницима услуга у довољном броју примерака и на сваком месту где се корисници услужују;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> утврди нормативе хране и пића које услужује и на захтев корисника услуга омогући увид у те нормативе, као и да услуге пружа у одговарајућој количини и квалитету према тим нормативима;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> утврди јединствене цене медицинских и осталих услуга које   здравствена установа пружа и учини их доступним свим корисницима;*</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> брисана је (види <ref>члан 2. </ref>Уредбе - 54/2013-105)</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> уредно врши наплату и уплату боравишне таксе;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> се придражава истакнутих цена;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> изда прописан рачун за сваку пружену услугу;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac14">
+								<num>14)</num>
+								<content>
+									<p> води евиденцију гостију дневно и уредно;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac15">
+								<num>15)</num>
+								<content>
+									<p> утврди кућни ред и истакне га на рецепцији, а изводе из кућног реда истакне у свим смештајним јединицама;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac16">
+								<num>16)</num>
+								<content>
+									<p> обавља делатност са пажњом доброг привредника.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<heading>*<ref id="ref9" href="/rs/act/2013/54/srp@">Службени гласник РС,   број 54/2013</ref></heading>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Здравствена установа оглашава, нуди на продају, продаје и пружа угоститељске услуге за које према овој уредби испуњава услове, у складу са законом којим се уређује туризам.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Здравствена установа којој је издато одобрење за обављање угоститељске делатности дужна је да о свакој промени података предвиђених овом уредбом обавести министaрство надлежно за послове туризма (у даљем тексту: министарство).</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Здравствена установа којој је издато одобрење за обављање угоститељске делатности дужна је да једном годишње, најкасније до 31. јануара, министарству достави податке о броју остварених ноћења и структури гостију у угоститељском објекту за претходну годину.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Надзор над спровођењем ове уредбе врши министарство.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Ова уредба ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Број 110-1545/2012-1</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav3">
+						<content>
+							<p>У Београду, 1. марта 2012. године</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav4">
+						<content>
+							<p>Влада</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav5">
+						<content>
+							<p>Председник,</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav6">
+						<content>
+							<p>др   Мирко Цветковић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

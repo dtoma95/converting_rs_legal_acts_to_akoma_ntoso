@@ -1,0 +1,246 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2018/96-151/main"/>
+					<FRBRuri value="/rs/act/2018/96-151"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/96-151/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/96-151/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/96-151/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/96-151/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2018-12-11" name="службени гласник рс" number="96" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="3. Војна опрема, наоружање и роба двоструке намене" value="3. војна опрема, наоружање и роба двоструке намене"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2018-12-05" id="usvajanje"/>
+				<step date="2018-12-19" id="stupanje_na_snagu"/>
+				<step date="2018-12-19" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 13. став 3. </ref>и <ref>члана 15. став 3. </ref>Закона о извозу и увозу наоружања и војне опреме („<ref id="ref2" href="/rs/act/14/107/srp@">Службени гласник РС”, број 107/14</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар трговине, туризма и телекомуникација доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о обрасцу и садржини захтева за издавање дозволе, обрасцу дозволе и другим обрасцима који прате извоз и увоз наоружања и војне опреме</title>
+			<date>&quot;Службени гласник РС&quot;, број 96 од 11. децембра     2018.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се обрасци и садржина захтева за издавање дозволе, образац дозволе, обрасци и садржај захтева за издавање и обрасци и садржај сертификата и потврде који прате извоз и увоз наоружања и војне опреме, пружање брокерске услуге  и техничке помоћи, и то:</p>
+							<point id="clan1-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> образац захтева за издавање дозволе за извоз и увоз наоружања и војне опреме, пружање брокерских услуга и техничке помоћи;</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> образац дозволе за извоз наоружања и војне опреме;</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> образац дозволе за увоз наоружања и војне опреме;</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> образац дозволе за пружање брокерских услуга;</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> образац дозволе за пружање техничке помоћи;</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> образац изјаве крајњег корисника са потврдом пријема робе;</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> образац изјаве о употреби наоружања и војне опреме у сопственој производњи;</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> образац захтева за издавање потврде о крајњем кориснику за увоз наоружања и војне опреме у сопственој производњи;</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> образац потврде о крајњем кориснику за увоз наоружања и војне опреме у сопственој производњи (End User Certificate);</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> образац захтева за издавање међународног увозног сертификата;</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> образац међународног увозног сертификата (International Import Certificate);</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> образац потврде о пријему наоружања и војне опреме (Delivery Verification Certificate).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Обрасци из става 1. овог члана одштампани су уз овај правилник и чине његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Даном ступања на снагу овог правилника престаје да важи Правилник о обрасцу и садржини захтева за издавање дозволе, обрасцу дозволе и другим обрасцима који прате извоз и увоз наоружања и војне опреме („<ref id="ref3" href="/rs/act/15/28/srp@">Службени гласник РС”, број 28/15</ref>).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Број 335-13-145/2018-10</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>У Београду, 5. децембра 2018. године</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav5">
+						<content>
+							<p>Расим Љајић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav6">
+						<content>
+							<p>Прилози</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav7">
+						<content>
+							<p>Захтев за издавање дозволе за извоз наоружања и војне опреме</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav8">
+						<content>
+							<p>Захтев     за издавање дозволе за увоз наоружања и војне опреме</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav9">
+						<content>
+							<p>Захтев     за издавање дозволе за пружање брокерских услуга     у вези са наоружањем и војном опремом</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav10">
+						<content>
+							<p>Захтев     за издавање дозволе за пружање     услуге техничке помоћи у вези са наоружањем и војном опремом;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav11">
+						<content>
+							<p>Дозвола за увоз наоружања и војне опреме</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav12">
+						<content>
+							<p>Дозвола за пружање брокерских услуга у вези са     наоружањем и војном опремом</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav13">
+						<content>
+							<p>Дозвола за пружање услуге техничке помоћи у вези са наоружањем и     војном опремом</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav14">
+						<content>
+							<p>Захтев за издавање сертификата крајњег корисника за наоружање и     војну опрему (EUC)</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav15">
+						<content>
+							<p>Сертификат крајњег     корисника</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav16">
+						<content>
+							<p>Захтев за издавање међународног увозног сертификата     за наоружање и војну опрему (International Import Certificate)</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav17">
+						<content>
+							<p>Међународни увозни     сертификат за наоружање и војну опрему</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav18">
+						<content>
+							<p>Захтев за издавање потврде     о пријему наоружања и војне опреме (Delivery Verification     Certificate)</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

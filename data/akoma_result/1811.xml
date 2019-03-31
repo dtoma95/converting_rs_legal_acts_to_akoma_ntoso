@@ -1,0 +1,232 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2006/112-23/main"/>
+					<FRBRuri value="/rs/act/2006/112-23"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2009/5-59/srp@/main"/>
+					<FRBRuri value="/rs/act/2009/5-59/srp@"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2009/5-59/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2009/5-59/srp@.akn"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2006-12-15" name="службени гласник рс“" number="112" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="4. Здравствено осигурање" value="4. здравствено осигурање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2006-11-30" id="usvajanje"/>
+				<step date="2006-12-23" id="stupanje_na_snagu"/>
+				<step date="2007-01-01" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="112/2006-23" id="e1" type="generation"/>
+				<eventRef date="5/2009-59" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник је ступио на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 23. децембра 2006. године, а примењује се од 1. јануара 2007. године (види <ref>члан 10. </ref>Правилника).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу <ref>члана 22. став 2. </ref>Закона о здравственом осигурању („<ref id="ref6" href="/rs/act/05/107/srp@">Службени гласник РС”, бр. 107/05</ref> и 109/05 – исправка),</p>
+		</preamble>
+		<preface>
+			<authority>Министар рада, запошљавања и социјалне политике, који је на основу Одлуке председника Владе број 02-01-00003/2006-01 од 14. новембра 2006. године, објављене у „Службеном гласнику РС”, број 102/06, преузео овлашћење министра здравља, доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о месечном износу прихода као цензусу за стицање својства осигураног лица</title>
+			<date>„Службени  гласник РС“, бр. 112 од 15. децембра  2006, 5 од 22. јануара  2009.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се месечни износ прихода као цензус за стицање својства осигураног лица (у даљем тексту: осигураник) за незапослена лица и друге категорије социјално угрожених лица чији су месечни приходи испод прихода утврђених у складу са овим правилником.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Приходима који служе за утврђивање месечног износа прихода као цензуса за стицање својства осигураника сматрају се приходи осигураника, као и чланова његове породице, остварени од:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> зараде, пензије, као и уговорене накнаде свих чланова породице, у складу са законом;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> пољопривреде и шумарства;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> самосталне делатности;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> капитала;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> непокретности;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> капиталне добити.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Приходом, у смислу става 1. тачка 1) овог правилника, не сматра се приход осигураника, као и чланова његове породице, ако је основ стицања тог прихода престао у претходном, односно у месецу у коме се подноси пријава на здравствено осигурање.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Члановима породице, у смислу овог правилника, сматрају се: супружник или ванбрачни партнер, деца рођена у браку или ван брака, усвојена и пасторчад и деца узета на издржавање, као и родитељи, под условом да живе у заједничком домаћинству.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Приходом из <ref>члана 2. став 1. тачка 1</ref>) овог правилника сматра се зарада, пензија, као и уговорена накнада свих чланова породице, која је остварена у претходном календарском месецу пре подношења пријаве на здравствено осигурање.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Приходом из <ref>члана 2. став 1. </ref>тач. 2) – 6) овог правилника сматра се приход остварен у претходној календарској години пре подношења пријаве на здравствено осигурање, односно последњи познат податак о том приходу који се води код надлежног органа, прерачунат на месечни ниво.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Незапослено лице и друге категорије социјално угрожених лица стичу својство осигураника под условом да просечни месечни приход појединца који живи сам не прелази износ минималне зараде у нето износу утврђене у складу са прописима о раду у месецу подношења пријаве, увећане за 30%.*</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<heading>*<ref id="ref7" href="/rs/act/2009/5/srp@">Службени гласник РС, број 5/2009</ref></heading>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Незапослено лице и друге категорије социјално угрожених лица стичу својство осигураника под условом да просечни месечни приход по члану породице не прелази износ минималне зараде у нето износу, утврђене у складу са прописима о раду, у месецу подношења пријаве.*</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<heading>*<ref id="ref8" href="/rs/act/2009/5/srp@">Службени гласник РС, број 5/2009</ref></heading>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Месечни износ прихода из <ref>члана 4. став 1. овог</ref> правилника, за чланове породице који остварују зараду, пензију, као и уговорену накнаду, доказује се на основу потврде послодавца о висини исплаћене зараде, копије документа о исплаћеној пензији и потврде исплатиоца о висини уговорене накнаде, за све чланове породице.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>За чланове породице који не остварују зараду, пензију, као и уговорену накнаду, подносилац пријаве на здравствено осигурање доставља оверену копију радне књижице или извод из матичне евиденције Републичког фонда за пензијско и инвалидско осигурање запослених, осим за децу до краја прописаног школовања.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Месечни износ прихода из <ref>члана 4. став 2. овог</ref> правилника доказује се на основу уверења о висини прихода на који се плаћа порез, за све чланове породице, издатог од надлежног органа према месту пребивалишта, односно боравишта, односно према месту непокретности или обављања самосталне делатности.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>При утврђивању месечног износа прихода из чл. 7. и 8. овог правилника, подносилац пријаве за обавезно здравствено осигурање даје писмену изјаву да он, односно чланови његове породице, немају других прихода.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, а примењује се од 1. јануара 2007. године.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Број 110-00-000417/2006-03</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>У Београду, 30. новембра 2006. године</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

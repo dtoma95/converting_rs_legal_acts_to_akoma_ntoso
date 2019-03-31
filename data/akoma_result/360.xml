@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2009/92-6/main"/>
+					<FRBRuri value="/rs/act/2009/92-6"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/40-45/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/40-45/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/40-45/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/40-45/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2009-11-7" name="службени гласник рс" number="92" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Решење" value="решење"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="6. Слободне зоне" value="6. слободне зоне"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2009-11-05" id="usvajanje"/>
+				<step date="2009-11-15" id="stupanje_na_snagu"/>
+				<step date="2009-11-15" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="92/2009-6" id="e1" type="generation"/>
+				<eventRef date="40/2011-45" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 8. </ref>Закона о      слободним зонама („<ref id="ref2" href="/rs/act/06/62/srp@">Службени гласник РС”, број 62/06</ref>) и <ref>члана 43</ref>.      став 2. Закона о Влади („<ref id="ref3" href="/rs/act/05/55/srp@">Службени гласник РС”, бр. 55/05, 71/05</ref>      – исправка, 101/07 и 65/08),</p>
+			<p>Влада доноси</p>
+		</preamble>
+		<preface>
+			<authority>РЕШЕЊЕ</authority>
+			<title>о давању сагласности за одређивање      подручја слободне зоне „ФАС Слободна зона” у Крагујевцу</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 92 од 7.      новембра 2009, 40 од 8. јуна 2011.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Даје се      сагласност Друштву са ограниченом одговорношћу „Слободна зона      ФАС”, са седиштем у Крагујевцу, ул. Косовска број 4, ПИБ      106270251, за одређивање подручја слободне зоне „ФАС Слободна      зона”,           на површини од 176 ha 45 а 62 m²*,      која се одређује катастарским парцелама бр. 1/1, * ,      1/18, 1/19,           1/23, 1/24, 1/25, 1/26, 1/27, 1/28,*      342, 351, 425, 1983, 6411, 6412,           670/1, 670/2, 670/3, 670/4, 670/5, 670/6, 670/7 и 670/8*      Катастарске општине Крагујевац 2 и број 10462 Катастарске      општине Крагујевац 4, које су повезане у пословну целину,      просторно ограђену и посебно означену.</heading>
+				<content>
+					<clause id="od1-stav1">
+						<content>
+							<p>*<ref id="ref4" href="/rs/act/2011/40/srp@">Службени гласник      РС, број 40/2011</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Ово решење ступа      на снагу осмог дана од дана објављивања у „Службеном гласнику      Републике Србије”.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>05 број      483-7116/2009     У Београду, 5. новембра 2009. године     Влада     Први потпредседник Владе –     заменик председника Владе,     Ивица Дачић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

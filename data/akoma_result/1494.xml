@@ -1,0 +1,381 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2013/60-54/main"/>
+					<FRBRuri value="/rs/act/2013/60-54"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2015/78-23/srp@/main"/>
+					<FRBRuri value="/rs/act/2015/78-23/srp@"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2015/78-23/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2015/78-23/srp@.akn"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2013-7-10" name="службени гласник рс" number="60" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="5. Оружје, муниција, опасне и експлозивне материје" value="5. оружје, муниција, опасне и експлозивне материје"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2013-06-24" id="usvajanje"/>
+				<step date="2013-07-18" id="stupanje_na_snagu"/>
+				<step date="2013-07-18" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="60/2013-54" id="e1" type="generation"/>
+				<eventRef date="78/2015-23" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 13. став 7. </ref>Закона о транспорту опасног терета („<ref id="ref2" href="/rs/act/10/88/srp@">Службени гласник РС”, број 88/10</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Mинистар саобраћаја доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о условима у погледу стручне оспособљености које мора да испуњава овлашћено стручно лице које испитује посуду под притиском или цистерну за транспорт опасног терета, о обрасцу Регистра овлашћених стручних лица и о изгледу жига</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 60 од 10. јула 2013, 78 од 11.   септембра 2015.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником ближе се прописују услови које у погледу стручне оспособљености мора да испуњава овлашћено стручно лице које испитује посуду под притиском или цистерну за транспорт опасног терета (у даљем тексту: стручно лице), образац Регистра овлашћених стручних лица за испитивање посуде под притиском и цистерне за транспорт опасног терета и изглед жига којим се означава испитана посуда или цистерна за транспорт опасног терета.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Ближи услови у погледу стручне оспособљености које мора да испуњава   стручно лице овлашћено за испитивање посуде под притиском и/или цистерне за   транспорт опасног терета обухватају:*</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> стечено високо образовање из области машинског инжењерства на   једном од следећих нивоа:*</p>
+									<item id="clan2-stav1-tac1-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> основнe студијe у трајању од најмање четири године,*</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> основне академске студије у обиму од најмање 240 ЕСПБ бодова,*</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> мастер академске студије, ако је лице завршило и основне студије   на студијском програму из области машинског инжењерства,*</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> специјалистичкe струковнe студијe, ако је лице завршило и   основне струковне студије на студијском програму из области машинског   инжењерства;*</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> стручна знања из области испитавања одговарајуће врсте посуде под   притиском или цистерне, у складу са потврђеним међународним споразумима из   <ref>члана 2. став 2. </ref>Закона о транспорту опасног терета, за чије испитивање се   лице овлашћује; познавање технологије производње одговарајуће врсте посуде   под притиском или цистерне, укључујући и њихову опрему, у мери неопходној за   процес испитивања; познавање употребе опреме која се користи у процесу   испитивања одговарајуће врсте посуде под притиском или цистерне;*</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> поседовање сертификата за визуелно испитивање, и то најмање „ниво   2”, према стандарду EN ISO 9712, издатог од стране акредитованог   сертификационог тела према ISO/IEC 17024;*</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> радно искуство од најмање три године у области испитивања посуда   под притиском и/или цистерни за транспорт опасног терета;*</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> приступ потребној опреми код именованог тела за оцењивање   усаглашености, који му омогућава уредно испуњавање техничких и   административних задатака (списак техничке опреме за преглед посуда под   притиском и цистерни, рачунарскa опрема за сачињавање извештаја, електронски   пренос и размену података и сл.).*</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>*<ref id="ref3" href="/rs/act/2015/78/srp@">Службени гласник РС, број 78/2015</ref></heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Образац Регистра овлашћених стручних лица за испитивање посуде под притиском и цистерне за транспорт опасног терета дат је у Прилогу 1 – Регистар овлашћених стручних лица за испитивање посуде под притиском и цистерне за транспорт опасног терета, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Регистар овлашћених стручних лица за испитивање посуде под притиском   и цистерне за транспорт опасног терета води се у електронском облику и   објављује на интернет страници Управе за транспорт опасног терета.*</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>*<ref id="ref4" href="/rs/act/2015/78/srp@">Службени гласник РС, број 78/2015</ref></heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Жиг којим се означава испитана посуда или цистерна за транспорт опасног терета је кружног облика пречника 10 mm и садржи словну или словно-бројчану ознаку именованог тела, као и бројчану (двоцифрену) ознаку стручног лица.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Минимална висина ознака из става 1. овог члана је 2,5 mm.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Изглед жига дат је у Прилогу 2, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Број 110-00-12/2013-01</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>У Београду, 24. јуна 2013. године</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav5">
+						<content>
+							<p>Милутин Мркоњић,   с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav6">
+						<content>
+							<p>Прилог 1.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav7">
+						<content>
+							<p>РЕГИСТАР ОВЛАШЋЕНИХ СТРУЧНИХ ЛИЦА ЗА ИСПИТИВАЊЕ ПОСУДЕ ПОД ПРИТИСКОМ И ЦИСТЕРНЕ ЗА ТРАНСПОРТ ОПАСНОГ ТЕРЕТА</p>
+						</content>
+					</clause>
+					<став id="clan5-stav8">
+						<table class="tabela-sa-borderom">
+							
+		
+							<tbody>
+								
+			
+								<tr>
+									
+				
+									<td align="center" width="10%">
+										
+				
+										<p>Деловодни број</p>
+									</td>
+									
+				
+									<td align="center" width="15%">
+										
+				
+										<p>Број решења о овлашћењу и датум овлашћивања, односно продужења важења овлашћења</p>
+										
+				
+									</td>
+									
+				
+									<td align="center" width="15%">
+										
+				
+										<p>Име и презиме стручног лица, контакт телефон и </p>
+										
+				
+										<p>е-mail адреса</p>
+									</td>
+									
+				
+									<td align="center" width="15%">
+										
+				
+										<p>Именовано или овлашћено тело код кога је стручно лице запослено или ангажовано</p>
+										
+				
+									</td>
+									
+				
+									<td align="center" width="15%">
+										
+				
+										<p>Датум престанка важења овлашћења</p>
+									</td>
+									
+				
+									<td align="center" width="15%">
+										
+				
+										<p>Број и изглед жига који је одобрила УТОТ</p>
+									</td>
+									
+				
+									<td align="center" width="15%">
+										
+				
+										<p>Овлашћење важи за:</p>
+									</td>
+									
+			
+								</tr>
+								
+			
+								<tr>
+									
+				
+									<td width="10%"/>
+									
+				
+									<td width="15%"/>
+									
+				
+									<td width="15%"/>
+									
+				
+									<td width="15%"/>
+									
+				
+									<td width="15%"/>
+									
+				
+									<td width="15%"/>
+									
+				
+									<td width="15%"/>
+									
+			
+								</tr>
+								
+			
+								<tr>
+									
+				
+									<td width="10%"/>
+									
+				
+									<td width="15%"/>
+									
+				
+									<td width="15%"/>
+									
+				
+									<td width="15%"/>
+									
+				
+									<td width="15%"/>
+									
+				
+									<td width="15%"/>
+									
+				
+									<td width="15%"/>
+									
+			
+								</tr>
+								
+			
+								<tr>
+									
+				
+									<td width="10%"/>
+									
+				
+									<td width="15%"/>
+									
+				
+									<td width="15%"/>
+									
+				
+									<td width="15%"/>
+									
+				
+									<td width="15%"/>
+									
+				
+									<td width="15%"/>
+									
+				
+									<td width="15%"/>
+									
+			
+								</tr>
+								
+		
+							</tbody>
+							
+	
+						</table>
+						
+	
+						<content/>
+					</став>
+					<clause id="clan5-stav9">
+						<content>
+							<p>Прилог 2.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav10">
+						<content>
+							<p>ИЗГЛЕД ЖИГА</p>
+						</content>
+					</clause>
+					<став id="clan5-stav11">
+						<img alt="zig.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/zig_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419603&amp;regactid=419603"/>
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

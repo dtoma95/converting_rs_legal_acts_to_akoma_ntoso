@@ -1,0 +1,852 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1998/63-1/main"/>
+					<FRBRuri value="/rs/act/1998/63-1"/>
+					<FRBRdate date="1998" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2001/14-1/srp@/main"/>
+					<FRBRuri value="/rs/act/2001/14-1/srp@"/>
+					<FRBRdate date="2001" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2001/14-1/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2001/14-1/srp@.akn"/>
+					<FRBRdate date="2001" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1998-12-25" name="службени лист срј" number="63" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="VI СВОЈИНСКИ И ОБЛИГАЦИОНИ, ПОРОДИЧНИ И БРАЧНИ ОДНОСИ" value="vi својински и облигациони, породични и брачни односи"/>
+				<keyword id="grupa" showAs="1. Облици својине" value="1. облици својине"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1998-12-24" id="usvajanje"/>
+				<step date="1999-01-02" id="stupanje_na_snagu"/>
+				<step date="1999-01-02" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="63/1998-1" id="e1" type="generation"/>
+				<eventRef date="2/1999-7" id="e2" type="amendment"/>
+				<eventRef date="75/1999-1" id="e3" type="amendment"/>
+				<eventRef date="12/2001-1" id="e4" type="amendment"/>
+				<eventRef date="14/2001-1" id="e5" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу осмог дана од дана објављивања у “Службеном листу СРЈ”, односно 2. јануара 1999. године (види <ref>члан 32. </ref>Уредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<authority>На основу   <ref>члана 22. став 2. </ref>и   <ref>члана 23. став 4. </ref>Закона о имовини СРЈ (“<ref id="ref17" href="/rs/act/93/41/srp@">Службени лист СРЈ”, бр. 41/93</ref> и 30/96), Савезна влада доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о  начину, критеријумима и мерилима за давање станова у закуп и додељивање  стамбених зајмова за решавање стамбених питања запослених у савезним органима</title>
+			<date>„Службени лист СРЈ”, бр. 63 од 25.   децембра 1998, 2 од 8.   јануара 1999  -  исправка, 75 од 31.  децембра 1999, 12 од 16.   марта 2001, 14 oд 27.   марта 2001  -  СУС</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОСНОВНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Стамбена питања запослених у савезним органима могу се решавати давањем станова у закуп и доделом стамбеног зајма на начин, по критеријумима и мерилима који су утврђени овом уредбом.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan1-stav2">
+								<content>
+									<p>Одлуку о давању станова у закуп и додељивању стамбеног зајма доноси надлежно радно тело Савезне владе, одређено Пословником о раду Савезне владе (у даљем тексту: надлежно тело).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ДАВАЊЕ СТАНОВА У ЗАКУП</heading>
+				<content>
+					<section id="gla2-od1">
+						<num>1.</num>
+						<heading> Давање станова у закуп на одређено и неодређено време</heading>
+						<content>
+							<article id="gla2-od1-clan2">
+								<num>2.</num>
+								<content>
+									<clause id="gla2-od1-clan2-stav1">
+										<content>
+											<p>Запосленом у савезном органу који нема решено стамбено питање у смислу <ref>члана 7. </ref>ове уредбе може се, на основу писменог захтева, дати стан на коришћење по основу закупа на неодређено и одређено време (у даљем тексту: давање станова у закуп).</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan2-stav2">
+										<content>
+											<p>Ако у уговору о закупу није утврђено време трајања закупа, сматраће се да је уговор закључен на неодређено време.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan2-stav3">
+										<content>
+											<p>Захтев из става 1. овог члана садржи податке о радном месту, стану којим располаже, односно користи, број чланова породичног домаћинства и структури стана који тражи.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan2-stav4">
+										<content>
+											<p>Подносилац захтева дужан је да, поред података из става  3.* овог члана, достави и друге податке који су значајни за одлучивање о додели стана, а према упитнику који утврди надлежно радно тело.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan3">
+								<num>3.</num>
+								<heading>*<ref id="ref18" href="/rs/act/1999/2/srp@">Службени лист СРЈ, број 2/1999</ref></heading>
+								<content>
+									<clause id="gla2-od1-clan3-stav1">
+										<content>
+											<p>Приликом давања стана на коришћење, надлежно радно тело доноси одлуку на основу критеријума утврђених по следећем редоследу: значај радног места стамбена угроженост и дужина радног стажа.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan3-stav2">
+										<content>
+											<p>Значај радног места утврђује се на основу решења о избору, постављењу, односно по распоређивању запосленог.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan3-stav3">
+										<content>
+											<p>Стамбена угроженост одређује се на основу доказа о:</p>
+											<point id="gla2-od1-clan3-stav3-tac1">
+												<num>1)</num>
+												<content>
+													<p> непоседовању стана (подстанар, нужни смештај, становање код родитеља);</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan3-stav3-tac2">
+												<num>2)</num>
+												<content>
+													<p> коришћењу стана по основу станарског права, закупа на неодређено време, или власништва који по структури не задовољава услове становања;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan3-stav3-tac3">
+												<num>3)</num>
+												<content>
+													<p> коришћењу стана по основу закупа на одређено време.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan3-stav4">
+										<content>
+											<p>Дужина радног стажа утврђује се на основу података из радне књижице запосленог.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan4">
+								<num>4.</num>
+								<content>
+									<clause id="gla2-od1-clan4-stav1">
+										<content>
+											<p>Поред критеријума из члана  3.* ове уредбе, приоритет у решавању стамбених питања утврђује се и према посебним критеријумима, по следећем редоследу:</p>
+											<point id="gla2-od1-clan4-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> здравствено стање подносиоца захтева и чланова његовог породичног домаћинства и</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan4-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> време чекања на решавање стамбеног питања.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan4-stav2">
+										<content>
+											<p>Здравствено стање запосленог и чланова његовог породичног домаћинства утврђује се на основу уверења специјализоване здравствене установе о постојању тешке и трајне болести, због које је неопходно решавање стамбеног питања.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan4-stav3">
+										<content>
+											<p>Време чекања на решавање стамбеног питања утврђује се од дана уредно поднесеног захтева.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan5">
+								<num>5.</num>
+								<heading>*<ref id="ref19" href="/rs/act/1999/2/srp@">Службени лист СРЈ, број 2/1999</ref></heading>
+								<content>
+									<clause id="gla2-od1-clan5-stav1">
+										<content>
+											<p>За решавање стамбеног питања запослених у савезним органима редослед се утврђује према збиру бодова, а у случају истог броја бодова – према редоследу утврђеном на основу критеријума и из чл. 3. и 4. ове уредбе.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan6">
+								<num>6.</num>
+								<content>
+									<clause id="gla2-od1-clan6-stav1">
+										<content>
+											<p>Надлежно радно тело утврђује листу редоследа за решавање стамбених питања запослених у савезним органима према следећим мерилима исказаним у бодовима, и то:</p>
+											<point id="gla2-od1-clan6-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> значај радног места – од 200 до 400 бодова:</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<subsection id="gla2-od1-podod1">
+								<num>а</num>
+								<heading> председник Републике и савезни функционери које бира Савезна скупштина – 400 бодова;*</heading>
+								<content/>
+							</subsection>
+							<subsection id="gla2-od1-podod2">
+								<num>б</num>
+								<heading> савезни функционери које поставља председник Републике, председник Савезне владе и Савезна влада – 370 бодова;*</heading>
+								<content/>
+							</subsection>
+							<subsection id="gla2-od1-podod3">
+								<num>в</num>
+								<heading> руководећи радници које поставља надлежно радно тело Савезне скупштине – 340 бодова;*</heading>
+								<content/>
+							</subsection>
+							<subsection id="gla2-od1-podod4">
+								<num>г</num>
+								<heading> запослени у савезним органима који обављају нормативно-правне и студијско-аналитичке послове – 320 бодова;</heading>
+								<content/>
+							</subsection>
+							<subsection id="gla2-od1-podod5">
+								<num>д</num>
+								<heading> запослени у савезним органима који обављају управно-надзорне послове, односно послове извршавања савезних прописа – 300 бодова;</heading>
+								<content/>
+							</subsection>
+							<subsection id="gla2-od1-podod6">
+								<num>ђ</num>
+								<heading> запослени у савезним органима који обављају управне, стручне, информатичке и документационе послове – 280 бодова;</heading>
+								<content/>
+							</subsection>
+							<subsection id="gla2-od1-podod7">
+								<num>е</num>
+								<heading> запослени у савезним органима који обављају стручно-оперативне задатке и послове - 260 бодова;</heading>
+								<content/>
+							</subsection>
+							<subsection id="gla2-od1-podod8">
+								<num>ж</num>
+								<heading> запослени у савезним органима који обављају оперативно-техничке, финансијско-материјалне и канцеларијске послове – 240 бодова;</heading>
+								<content/>
+							</subsection>
+							<subsection id="gla2-od1-podod9">
+								<num>з</num>
+								<heading> запослени у савезним органима који обављају манипулативне послове – 220 бодова;</heading>
+								<content/>
+							</subsection>
+							<subsection id="gla2-od1-podod10">
+								<num>и</num>
+								<heading> запослени у савезним органима који обављају послове у току приправничког стажа – 200 бодова;</heading>
+								<content>
+									<point id="gla2-od1-podod10-clan6-tac2">
+										<num>2)</num>
+										<content>
+											<p> стамбена угроженост – од 100 до 200 бодова:</p>
+										</content>
+									</point>
+								</content>
+							</subsection>
+							<subsection id="gla2-od1-podod11">
+								<num>а</num>
+								<heading> непоседовање стана:</heading>
+								<content>
+									<alinea id="gla2-od1-podod11-clan6-ali1">
+										<content>
+											<p>одстанар – 200 бодова;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-od1-podod11-clan6-ali2">
+										<content>
+											<p>ужни смештај – 180 бодова;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-od1-podod11-clan6-ali3">
+										<content>
+											<p>тановање код родитеља у неодговарајућем стану – 160 бодова;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-od1-podod11-clan6-ali4">
+										<content>
+											<p>тановање код родитеља у одговарајућем стану – 100 бодова;</p>
+										</content>
+									</alinea>
+								</content>
+							</subsection>
+							<subsection id="gla2-od1-podod12">
+								<num>б</num>
+								<heading> коришћење стана по основу станарског права, закупа или власништва, који по структури не задовољава услове становања – 150 бодова;</heading>
+								<content/>
+							</subsection>
+							<subsection id="gla2-od1-podod13">
+								<num>в</num>
+								<heading> коришћење стана по основу закупа на одређено време – 100 бодова;</heading>
+								<content/>
+							</subsection>
+							<subsection id="gla2-od1-podod14">
+								<num>г</num>
+								<heading> дужина радног стажа, и то за сваку започету годину радног стажа по 5 бодова, до 200 бодова;</heading>
+								<content/>
+							</subsection>
+							<subsection id="gla2-od1-podod15">
+								<num>д</num>
+								<heading> здравствено стање подносиоца захтева и чланова његовог породичног домаћинства – 100 бодова;</heading>
+								<content/>
+							</subsection>
+							<subsection id="gla2-od1-podod16">
+								<num>ђ</num>
+								<heading> време чекања на решавање стамбеног питања и то за сваку годину чекања по 2,5 бода, до 100 бодова.</heading>
+								<content>
+									<article id="gla2-od1-podod16-clan7">
+										<num>7.</num>
+										<heading>*<ref id="ref20" href="/rs/act/2001/12/srp@">Службени лист СРЈ, број 12/2001</ref></heading>
+										<content>
+											<clause id="gla2-od1-podod16-clan7-stav1">
+												<content>
+													<p>Величина стана који се даје запосленом у савезном органу одређује се према броју чланова породичног домаћинства, и то:</p>
+													<point id="gla2-od1-podod16-clan7-stav1-tac1">
+														<num>1)</num>
+														<content>
+															<p> за самце – гарсоњера или једнособан стан;</p>
+														</content>
+													</point>
+													<point id="gla2-od1-podod16-clan7-stav1-tac2">
+														<num>2)</num>
+														<content>
+															<p> за два члана породице – једнособан или двособан стан;</p>
+														</content>
+													</point>
+													<point id="gla2-od1-podod16-clan7-stav1-tac3">
+														<num>3)</num>
+														<content>
+															<p> за три члана породице – двоипособан стан;</p>
+														</content>
+													</point>
+													<point id="gla2-od1-podod16-clan7-stav1-tac4">
+														<num>4)</num>
+														<content>
+															<p> за четири члана породице –трособан или троипособан стан, ако су деца истог пола;</p>
+														</content>
+													</point>
+													<point id="gla2-od1-podod16-clan7-stav1-tac5">
+														<num>5)</num>
+														<content>
+															<p> за четири члана породице – троипособан или четворособан стан, ако су деца различитог пола;</p>
+														</content>
+													</point>
+													<point id="gla2-od1-podod16-clan7-stav1-tac6">
+														<num>6)</num>
+														<content>
+															<p> за пет или више чланова породице – четворособан или већи стан.</p>
+														</content>
+													</point>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod16-clan7-stav2">
+												<content>
+													<p>Запосленом и савезном органу може се дати на коришћење и стан мањи од стана који му припада по одредби става 1. овог члана, ако се о томе писмено изјасни.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod16-clan7-stav3">
+												<content>
+													<p>Члановима породичног домаћинства, у смислу ове уредбе, сматрају се брачни друг, деца (рођена у браку или ван брака, усвојена или пасторчад), као и лица која је подносилац захтева по Закону дужан да издржава, а живе са њим дуже од 6 месеци пре дана подношења захтева.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod16-clan7-stav4">
+												<content>
+													<p>Члан породичног домаћинства, у случају смрти запосленог у савезном органу који је поднео захтев, има право на решавање стамбеног питања.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla2-od1-podod16-clan8">
+										<num>8.</num>
+										<content>
+											<clause id="gla2-od1-podod16-clan8-stav1">
+												<content>
+													<p>Запосленом у савезном органу издаје се решење о давању стана на коришћење, које садржи нарочито: име лица коме се даје стан, имена и сродство чланова породичног домаћинства за које се даје стан на коришћење и податке о стану.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod16-clan8-stav2">
+												<content>
+													<p>На основу решења из става 1. овог члана закључује се уговор о коришћењу стана, у који се уносе подаци садржани у решењу и други подаци прописани законом.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod16-clan8-stav3">
+												<content>
+													<p>Запослени у савезном органу закључују уговор о коришћењу стана са  Савезном дирекцијом за имовину СРЈ*.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla2-od1-podod16-clan9">
+										<num>9.</num>
+										<heading>*<ref id="ref21" href="/rs/act/1999/2/srp@">Службени лист СРЈ, број 2/1999</ref></heading>
+										<content>
+											<clause id="gla2-od1-podod16-clan9-stav1">
+												<content>
+													<p>Корисник стана дужан је да приликом исељења из стана који му је додељен, тај стан доведе у исправно стање, односно у стање у коме га је примио на коришћење.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla2-od1-podod16-clan10">
+										<num>10.</num>
+										<content>
+											<clause id="gla2-od1-podod16-clan10-stav1">
+												<content>
+													<p>Запосленом у савезном органу може се дати стан у закуп на основу поднесеног писменог захтева који садржи податке из <ref>члана 2. </ref>ове уредбе, а по прибављеном мишљењу функционера који руководи савезним органом у коме је радник запослен.*</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod16-clan10-stav2">
+												<content>
+													<p>*<ref id="ref22" href="/rs/act/2001/12/srp@">Службени лист СРЈ, број 12/2001</ref></p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod16-clan10-stav3">
+												<content>
+													<p>НАПОМЕНА ИЗДАВАЧА: Одлуком Савезног уставног суда IV У број 70/2000 („<ref id="ref23" href="/rs/act/2001/14/srp@">Службени  лист СРЈ“, број 14/2001</ref>) утврђено је да одредба <ref>члана 1. </ref>Уредбе о изменама  Уредбе о начину, критеријумима и мерилима за давање станова у закуп и додељивање  стамбених зајмова за решавање стамбених питања запослених у савезним органима  („<ref id="ref24" href="/rs/act/1999/75/srp@">Службени лист СРЈ“, број 75/1999</ref>), којом је измењен <ref>члан 10. </ref>Уредбе о начину,  критеријумима и мерилима за давање станова у закуп и додељивање стамбених  зајмова за решавање стамбених питања запослених у савезним органима („<ref id="ref25" href="/rs/act/1998/63/srp@">Службени  лист СРЈ“, број 63/1998</ref>) није сагласна са Уставом СРЈ и Законом о имовини СРЈ  (види Одлуку СУС - 14/2001-1). У време објављивања наведене Одлуке СУС, Уредбом  о изменама и допунама Уредбе о начину, критеријумима и мерилима за давање  станова у закуп и додељивање стамбених зајмова за решавање стамбених питања  запослених у савезним органима („<ref id="ref26" href="/rs/act/2001/12/srp@">Службени лист СРЈ“, број 12/2001</ref>), већ је била  извршена измена <ref>члана 10. </ref>Уредбе о начину, критеријумима и мерилима за давање  станова у закуп и додељивање стамбених зајмова за решавање стамбених питања  запослених у савезним органима.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla2-od1-podod16-clan11">
+										<num>11.</num>
+										<content>
+											<clause id="gla2-od1-podod16-clan11-stav1">
+												<content>
+													<p>Запосленом у савезном органу може се дати стан на коришћење по основу закупа само ако није решио стамбено питање на други начин, или ако се иселио из стана у ранијем месту боравка и преселио у место боравка у коме добија стан по основу ове уредбе.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod16-clan11-stav2">
+												<content>
+													<p>Ако је запослени који добије стан или стамбени зајам власник стана из кога се исељава, дужан је да уговором о размени власништва тај стан пренесе у фонд имовине Савезне Републике Југославије.</p>
+													<тачка id="gla2-od1-podod16-clan11-stav2-tac2">
+														<num>2.</num>
+														<content>
+															<p> Давање станова у закуп за службене потребе</p>
+														</content>
+													</тачка>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla2-od1-podod16-clan12">
+										<num>12.</num>
+										<content>
+											<clause id="gla2-od1-podod16-clan12-stav1">
+												<content>
+													<p>Запосленом у савезном органу из <ref>члана 6. тачка 1</ref>. одредбе под а)* до в), може се дати у закуп на одређено време стан за службене потребе (у даљем тексту: службени стан) док обавља послове тог радног места, односно функције или док на други начин не реши своје стамбено питање у месту обављања посла.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod16-clan12-stav2">
+												<content>
+													<p>Службени стан који се даје запосленом у савезном органу из <ref>члана 6. тачка 1</ref>. одредбе под а) до в) и <ref>члана 13. став 1. </ref>не може бити већи од двособног стана.**</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod16-clan12-stav3">
+												<content>
+													<p>Изузетно од одредбе става 2. овог члана службени стан који се даје запосленом у савезном органу из <ref>члана 6. тачка 1</ref>. одредба под а), може бити већи ако се користи са члановима породичног домаћинства, у складу са критеријумима из <ref>члана 7. </ref>ове уредбе.**</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod16-clan12-stav4">
+												<content>
+													<p>*<ref id="ref27" href="/rs/act/1999/2/srp@">Службени лист СРЈ, број 2/1999</ref></p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla2-od1-podod16-clan13">
+										<num>13.</num>
+										<heading>**<ref id="ref28" href="/rs/act/2001/12/srp@">Службени  лист СРЈ, број 12/2001</ref></heading>
+										<content>
+											<clause id="gla2-od1-podod16-clan13-stav1">
+												<content>
+													<p>Изузетно од одредбе <ref>члана 12. </ref>ове уредбе, службени стан може се дати и запосленима у савезним органима који раде у подручним организационим јединицама.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod16-clan13-stav2">
+												<content>
+													<p>Запосленима у Савезном министарству за одбрану и Војсци Југославије службени стан може се дати у месту службовања.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla2-od1-podod16-clan14">
+										<num>14.</num>
+										<content>
+											<clause id="gla2-od1-podod16-clan14-stav1">
+												<content>
+													<p>Запосленом у савезном органу из чл. 12. и 13. ове уредбе службени стан може се дати само ако његов брачни друг или члан његовог породичног домаћинства нема у месту рада други стан у својини или по било ком другом основу.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla2-od1-podod16-clan15">
+										<num>15.</num>
+										<content>
+											<clause id="gla2-od1-podod16-clan15-stav1">
+												<content>
+													<p>Службени стан даје се запосленом у савезном органу на основу писменог захтева.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla2-od1-podod16-clan16">
+										<num>16.</num>
+										<content>
+											<clause id="gla2-od1-podod16-clan16-stav1">
+												<content>
+													<p>Запосленом у Савезном министарству за одбрану и Војсци Југославије службени стан даје савезни министар за одбрану, односно лице које он овласти, на основу критеријума из ове уредбе и посебних критеријума.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod16-clan16-stav2">
+												<content>
+													<p>Посебне критеријуме из става 1. овог члана прописује савезни министар за одбрану.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla2-od1-podod16-clan17">
+										<num>17.</num>
+										<content>
+											<clause id="gla2-od1-podod16-clan17-stav1">
+												<content>
+													<p>О давању службеног стана издаје се решење, на основу кога корисник стана закључује уговор о закупу на одређено време.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla2-od1-podod16-clan18">
+										<num>18.</num>
+										<content>
+											<clause id="gla2-od1-podod16-clan18-stav1">
+												<content>
+													<p>Службени стан који се даје запосленом у савезном органу може бити опремљен, сагласно стандардима које утврђује надлежно радно тело.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod16-clan18-stav2">
+												<content>
+													<p>Износ накнаде за коришћење намештаја и друге опреме утврђује се на основу прописа којима се уређује амортизација основних средстава.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla2-od1-podod16-clan19">
+										<num>19.</num>
+										<content>
+											<clause id="gla2-od1-podod16-clan19-stav1">
+												<content>
+													<p>Корисник службеног стана приликом усељења у стан потписује реверс за примљени намештај и другу опрему у стану.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod16-clan19-stav2">
+												<content>
+													<p>Корисник службеног стана не може мењати делове намештаја и опреме из става 1. овог члана без сагласности даваоца стана на коришћење.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod16-clan19-stav3">
+												<content>
+													<p>Приликом исељења из службеног стана саставља се записник, у који се уносе подаци о стању намештаја и опреме коју је корисник примио, који потписују корисник службеног стана и овлашћено лице.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod16-clan19-stav4">
+												<content>
+													<p>Корисник службеног стана дужан је да штету коју причини на стану, намештају или опреми накнади даваоцу стана на коришћење.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla2-od1-podod16-clan20">
+										<num>20.</num>
+										<content>
+											<clause id="gla2-od1-podod16-clan20-stav1">
+												<content>
+													<p>Намена службеног стана не може се променити.*</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod16-clan20-stav2">
+												<content>
+													<p>*<ref id="ref29" href="/rs/act/2001/12/srp@">Службени лист СРЈ, број 12/2001</ref></p>
+												</content>
+											</clause>
+										</content>
+									</article>
+								</content>
+							</subsection>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ДОДЕЛА СТАМБЕНИХ ЗАЈМОВА</heading>
+				<content>
+					<article id="gla3-clan21">
+						<num>21.</num>
+						<content>
+							<clause id="gla3-clan21-stav1">
+								<content>
+									<p>Запосленом у савезном органу може се доделити зајам за стамбену изградњу, односно куповину стамбене зграде или стана, као и за побољшање услова становања, на основу критеријума и мерила утврђених у чл. 3. до 6. ове уредбе.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan21-stav2">
+								<content>
+									<p>Одлуку о додељивању зајма, која садржи нарочито износ зајма и износ дуга по зајму, доноси надлежно радно тело на основу захтева које садржи податке из <ref>члана 8. </ref>ове уредбе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan22">
+						<num>22.</num>
+						<content>
+							<clause id="gla3-clan22-stav1">
+								<content>
+									<p>Износ зајма утврђује се према просечној цени изградње одговарајуће стамбене зграде, односно стана на територији општине, односно града или републике на чијој се територији налази стамбена зграда, односно стан који се прибавља, а који кориснику зајма припада по величини утврђеној у <ref>члану 7. </ref>ове уредбе, односно према разлици у величини стана који користи и који му припада.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan22-stav2">
+								<content>
+									<p>Месечна рата, рок отплате зајма и умањење износа дуга по зајму утврђују се сагласно прописима републике на чијој се територији налази стамбена зграда, односно стан, којима се уређују стамбени односи.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan23">
+						<num>23.</num>
+						<content>
+							<clause id="gla3-clan23-stav1">
+								<content>
+									<p>Отплата зајма почиње у року од 30 дана од дана закључења уговора о зајму.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan24">
+						<num>24.</num>
+						<content>
+							<clause id="gla3-clan24-stav1">
+								<content>
+									<p>На прибављеној стамбеној згради, стану или стамбеном објекту на коме је извршена адаптација, доградња, односно надзиђивање, уписује се хипотека у корист зајмодавца у року од 30 дана од дана издавања употребне дозволе.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan24-stav2">
+								<content>
+									<p>После закључења уговора о зајму, преко савезне организације надлежне за вршење стручних послова са имовином СРЈ врши се забележба хипотекарског права на стамбену зграду, односно стан који се прибавља или којима се побољшавају услови становања средствима зајма.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan25">
+						<num>25.</num>
+						<content>
+							<clause id="gla3-clan25-stav1">
+								<content>
+									<p>Средства зајма преносе се зајмопримцу на основу обезбеђене документације, с тим да се 40% одобреног зајма може зајмопримцу исплатити у готовом новцу, односно пренети на његов текући рачун, уз обавезу правдања тих средстава (фактура, признаница и др.).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan26">
+						<num>26.</num>
+						<content>
+							<clause id="gla3-clan26-stav1">
+								<content>
+									<p>Уговор о зајму у име Савезне владе потписује председник надлежног радног тела.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan26-stav2">
+								<content>
+									<p>Уговор о зајму садржи нарочито: податке о уговорним странама; одлуку о додели зајма; висину, сврху и рокове коришћења и отплате зајма; * клаузулу о заложном праву, односно хипотеци на објекту изграђеном средствима зајма и упис тог зајма у јавне књиге, изјаву зајмопримца о дозволи административне забране на део личног дохотка у висини месечних ануитета до коначне отплате зајма, начин ревалоризације неотплаћеног дуга по зајму**   као и начин и рок извршења међусобних обавеза у случају раскида уговора о зајму.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan26-stav3">
+								<content>
+									<p>*<ref id="ref30" href="/rs/act/1999/75/srp@">Службени лист СРЈ, број  75/1999</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan27">
+						<num>27.</num>
+						<heading>**<ref id="ref31" href="/rs/act/2001/12/srp@">Службени  лист СРЈ, број 12/2001</ref></heading>
+						<content>
+							<clause id="gla3-clan27-stav1">
+								<content>
+									<p>Уговор о зајму може се раскинути:</p>
+									<point id="gla3-clan27-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> ако наступи виша сила услед које се зајам не може реализовати;</p>
+										</content>
+									</point>
+									<point id="gla3-clan27-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> ако корисник зајма не отпочне коришћење зајма у року који је утврђен одлуком о додели зајма;</p>
+										</content>
+									</point>
+									<point id="gla3-clan27-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> ако се средства зајма употребе на ненаменске сврхе;</p>
+										</content>
+									</point>
+									<point id="gla3-clan27-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> ако корисник зајма не плати три узастопна месечна ануитета или четири у току једне године.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan27-stav2">
+								<content>
+									<p>Ако се уговор раскида кривицом једне од уговорних страна, иста је дужна да накнади причињену штету.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ОСТАЛЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla4-clan28">
+						<num>28.</num>
+						<content>
+							<clause id="gla4-clan28-stav1">
+								<content>
+									<p>Одредбе ове уредбе, осим чл. 12. до 20, не односе се на Савезно министарство за одбрану и Војску Југославије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan29">
+						<num>29.</num>
+						<content>
+							<clause id="gla4-clan29-stav1">
+								<content>
+									<p>Критеријуми и мерила утврђена овом уредбом односе се и на Народну банкуЈугославије.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan29-stav2">
+								<content>
+									<p>Народна банка Југославије, у оквиру бодова из <ref>члана 6. </ref>ове уредбе утврдиће називе и редослед група послова, у складу са својим актима о унутрашњој организацији и систематизацији радних места и задатака.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan29-stav3">
+								<content>
+									<p>Начин давања станова у закуп на одређено и неодређено време, давање станова у закуп на одређено време за службене потребе и доделу стамбених зајмова уређује Народна банка Југославије.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan29-stav4">
+								<content>
+									<p>Станови и зајмови из  става 2. овог члана* обезбеђују се средства Народне банке Југославије.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan29-stav5">
+								<content>
+									<p>*<ref id="ref32" href="/rs/act/1999/2/srp@">Службени лист СРЈ, број 2/1999</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>ПРЕЛАЗНЕ И ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla5-clan30">
+						<num>30.</num>
+						<content>
+							<clause id="gla5-clan30-stav1">
+								<content>
+									<p>Ако је запослени у савезном органу поднео захтев за решавање стамбеног питања до дана ступања на снагу ове уредбе, односно пре пензионисања, а поступак по том захтеву није окончан до дана ступања на снагу ове уредбе, окончаће се по одредбама ове уредбе, под условом да у року од 30 дана од дана ступања на снагу ове уредбе поднесени захтев усклади са одредбама ове уредбе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan31">
+						<num>31.</num>
+						<content>
+							<clause id="gla5-clan31-stav1">
+								<content>
+									<p>Одлуке органа надлежних за решавање стамбених питања запослених у савезним органима које су донете до дана ступања на снагу ове уредбе, а нису извршене, извршиће их надлежно радно тело.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan32">
+						<num>32.</num>
+						<content>
+							<clause id="gla5-clan32-stav1">
+								<content>
+									<p>Ова уредба ступа на снагу осмог дана од дана објављивања у “Службеном листу СРЈ”.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan32-stav2">
+								<content>
+									<p>Е. п. бр. 332</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<section id="gla5-od24">
+						<num>24.</num>
+						<heading> децембра 1998. године</heading>
+						<content>
+							<clause id="gla5-od24-clan32-stav1">
+								<content>
+									<p>Београд</p>
+								</content>
+							</clause>
+							<clause id="gla5-od24-clan32-stav2">
+								<content>
+									<p>Савезна влада</p>
+								</content>
+							</clause>
+							<clause id="gla5-od24-clan32-stav3">
+								<content>
+									<p>Председник</p>
+								</content>
+							</clause>
+							<clause id="gla5-od24-clan32-stav4">
+								<content>
+									<p>Момир Булатовић, с. р.</p>
+								</content>
+							</clause>
+						</content>
+					</section>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

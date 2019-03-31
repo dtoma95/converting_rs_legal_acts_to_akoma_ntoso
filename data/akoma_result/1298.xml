@@ -1,0 +1,179 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2002/50-2/main"/>
+					<FRBRuri value="/rs/act/2002/50-2"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2004/34-3/srp@/main"/>
+					<FRBRuri value="/rs/act/2004/34-3/srp@"/>
+					<FRBRdate date="2004" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2004/34-3/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2004/34-3/srp@.akn"/>
+					<FRBRdate date="2004" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2002-8-23" name="службени гласник рс" number="50" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="VII РАДНИ ОДНОСИ И ЗАПОШЉАВАЊЕ" value="vii радни односи и запошљавање"/>
+				<keyword id="grupa" showAs="5. Штрајк" value="5. штрајк"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2002-08-22" id="usvajanje"/>
+				<step date="2002-08-31" id="stupanje_na_snagu"/>
+				<step date="2002-08-31" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="50/2002-2" id="e1" type="generation"/>
+				<eventRef date="34/2004-3" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 31. августа 2002. године (види <ref>члан 6. </ref>Уредбе).Одлуком Уставног суда Републике Србије IУ број 55/2003 (<ref id="ref3" href="/rs/act/2004/34/srp@">Службени гласник РС, број 34/2004</ref>) престао је да важи <ref>члан 4, </ref>Уредбе о минимуму процеса рада за време штрајка у Јавном железничко транспортном предузећу „Београд” (<ref id="ref4" href="/rs/act/2002/50/srp@">Службени гласник РС, број 50/2002</ref>), јер је утврђено да није у сагласности са законом (види Одлуку УС - 34/2004-3).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу <ref>члана 2. тачка 2</ref>. Закона о Влади Републике Србије („<ref id="ref5" href="/rs/act/91/5/srp@">Службени гласник РС”, бр. 5/91</ref> и 45/93), а у вези са чланом 10. став 2. Закона о штрајку („<ref id="ref6" href="/rs/act/96/29/srp@">Службени лист СРЈ”, број 29/96</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Влада Републике Србије доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о минимуму процеса рада за време штрајка у Јавном железничко транспортном  предузећу „Београд”</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 50 од 23. августа 2002,   34 од 26. марта 2004  - УС</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Минимум процеса рада за време штрајка у Јавном железничко транспортном предузећу „Београд” обухвата следећи обим превоза у односу на важећи ред вожње:</p>
+							<тачка id="clan1-stav1-tac1">
+								<num>1.</num>
+								<content>
+									<p> сви возови за превоз путника у међународном саобраћају;</p>
+								</content>
+							</тачка>
+							<тачка id="clan1-stav1-tac2">
+								<num>2.</num>
+								<content>
+									<p> сви теретни возови у међународном саобраћају, без обзира да ли на путу од отпремне до упутне станице мењају број који носе;</p>
+								</content>
+							</тачка>
+							<тачка id="clan1-stav1-tac3">
+								<num>3.</num>
+								<content>
+									<p> сви агенцијски и други уговорени возови за превоз путника, као и уговорени војни транспорти;</p>
+								</content>
+							</тачка>
+							<тачка id="clan1-stav1-tac4">
+								<num>4.</num>
+								<content>
+									<p> 10% возова за превоз путника у унутрашњем саобраћају у односу на планирани број редовних возова за превоз путника према важећем реду вожње;</p>
+								</content>
+							</тачка>
+							<тачка id="clan1-stav1-tac5">
+								<num>5.</num>
+								<content>
+									<p> 6% теретних возова у унутрашњем саобраћају у односу на планирани број редовних теретних возова према важећем реду вожње.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Ако у време одржавања штрајка наступи ванредни догађај у смислу одредаба Закона о безбедности у железничком саобраћају („<ref id="ref7" href="/rs/act/98/60/srp@">Службени лист СРЈ”, бр. 60/98</ref> и 36/99) и Закона о железници („<ref id="ref8" href="/rs/act/91/38/srp@">Службени гласник РС”, бр. 38/91, 41/91, 53/93, 67/93</ref> и 48/94), саобраћаће и помоћни возови, као и моторна пружна возила за отклањање последица насталих ванредним догађајем.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Све пошиљке примљене на превоз са опасним и самозапаљивим материјама, до момента почетка штрајка, морају бити превезене до истоварног места, односно до прелазне станице.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Престао је да важи (види  Одлуку УС - 34/2004-3).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Даном ступања на снагу ове уредбе престаје да важи Уредба о минимуму процеса рада за време штрајка у Јавном железничко транспортном предузећу „Београд” („<ref id="ref9" href="/rs/act/97/11/srp@">Службени гласник РС”, број 11/97</ref>).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Ова уредба ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>05 број 130-12222/2002-1</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>У Београду, 22. августа 2002. године</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav4">
+						<content>
+							<p>Влада Републике Србије</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav5">
+						<content>
+							<p>Потпредседник,</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav6">
+						<content>
+							<p>проф. др  Жарко Кораћ, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

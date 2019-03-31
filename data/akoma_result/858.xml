@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2009/47-20/main"/>
+					<FRBRuri value="/rs/act/2009/47-20"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2009/47-20/srp@/main"/>
+					<FRBRuri value="/rs/act/2009/47-20/srp@"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2009/47-20/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2009/47-20/srp@.akn"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2009-6-26" name="службени гласник рс“" number="47" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="V МОНЕТАРНИ СИСТЕМ, ФИНАНСИЈСКЕ ОРГАНИЗАЦИЈЕ И ФИНАНСИЈСКО ПОСЛОВАЊЕ" value="v монетарни систем, финансијске организације и финансијско пословање"/>
+				<keyword id="grupa" showAs="6. Издавање, основна обележја и пуштање у оптицај новчаница, кованог новца и пригодног кованог новца" value="6. издавање, основна обележја и пуштање у оптицај новчаница, кованог новца и пригодног кованог новца"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2009-06-19" id="usvajanje"/>
+				<step date="2009-06-27" id="stupanje_na_snagu"/>
+				<step date="2009-06-27" id="primena"/>
+			</workflow>
+		</meta>
+		<body>
+			<clause id="stav1">
+				<content>
+					<p>На основу <ref>члана 55. став 3. </ref>Закона о Народној банци Србије („<ref id="ref1" href="/rs/act/2003/72/srp@">Службени гласник РС”, бр. 72/2003</ref> и 55/2004),</p>
+				</content>
+			</clause>
+			<clause id="stav2">
+				<content>
+					<p>Гувернер Народне банке Србије доноси</p>
+				</content>
+			</clause>
+			<clause id="stav3">
+				<content>
+					<p>ОДЛУКУ</p>
+				</content>
+			</clause>
+			<clause id="stav4">
+				<content>
+					<p>о пуштању у оптицај кованог новца апоена од 1, 2, 5, 10 и 20 динара</p>
+				</content>
+			</clause>
+			<clause id="stav5">
+				<content>
+					<p>„Службени гласник РС“, број 47 од 26. јуна 2009.</p>
+				</content>
+			</clause>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Народна банка Србије пустиће у оптицај 26. јуна 2009. године ковани новац апоена од 1 и 5 динара са ознаком године ковања „2009” и обележјима утврђеним Одлуком о издавању и основним обележјима кованог новца апоена од 1, 5 и 10 („<ref id="ref2" href="/rs/act/2005/56/srp@">Службени гласник РС”, број 56/2005</ref>), ковани новац апоена од 2 динара са ознаком године ковања „2009” и обележјима утврђеним Одлуком о издавању и основним обележјима кованог новца апоена од 2 динара („<ref id="ref3" href="/rs/act/2006/114/srp@">Службени гласник РС”, број 114/2006</ref>) и ковани новац апоена од 10 и 20 динара са ознаком године ковања „2009” и обележјима утврђеним Одлуком о издавању и основним обележјима кованог новца апоена од 10 и 20 динара („<ref id="ref4" href="/rs/act/2009/47/srp@">Службени гласник РС”, број 47/2009</ref>)</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Ова одлука ступа на снагу наредног дана од дана објављивања у „Службеном гласнику РС”.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>О. број 49</p>
+						</content>
+					</clause>
+					<clause id="od2-stav2">
+						<content>
+							<p>У Београду, 19. јуна 2009. године</p>
+						</content>
+					</clause>
+					<clause id="od2-stav3">
+						<content>
+							<p>Гувернер</p>
+						</content>
+					</clause>
+					<clause id="od2-stav4">
+						<content>
+							<p>Народне банке Србије,</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

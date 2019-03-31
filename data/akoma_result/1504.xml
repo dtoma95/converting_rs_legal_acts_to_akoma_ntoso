@@ -1,0 +1,2157 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2004/135-1/main"/>
+					<FRBRuri value="/rs/act/2004/135-1"/>
+					<FRBRdate date="2004" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2009/41-174/srp@/main"/>
+					<FRBRuri value="/rs/act/2009/41-174/srp@"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2009/41-174/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2009/41-174/srp@.akn"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2004-12-21" name="службени гласник рс" number="135" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Закон" value="закон"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="3. Семе и садни материјал" value="3. семе и садни материјал"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2004-12-14" id="usvajanje"/>
+				<step date="2004-12-29" id="stupanje_na_snagu"/>
+				<step date="2004-12-29" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="135/2004-1" id="e1" type="generation"/>
+				<eventRef date="8/2005-7" id="e2" type="amendment"/>
+				<eventRef date="41/2009-174" id="e3" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Закон је ступио на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије, односно 29. децембра 2004. године (види <ref>члан 55. </ref>Закона):</p>
+				</note>
+				<note id="not2">
+					<p>Закон је ступио на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије, односно 29. децембра 2004. године (види <ref>члан 55. </ref>Закона):</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<authority>Special value.</authority>
+			<title>ЗАКОН</title>
+			<title>о репродуктивном материјалу шумског дрвећа</title>
+			<date>„Службени гласник РС”, бр. 135 од 21. децембра 2004, 8 од 28. јануара 2005 - исправка, 41 од 2. јуна 2009.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОСНОВНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим законом уређују се услови и начин признавања полазног материјала за производњу репродуктивног материјала шумског дрвећа, производње, контроле производње, дораде, квалитета, промета и употребе репродуктивног материјала шумског дрвећа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Репродуктивни материјал шумског дрвећа (у даљем тексту: репродуктивни материјал), у смислу овог закона, је семе (шишарка, плод и семе намењено за производњу садног материјала), део биљке (резница, коренова резница, лисна резница, пупољак, избојак, положеница, корен, ткиво за микроразмножавање и било који део биљке намењен за производњу садница) и садница (биљка произведена из семена, дела биљке или природни подмладак из семенских састојина).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Одредбе овог закона односе се на репродуктивни материјал следећих врста шумског дрвећа:</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav2">
+								<content>
+									<p>Abies alba Mill – јела</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav3">
+								<content>
+									<p>Abies cephalonica Loud. – грчка јела</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav4">
+								<content>
+									<p>Abies grandis Lindl. – калифорнијска јела</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav5">
+								<content>
+									<p>Abies pinsapo Boiss. – шпанска јела</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav6">
+								<content>
+									<p>Acer platanoides L. – млеч</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav7">
+								<content>
+									<p>Acer pseudoplatanus L. – горски јавор</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav8">
+								<content>
+									<p>Alnus glutinosa (L.) Gaertn. – црна јова</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav9">
+								<content>
+									<p>Alnus incana (L.) Moench. – бела јова</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav10">
+								<content>
+									<p>Betula pendula Roth. – бреза</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav11">
+								<content>
+									<p>Betula pubescens Ehrh. – маљава бреза</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav12">
+								<content>
+									<p>Carpinus betulus L. – граб</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav13">
+								<content>
+									<p>Castanea sativa Mill. – питоми кестен</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav14">
+								<content>
+									<p>Cedrus atlantica Carr. – атласки кедар</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav15">
+								<content>
+									<p>Cedrus libani A. Richard – либански кедар</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav16">
+								<content>
+									<p>Fagus silvatica L. – буква</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav17">
+								<content>
+									<p>Fagus moesiaca (Domin, Maly) Czeczott. – мезијска буква</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav18">
+								<content>
+									<p>Fraxinus angustifolia Vahl. – пољски јасен</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav19">
+								<content>
+									<p>Fraxinus excelsior L. – бели јасен</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav20">
+								<content>
+									<p>Juglans nigra L. – црни орах</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav21">
+								<content>
+									<p>Juglans regia L. – орах</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav22">
+								<content>
+									<p>Larix decidua Mill. – европски ариш</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav23">
+								<content>
+									<p>Larix x eurolepis Henry –</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav24">
+								<content>
+									<p>Larix kaempferi (Lambert) Carr. – јапански ариш</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav25">
+								<content>
+									<p>Larix sibirica Ledeb. – сибирски ариш</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav26">
+								<content>
+									<p>Picea abies (L.) Karst. – смрча</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav27">
+								<content>
+									<p>Picea omorika (Панчић) Pyrkine – оморика*</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav28">
+								<content>
+									<p>Picea sitchensis ( Bong.) Carr – ситканска смрча</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav29">
+								<content>
+									<p>Pinus brutia Ten. – бруцијски бор</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav30">
+								<content>
+									<p>Pinus canariensis C. Smith – канарски бор</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav31">
+								<content>
+									<p>Pinus cembra L. – лимба</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav32">
+								<content>
+									<p>Pinus contorta Loud. – усукани бор</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav33">
+								<content>
+									<p>Pinus halepensis Mill. – алепски бор</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav34">
+								<content>
+									<p>Pinus heldreichii Christ. – муника</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav35">
+								<content>
+									<p>Pinus nigra Arnold – црни бор</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav36">
+								<content>
+									<p>Pinus pinaster Ait. – приморски бор</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav37">
+								<content>
+									<p>Pinus pinea L. – пињол</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav38">
+								<content>
+									<p>Pinus radiata D. Don – монтерејски бор</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav39">
+								<content>
+									<p>Pinus silvestris L. – бели бор</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav40">
+								<content>
+									<p>Populus sp. i hibridi – тополе</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav41">
+								<content>
+									<p>Prunus avium L. – дивља трешња</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav42">
+								<content>
+									<p>Pseudotsuga menziesii (Mirbel) Franco – дуглазија</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav43">
+								<content>
+									<p>Quercus cerris Ten – цер</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav44">
+								<content>
+									<p>Quercus frainetto Ten – сладун</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav45">
+								<content>
+									<p>Quercus ilex L. – чесмина</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav46">
+								<content>
+									<p>Quercus petraea Liebl. – китњак</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav47">
+								<content>
+									<p>Quercus pubescens Willd. – медунац</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav48">
+								<content>
+									<p>Quercus robur L. – лужњак</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav49">
+								<content>
+									<p>Quercus rubra L. – црвени храст</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav50">
+								<content>
+									<p>Quercus suber L. – плутњак</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav51">
+								<content>
+									<p>Robinia pseudoacacia L. – багрем</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav52">
+								<content>
+									<p>Tilia cordata Mill. – ситнолисна липа</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav53">
+								<content>
+									<p>Tilia platyphylos Scop. – крупнолисна липа.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav54">
+								<content>
+									<p>Одредбе овог закона односе се и на репродуктивни материјал других врста шумског дрвећа када се исти производи за потребе подизања и вештачког обнављања шума.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan4">
+						<num>4.</num>
+						<heading>*<ref id="ref65" href="/rs/act/2005/8/srp@">Службени гласник РС, број 8/2005</ref></heading>
+						<content>
+							<clause id="gla1-clan4-stav1">
+								<content>
+									<p>Одредбе овог закона не односе се на узорке репродуктивног материјала које предузеће или друго правно лице које се бави пословима оплемењивања биља у области шумарства користи за реализацију програма научних истраживања и извођења експеримената, у количини утврђеној тим програмом.*</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan4-stav2">
+								<content>
+									<p>Одредбе овог закона не односе се на репродуктивни материјал врста шумског дрвећа из <ref>члана 3. овог</ref> закона који није намењен потребама подизања и обнављања шума.*</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan4-stav3">
+								<content>
+									<p>Репродуктивни материјал из става 2. овог члана у промету прати документ произвођача са назнаком: ’Није за употребу у шумарству’.*</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan4-stav4">
+								<content>
+									<p>Одредбе овог закона, осим одредаба чл. 16, 34а и 36. не односе се на репродуктивни материјал украсног дрвећа и жбуња.*</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan5">
+						<num>5.</num>
+						<heading>*<ref id="ref66" href="/rs/act/2009/41/srp@">Службени гласник РС, број 41/2009</ref></heading>
+						<content>
+							<clause id="gla1-clan5-stav1">
+								<content>
+									<p>Поједини изрази, употребљени у овом закону, имају следеће значење:</p>
+									<point id="gla1-clan5-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> полазни материјал за производњу репродуктивног материјала (у даљем тексту: полазни материјал) је извор семена, семенска састојина, семенска плантажа, родитељска стабла, клон и клонска смеша;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> извор семена је стабло или састојина унутар региона провенијенције који је признат као полазни материјал;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> семенска састојина је део шумског комплекса издвојен на основу фенотипских карактеристика стабала у коме су спроведене мере неге, а чија је основна намена производња репродуктивног материјала;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> семенска плантажа је изоловани засад одабраних клонова или потомства пуних сродника или полусродника намењен за производњу плода и семена, који често и обилно плодоноси, а семе се лако сакупља;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> родитељска стабла су стабла од којих је произведено потомство контролисаним или слободним опрашивањем;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> клон је група индивидуа (rameta) произведених вегетативно од једне матичне биљке (ortete);</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> клонска смеша је смеша идентификованих клонова у утврђеном односу;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> потомство пуних сродника (full sib) је потомство познатих родитељских стабала, а потомство полусродника (half sib) је потомство познатог материнског стабла добијено из слободног опрашивања;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> хибриди су потомство пуних сродника или полусродника;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> клонски архив је дугогодишњи засад и матичњак клонова намењен очувању генетског фонда и варијабилности врста и хибрида;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> матичњак је засад основан у сврху производње вегетативног репродуктивног материјала;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac12">
+										<num>12)</num>
+										<content>
+											<p> централни матичњак је засад репродуктивног материјала првог нивоа размножавања у циљу производње репродуктивног материјала другог нивоа размножавања;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac13">
+										<num>13)</num>
+										<content>
+											<p> комерцијални матичњак је засад репродуктивног материјала другог нивоа размножавања од кога се производи репродуктивни материјал за подизање и обнову шума;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac14">
+										<num>14)</num>
+										<content>
+											<p> ниво размножавања је степен повезаности репродуктивног материјала са полазним материјалом;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac15">
+										<num>15)</num>
+										<content>
+											<p> регион провенијенције је једно или више подручја сличних еколошких карактеристика у коме састојине одређених врста, подврста или варијетета показују сличне фенотипске или генетске карактеристике;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac16">
+										<num>16)</num>
+										<content>
+											<p> шумски расадник је посебно уређена површина земљишта на којој се кроз систем технолошко-техничких поступака производи репродуктивни материјал;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac17">
+										<num>17)</num>
+										<content>
+											<p> промет репродуктивног материјала је куповина, продаја, увоз, услужно посредовање, давање без накнаде (поклон, уступање и сл.) и размена репродуктивног материјала;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac18">
+										<num>18)</num>
+										<content>
+											<p> партија семена је семе исте врсте дрвећа које потиче од истог признатог полазног материјала и које је на исти начин и исте сезоне сакупљано, дорађено и ускладиштено;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac19">
+										<num>19)</num>
+										<content>
+											<p> добављач репродуктивног материјала је правно лице или предузетник који је регистрован за промет репродуктивног материјала.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla1-clan6-stav1">
+								<content>
+									<p>Категорије репродуктивног материјала, у смислу овог закона, су:</p>
+									<point id="gla1-clan6-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> репродуктивни материјал познатог порекла;</p>
+										</content>
+									</point>
+									<point id="gla1-clan6-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> селекционисан репродуктивни материјал;</p>
+										</content>
+									</point>
+									<point id="gla1-clan6-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> квалификован репродуктивни материјал;</p>
+										</content>
+									</point>
+									<point id="gla1-clan6-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> тестиран (sortni) репродуктивни материјал.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla1-clan6-stav2">
+								<content>
+									<p>Репродуктивни материјал познатог порекла је репродуктивни материјал који потиче од стабла или из састојине, чија су надморска висина и регион провенијенције познати.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan6-stav3">
+								<content>
+									<p>Селекционисан репродуктивни материјал је репродуктивни материјал који је произведен у семенској састојини.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan6-stav4">
+								<content>
+									<p>Квалификован репродуктивни материјал је репродуктивни материјал који је произведен од родитељских стабала, клонова, клонских смеша или у семенским плантажама, фенотипски одабраних на нивоу индивидуе.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan6-stav5">
+								<content>
+									<p>Тестиран (sortni) репродуктивни материјал је репродуктивни материјал који је произведен у семенским састојинама, семенским плантажама, од родитељских стабала, клонова или клонских смеша, чија супериорност мора бити доказана у упоредним тестовима у складу са прописима из области признавања сорти шумског биља или је процењена на основу генетске оцене делова полазног материјала.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla1-clan7-stav1">
+								<content>
+									<p>За подизање и обнављање шума може да се користи селекционисан, квалификован или тестиран репродуктивни материјал који је произведен у складу са одредбама овог закона и прописа донетих на основу овог закона.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan7-stav2">
+								<content>
+									<p>Репродуктивни материјал познатог порекла може да се користи за подизање и обнављање шума само унутар истог региона провенијенције, ако:</p>
+									<point id="gla1-clan7-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> на залихама нема довољно селекционисаног, квалификованог или тестираног семена за потребе подизања и обнављања шума у тој години;</p>
+										</content>
+									</point>
+									<point id="gla1-clan7-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> се због више силе (шумски пожар, елементарне непогоде и сл.) мора непланирано повећати обим пошумљавања.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla1-clan7-stav3">
+								<content>
+									<p>Репродуктивни материјал познатог порекла може да се користи за подизање и обнављање шума само на основу одобрења министарства надлежног за послове шумарства (у даљем тексту: министарство).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla1-clan8-stav1">
+								<content>
+									<p>Репродуктивни материјал шумског дрвећа из <ref>члана 3. овог</ref> закона из увоза може да се користи за подизање и обнављање шума ако:</p>
+									<point id="gla1-clan8-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> је квалификован или тестиран;</p>
+										</content>
+									</point>
+									<point id="gla1-clan8-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> нема урода семена или урод семена није довољан или ако на залихама не постоје довољне количине репродуктивног материјала за потребе подизања и обнављања шума у тој години.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla1-clan8-stav2">
+								<content>
+									<p>Одобрење за увоз семена из става 1. овог члана издаје министарство.</p>
+								</content>
+							</clause>
+							<article id="gla1-clan8.а">
+								<num>8а</num>
+								<content>
+									<clause id="gla1-clan8.а-stav1">
+										<content>
+											<p>Министарство може да наложи произвођачима семена да сакупе семе одређене врсте шумског дрвећа када је то неопходно за потребе подизања и обнављања шума у Републици Србији.*</p>
+										</content>
+									</clause>
+									<clause id="gla1-clan8.а-stav2">
+										<content>
+											<p>Трошкове сакупљања семена у случају из става 1. овог члана сноси министарство према програму заштите и унапређивања шума.*</p>
+										</content>
+									</clause>
+									<clause id="gla1-clan8.а-stav3">
+										<content>
+											<p>*<ref id="ref67" href="/rs/act/2009/41/srp@">Службени гласник РС, број 41/2009</ref></p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ПРИЗНАВАЊЕ ПОЛАЗНОГ МАТЕРИЈАЛА</heading>
+				<content>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>Ради обезбеђивања полазног материјала за производњу селекционисаног и репродуктивног материјала познатог порекла шумског дрвећа из <ref>члана 3. овог</ref> закона, министар надлежан за послове шумарства (у даљем тексту: министар) установљава регионе провенијенције.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav2">
+								<content>
+									<p>Акт о установљавању региона провенијенције садржи податке о:</p>
+									<point id="gla2-clan9-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> врсти дрвета;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> географској ширини и дужини;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> површини;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> надморској висини;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> друге неопходне податке.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav3">
+								<content>
+									<p>Саставни део акта из става 2. овог члана је карта са уцртаним границама региона провенијенције.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav4">
+								<content>
+									<p>Регион провенијенције полазног материјала од кога је основана семенска плантажа истовремено је и регион провенијенције репродуктивног материјала произведеног у тој семенској плантажи.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla2-clan10-stav1">
+								<content>
+									<p>Признавање полазног материјала за производњу репродуктивног материјала врши министарство на основу пријаве предузећа или другог правног лица које је власник, односно корисник полазног материјала.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav2">
+								<content>
+									<p>Стручне послове признавања полазног материјала за производњу репродуктивног материјала познатог порекла и селекционисаног репродуктивног материјала министарство може да повери предузећу или другом правном лицу које има у радном односу најмање једног дипломираног инжењера шумарства – одсек за шумарство, са најмање три године радног искуства на пословима признавања полазног материјала или контроле производње репродуктивног материјала, и положен стручни испит.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav3">
+								<content>
+									<p>Стручне послове признавања полазног материјала за производњу квалификованог и тестираног репродуктивног материјала врши комисија коју решењем образује министар.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla2-clan11-stav1">
+								<content>
+									<p>Као полазни материјал за производњу репродуктивног материјала познатог порекла признаће се извор семена чији су регион провенијенције, локација и надморска висина познати.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav2">
+								<content>
+									<p>Као полазни материјал за производњу селекционисаног репродуктивног материјала признаће се састојина високог узгојног облика, доброг здравственог стања и фенотипских особина, која је изолована, односно довољно удаљена од састојина исте врсте тако да је онемогућено међусобно опрашивање.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav3">
+								<content>
+									<p>Као полазни материјал за производњу квалификованог репродуктивног материјала признаће се:</p>
+									<point id="gla2-clan11-stav3-tac1">
+										<num>1)</num>
+										<content>
+											<p> семенска плантажа, ако је основана од клонова или потомства пуних сродника или полусродника стабала доброг здравственог стања, изразито добрих морфолошких особина и адаптираности на станишне услове;</p>
+										</content>
+									</point>
+									<point id="gla2-clan11-stav3-tac2">
+										<num>2)</num>
+										<content>
+											<p> родитељска стабла, ако су доброг здравственог стања, изразито добрих морфолошких особина и адаптираности на станишне услове;</p>
+										</content>
+									</point>
+									<point id="gla2-clan11-stav3-tac3">
+										<num>3)</num>
+										<content>
+											<p> клон, ако је матична биљка од које је произведен доброг здравственог стања, изразито добрих морфолошких особина и адаптираности на станишне услове и ако може да буде идентификован на основу особина због којих је признат као клон;</p>
+										</content>
+									</point>
+									<point id="gla2-clan11-stav3-tac4">
+										<num>4)</num>
+										<content>
+											<p> клонска смеша, ако је сачињена од признатих клонова чији је идентитет, број и пропорција учешћа у клонској смеши утврђен.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav4">
+								<content>
+									<p>Као полазни материјал за производњу тестираног репродуктивног материјала признаће се семенска састојина која испуњава услове из става 2. овог члана, односно семенска плантажа, родитељска стабла, клон и клонска смеша који испуњавају услове из става 3. овог члана, чија је супериорност у односу на одређену особину доказана у тестовима спроведеним у складу са прописима из области признавања сорти шумског биља и међународно признатим поступцима.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav5">
+								<content>
+									<p>Семенска плантажа, родитељска стабла, клон и клонска смеша могу бити признати као полазни материјал за производњу тестираног репродуктивног материјала и на основу генетске оцене супериорности од њих произведеног репродуктивног материјала.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla2-clan12-stav1">
+								<content>
+									<p>Министарство установљава и води регистар региона провенијенције и признатог полазног материјала за производњу селекционисаног, квалификованог, тестираног и репродуктивног материјала познатог порекла (у даљем тексту: регистар) и издаје уверење о признатом полазном материјалу.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan12-stav2">
+								<content>
+									<p>На основу података из регистра министарство утврђује Националну листу признатог материјала на прописаном обрасцу.*</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan12-stav3">
+								<content>
+									<p>Брисаће се из регистра признати полазни материјал за који се утврди да не испуњава услове на основу којих је извршено његово признавање и упис у регистар.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan12-stav4">
+								<content>
+									<p>Уписаће се у регистар генетски модификован полазни материјал, односно ставити у промет репродуктивни материјал генетски модификованих организама за које надлежни орган утврди да не представља опасност за здравље људи и животну средину.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan13">
+						<num>13.</num>
+						<heading>*<ref id="ref68" href="/rs/act/2009/41/srp@">Службени гласник РС, број 41/2009</ref></heading>
+						<content>
+							<clause id="gla2-clan13-stav1">
+								<content>
+									<p>Министар ближе прописује: садржину пријаве за признавање полазног материјала, услове које треба да испуњава полазни материјал за производњу репродуктивног материјала, начин и поступак његовог признавања, садржину и начин вођења регистра, као и образац и садржину Националне листе признатог полазног материјала.*</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan14">
+						<num>14.</num>
+						<heading>*<ref id="ref69" href="/rs/act/2009/41/srp@">Службени гласник РС, број 41/2009</ref></heading>
+						<content>
+							<clause id="gla2-clan14-stav1">
+								<content>
+									<p>Трошкове признавања и уписа у регистар сноси произвођач и уплаћује на одговарајући рачун за уплату јавних прихода буџета Републике.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan14-stav2">
+								<content>
+									<p>Висина трошкова утврђује се у складу са прописима о накнадама трошкова у управном поступку.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ПРОИЗВОДЊА РЕПРОДУКТИВНОГ МАТЕРИЈАЛА</heading>
+				<content>
+					<article id="gla3-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla3-clan15-stav1">
+								<content>
+									<p>Производњом репродуктивног материјала може да се бави предузеће, друго правно лице и предузетник (у даљем тексту: произвођач репродуктивног материјала) које испуњава следеће услове:</p>
+									<point id="gla3-clan15-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> да је власник, односно корисник признатог полазног материјала, матичњака или шумског расадника;</p>
+										</content>
+									</point>
+									<point id="gla3-clan15-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> да располаже одговарајућом опремом за производњу репродуктивног материјала;</p>
+										</content>
+									</point>
+									<point id="gla3-clan15-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> да располаже складишним простором за одвојен смештај, чување и паковање недорађеног и дорађеног репродуктивног материјала, а семена по партијама, који обезбеђује очување његовог квалитета и здравственог стања;</p>
+										</content>
+									</point>
+									<point id="gla3-clan15-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> да има обезбеђено стручно руковођење пословима производње репродуктивног материјала (пријављивање производње, обезбеђивање и чување прописане документације, смештај и чување репродуктивног материјала и сл.).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan15-stav2">
+								<content>
+									<p>Стручно руковођење пословима производње репродуктивног материјала може да врши дипломирани инжењер шумарства – одсек за шумарство, са * положеним стручним испитом, који је засновао радни однос код произвођача репродуктивног материјала.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan15-stav3">
+								<content>
+									<p>Лице из става 2. овог члана може да стручно руководи пословима производње репродуктивног материјала у највише три шумска расадника.*</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan15-stav4">
+								<content>
+									<p>Испуњеност услова из става 1. овог члана утврђује министар.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan16">
+						<num>16.</num>
+						<heading>*<ref id="ref70" href="/rs/act/2009/41/srp@">Службени гласник РС, број 41/2009</ref></heading>
+						<content>
+							<clause id="gla3-clan16-stav1">
+								<content>
+									<p>Министарство установљава и води регистар матичњака, шумских расадника и расадника украсног дрвећа и жбуња.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan16-stav2">
+								<content>
+									<p>Министарство врши упис матичњака, шумских расадника и расадника украсног дрвећа и жбуња у регистар из става 1. овог члана на основу пријаве произвођача.*</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan16-stav3">
+								<content>
+									<p>Регистар из става 1. овог члана садржи податке о: датуму уписа у регистар, регистарском броју, називу власника, односно корисника, локацији и површини матичњака, шумског расадника, односно расадника украсног дрвећа и жбуња.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan17">
+						<num>17.</num>
+						<heading>*<ref id="ref71" href="/rs/act/2009/41/srp@">Службени гласник РС, број 41/2009</ref></heading>
+						<content>
+							<clause id="gla3-clan17-stav1">
+								<content>
+									<p>Произвођач репродуктивног материјала је дужан да води књигу евиденције репродуктивног материјала.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan17-stav2">
+								<content>
+									<p>Књига евиденције из става 1. овог члана садржи: број решења о утврђивању услова за производњу репродуктивног материјала, име лица које обавља послове стручног руковођења производњом репродуктивног материјала, прегледни план расадника и матичњака са јасно означеним делом где се производи репродуктивни материјал врста из <ref>члана 3. овог</ref> закона, врсту, односно сорту и старост репродуктивног материјала, количину укупно примљеног, произведеног, продатог и уништеног репродуктивног материјала, податке о начину производње, врсти и датуму извођења радова.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="gla3-clan18-stav1">
+								<content>
+									<p>Садни материјал у расаднику, односно матичњаку, мора бити обележен јасно видљивим ознакама које садрже податке о врсти (народни и научни назив) и старости садног материјала.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="gla3-clan19-stav1">
+								<content>
+									<p>О врсти и количини репродуктивног материјала произведеног до 31. октобра текуће године произвођач је дужан да обавести министарство најкасније до 15. новембра текуће године.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan19-stav2">
+								<content>
+									<p>Увозник репродуктивног материјала је дужан да обавести министарство о врсти и количини увезеног репродуктивног материјала најкасније у року од 15 дана од дана увоза.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>КОНТРОЛА ПРОИЗВОДЊЕ РЕПРОДУКТИВНОГ МАТЕРИЈАЛА</heading>
+				<content>
+					<article id="gla4-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla4-clan20-stav1">
+								<content>
+									<p>Производња репродуктивног материјала подлеже обавезној контроли једном у току вегетације.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav2">
+								<content>
+									<p>Изузетно од одредбе става 1. овог члана контрола производње репродуктивног материјала топола и врба врши се два пута у току вегетације.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav3">
+								<content>
+									<p>Контролу производње репродуктивног материјала (у даљем тексту: контрола производње) врши министарство.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav4">
+								<content>
+									<p>Стручне послове контроле производње министарство може да повери предузећу или другом правном лицу из <ref>члана 10. став 2. овог</ref> закона.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan21">
+						<num>21.</num>
+						<content>
+							<clause id="gla4-clan21-stav1">
+								<content>
+									<p>Произвођач репродуктивног материјала дужан је да поднесе министарству пријаву за контролу производње најкасније до 30. априла текуће године.*</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan22">
+						<num>22.</num>
+						<heading>*<ref id="ref72" href="/rs/act/2009/41/srp@">Службени гласник РС, број 41/2009</ref></heading>
+						<content>
+							<clause id="gla4-clan22-stav1">
+								<content>
+									<p>Министарство издаје уверење о пореклу репродуктивног материјала за партију семена, односно пошиљку делова биљака или садног материјала произведеног у складу са одредбама овог закона и прописа донетих на основу њега.*</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan22-stav2">
+								<content>
+									<p>Изузетно од одредбе става 1. овог члана министарство издаје уверење о пореклу за пошиљку семена насталу мешањем селекционисаног или семена познатог порекла које потиче од два или више семенских објеката унутар исте категорије и истог региона провенијенције или из истог семенског објекта за семе сакупљено у различитим годинама.*</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan22-stav3">
+								<content>
+									<p>Произвођач, односно добављач репродуктивног материјала дужан је да пре стављања репродуктивног материјала у промет прибави уверење о пореклу.*</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan23">
+						<num>23.</num>
+						<heading>*<ref id="ref73" href="/rs/act/2009/41/srp@">Службени гласник РС, број 41/2009</ref></heading>
+						<content>
+							<clause id="gla4-clan23-stav1">
+								<content>
+									<p>Министар ближе прописује: начин и поступак вршења контроле производње, образац пријаве за контролу производње, образац записника о контроли у току процеса производње и образац уверења о пореклу репродуктивног материјала.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan24">
+						<num>24.</num>
+						<content>
+							<clause id="gla4-clan24-stav1">
+								<content>
+									<p>Трошкове контроле производње сноси произвођач и уплаћује на одговарајући рачун за уплату јавних прихода буџета Републике.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan24-stav2">
+								<content>
+									<p>Висина трошкова утврђује се у складу са прописима о накнадама трошкова у управном поступку.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>ДОРАДА РЕПРОДУКТИВНОГ МАТЕРИЈАЛА</heading>
+				<content>
+					<article id="gla5-clan25">
+						<num>25.</num>
+						<content>
+							<clause id="gla5-clan25-stav1">
+								<content>
+									<p>Дорада семена обухвата сушење, трушење, чишћење, калибрирање, паковање, затварање амбалаже, пломбирање, смештај и чување.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan25-stav2">
+								<content>
+									<p>Дорада семена обухвата и дезинфекцију и дезинсекцију, као и третирање семена бактеријским и биостимулаторским средствима.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan25-stav3">
+								<content>
+									<p>Дорада садница и вегетативних делова обухвата класирање, паковање, смештај и чување.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan26">
+						<num>26.</num>
+						<content>
+							<clause id="gla5-clan26-stav1">
+								<content>
+									<p>Дорадом репродуктивног материјала може да се бави предузеће, друго правно лице или предузетник (у даљем тексту: дорађивач) који испуњава следеће услове:</p>
+									<point id="gla5-clan26-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> да има обезбеђен радни простор и опрему за дораду и чување репродуктивног материјала, одвојено по партијама;</p>
+										</content>
+									</point>
+									<point id="gla5-clan26-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> да стручно руковођење пословима дораде репродуктивног материјала врши лице које је дипломирани инжењер шумарства – одсек за шумарство са најмање две године радног искуства и положеним стручним испитом.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan27">
+						<num>27.</num>
+						<content>
+							<clause id="gla5-clan27-stav1">
+								<content>
+									<p>Пошиљку недорађеног семена на дораду прати записник шумарског инспектора о брању, односно сакупљању.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan27-stav2">
+								<content>
+									<p>Записник из става 1. овог члана садржи податке о:</p>
+									<point id="gla5-clan27-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> врсти дрвета;</p>
+										</content>
+									</point>
+									<point id="gla5-clan27-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> датуму брања, односно сакупљања;</p>
+										</content>
+									</point>
+									<point id="gla5-clan27-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> тежини пошиљке;</p>
+										</content>
+									</point>
+									<point id="gla5-clan27-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> регистарском броју и врсти полазног материјала за производњу репродуктивног материјала;</p>
+										</content>
+									</point>
+									<point id="gla5-clan27-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> региону провенијенције за репродуктивни материјал категорије познатог порекла и селекционисаног.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla5-clan27-stav3">
+								<content>
+									<p>Произвођач семена, односно резница је дужан да седам дана пре почетка брања или сакупљања семена, односно израде резница, о томе обавести шумарског инспектора.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan28">
+						<num>28.</num>
+						<content>
+							<clause id="gla5-clan28-stav1">
+								<content>
+									<p>Дорађивач је дужан да води књигу евиденције о доради репродуктивног материјала.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan28-stav2">
+								<content>
+									<p>Књига евиденције из става 1. овог члана садржи податке о: датуму пријема, врсти и количини недорађеног репродуктивног материјала, произвођачу недорађеног репродуктивног материјала, датуму дораде, врсти и количини дорађеног репродуктивног материјала, датуму испоруке, врсти и количини испорученог дорађеног репродуктивног материјала и лицу коме је испоручен дорађени репродуктивни материјал.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>КВАЛИТЕТ РЕПРОДУКТИВНОГ МАТЕРИЈАЛА</heading>
+				<content>
+					<article id="gla6-clan29">
+						<num>29.</num>
+						<content>
+							<clause id="gla6-clan29-stav1">
+								<content>
+									<p>Репродуктивни материјал мора да испуњава норме квалитета прописане ЈУС-ом и ИСТА, а репродуктивни материјал топола (Populus sp.) и врба (Salidћ sp.) норме квалитета утврђене прописом који доноси министар.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan29-stav2">
+								<content>
+									<p>Пропис из става 1. овог члана садржи податке о димензијама, квалитету и класама репродуктивног материјала топола и врба.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan30">
+						<num>30.</num>
+						<content>
+							<clause id="gla6-clan30-stav1">
+								<content>
+									<p>Испитивање и утврђивање квалитета репродуктивног материјала врши се пре стављања у промет и коришћења по међународно признатом методу.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan30-stav2">
+								<content>
+									<p>Испитивање и утврђивање квалитета репродуктивног материјала врши предузеће, односно друго правно лице које испуњава услове утврђене овим законом.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan30-stav3">
+								<content>
+									<p>Испитивање и утврђивање квалитета резница и садница врши овлашћено лице од стране Министарства.*</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan30-stav4">
+								<content>
+									<p>Испитивање и утврђивање квалитета репродуктивног материјала из увоза врши предузеће односно друго правно лице које је овлашћено да издаје сертификате међународног удружења за испитивање квалитета репродуктивног материјала.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan31">
+						<num>31.</num>
+						<heading>*<ref id="ref74" href="/rs/act/2009/41/srp@">Службени гласник РС, број 41/2009</ref></heading>
+						<content>
+							<clause id="gla6-clan31-stav1">
+								<content>
+									<p>Испитивањем и утврђивањем квалитета репродуктивног материјала може да се бави предузеће, односно друго правно лице које испуњава следеће услове:</p>
+									<point id="gla6-clan31-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> да има обезбеђен радни простор за испитивање квалитета репродуктивног материјала;</p>
+										</content>
+									</point>
+									<point id="gla6-clan31-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> да има обезбеђен простор за чување узорака семена;</p>
+										</content>
+									</point>
+									<point id="gla6-clan31-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> да располаже одговарајућим уређајима, апаратима и прибором за испитивање квалитета репродуктивног материјала, према врсти репродуктивног материјала који се испитује;</p>
+										</content>
+									</point>
+									<point id="gla6-clan31-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> да за обављање послова испитивања и утврђивања квалитета репродуктивног материјала има запослено лице које је дипломирани инжењер шумарства – одсек за шумарство, са најмање две године радног искуства и положеним стручним испитом.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla6-clan31-stav2">
+								<content>
+									<p>Министар решењем овлашћује предузеће, односно друго правно лице из става 1. овог члана за вршење послова испитивања и утврђивања квалитета семена.*</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan31-stav3">
+								<content>
+									<p>Министар ближе прописује услове које треба да испуни предузеће, односно друго правно лице из става 1. овог члана.*</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan32">
+						<num>32.</num>
+						<heading>*<ref id="ref75" href="/rs/act/2009/41/srp@">Службени гласник РС, број 41/2009</ref></heading>
+						<content>
+							<clause id="gla6-clan32-stav1">
+								<content>
+									<p>За дорађен репродуктивни материјал који испуњава прописане норме квалитета, предузеће, односно друго правно лице из <ref>члана 30. овог</ref> закона издаје декларацију о квалитету репродуктивног материјала.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan32-stav2">
+								<content>
+									<p>Рок важности декларације о квалитету репродуктивног материјала одређује предузеће, односно друго правно лице из <ref>члана 30. овог</ref> закона у зависности од врсте, старости и начина чувања репродуктивног материјала, а највише  дванаест* месеци од дана издавања.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan33">
+						<num>33.</num>
+						<heading>*<ref id="ref76" href="/rs/act/2009/41/srp@">Службени гласник РС, број 41/2009</ref></heading>
+						<content>
+							<clause id="gla6-clan33-stav1">
+								<content>
+									<p>Предузеће, односно друго правно лице из <ref>члана 30. овог</ref> закона дужно је да чува документацију о испитивању и утврђивању квалитета репродуктивног материјала најмање пет година, а по један примерак узорка из сваке партије семена најмање 18 месеци.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla7">
+				<num>VII</num>
+				<heading>ПРОМЕТ И УПОТРЕБА РЕПРОДУКТИВНОГ МАТЕРИЈАЛА</heading>
+				<content>
+					<article id="gla7-clan34">
+						<num>34.</num>
+						<content>
+							<clause id="gla7-clan34-stav1">
+								<content>
+									<p>У промет може да се стави репродуктивни материјал шумског дрвећа познатог порекла, селекционисан, квалификован или тестиран.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan34-stav2">
+								<content>
+									<p>У промет може да се стави селекционисан, квалификован или тестиран репродуктивни материјал хибрида.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan34-stav3">
+								<content>
+									<p>У промет може да се стави квалификован или тестиран репродуктивни материјал топола.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan34-stav4">
+								<content>
+									<p>У промет може да се стави репродуктивни материјал који потиче од генетски модификованих организама само ако је тестиран.</p>
+								</content>
+							</clause>
+							<article id="gla7-clan34.а">
+								<num>34а</num>
+								<content>
+									<clause id="gla7-clan34.а-stav1">
+										<content>
+											<p>Репродуктивни материјал украсног дрвећа и жбуња може да се стави у промет ако је довољних димензија и виталности да може да се користи као репродуктивни материјал и ако нема видљивих знакова физиолошке слабости, механичких или других оштећења.*</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</article>
+					<article id="gla7-clan35">
+						<num>35.</num>
+						<heading>*<ref id="ref77" href="/rs/act/2009/41/srp@">Службени гласник РС, број 41/2009</ref></heading>
+						<content>
+							<clause id="gla7-clan35-stav1">
+								<content>
+									<p>Промет репродуктивног материјала може да врши произвођач и добављач уписан у књигу произвођача и добављача репродуктивног материјала коју води министарство.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan35-stav2">
+								<content>
+									<p>Књига произвођача и добављача репродуктивног материјала из става 1. овог члана садржи податке о: називу, седишту и адреси произвођача и добављача, одговорном лицу добављача и броју решења о упису у одговарајући регистар.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan36">
+						<num>36.</num>
+						<content>
+							<clause id="gla7-clan36-stav1">
+								<content>
+									<p>Репродуктивни материјал у промету мора бити упакован тако да је заштићен од исушивања, упале, оштећења и инфекције.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan36-stav2">
+								<content>
+									<p>Партије семена и плода стављају се у промет у пломбираним пошиљкама.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan37">
+						<num>37.</num>
+						<content>
+							<clause id="gla7-clan37-stav1">
+								<content>
+									<p>Пошиљку дорађеног семена у промету, садница и вегетативних делова биљака прати уверење о пореклу.*</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan37-stav2">
+								<content>
+									<p>Изузетно од одредбе става 1. овог члана мале количине садница у промету намењене пошумљавању прати само етикета из <ref>члана 38. овог</ref> закона.*</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan37-stav3">
+								<content>
+									<p>Министар ближе одређује количине садница које се за поједине врсте шумског дрвећа сматрају малим.*</p>
+								</content>
+							</clause>
+							<article id="gla7-clan37.а">
+								<num>37а</num>
+								<heading>*<ref id="ref78" href="/rs/act/2009/41/srp@">Службени гласник РС, број 41/2009</ref></heading>
+								<content>
+									<clause id="gla7-clan37.а-stav1">
+										<content>
+											<p>Пошиљку дорађеног семена у промету прати декларација о квалитету. Дорађено семе у промету мора да одговара квалитету означеном у декларацији о квалитету, а делови биљака и саднице квалитету наведеном на етикети из <ref>члана 38. овог</ref> закона.*</p>
+										</content>
+									</clause>
+									<clause id="gla7-clan37.а-stav2">
+										<content>
+											<p>За пошиљку семена из <ref>члана 22. став 2. овог</ref> закона добављач је дужан да прибави нову декларацију о квалитету.*</p>
+										</content>
+									</clause>
+									<clause id="gla7-clan37.а-stav3">
+										<content>
+											<p>Ради сетве семена сакупљеног у текућој години, дозвољава се испорука семена до првог купца без података о проценту клијавости чистог семена и броју клијавих или виталних семенки по килограму.*</p>
+										</content>
+									</clause>
+									<clause id="gla7-clan37.а-stav4">
+										<content>
+											<p>Податке из става 3. овог члана добављач је дужан да достави купцу одмах по завршеном испитивању узорка семена.*</p>
+										</content>
+									</clause>
+									<clause id="gla7-clan37.а-stav5">
+										<content>
+											<p>Мале количине семена у промету не мора да прати декларација о квалитету.*</p>
+										</content>
+									</clause>
+									<clause id="gla7-clan37.а-stav6">
+										<content>
+											<p>Министар ближе одређује количине семена које се за поједине врсте шумског дрвећа сматрају малим.*</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</article>
+					<article id="gla7-clan38">
+						<num>38.</num>
+						<heading>*<ref id="ref79" href="/rs/act/2009/41/srp@">Службени гласник РС, број 41/2009</ref></heading>
+						<content>
+							<clause id="gla7-clan38-stav1">
+								<content>
+									<p>На амбалажу пошиљке репродуктивног материјала произвођач, односно дорађивач репродуктивног материјала ставља етикету која садржи податке о:</p>
+									<point id="gla7-clan38-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> називу произвођача, односно дорађивача репродуктивног материјала;</p>
+										</content>
+									</point>
+									<point id="gla7-clan38-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> броју уверења о пореклу репродуктивног материјала;</p>
+										</content>
+									</point>
+									<point id="gla7-clan38-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> броју декларације о квалитету  семена, са роком важења*;</p>
+										</content>
+									</point>
+									<point id="gla7-clan38-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> врсти дрвета (народни и научни назив);</p>
+										</content>
+									</point>
+									<point id="gla7-clan38-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> категорији репродуктивног материјала;</p>
+										</content>
+									</point>
+									<point id="gla7-clan38-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> датуму сакупљања, односно израде репродуктивног материјала;</p>
+										</content>
+									</point>
+									<point id="gla7-clan38-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> старости садница*</p>
+										</content>
+									</point>
+									<point id="gla7-clan38-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> класи резница или садница;*</p>
+										</content>
+									</point>
+									<point id="gla7-clan38-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> количини репродуктивног матријала у пошиљци.*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla7-clan38-stav2">
+								<content>
+									<p>Етикета на амбалажи пошиљке семена, поред података из става 1. овог члана, садржи и податке о:*</p>
+									<point id="gla7-clan38-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> чистоћи – процентуално учешће чистог семена по тежини;*</p>
+										</content>
+									</point>
+									<point id="gla7-clan38-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> проценту клијавости чистог семена;*</p>
+										</content>
+									</point>
+									<point id="gla7-clan38-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> тежини 1000 чистих семенки;*</p>
+										</content>
+									</point>
+									<point id="gla7-clan38-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> броју клијавих или виталних семенки по килограму. У случају виталних семенки, наводи се и метод по коме је утврђена виталност.*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla7-clan38-stav3">
+								<content>
+									<p>Ако се издаје на обојеном папиру етикета се разликује по боји за поједине категорије репродуктивног материјала, и то:</p>
+									<point id="gla7-clan38-stav3-tac1">
+										<num>1)</num>
+										<content>
+											<p> жута за репродуктивни материјал познатог порекла;</p>
+										</content>
+									</point>
+									<point id="gla7-clan38-stav3-tac2">
+										<num>2)</num>
+										<content>
+											<p> зелена за селекционисан репродуктивни материјал;</p>
+										</content>
+									</point>
+									<point id="gla7-clan38-stav3-tac3">
+										<num>3)</num>
+										<content>
+											<p> ружичаста за квалификован репродуктивни материјал;</p>
+										</content>
+									</point>
+									<point id="gla7-clan38-stav3-tac4">
+										<num>4)</num>
+										<content>
+											<p> плава за тестиран репродуктивни материјал.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla7-clan38-stav4">
+								<content>
+									<p>Ако је етикета на пошиљци репродуктивног материјала намењеној извозу беле боје, назив боје за поједине категорије репродуктивног материјала мора бити одштампан у горњем десном углу на енглеском језику.*</p>
+								</content>
+							</clause>
+							<article id="gla7-clan38.а">
+								<num>38а</num>
+								<heading>*<ref id="ref80" href="/rs/act/2009/41/srp@">Службени гласник РС, број 41/2009</ref></heading>
+								<content>
+									<clause id="gla7-clan38.а-stav1">
+										<content>
+											<p>Произвођач, односно добављач дужан је да води и чува евиденцију о издатим етикетама из <ref>члана 38. овог</ref> закона најмање пет година*</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</article>
+					<article id="gla7-clan39">
+						<num>39.</num>
+						<heading>*<ref id="ref81" href="/rs/act/2009/41/srp@">Службени гласник РС, број 41/2009</ref></heading>
+						<content>
+							<clause id="gla7-clan39-stav1">
+								<content>
+									<p>Пренос семена и плодова на дораду не сматра се прометом репродуктивног материјала у смислу одредаба овог закона.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan40">
+						<num>40.</num>
+						<content>
+							<clause id="gla7-clan40-stav1">
+								<content>
+									<p>У промет не може да се стави репродуктивни материјал чији је рок важења декларације о квалитету истекао.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan40-stav2">
+								<content>
+									<p>У случају из става 1. овог члана на захтев власника репродуктивног материјала предузеће, односно друго правно лице из <ref>члана 30. овог</ref> закона извршиће поновно испитивање, утврђивање квалитета, као и издавање декларације о квалитету репродуктивног материјала за који утврди да испуњава прописане норме квалитета.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla8">
+				<num>VIII</num>
+				<heading>НАДЗОР</heading>
+				<content>
+					<article id="gla8-clan41">
+						<num>41.</num>
+						<content>
+							<clause id="gla8-clan41-stav1">
+								<content>
+									<p>Надзор над применом одредаба овог закона и прописа донетих на основу њега врши министарство.</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan41-stav2">
+								<content>
+									<p>Инспекцијски надзор над признавањем полазног материјала, производњом, дорадом, квалитетом, прометом и употребом репродуктивног материјала министарство врши преко шумарског инспектора (у даљем тексту: инспектор).</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan41-stav3">
+								<content>
+									<p>Послове инспектора може да врши дипломирани инжењер шумарства, одсека за шумарство, са најмање три године радног искуства и са положеним стручним испитом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla8-clan42">
+						<num>42.</num>
+						<content>
+							<clause id="gla8-clan42-stav1">
+								<content>
+									<p>Свако правно и физичко лице дужно је да инспектору омогући вршење инспекцијског надзора, да му без одлагања стави на увид и располагање потребну документацију и друге доказе и изјасни се о чињеницама које су од значаја за вршење надзора.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla8-clan43">
+						<num>43.</num>
+						<content>
+							<clause id="gla8-clan43-stav1">
+								<content>
+									<p>У вршењу послова инспекцијског надзора инспектор је овлашћен и дужан да:</p>
+									<point id="gla8-clan43-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> врши контролу и утврђивање услова за производњу, дораду и за испитивање и утврђивање квалитета репродуктивног материјала;</p>
+										</content>
+									</point>
+									<point id="gla8-clan43-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> врши контролу процеса производње, поступака дораде и поступака испитивања и утврђивања квалитета репродуктивног материјала;</p>
+										</content>
+									</point>
+									<point id="gla8-clan43-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> врши обавезне прегледе у поступку одабирања и признавања матичњака и установљавања регистра матичњака и шумских расадника;</p>
+										</content>
+									</point>
+									<point id="gla8-clan43-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> врши обавезне прегледе у поступку контроле производње репродуктивног материјала и издавања прописаних уверења;</p>
+										</content>
+									</point>
+									<point id="gla8-clan43-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> врши контролу да ли се поверени послови врше у складу са одредбама овог закона и прописа донетих на основу истог;</p>
+										</content>
+									</point>
+									<point id="gla8-clan43-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> врши контролу промета, употребе и квалитета репродуктивног материјала;</p>
+										</content>
+									</point>
+									<point id="gla8-clan43-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> врши контролу сакупљања и убирања репродуктивног материјала са семенских стабала, састојина и плантажа;</p>
+										</content>
+									</point>
+									<point id="gla8-clan43-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> узима узорке репродуктивног материјала без накнаде ради испитивања и утврђивања квалитета;</p>
+										</content>
+									</point>
+									<point id="gla8-clan43-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> захтева помоћ органа надлежних за унутрашње послове ако оцени да без њихове помоћи не може да изврши надзор.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla8-clan44">
+						<num>44.</num>
+						<content>
+							<clause id="gla8-clan44-stav1">
+								<content>
+									<p>У вршењу послова из <ref>члана 43. овог</ref> закона инспектор је овлашћен и дужан да:</p>
+									<point id="gla8-clan44-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> забрани производњу, дораду и утврђивање квалитета репродуктивног материјала, ако за то нису испуњени прописани услови или ако се ове делатности обављају без доказа о испуњености прописаних услова;</p>
+										</content>
+									</point>
+									<point id="gla8-clan44-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> забрани производњу, дораду, употребу и стављање у промет репродуктивног материјала које нема уверење о пореклу;</p>
+										</content>
+									</point>
+									<point id="gla8-clan44-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> забрани стављање у промет репродуктивног материјала који није дорађен, није прописно упакован, није у изворном оригиналном паковању, нема прописану декларацију, не одговара прописаном и декларисаном квалитету или чији квалитет није утврђен на прописан начин;</p>
+										</content>
+									</point>
+									<point id="gla8-clan44-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> забрани употребу и стављање у промет репродуктивног материјала увезеног без одобрења надлежног органа;</p>
+										</content>
+									</point>
+									<point id="gla8-clan44-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> нареди уништавање и надзире поступак уништавања репродуктивног материјала чија се производња и промет врши супротно одредбама овог закона и прописа донетих на основу њега и да уништи репродуктивни материјал ако се не поступи по налогу за његово уништавање;</p>
+										</content>
+									</point>
+									<point id="gla8-clan44-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> одузме и уништи репродуктивни материјал који је стављен у промет супротно одредбама овог закона;</p>
+										</content>
+									</point>
+									<point id="gla8-clan44-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> нареди отклањање утврђене неправилности када у поступку надзора утврди да пропис о репродуктивном материјалу није примењен или је неправилно примењен и одреди за то потребан рок.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla8-clan44-stav2">
+								<content>
+									<p>Трошкови који настану приликом одузимања, чувања и уништавања репродуктивног материјала на основу овлашћења из става 1. тачка 6. овог члана падају на терет лица од којег је репродуктивни материјал одузет.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla8-clan45">
+						<num>45.</num>
+						<content>
+							<clause id="gla8-clan45-stav1">
+								<content>
+									<p>Против решења инспектора допуштена је жалба Влади Републике Србије.</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan45-stav2">
+								<content>
+									<p>Жалба изјављена на решење инспектора из <ref>члана 44. став 1. </ref>тач. 2. и 3. овог закона не одлаже његово извршење.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla8-clan46">
+						<num>46.</num>
+						<content>
+							<clause id="gla8-clan46-stav1">
+								<content>
+									<p>Утврђивање квалитета инспекцијских узорака репродуктивног материјала министарство може да повери предузећу, односно другом правном лицу које испуњава услове из <ref>члана 31. овог</ref> закона.</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan46-stav2">
+								<content>
+									<p>Трошкове који настају у вези са утврђивањем квалитета инспекцијских узорака репродуктивног материјала сноси предузеће, односно друго правно и физичко лице од кога је узорак узет, ако узорак не одговара прописаном, односно декларисаном квалитету, односно министарство ако узорак одговара прописаном, односно декларисаном квалитету.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla8-clan47">
+						<num>47.</num>
+						<heading>IХ. КАЗНЕНЕ ОДРЕДБЕ</heading>
+						<content>
+							<clause id="gla8-clan47-stav1">
+								<content>
+									<p>Новчаном казном од 50.000 до 1.000.000 динара казниће се за привредни преступ предузеће или друго правно лице, ако:</p>
+									<point id="gla8-clan47-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> поступи супротно одредбама <ref>члана 7. овог</ref> закона;</p>
+										</content>
+									</point>
+									<point id="gla8-clan47-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> за подизање и обнављање шума користи репродуктивни материјал из увоза супротно одредбама <ref>члана 8. овог</ref> закона;</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla8-clan47-stav2">
+								<content>
+									<p>2а) не сакупи семе одређене врсте шумског дрвећа на основу налога министарства (члан 8а);*</p>
+									<point id="gla8-clan47-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> ако се бави производњом репродуктивног материјала, дорадом репродуктивног материјала или утврђивањем квалитета семена, а не испуњава прописане услове или настави да се бави овим делатностима после решења инспектора о забрани вршења ових делатности (<ref>члан 15. став 1, </ref><ref>члан 26, </ref><ref>члан 31. </ref>и <ref>члан 44. став 1. тачка 1</ref>);</p>
+										</content>
+									</point>
+									<point id="gla8-clan47-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> пре стављања у промет и коришћења не изврши утврђивање квалитета репродуктивног материјала (<ref>члан 30</ref>);</p>
+										</content>
+									</point>
+									<point id="gla8-clan47-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> стави у промет репродуктивни материјал супротно одредби <ref>члана 34. овог</ref> закона;</p>
+										</content>
+									</point>
+									<point id="gla8-clan47-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> промет репродуктивног материјала врши произвођач или добављач који није уписан у књигу произвођача и добављача репродуктивног материјала (<ref>члан 35. став 1</ref>);</p>
+										</content>
+									</point>
+									<point id="gla8-clan47-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> стави пошиљку дорађеног семена, садница и вегетативних делова биљака у промет супротно одредбама <ref>члана 37. овог</ref> закона;*</p>
+										</content>
+									</point>
+									<point id="gla8-clan47-stav2-tac8">
+										<num>8)</num>
+										<content>
+											<p> поступи супротно одредби <ref>члана 40. став 1. овог</ref> закона.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla8-clan47-stav3">
+								<content>
+									<p>За привредни преступ из става 1. овог члана казниће се новчаном казном од 10.000 до 50.000 динара и одговорно лице у предузећу или другом правном лицу.</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan47-stav4">
+								<content>
+									<p>Уз новчану казну за привредни преступ из става 1. овог члана може се изрећи и заштитна мера забране предузећу или другом правном лицу да се бави одређеном привредном делатношћу у трајању од шест месеци до десет година.</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan47-stav5">
+								<content>
+									<p>Уз новчану казну из става 2. овог члана одговорном лицу у предузећу или другом правном лицу може се изрећи и заштитна мера забране вршења одређених дужности у трајању од шест месеци до десет година.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla8-clan48">
+						<num>48.</num>
+						<heading>*<ref id="ref82" href="/rs/act/2009/41/srp@">Службени гласник РС, број 41/2009</ref></heading>
+						<content>
+							<clause id="gla8-clan48-stav1">
+								<content>
+									<p>Новчаном казном од 100.000 до 1.000.000 динара казниће се за прекршај предузеће или друго правно лице, ако:</p>
+									<point id="gla8-clan48-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> поступи супротно одредби <ref>члана 4. став 3. овог</ref> закона;</p>
+										</content>
+									</point>
+									<point id="gla8-clan48-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> не води књигу евиденције репродуктивног материјала, односно ако књига евиденције не садржи прописане податке (<ref>члан 17</ref>);</p>
+										</content>
+									</point>
+									<point id="gla8-clan48-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> поступи супротно одредби <ref>члана 18. овог</ref> закона;</p>
+										</content>
+									</point>
+									<point id="gla8-clan48-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> не обавести министарство о врсти и количини произведеног, односно увеженог репродуктивног материјала (<ref>члан 19</ref>);</p>
+										</content>
+									</point>
+									<point id="gla8-clan48-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> не поднесе министарству пријаву за контролу производње, односно ако је не поднесе у прописаном року (<ref>члан 21</ref>);</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla8-clan48-stav2">
+								<content>
+									<p>5а) не прибави уверење о пореклу пре стављања репродуктивног материјала у промет (<ref>члан 22. став 3</ref>);*</p>
+									<point id="gla8-clan48-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> поступи супротно одредби <ref>члана 27. </ref>ст. 1. и 3. овог закона;</p>
+										</content>
+									</point>
+									<point id="gla8-clan48-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> не води књигу евиденције о доради репродуктивног материјала, односно ако књига евиденције не садржи прописане податке (<ref>члан 28</ref>);</p>
+										</content>
+									</point>
+									<point id="gla8-clan48-stav2-tac8">
+										<num>8)</num>
+										<content>
+											<p> не чува документацију о испитивању и утврђивању квалитета репродуктивног материјала до прописаног рока (<ref>члан 33</ref>);</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla8-clan48-stav3">
+								<content>
+									<p>8а) стави у промет репродуктивни материјал украсног дрвећа и жбуња супротно одредбама члана 34а овог закона;*</p>
+									<point id="gla8-clan48-stav3-tac9">
+										<num>9)</num>
+										<content>
+											<p> стави репродуктивни материјал у промет супротно одредби <ref>члана 36. овог</ref> закона;</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla8-clan48-stav4">
+								<content>
+									<p>9а) пошиљку дорађеног семена у промету не прати декларација о квалитету, односно ако дорађено семе у промету не одговара квалитету означеном у декларацији, а делови биљака и саднице квалитету наведеном на етикети из <ref>члана 38</ref>. (члан 37а став 1);*</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan48-stav5">
+								<content>
+									<p>9б) за пошиљку семена из <ref>члана 22. став 2. овог</ref> закона не прибави нову декларацију о квалитету (члан 37а став 2);*</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan48-stav6">
+								<content>
+									<p>9в) не достави купцу податке из члана 37а став 3. овог закона одмах по завршеном испитивању узорка семена (члан 37а став 4)*</p>
+									<point id="gla8-clan48-stav6-tac10">
+										<num>10)</num>
+										<content>
+											<p> поступи супротно одредбама <ref>члана 38. овог</ref> закона.</p>
+										</content>
+									</point>
+									<point id="gla8-clan48-stav6-tac11">
+										<num>11)</num>
+										<content>
+											<p> не води и не чува евиденцију о издатим етикетама из <ref>члана 38. овог</ref> закона најмање пет година (члан 38а).*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla8-clan48-stav7">
+								<content>
+									<p>За прекршај из става 1. овог члана казниће се новчаном казном од 5.000 до 50.000 динара и одговорно лице у предузећу или другом правном лицу.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla8-clan49">
+						<num>49.</num>
+						<heading>*<ref id="ref83" href="/rs/act/2009/41/srp@">Службени гласник РС, број 41/2009</ref></heading>
+						<content>
+							<clause id="gla8-clan49-stav1">
+								<content>
+									<p>Новчаном казном од 5.000 до 500.000 динара казниће се за прекршај предузетник, ако:</p>
+									<point id="gla8-clan49-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> поступи супротно одредби <ref>члана 4. став 3. овог</ref> закона;</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla8-clan49-stav2">
+								<content>
+									<p>1а) не сакупи семе одређене врсте шумског дрвећа на основу налога министарства (члан 8а);*</p>
+									<point id="gla8-clan49-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> се бави производњом репродуктивног материјала или дорадом семена, а не испуњава прописане услове или настави да се бави овим делатностима и после решења инспектора о забрани вршења ових делатности (<ref>члан 15. став 1, </ref><ref>члан 26. </ref>и <ref>члан 44. став 1</ref>);</p>
+										</content>
+									</point>
+									<point id="gla8-clan49-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> не води књигу евиденције репродуктивног материјала, односно ако књига евиденције не садржи прописане податке (<ref>члан 17</ref>);</p>
+										</content>
+									</point>
+									<point id="gla8-clan49-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> ако поступи супротно одредби <ref>члана 18. овог</ref> закона;</p>
+										</content>
+									</point>
+									<point id="gla8-clan49-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> не обавести министарство о врсти и количини произведеног, односно увеженог репродуктивног материјала (<ref>члан 19</ref>);</p>
+										</content>
+									</point>
+									<point id="gla8-clan49-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> не поднесе министарству пријаву, односно ако је не поднесе у прописаном року (<ref>члан 21</ref>);</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla8-clan49-stav3">
+								<content>
+									<p>6а) не прибави уверење о пореклу пре стављања репродуктивног материјала у промет (<ref>члан 22. став 3</ref>);*</p>
+									<point id="gla8-clan49-stav3-tac7">
+										<num>7)</num>
+										<content>
+											<p> поступи супротно одредби <ref>члана 27. </ref>ст. 1. и 3. овог закона;</p>
+										</content>
+									</point>
+									<point id="gla8-clan49-stav3-tac8">
+										<num>8)</num>
+										<content>
+											<p> не води књигу евиденције о доради репродуктивног материјала, односно ако књига евиденције не садржи прописане податке (<ref>члан 28</ref>);</p>
+										</content>
+									</point>
+									<point id="gla8-clan49-stav3-tac9">
+										<num>9)</num>
+										<content>
+											<p> пре стављања у промет и коришћења не изврши утврђивање квалитета репродуктивног материјала (<ref>члан 30</ref>);</p>
+										</content>
+									</point>
+									<point id="gla8-clan49-stav3-tac10">
+										<num>10)</num>
+										<content>
+											<p> стави у промет репродуктивни материјал супротно одредби <ref>члана 34. овог</ref> закона;</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla8-clan49-stav4">
+								<content>
+									<p>10а) стави у промет репродуктивни материјал украсног дрвећа и жбуња супротно одредбама члана 34а овог закона;*</p>
+									<point id="gla8-clan49-stav4-tac11">
+										<num>11)</num>
+										<content>
+											<p> стави репродуктивни материјал у промет супротно одредби <ref>члана 36. овог</ref> закона;</p>
+										</content>
+									</point>
+									<point id="gla8-clan49-stav4-tac12">
+										<num>12)</num>
+										<content>
+											<p> стави пошиљку дорађеног семена, садница и вегетативних делова биљака у промет супротно одредбама <ref>члана 37. овог</ref> закона;*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla8-clan49-stav5">
+								<content>
+									<p>12а) пошиљку дорађеног семена у промету не прати декларација о квалитету, односно ако дорађено семе у промету не одговара квалитету означеном у декларацији, а делови биљака и саднице квалитету наведеном на етикети из <ref>члана 38. овог</ref> закона (члан 37а став 1);*</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan49-stav6">
+								<content>
+									<p>12б) за пошиљку семена из <ref>члана 22. став 2. овог</ref> закона не прибави нову декларацију о квалитету (члан 37а став 2);*</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan49-stav7">
+								<content>
+									<p>12в) не достави купцу податке из члана 37а став 3. овог закона одмах по завршеном испитивању узорка семена (члан 37а став 4);*</p>
+									<point id="gla8-clan49-stav7-tac13">
+										<num>13)</num>
+										<content>
+											<p> поступи супротно одредби <ref>члана 38. овог</ref> закона;</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla8-clan49-stav8">
+								<content>
+									<p>13а) не води и не чува евиденцију о издатим етикетама из <ref>члана 38. овог</ref> закона најмање пет година (члан 38а);*</p>
+									<point id="gla8-clan49-stav8-tac14">
+										<num>14)</num>
+										<content>
+											<p> поступи супротно одредби <ref>члана 40. став 1. овог</ref> закона.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<article id="gla8-clan49.а">
+								<num>49а</num>
+								<heading>*<ref id="ref84" href="/rs/act/2009/41/srp@">Службени гласник РС, број 41/2009</ref></heading>
+								<content>
+									<clause id="gla8-clan49.а-stav1">
+										<content>
+											<p>Новчаном казном од 5.000 до 50.000 динара казниће се за прекршај физичко лице, ако:*</p>
+											<point id="gla8-clan49.а-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> поступи супротно одредбама <ref>члана 7. овог</ref> закона;*</p>
+												</content>
+											</point>
+											<point id="gla8-clan49.а-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> врши промет репродуктивног материјала (<ref>члан 35. став 1</ref>).*</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla8-clan49.а-stav2">
+										<content>
+											<p>*<ref id="ref85" href="/rs/act/2009/41/srp@">Службени гласник РС, број 41/2009</ref></p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</article>
+					<article id="gla8-clan50">
+						<num>50.</num>
+						<heading>Х. ПРЕЛАЗНЕ И ЗАВРШНЕ ОДРЕДБЕ</heading>
+						<content>
+							<clause id="gla8-clan50-stav1">
+								<content>
+									<p>Предузеће, односно друго правно лице и предузетник који се баве производњом репродуктивног материјала, дорадом, испитивањем и утврђивањем квалитета репродуктивног материјала, прометом и употребом репродуктивног материјала дужни су да своје пословање ускладе са одредбама овог закона у року од годину дана од дана ступања на снагу овог закона.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla8-clan51">
+						<num>51.</num>
+						<content>
+							<clause id="gla8-clan51-stav1">
+								<content>
+									<p>До доношења прописа на основу овлашћења из овог закона примењиваће се прописи донети на основу Закона о семену и садном материјалу („<ref id="ref86" href="/rs/act/93/54/srp@">Службени гласник РС&quot;, бр. 54/93</ref> и 35/94) и Закона о признавању сорти пољопривредног и шумског биља („<ref id="ref87" href="/rs/act/98/12/srp@">Службени лист СРЈ&quot;, бр. 12/98</ref> и 37/02) ако нису у супротности са овим законом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla8-clan52">
+						<num>52.</num>
+						<content>
+							<clause id="gla8-clan52-stav1">
+								<content>
+									<p>Семенски објекти признати у складу са прописима који су били на снази до дана ступања на снагу овог закона, сматрају се признатим полазним материјалом за производњу селекционисаног репродуктивног материјала.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla8-clan53">
+						<num>53.</num>
+						<content>
+							<clause id="gla8-clan53-stav1">
+								<content>
+									<p>Производња репродуктивног материјала започета до дана ступања на снагу овог закона наставиће се по прописима по којима је започета.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla8-clan54">
+						<num>54.</num>
+						<content>
+							<clause id="gla8-clan54-stav1">
+								<content>
+									<p>Даном ступања на снагу овог закона престају да важе одредбе Закона о семену и садном материјалу („<ref id="ref88" href="/rs/act/93/54/srp@">Службени гласник РС&quot;, бр. 54/93</ref> и 35/94) и Закона о признавању сорти пољопривредног и шумског биља („<ref id="ref89" href="/rs/act/98/12/srp@">Службени лист СРЈ&quot;, бр. 12/98</ref> и 37/02) које се односе на репродуктивни материјал шумског биља.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla8-clan55">
+						<num>55.</num>
+						<content>
+							<clause id="gla8-clan55-stav1">
+								<content>
+									<p>Овај закон ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије&quot;.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

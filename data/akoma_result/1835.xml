@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1980/13-429/main"/>
+					<FRBRuri value="/rs/act/1980/13-429"/>
+					<FRBRdate date="1980" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1980/13-429/srp@/main"/>
+					<FRBRuri value="/rs/act/1980/13-429/srp@"/>
+					<FRBRdate date="1980" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1980/13-429/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1980/13-429/srp@.akn"/>
+					<FRBRdate date="1980" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1980-3-14" name="службени лист сфрј" number="13" showAs="Службени лист СФРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="2. Војска Србије" value="2. војска србије"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1980-02-27" id="usvajanje"/>
+				<step date="1980-03-22" id="stupanje_na_snagu"/>
+				<step date="1980-03-22" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 129. тачка 8</ref>, у вези са чланом 142. став 2. Закона о пензијском и инвалидском осигурању војних осигураника („<ref id="ref1" href="/rs/act/78/32/srp@">Службени лист СФРЈ“, бр. 32/78</ref>), Скупштина Заједнице социјалног осигурања војних осигураника доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о издвајању дела укупних средстава фонда пензијског и инвалидског осигурања   заједнице социјалног осигурања војних осигураника за опоравак уживалаца   пензија</title>
+			<date>„Службени лист СФРЈ”, број 13 од 14. марта 1980.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Из укупних средстава Фонда пензијског и инвалидског осигурања Заједнице социјаног осигурања војних осигураника издвајаће се од 1. јануара 1980. године на посебан рачун наменска средства за опоравак уживалаца пензија по стопи од 1% од укупног износ исплаћених пензија.</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Даном ступања на снагу ове одлуке престаје да важи Одлука о издвајању дела укупних средстава Фонда пензијског и инвалидског осигурања Заједнице социјалног осигурања војних осигураника за опоравак уживалаца пензија („<ref id="ref2" href="/rs/act/76/16/srp@">Службени лист СФРЈ”, бр. 16/76</ref>).</heading>
+				<content/>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Ова одлука ступа на снагу осмог дана од дана објављивања у „Службеном листу СФРЈ”.</heading>
+				<content>
+					<clause id="od3-stav1">
+						<content>
+							<p>Бр. 13-1</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od27">
+				<num>27.</num>
+				<heading> фебруара 1980. године</heading>
+				<content>
+					<clause id="od27-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od27-stav2">
+						<content>
+							<p>Скупштина Заједнице социјалног осигурања војних</p>
+						</content>
+					</clause>
+					<clause id="od27-stav3">
+						<content>
+							<p>осигураника</p>
+						</content>
+					</clause>
+					<clause id="od27-stav4">
+						<content>
+							<p>Председник</p>
+						</content>
+					</clause>
+					<clause id="od27-stav5">
+						<content>
+							<p>Мирко Нововић, с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

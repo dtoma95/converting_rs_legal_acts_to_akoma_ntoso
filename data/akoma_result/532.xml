@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2002/52-2/main"/>
+					<FRBRuri value="/rs/act/2002/52-2"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2002/52-2/srp@/main"/>
+					<FRBRuri value="/rs/act/2002/52-2/srp@"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2002/52-2/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2002/52-2/srp@.akn"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2002-8-30" name="службени гласник рс" number="52" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="IV ЈАВНИ ПРИХОДИ" value="iv јавни приходи"/>
+				<keyword id="grupa" showAs="4. Јавни зајмови" value="4. јавни зајмови"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2002-08-29" id="usvajanje"/>
+				<step date="2002-08-31" id="stupanje_na_snagu"/>
+				<step date="2002-08-31" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 5. став 4. </ref>Закона о регулисању јавног дуга Савезне Републике Југославије по основу девизне штедње грађана („<ref id="ref2" href="/rs/act/2002/36/srp@">Службени лист СРЈ”, број 36/2002</ref>) и <ref>члана 5. став 4. </ref>Закона о регулисању јавног дуга Савезне Републике Југославије по уговорима о девизним депозитима грађана ороченим код Дафимент банке АД, Београд, у ликвидацији и по девизним средствима грађана положеним код Банке приватне привреде Црне Горе ДД, Подгорица, („<ref id="ref3" href="/rs/act/2002/36/srp@">Службени лист СРЈ”, број 36/2002</ref>),</p>
+			<p>Влада Републике Србије доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о условима наплате обвезница Републике Србије за измирење обавеза   по основу девизне штедње грађана</title>
+			<date>„Службени гласник РС”, број 52 од 30. августа 2002.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Овом одлуком уређују се услови наплате обвезница Републике Србије за измирење обавеза по основу девизне штедње грађана емитованих у складу са Одлуком о емисији обвезница Републике Србије за измирење обавеза по основу девизне штедње грађана – „<ref id="ref4" href="/rs/act/2002/48/srp@">Службени гласник РС”, број 48/2002</ref> (у даљем тексту: обвезнице).</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Власници обвезница наплаћују обвезнице код банака код којих имају отворен рачун хартија од вредности, као подрачун рачуна хартија од вредности тих банака, који се на дан доспећа обвезница води код Народне банке Југославије – Завод за обрачун и плаћања – Централног регистра, депоа и клиринга хартија од вредности.</heading>
+				<content/>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Република Србија уплаћује средства ради обезбеђења наплате обвезница на посебан рачун код Народне банке Југославије која обавља послове евиденције уплате тих средстава, пренос средстава банкама из тачке 2. ове одлуке, као и друге административно-техничке и стручне послове у вези са спровођењем ове одлуке.</heading>
+				<content/>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Ова одлука ступа на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”.</heading>
+				<content>
+					<clause id="od4-stav1">
+						<content>
+							<p>05 број 42-12331/2002</p>
+						</content>
+					</clause>
+					<clause id="od4-stav2">
+						<content>
+							<p>У Београду, 29. августа 2002. године</p>
+						</content>
+					</clause>
+					<clause id="od4-stav3">
+						<content>
+							<p>Влада Републике Србије</p>
+						</content>
+					</clause>
+					<clause id="od4-stav4">
+						<content>
+							<p>Потпредседник,</p>
+						</content>
+					</clause>
+					<clause id="od4-stav5">
+						<content>
+							<p>др Небојша Човић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

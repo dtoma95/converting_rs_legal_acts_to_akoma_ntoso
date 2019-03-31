@@ -1,0 +1,230 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2018/94-18/main"/>
+					<FRBRuri value="/rs/act/2018/94-18"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/94-18/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/94-18/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/94-18/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/94-18/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2018-12-7" name="службени гласник рс" number="94" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="11. Регистрација привредних субјеката" value="11. регистрација привредних субјеката"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2018-12-03" id="usvajanje"/>
+				<step date="2018-12-15" id="stupanje_na_snagu"/>
+				<step date="2018-12-15" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 5. став 4. </ref>Закона о Централној евиденцији стварних власника („<ref id="ref6" href="/rs/act/18/41/srp@">Службени гласник РС”, број 41/18</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар привреде доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о садржини Централне евиденције ради спровођења евидентирања стварних власника Регистрованог субјекта</title>
+			<date>&quot;Службени гласник РС&quot;, број 94 од 7. децембра     2018.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником ближе се прописује садржина Централне евиденције ради спровођења евидентирања стварних власника Регистрованог субјекта из <ref>члана 2. став 1. </ref>Закона о Централној евиденцији стварних власника (у даљем тексту: Закон).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Подаци о основу за стицање својства стварног власника из <ref>члана 3. став 1. тачка 3</ref>) подтач. (1)–(5) и став 2. Закона евидентирају се означавањем на следећи начин:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> OSV 1 – ако је стварни власник физичко лице, које је непосредно или посредно ималац 25% или више удела, акција или права гласа, на основу којих учествује у управљању Регистрованим субјектом:</p>
+									<item id="clan2-stav1-tac1-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> OSV 1А – ако је стварни власник физичко лице, које је непосредно или посредно ималац 25% или више удела/акција:</p>
+											<alinea id="clan2-stav1-tac1-podtac1-ali1">
+												<content>
+													<p>SV 1А/N – ако је стварни власник физичко лице, које је непосредно ималац 25% или више удела/акција у капиталу Регистрованог субјекта;</p>
+												</content>
+											</alinea>
+											<alinea id="clan2-stav1-tac1-podtac1-ali2">
+												<content>
+													<p>SV 1А/P – ако је стварни власник физичко лице, које је посредно ималац 25% или више удела/акција;</p>
+												</content>
+											</alinea>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> OSV 1B – ако је стварни власник физичко лице, које је непосредно или посредно ималац 25% или више права гласа:</p>
+											<alinea id="clan2-stav1-tac1-podtac2-ali1">
+												<content>
+													<p>SV 1B/N – ако је стварни власник физичко лице, које је непосредно ималац 25% права гласа;</p>
+												</content>
+											</alinea>
+											<alinea id="clan2-stav1-tac1-podtac2-ali2">
+												<content>
+													<p>SV 1B/P – ако је стварни власник физичко лице, које је посредно ималац 25% права гласа;</p>
+												</content>
+											</alinea>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> OSV 2 – ако је стварни власник физичко лице које непосредно или посредно има преовлађујући утицај на вођење послова и доношење одлука;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> OSV 3 – ако је стварни власник физичко лице, које Регистрованом субјекту посредно обезбеди или обезбеђује средства и по том основу битно утиче на доношење одлука органа управљања Регистрованог субјекта приликом одлучивања о финансирању и пословању;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> OSV 4 – ако је стварни власник физичко лице које је оснивач, повереник, заштитник, корисник ако је одређен, као и лице које има доминантан положај у управљању трастом, односно у другом лицу страног права:</p>
+									<item id="clan2-stav1-tac4-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> OSV 4/1 за физичко лице које је оснивач траста;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> OSV 4/2 за физичко лице које је повереник траста;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> OSV 4/3 за физичко лице које је заштитник траста;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> OSV 4/4 за физичко лице које је корисник траста;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> OSV 4/5 за физичко лице које има доминантан положај у управљању трастом, односно у другом лицу страног права;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> OSV 5 – ако је стварни власник физичко лице које је регистровано за заступање задруга, удружења, фондација, задужбина и установа, односно друго физичко лице које је овлашћено лице за заступање пријавило као стварног власника:</p>
+									<item id="clan2-stav1-tac5-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> OSV 5А – ако је стварни власник физичко лице које је регистровано за заступање задруга, удружења, фондација, задужбина и установа;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac5-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> OSV 5B – ако је овлашћено лице за заступање пријавило друго физичко лице као стварног власника задруга, удружења, фондација, задужбина и установа.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Подаци о основу за стицање својства стварног власника Регистрованог субјекта из <ref>члана 3. став 2. </ref>Закона евидентирају се означавањем на следећи начин:</p>
+							<point id="clan2-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> OSV 6 – ако није могуће одредити физичко лице из <ref>члана 3. став 1. тачка 3</ref>) подтач. (1)–(4) Закона на начин како је то прописано, стварни власник Регистрованог субјекта је физичко лице које је регистровано за заступање, односно које је регистровано као члан органа тог субјекта;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> OSV 7 – ако није могуће одредити физичко лице из <ref>члана 3. став 1. тачка 3</ref>) подтач. (1)–(4) Закона на начин како је то прописано, из разлога што нису доступни сви подаци, односно потпуна документација, стварни власник Регистрованог субјекта је физичко лице које је регистровано за заступање, односно које је регистровано као члан органа тог субјекта.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Ако је стварни власник евидентиран ознаком OSV1А/N, OSV1B/N, OSV1А/P и OSV1B/P у Централну евиденцију евидентирају се и подаци о проценту удела или акција, односно о проценту права гласа на основу којих евидентирани стварни власник учествује у управљању Регистрованим субјектом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Број 110-00-134/2018-10</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>У Београду, 3. децембра 2018. године</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav5">
+						<content>
+							<p>Горан Кнежевић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

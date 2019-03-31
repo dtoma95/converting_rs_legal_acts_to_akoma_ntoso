@@ -1,0 +1,503 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2012/87-4/main"/>
+					<FRBRuri value="/rs/act/2012/87-4"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2012/87-4/srp@/main"/>
+					<FRBRuri value="/rs/act/2012/87-4/srp@"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2012/87-4/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2012/87-4/srp@.akn"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2012-9-7" name="службени гласник рс" number="87" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="13. Заштита од пожара" value="13. заштита од пожара"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2012-09-04" id="usvajanje"/>
+				<step date="2012-09-15" id="stupanje_na_snagu"/>
+				<step date="2012-09-15" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 73. став 3. </ref>Закона о заштити од пожара („<ref id="ref1" href="/rs/act/09/111/srp@">Службени гласник РС”, број 111/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар унутрашњих послова доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о периодичним прегледима субјеката у првој и другој категорији угрожености од пожара</title>
+			<date>&quot;Службени гласник РС&quot;, број 87 од 7.   септембра 2012.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се начин вршења периодичних прегледа за субјекте у првој и другој категорији угрожености од пожара (у даљем тексту: субјекти заштите од пожара и експлозија).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Инспектори приликом прегледа поступајући сагласно овлашћењима утврђеним законима којима се уређује рад инспекција и надзор у области заштите од пожара, као и сагласно закону којим се уређује општи управни поступак у овом правилнику, остварују надзор над законитошћу рада субјеката заштите од пожара и експлозија, а нарочито над постојањем и усаглашености општих аката (План заштите од пожара, Програм обуке запослених радника из области заштите од пожара и др.), као и спровођењем прописа, односно применом прописаних мера заштите од пожара и експлозија.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Периодични прегледи у субјектима заштите од пожара и експлозија остварују се као основни, редовни, контролни и ванредни инспекцијски прегледи.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Основни инспекцијски преглед врши се након изградње и стављања у погон односно употребу објеката и постројења, односно пре отпочињања са радом, као и у случајевима битних организационих или технолошких промена, односно пресељења субјекта заштите од пожара и експлозија у нове – реконструисане објекте или на нову локацију.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Основним инспекцијским прегледом остварује се увид у:</p>
+							<point id="clan4-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> постојање сагласности које у поступку изградње и употребе објеката и инсталација издаје надлежни оран;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> план заштите од пожара и експлозија;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> акте којима се уређују организација, мере и послови у вези са спровођењем заштите од пожара и експлозија;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> организацију заштите од пожара која проистиче из категоризације према угрожености од пожара;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> техничке извештаје о сервисирању, прегледима и радовима на одржавању друге опреме и уређаја значајних за заштиту од пожара;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac6">
+								<num>6)</num>
+								<content>
+									<p> процедуре и упутства произвођача и корисника опреме којима се утврђује одржавање;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac7">
+								<num>7)</num>
+								<content>
+									<p> спровођење мера заштите предвиђених законом, техничким прописима и стандардима.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Основним инспекцијским прегледом трајно се евидентирају детаљни подаци о субјекту заштите од пожара и експлозија, а нарочито:</p>
+							<point id="clan4-stav3-tac1">
+								<num>1)</num>
+								<content>
+									<p> пун назив и матични број;</p>
+								</content>
+							</point>
+							<point id="clan4-stav3-tac2">
+								<num>2)</num>
+								<content>
+									<p> подаци о одговорном лицу – директору или другом лицу са положајем одговорног лица;</p>
+								</content>
+							</point>
+							<point id="clan4-stav3-tac3">
+								<num>3)</num>
+								<content>
+									<p> подаци о лицу задуженом за заштиту од пожара;</p>
+								</content>
+							</point>
+							<point id="clan4-stav3-tac4">
+								<num>4)</num>
+								<content>
+									<p> подаци o броју лица која раде на пословима заштите од пожара;</p>
+								</content>
+							</point>
+							<point id="clan4-stav3-tac5">
+								<num>5)</num>
+								<content>
+									<p> подаци o објектима, делатности и земљишту са извршеном категоризацијом који је потписан од стране одговорног лица у правном лицу и оверен печатом;</p>
+								</content>
+							</point>
+							<point id="clan4-stav3-tac6">
+								<num>6)</num>
+								<content>
+									<p> подаци о постојању сигурносних система заштите од пожара:</p>
+									<item id="clan4-stav3-tac6-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> система за дојаву пожара,</p>
+										</content>
+									</item>
+									<item id="clan4-stav3-tac6-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> система за гашење пожара,</p>
+										</content>
+									</item>
+									<item id="clan4-stav3-tac6-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> система за детекцију експлозивних пара и гасова,</p>
+										</content>
+									</item>
+									<item id="clan4-stav3-tac6-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> система за одвођење дима и топлоте насталих у пожару;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan4-stav3-tac7">
+								<num>7)</num>
+								<content>
+									<p> подаци o постојању других специфичних инсталација и опреме и уређаја:</p>
+									<item id="clan4-stav3-tac7-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> зона опасности,</p>
+										</content>
+									</item>
+									<item id="clan4-stav3-tac7-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> уграђене Ех опреме,</p>
+										</content>
+									</item>
+									<item id="clan4-stav3-tac7-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> громобранске инсталације,</p>
+										</content>
+									</item>
+									<item id="clan4-stav3-tac7-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> инсталација за елиминацију статичког електрицитета,</p>
+										</content>
+									</item>
+									<item id="clan4-stav3-tac7-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> сигурносни и резервни извори за снабдевање електричном енергијом,</p>
+										</content>
+									</item>
+									<item id="clan4-stav3-tac7-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> постојање сигурносног осветљења;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan4-stav3-tac8">
+								<num>8)</num>
+								<content>
+									<p> решења о одобравању локације (бројеви решења са прилозима);</p>
+								</content>
+							</point>
+							<point id="clan4-stav3-tac9">
+								<num>9)</num>
+								<content>
+									<p> решења о сагласностима на предвиђене мере заштите од пожара у техничкој документацији;</p>
+								</content>
+							</point>
+							<point id="clan4-stav3-tac10">
+								<num>10)</num>
+								<content>
+									<p> решења о сагласностима на примењене мере заштите од пожара на изграђеном објекту.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Након извршеног основног инспекцијског прегледа надлежни инспектор формира досије за субјекат заштите од пожара и експлозија, који садржи:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> ситуациони план – са уцртаним положајем и габаритима постојећих објеката, растојањима између објеката, ширином путева и хидрантском мрежом, у одговарајућој размери од 1:250 до 1:1.000;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> примерак сагласности на инвестиционо-техничку документацију издату у складу са законом којим се уређује заштита од пожара, примерак одобрења локације и примерак одобрења за употребу објекта, са аспекта заштите од пожара;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> примерак елабората заштите од пожара или пројекта заштите од пожара;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> примерак оверене ситуације на основу које је издато решење о одобрењу локације;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> примерак плана заштите од пожара;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> примерак решења о категоризацији објеката, делатности и земљишта према угрожености од пожара донето на основу прописа којим се одређују мерила и услови за разврставање у одговарајуће категорије угрожености од пожара;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> сва мишљења на општа акта субјекта заштите од пожара и експлозија, која је дао орган надлежан за ванредне ситуације;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> записнике о извршеним инспекцијским прегледима са решењима о налагању мера;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> предлоге и захтеве за покретање прекршајног поступка, кривичне пријаве и одлуке правосудних органа;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> извештаје о насталим пожарима, хаваријама и експлозијама.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Податке у досијеу надлежни инспектор ажурира и усклађује са стварним стањем заштите од пожара и експлозија у субјекту заштите од пожара, без одлагања – по сазнању за насталу промену.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Редовни инспекцијски преглед врши се након основног инспекцијског прегледа – периодично, у складу са извршеном категоризацијом објеката, делатности и земљишта према угрожености од пожара, и то:</p>
+							<point id="clan6-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> за објекте, делатности и земљишта са високим ризиком од избијања пожара (прва категорија угрожености од пожара) – најмање једном годишње;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> за објекте, делатности и земљишта са повећаним ризиком од избијања пожара (друга категорија угрожености од пожара) – најмање једном у две године.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Редовним инспекцијским прегледом утврђује се стање спровођења мера заштите од пожара и промене настале у односу на претходни основни, односно редовни преглед.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Контролним инспекцијским прегледом врши се контрола извршења наложених мера заштите од пожара.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Контролни инспекцијски преглед врши се одмах, односно непосредно по истеку рока одређеног за извршење мера наложених решењем.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Ванредни инспекцијски преглед врши се када се ради о предузимању у јавном интересу хитних мера, код спровођења одређених акција, односно по наређењу непосредног руководиоца или по основаној и прихваћеној пријави, односно иницијативи правног или физичког лица.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Приликом вршења периодичних прегледа обавезно је присуство лица одговорних за организовање и спровођење мера заштите од пожара у субјекту заштите од пожара и експлозија у коме се остварује надзор.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Прегледу могу присуствовати и друга стручно-техничка лица у циљу давања компетентних одговора на питања која се постављају приликом вршења прегледа.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav3">
+						<content>
+							<p>О прегледу мора бити упознато и одговорно лице у субјекту заштите од пожара и експлозија, односно руководилац.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Обавезне евиденције које се воде за потребе свеобухватније реализације послова надзора над применом прописа из области заштите од пожара и експлозија, односно вршења периодичних прегледа субјеката заштите од пожара и експлозија јесу:</p>
+							<point id="clan10-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> досије субјекта заштите од пожара и експлозија;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> регистар субјеката заштите од пожара и експлозија;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> индивидуални месечни план рада који води инспектор;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> индивидуални извештај о раду сачињен према плану рада који води инспектор;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> збирни месечни план рада који води надлежни старешина;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> збирни месечни извештај о раду који води надлежни старешина.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Регистар субјеката заштите од пожара и експлозија води се табеларно на Обрасцу 1, који је одштампан у прилогу овог правилника и који чини саставни део овог правилника.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>Регистар се ажурира по потреби.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Број 01-5589/12-3</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav3">
+						<content>
+							<p>У Београду, 4. септембра 2012. године</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav5">
+						<content>
+							<p>Ивица Дачић, с.р.</p>
+						</content>
+					</clause>
+					<став id="clan11-stav6">
+						<img alt="pravilnik-pozar.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik-pozar_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423403&amp;regactid=423403"/>
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

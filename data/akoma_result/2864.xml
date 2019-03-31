@@ -1,0 +1,426 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2010/47-4/main"/>
+					<FRBRuri value="/rs/act/2010/47-4"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2010/47-4/srp@/main"/>
+					<FRBRuri value="/rs/act/2010/47-4/srp@"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2010/47-4/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2010/47-4/srp@.akn"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2010-7-13" name="службени гласник рс“" number="47" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="9. Доприноси за обавезно социјално осигурање" value="9. доприноси за обавезно социјално осигурање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2010-07-08" id="usvajanje"/>
+				<step date="2010-07-21" id="stupanje_na_snagu"/>
+				<step date="2010-07-21" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 4. став 1. </ref>Закона о Централном регистру обавезног социјалног осигурања („<ref id="ref3" href="/rs/act/10/30/srp@">Службени гласник РС”, број 30/10</ref>), <ref>члана 13. </ref>Закона о јавним службама („<ref id="ref4" href="/rs/act/91/42/srp@">Службени гласник РС”, бр. 42/91, 71/94</ref> и 79/05 – др. закон) и <ref>члана 43. став 1. </ref>Закона о Влади („<ref id="ref5" href="/rs/act/05/55/srp@">Службени гласник РС”, бр. 55/05, 71/05</ref> – исправка, 101/07 и 65/08),</p>
+			<p>Влада доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о оснивању Централног регистра обавезног социјалног осигурања</title>
+			<date>„Службени гласник РС“, број 47 од 13. јула 2010.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Оснива се Централни регистар обавезног социјалног осигурања (у даљем тексту: Централни регистар).</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Централни регистар послује под називом: Централни регистар обавезног социјалног осигурања.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>Централни регистар у пословању са иностранством, поред назива на српском језику може користити и назив на енглеском: „CENTRAL REGISTRY OF SOCIAL INSURANCE”.</p>
+						</content>
+					</clause>
+					<clause id="od2-stav2">
+						<content>
+							<p>Седиште Централног регистра је у Београду, ул. Омладинских бригада број 1.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Централни регистар је установа са својством правног лица.</heading>
+				<content>
+					<clause id="od3-stav1">
+						<content>
+							<p>Централни регистар је носилац свих права, обавеза и одговорности у правном промету у односу на средства са којима располаже и уписује се у регистар надлежног органа, у складу са законом.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Централни регистар обавља послове из области обавезног социјалног осигурања који се односе на:</heading>
+				<content>
+					<point id="od4-tac1">
+						<num>1)</num>
+						<content>
+							<p> успостављање и вођење Јединствене базе;</p>
+						</content>
+					</point>
+					<point id="od4-tac2">
+						<num>2)</num>
+						<content>
+							<p> регистрацију осигураника и осигураних лица;</p>
+						</content>
+					</point>
+					<point id="od4-tac3">
+						<num>3)</num>
+						<content>
+							<p> додељивање јединственог броја;</p>
+						</content>
+					</point>
+					<point id="od4-tac4">
+						<num>4)</num>
+						<content>
+							<p> евиденцију регистрованих обвезника доприноса, на основу података преузетих од органа и организација надлежних за регистрацију;</p>
+						</content>
+					</point>
+					<point id="od4-tac5">
+						<num>5)</num>
+						<content>
+							<p> евиденцију о основицама доприноса и уплаћеним доприносима за обавезно социјално осигурање по свим основама по осигуранику и периодима на које се те уплате односе;</p>
+						</content>
+					</point>
+					<point id="od4-tac6">
+						<num>6)</num>
+						<content>
+							<p> евидентирање обрађених података о обрачунатим и наплаћеним доприносима за обавезно социјално осигурање по послодавцу, односно исплатиоцу прихода на месечном нивоу;</p>
+						</content>
+					</point>
+					<point id="od4-tac7">
+						<num>7)</num>
+						<content>
+							<p> контрола података о обрачунатим и наплаћеним доприносима за обавезно социјално осигурање по осигуранику по свим основама приликом сваке исплате;</p>
+						</content>
+					</point>
+					<point id="od4-tac8">
+						<num>8)</num>
+						<content>
+							<p> евидентирање обрађених података о обрачунатим и наплаћеним доприносима за обавезно социјално осигурање по осигуранику на месечном нивоу;</p>
+						</content>
+					</point>
+					<point id="od4-tac9">
+						<num>9)</num>
+						<content>
+							<p> усаглашавање података о обвезницима доприноса и осигураним лицима којима располажу Пореска управа, организације за обавезно социјално осигурање и други органи и организације;</p>
+						</content>
+					</point>
+					<point id="od4-tac10">
+						<num>10)</num>
+						<content>
+							<p> комплексну и свеобухватну анализу унетих и обрађених података у роковима предвиђеним законом и указивање надлежним органима на уочене неправилности;</p>
+						</content>
+					</point>
+					<point id="od4-tac11">
+						<num>11)</num>
+						<content>
+							<p> обезбеђивање техничких услова за међусобно повезивање и усклађивање рада субјеката повезаних у систем Централног регистра у вези са достављањем података;</p>
+						</content>
+					</point>
+					<point id="od4-tac12">
+						<num>12)</num>
+						<content>
+							<p> обезбеђивање електронске повезаности са другим регистрима и базама података које се воде у Републици Србији, а имају значаја за обвезнике доприноса и осигурана лица.</p>
+						</content>
+					</point>
+					<clause id="od4-stav1">
+						<content>
+							<p>Централни регистар обавља и друге послове везане за успостављање и вођење Јединствене базе.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> Средства и имовину за оснивање и рад Централног регистра чине средства, имовина, права и обавезе Централног регистра обвезника доприноса за социјално осигурање – послодаваца и осигураника, које Централни регистар преузима даном почетка рада.</heading>
+				<content>
+					<clause id="od5-stav1">
+						<content>
+							<p>Средства за обављање делатности Централног регистра обезбеђују се у буџету Републике Србије, на разделу министарства надлежног за послове социјалне политике, а могу се обезбедити и од поклона, донација, прилога и из других извора.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od6">
+				<num>6.</num>
+				<heading> Органи Централног регистра су : Управни одбор и директор.</heading>
+				<content>
+					<clause id="od6-stav1">
+						<content>
+							<p>Чланове управног одбора и директора Централног регистра именује и разрешава Влада, у складу са законом.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od7">
+				<num>7.</num>
+				<heading> Управни одбор има пет чланова и то по једног представника Републичког фонда за пензијско и инвалидско осигурање, Републичког завода за здравствено осигурање, Националне службе за запошљавање, Пореске управе и Агенције за привредне регистре.</heading>
+				<content>
+					<clause id="od7-stav1">
+						<content>
+							<p>Чланове управног одбора именује и разрешава Влада.</p>
+						</content>
+					</clause>
+					<clause id="od7-stav2">
+						<content>
+							<p>Чланови управног одбора именују се на период од четири године.</p>
+						</content>
+					</clause>
+					<clause id="od7-stav3">
+						<content>
+							<p>Чланови управног одбора ту дужност обављају без накнаде.</p>
+						</content>
+					</clause>
+					<clause id="od7-stav4">
+						<content>
+							<p>Управни одбор обавља следеће послове:</p>
+							<point id="od7-stav4-tac1">
+								<num>1)</num>
+								<content>
+									<p> доноси статут и друге опште акте;</p>
+								</content>
+							</point>
+							<point id="od7-stav4-tac2">
+								<num>2)</num>
+								<content>
+									<p> одлучује о пословању и коришћењу средстава, у складу са законом;</p>
+								</content>
+							</point>
+							<point id="od7-stav4-tac3">
+								<num>3)</num>
+								<content>
+									<p> усваја извештај о пословању и годишњи обрачун;</p>
+								</content>
+							</point>
+							<point id="od7-stav4-tac4">
+								<num>4)</num>
+								<content>
+									<p> доноси годишњи програм рада;</p>
+								</content>
+							</point>
+							<point id="od7-stav4-tac5">
+								<num>5)</num>
+								<content>
+									<p> доноси финансијски план и завршни рачун, у складу са законом;</p>
+								</content>
+							</point>
+							<point id="od7-stav4-tac6">
+								<num>6)</num>
+								<content>
+									<p> обавља и друге послове утврђене законом и статутом.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="od7-stav5">
+						<content>
+							<p>На статут, годишњи програм рада и годишњи финансијски план сагласност даје Влада.</p>
+							<тачка id="od7-stav5-tac8">
+								<num>8.</num>
+								<content>
+									<p> Централни регистар представља и заступа директор Централног регистра.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="od7-stav6">
+						<content>
+							<p>Директора Централног регистра именује и разрешава Влада, на период од пет година.</p>
+						</content>
+					</clause>
+					<clause id="od7-stav7">
+						<content>
+							<p>Директор Централног регистра обавља следеће послове:</p>
+							<point id="od7-stav7-tac1">
+								<num>1)</num>
+								<content>
+									<p> организује рад и пословање Централног регистра;</p>
+								</content>
+							</point>
+							<point id="od7-stav7-tac2">
+								<num>2)</num>
+								<content>
+									<p> представља и заступа Централни регистар;</p>
+								</content>
+							</point>
+							<point id="od7-stav7-tac3">
+								<num>3)</num>
+								<content>
+									<p> извршава одлуке управног одбора;</p>
+								</content>
+							</point>
+							<point id="od7-stav7-tac4">
+								<num>4)</num>
+								<content>
+									<p> доноси акт о организацији и систематизацији послова у Централном регистру;</p>
+								</content>
+							</point>
+							<point id="od7-stav7-tac5">
+								<num>5)</num>
+								<content>
+									<p> руководи радом запослених у Централном регистру;</p>
+								</content>
+							</point>
+							<point id="od7-stav7-tac6">
+								<num>6)</num>
+								<content>
+									<p> врши и друге послове утврђене законом, овом одлуком, општим актима и одлукама управног одбора.</p>
+								</content>
+							</point>
+							<тачка id="od7-stav7-tac9">
+								<num>9.</num>
+								<content>
+									<p> Општи акти Централног регистра су: статут, акт о унутрашњем уређењу и систематизацији послова и други општи акти.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="od7-stav8">
+						<content>
+							<p>Статут је основни општи акт Централног регистра.</p>
+						</content>
+					</clause>
+					<clause id="od7-stav9">
+						<content>
+							<p>Статут садржи следеће одредбе о:</p>
+							<point id="od7-stav9-tac1">
+								<num>1)</num>
+								<content>
+									<p> називу и седишту;</p>
+								</content>
+							</point>
+							<point id="od7-stav9-tac2">
+								<num>2)</num>
+								<content>
+									<p> делатности, односно пословима;</p>
+								</content>
+							</point>
+							<point id="od7-stav9-tac3">
+								<num>3)</num>
+								<content>
+									<p> органима и њихов делокруг;</p>
+								</content>
+							</point>
+							<point id="od7-stav9-tac4">
+								<num>4)</num>
+								<content>
+									<p> унутрашњој организацији;</p>
+								</content>
+							</point>
+							<point id="od7-stav9-tac5">
+								<num>5)</num>
+								<content>
+									<p> заступању и одговорности за обавезе;</p>
+								</content>
+							</point>
+							<point id="od7-stav9-tac6">
+								<num>6)</num>
+								<content>
+									<p> другим питањима од значаја за рад и пословање Централног регистра</p>
+								</content>
+							</point>
+							<тачка id="od7-stav9-tac10">
+								<num>10.</num>
+								<content>
+									<p> До именовања директора Централног регистра, дужност директора обављаће, у својству вршиоца дужности директора Централног регистра, Милица Даниловић, директор Централног регистра обвезника доприноса за социјално осигурање - послодаваца и осигураника.</p>
+								</content>
+							</тачка>
+							<тачка id="od7-stav9-tac11">
+								<num>11.</num>
+								<content>
+									<p> Влада ће именовати чланове Управног одбора у року од 15 дана од дана уписа Централног регистра у судски регистар.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="od7-stav10">
+						<content>
+							<p>Управни одбор ће у року од 15 дана од дана конституисања донети Статут Централног регистра.</p>
+						</content>
+					</clause>
+					<clause id="od7-stav11">
+						<content>
+							<p>Влада ће именовати директора Централног регистра у року од 60 дана од дана ступања на снагу ове одлуке.</p>
+							<тачка id="od7-stav11-tac12">
+								<num>12.</num>
+								<content>
+									<p> Даном почетка рада Централни регистар преузима права и обавезе, послове, опрему, средства за рад као и запослене у Централном регистру обвезника доприноса за социјално осигурање - послодаваца и осигураника.</p>
+								</content>
+							</тачка>
+							<тачка id="od7-stav11-tac13">
+								<num>13.</num>
+								<content>
+									<p> Ова одлука ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="od7-stav12">
+						<content>
+							<p>05 број 02-4917/2010</p>
+						</content>
+					</clause>
+					<clause id="od7-stav13">
+						<content>
+							<p>У Београду, 8. јула 2010. године</p>
+						</content>
+					</clause>
+					<clause id="od7-stav14">
+						<content>
+							<p>Влада</p>
+						</content>
+					</clause>
+					<clause id="od7-stav15">
+						<content>
+							<p>Први потпредседник Владе –</p>
+						</content>
+					</clause>
+					<clause id="od7-stav16">
+						<content>
+							<p>заменик председника Владе,</p>
+						</content>
+					</clause>
+					<clause id="od7-stav17">
+						<content>
+							<p>Ивица Дачић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

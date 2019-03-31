@@ -1,0 +1,370 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1983/19-423/main"/>
+					<FRBRuri value="/rs/act/1983/19-423"/>
+					<FRBRdate date="1983" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1986/11-347/srp@/main"/>
+					<FRBRuri value="/rs/act/1986/11-347/srp@"/>
+					<FRBRdate date="1986" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1986/11-347/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1986/11-347/srp@.akn"/>
+					<FRBRdate date="1986" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1983-4-15" name="службени лист сфрј" number="19" showAs="Службени лист СФРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="11. Борачка заштита" value="11. борачка заштита"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1983-03-21" id="usvajanje"/>
+				<step date="1983-04-16" id="stupanje_na_snagu"/>
+				<step date="1983-04-16" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="19/1983-423" id="e1" type="generation"/>
+				<eventRef date="11/1986-347" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preface>
+			<authority>На основу <ref>члана 73. став 3. </ref>Закона о основним правима војних инвалида и породица палих бораца („<ref id="ref4" href="/rs/act/81/68/srp@">Службени лист СФРЈ“, бр. 68/81</ref>), Савезни комитет за питања бораца и војних инвалида прописује</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>О СПЕЦИЈАЛНИМ ПОМАГАЛИМА ВОЈНИХ ИНВАЛИДА</title>
+			<date>„Службени лист СФРЈ”, бр. 19 од 15. априла 1983, 11 од 7. марта 1986.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се специјална помагала за војне инвалиде код којих постоји губитак вида на оба ока.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Војном инвалиду код кога постоји губитак вида на оба ока припадају, као специјална помагала, магнетофон или касетофон,* магнетофонска трака, сат за слепе и металне плочице за писање Брајевим писмом.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Изузетно од одредбе става 1. овог члана, војном инвалиду који је члан библиотеке за слепе уместо магнетофона или касетофона може се дати репродуктор.*</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Помагала из ст. 1. и 2.* овог члана припадају војном инвалиду, ако она нису прописана за раднике осигуранике самоуправне интересне заједнице здравства на чијем подручју војни инвалид има пребивалиште, и ако се могу набавити на домаћем тржишту.*</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>*<ref id="ref5" href="/rs/act/1986/11/srp@">Службени лист СФРЈ, број 11/1986</ref></heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Надлежни орган у републици, односно аутономној покрајини који по Закону о основним правима војних инвалида и породица палих бораца решава у првом степену, решење о додели специјалних помагала из <ref>члана 2. овог</ref> правилника, на захтев војног инвалида, доноси на основу налаза лекара специјалисте, да код војног инвалида постоји потпун губитак вида на оба ока.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Изузетно од одредбе става 1. овог члана, на захтев војног инвалида коме су на основу Правилника о снабдевању војних инвалида протезама, ортопедским и другим помагалима, помоћним и санитарним справама („<ref id="ref6" href="/rs/act/77/8/srp@">Службени лист СФРЈ”, бр. 8/77</ref>), додељена помагала из <ref>члана 2. овог</ref> правилника, надлежни орган из става 1. овог члана доноси решење о додели тих помагала на основу налаза и мишљења комисије за стручну контролу и пријем помагала на основу кога су војном инвалиду додељена та помагала.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Рок трајања специјалних помагала из <ref>члана 2. овог</ref> правилника износи, и то за:*</p>
+						</content>
+					</clause>
+					<став id="clan4-stav2">
+						<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:94.2%" width="94%">
+							
+ 
+							<tbody>
+								<tr>
+									
+  
+									<td style="width:76.64%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="76%">
+										
+  
+										<p>
+	1) магнетофон*
+  </p>
+										
+  
+									</td>
+									
+  
+									<td style="width:23.36%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="23%">
+										
+  
+										<p> десет
+  година,*</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:76.64%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="76%">
+										
+  
+										<p>
+	2) касетофон*</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:23.36%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="23%">
+										
+  
+										<p>седам
+  година,*</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:76.64%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="76%">
+										
+  
+										<p>
+	3) репродуктор*
+  </p>
+										
+  
+									</td>
+									
+  
+									<td style="width:23.36%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="23%">
+										
+  
+										<p>седам
+  година,*</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:76.64%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="76%">
+										
+  
+										<p>
+	4) магнетофонску
+  траку*</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:23.36%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="23%">
+										
+  
+										<p>шест месеци,*</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:76.64%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="76%">
+										
+  
+										<p>
+	5) сат
+  за слепе*</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:23.36%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="23%">
+										
+  
+										<p>пет година,*</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:76.64%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="76%">
+										
+  
+										<p>
+	6) металне
+  плочице за писање Брајевим писмом*</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:23.36%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="23%">
+										
+  
+										<p> три године.*</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+
+							</tbody>
+						</table>
+						
+
+
+						<content/>
+					</став>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<heading>*<ref id="ref7" href="/rs/act/1986/11/srp@">Службени лист СФРЈ, број 11/1986</ref></heading>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Војном инвалиду коме су, на основу Правилника о снабдевању војних инвалида протезама, ортопедским и другим помагалима, помоћним и санитарним справама, додељени магнетофонске траке * и металне плочице за писање Брајевим писмом, додељују се поново таква помагала по истеку рокова трајања помагала утврђених тим правилником.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Војном инвалиду коме је, на основу Правилника о снабдевању војних инвалида протезама, ортопедским и другим помагалима, помоћним и санитарним справама, додељен магнетофон, додељује се други магнетофон по истеку рока од 10 година од дана добијања магнетофона по том правилнику.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<heading>*<ref id="ref8" href="/rs/act/1986/11/srp@">Службени лист СФРЈ, број 11/1986</ref></heading>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу наредног дана од дана објављивања у „Службеном листу СФРЈ”.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Бр. 324</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<section id="od21">
+				<num>21.</num>
+				<heading> марта 1983. године</heading>
+				<content>
+					<clause id="od21-clan6-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od21-clan6-stav2">
+						<content>
+							<p>Председник</p>
+						</content>
+					</clause>
+					<clause id="od21-clan6-stav3">
+						<content>
+							<p>Савезног комитета за питања</p>
+						</content>
+					</clause>
+					<clause id="od21-clan6-stav4">
+						<content>
+							<p>бораца и војних инвалида,</p>
+						</content>
+					</clause>
+					<clause id="od21-clan6-stav5">
+						<content>
+							<p>Драгомир Николић, с. р.</p>
+						</content>
+					</clause>
+					<clause id="od21-clan6-stav6">
+						<content>
+							<p>ОДРЕДБЕ КОЈЕ НИСУ УНЕТЕ У „ПРЕЧИШЋЕН ТЕКСТ“ ПРАВИЛНИКА</p>
+						</content>
+					</clause>
+					<article id="od21-clan4">
+						<num>4.</num>
+						<heading>Правилник о изменама и допунама Правилника о специјалним помагалима војних инвалида: „<ref id="ref9" href="/rs/act/1986/11/srp@">Службени лист СФРЈ”, број 11/1986</ref>-347</heading>
+						<content>
+							<clause id="od21-clan4-stav1">
+								<content>
+									<p>Војном инвалиду коме је, на основу Правилника о снабдевању војних инвалида протезама, ортопедским и другим помагалима, помоћним и санитарним справама, односно Правилника о специјалним помагалима војних инвалида („<ref id="ref10" href="/rs/act/83/19/srp@">Службени лист СФРЈ”, бр. 19/83</ref>), подељен сат за слепе, додељује се други сат за слепе по истеку рока од пет година од дана добијања сата по тим правилницима.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od21-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="od21-clan5-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном листу СФРЈ”.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

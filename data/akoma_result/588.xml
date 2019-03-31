@@ -1,0 +1,331 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1997/40-846/main"/>
+					<FRBRuri value="/rs/act/1997/40-846"/>
+					<FRBRdate date="1997" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1997/40-846/srp@/main"/>
+					<FRBRuri value="/rs/act/1997/40-846/srp@"/>
+					<FRBRdate date="1997" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1997/40-846/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1997/40-846/srp@.akn"/>
+					<FRBRdate date="1997" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1997-9-8" name="службени гласник рс" number="40" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="4. Руде и геолошка истраживања" value="4. руде и геолошка истраживања"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1997-08-07" id="usvajanje"/>
+				<step date="1997-09-16" id="stupanje_na_snagu"/>
+				<step date="1997-09-16" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 41. став 3. </ref>Закона о рударству („<ref id="ref1" href="/rs/act/95/44/srp@">Службени гласник РС”, број 44/95</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар надлежан за послове рударства, доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о условима и начину вршења техничког прегледа рударских објеката</title>
+			<date>„Службени гласник РС&quot;, број 40 од 8. септембра 1997.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се услови и начин вршења техничког прегледа рударских објеката, уређаја, постројења, опреме и инсталација који припадају том објекту или су у њега уграђени (у даљем тексту: рударски објекат) или дела рударског објекта који представља техничко-технолошку целину и као такав може се самостално користити.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Технички преглед рударског објекта или дела тог објекта врши се ако је за његову изградњу издато одобрење министарства надлежног за послове рударства (у даљем тексту: Министарство) и ако је изградња рударског објекта или његовог дела завршена.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Технички преглед рударског објекта врши се пре његовог пуштања у рад, односно пре почетка његовог коришћења.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Технички преглед рударског објекта, може да се врши и у току његовог коришћења, уколико у том објекту у току експлоатације долази до просторних промена и то у фази достизања пројектованих величина и приликом трајне обуставе радова или до већих измена пројектованих решења (површински копови, јамске просторије, флотацијска јаловишта).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Технички преглед рударског објекта за који је издато одобрење за пробни рад, врши се по завршетку пробног рада.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Технички преглед врши се на захтев инвеститора или извођача радова, који садржи:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив инвеститора или извођача радова;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> податке о рударском објекту (врста, локација и др.) или делу објекта;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> број и датум издавања одобрења за изградњу рударског објекта;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> назив пројектантске организације која је урадила рударски пројекат за изградњу објекта;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> назив организације која је извршила техничку контролу рударског пројекта за објекат чији се преглед тражи;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> време у које се може отпочети са техничким прегледом.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Уз захтев из става 1. овог члана, подноси се на увид:</p>
+							<point id="clan5-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> одобрење за извођење рударских радова;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> главни и допунски рударски пројекат на основу кога се изводе радови, односно на основу којег је издато одобрење за извођење радова;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> други пројекти и документација о изменама које су вршене у току извођења радова;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> докази о испитивању квалитета материјала уграђеног у рударски објекат;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> докази о извршеним испитивањима конструкција уређаја, постројења и опреме у погледу њихове носивости, техничке исправности и безбедности;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac6">
+								<num>6)</num>
+								<content>
+									<p> документација о резултатима пробног рада, ако је пробни рад на објекту вршен.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Технички преглед рударског објекта врши комисија коју образује Министарство или предузеће, односно друго правно лице коме Министарство повери вршење техничког прегледа.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>У комисију се именују стручњаци за област рударства и других области у оквиру којих су уређаји, постројења и опрема која се уграђује у објекат или је његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Комисија за технички преглед (у даљем тексту: Комисија) у зависности од врсте, односно сложености рударског објекта или његовог дела има председника и најмање два члана.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Решењем о образовању Комисије одређује се председник Комисије, задатак и рок у коме ће Комисија да отпочне са радом, висина накнаде која припада председнику и члановима Комисије, за рад у Комисији.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Техничком прегледу присуствују представници инвеститора и извођача радова, а могу присуствовати и представници организације која је израдила пројекат за извођење рударских радова, ради давања потребних података и објашњења.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Комисија води записник о свом раду и саставља извештај о резултатима техничког прегледа.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>У записник се уноси нарочито: број и датум решења којим је образована Комисија, имена чланова Комисије, назив инвеститора и извођача радова и имена њихових представника који су учествовали у раду Комисије, као и имена других лица која су присуствовала техничком прегледу, место, време и начин рада Комисије, предмет техничког прегледа, тачан назив документације која је стављена на увид Комисији, налаз, мишљење и предлози Комисије, издвојена мишљења појединих чланова Комисије.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav3">
+						<content>
+							<p>Записник потписује председник и чланови Комисије, као и представници инвеститора и извођача.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav4">
+						<content>
+							<p>Записник и извештај о резултатима техничког прегледа, доставља се Министарству.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Све недостатке и неправилности у погледу пројектованих мера заштите на раду, заштите од пожара и др. утврђене при вршењу техничког прегледа рударског објекта, Комисија записнички констатује, даје мишљење о природи тих недостатака и предлаже рок за њихово отклањање.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Кад Комисија при вршењу техничког прегледа рударског објекта, утврди недостатке и неправилности, инвеститор, односно извођач радова, по отклањању тих недостатака и неправилности подноси захтев за технички преглед накнадно изведених радова.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Технички преглед накнадно изведених радова врши се на начин и по поступку прописаним овим правилником за технички преглед изграђених објеката.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Одобрење за употребу објекта издаје се по окончању техничког прегледа рударског објекта, а на основу записника и извештаја Комисије о испуњавању услова за коришћење рударског објекта, односно његовог дела.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan14">
+				<num>14.</num>
+				<content>
+					<clause id="clan14-stav1">
+						<content>
+							<p>Технички прегледи рударских објеката започети по прописима који су били на снази пре ступања на снагу овог правилника, окончаће се по тим прописима.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan15">
+				<num>15.</num>
+				<content>
+					<clause id="clan15-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan15-stav2">
+						<content>
+							<p>Број 110-00-9/97-04</p>
+						</content>
+					</clause>
+					<clause id="clan15-stav3">
+						<content>
+							<p>У Београду, 7. августа 1997. године</p>
+						</content>
+					</clause>
+					<clause id="clan15-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan15-stav5">
+						<content>
+							<p>Србољуб Станковић, с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

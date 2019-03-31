@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1990/21-849/main"/>
+					<FRBRuri value="/rs/act/1990/21-849"/>
+					<FRBRdate date="1990" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1993/50-1020/srp@/main"/>
+					<FRBRuri value="/rs/act/1993/50-1020/srp@"/>
+					<FRBRdate date="1993" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1993/50-1020/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1993/50-1020/srp@.akn"/>
+					<FRBRdate date="1993" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1990-4-20" name="службени лист сфрј" number="21" showAs="Службени лист СФРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Закон" value="закон"/>
+				<keyword id="oblast" showAs="V МОНЕТАРНИ СИСТЕМ, ФИНАНСИЈСКЕ ОРГАНИЗАЦИЈЕ И ФИНАНСИЈСКО ПОСЛОВАЊЕ" value="v монетарни систем, финансијске организације и финансијско пословање"/>
+				<keyword id="grupa" showAs="8. Камате" value="8. камате"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1990-04-18" id="usvajanje"/>
+				<step date="1990-04-28" id="stupanje_na_snagu"/>
+				<step date="1990-04-28" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="21/1990-849" id="e1" type="generation"/>
+				<eventRef date="16/1993-333" id="e2" type="amendment"/>
+				<eventRef date="31/1993-685" id="e3" type="amendment"/>
+				<eventRef date="41/1993-857" id="e4" type="amendment"/>
+				<eventRef date="50/1993-1020" id="e5" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Закон је ступио на снагу осмог дана од дана објављивања у „Службеном листу СФРЈ”, односно 28. априла 1990. године (види <ref>члан 9. </ref>Закона).Мењане су висине новчаних казни (види: <ref>члан 1. </ref>Закона – 16/1993-333, <ref>члан 1. </ref>Закона – 31/1993-685, <ref>члан 3. </ref>Закона – 41/1993-857, <ref>члан 3. </ref>Закона – 50/1993-1020).Закон формалноправно није стављен ван снаге, али регулише регресирање дела камате на кредите који се користе преко Југословенске банке за међународну економску сарадњу, а средства су се обезбеђивала сваке године у буџету федерације. Закон о Југословенској банци за међународну економску сарадњу („<ref id="ref8" href="/rs/act/1988/77/srp@">Службени лист СФРЈ“, број 77/1988</ref>) престао је да важи 5. јула 1997. године, даном ступања на снагу Закона о престанку важења Закона о Југословенској банци за међународну економску сарадњу („<ref id="ref9" href="/rs/act/1997/29/srp@">Службени лист СРЈ“, број 29/1997</ref>), којим је Југословенска банка за међународну економску сарадњу обавезана да у року од 90 дана од дана ступања на снагу овог закона, изврши усаглашавање организације и пословања у складу са законом којим се уређује организација и пословање банака и других финансијских организација. Сходно томе, потребна средства није више могуће обезбедити на начин утврђен овим законом.</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<title>ЗАКОН</title>
+			<title>о  регресу дела камате на кредите који се користе за извоз опреме и бродова и  извођење инвестиционих радова у иностранству на кредит</title>
+			<date>„Службени лист СФРЈ”, број 21 од 20.   априла 1990. и „Службени лист СРЈ”, бр. 16 од 7.   априла 1993  - др. закон, 31 од 18.  јуна 1993  - др. закон, 41 од 23.  јула 1993  - др. закон, 50 од 26.  августа 1993  - др. закон</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим законом утврђује се право на регрес дела камате на кредите који се користе за извоз опреме и бродова и извођење инвестиционих радова у иностранству на кредит (у даљем тексту: право на регрес) преко Југословенске банке за међународну економску сарадњу (у даљем тексту: Југословенска банка) и начин обезбеђивања и коришћења тих средстава.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Право на регрес остварују:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> предузећа и друга правна лица која извозе опрему и бродове на кредит и изводе инвестиционе радове у иностранству на кредит, а које кредитира или рефинансира Југословенска банка;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> Југословенска банка – за кредите дате страним купцима или наручиоцима радова, страним банкама и другим страним лицима у складу са чланом 10. Закона о Југословенској банци за међународну економску сарадњу („<ref id="ref10" href="/rs/act/88/77/srp@">Службени лист СФРЈ”, бр. 77/88</ref>).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Право на регрес утврђује се на износ обрачунате и наплаћене камате по одобреном кредиту из става 1. овог члана.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Предузећа и друга правна лица за кредите из <ref>члана 2. став 1. тачка 1</ref>. овог закона и Југословенска банка за кредите из <ref>члана 2. став 1. тачка 2</ref>. овог закона, остварују право на регрес дела камате на те кредите у висини разлике између 10% годишње каматне стопе и каматне стопе коју утврди Југословенска банка. Ако је каматна стопа Југословенске банке већа од есконтне стопе Народне банке Југославије, право на регрес дела камате остварује се у висини разлике између 10% годишње каматне стопе и есконтне стопе Народне банке Југославије.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Предузећа и друга правна лица из става 1. овог члана право на регрес остварују преко Југословенске банке.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Југословенска банка саставља обрачун и доставља захтев за наплату регреса савезном органу управе надлежном за послове финансија.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Функционер који руководи савезним органом управе надлежним за послове финансија прописаће поступак, начин и документацију потребну за остваривање права на регрес.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Средства за регрес обезбеђују се сваке године у буџету федерације.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Висину средстава за регрес утврђује, сваке године, Скупштина  СФРЈ својом одлуком.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Новчаном казном од 4.500 до 45.000 динара казниће се за привредни преступ Југословенска банка ако поднесе нетачан обрачун и оствари регрес на терет средстава за регрес на који није имала право.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>За радњу из става 1. овог члана казниће се и одговорно лице у Југословенској банци новчаном казном од 250 до 2.500 динара.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>НАПОМЕНА ИЗДАВАЧА: Висина новчаних казни није усклађивана после увођења новог динара.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Изузетно од одредбе <ref>члана 6. став 2. овог</ref> закона, у Буџету федерације за 1990. годину обезбеђују се средства за регрес у износу до 942,000.000 динара, с тим што се обрачун врши од 1. јануара 1990. године.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Овај закон ступа на снагу осмог дана од дана објављивања у „Службеном листу СФРЈ”.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

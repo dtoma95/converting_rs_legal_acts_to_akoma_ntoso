@@ -1,0 +1,402 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2017/47-11/main"/>
+					<FRBRuri value="/rs/act/2017/47-11"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2017/47-12/srp@/main"/>
+					<FRBRuri value="/rs/act/2017/47-12/srp@"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2017/47-12/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2017/47-12/srp@.akn"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2017-5-15" name="службени гласник рс" number="47" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Упутство" value="упутство"/>
+				<keyword id="oblast" showAs="XI ТРГОВИНА, ТУРИЗАМ И УГОСТИТЕЉСТВО" value="xi трговина, туризам и угоститељство"/>
+				<keyword id="grupa" showAs="4. Робне резерве" value="4. робне резерве"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2017-02-13" id="usvajanje"/>
+				<step date="2017-05-23" id="stupanje_na_snagu"/>
+				<step date="2017-05-23" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="47/2017-11" id="e1" type="generation"/>
+				<eventRef date="47/2017-12" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу <ref>члана 15. став 1. </ref>Закона о државној управи („<ref id="ref1" href="/rs/act/05/79/srp@">Службени гласник РС”, бр. 79/05, 101/07, 95/10</ref> и 99/14), а у вези са чланом 20. став 1. тач. 2. и 3. Закона о рoбним резервaмa („Службeни глaсник РС”, бр. 104/13 и 145/14 – др. закон),</p>
+			<p>В.д. директора Републичке дирекције за робне резерве доноси</p>
+			<p>УПУТСТВО</p>
+		</preamble>
+		<preface>
+			<authority>о додатним условима за складиштење обавезних резерви нафте и деривата нафте и средства обезбеђења за ускладиштене обавезне резерве код енергетских субјеката</authority>
+			<title>&quot;Службени гласник РС&quot;, бр. 47 од 15. маја      2017, 47 од 15. маја 2017.</title>
+			<date>Опште одредбе</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим упутством уређују се додатни услови за складиштење обавезних резерви нафте и деривата нафте (у даљем тексту: обавезне резерве) и средстава обезбеђења за ускладиштене обавезне резерве код енергетских субјеката, који имају лиценцу за обављање енергетске делатности складиштења нафте, деривата нафте и биогорива, а користе резервоаре у јавној својини и код енергетских субјеката, који имају лиценцу за обављање енергетске делатности складиштења нафте, деривата нафте и биогорива, а не користе резервоаре у јавној својини (у даљем тексту: складиштари) и то: организација складиштења обавезних резерви; мерење, надзор и управљање на терминалима у којима се складиште обавезне резерве; програм одржавања нафтних терминала; квантификација процене ризика и средства обезбеђења за складиштење.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>У складу са Законом о робним резервама и Законом о енергетици послове у вези формирања, одржавања, инвестирања и извештавања о обавезним резервама обавља Министарство рударства и енергетике – Управа за резерве енергената.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>Организација складиштења обавезних резерви</heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Управљање складиштем може обављати енергетски субјект који има лиценцу за обављање енергетске делатности складиштења нафте, деривата нафте и биогорива издату од стране Агенције за енергетику Републике Србије.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Складишта у којем се чувају обавезне резерве морају бити пројектована, изграђена, одржавана и коришћена у складу са законом који прописује изградњу таквих објеката, законима донетим на основу тог закона и свим подзаконским актима који регулишу ту област, укључујући и војне прописе.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Складиште у којем се чувају обавезне резерве мора имати издату употребну дозволу у складу са важећим прописима Републике Србије.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Складиште у којем се чувају обaвезне резерве мора да има аутопунилиште за прихват и отпрему деривата нафте аутоцистернама, као и могућност коришћења најмање још једног вида транспорта (речни/железнички) за прихват и отпрему деривата нафте.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Складиште у коме се чувају обавезне резерве мора поштовати све принципе заштите животне средине.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Минимални капацитет складишта за чување обавезних резерви нафтних деривата (осим за горива за млазне моторе) износи 5.000 m³.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Минимални капацитет складишта за чување обавезних резерви сирове нафте износи 50.000 m³.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Отпрема обавезних резерви мора бити започета у року од 24 сата од захтева Министарства рударства и енергетике – Управе за резерве енергената.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<heading>Мерење, надзор и управљање на терминалима у којима се складиште обавезне резерве</heading>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Функције надзора и управљања технолошком опремом на терминалимa се реализују кроз следеће дистрибутивне подсистеме:</p>
+							<alinea id="clan8-stav1-ali1">
+								<content>
+									<p>LG (Tunk Level Gauging);</p>
+								</content>
+							</alinea>
+							<alinea id="clan8-stav1-ali2">
+								<content>
+									<p>CS (Loading control system);</p>
+								</content>
+							</alinea>
+							<alinea id="clan8-stav1-ali3">
+								<content>
+									<p>PCS (Basic Process Conrol System);</p>
+								</content>
+							</alinea>
+							<alinea id="clan8-stav1-ali4">
+								<content>
+									<p>&amp;G Detection;</p>
+								</content>
+							</alinea>
+							<alinea id="clan8-stav1-ali5">
+								<content>
+									<p>SD (Emergenci Shutdown System);</p>
+								</content>
+							</alinea>
+							<alinea id="clan8-stav1-ali6">
+								<content>
+									<p>F (Fire Fighting).</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Сваки подсистем је битан за одређене функционалне целине. Tunk Level Gauging систем је везан само за резервоарски простор, LCS је систем за аутоматско мерење протекле количине горива на утоварним линијама на аутопретакалишту и железничком претакалишту, пристаништима.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>Остали подсистеми (BPCS, F&amp;G, ESD, FF) морају бити заступљени у свим функционалним целинама на складишту – терминалу.</p>
+							<alinea id="clan8-stav3-ali1">
+								<content>
+									<p>истем за мерење нивоа у резервоарима (ТLG)</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan8-stav4">
+						<content>
+							<p>Сваки резервоар би требао да има уграђен Tunk Level Gauging систем. Овакав један систем подразумева радарско мерило нивоа на резервоару, мерење температуре у више тачака, мерење притиска ради одређивања густине флуида, обрачунавања запремине и масе у резервоару.</p>
+							<alinea id="clan8-stav4-ali1">
+								<content>
+									<p>роцесни управљачки систем на резервоарима (BPCS)</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan8-stav5">
+						<content>
+							<p>Сваки надземни резервоар треба да има аутоматске Оn/Оff вентиле на улазу и излазу резервоара. Ови вентили треба да буду повезани на BPCS систем који врши аутоматско отварање/затварање ових вентила у зависности од технолошких услова и захтева.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav6">
+						<content>
+							<p>Вентили би требало да могу да раде у Аутоматском режиму где BPCS систем управља за њима у зависности од изабране намене (утовар, истовар или претакање из резервоара у резервоар).</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav7">
+						<content>
+							<p>Такође треба да постоји могућност даљинског ручног управљања, где оператер из командне сале може ручно да отвара или затвара вентиле у зависности од потребе.</p>
+							<alinea id="clan8-stav7-ali1">
+								<content>
+									<p>етекција пожара и гаса на резервоарима (F&amp;G Detection)</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan8-stav8">
+						<content>
+							<p>На резервоарима је потребно да постоји двозонски систем заштите. Испред сваког резервоара предвидети ручни јављач пожара, као и остале елементе за звучну и светлосну индикацију аларма.</p>
+							<alinea id="clan8-stav8-ali1">
+								<content>
+									<p>истем за сигурно заустављање постројења ESD</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan8-stav9">
+						<content>
+							<p>На резервоарима морају да се уграде детектори нивоа за веома ниски ниво (LSLL) и детектори нивоа за веома високи ниво (LSHH).</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav10">
+						<content>
+							<p>На основу LSHH ESD систем треба да аутоматски искључи пумпу за истовар из тог резервоара док детекцијом LSHH нивоа ESD систем треба да искључи пумпе за утовар у тај резервоар и да се преко процесног система (BPCS-a) затворе улазни вентили.</p>
+							<alinea id="clan8-stav10-ali1">
+								<content>
+									<p>истем за гашење пожара (FF)</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan8-stav11">
+						<content>
+							<p>Потребно је да надземни резервоари буду опремљени фиксним системом за гашење пожара пеном, као и опремом за хлађење водом.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav12">
+						<content>
+							<p>Систем за гашење пожара је потребно да у потпуности буде аутоматски, од покретања противпожарних пумпи до отварања вентила за пену и воду.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<heading>Програм одржавања нафтних терминала</heading>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Складиштар је у обавези да програмом одржавања нафтног терминала дефинише поступак потребних активности како би коришћење опреме и инсталација било несметано и сигурно, као и да дефинише задужења и одговорности.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Активности врсте прегледа и сигурносни поступци морају бити урађени за:</p>
+							<тачка id="clan9-stav2-tac1">
+								<num>1.</num>
+								<content>
+									<p> резервоаре;</p>
+								</content>
+							</тачка>
+							<тачка id="clan9-stav2-tac2">
+								<num>2.</num>
+								<content>
+									<p> манипулативне цевоводе;</p>
+								</content>
+							</тачка>
+							<тачка id="clan9-stav2-tac3">
+								<num>3.</num>
+								<content>
+									<p> арматуру;</p>
+								</content>
+							</тачка>
+							<тачка id="clan9-stav2-tac4">
+								<num>4.</num>
+								<content>
+									<p> електромоторне плоче;</p>
+								</content>
+							</тачка>
+							<тачка id="clan9-stav2-tac5">
+								<num>5.</num>
+								<content>
+									<p> ротациону опрему;</p>
+								</content>
+							</тачка>
+							<тачка id="clan9-stav2-tac6">
+								<num>6.</num>
+								<content>
+									<p> за сву врсту опреме на терминалу.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<heading>Квантификација процене ризика</heading>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Складиштар је у обавези да изради студију процене ризика, са проценом вероватноће настанка удеса и могућих последица. Студија је прихватљива ако се покаже да се ризиком може управљати и да је ризик прихватљив.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<heading>Средства обезбеђења складиштења обавезних резерви</heading>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Складиштар обавезних резерви у обавези      је да у року од седам дана од дана потписивања Уговора о      складиштењу обавезних резерви, преда Министарству рударства и      енергетике – Управи за резерве енергената, средства обезбеђења      уредног извршења уговора и то:</p>
+							<alinea id="clan11-stav1-ali1">
+								<content>
+									<p>ет бланко сопствених меница,      оверених печатом и потписаних од стране овлашћених лица, са      роком важности који је 30 дана дужи од истека рока важења      уговора,</p>
+								</content>
+							</alinea>
+							<alinea id="clan11-stav1-ali2">
+								<content>
+									<p>енично овлашћење – писмо, попуњено      и оверено,</p>
+								</content>
+							</alinea>
+							<alinea id="clan11-stav1-ali3">
+								<content>
+									<p>ахтев за регистрацију меница,</p>
+								</content>
+							</alinea>
+							<alinea id="clan11-stav1-ali4">
+								<content>
+									<p>опија картона депонованих потписа      оверена од стране пословне банке Складиштара.</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<heading>*<ref id="ref2" href="/rs/act/2017/47/srp@">Службени гласник РС, број 47/2017</ref></heading>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Адекватност терминала за складиштење обавезних резерви утврђује Министарство рударства и енергетике – Управа за резерве енергената.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Ово упутство ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav2">
+						<content>
+							<p>Број 338-193/2017-06</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav3">
+						<content>
+							<p>У Београду, 13. фебруара 2017. године</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav4">
+						<content>
+							<p>В.д. директора,</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav5">
+						<content>
+							<p>Зорица Анђелковић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

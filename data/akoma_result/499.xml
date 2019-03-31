@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2015/80-43/main"/>
+					<FRBRuri value="/rs/act/2015/80-43"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2015/80-43/srp@/main"/>
+					<FRBRuri value="/rs/act/2015/80-43/srp@"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2015/80-43/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2015/80-43/srp@.akn"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2015-9-21" name="службени гласник рс" number="80" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Податак" value="податак"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="1. Пензијско и инвалидско осигурање" value="1. пензијско и инвалидско осигурање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2015-09-18" id="usvajanje"/>
+				<step date="" id="stupanje_na_snagu"/>
+				<step date="" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 167. став 1, </ref>а у вези с чланом 75. Закона о пензијском и инвалидском осигурању („<ref id="ref1" href="/rs/act/03/34/srp@">Службени гласник РС”, бр. 34/03, 64/04</ref> – УС, 84/04 – др. закон, 85/05, 101/05 – др. закон, 63/06 – УС, 5/09, 107/09, 101/10, 93/12, 62/13, 108/13, 75/14 и 142/14),</p>
+			<p>Директор Републичког фонда за пензијско и инвалидско осигурање даје</p>
+			<p>ПОДАТКЕ</p>
+		</preamble>
+		<preface>
+			<authority>о износу просечне пензије у Републичком фонду за пензијско и инвалидско осигурање по кварталима од 2007. до 2013. године</authority>
+			<title>&quot;Службени гласник РС&quot;, број 80 од 21.      септембра 2015.</title>
+			<date>Special value.</date>
+		</preface>
+		<body>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Ове податке објавити у „Службеном гласнику Републике Србије”.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>01 број 181-6379/15</p>
+						</content>
+					</clause>
+					<clause id="od2-stav2">
+						<content>
+							<p>У Београду, 18. септембра 2015. године</p>
+						</content>
+					</clause>
+					<clause id="od2-stav3">
+						<content>
+							<p>Директор,</p>
+						</content>
+					</clause>
+					<clause id="od2-stav4">
+						<content>
+							<p>Драгана Калиновић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

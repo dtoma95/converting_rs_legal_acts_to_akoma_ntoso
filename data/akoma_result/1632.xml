@@ -1,0 +1,604 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2015/83-19/main"/>
+					<FRBRuri value="/rs/act/2015/83-19"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2015/83-19/srp@/main"/>
+					<FRBRuri value="/rs/act/2015/83-19/srp@"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2015/83-19/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2015/83-19/srp@.akn"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2015-10-3" name="службени гласник рс" number="83" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="5. Оружје, муниција, опасне и експлозивне материје" value="5. оружје, муниција, опасне и експлозивне материје"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2015-09-22" id="usvajanje"/>
+				<step date="2015-10-11" id="stupanje_na_snagu"/>
+				<step date="2015-10-11" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 54. став 4. </ref>Закона о транспорту опасног терета („<ref id="ref2" href="/rs/act/10/88/srp@">Службени гласник РС”, број 88/10</ref>),</p>
+			<p>Министар грађевинарства, саобраћаја и инфраструктуре доноси</p>
+		</preamble>
+		<preface>
+			<title>ПРАВИЛНИК</title>
+			<authority>о садржини интерног плана за хитне интервенције у ранжирним станицама</authority>
+			<title>&quot;Службени гласник РС&quot;, број 83 од 3. октобра      2015.</title>
+			<date>Предмет уређивања</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се садржина интерног плана за хитне интервенције у ранжирним станицама (у даљем тексту: интерни план).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>Садржина интерног плана</heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Интерни план садржи податке о:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> носиоцима одговорности – Део I;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> управљању ризиком – Део II;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> хитним интервенцијама у ванредним догађајима – Део III;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> анализи и корекцији интерног плана – Део IV;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> документацији – Део V.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Садржину интерног плана из става 1. тач. 1)–5) овог члана управљач железничке инфраструктуре израђује у писменом облику према техничко-технолошким карактеристикама ранжирне станице и могућим узроцима настанка ванредног догађаја (референтни сценарио) услед техничко-технолoшких аспеката железничког саобраћаја, као и према врсти и количини опасног терета на годишњем нивоу.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Интерни план за хитне интервенције се усклађује са планом заштите и спасавања у ванредним ситуацијама органа државне управе, аутономних покрајина, јединица локалне самоуправе, привредних друштава, других правних лица и организација.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>Део IНосиоци одговорности</heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Интерни план садржи податке о носиоцима одговорности.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Носиоци одговорности у смислу овог правилника су:</p>
+							<point id="clan3-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> републички органи, покрајински органи, као и органи јединица локалне самоуправе;</p>
+								</content>
+							</point>
+							<point id="clan3-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> специјализоване јединице за хитне интервенције на отклањању последица ванредног догађаја: ватрогасне јединице, јединице цивилне заштите, јединице хитне помоћи;</p>
+								</content>
+							</point>
+							<point id="clan3-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> учесници у транспорту опасног терета у железничком саобраћају: управљач железничке инфраструктуре и железнички превозник.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>За све носиоце одговорности наведене у ставу 2. овог члана у интерном плану наводе се следећи подаци: име и презиме, функција, телефонски број, опис могућег ванредног догађаја и временски рок за обавештавање.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>Интерни план садржи податке о запосленима са навођењем одговорности према радном месту запосленог.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav5">
+						<content>
+							<p>Поред података о носиоцима одговорности из става 1. тач. 1)–3) овог правилника, у зависности од процене последица ванредног догађаја, интерни план садржи и податке о главном носиоцу одговорности за отклањање последица ванредног догађаја.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>Део IIУправљање ризиком</heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Интерни план садржи податке о управљању ризиком, и то:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> идентификацију ризика на подручју ранжирне станице;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> превентивне мере;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> одговорна лица – запослени на железници;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> опрему;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> мере за заштиту животне средине.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<heading>Идентификација ризика на подручју ранжирне станице</heading>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Идентификација ризика на подручју ранжирне станице садржи податке о могућим узроцима ванредног догађаја који настају под утицајем техничко-технолошких аспеката железничког саобраћаја и карактеристика опасног терета са подацима о могућим ванредним догађајима као референтним сценаријима, и то:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> ризицима који потичу од техничко-технолошких аспеката железничког саобраћаја:</p>
+									<item id="clan5-stav1-tac1-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> техничке карактеристике подручја ранжирне станице (објекти, стање инфраструктуре и сл.);</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac1-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> организација саобраћаја возова и маневарског рада, као и врсте маневарских кретања кола са опасним теретом;</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac1-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> улазне, излазне и пролазне вожње возова састављених од кола са опасним теретом;</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac1-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> бављење кола са опасним теретом на пријемно-отпремним, ранжирним или колосецима друге намене;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> ризицима који потичу од карактеристика опасног терета:</p>
+									<item id="clan5-stav1-tac2-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> утврђивање опасног терета по количини која се превози;</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac2-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> редослед опасног терета по степену ризика по лица и животну средину;</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac2-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> начин паковања опасног терета;</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac2-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> подаци о ванредним догађајима;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> ризици који потичу од других лица:</p>
+									<item id="clan5-stav1-tac3-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> услови приступа подручју ранжирне станице;</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac3-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> комуникација других лица са запосленим на ранжирној станици.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<heading>Превентивне мере</heading>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Превентивне мере интерног плана садрже податке о поступцима и процедурама у циљу смањења вероватноће настанка ванредног догађаја које се односе на:</p>
+							<point id="clan6-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> одржавање железничке инфраструктуре у складу са техничким захтевима;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> одржавање техничке исправности железничких возила;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> одржавање постојеће опреме и средстава за отклањање последица ванредног догађаја и њено обнављање (замена „старо за ново”);</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> међусобну периодичну размену информација носилаца одговорности о организацији и расположивим капацитетима;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> редовно обнављање знања запослених о ризицима од опасних материја и предмета у железничком транспорту, обукe за новозапослене, као и у случају увођења нових опасних материја или промена са техничко-технолошког аспекта;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> израду сценарија према различитим ванредним догађајима (врста и количина опасних материја и предмета, брзина истицања опасних материја, експлозивно дејство, токсичност и сл.);</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> годишње вежбе носилаца одговорности и запослених по различитим сценаријима ванредних догађаја предвиђених интерним планом;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> анализу резултата вежбе из тачке 7) овог става и припрему корекције интерног плана.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>За израду сценарија из става 1. тачка 6) овог члана, примењују се одговарајући подаци из плана заштите од пожара.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<heading>Одговорна лица – запослени на железници</heading>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Интерни план садржи податке о одговорним лицима, у складу са степеном одговорности запослених код управљача железничке инфраструктуре и железничких превозника, за реализацију предвиђених активности.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<heading>Опрема</heading>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Део интерног плана који се односи на опрему садржи податке о врсти и техничкој исправности опреме и приступу тој опреми, средствима за прву помоћ, опреми за гашење пожара, осталим средствима за брзо деловање и уређајима за комуникације, у случајевима у којима су ослобођене течне и чврсте материје у расутом стању класа 3, 4.1, 4.3, 8. и 9.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Под опремом у смислу става 1. овог члана подразумева се:</p>
+							<point id="clan8-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> опрема и уређаји за спасавање и рашчишћавање;</p>
+								</content>
+							</point>
+							<point id="clan8-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> опрема за обавештавање о пожару и опрема за гашење пожара, у складу са планом заштите од пожара;</p>
+								</content>
+							</point>
+							<point id="clan8-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> опрема за манипулацију опасним теретом;</p>
+								</content>
+							</point>
+							<point id="clan8-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> остала опрема за спречавање последица ванредног догађаја као и за заштиту комуналних система (канализација, водовод, гасовод и електрична дистрибутивна мрежа).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<heading>Заштита животне средине</heading>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>У погледу мера за заштиту животне средине интерни план садржи:</p>
+							<point id="clan9-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> процену ризика по животну средину (врсте и могуће начине загађења, критична подручја за која су потребне посебне мере заштите и сл.);</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> мере за заштиту животне средине на основу процене ризика;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> усаглашавање мера за заштиту животне средине са службама, односно лицима надлежним за одређене области (заштита биља, заштита животиња и др.);</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> мере за обезбеђивање, скупљање, одстрањивање, односно одлагање расутог или разливеног опасног терета у складу са законом којим се уређује управљање отпадом или мере да се тај терет на други начин учини безопасним, односно мере за спречавање даљег ширења загађења.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<heading>Део IIIХитне интервенције код ванредних догађаја</heading>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Интерни план садржи податке о хитним интервенцијама које се односе на:</p>
+							<point id="clan10-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> начин прикупљања информација од запослених који су на месту ванредног догађаја;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> преношење важних повратних информација за оне који се налазе у непосредном подручју ванредног догађаја;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> обавештавање надлежних оперативних служби;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> утврђивање мера за спасавање лица и пружање помоћи повређеним лицима и на сузбијању последица ванредног догађаја ради заштите животне средине и имовине;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> руковођење поступком отклањања последица ванредних догађаја;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> одређивање лица за обавештавање носиоца одговорности за отклањање последица ванредног догађаја;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> одређивање лица за обавештавање средстава јавног информисања;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> план евакуације и повратка на железничко подручје, заштиту евакуисаних подручја и поновно успостављање рада.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Интерни план садржи податке о координисаном деловању управљача железничке инфраструктуре, железничких превозника и носиоца одговорности у случају ванредног догађаја на подручју ранжирне станице.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<heading>Део IVАнализа и корекција интерног плана</heading>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>У делу интерног плана који садржи анализу на основу практичног искуства у ситуацијама ванредних догађаја и резултата вежби из <ref>члана 6. став 1. тачка 8</ref>) овог правилника, управљач инфраструктуре утврђује адекватност и ефикасност појединих делова интерног плана који се по потреби мењају и допуњују.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<heading>Део VДокументација</heading>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Документација је део интерног плана која садржи:</p>
+							<point id="clan12-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> записнички материјал о узроцима ванредних догађаја;</p>
+								</content>
+							</point>
+							<point id="clan12-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> процедуре о токовима информација по степену одговорности, ризицима и одговору на ризик;</p>
+								</content>
+							</point>
+							<point id="clan12-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> податке о обучености и одржавању нивоа обучености по степену одговорности;</p>
+								</content>
+							</point>
+							<point id="clan12-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> податке о опреми;</p>
+								</content>
+							</point>
+							<point id="clan12-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> податке о свим носиоцима одговорности и њиховом обавештавању;</p>
+								</content>
+							</point>
+							<point id="clan12-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> задатке запослених на железници у активностима превентивног карактера према идентификованим ризицима и могућим сценаријима настанка ванредног догађаја;</p>
+								</content>
+							</point>
+							<point id="clan12-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> податке о анализи вежби.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<heading>Ступање на снагу</heading>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav2">
+						<content>
+							<p>Број 119-01-00049/2015-01</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav3">
+						<content>
+							<p>У Београду, 22. септембра 2015. године</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav5">
+						<content>
+							<p>проф. др Зорана Михајловић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

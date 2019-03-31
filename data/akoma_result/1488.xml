@@ -1,0 +1,861 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2009/67-7/main"/>
+					<FRBRuri value="/rs/act/2009/67-7"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2009/67-7/srp@/main"/>
+					<FRBRuri value="/rs/act/2009/67-7/srp@"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2009/67-7/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2009/67-7/srp@.akn"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2009-8-19" name="службени гласник рс“" number="67" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="1. Сточарство" value="1. сточарство"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2009-08-13" id="usvajanje"/>
+				<step date="2009-08-27" id="stupanje_na_snagu"/>
+				<step date="2009-08-27" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 13. став 7. </ref>и <ref>члана 14. став 3. </ref>Закона о сточарству („<ref id="ref3" href="/rs/act/09/41/srp@">Службени гласник РС”, број 41/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, шумарства и водопривреде, доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о садржини и обрасцу захтева за упис у Регистар одгајивачких организација и организација са посебним овлашћењима, као и садржини и начину вођења тог регистра</title>
+			<date>„Службени гласник РС“, број 67 од 19. августа 2009.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се садржина и образац захтева за упис у Регистар одгајивачких организација и организација са посебним овлашћењима (у даљем тексту: Регистар), као и садржина и начин вођења Регистра.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Упис у Регистар врши се на основу захтева који правно лице подноси Министарству пољопривреде, шумарства и водопривреде и решења министра надлежног за послове пољопривреде (у даљем тексту: министар) о испуњености услова за обављање послова у сточарству.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Захтев из става 1. овог члана садржи следеће податке:</p>
+							<point id="clan2-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив и седиште, број телефона и електронску адресу подносиоца захтева;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> матични број, порески идентификациони број (у даљем тексту: ПИБ) и текући рачун подносиоца захтева;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> број и датум решења министра о испуњености услова за обављање послова у сточарству;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> број лица и звање запослених на пословима у сточарству који су утврђени решењем министра о испуњености услова за обављање послова у сточарству;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> име и презиме одговорног лица подносиоца захтева;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac6">
+								<num>6)</num>
+								<content>
+									<p> област рада одгајивачке организације;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac7">
+								<num>7)</num>
+								<content>
+									<p> назив основног одгајивачког програма – за основне одгајивачке организације;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac8">
+								<num>8)</num>
+								<content>
+									<p> назив главног одгајивачког програма који је основа селекцијског рада одгајивачке организације;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac9">
+								<num>9)</num>
+								<content>
+									<p> број чланова – произвођача квалитетне приплодне стоке за које одгајивачка организација врши послове из одгајивачког програма;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac10">
+								<num>10)</num>
+								<content>
+									<p> број квалитетних приплодних домаћих животиња у власништву чланова одгајивачке организације, према врсти и раси на дан подношења захтева за упис у Регистар.</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac11">
+								<num>11)</num>
+								<content>
+									<p> датум и печат подносиоца захтева.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Уз захтев из става 1. овог члана подноси се:</p>
+							<point id="clan2-stav3-tac1">
+								<num>1)</num>
+								<content>
+									<p> решење министра о испуњености услова за обављање послова у сточарству;</p>
+								</content>
+							</point>
+							<point id="clan2-stav3-tac2">
+								<num>2)</num>
+								<content>
+									<p> доказ да је подносилац захтева уписан у Регистар привредних субјеката, односно у други одговарајући регистар;</p>
+								</content>
+							</point>
+							<point id="clan2-stav3-tac3">
+								<num>3)</num>
+								<content>
+									<p> одгајивачки програм оверен од стране главне одгајивачке организације;</p>
+								</content>
+							</point>
+							<point id="clan2-stav3-tac4">
+								<num>4)</num>
+								<content>
+									<p> доказ о уплаћеној административној такси.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan2-stav4">
+						<content>
+							<p>Прилози из става 3. овог члана подносе се у оригиналу или овереној копији.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav5">
+						<content>
+							<p>Захтев из става 1. овог члана подноси се на Обрасцу број 1. – Захтев за упис у Регистар одгајивачких организација и организација са посебним овлашћењима, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Регистар садржи следеће податке:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> редни број уписа у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> број и датум решења о упису у Регистар привредних субјеката, односно у други одговарајући регистар;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> назив и седиште, матични број, ПИБ, текући рачун, број телефона и електронску адресу правног лица;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> име и презиме одговорног лица у правном лицу;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> број лица и звање запослених на пословима у сточарству који су утврђени решењем министра о испуњености услова за обављање послова у сточарству;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> број и датум решења министра о испуњености услова за обављање послова у сточарству;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> о промени података, ако је дошло до промене;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> број и датум решења о упису, односно решења о брисању из Регистра;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> датум уписа у Регистар.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Поред података из става 1. овог члана Регистар садржи и податке који се односе на одгајивачке организације, и то:</p>
+							<point id="clan3-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> област рада одгајивачке организације;</p>
+								</content>
+							</point>
+							<point id="clan3-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> назив основног одгајивачког програма – за основне одгајивачке организације;</p>
+								</content>
+							</point>
+							<point id="clan3-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> назив главног одгајивачког програма који је основа селекцијског рада одгајивачке организације;</p>
+								</content>
+							</point>
+							<point id="clan3-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> број чланова – произвођача квалитетне приплодне стоке за које одгајивачка организација врши послове из одгајивачког програма;</p>
+								</content>
+							</point>
+							<point id="clan3-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> број квалитетних приплодних домаћих животиња у власништву чланова одгајивачке организације, према врсти и раси на дан подношења захтева за упис у Регистар.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Регистар се води у Министарству пољопривреде, шумарства и водопривреде (у даљем тексту: Министарство) у електронском облику.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Регистар се може водити и у облику регистарске књиге на основу података из Регистра.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Регистарска књига састоји се из регистарских уложака који се формирају за сваку одгајивачку организацију, односно организацију са посебним овлашћењима.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav4">
+						<content>
+							<p>У једном регистарском улошку могу се водити подаци само за једну одгајивачку организацију, односно организацију са посебним овлашћењима.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav5">
+						<content>
+							<p>Регистарски улошци нумерисани су бројевима који одговарају редном броју уписа у Регистар, који се води у електронској форми.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav6">
+						<content>
+							<p>У регистарски уложак улаже се документација која се прилаже уз захтев за упис, промену података и брисање из Регистра.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav7">
+						<content>
+							<p>Документа која се подносе уз захтев за упис чине саставни део Регистра и чувају се трајно у складу са прописима којима се уређује архивска грађа.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>У Регистар се уписују и промене података.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Правно лице дужно је да сваку промену података уписаних у Регистар пријави Министарству у року од 15 дана од настале промене и приложи доказ о томе.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>Изузетно од одредбе става 2. овог члана промене података из <ref>члана 3. став 2. </ref>тач. 4) и 5) овог правилника пријављују се два пута у току селекцијске године, и то:</p>
+							<point id="clan5-stav3-tac1">
+								<num>1)</num>
+								<content>
+									<p> за период од 1. маја до 31. октобра, најкасније до 15. новембра;</p>
+								</content>
+							</point>
+							<point id="clan5-stav3-tac2">
+								<num>2)</num>
+								<content>
+									<p> за период од 1. новембра до 30. априла, најкасније до 15. маја.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Лице овлашћено за вођење Регистра дужно је да чува Регистар и податке за упис у Регистар на начин којим се обезбеђује заштита од злоупотреба, оштећења и уништења Регистра.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Увид у Регистар врши се уз обавезно присуство лица из става 1. овог члана.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Број 110-00-172/2009-09</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>У Београду, 13. августа 2009. године</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav5">
+						<content>
+							<p>др Саша Драгин, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav6">
+						<content>
+							<p>Образац број 1.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav7">
+						<content>
+							<p>Захтев за упис у Регистар одгајивачких организација</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav8">
+						<content>
+							<p>и организација са посебним овлашћењима</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav9">
+						<content>
+							<p>I</p>
+							<alinea id="clan7-stav9-ali1">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan7-stav10">
+						<content>
+							<p>А) Попуњавају сви</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav11">
+						<content>
+							<p>подносиоци захтева</p>
+							<alinea id="clan7-stav11-ali1">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan7-stav12">
+						<content>
+							<p>Назив и седиште правног</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav13">
+						<content>
+							<p>лица</p>
+							<alinea id="clan7-stav13-ali1">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan7-stav14">
+						<content>
+							<p>Број телефона</p>
+							<alinea id="clan7-stav14-ali1">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan7-stav15">
+						<content>
+							<p>Електронска адреса (е-маил)</p>
+							<alinea id="clan7-stav15-ali1">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan7-stav16">
+						<content>
+							<p>Матични број</p>
+							<alinea id="clan7-stav16-ali1">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan7-stav17">
+						<content>
+							<p>Порески идентификациони</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav18">
+						<content>
+							<p>број (ПИБ)</p>
+							<alinea id="clan7-stav18-ali1">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan7-stav19">
+						<content>
+							<p>Текући рачун и назив банке</p>
+							<alinea id="clan7-stav19-ali1">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan7-stav20">
+						<content>
+							<p>Датум издавања решења</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav21">
+						<content>
+							<p>министра о испуњености</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav22">
+						<content>
+							<p>услова за обављање послова</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav23">
+						<content>
+							<p>у сточарству</p>
+							<alinea id="clan7-stav23-ali1">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan7-stav24">
+						<content>
+							<p>Име и презиме одговорног</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav25">
+						<content>
+							<p>лица</p>
+							<alinea id="clan7-stav25-ali1">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan7-stav26">
+						<content>
+							<p>Б) Попуњавају одгајивачке</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav27">
+						<content>
+							<p>организације</p>
+							<alinea id="clan7-stav27-ali1">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan7-stav28">
+						<content>
+							<p>Број и звање запослених</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav29">
+						<content>
+							<p>на пословима у сточарству</p>
+							<alinea id="clan7-stav29-ali1">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan7-stav30">
+						<content>
+							<p>Област рада одгајивачке</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav31">
+						<content>
+							<p>организације</p>
+							<alinea id="clan7-stav31-ali1">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan7-stav32">
+						<content>
+							<p>Назив основног одгајивачког</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav33">
+						<content>
+							<p>програма</p>
+							<alinea id="clan7-stav33-ali1">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan7-stav34">
+						<content>
+							<p>Назив главног одгајивачког</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav35">
+						<content>
+							<p>програма</p>
+							<alinea id="clan7-stav35-ali1">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan7-stav36">
+						<content>
+							<p>Број чланова</p>
+							<alinea id="clan7-stav36-ali1">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan7-stav37">
+						<content>
+							<p>Број квалитетних приплодних</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav38">
+						<content>
+							<p>домаћих животиња</p>
+							<alinea id="clan7-stav38-ali1">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan7-stav39">
+						<content>
+							<p>В) Попуњавају организације</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav40">
+						<content>
+							<p>са посебним овлашћењима</p>
+							<alinea id="clan7-stav40-ali1">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan7-stav41">
+						<content>
+							<p>Број и звање запослених</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav42">
+						<content>
+							<p>на пословима у сточарству</p>
+							<alinea id="clan7-stav42-ali1">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan7-stav43">
+						<content>
+							<p>II</p>
+							<alinea id="clan7-stav43-ali1">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan7-stav44">
+						<content>
+							<p>Врста промене</p>
+							<alinea id="clan7-stav44-ali1">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+							<alinea id="clan7-stav44-ali2">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+							<alinea id="clan7-stav44-ali3">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+							<alinea id="clan7-stav44-ali4">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+							<alinea id="clan7-stav44-ali5">
+								<content>
+									<p>––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<став id="clan7-stav45">
+						<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable">
+							
+ 
+							<tbody>
+								<tr>
+									
+  
+									<td style="width:10.0625rem;padding:0cm 0cm 0cm 0cm" valign="top" width="161">
+										
+  
+										<p>У
+  </p>
+										
+  
+									</td>
+									
+  
+									<td style="width:2.125rem;padding:0cm 0cm 0cm 0cm" valign="top" width="34">
+  </td>
+									<td style="width:17.0625rem;padding:0cm 0cm 0cm 0cm" valign="top" width="273">
+										
+  
+										<p>Подносилац
+  захтева </p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:10.0625rem;padding:0cm 0cm 0cm 0cm" valign="top" width="161">
+  </td>
+									<td style="width:2.125rem;padding:0cm 0cm 0cm 0cm" valign="top" width="34">
+  </td>
+									<td style="width:17.0625rem;padding:0cm 0cm 0cm 0cm" valign="top" width="273">
+ </td>
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:10.0625rem;padding:0cm 0cm 0cm 0cm" valign="top" width="161">
+  </td>
+									<td style="width:2.125rem;padding:0cm 0cm 0cm 0cm" valign="top" width="34">
+  </td>
+									<td style="width:17.0625rem;padding:0cm 0cm 0cm 0cm" valign="top" width="273">
+ </td>
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:10.0625rem;padding:0cm 0cm 0cm 0cm" valign="top" width="161">
+										
+  
+										<p>Дана:
+  </p>
+										
+  
+									</td>
+									
+  
+									<td style="width:2.125rem;padding:0cm 0cm 0cm 0cm" valign="top" width="34">
+  </td>
+									<td style="width:17.0625rem;padding:0cm 0cm 0cm 0cm" valign="top" width="273">
+										
+  
+										<p>
+  </p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:10.0625rem;padding:0cm 0cm 0cm 0cm" valign="top" width="161">
+  </td>
+									<td style="width:2.125rem;padding:0cm 0cm 0cm 0cm" valign="top" width="34">
+  </td>
+									<td style="width:17.0625rem;padding:0cm 0cm 0cm 0cm" valign="top" width="273">
+										
+  
+										<p>(потпис
+  овлашћеног лица оверен печатом)</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+
+							</tbody>
+						</table>
+						
+
+
+						<content/>
+					</став>
+					<clause id="clan7-stav46">
+						<content>
+							<p>Уз захтев из става 1. овог члана подноси се доказ:</p>
+							<point id="clan7-stav46-tac1">
+								<num>1)</num>
+								<content>
+									<p> решење министра о испуњености услова за обављање послова у сточарству;</p>
+								</content>
+							</point>
+							<point id="clan7-stav46-tac2">
+								<num>2)</num>
+								<content>
+									<p> доказ да је подносилац захтева уписан у Регистар привредних субјеката, односно у други одговарајући регистар;</p>
+								</content>
+							</point>
+							<point id="clan7-stav46-tac3">
+								<num>3)</num>
+								<content>
+									<p> одгајивачки програм оверен од стране главне одгајивачке организације;</p>
+								</content>
+							</point>
+							<point id="clan7-stav46-tac4">
+								<num>4)</num>
+								<content>
+									<p> доказ о уплаћеној административној такси.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

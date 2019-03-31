@@ -1,0 +1,720 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1984/1-4/main"/>
+					<FRBRuri value="/rs/act/1984/1-4"/>
+					<FRBRdate date="1984" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1984/1-4/srp@/main"/>
+					<FRBRuri value="/rs/act/1984/1-4/srp@"/>
+					<FRBRdate date="1984" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1984/1-4/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1984/1-4/srp@.akn"/>
+					<FRBRdate date="1984" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1984-1-21" name="службени гласник срс" number="1" showAs="Службени гласник СРС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="13. Хуманитарне организације, донације и хуманитарна помоћ" value="13. хуманитарне организације, донације и хуманитарна помоћ"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1983-12-23" id="usvajanje"/>
+				<step date="1984-01-29" id="stupanje_na_snagu"/>
+				<step date="1984-01-29" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу Закона о вршењу јавних овлашћења и начину обезбеђивања средстава Црвеног крста Србије („<ref id="ref6" href="/rs/act/79/6/srp@">Службени гласник СРС“, број 6/79</ref>), <ref>члана 11. став 2. </ref>Правилника о организовању Службе тражења у Црвеном крсту Југославије („<ref id="ref7" href="/rs/act/80/13/srp@">Службени лист СФРЈ“, број 13/80</ref>) и <ref>члана 80. </ref>Статута Црвеног крста Србије,</p>
+		</preamble>
+		<preface>
+			<authority>Скупштина Црвеног крста Србије на седници одржаној 23. децембра 1983. године доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о организовању Службе тражења у  Црвеном крсту Србије</title>
+			<date>„Службени гласник СРС”, број 1 од 21. јануара 1984.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником уређује се организациона структура и систематизују послови и задаци у Служби тражења у Црвеном крсту Србије на основу <ref>члана 2. тачке 6</ref>. Закона о вршењу јавних овлашћења и начину обезбеђења средстава Црвеног крста Србије, а у оквиру јединствене Службе тражења у Црвеном крсту Југославије, основане на основу <ref>члана 6. </ref>Закона о положају и овлашћењима Црвеног крста Југославије („<ref id="ref8" href="/rs/act/76/13/srp@">Службени лист СФРЈ”, број 13/76</ref>) ради остваривања послова и задатака утврђених:</p>
+							<alinea id="clan1-stav1-ali1">
+								<content>
+									<p>равилником о организацији Службе тражења Црвеног крста Југославије;</p>
+								</content>
+							</alinea>
+							<alinea id="clan1-stav1-ali2">
+								<content>
+									<p>руштвеним договором о сарадњи на пословима Службе тражења склопљеним између Скупштине Црвеног крста Југославије и скупштина републичких и покрајинских организација Црвеног крста; и</p>
+								</content>
+							</alinea>
+							<alinea id="clan1-stav1-ali3">
+								<content>
+									<p>вим правилником.</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Служба тражења Црвеног крста Србије, на основу Друштвеног договора о сарадњи на пословима Службе тражења, носилац је послова за следеће категорије лица:</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<subsection id="podod1">
+				<num>а</num>
+				<heading> Лица чија тражења немају елементе ипостраности:</heading>
+				<content>
+					<alinea id="podod1-clan2-ali1">
+						<content>
+							<p>овређене оболеле и умрле припаднике оружаних снага Југославије у време оружаних сукоба;</p>
+						</content>
+					</alinea>
+					<alinea id="podod1-clan2-ali2">
+						<content>
+							<p>ица нестала услед оружаног сукоба;</p>
+						</content>
+					</alinea>
+					<alinea id="podod1-clan2-ali3">
+						<content>
+							<p>ецу одвојену од родитеља услед оружаног сукоба;</p>
+						</content>
+					</alinea>
+					<alinea id="podod1-clan2-ali4">
+						<content>
+							<p>азмену породичних порука чланова породице раздвојених услед оружаних сукоба или других ванредних стања;</p>
+						</content>
+					</alinea>
+					<alinea id="podod1-clan2-ali5">
+						<content>
+							<p>пајање чланова породице раздвојених услед оружаних сукоба.</p>
+						</content>
+					</alinea>
+				</content>
+			</subsection>
+			<subsection id="podod2">
+				<num>б</num>
+				<heading> Лица у свим случајевима:</heading>
+				<content>
+					<alinea id="podod2-clan2-ali1">
+						<content>
+							<p>ртве елементарних несрећа и других ванредних стања у време мира;</p>
+						</content>
+					</alinea>
+					<alinea id="podod2-clan2-ali2">
+						<content>
+							<p>вакуисана лица, избеглице и остале категорије лица;</p>
+						</content>
+					</alinea>
+					<alinea id="podod2-clan2-ali3">
+						<content>
+							<p>ица на привременом раду у иностранству и чланове њихових породица;</p>
+						</content>
+					</alinea>
+					<alinea id="podod2-clan2-ali4">
+						<content>
+							<p>а остала тражења у земљи за која нису искључиво надлежни други југословенски органи.</p>
+						</content>
+					</alinea>
+					<clause id="podod2-clan2-stav1">
+						<content>
+							<p>Поред набројаних послова Служба тражења Црвеног крста Србије, на захтев Савезне службе тражења, суделује у обављају других послова Службе тражења, а да се ти послови односе на територију СР Србије.</p>
+						</content>
+					</clause>
+					<article id="podod2-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="podod2-clan3-stav1">
+								<content>
+									<p>Ради извршавања задатака и послова утврђених овим Правилником, Служба тражења Црвеног крста Србије сарађује са органима управе, правосудним органима, организацијама удруженог рада и другим самоуправним организацијама и заједницама, друштвено-политичким, хуманитарним и другим друштвеним организацијама и удружењима грађана и појединцима.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod2-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="podod2-clan4-stav1">
+								<content>
+									<p>Службу тражења у Црвеном крсту Србије сачињавају:</p>
+									<alinea id="podod2-clan4-stav1-ali1">
+										<content>
+											<p>лужба тражења у Републичкој организацији Црвеног крста – републичка Служба тражења;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan4-stav1-ali2">
+										<content>
+											<p>лужба тражења у међуопштинској организацији Црвеног крста и организацији Црвеног крста Београда – међуопштинска Служба тражења</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan4-stav1-ali3">
+										<content>
+											<p>лужба тражења Београда (градска Служба тражења);</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan4-stav1-ali4">
+										<content>
+											<p>лужба тражења у општинској организацији Црвеног крста – општинска Служба тражења;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan4-stav1-ali5">
+										<content>
+											<p>лужба тражења у основној организацији Црвеног крста у месним заједницама – Служба тражења у месној заједници.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod2-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="podod2-clan5-stav1">
+								<content>
+									<p>Ради развоја организације и остваривања функције Службе тражења, Скупштине организација Црвеног крста на свим нивоима оснивају стално радно тело – Савет – Комисију Службе тражења.</p>
+								</content>
+							</clause>
+							<clause id="podod2-clan5-stav2">
+								<content>
+									<p>Састав и број чланова радних тела из става 1. овог члана утврђује Одлуком Скупштина организације Црвеног крста одговарајућег нивоа.</p>
+								</content>
+							</clause>
+							<clause id="podod2-clan5-stav3">
+								<content>
+									<p>При доношењу Одлуке из става 2. овог члана Скупштина ће имати у виду потребе остваривања сарадње са субјектима наведеним у <ref>члану 3. овог</ref> правилника.</p>
+								</content>
+							</clause>
+							<clause id="podod2-clan5-stav4">
+								<content>
+									<p>Радно тело из става 1. овог члана брине се о организацији и развоју Службе тражења, прати, усмерава и координира тај развој.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod2-clan6">
+						<num>6.</num>
+						<heading>РЕПУБЛИЧКА СЛУЖБА ТРАЖЕЊА</heading>
+						<content>
+							<clause id="podod2-clan6-stav1">
+								<content>
+									<p>При Скупштини Црвеног крста Србије оснива се Савез службе тражења.</p>
+								</content>
+							</clause>
+							<clause id="podod2-clan6-stav2">
+								<content>
+									<p>Задаци Савета су:</p>
+									<alinea id="podod2-clan6-stav2-ali1">
+										<content>
+											<p>тврђује нацрт предлога концепције развоја Службе тражења у СР Србији;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan6-stav2-ali2">
+										<content>
+											<p>тврђује нацрт предлога средњорочног програма развоја Службе тражења у СР Србији;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan6-stav2-ali3">
+										<content>
+											<p>тврђује предлог годишњег програма рада Савета и Службе тражења на нивоу Републике;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan6-stav2-ali4">
+										<content>
+											<p>тврђује предлог дела плана одбране Скупштине Црвеног крста Србије који се односи на функционисање Службе у рату;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan6-stav2-ali5">
+										<content>
+											<p>тврђује нацрт предлога нормативних аката од значаја за Службу;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan6-stav2-ali6">
+										<content>
+											<p>раћење и проучавање појава које су од значаја за Службу и предузимање мера потребних за њен оптимални развој;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan6-stav2-ali7">
+										<content>
+											<p>оординација у свим фазама развоја Службе са заинтересованим чиниоцима на нивоу Републике;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan6-stav2-ali8">
+										<content>
+											<p>оношење програма оспособљавања кадрова за рад на задацима Службе, приручника и сталног методолошко-инструктивног материјала;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan6-stav2-ali9">
+										<content>
+											<p>способљавање кадрова за рад у јединицама Службе тражења и предавачког кадра за оспособљавање грађана, чланова екипа и повереника за рад у Служби за време рата;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan6-stav2-ali10">
+										<content>
+											<p>нструктивна помоћ у вези организовања и стављања у функцију Службе на нивоу региона и општина;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan6-stav2-ali11">
+										<content>
+											<p>тврђује пропагандни материјал и упутства за грађанство и информисање јавности и задацима и функцији Службе тражења;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan6-stav2-ali12">
+										<content>
+											<p>окретање друштвене акције на евидентирању, прикупљању и сређивању података о постојећим изворима и израда јединственог републичког регистра извора података;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan6-stav2-ali13">
+										<content>
+											<p>бављање и других послова који по свом карактеру спадају у рад Службе или су од интереса за њен развој.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod2-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="podod2-clan7-stav1">
+								<content>
+									<p>Служба тражења обавља следеће послове и задатке:</p>
+									<тачка id="podod2-clan7-stav1-tac1">
+										<num>1.</num>
+										<content>
+											<p> Предузима тражења за:</p>
+											<alinea id="podod2-clan7-stav1-tac1-ali1">
+												<content>
+													<p>овређене, оболеле и умрле припаднике оружаних снага СФРЈ када се налазе у војним болницама;</p>
+												</content>
+											</alinea>
+											<alinea id="podod2-clan7-stav1-tac1-ali2">
+												<content>
+													<p>рађане са територије СР Србије када се налазе на лечењу у иностранству (у сарадњи са Савезном службом тражења) – евиденција;</p>
+												</content>
+											</alinea>
+											<alinea id="podod2-clan7-stav1-tac1-ali3">
+												<content>
+													<p>естале особе када им није ближе познато место боравка; и</p>
+												</content>
+											</alinea>
+											<alinea id="podod2-clan7-stav1-tac1-ali4">
+												<content>
+													<p>рађане са територије СР Србије када се налазе у иностранству (у сарадњи са Савезном службом тражења).</p>
+												</content>
+											</alinea>
+										</content>
+									</тачка>
+									<тачка id="podod2-clan7-stav1-tac2">
+										<num>2.</num>
+										<content>
+											<p> Размењује породичне поруке:</p>
+											<alinea id="podod2-clan7-stav1-tac2-ali1">
+												<content>
+													<p>а ратне заробљенике непријатељске силе који су смештени у логоре за ратне заробљенике на подручју СР Србије;</p>
+												</content>
+											</alinea>
+											<alinea id="podod2-clan7-stav1-tac2-ali2">
+												<content>
+													<p>змеђу чланова породице који се једним делом налазе на привремено запоседнутој територији, а другим делом на слободној територији СФРЈ; и</p>
+												</content>
+											</alinea>
+											<alinea id="podod2-clan7-stav1-tac2-ali3">
+												<content>
+													<p>а чланове породица са територије СР Србије када се налазе у иностранству и из иностранства на територији СР Србије.</p>
+												</content>
+											</alinea>
+										</content>
+									</тачка>
+									<тачка id="podod2-clan7-stav1-tac3">
+										<num>3.</num>
+										<content>
+											<p> Спајање породице:</p>
+											<alinea id="podod2-clan7-stav1-tac3-ali1">
+												<content>
+													<p>ко су чланови породице на подручју разних општина које су међусобно удаљене;</p>
+												</content>
+											</alinea>
+											<alinea id="podod2-clan7-stav1-tac3-ali2">
+												<content>
+													<p>ко је део чланова породице у иностранству (у сарадњи са Савезном службом тражења); и</p>
+												</content>
+											</alinea>
+											<alinea id="podod2-clan7-stav1-tac3-ali3">
+												<content>
+													<p>ко су чланови породице делом на привремено запоседнутој територији, а делом на слободној територији СФРЈ.</p>
+												</content>
+											</alinea>
+										</content>
+									</тачка>
+									<тачка id="podod2-clan7-stav1-tac4">
+										<num>4.</num>
+										<content>
+											<p> Вођење евиденције путем основне и оперативне картотеке:</p>
+											<alinea id="podod2-clan7-stav1-tac4-ali1">
+												<content>
+													<p>овређених и оболелих – упућених на лечење у иностранство;</p>
+												</content>
+											</alinea>
+											<alinea id="podod2-clan7-stav1-tac4-ali2">
+												<content>
+													<p>еце до 14 година – евакуисаних у иностранство;</p>
+												</content>
+											</alinea>
+											<alinea id="podod2-clan7-stav1-tac4-ali3">
+												<content>
+													<p>сталих особа евакуисаних у иностранство.</p>
+												</content>
+											</alinea>
+										</content>
+									</тачка>
+									<тачка id="podod2-clan7-stav1-tac5">
+										<num>5.</num>
+										<content>
+											<p> Усмерава и координира развој службе тражења и сарађује са осталим органима и организацијама на нивоу републике</p>
+										</content>
+									</тачка>
+									<тачка id="podod2-clan7-stav1-tac6">
+										<num>6.</num>
+										<content>
+											<p> Учествује у извршавању задатака Савезне службе тражења и службе тражења других република и покрајина</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="podod2-clan8-stav1">
+								<content>
+									<p>Послове и радне задатке Републичке службе тражења као и задатке који произилазе из програма рада Савета службе тражења обављају у време мира радници Радне заједнице Скупштине Црвеног крста Србије, утврђене организацијом и систематизацијом послова и радних задатака.</p>
+								</content>
+							</clause>
+							<clause id="podod2-clan8-stav2">
+								<content>
+									<p>Организација и систематизација Републичке службе тражења за функционисање у рату утврђује се Планом одбране Скупштине и Председништва Скупштине Црвеног крста Србије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod2-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="podod2-clan9-stav1">
+								<content>
+									<p>Служба тражења града Београда – регионалне службе тражења (врши послове општинских организација које им оне пренесу).</p>
+								</content>
+							</clause>
+							<clause id="podod2-clan9-stav2">
+								<content>
+									<p>При скупштинама организација Црвеног крста региона и града Београда оснива се Савет служе тражења.</p>
+								</content>
+							</clause>
+							<clause id="podod2-clan9-stav3">
+								<content>
+									<p>Задаци Савета су:</p>
+									<alinea id="podod2-clan9-stav3-ali1">
+										<content>
+											<p>рати, проучава, подстиче и усмерава развој Службе у општинским организацијама Црвеног крста;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan9-stav3-ali2">
+										<content>
+											<p>чествује у изради плана одбране организације Црвеног крста у региону у делу који се односи на Службу;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan9-stav3-ali3">
+										<content>
+											<p>рганизује разне облике оспособљавања кадрова за рад у Служби и за предаваче;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan9-stav3-ali4">
+										<content>
+											<p>бавља и друге послове који по свом карактеру спадају у рад Службе као и задатке одређене програмом рада Савета;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan9-stav3-ali5">
+										<content>
+											<p>оординирање рада општинских служби тражења;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan9-stav3-ali6">
+										<content>
+											<p>осредовање при спајању породица из разних општина на свом подручју;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan9-stav3-ali7">
+										<content>
+											<p>осредовање у размени породичних порука на свом подручју.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod2-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="podod2-clan10-stav1">
+								<content>
+									<p>Послове и радне задатке Службе тражења у региону обављају радници радне заједнице општинске организације Црвеног крста која делује у седишту региона, а у организацији Црвеног крста Београда радници Радне заједнице Скупштине Црвеног крста града Београда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod2-clan11">
+						<num>11.</num>
+						<heading>ОПШТИНСКА СЛУЖБА ТРАЖЕЊА</heading>
+						<content>
+							<clause id="podod2-clan11-stav1">
+								<content>
+									<p>При Скупштини општинске организације Црвеног крста оснива се комисија Службе тражења.</p>
+								</content>
+							</clause>
+							<clause id="podod2-clan11-stav2">
+								<content>
+									<p>Задаци Комисије су:</p>
+									<alinea id="podod2-clan11-stav2-ali1">
+										<content>
+											<p>тврђивање програма рада Службе тражења на подручју општине;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan11-stav2-ali2">
+										<content>
+											<p>тврђивање предлога дела плана одбране општинске организације Црвеног крста који се односи на функционисање Службе тражења у рату;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan11-stav2-ali3">
+										<content>
+											<p>оординација у свим фазама развоја Службе тражења са заинтересованим чиниоцима на нивоу општине;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan11-stav2-ali4">
+										<content>
+											<p>нструктивна помоћ у основној организацији Црвеног крста у вези са организацијом Службе у месној заједници;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan11-stav2-ali5">
+										<content>
+											<p>рганизује оспособљавање чланова свих екипа Црвеног крста за извршавање задатака Службе тражења;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan11-stav2-ali6">
+										<content>
+											<p>бављање и других послова који по свом карактеру спадају у рад Службе тражења, као и оних који доприносе њеном оптималном развоју.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod2-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="podod2-clan12-stav1">
+								<content>
+									<p>Служба тражења обавља следеће послове и задатке:</p>
+									<тачка id="podod2-clan12-stav1-tac1">
+										<num>1.</num>
+										<content>
+											<p> Прибавља и даје податке на покренута тражења:</p>
+											<alinea id="podod2-clan12-stav1-tac1-ali1">
+												<content>
+													<p>овређене, оболеле и умрле припаднике оружаних снага СФРЈ када се налазе или су умрли у цивилним болницама;</p>
+												</content>
+											</alinea>
+											<alinea id="podod2-clan12-stav1-tac1-ali2">
+												<content>
+													<p>рађане нестале услед оружаних сукоба када су смештени у другим породицама, домовима или сличним институцијама на подручју њихове општине.</p>
+												</content>
+											</alinea>
+										</content>
+									</тачка>
+									<тачка id="podod2-clan12-stav1-tac2">
+										<num>2.</num>
+										<content>
+											<p> Прослеђује и прима породичне поруке:</p>
+											<alinea id="podod2-clan12-stav1-tac2-ali1">
+												<content>
+													<p>а интернирце, ако су смештени у логоре или затворе на подручју општине;</p>
+												</content>
+											</alinea>
+											<alinea id="podod2-clan12-stav1-tac2-ali2">
+												<content>
+													<p>а наше грађане ако се порука односи на иностранство (у сарадњи са Савезном службом тражења);</p>
+												</content>
+											</alinea>
+											<alinea id="podod2-clan12-stav1-tac2-ali3">
+												<content>
+													<p>а наше грађане, ако се порука односи на привремено запоседнуту територију;</p>
+												</content>
+											</alinea>
+											<alinea id="podod2-clan12-stav1-tac2-ali4">
+												<content>
+													<p>ада су чланови породице у суседним мање удаљеним општинама.</p>
+												</content>
+											</alinea>
+										</content>
+									</тачка>
+									<тачка id="podod2-clan12-stav1-tac3">
+										<num>3.</num>
+										<content>
+											<p> Вођење основне евиденције:</p>
+											<alinea id="podod2-clan12-stav1-tac3-ali1">
+												<content>
+													<p>рађана који се налазе у збеговима на подручју општине;</p>
+												</content>
+											</alinea>
+											<alinea id="podod2-clan12-stav1-tac3-ali2">
+												<content>
+													<p>еце смештене у сабиралиштима; и</p>
+												</content>
+											</alinea>
+											<alinea id="podod2-clan12-stav1-tac3-ali3">
+												<content>
+													<p>сталих категорија грађана у надлежности општине.</p>
+												</content>
+											</alinea>
+										</content>
+									</тачка>
+									<тачка id="podod2-clan12-stav1-tac4">
+										<num>4.</num>
+										<content>
+											<p> Сарађује са савезном, републичком и регионалном службом тражења у вези извршења њихових задатака</p>
+										</content>
+									</тачка>
+									<тачка id="podod2-clan12-stav1-tac5">
+										<num>5.</num>
+										<content>
+											<p> Прати стање службе тражења на подручју општине, шаље скупштини црвеног крста и скупштини општине предлоге за њено побољшање и усмерава њен развој</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod2-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="podod2-clan13-stav1">
+								<content>
+									<p>Послове и радне задатке општинске Службе тражења обављају радници на професионалном раду у општинској организацији Црвеног крста утврђени унутрашњом организацијом и систематизацијом послова и радних задатака или задужени активисти Црвеног крста.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod2-clan14">
+						<num>14.</num>
+						<heading>СЛУЖБА ТРАЖЕЊА У МЕСНОЈ ЗАЈЕДНИЦИ</heading>
+						<content>
+							<clause id="podod2-clan14-stav1">
+								<content>
+									<p>За обављање послова Службе тражења у основној организацији Црвеног крста у оквиру послова и задатака утврђених овим правилником, Скупштина основне организације Црвеног крста у својим правилима именује једног или више повереника, а у већим месним заједницама може се формирати комисија од три или више чланова.</p>
+								</content>
+							</clause>
+							<clause id="podod2-clan14-stav2">
+								<content>
+									<p>Повереник за послове Службе тражења обавља административне послове и координира рад екипа Црвеног крста и осталих активиста који на подручју месне заједнице обављају поверене послове Службе тражења.</p>
+								</content>
+							</clause>
+							<clause id="podod2-clan14-stav3">
+								<content>
+									<p>Послови и задаци Служе тражења су:</p>
+									<alinea id="podod2-clan14-stav3-ali1">
+										<content>
+											<p>способљава чланове екипа Црвеног крста за извршавање задатака Службе тражења;</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan14-stav3-ali2">
+										<content>
+											<p>кључује чланове екипа у прикупљање података на терену, који су од значаја за мирнодопска тражења; и</p>
+										</content>
+									</alinea>
+									<alinea id="podod2-clan14-stav3-ali3">
+										<content>
+											<p>бављање и других послова који се односе на послове Службе тражења.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod2-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="podod2-clan15-stav1">
+								<content>
+									<p>Рад и функција Службе тражења у рату и ратна организација и систематизација послова Службе тражења, као и број и састав извршилаца, утврђују се Планом одбране организација Црвеног крста на свим нивоима, зависно од очекиваног обима, врсте и сложености послова, узимајући при томе у обзир величину подручја за које је Служба основана, број становника и сл. и имајући у виду задатке одговарајућег нивоа Службе тражења у рату утврђене средњорочним програмом развоја Службе тражења Црвеног крста Србије.</p>
+								</content>
+							</clause>
+							<clause id="podod2-clan15-stav2">
+								<content>
+									<p>Ратна организација Службе тражења активираће се и у миру и у случају већих елементарних непогода и других ванредних стања, када се јавља потреба за појачаном активношћу Службе тражења на погођеном подручју.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod2-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="podod2-clan16-stav1">
+								<content>
+									<p>Послове и задатке Службе тражења обављају за то посебно оспособљени радници, чланови екипа Црвеног крста и други активисти.</p>
+								</content>
+							</clause>
+							<clause id="podod2-clan16-stav2">
+								<content>
+									<p>Програм и начин оспособљавања утврђује Савет Службе тражења Скупштине Црвеног крста Србије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod2-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="podod2-clan17-stav1">
+								<content>
+									<p>Средства за извршење послова и задатака из <ref>члана 2. овог</ref> правилника обезбеђују се чланом 2. Закона о вршењу јавних овлашћења и начину обезбеђења средстава Црвеног крста Србије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod2-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="podod2-clan18-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу 8. дана од дана објављивања у „Службеном гласнику СР Србије”.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</subsection>
+		</body>
+	</act>
+</akomaNtoso>

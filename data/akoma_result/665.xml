@@ -1,0 +1,816 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2009/51-59/main"/>
+					<FRBRuri value="/rs/act/2009/51-59"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2009/51-59/srp@/main"/>
+					<FRBRuri value="/rs/act/2009/51-59/srp@"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2009/51-59/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2009/51-59/srp@.akn"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2009-7-14" name="“службени гласник рс" number="51" showAs="“Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="I ДРЖАВНО УРЕЂЕЊЕ" value="i државно уређење"/>
+				<keyword id="grupa" showAs="14. Удружења, политичке странке, цркве, верске заједнице и друге организације" value="14. удружења, политичке странке, цркве, верске заједнице и друге организације"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2009-07-10" id="usvajanje"/>
+				<step date="2009-07-22" id="stupanje_na_snagu"/>
+				<step date="2009-07-23" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник је ступио на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 22. јула 2009. године, а примењује се даном почетка примене Закона о политичким странкама, односно од 23. јула 2009. године, (види <ref>члан 27. </ref>Правилника).</p>
+				</note>
+				<note id="not2">
+					<p>Правилник је ступио на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 22. јула 2009. године, а примењује се даном почетка примене Закона о политичким странкама, односно од 23. јула 2009. године, (види <ref>члан 27. </ref>Правилника).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 22. став 2. </ref>Закона о политичким странкама („<ref id="ref21" href="/rs/act/09/36/srp@">Службени гласник РС”, број 36/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар за државну управу и локалну самоуправу доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о начину уписа и вођења Регистра политичких странака</title>
+			<date>“Службени гласник РС”, број 51 од 14. јула 2009.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОСНОВНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником уређује се начин уписа и вођења Регистра политичких странака (у даљем тексту: Регистар).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Регистар се води у облику књиге тврдог повеза и као јединствена електронска база података.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav2">
+								<content>
+									<p>Регистар се води у непрекидном низу бројева.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Регистар који се води у облику књиге тврдог повеза хоризонталног је формата.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav2">
+								<content>
+									<p>Књига из става 1. овог члана састоји се од 100 регистарских листова израђених на хартији беле боје.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav3">
+								<content>
+									<p>Регистарски лист састоји се од две међусобно повезане нумерисане стране од којих је свака величине 400x300 mm, у који се у вертикалне колоне уписује:</p>
+									<point id="gla1-clan3-stav3-tac1">
+										<num>1)</num>
+										<content>
+											<p> редни број уписа;</p>
+										</content>
+									</point>
+									<point id="gla1-clan3-stav3-tac2">
+										<num>2)</num>
+										<content>
+											<p> назив политичке странке;</p>
+										</content>
+									</point>
+									<point id="gla1-clan3-stav3-tac3">
+										<num>3)</num>
+										<content>
+											<p> скраћени назив политичке странке;</p>
+										</content>
+									</point>
+									<point id="gla1-clan3-stav3-tac4">
+										<num>4)</num>
+										<content>
+											<p> седиште и адреса политичке странке;</p>
+										</content>
+									</point>
+									<point id="gla1-clan3-stav3-tac5">
+										<num>5)</num>
+										<content>
+											<p> датум оснивања политичке странке;</p>
+										</content>
+									</point>
+									<point id="gla1-clan3-stav3-tac6">
+										<num>6)</num>
+										<content>
+											<p> датум доношења програма политичке странке, односно његових измена;</p>
+										</content>
+									</point>
+									<point id="gla1-clan3-stav3-tac7">
+										<num>7)</num>
+										<content>
+											<p> датум доношења статута политичке странке, односно његових измена;</p>
+										</content>
+									</point>
+									<point id="gla1-clan3-stav3-tac8">
+										<num>8)</num>
+										<content>
+											<p> датум подношења пријаве за упис у Регистар;</p>
+										</content>
+									</point>
+									<point id="gla1-clan3-stav3-tac9">
+										<num>9)</num>
+										<content>
+											<p> лично име, пребивалиште и адреса и јединствени матични број грађана заступника политичке странке;</p>
+										</content>
+									</point>
+									<point id="gla1-clan3-stav3-tac10">
+										<num>10)</num>
+										<content>
+											<p> положај политичке странке националне мањине;</p>
+										</content>
+									</point>
+									<point id="gla1-clan3-stav3-tac11">
+										<num>11)</num>
+										<content>
+											<p> чланство у ширим политичким савезима у земљи и иностранству;</p>
+										</content>
+									</point>
+									<point id="gla1-clan3-stav3-tac12">
+										<num>12)</num>
+										<content>
+											<p> број и датум доношења решења о упису у Регистар;</p>
+										</content>
+									</point>
+									<point id="gla1-clan3-stav3-tac13">
+										<num>13)</num>
+										<content>
+											<p> број и датум доношења решења о промени података у Регистру;</p>
+										</content>
+									</point>
+									<point id="gla1-clan3-stav3-tac14">
+										<num>14)</num>
+										<content>
+											<p> забелешка о обнови уписа у Регистар;</p>
+										</content>
+									</point>
+									<point id="gla1-clan3-stav3-tac15">
+										<num>15)</num>
+										<content>
+											<p> забелешка о покретању поступка за забрану рада политичке странке;</p>
+										</content>
+									</point>
+									<point id="gla1-clan3-stav3-tac16">
+										<num>16)</num>
+										<content>
+											<p> престанак и забрана рада политичке странке;</p>
+										</content>
+									</point>
+									<point id="gla1-clan3-stav3-tac17">
+										<num>17)</num>
+										<content>
+											<p> број и датум доношења решења о брисању политичке странке из Регистра;</p>
+										</content>
+									</point>
+									<point id="gla1-clan3-stav3-tac18">
+										<num>18)</num>
+										<content>
+											<p> напомена.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav4">
+								<content>
+									<p>Образац регистарског листа из става 3. овог члана, као прилог 1, одштампан је уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla1-clan4-stav1">
+								<content>
+									<p>На корици и првој ненумерисаној страни књиге из <ref>члана 3. овог</ref> правилника одштампан је назив Регистра: „Регистар политичких странака” и редни број књиге.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan4-stav2">
+								<content>
+									<p>Прва ненумерисана страна књиге оверава се потписом одређеног службеног лица и печатом министарства надлежног за послове управе (у даљем тексту: Министарство).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla1-clan5-stav1">
+								<content>
+									<p>Политичке странке уписују се у Регистар под редним бројем уписа и то почев од броја 1.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan5-stav2">
+								<content>
+									<p>Ако се књига из <ref>члана 3. овог</ref> правилника попуни, уписивање се наставља у другој књизи под редним бројем уписа који следи последњем редном броју уписа из претходне књиге.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla1-clan6-stav1">
+								<content>
+									<p>Уписивање података у Регистар врши се у одговарајуће колоне регистарског листа.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan6-stav2">
+								<content>
+									<p>Подаци у Регистар уписују се читко и не смеју се брисати или преправљати.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla1-clan7-stav1">
+								<content>
+									<p>Грешка која се уочи у току уписа политичке странке у Регистар исправља се тако што се погрешно уписан податак прецрта водоравном линијом и упише тачан податак, уз упис датума исправке и потпис одређеног службеног лица.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan7-stav2">
+								<content>
+									<p>Грешка која се уочи након уписа политичке странке у Регистар исправља се на основу одлуке Министарства, тако што се погрешно уписан податак прецртава водоравном линијом и упише тачан податак, а у рубрику „Напомена” упише број и датум доношења одлуке о исправци грешке у Регистру и одговарајућа забелешка о исправци погрешно уписаног податка.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>УПИС У РЕГИСТАР</heading>
+				<content>
+					<тачка id="gla2-clan7-tac1">
+						<num>1.</num>
+						<content>
+							<p> Упис политичке странке у Регистар</p>
+						</content>
+					</тачка>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>Упис у Регистар врши се на основу пријаве за упис политичке странке у Регистар.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav2">
+								<content>
+									<p>У одговарајуће колоне регистарског листа уписују се подаци о политичкој странци, као и број и датум доношења решења о упису политичке странке у Регистар.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav3">
+								<content>
+									<p>Образац пријаве из става 1. овог члана, као прилог 2, одштампан је уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>Уз пријаву за упис у Регистар се подносе:</p>
+									<point id="gla2-clan9-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> записник са оснивачке скупштине;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> оснивачки акт;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> изјаве оснивача о оснивању политичке странке, које садрже оверу потписа у складу са законом, најмање у броју који је потребан за оснивање политичке странке из <ref>члана 2, </ref>односно <ref>члана 3. </ref>Закона о политичким странкама;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> списак оснивача политичке странке који су дали оверену изјаву о оснивању политичке странке;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> потврде о упису оснивача политичке стране у бирачки списак;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> два примерка програма;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> два примерка статута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> акт о избору заступника политичке странке;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> оверена фотокопија личне карте заступника политичке странке, а ако она не садржи податак о пребивалишту и адреси и потврду о пребивалишту;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> доказ о уплати републичке административне таксе у складу са законом којим се уређују републичке административне таксе.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav2">
+								<content>
+									<p>Подаци који се уписују у образац пријаве за упис у Регистар морају бити идентични подацима садржаним у актима и документима из става 1. овог члана.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav3">
+								<content>
+									<p>Образац изјаве из става 1. тачка 3) овог члана и образац списка из става 1. тачка 4) овог члана, као прилози 3 и 4, одштампани су уз овај правилник и чине његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla2-clan10-stav1">
+								<content>
+									<p>Образац изјаве из <ref>члана 9. став 1. тачка 3</ref>) овог правилника преузима се на интернет страници званичног сајта Министарства, а подаци у образац изјаве уписују се електронским путем, након чега одштампану изјаву потписује оснивач политичке странке – давалац изјаве и потпис оверава у складу са законом.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav2">
+								<content>
+									<p>Оверене изјаве из <ref>члана 9. став 1. тачка 3</ref>) овог правилника прилажу се по азбучном реду презимена оснивача политичке странке.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav3">
+								<content>
+									<p>Потврде о упису оснивача политичке странке у бирачки списак прилажу се по азбучном реду презимена оснивача политичке странке.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav4">
+								<content>
+									<p>Списак из <ref>члана 9. став 1. тачка 4</ref>) овог правилника обавезно се доставља сређен по азбучном реду презимена оснивача политичке странке, израђен у писаном и електронском облику тако да спискови у оба облика буду истоветни, а који у писаном облику потписује лице овлашћено за подношење пријаве за упис политичке странке у Регистар. Подаци у електронском облику достављају се на CD-у као MS Excell документ, у UNICODE кодном распореду. Све колоне форматирати као текст.</p>
+									<тачка id="gla2-clan10-stav4-tac2">
+										<num>2.</num>
+										<content>
+											<p> Упис промене података у Регистру</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla2-clan11-stav1">
+								<content>
+									<p>Упис промене података у Регистру врши се на основу решења о упису промене података у Регистру, тако што се у одговарајућу колону регистарског листа уписује број и датум доношења решења о промени података у Регистру и податак који се мења.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav2">
+								<content>
+									<p>Истовремено, у одговарајућу колону регистарског листа непосредно испод основног уписа податка који се мења, односно последњег уписа промене тог податка, који се прецртава косом црвеном линијом, уписује се нов податак.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla2-clan12-stav1">
+								<content>
+									<p>За упис промене података у Регистар подноси се пријава за промену података у Регистру.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla2-clan13-stav1">
+								<content>
+									<p>Уз пријаву за промену података у Регистру се подноси:</p>
+									<point id="gla2-clan13-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> записник са седнице надлежног органа за доношење одлуке о промени података, у изворнику односно овереном препису;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> одлука о промени података;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> доказ о уплати републичке административне таксе у складу са законом којим се уређују републичке административне таксе.</p>
+											<тачка id="gla2-clan13-stav1-tac3">
+												<num>3.</num>
+												<content>
+													<p> Упис податка о обнови уписа у Регистар</p>
+												</content>
+											</тачка>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla2-clan14-stav1">
+								<content>
+									<p>Обнова уписа у Регистар врши се на основу решења о обнови уписа у Регистар, тако што се у одговарајућу колону регистарског листа уписује забелешка о обнови уписа и број и датум доношења решења о обнови уписа у Регистар.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla2-clan15-stav1">
+								<content>
+									<p>За обнову уписа у Регистар, осим у случају из <ref>члана 30. став 5. </ref>Закона о политичким странкама, подноси се пријава за обнову уписа у Регистар.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="gla2-clan16-stav1">
+								<content>
+									<p>Уз пријаву за обнову уписа у Регистар се подносе:</p>
+									<point id="gla2-clan16-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> изјаве чланова политичке странке о чланству у политичкој странци, које садрже оверу потписа у складу са законом, најмање у броју који је потребан за оснивање политичке странке уписане у Регистар;</p>
+										</content>
+									</point>
+									<point id="gla2-clan16-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> списак чланова политичке странке који су дали оверену изјаву о чланству у политичкој странци;</p>
+										</content>
+									</point>
+									<point id="gla2-clan16-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> доказ о уплати републичке административне таксе у складу са законом којим се уређују републичке административне таксе.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan16-stav2">
+								<content>
+									<p>Образац изјаве из става 1. тачка 1) овог члана и образац списка из става 1. тачка 2) овог члана, као прилози 5 и 6, одштампани су уз овај правилник и чине његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="gla2-clan17-stav1">
+								<content>
+									<p>Образац изјаве из <ref>члана 16. став 1. тачка 1</ref>) овог правилника преузима се на интернет страници званичног сајта Министарства, а подаци у образац изјаве уписују се електронским путем, након чега одштампану изјаву потписује члан политичке странке – давалац изјаве и потпис оверава у складу са законом.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan17-stav2">
+								<content>
+									<p>Оверене изјаве из <ref>члана 16. став 1. тачка 1</ref>) овог правилника прилажу се по азбучном реду презимена чланова политичке странке.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan17-stav3">
+								<content>
+									<p>Списак из <ref>члана 16. став 1. тачка 2</ref>) овог правилника обавезно се доставља сређен по азбучном реду презимена чланова политичке странке, израђен у писаном и електронском облику тако да спискови у оба облика буду истоветни, а који у писаном облику потписује заступник политичке странке. Подаци у електронском облику достављају се на CD-у као MS Excell документ, у UNICODE кодном распореду. Све колоне форматирати као текст.</p>
+									<тачка id="gla2-clan17-stav3-tac4">
+										<num>4.</num>
+										<content>
+											<p> Брисање из Регистра</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="gla2-clan18-stav1">
+								<content>
+									<p>Брисање политичке странке из Регистра врши се на основу решења о брисању политичке странке из Регистра, тако што се у одговарајућу колону регистарског листа уписује број и датум доношења решења о брисању политичке странке из Регистра.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan18-stav2">
+								<content>
+									<p>Истовремено, регистарски лист који се односи на ту политичку странку, осим колона „Број и датум доношења решења о брисању политичке странке из Регистра” и „Напомена”, прецртава се двема црвеним паралелним косим линијама.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="gla2-clan19-stav1">
+								<content>
+									<p>За брисање политичке странке из Регистра, осим у случају из <ref>члана 35. став 3. тачка 3</ref>) Закона о политичким странкама, подноси се пријава за брисање политичке странке из Регистра.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla2-clan20-stav1">
+								<content>
+									<p>Уз пријаву за брисање политичке странке из Регистра се подносе:</p>
+									<point id="gla2-clan20-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> докази на основу којих се утврђују чињенице о престанку рада политичке странке или спајању политичке странке са другом или другим политичким странкама;</p>
+										</content>
+									</point>
+									<point id="gla2-clan20-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> доказ о уплати републичке административне таксе у складу са законом којим се уређују републичке административне таксе.</p>
+										</content>
+									</point>
+									<тачка id="gla2-clan20-stav1-tac5">
+										<num>5.</num>
+										<content>
+											<p> Упис података о покретању поступка за забрану рада политичке странке и забрани рада политичке странке</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan21">
+						<num>21.</num>
+						<content>
+							<clause id="gla2-clan21-stav1">
+								<content>
+									<p>Покретање поступка за забрану рада политичке странке уписује се у Регистар, тако што се у одговарајућу колону регистарског листа уписује забелешка о покретању поступка за забрану рада политичке странке, датум покретања поступка за забрану рада политичке странке и подносилац предлога за забрану рада политичке странке.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan22">
+						<num>22.</num>
+						<content>
+							<clause id="gla2-clan22-stav1">
+								<content>
+									<p>Забрана рада политичке странке уписује се у Регистар, тако што се у одговарајућу колону регистарског листа уписује број и датум доношења одлуке Уставног суда о забрани рада политичке странке и датум достављања одлуке Уставног суда Министарству.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>УПИС ПОЛИТИЧКЕ ОРГАНИЗАЦИЈЕ У РЕГИСТАР</heading>
+				<content>
+					<article id="gla3-clan23">
+						<num>23.</num>
+						<content>
+							<clause id="gla3-clan23-stav1">
+								<content>
+									<p>Упис у Регистар политичке организације уписане у Регистар политичких организација према Закону о политичким организацијама („<ref id="ref22" href="/rs/act/90/37/srp@">Службени гласник СРС”, број 37/90</ref> и „<ref id="ref23" href="/rs/act/92/30/srp@">Службени гласник РС”, бр. 30/92</ref> – др. закон, 53/93, 67/93, 48/94 и 101/05 – др. закон), као и оне која је уписана у Регистар удружења, друштвених организација и политичких организација према Закону о удруживању грађана у удружења, друштвене организације и политичке организације које се оснивају за територију Социјалистичке Федеративне Републике Југославије („<ref id="ref24" href="/rs/act/90/42/srp@">Службени лист СФРЈ”, број 42/90</ref> и „<ref id="ref25" href="/rs/act/93/16/srp@">Службени лист СРЈ”, бр. 16/93, 31/93, 41/93, 50/93, 24/94, 28/96</ref> и 73/00 – др. закон) врши се на основу пријаве за упис у Регистар.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan23-stav2">
+								<content>
+									<p>У одговарајуће колоне регистарског листа уписују се подаци о политичкој странци, као и број и датум доношења решења о упису политичке странке у Регистар.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan23-stav3">
+								<content>
+									<p>Образац пријаве за упис политичке странке из става 1. овог члана, као прилог 7, одштампан је уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan24">
+						<num>24.</num>
+						<content>
+							<clause id="gla3-clan24-stav1">
+								<content>
+									<p>Уз пријаву из <ref>члана 23. овог</ref> правилника се подносе:</p>
+									<point id="gla3-clan24-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> два примерка програма;</p>
+										</content>
+									</point>
+									<point id="gla3-clan24-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> два примерка статута;</p>
+										</content>
+									</point>
+									<point id="gla3-clan24-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> акт о избору, односно именовању заступника политичке странке;</p>
+										</content>
+									</point>
+									<point id="gla3-clan24-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> изјаве чланова политичке странке о чланству у политичкој странци које садрже оверу потписа, најмање у броју који је потребан за оснивање политичке странке сагласно чл. 8. и 9. Закона о политичким странкама;</p>
+										</content>
+									</point>
+									<point id="gla3-clan24-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> списак чланова политичке странке који су дали оверену изјаву о чланству у политичкој странци;</p>
+										</content>
+									</point>
+									<point id="gla3-clan24-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> друге акте донете у поступку усклађивања.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan24-stav2">
+								<content>
+									<p>Подаци који се уписују у образац пријаве из <ref>члана 23. овог</ref> правилника морају бити идентични подацима садржаним у актима и документима из става 1. овог члана.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan24-stav3">
+								<content>
+									<p>Образац изјаве из става 1. тачка 4) овог члана и образац списка из става 1. тачка 5) овог члана идентични су обрасцу изјаве и обрасцу списка из <ref>члана 16. став 2. овог</ref> правилника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan25">
+						<num>25.</num>
+						<content>
+							<clause id="gla3-clan25-stav1">
+								<content>
+									<p>Образац изјаве из <ref>члана 24. став 1. тачка 4</ref>) овог правилника преузима се на интернет страници званичног сајта Министарства, а подаци у образац изјаве уписују се електронским путем, након чега одштампану изјаву потписује члан политичке странке – давалац изјаве и потпис оверава у складу са законом.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan25-stav2">
+								<content>
+									<p>Оверене изјаве из <ref>члана 24. став 1. тачка 4</ref>) овог правилника прилажу се по азбучном реду презимена чланова политичке странке.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan25-stav3">
+								<content>
+									<p>Списак из <ref>члана 24. став 1. тачка 5</ref>) овог правилника обавезно се доставља сређен по азбучном реду презимена чланова политичке странке, израђен у писаном и електронском облику тако да спискови у оба облика буду истоветни, а који у писаном облику потписује заступник политичке странке. Подаци у електронском облику достављају се на ЦД-у као МС Еxцелл документ, у УНИЦОДЕ кодном распореду. Све колоне форматирати као текст.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla4-clan26">
+						<num>26.</num>
+						<content>
+							<clause id="gla4-clan26-stav1">
+								<content>
+									<p>Даном почетка примене овог правилника престаје да важи Правилник о садржају и начину вођења Регистра политичких организација („<ref id="ref26" href="/rs/act/90/39/srp@">Службени гласник СРС”, број 39/90</ref>), а Правилник о начину вођења Регистра удружења, друштвених организација и политичких организација које се оснивају за територију СФРЈ и образац за вођење тог регистра („<ref id="ref27" href="/rs/act/90/45/srp@">Службени лист СФРЈ”, број 45/90</ref>) престаје да се примењује на политичке странке.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan27">
+						<num>27.</num>
+						<content>
+							<clause id="gla4-clan27-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, а примењује се даном почетка примене Закона о политичким странкама.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan27-stav2">
+								<content>
+									<p>Број 110-00-70/2009-08</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan27-stav3">
+								<content>
+									<p>У Београду, 10. јула 2009. године</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan27-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan27-stav5">
+								<content>
+									<p>Милан Марковић, с.р.</p>
+								</content>
+							</clause>
+							<став id="gla4-clan27-stav6">
+								<img height="784" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/4f962852-e319-46af-99f6-d8edee9decc0.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=374608&amp;regactid=374608" width="624"/>
+								<content/>
+							</став>
+							<став id="gla4-clan27-stav7">
+								<img height="864" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/542fbc2a-87ec-4c28-800d-3c21b4f21ea5.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=374608&amp;regactid=374608" width="592"/>
+								<content/>
+							</став>
+							<став id="gla4-clan27-stav8">
+								<img height="863" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/ad45c891-d35c-4191-bf56-622c198905aa.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=374608&amp;regactid=374608" width="598"/>
+								<content/>
+							</став>
+							<став id="gla4-clan27-stav9">
+								<img height="535" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/78ccd796-6972-44a6-ab60-48d6137d461b.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=374608&amp;regactid=374608" width="624"/>
+								<content/>
+							</став>
+							<став id="gla4-clan27-stav10">
+								<img height="864" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/2f1fa153-74f9-4494-b4f9-5f841040623b.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=374608&amp;regactid=374608" width="596"/>
+								<content/>
+							</став>
+							<став id="gla4-clan27-stav11">
+								<img height="527" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/58ec43fa-1d1e-49ce-9b5c-6cfeaa9b8bf5.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=374608&amp;regactid=374608" width="623"/>
+								<content/>
+							</став>
+							<став id="gla4-clan27-stav12">
+								<img height="863" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/ce1feff8-1451-4602-9051-0d0bb2b1abfb.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=374608&amp;regactid=374608" width="565"/>
+								<content/>
+							</став>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

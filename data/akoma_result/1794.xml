@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2001/61-4/main"/>
+					<FRBRuri value="/rs/act/2001/61-4"/>
+					<FRBRdate date="2001" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2002/16-31/srp@/main"/>
+					<FRBRuri value="/rs/act/2002/16-31/srp@"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2002/16-31/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2002/16-31/srp@.akn"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2001-11-9" name="службени лист срј“" number="61" showAs="Службени лист СРЈ“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="V МОНЕТАРНИ СИСТЕМ, ФИНАНСИЈСКЕ ОРГАНИЗАЦИЈЕ И ФИНАНСИЈСКО ПОСЛОВАЊЕ" value="v монетарни систем, финансијске организације и финансијско пословање"/>
+				<keyword id="grupa" showAs="6. Издавање, основна обележја и пуштање у оптицај новчаница, кованог новца и пригодног кованог новца" value="6. издавање, основна обележја и пуштање у оптицај новчаница, кованог новца и пригодног кованог новца"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2001-11-07" id="usvajanje"/>
+				<step date="2001-11-10" id="stupanje_na_snagu"/>
+				<step date="2001-11-10" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="61/2001-4" id="e1" type="generation"/>
+				<eventRef date="15/2002-3" id="e2" type="amendment"/>
+				<eventRef date="16/2002-31" id="e3" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу члана 16а. став 2. и <ref>члана 50. став 3. </ref>Закона о Народној банци Југославије (“<ref id="ref1" href="/rs/act/93/32/srp@">Службени лист СРЈ”, бр. 32/93, 41/94, 61/95, 29/97, 44/99</ref> и 73/2000),</p>
+			<p>гувернер Народне банке Југославије доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о повлачењу из оптицаја новчаница од 5, 10, 20, 50 и 100 нових динара</title>
+			<date>„Службени лист СРЈ“, бр. 61 од 9. новембра 2001, 15 од 22. марта 2002, 16 од 29. марта 2002.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Народна банка Југославије ће од 15. новембра до 31. децембра 2001. године повући из оптицаја новчанице од 5, 10 и 20 нових динара, издања 3. марта 1994. године, од 50 нових динара, издања јуна 1996. године, и од 100 нових динара, издања октобра 1996. године.</heading>
+				<content>
+					<clause id="od1-stav1">
+						<content>
+							<p>Новчанице из става 1. ове тачке престају да буду законско средство плаћања 1. јануара 2002. године.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Главне републичке филијале и филијале Народне банке Југославије, филијале Завода за обрачун и плаћања, поште и банке које благајничко пословање врше на подручју СР Југославије, новчанице из тачке 1. став 1. ове одлуке замењиваће за новчанице и ковани новац у оптицају, и то за новчанице од 20, 50 и 100 динара, издања 2000. године, и од 10, 200 и 1000 динара, издања 2001. године, као и за ковани новац апоена од 1, 2 и 5 динара, издања 2000. године – до 31. децембра 2001. године.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>До рока из става 1. ове тачке, сва готовинска плаћања могу се обављати и новчаницама из тачке 1. став 1. ове одлуке.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Правна лица која имају седиште на подручју СР Југославије дужна су да новчанице и ковани новац из тачке 1. став 1. ове одлуке замењују искључиво у филијалама Завода за обрачун и плаћања код којих имају рачун – до висине благајничког максимума.</heading>
+				<content/>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> После истека рока из тачке 1. став 1. ове одлуке, новчанице из тог става накнадно ће се замењивати до 1. јула* 2002. године – у Народној банци Југославије, у главним републичким филијалама и филијалама Народне банке Југославије и у филијалама Завода за обрачун и плаћања, под условима из ове одлуке.</heading>
+				<content>
+					<clause id="od4-stav1">
+						<content>
+							<p>Брисани су ст. 2 и 3 (види тачку 1. Одлуке – 16/2002-31)</p>
+						</content>
+					</clause>
+					<clause id="od4-stav2">
+						<content>
+							<p>*<ref id="ref2" href="/rs/act/2002/15/srp@">Службени лист СЦГ, број 15/2002</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> Поште и банке које врше замену новчаница из тачке 1. став 1. ове одлуке дужне су да до 15. јануара 2002. године замењене новчанице доставе филијалама Завода за обрачун и плаћања код којих имају пословне рачуне.</heading>
+				<content>
+					<clause id="od5-stav1">
+						<content>
+							<p>Филијале Завода за обрачун и плаћања дужне су да до 31. Јануара 2002. године замењене новчанице и новчанице које приме од пошта и банака доставе надлежној главној републичкој филијали, односно филијали Народне банке Југославије, заједно са извештајем о укупној замени – по апоенској структури.</p>
+						</content>
+					</clause>
+					<clause id="od5-stav2">
+						<content>
+							<p>Главне републичке филијале и филијале Народне банке Југославије дужне су да до 15. јула* 2002. године Народној банци Југославије доставе податке о извршеној замени новчаница из тачке 1. став 1. ове одлуке.</p>
+						</content>
+					</clause>
+					<clause id="od5-stav3">
+						<content>
+							<p>*<ref id="ref3" href="/rs/act/2002/15/srp@">Службени лист СЦГ, број 15/2002</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od6">
+				<num>6.</num>
+				<heading> Новчанице које се заменом повуку из оптицаја, главне републичке филијале и филијале Народне банке Југославије дужне су да прераде у складу са упутствима којима је уређено трезорско пословање у Народној банци Југославије.</heading>
+				<content/>
+			</section>
+			<section id="od7">
+				<num>7.</num>
+				<heading> Ова одлука ступа на снагу наредног дана од дана објављивања у “Службеном листу СРЈ”.</heading>
+				<content>
+					<clause id="od7-stav1">
+						<content>
+							<p>О. бр. 72</p>
+						</content>
+					</clause>
+					<section id="od7">
+						<num>7.</num>
+						<heading> новембра 2001. године</heading>
+						<content>
+							<clause id="od7-stav1">
+								<content>
+									<p>Београд</p>
+								</content>
+							</clause>
+							<clause id="od7-stav2">
+								<content>
+									<p>Гувернер</p>
+								</content>
+							</clause>
+							<clause id="od7-stav3">
+								<content>
+									<p>Народне банке Југославије</p>
+								</content>
+							</clause>
+							<clause id="od7-stav4">
+								<content>
+									<p>Млађан Динкић, с. р.</p>
+								</content>
+							</clause>
+							<clause id="od7-stav5">
+								<content>
+									<p>ОДРЕДБЕ КОЈЕ НИСУ УНЕТЕ У „ПРЕЧИШЋЕН ТЕКСТ“ ОДЛУКЕ</p>
+								</content>
+							</clause>
+							<clause id="od7-stav6">
+								<content>
+									<p>Одлука о изменама одлуке о повлачењу из оптицаја новчаница од 5, 10, 20, 50 и 100 нових динара: „<ref id="ref4" href="/rs/act/2002/16/srp@">Службени лист СРЈ“, број 16/2002</ref>-31</p>
+								</content>
+							</clause>
+						</content>
+					</section>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> За замену новчаница у року из тачке 2. ове одлуке наплаћиваће се провизија од 5%.</heading>
+				<content/>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Ова одлука ступа на снагу наредног дана од дана објављивања у “Службеном листу СРЈ”.</heading>
+				<content/>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

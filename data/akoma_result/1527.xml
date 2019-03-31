@@ -1,0 +1,787 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2005/63-8/main"/>
+					<FRBRuri value="/rs/act/2005/63-8"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2005/63-8/srp@/main"/>
+					<FRBRuri value="/rs/act/2005/63-8/srp@"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2005/63-8/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2005/63-8/srp@.akn"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2005-7-18" name="службени гласник рс" number="63" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="VI СВОЈИНСКИ И ОБЛИГАЦИОНИ, ПОРОДИЧНИ И БРАЧНИ ОДНОСИ" value="vi својински и облигациони, породични и брачни односи"/>
+				<keyword id="grupa" showAs="15. Брак, породица и спречавање насиља у породици" value="15. брак, породица и спречавање насиља у породици"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2005-07-14" id="usvajanje"/>
+				<step date="2005-07-26" id="stupanje_na_snagu"/>
+				<step date="2005-07-26" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 316. став 4. </ref>Породичног закона („<ref id="ref1" href="/rs/act/05/18/srp@">Службени гласник РС”, број 18/05</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар рада, запошљавања и социјалне политике доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о начину вођења Јединственог личног регистра усвојења</title>
+			<date>„Службени гласник РС”, број 63 од 18. јула 2005.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content/>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>Овим правилником уређује се начин вођења Јединственог личног регистра усвојења</heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Подаци које садржи Јединствени лични регистар усвојења користе се за јединствено евиден-тирање усвојитеља и усвојеника.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Јединствени лични регистар усвојења, у складу са законом, води министарство надлежно запородичну заштиту. Јединствени лични регистар усвојења користии орган старатељства при избору усвојеника иусвојитеља.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Јединствени лични регистар усвојења садржи евиденцију података о:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> деци подобној за усвојење (општа подобност усвојеника);</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> усвојитељима (општа подобност усвојитеља);</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> усвојитељима – страним држављанима (општа подобност усвојитеља).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>У Јединственом личном регистру усвојења, евиденција података из става 1. овог члана садржи рубрике о подацима из чл. 5, 6. и 7. овог правилника.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>У евиденцију о детету за које је процењено да је у његовом најбољем интересу да буде усвојено (општа подобност усвојеника), уписују се следећи подаци:</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>А. Општи подаци о детету:</p>
+							<point id="clan5-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> име и презиме;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> пол;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> датум и место рођења;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> јединствени матични број грађана;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> држављанство;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac6">
+								<num>6)</num>
+								<content>
+									<p> пребивалиште, односно боравиште;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac7">
+								<num>7)</num>
+								<content>
+									<p> националност;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac8">
+								<num>8)</num>
+								<content>
+									<p> породични статус детета;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac9">
+								<num>9)</num>
+								<content>
+									<p> старатељство над дететом;</p>
+								</content>
+							</point>
+							<point id="clan5-stav2-tac10">
+								<num>10)</num>
+								<content>
+									<p> здравствени статус детета (опште здравствено стање, физички или чулни недостаци, психо-физички развој, интелектуални развој, моторни развој, социјални развој, емоционални развој, развој говора, прогноза психо-физичког развоја).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>Б. Подаци о родитељима детета:</p>
+							<point id="clan5-stav3-tac1">
+								<num>1)</num>
+								<content>
+									<p> име и презиме;</p>
+								</content>
+							</point>
+							<point id="clan5-stav3-tac2">
+								<num>2)</num>
+								<content>
+									<p> датум и место рођења;</p>
+								</content>
+							</point>
+							<point id="clan5-stav3-tac3">
+								<num>3)</num>
+								<content>
+									<p> јединствени матични број грађана;</p>
+								</content>
+							</point>
+							<point id="clan5-stav3-tac4">
+								<num>4)</num>
+								<content>
+									<p> пребивалиште, односно боравиште;</p>
+								</content>
+							</point>
+							<point id="clan5-stav3-tac5">
+								<num>5)</num>
+								<content>
+									<p> националност;</p>
+								</content>
+							</point>
+							<point id="clan5-stav3-tac6">
+								<num>6)</num>
+								<content>
+									<p> држављанство;</p>
+								</content>
+							</point>
+							<point id="clan5-stav3-tac7">
+								<num>7)</num>
+								<content>
+									<p> школска спрема;</p>
+								</content>
+							</point>
+							<point id="clan5-stav3-tac8">
+								<num>8)</num>
+								<content>
+									<p> запосленост;</p>
+								</content>
+							</point>
+							<point id="clan5-stav3-tac9">
+								<num>9)</num>
+								<content>
+									<p> здравствено стање;</p>
+								</content>
+							</point>
+							<point id="clan5-stav3-tac10">
+								<num>10)</num>
+								<content>
+									<p> социјалне дисфункције.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>В. Подаци у одлуци о општој подобности детета да буде усвојено:</p>
+							<point id="clan5-stav4-tac1">
+								<num>1)</num>
+								<content>
+									<p> датум сачињавања налаза и стручног мишљења психолога;</p>
+								</content>
+							</point>
+							<point id="clan5-stav4-tac2">
+								<num>2)</num>
+								<content>
+									<p> датум сачињавања налаза и стручног мишљења педагога;</p>
+								</content>
+							</point>
+							<point id="clan5-stav4-tac3">
+								<num>3)</num>
+								<content>
+									<p> датум сачињавања налаза и стручног мишљења социјалног радника;</p>
+								</content>
+							</point>
+							<point id="clan5-stav4-tac4">
+								<num>4)</num>
+								<content>
+									<p> датум сачињавања налаза и стручног мишљења правника;</p>
+								</content>
+							</point>
+							<point id="clan5-stav4-tac5">
+								<num>5)</num>
+								<content>
+									<p> датум сачињавања налаза и стручног мишљења лекара;</p>
+								</content>
+							</point>
+							<point id="clan5-stav4-tac6">
+								<num>6)</num>
+								<content>
+									<p> налаз и стручно мишљење других овлашћених установа;</p>
+								</content>
+							</point>
+							<point id="clan5-stav4-tac7">
+								<num>7)</num>
+								<content>
+									<p> број и датум доношења одлуке о општој подобности детета да буде усвојено.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan5-stav5">
+						<content>
+							<p>Г. Подаци о органу старатељства:</p>
+							<point id="clan5-stav5-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив;</p>
+								</content>
+							</point>
+							<point id="clan5-stav5-tac2">
+								<num>2)</num>
+								<content>
+									<p> адреса (место, улица и број);</p>
+								</content>
+							</point>
+							<point id="clan5-stav5-tac3">
+								<num>3)</num>
+								<content>
+									<p> број телефона;</p>
+								</content>
+							</point>
+							<point id="clan5-stav5-tac4">
+								<num>4)</num>
+								<content>
+									<p> е-маил адреса:</p>
+								</content>
+							</point>
+							<point id="clan5-stav5-tac5">
+								<num>5)</num>
+								<content>
+									<p> број упитника;</p>
+								</content>
+							</point>
+							<point id="clan5-stav5-tac6">
+								<num>6)</num>
+								<content>
+									<p> датум састављања упитника;</p>
+								</content>
+							</point>
+							<point id="clan5-stav5-tac7">
+								<num>7)</num>
+								<content>
+									<p> потпис овлашћеног лица;</p>
+								</content>
+							</point>
+							<point id="clan5-stav5-tac8">
+								<num>8)</num>
+								<content>
+									<p> печат органа старатељства.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan5-stav6">
+						<content>
+							<p>Подаци из става 1. овог члана уписују се у Упитник о детету за усвојење, који се води на Обрасцу УСВ-1, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>У евиденцију о усвојитељу (општа подобност усвојитеља), уписују се следећи подаци:</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>А. Општи подаци:</p>
+							<point id="clan6-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> име и презиме;</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> датум и место рођења;</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> јединствени матични број грађана;</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> пребивалиште, односно боравиште;</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> националност;</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac6">
+								<num>6)</num>
+								<content>
+									<p> држављанство;</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac7">
+								<num>7)</num>
+								<content>
+									<p> школска спрема;</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac8">
+								<num>8)</num>
+								<content>
+									<p> занимање;</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac9">
+								<num>9)</num>
+								<content>
+									<p> запосленост;</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac10">
+								<num>10)</num>
+								<content>
+									<p> здравствено стање;</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac11">
+								<num>11)</num>
+								<content>
+									<p> брачни статус;</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac12">
+								<num>12)</num>
+								<content>
+									<p> стамбени статус;</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac13">
+								<num>13)</num>
+								<content>
+									<p> материјални статус.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>Б. Мотивација за усвојење детета:</p>
+							<point id="clan6-stav3-tac1">
+								<num>1)</num>
+								<content>
+									<p> број деце;</p>
+								</content>
+							</point>
+							<point id="clan6-stav3-tac2">
+								<num>2)</num>
+								<content>
+									<p> пол детета;</p>
+								</content>
+							</point>
+							<point id="clan6-stav3-tac3">
+								<num>3)</num>
+								<content>
+									<p> узраст детета;</p>
+								</content>
+							</point>
+							<point id="clan6-stav3-tac4">
+								<num>4)</num>
+								<content>
+									<p> националност;</p>
+								</content>
+							</point>
+							<point id="clan6-stav3-tac5">
+								<num>5)</num>
+								<content>
+									<p> здравствено стање.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan6-stav4">
+						<content>
+							<p>В. Подаци о органу старатељства:</p>
+							<point id="clan6-stav4-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив;</p>
+								</content>
+							</point>
+							<point id="clan6-stav4-tac2">
+								<num>2)</num>
+								<content>
+									<p> адреса (место, улица и број);</p>
+								</content>
+							</point>
+							<point id="clan6-stav4-tac3">
+								<num>3)</num>
+								<content>
+									<p> број телефона;</p>
+								</content>
+							</point>
+							<point id="clan6-stav4-tac4">
+								<num>4)</num>
+								<content>
+									<p> е-маил адреса;</p>
+								</content>
+							</point>
+							<point id="clan6-stav4-tac5">
+								<num>5)</num>
+								<content>
+									<p> број упитника;</p>
+								</content>
+							</point>
+							<point id="clan6-stav4-tac6">
+								<num>6)</num>
+								<content>
+									<p> датум састављања упитника;</p>
+								</content>
+							</point>
+							<point id="clan6-stav4-tac7">
+								<num>7)</num>
+								<content>
+									<p> потпис овлашћеног лица;</p>
+								</content>
+							</point>
+							<point id="clan6-stav4-tac8">
+								<num>8)</num>
+								<content>
+									<p> печат органа старатељства.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan6-stav5">
+						<content>
+							<p>Подаци из става 1. овог члана уписују се у Упитник о усвојитељима, који се води на Обрасцу УСВ-2, који је одштампан уз овај правилники чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>У евиденцију о усвојитељима – страним држављанима</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>(општа подобност усвојитеља) уписују</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>се следећи подаци:</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>А. Општи подаци:</p>
+							<point id="clan7-stav4-tac1">
+								<num>1)</num>
+								<content>
+									<p> име и презиме;</p>
+								</content>
+							</point>
+							<point id="clan7-stav4-tac2">
+								<num>2)</num>
+								<content>
+									<p> датум и место рођења;</p>
+								</content>
+							</point>
+							<point id="clan7-stav4-tac3">
+								<num>3)</num>
+								<content>
+									<p> држављанство;</p>
+								</content>
+							</point>
+							<point id="clan7-stav4-tac4">
+								<num>4)</num>
+								<content>
+									<p> пребивалиште, односно боравиште;</p>
+								</content>
+							</point>
+							<point id="clan7-stav4-tac5">
+								<num>5)</num>
+								<content>
+									<p> држава у којој живе;</p>
+								</content>
+							</point>
+							<point id="clan7-stav4-tac6">
+								<num>6)</num>
+								<content>
+									<p> школска спрема;</p>
+								</content>
+							</point>
+							<point id="clan7-stav4-tac7">
+								<num>7)</num>
+								<content>
+									<p> занимање;</p>
+								</content>
+							</point>
+							<point id="clan7-stav4-tac8">
+								<num>8)</num>
+								<content>
+									<p> запосленост;</p>
+								</content>
+							</point>
+							<point id="clan7-stav4-tac9">
+								<num>9)</num>
+								<content>
+									<p> здравствено стање;</p>
+								</content>
+							</point>
+							<point id="clan7-stav4-tac10">
+								<num>10)</num>
+								<content>
+									<p> брачни статус;</p>
+								</content>
+							</point>
+							<point id="clan7-stav4-tac11">
+								<num>11)</num>
+								<content>
+									<p> стамбени статус;</p>
+								</content>
+							</point>
+							<point id="clan7-stav4-tac12">
+								<num>12)</num>
+								<content>
+									<p> материјални статус;</p>
+								</content>
+							</point>
+							<point id="clan7-stav4-tac13">
+								<num>13)</num>
+								<content>
+									<p> важење дозволе за усвојење.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan7-stav5">
+						<content>
+							<p>Б. Мотивација за усвојење детета:</p>
+							<point id="clan7-stav5-tac1">
+								<num>1)</num>
+								<content>
+									<p> број деце;</p>
+								</content>
+							</point>
+							<point id="clan7-stav5-tac2">
+								<num>2)</num>
+								<content>
+									<p> пол детета;</p>
+								</content>
+							</point>
+							<point id="clan7-stav5-tac3">
+								<num>3)</num>
+								<content>
+									<p> узраст детета;</p>
+								</content>
+							</point>
+							<point id="clan7-stav5-tac4">
+								<num>4)</num>
+								<content>
+									<p> националност;</p>
+								</content>
+							</point>
+							<point id="clan7-stav5-tac5">
+								<num>5)</num>
+								<content>
+									<p> здравствено стање детета.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan7-stav6">
+						<content>
+							<p>Подаци из става 1. овог члана уписују се у Упитник о усвојитељима – страним држављанима, који се води на Обрасцу УСВ-3, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Упитник УСВ-1 попуњава надлежни орган старатељства према пребивалишту, односно боравиш ту детета одмах по доношењу одлуке о утврђивању опште подобности детета за усвојење и доставља га министарству надлежном за породичну заштиту.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Министарство надлежно за породичну заштиту уноси податке из упитника УСВ-1 у Јединствени лични регистар усвојења.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Упитник УСВ-2 попуњава надлежни орган старатељства према пребивалишту, односно боравишту усвојитеља одмах по доношењу одлуке о утврђивању опште подобности усвојитеља за усвојење и доставља га министарству надлежном за породичну заштиту.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Министарство надлежно за породичну заштиту уноси податке из упитника УСВ-2 у Јединствени лични регистар усвојења.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Упитник УСВ-3 попуњава министарство надлежно за породичну заштиту на основу документације коју подносе усвојитељи – страни држављани, и уноси податке у Јединствени лични регистар усвојења.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Орган старатељства дужан је да у року од седам дана од дана заснивања усвојења у писменој форми о томе обавести министарство надлежно за породичну заштиту.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Министарство надлежно за породичну заштиту, на основу обавештења из става 1. овог члана, уноси податке о насталим променама у Јединствени лични регистар усвојења.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav2">
+						<content>
+							<p>Број 110-00-525/4-2005-14</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav3">
+						<content>
+							<p>У Београду, 14. јула 2005. године</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav5">
+						<content>
+							<p>Слободан Лаловић, с.р.</p>
+						</content>
+					</clause>
+					<став id="clan12-stav6">
+						<img height="657" id="Picture 1" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/be2d9d7e-8432-44cd-b45d-bfe5d2e2317f.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=328481&amp;regactid=328481" width="605"/>
+						<content/>
+					</став>
+					<став id="clan12-stav7">
+						<img height="809" id="Picture 2" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/19ee0427-7fae-4253-a301-1fdc466f50fa.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=328481&amp;regactid=328481" width="535"/>
+						<content/>
+					</став>
+					<став id="clan12-stav8">
+						<img height="804" id="Picture 3" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/63cd2c49-52e5-4607-b5a9-9461a441308b.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=328481&amp;regactid=328481" width="547"/>
+						<content/>
+					</став>
+					<став id="clan12-stav9">
+						<img height="138" id="Picture 4" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/c12846cf-050b-4a75-8e1c-58880383f34b.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=328481&amp;regactid=328481" width="296"/>
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

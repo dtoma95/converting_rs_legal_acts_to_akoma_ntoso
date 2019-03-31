@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2007/113-54/main"/>
+					<FRBRuri value="/rs/act/2007/113-54"/>
+					<FRBRdate date="2007" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2007/113-54/srp@/main"/>
+					<FRBRuri value="/rs/act/2007/113-54/srp@"/>
+					<FRBRdate date="2007" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2007/113-54/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2007/113-54/srp@.akn"/>
+					<FRBRdate date="2007" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2007-12-7" name="“службени гласник рс" number="113" showAs="“Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="V МОНЕТАРНИ СИСТЕМ, ФИНАНСИЈСКЕ ОРГАНИЗАЦИЈЕ И ФИНАНСИЈСКО ПОСЛОВАЊЕ" value="v монетарни систем, финансијске организације и финансијско пословање"/>
+				<keyword id="grupa" showAs="6. Издавање, основна обележја и пуштање у оптицај новчаница, кованог новца и пригодног кованог новца" value="6. издавање, основна обележја и пуштање у оптицај новчаница, кованог новца и пригодног кованог новца"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2007-12-05" id="usvajanje"/>
+				<step date="2007-12-07" id="stupanje_na_snagu"/>
+				<step date="2007-12-07" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 55. став 3. </ref>Закона о Народној банци Србије („<ref id="ref1" href="/rs/act/2003/72/srp@">Службени гласник РС”, бр. 72/2003</ref> и 55/2004),</p>
+			<p>Гувернер Народне банке Србије доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о пуштању у оптицај кованог новца апоена од 1, 2, 5, 10 и 20 динара</title>
+			<date>“Службени гласник РС”, број 113 од 7. децембра 2007.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Народна банка Србије пустиће у оптицај 10. децембра 2007. године ковани новац апоена од 1, 5 и 10 динара са ознаком године ковања „2007” и обележјима утврђеним Одлуком о издавању и основним обележјима кованог новца апоена од 1, 5 и 10 динара („<ref id="ref2" href="/rs/act/2005/56/srp@">Службени гласник РС”, број 56/2005</ref>), ковани новац апоена од 2 динара са ознаком ковања „2007” и обележјима утврђеним Одлуком о издавању и основним обележјима кованог новца апоена од 2 динара („<ref id="ref3" href="/rs/act/2006/114/srp@">Службени гласник РС”, број 114/2006</ref>) и ковани новац од 20 динара са ознаком године ковања „2007” и обележјима утврђеним Одлуком о издавању и основним обележјима кованог новца апоена од 20 динара („<ref id="ref4" href="/rs/act/2007/109/srp@">Службени гласник РС”, број 109/2007</ref>).</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Ова одлука ступа на снагу даном објављивања у „Службеном гласнику РС”.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>О. број 87</p>
+						</content>
+					</clause>
+					<clause id="od2-stav2">
+						<content>
+							<p>У Београду, 5. децембра 2007. године</p>
+						</content>
+					</clause>
+					<clause id="od2-stav3">
+						<content>
+							<p>Гувернер</p>
+						</content>
+					</clause>
+					<clause id="od2-stav4">
+						<content>
+							<p>Народне банке Србије,</p>
+						</content>
+					</clause>
+					<clause id="od2-stav5">
+						<content>
+							<p>Радован Јелашић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

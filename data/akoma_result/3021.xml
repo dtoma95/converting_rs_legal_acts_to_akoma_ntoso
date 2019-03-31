@@ -1,0 +1,215 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1977/55-1941/main"/>
+					<FRBRuri value="/rs/act/1977/55-1941"/>
+					<FRBRdate date="1977" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1977/55-1941/srp@/main"/>
+					<FRBRuri value="/rs/act/1977/55-1941/srp@"/>
+					<FRBRdate date="1977" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1977/55-1941/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1977/55-1941/srp@.akn"/>
+					<FRBRdate date="1977" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1977-11-18" name="службени лист сфрј" number="55" showAs="Службени лист СФРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XII ГРАЂЕВИНАРСТВО, ГРАЂЕВИНСКО ЗЕМЉИШТЕ И КОМУНАЛНОСТАМБЕНЕ ДЕЛАТНОСТИ" value="xii грађевинарство, грађевинско земљиште и комуналностамбене делатности"/>
+				<keyword id="grupa" showAs="5. Гробља и сахрањивање" value="5. гробља и сахрањивање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1977-11-09" id="usvajanje"/>
+				<step date="1977-11-26" id="stupanje_na_snagu"/>
+				<step date="1977-11-26" id="primena"/>
+			</workflow>
+		</meta>
+		<preface>
+			<authority>На основу <ref>члана 6. </ref>Закона о обележавању и одржавању гробља и гробова припадника савезничких армија и других страних армија на територији Југославије („<ref id="ref4" href="/rs/act/75/60/srp@">Службени лист СФРЈ“, бр. 60/75</ref>), Савезни комитет за питања бораца и војних инвалида доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о начину вођења евиденције о гробљима и гробовима припадника савезничких армија  и других страних армија на територији   Југославије</title>
+			<date>„Службени лист СФРЈ”, број 55 од 18.   новембра 1977.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Евиденцију о гробљима и гробовима припадника савезничких армија и других страних армија на територији Југославије води надлежни орган републике, односно аутономне покрајине на основу расположиве документације о гробљима, појединачним гробовима, спомен-костурницама и другим спомен-обележјима савезничких армија и других страних армија, као и на основу документације о сахрањеним припадницима тих армија на територији републике, односно аутономне покрајине.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Надлежни орган републике, односно аутономне покрајине, ради вођења евиденција из става 1. овог члана, прикупља податке о гробљима и гробовима припадника савезничких армија и других страних армија на територији републике, односно аутономне покрајине.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Надлежни орган републике, односно аутономне покрајине води посебну евиденцију о гробљима и гробовима припадника савезничких армија и других страних армија предвиђених у <ref>члану 1. </ref>ст. 2. и 3. Закона о обележавању и одржавању гробаља и гробова припадника савезничких армија и других страних армија на територији Југославије, а посебну евиденцију за припаднике страних армија предвиђених у <ref>члану 2. </ref>Закона.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Надлежни орган републике, односно аутономне покрајине води евиденцију уписивањем података у књигу гробаља и гробова (у даљем тексту: књига гробаља).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>У књизи гробаља уносе се подаци о гробљима и гробовима, и то:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> место где се гробље налази и његова локација;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> чије је гробље;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> да ли га одржава земља чији су држављани у њему сахрањени;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> име, презиме и година рођења сахрањених;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> дан, месец и година смрти сахрањених војника;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> земља чији је држављанин, односно армија којој је припадао;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> број парцеле – гроба;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> извор података.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Подаци из <ref>члана 3. овог</ref> правилника уписују се у књигу гробаља мастилом или писаћом машином.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Подаци се уписују на основу јавних исправа или других веродостојних података.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Књига гробаља мора бити оверена печатом надлежног органа републике, односно аутономне покрајине.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Надлежни орган републике, односно аутономне покрајине чува техничку документацију, са уцртаним гробљима, односно гробовима, приступним путевима, стазама, другим објектима који припадају гробљу и фотографијама гробаља.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у “Службеном листу СФРЈ”.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Бр. 1253/1-77</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<section id="od9">
+				<num>9.</num>
+				<heading> новембра 1977. године</heading>
+				<content>
+					<clause id="od9-clan6-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od9-clan6-stav2">
+						<content>
+							<p>Председник Савезног комитета</p>
+						</content>
+					</clause>
+					<clause id="od9-clan6-stav3">
+						<content>
+							<p>за питања бораца и војних</p>
+						</content>
+					</clause>
+					<clause id="od9-clan6-stav4">
+						<content>
+							<p>инвалида,</p>
+						</content>
+					</clause>
+					<clause id="od9-clan6-stav5">
+						<content>
+							<p>Мара Радић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

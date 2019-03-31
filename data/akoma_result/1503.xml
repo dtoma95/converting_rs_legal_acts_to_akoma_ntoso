@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2009/87-6/main"/>
+					<FRBRuri value="/rs/act/2009/87-6"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2015/40-69/srp@/main"/>
+					<FRBRuri value="/rs/act/2015/40-69/srp@"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2015/40-69/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2015/40-69/srp@.akn"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2009-10-23" name="службени гласник рс" number="87" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="8. Девизно пословање и страна улагања" value="8. девизно пословање и страна улагања"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2009-10-20" id="usvajanje"/>
+				<step date="2009-10-24" id="stupanje_na_snagu"/>
+				<step date="2009-10-24" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="87/2009-6" id="e1" type="generation"/>
+				<eventRef date="40/2015-69" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Тачка 1. алинеје од треће до шесте, и тачка 3. Одлуке престале су да важе даном ступања на снагу Одлуке о извештавању о пословима с хартијама од вредности („<ref id="ref3" href="/rs/act/2015/40/srp@">Службени гласник РС“, број 40/2015</ref>), односно 15. маја 2015. године (види тачку 13. Одлуке).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 13. став 4, </ref><ref>члана 14. став 2. </ref>и <ref>члана 37. став 1. </ref>Закона о девизном пословању („<ref id="ref4" href="/rs/act/2006/62/srp@">Службени гласник РС”, број 62/2006</ref>),</p>
+			<p>Гувернер Народне банке Србије доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о обавези извештавања у пословању са иностранством</title>
+			<date>„Службени гласник РС“, бр. 87 од 23. октобра 2009,   40 од 7. маја 2015 -     др. одлука</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Резиденти утврђени Законом о девизном пословању (обвезници извештавања) дужни су да Народној банци Србије достављају извештаје у пословању са иностранством, и то по основу:</heading>
+				<content>
+					<alinea id="od1-ali1">
+						<content>
+							<p>иректних инвестиција нерезидената у земљи;</p>
+						</content>
+					</alinea>
+					<alinea id="od1-ali2">
+						<content>
+							<p>иректних инвестиција резидената у иностранству;</p>
+						</content>
+					</alinea>
+					<alinea id="od1-ali3">
+						<content>
+							<p> престала је да важи (види тачку 13. Одлуке - 40/2015-69)</p>
+						</content>
+					</alinea>
+					<alinea id="od1-ali4">
+						<content>
+							<p> престала је да важи (види тачку 13. Одлуке - 40/2015-69)</p>
+						</content>
+					</alinea>
+					<alinea id="od1-ali5">
+						<content>
+							<p> престала је да важи (види тачку 13. Одлуке - 40/2015-69)</p>
+						</content>
+					</alinea>
+					<alinea id="od1-ali6">
+						<content>
+							<p> престала је да важи (види тачку 13. Одлуке - 40/2015-69)</p>
+						</content>
+					</alinea>
+					<alinea id="od1-ali7">
+						<content>
+							<p>нвестиционих (грађевинских) радова које нерезиденти изводе у земљи;</p>
+						</content>
+					</alinea>
+					<alinea id="od1-ali8">
+						<content>
+							<p>нвестиционих (грађевинских) радова које резиденти изводе у иностранству;</p>
+						</content>
+					</alinea>
+					<alinea id="od1-ali9">
+						<content>
+							<p>тања и промета на рачунима резидената у иностранству;</p>
+						</content>
+					</alinea>
+					<alinea id="od1-ali10">
+						<content>
+							<p>тања и промета на контокорентним рачунима који се воде по пословима са иностранством;</p>
+						</content>
+					</alinea>
+					<alinea id="od1-ali11">
+						<content>
+							<p>ругих послова потребних за израду платног биланса.</p>
+						</content>
+					</alinea>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Обвезници извештавања одговорни су за тачност података у извештајима из тачке 1. ове одлуке и дужни су да, ако то Народна банка Србије захтева, тачност тих података докажу књиговодственом и другом документацијом.</heading>
+				<content/>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading>  Престала је да важи (види тачку 13. Одлуке - 40/2015-69)</heading>
+				<content/>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Примљене извештаје из тачке 1. ове одлуке, Народна банка Србије користи за праћење остварења платног биланса Републике Србије и стања директних инвестиција резидената у иностранству и нерезидената у Републици Србији, а податке из тих извештаја може учинити доступним јавности само у агрегираном (збирном) облику.</heading>
+				<content/>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> За спровођење ове одлуке гувернер доноси упутство.</heading>
+				<content/>
+			</section>
+			<section id="od6">
+				<num>6.</num>
+				<heading> Даном ступања на снагу ове одлуке престаје да важи Одлука о обавези извештавања у пословању са иностранством („<ref id="ref5" href="/rs/act/2007/24/srp@">Службени гласник РС”, број 24/2007</ref>).</heading>
+				<content/>
+			</section>
+			<section id="od7">
+				<num>7.</num>
+				<heading> Ова одлука ступа на снагу наредног дана од дана објављивања у „Службеном гласнику РС”.</heading>
+				<content>
+					<clause id="od7-stav1">
+						<content>
+							<p>О. број 57</p>
+						</content>
+					</clause>
+					<clause id="od7-stav2">
+						<content>
+							<p>У Београду, 20. октобра 2009. године</p>
+						</content>
+					</clause>
+					<clause id="od7-stav3">
+						<content>
+							<p>Гувернер</p>
+						</content>
+					</clause>
+					<clause id="od7-stav4">
+						<content>
+							<p>Народне банке Србије,</p>
+						</content>
+					</clause>
+					<clause id="od7-stav5">
+						<content>
+							<p>Радован Јелашић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

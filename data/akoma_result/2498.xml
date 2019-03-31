@@ -1,0 +1,385 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2017/10-60/main"/>
+					<FRBRuri value="/rs/act/2017/10-60"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2017/10-60/srp@/main"/>
+					<FRBRuri value="/rs/act/2017/10-60/srp@"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2017/10-60/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2017/10-60/srp@.akn"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2017-2-14" name="службени гласник рс" number="10" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="4. Заштита биља" value="4. заштита биља"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2017-02-02" id="usvajanje"/>
+				<step date="2017-02-22" id="stupanje_na_snagu"/>
+				<step date="2017-02-22" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу члaна 20. став 8. Закона о средствима за заштиту биља („<ref id="ref0" href="/rs/act/09/41/srp@">Службени гласник РС”, брoj 41/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Mинистар пољопривреде и заштите животне средине доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о садржини и начину вођења Листе одобрених супстанци, Листе забрањених супстанци и Листе средстава за заштиту биља</title>
+			<date>&quot;Службени гласник РС&quot;, број 10 од 14.      фебруара 2017.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се садржина и начин вођења Листе одобрених супстанци, Листе забрањених супстанци и Листе средстава за заштиту биља на основу издатих решења о регистрацији средстава за заштиту биља.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Поједини изрази употребљени у овом правилнику имају следеће значење:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> CAS број јесте идентификациони број додељен свакој појединачној супстанци која је публикована у научној литератури и унесена у регистар Хемијског апстракт сервиса (Chemical Abstract Service);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> CIPAC број јесте идентификациони број додељен свакој појединачној супстанци од стране Међународног колаборативног савета за пестициде (Collaborative International Pesticides Analitycal Council);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> IUPAC назив јесте назив супстанце по правилима Међународне уније за чисту и примењену хемију (International Union of Pure and Applied Chemistry);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> тривијални (генерички) назив (ISO назив) јесте назив супстанце договорен од стране Међународне организацијe за стандардизацију (International Organisation for Standardisation).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Листа одобрених супстанци води се у деловима, у складу са одговарајућим листама на територији Европске уније, и то као:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> ДЕО А1: Активне супстанце које су одобрене у складу са прописима којима се уређују средства за заштиту биља и за које се сматра да су одобрене у складу са важећим прописима Европске уније;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> ДЕО А2: Активне супстанце које су одобрене у складу са прописима којима се уређују средства за заштиту биља и које су одобрене у складу са важећим прописима Европске уније;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> ДЕО А3: Основне супстанце;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> ДЕО А4: Активне супстанце ниског ризика;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> ДЕО А5: Активне супстанце предвиђене за замену;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> ДЕО А6: Активне супстанце за које захтев за одобрење још увек није разматран у складу са прописима којима се уређују средства за заштиту биља, нити на нивоу Европске уније, a средства за заштиту биља која их садрже могу се производити, регистровати и стављати у промет на територији Републике Србије.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Листа одобрених супстанци дата је на Обрасцу 1 – Листа одобрених супстанци, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Листа одобрених супстанци, која се односи на ДЕО А1, ДЕО А2, ДЕО А4 и ДЕО А5, садржи:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> редни број супстанце у одговарајућој листи Европске уније, који се води у колони под називом: „Бр.”;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> тривијални назив, CAS и CIPAC бројеве супстанце, односно научни назив, сој и ознака збирке култура када су у питању микроорганизми, који се воде у колони под називом: „Тривијални назив и идентификациони бројеви супстанце”;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> називе супстанци по IUPAC номенклатури, који се воде у колони под називом: „Хемијски назив супстанце по IUPAC”;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> податке о минималној чистоћи, односно релевантним нечистоћама супстанце, који се воде у колони под називом: „Минимална чистоћа и максимум нечистоћа”;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> датум одобравања супстанце, који се води у колони под називом: „Датум одобравања”;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> период важења одобрења за супстанцу, који се води у колони: „Одобрење важи до”;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> услове под којима се средство за заштиту биља, које садржи супстанцу наведену у листи, може регистровати, који се воде у колони под називом: „Посебне одредбе”.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Листа одобрених супстанци, која се односи на ДЕО А3 садржи:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> редни број супстанце у одговарајућој листи Европске уније, који се води у колони под називом: „Бр.”;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> тривијални назив, CAS и CIPAC бројеве супстанце, односно научни назив када су у питању биљне врсте, који се воде у колони под називом: „Тривијални назив и идентификациони бројеви супстанце”;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> назив супстанце по IUPAC номенклатури, који се води у колони под називом: „Хемијски назив супстанце по IUPAC”;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> датум одобравања супстанце, који се води у колони под називом: „Датум одобравања”;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> услове под којима се средство за заштиту биља, које садржи супстанцу наведену у листи, може регистровати, који се воде у колони под називом: „Посебне одредбе”.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Листа одобрених супстанци, која се односи на ДЕО А6 садржи:</p>
+							<point id="clan6-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> редни број супстанце у листи, који се води у колони под називом: „Бр.”;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> тривијални назив, CAS и CIPAC бројеве супстанце, односно научни назив када су у питању биљне врсте или научни назив, сој и ознака збирке култура када су у питању микроорганизми, који се воде у колони под називом: „Тривијални назив и идентификациони бројеви супстанце”;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> намена за коју се може регистровати средство за заштиту биља које садржи супстанцу наведену у листи, која се води у колони под називом: „Посебне одредбе”.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Листа забрањених супстанци води се на основу Листе одобрених супстанци.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Листа забрањених супстанци води се тако да се активна супстанца која није уписана у Листу одобрених супстанци сматра забрањеном супстанцом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Листа средстава за заштиту биља на основу издатих решења о регистрацији средстава за заштиту биља води се у деловима који се односе на врсту и намену средстава за заштиту биља (хемијска средства за заштиту биља, хербициди, фунгициди и сл.) и садржи:</p>
+							<point id="clan8-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> редни број средства за заштиту биља у листи, који се води у колони под називом: „Бр.”;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> трговачки назив средства за заштиту биља, који се води у колони под називом: „Назив средства за заштиту биља”;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> назив активне супстанце коју средство за заштиту биља садржи и њен садржај изражен у g/l или g/kg или %, који се воде у колони под називом: „Назив и садржај активне супстанце”;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> пословно име носиоца решења о стављању у промет средства за заштиту биља, односно његовог заступника или представника, који се воде у колони под називом: „Пословно име произвођача, заступника односно представника”;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> број и датум решења на основу кога је средство за заштиту биља регистровано, који се воде у колони под називом: „Број и датум решења о регистрацији”;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> датум истека важења решења о стављању у промет средства за заштиту биља, који се води у колони под називом: „Решење важи до”.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Листа регистрованих средстава за заштиту биља из става 1. овог члана дата је на Обрасцу 2 – Листа регистрованих средстава за заштиту биља, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Даном ступања на снагу овог правилника престаје да важи Правилник о садржини и начину вођења Листе одобрених супстанци, Листе забрањених супстанци и Листе средстава за заштиту биља на основу издатих решења о регистрацији средстава за заштиту биља („<ref id="ref1" href="/rs/act/11/92/srp@">Службени гласник РС”, бр. 92/11, 92/13, 61/14</ref> и 99/15).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Број 110-00-17/2017-09</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>У Београду, 2. фебруара 2017. године</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav5">
+						<content>
+							<p>Бранислав Недимовић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav6">
+						<content>
+							<p>Прилози</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav7">
+						<content>
+							<p>Oбразац 1 - Листа одобрених супстанци</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

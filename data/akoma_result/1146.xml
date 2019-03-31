@@ -1,0 +1,768 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1995/28-1025/main"/>
+					<FRBRuri value="/rs/act/1995/28-1025"/>
+					<FRBRdate date="1995" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2016/102-97/srp@/main"/>
+					<FRBRuri value="/rs/act/2016/102-97/srp@"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2016/102-97/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2016/102-97/srp@.akn"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1995-7-27" name="службени гласник рс" number="28" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Решење" value="решење"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="10. Култура" value="10. култура"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1995-06-22" id="usvajanje"/>
+				<step date="" id="stupanje_na_snagu"/>
+				<step date="" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="28/1995-1025" id="e1" type="generation"/>
+				<eventRef date="102/2016-97" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>Редакцијски  пречишћен текст</p>
+			<p>На основу <ref>члана 85. </ref>Закона о културним добрима (&quot;<ref id="ref1" href="/rs/act/94/71/srp@">Службени гласник РС&quot;, број 71/94</ref>),</p>
+			<p>Министар културе доноси</p>
+			<p>РЕШЕЊЕ</p>
+			<p>о   утврђивању надлежности музеја према врстама уметничко-историјских дела и   према територији</p>
+			<p>&quot;Службени  гласник РС&quot;, бр. 28 од 27.   јула 1995,  102 од 20. децембра 2016.</p>
+			<p>I</p>
+			<p>Послове заштите према врстама уметничко-историјских дела обављају:</p>
+			<p> Народни музеј у Београду за уметничко-историјска дела од значаја за археологију, нумизматику и ликовну уметност (осим југословенске уметности XX века), и то за:</p>
+			<p> иконе, накит и друге предмете средњовековне уметности;</p>
+			<p> декоративну архитектонску пластику – дрво, камен;</p>
+			<p> фреске – оригинале и копије;</p>
+			<p> дела домаћег сликарства;</p>
+			<p> скулптуре и рељефе у свим материјалима до 1900. године;</p>
+			<p> дела страног сликарства од најранијих периода;</p>
+			<p> домаћу графику и цртеже до 1900. године;</p>
+			<p> страну графику и цртеже;</p>
+			<p> новац, медаље, плакете и епиграфику.</p>
+			<p> Етнографски музеј у Београду  за уметничко-историјска дела од значаја за етнографију, сврстана у основне групе – привреда, куће и покућство, одевање и кићење, обичаји, веровања и култови, музички инструменти, забаве и знања, и то за:</p>
+			<p> објекте сеоске архитектуре;</p>
+			<p> дрвено, метално и текстилно покућство и посуђе;</p>
+			<p> објекте градске архитектуре и покућство балканске чаршије (дрвено покућство, метално посуђе, ћилиме и др.);</p>
+			<p> пољопривредне справе и алатке (сточарство, земљорадња, домаће радиности, допунска привређивања;</p>
+			<p> алате и производе сеоских заната;</p>
+			<p> алате, радионице, еснафске и занатске производе заната балканске чаршије;</p>
+			<p> средства и предмете везане за саобраћај, пренос добара, трговину и мере и рабоше;</p>
+			<p> сеоске ношње, накит и друге предмете за кићење;</p>
+			<p> грађанске ношње и накит балканске чаршије;</p>
+			<p> предмете везане за обичаје, веровања и култове (иконе на дрвету и стаклу, маске, амајлије, вотиве, поскурнице, шаралице и др.);</p>
+			<p> музичке инструменте;</p>
+			<p> дечије играчке;</p>
+			<p> предмете народне медицине и ветерине;</p>
+		</preamble>
+		<preface>
+			<authority> ликовна дела савремених сеоских стваралаца.</authority>
+			<title> Историјски музеј Србије за уметничко-историјска дела од значаја за историју Србије, и то за:</title>
+			<date> оружје и војну опрему од краја средњег века, и то:</date>
+		</preface>
+		<body>
+			<subsection id="podod1">
+				<num>а</num>
+				<heading> хладно оружје занатске и фабричке израде (ножеве, јатагане, сабље, мачеве, одбрамбено оружје),</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod2">
+				<num>б</num>
+				<heading> оружни прибор (металне и кожне фишеклије, зејтинице, барутнице, арбије, калупе за ливење зрна, мере за барут),</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod3">
+				<num>в</num>
+				<heading> ватрено оружје занатске и фабричке израде (пушке, пиштоље, кубуре, топове и све врсте савременог ватреног оружја),</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod4">
+				<num>г</num>
+				<heading> војну опрему (кубурлуке, седла, добоше, војничке сандуке, силаве, чутурице, торбице, коњску опрему);</heading>
+				<content>
+					<item id="podod4-podtac2">
+						<num>(2)</num>
+						<content>
+							<p> униформе – једнообразну одећу припадника одређеног позива, и то:</p>
+						</content>
+					</item>
+				</content>
+			</subsection>
+			<subsection id="podod5">
+				<num>а</num>
+				<heading> војничке униформе, униформе службеника јавног саобраћаја, полиције, поште, царине и др.,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod6">
+				<num>б</num>
+				<heading> униформе цивилне заштите,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod7">
+				<num>в</num>
+				<heading> униформе одређених организација (сокола, пионира, извиђача, ОРА),</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod8">
+				<num>г</num>
+				<heading> униформе одређених друштава (музичких, ватрогасних, спортских, ловачких и др.);</heading>
+				<content>
+					<item id="podod8-podtac3">
+						<num>(3)</num>
+						<content>
+							<p> заставе;</p>
+						</content>
+					</item>
+					<item id="podod8-podtac4">
+						<num>(4)</num>
+						<content>
+							<p> знамења, и то:</p>
+						</content>
+					</item>
+				</content>
+			</subsection>
+			<subsection id="podod9">
+				<num>а</num>
+				<heading> медаље и споменице у својству одликовања и повеља,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod10">
+				<num>б</num>
+				<heading> ордење, амајлије, значке, ознаке, траке;</heading>
+				<content>
+					<item id="podod10-podtac5">
+						<num>(5)</num>
+						<content>
+							<p> реалије и меморијалне предмете везане за значајне личности и догађаје, као и карактеристичне предмете који су имали или имају употребну вредност;</p>
+						</content>
+					</item>
+					<item id="podod10-podtac6">
+						<num>(6)</num>
+						<content>
+							<p> карте, планове и атласе (географске, политичке, природне, историјске, демографске, културолошке, етнографске, војне, административне, урбанистичке, саобраћајне);</p>
+						</content>
+					</item>
+					<item id="podod10-podtac7">
+						<num>(7)</num>
+						<content>
+							<p> привредно-технички материјал фабричке производње (средства за производњу и производе који илуструју развој привреде);</p>
+						</content>
+					</item>
+					<item id="podod10-podtac8">
+						<num>(8)</num>
+						<content>
+							<p> печате (установа, организација, одбора, друштава, личности), печате, прстенове, калупе за печате, отиске печата;</p>
+						</content>
+					</item>
+					<item id="podod10-podtac9">
+						<num>(9)</num>
+						<content>
+							<p> плакате, летке, објаве, прогласе;</p>
+						</content>
+					</item>
+					<item id="podod10-podtac10">
+						<num>(10)</num>
+						<content>
+							<p> фотографије и разгледнице историјске садржине.</p>
+						</content>
+					</item>
+					<point id="podod10-tac4">
+						<num>4)</num>
+						<content>
+							<p> Музеј примењене уметности за уметничко-историјска дела од значаја за примењену уметност – уметнички обликоване предмете који служе за употребу и декорацију, и то за:</p>
+							<item id="podod10-tac4-podtac1">
+								<num>(1)</num>
+								<content>
+									<p> предмете од керамике, стакла, метала, порцелана, камена, дрвета, кости, рога, коже;</p>
+								</content>
+							</item>
+							<item id="podod10-tac4-podtac2">
+								<num>(2)</num>
+								<content>
+									<p> стилски намештај;</p>
+								</content>
+							</item>
+							<item id="podod10-tac4-podtac3">
+								<num>(3)</num>
+								<content>
+									<p> текстил и костим (осим народног и српске грађанске ношње);</p>
+								</content>
+							</item>
+							<item id="podod10-tac4-podtac4">
+								<num>(4)</num>
+								<content>
+									<p> уметнички вез и чипку;</p>
+								</content>
+							</item>
+							<item id="podod10-tac4-podtac5">
+								<num>(5)</num>
+								<content>
+									<p> сатове;</p>
+								</content>
+							</item>
+							<item id="podod10-tac4-podtac6">
+								<num>(6)</num>
+								<content>
+									<p> уметнички обрађено гвожђе и калупе за уметничке предмете;</p>
+								</content>
+							</item>
+							<item id="podod10-tac4-podtac7">
+								<num>(7)</num>
+								<content>
+									<p> музичке инструменте (осим народних) и музикалије;</p>
+								</content>
+							</item>
+							<item id="podod10-tac4-podtac8">
+								<num>(8)</num>
+								<content>
+									<p> таписерију, оријенталне ћилиме и тепихе;</p>
+								</content>
+							</item>
+							<item id="podod10-tac4-podtac9">
+								<num>(9)</num>
+								<content>
+									<p> експерименталну и уметничку фотографију;</p>
+								</content>
+							</item>
+							<item id="podod10-tac4-podtac10">
+								<num>(10)</num>
+								<content>
+									<p> дописнице;</p>
+								</content>
+							</item>
+							<item id="podod10-tac4-podtac11">
+								<num>(11)</num>
+								<content>
+									<p> дела савремене примењене уметности и дизајна.</p>
+								</content>
+							</item>
+						</content>
+					</point>
+					<point id="podod10-tac5">
+						<num>5)</num>
+						<content>
+							<p> Музеј савремене уметности за уметничко-историјска дела од значаја за савремену ликовну уметност од 1900. године до данас, и то за:</p>
+							<item id="podod10-tac5-podtac1">
+								<num>(1)</num>
+								<content>
+									<p> слике (уља, темпера, акварел, пастел и др.);</p>
+								</content>
+							</item>
+							<item id="podod10-tac5-podtac2">
+								<num>(2)</num>
+								<content>
+									<p> скулптуре и објекте;</p>
+								</content>
+							</item>
+							<item id="podod10-tac5-podtac3">
+								<num>(3)</num>
+								<content>
+									<p> графике и цртеже;</p>
+								</content>
+							</item>
+							<item id="podod10-tac5-podtac4">
+								<num>(4)</num>
+								<content>
+									<p> нове медије (филм, фотографију, видео, хепенинг, инсталације и сл.).</p>
+								</content>
+							</item>
+						</content>
+					</point>
+					<point id="podod10-tac6">
+						<num>6)</num>
+						<content>
+							<p> Природњачки музеј за уметничко-историјска дела од значаја за историју природе из области минерологије, палеонтологије, ботанике, зоологије, ловства и шумарства, и то за:</p>
+							<item id="podod10-tac6-podtac1">
+								<num>(1)</num>
+								<content>
+									<p> минерале;</p>
+								</content>
+							</item>
+							<item id="podod10-tac6-podtac2">
+								<num>(2)</num>
+								<content>
+									<p> стене;</p>
+								</content>
+							</item>
+							<item id="podod10-tac6-podtac3">
+								<num>(3)</num>
+								<content>
+									<p> руде;</p>
+								</content>
+							</item>
+							<item id="podod10-tac6-podtac4">
+								<num>(4)</num>
+								<content>
+									<p> фосиле;</p>
+								</content>
+							</item>
+							<item id="podod10-tac6-podtac5">
+								<num>(5)</num>
+								<content>
+									<p> биљке;</p>
+								</content>
+							</item>
+							<item id="podod10-tac6-podtac6">
+								<num>(6)</num>
+								<content>
+									<p> животиње;</p>
+								</content>
+							</item>
+							<item id="podod10-tac6-podtac7">
+								<num>(7)</num>
+								<content>
+									<p> ловачке трофеје;</p>
+								</content>
+							</item>
+							<item id="podod10-tac6-podtac8">
+								<num>(8)</num>
+								<content>
+									<p> прибор за лов;</p>
+								</content>
+							</item>
+							<item id="podod10-tac6-podtac9">
+								<num>(9)</num>
+								<content>
+									<p> материјал из области шумарства.</p>
+								</content>
+							</item>
+						</content>
+					</point>
+					<point id="podod10-tac7">
+						<num>7)</num>
+						<content>
+							<p> Музеј науке и технике за уметничко-историјска дела од значаја за историју науке, технике и технологије, и то за:</p>
+							<item id="podod10-tac7-podtac1">
+								<num>(1)</num>
+								<content>
+									<p> производе занатства који непосредно претходе индустријској производњи и производе индустрије (алате, погонске машине, производе микроелектронике, предмете рачунске технике, апарате за домаћинство, електро апарате за медије, електро примопредајнике, предмете фото и видео технике, пољопривредне машине и опрему, алате и машине за производњу оружја, предмете индустрије стакла и керамике, предмете текстилне индустрије, средства саобраћаја, ватрогасна средства);</p>
+								</content>
+							</item>
+							<item id="podod10-tac7-podtac2">
+								<num>(2)</num>
+								<content>
+									<p> научно-техничке, лабораторијске и личне предмете великих научника из природних наука;</p>
+								</content>
+							</item>
+							<item id="podod10-tac7-podtac3">
+								<num>(3)</num>
+								<content>
+									<p> пројекте и макете значајних архитеката;</p>
+								</content>
+							</item>
+							<item id="podod10-tac7-podtac4">
+								<num>(4)</num>
+								<content>
+									<p> средства система електропривреде;</p>
+								</content>
+							</item>
+							<item id="podod10-tac7-podtac5">
+								<num>(5)</num>
+								<content>
+									<p> индустријске јединице за производњу енергије;</p>
+								</content>
+							</item>
+							<item id="podod10-tac7-podtac6">
+								<num>(6)</num>
+								<content>
+									<p> интерактивне експонате и учила;</p>
+								</content>
+							</item>
+							<item id="podod10-tac7-podtac7">
+								<num>(7)</num>
+								<content>
+									<p> музичке аутомате и инструменте;</p>
+								</content>
+							</item>
+							<item id="podod10-tac7-podtac8">
+								<num>(8)</num>
+								<content>
+									<p> предмете и машине за писање и штампање;</p>
+								</content>
+							</item>
+							<item id="podod10-tac7-podtac9">
+								<num>(9)</num>
+								<content>
+									<p> мерне инструменте;</p>
+								</content>
+							</item>
+							<item id="podod10-tac7-podtac10">
+								<num>(10)</num>
+								<content>
+									<p> средства за производњу и прераду метала;</p>
+								</content>
+							</item>
+							<item id="podod10-tac7-podtac11">
+								<num>(11)</num>
+								<content>
+									<p> медицинске инструменте и уређаје;</p>
+								</content>
+							</item>
+							<item id="podod10-tac7-podtac12">
+								<num>(12)</num>
+								<content>
+									<p> опрему и документацију природних наука.</p>
+								</content>
+							</item>
+						</content>
+					</point>
+					<point id="podod10-tac8">
+						<num>8)</num>
+						<content>
+							<p> Музеј наивне и   маргиналне уметности, за уметничко-историјска дела домаћих и страних   аутора, самоуких уметника и других личности са друштвених маргина, од   значаја за наивну и маргиналну уметност почев од 1920. године, и то за:</p>
+							<item id="podod10-tac8-podtac1">
+								<num>(1)</num>
+								<content>
+									<p> слике (уља, темпера, пастела, комбин. техника   и др.);</p>
+								</content>
+							</item>
+							<item id="podod10-tac8-podtac2">
+								<num>(2)</num>
+								<content>
+									<p> скулптуре, склупторалне групе, објекте (дрво и   др.);</p>
+								</content>
+							</item>
+							<item id="podod10-tac8-podtac3">
+								<num>(3)</num>
+								<content>
+									<p> цртеже, графике;</p>
+								</content>
+							</item>
+							<item id="podod10-tac8-podtac4">
+								<num>(4)</num>
+								<content>
+									<p> уметнички вез.</p>
+								</content>
+							</item>
+						</content>
+					</point>
+					<clause id="podod10-stav1">
+						<content>
+							<p>*<ref id="ref2" href="/rs/act/2016/102/srp@">Службени гласник РС, број 102/2016</ref></p>
+						</content>
+					</clause>
+					<clause id="podod10-stav2">
+						<content>
+							<p>II</p>
+						</content>
+					</clause>
+					<clause id="podod10-stav3">
+						<content>
+							<p>Послове заштите уметничко-историјских дела за одређену територију обављају:</p>
+							<point id="podod10-stav3-tac1">
+								<num>1)</num>
+								<content>
+									<p> Музеј у Аранђеловцу за територију општина Аранђеловац и Топола;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac2">
+								<num>2)</num>
+								<content>
+									<p> Музеј града Београда за територију општина: Барајево, Вождовац, Врачар, Гроцка, Звездара, Земун, Лазаревац, Младеновац, Нови Београд, Обреновац, Палилула, Раковица, Савски венац, Сопот, Стари град и Чукарица;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac3">
+								<num>3)</num>
+								<content>
+									<p> Музеј рударства и металургије Бор за територију општина: Бор и Мајданпек;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac4">
+								<num>4)</num>
+								<content>
+									<p> Градски музеј у Бечеју за територију општине Бечеј;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac5">
+								<num>5)</num>
+								<content>
+									<p> Народни музеј у Ваљеву за територију општина: Ваљево, Осечина, Уб, Лајковац, Љиг и Мионица;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac6">
+								<num>6)</num>
+								<content>
+									<p> Културни центар – Завичајни музеј Власотинце за територију општина: Власотинце и Црна Трава;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac7">
+								<num>7)</num>
+								<content>
+									<p> Народни музеј у Врању за територију општина: Врање, Бујановац, Прешево, Трговиште, Босиљград, Сурдулица и Владичин Хан;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac8">
+								<num>8)</num>
+								<content>
+									<p> Народни музеј у Вршцу за територију општина: Вршац, Алибунар, Бела Црква и Пландиште;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac9">
+								<num>9)</num>
+								<content>
+									<p> Музеј рудничко-таковског краја у Горњем Милановцу за територију општине Горњи Милановац;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac10">
+								<num>10)</num>
+								<content>
+									<p> Народни музеј у Зајечару за територију општина: Зајечар и Бољевац;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac11">
+								<num>11)</num>
+								<content>
+									<p> Народни музеј у Зрењанину за територију општина: Зрењанин, Нови Бечеј, Нова Црња, Сечањ и Житиште;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac12">
+								<num>12)</num>
+								<content>
+									<p> Завичајни музеј у Јагодини за територију општина: Јагодина, Свилајнац, Деспотовац и Рековац;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac13">
+								<num>13)</num>
+								<content>
+									<p> Народни музеј у Кикинди за територију општина: Кикинда, Ада и Чока;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac14">
+								<num>14)</num>
+								<content>
+									<p> Народни музеј у Крагујевцу за територију општина: Крагујевац, Кнић, Баточина, Лапово и Рача;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac15">
+								<num>15)</num>
+								<content>
+									<p> Народни музеј у Краљеву за територију општина: Краљево, Врњачка Бања и Рашка;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac16">
+								<num>16)</num>
+								<content>
+									<p> Народни музеј у Крушевцу за територију општина: Крушевац, Александровац, Брус, Варварин, Ћићевац, Ражањ и Трстеник;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac17">
+								<num>17)</num>
+								<content>
+									<p> Општински музеј у Косовској Митровици за територију општина: Косовска Митровица, Лепосавић, Звечан, Зубин Поток, Србица и Вучитрн;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac18">
+								<num>18)</num>
+								<content>
+									<p> Завичајни музеј у Књажевцу за територију општина: Књажевац и Сокобања;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac19">
+								<num>19)</num>
+								<content>
+									<p> Народни музеј у Лесковцу за територију општина: Лесковац, Бојник, Лебане и Медвеђа;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac20">
+								<num>20)</num>
+								<content>
+									<p> Музеј Јадра у Лозници за територију општина: Лозница, Мали Зворник, Крупањ и Љубовија;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac21">
+								<num>21)</num>
+								<content>
+									<p> Музеј Крајине у Неготину за територију општина: Неготин и Кладово;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac22">
+								<num>22)</num>
+								<content>
+									<p> Народни музеј у Нишу за територију општина: Ниш, Алексинац, Сврљиг, Мерошина, Дољевац и Гаџин Хан;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac23">
+								<num>23)</num>
+								<content>
+									<p> Музеј „Рас” у Новом Пазару за територију општина: Нови Пазар и Тутин;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac24">
+								<num>24)</num>
+								<content>
+									<p> Музеј града Новог Сада за територију општина: Нови Сад и Сремски Карловци;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac25">
+								<num>25)</num>
+								<content>
+									<p> Музеј Војводине у Новом Саду за територију општина: Бач, Бачка Паланка, Бачки Петровац, Беочин, Тител, Жабаљ, Темерин, Врбас и Србобран;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac26">
+								<num>26)</num>
+								<content>
+									<p> Народни музеј у Панчеву за територију општина: Панчево, Ковин, Ковачица и Опово;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac27">
+								<num>27)</num>
+								<content>
+									<p> Завичајни музеј у Параћину за територију општина: Параћин и Ћуприја;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac28">
+								<num>28)</num>
+								<content>
+									<p> Регионални музеј у Пећи за територију општина: Пећ, Исток, Клина, Дечани и Ђаковица;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac29">
+								<num>29)</num>
+								<content>
+									<p> Музеј Понишавља у Пироту за територију општина: Пирот, Бабушница, Димитровград и Бела Паланка;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac30">
+								<num>30)</num>
+								<content>
+									<p> Народни музеј у Пожаревцу за територију општина: Пожаревац, Велико Градиште, Голубац, Мало Црниће, Кучево, Жабари, Петровац и Жагубица;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac31">
+								<num>31)</num>
+								<content>
+									<p> Музеј у Пријепољу за територију општина: Пријепоље и Прибој;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac32">
+								<num>32)</num>
+								<content>
+									<p> Музеј у Приштини за територију општина: Приштина, Подујево, Обилић, Косово Поље, Глоговац, Липљан, Штимље, Урошевац, Качаник, Косовска Каменица, Ново Брдо, Гњилане, Витина, Призрен, Гора, Штрпце, Сува Река и Ораховац;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac33">
+								<num>33)</num>
+								<content>
+									<p> Музеј Топлице у Прокупљу за територију општина: Прокупље, Блаце, Житорађа и Куршумлија;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac34">
+								<num>34)</num>
+								<content>
+									<p> Завичајни музеј у Руми за територију општина: Рума, Инђија, Стара Пазова и Пећинци;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac35">
+								<num>35)</num>
+								<content>
+									<p> Сенћански музеј за територију општина: Сента, Кањижа и Нови Кнежевац;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac36">
+								<num>36)</num>
+								<content>
+									<p> Музеј у Смедереву за територију општине Смедерево;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac37">
+								<num>37)</num>
+								<content>
+									<p> Центар за културу – Народни музеј Смедеревска Паланка за територију општина: Смедеревска Паланка и Велика Плана;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac38">
+								<num>38)</num>
+								<content>
+									<p> Градски музеј у Сомбору за територију општина: Сомбор, Апатин, Кула и Оџаци;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac39">
+								<num>39)</num>
+								<content>
+									<p> Музеј Срема у Сремској Митровици за територију општина: Сремска Митровица, Шид и Ириг;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac40">
+								<num>40)</num>
+								<content>
+									<p> Градски музеј у Суботици за територију општина: Суботица, Бачка Топола и Мали Иђош;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac41">
+								<num>41)</num>
+								<content>
+									<p> Народни музеј у Ужицу за територију општина: Ужице, Бајина Башта, Косјерић, Пожега, Ариље, Чајетина, Нова Варош и Сјеница;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac42">
+								<num>42)</num>
+								<content>
+									<p> Народни музеј у Чачку за територију општина: Чачак, Лучани и Ивањица;</p>
+								</content>
+							</point>
+							<point id="podod10-stav3-tac43">
+								<num>43)</num>
+								<content>
+									<p> Народни музеј у Шапцу за територију општина: Шабац, Богатић, Владимирци и Коцељева.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="podod10-stav4">
+						<content>
+							<p>III</p>
+						</content>
+					</clause>
+					<clause id="podod10-stav5">
+						<content>
+							<p>Ово решење објавити у „Службеном гласнику Републике Србије&quot;.</p>
+						</content>
+					</clause>
+					<clause id="podod10-stav6">
+						<content>
+							<p>Број 630-3514/95-02</p>
+						</content>
+					</clause>
+					<clause id="podod10-stav7">
+						<content>
+							<p>У Београду, 22. јуна 1995. године</p>
+						</content>
+					</clause>
+					<clause id="podod10-stav8">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="podod10-stav9">
+						<content>
+							<p>др Нада Поповић-Перишић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</subsection>
+		</body>
+	</act>
+</akomaNtoso>

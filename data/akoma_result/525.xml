@@ -1,0 +1,1346 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2013/3-3/main"/>
+					<FRBRuri value="/rs/act/2013/3-3"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2013/3-3/srp@/main"/>
+					<FRBRuri value="/rs/act/2013/3-3/srp@"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2013/3-3/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2013/3-3/srp@.akn"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2013-1-11" name="службени гласник рс" number="3" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="3. Семе и садни материјал" value="3. семе и садни материјал"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2013-01-08" id="usvajanje"/>
+				<step date="2013-01-19" id="stupanje_na_snagu"/>
+				<step date="2013-01-19" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 5. став 2. </ref>Закона о признавању сорти пољопривредног биља („<ref id="ref9" href="/rs/act/10/30/srp@">Службени гласник РС”, број 30/10</ref>),</p>
+			<p>Министар пољопривреде, шумарства и водопривреде доноси</p>
+		</preamble>
+		<preface>
+			<authority>ПРAВИЛНИК</authority>
+			<title>о методама испитивања сорте сунцокрета ради признавања сорте</title>
+			<date>&quot;Службени гласник РС&quot;, број 3 од      11. јануара 2013.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>УВОДНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником прописују се методе испитивања сорте сунцокрета (у даљем тексту: сорта) на огледном пољу и у лабораторији, ради признавања сорте.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan1-stav2">
+								<content>
+									<p>Методама из става 1. овог члана испитују се одређене битне особине сорте, ради утврђивања:</p>
+									<point id="gla1-clan1-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> производне и употребне вредности сорте (VCU тест);</p>
+										</content>
+									</point>
+									<point id="gla1-clan1-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> различитости, униформности и стабилности сорте (DUS тест).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>МЕТОДЕ ИСПИТИВАЊА ПРОИЗВОДНЕ И УПОТРЕБНЕ ВРЕДНОСТИ СОРТЕ (VCU тест)</heading>
+				<content>
+					<тачка id="gla2-clan1-tac1">
+						<num>1.</num>
+						<content>
+							<p> Битне особине сорте</p>
+						</content>
+					</тачка>
+					<article id="gla2-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla2-clan2-stav1">
+								<content>
+									<p>Производна и употребна вредност сорте утврђује се на основу резултата испитивања одређених битних особина сорте које се односе на:</p>
+									<point id="gla2-clan2-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> принос сировог зрна;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> садржај влаге у зрну у моменту жетве;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> принос зрна са 9 % влаге;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> отпорност на полегање и лом стабла;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> толерантност, односно отпорност на болести и штеточине;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> толерантност на одређени хербицид;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> садржај уља у сувој материји зрна у процентима;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> садржај протеина у сувој материји зрна у процентима;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> састав масних киселина у уљу из узорка семена из самооплодње код сунцокрета олеинског типа;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> принос уља.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan2-stav2">
+								<content>
+									<p>Сорта има бољу производну и употребну вредност ако у току испитивања одређених битних особина из става 1. овог члана покаже боље резултате у поређењу са тим особинама сорте стандард.</p>
+									<тачка id="gla2-clan2-stav2-tac2">
+										<num>2.</num>
+										<content>
+											<p> Испитивање на огледном пољу</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan3">
+						<num>3.</num>
+						<heading>Оглед</heading>
+						<content>
+							<clause id="gla2-clan3-stav1">
+								<content>
+									<p>Сорта се испитује у једном или више огледа постављених на огледном пољу на више локалитета. Оглед чине елементарне парцеле на којима се врши испитивање.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav2">
+								<content>
+									<p>Оглед из става 1. овог члана изводи се по плану „потпуно случајног блок система” у четири понављања.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<heading>Разврставање сорте</heading>
+						<content>
+							<clause id="gla2-clan4-stav1">
+								<content>
+									<p>Сорта се испитује на огледном пољу у складу са захтевом за признавање сорте у коjeм власник сорте, односно његов овлашћени заступник предлаже да се сорта, ради испитивања, разврста у одговарајућу групу уљаних или конзумних сорти. Тако разврстана сорта сеје се, ради испитивања, у одређени оглед.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav2">
+								<content>
+									<p>Сорта која је у складу са ставом 1. овог члана пријављена као уљана, разврстава се и испитује у одређеним огледима према:</p>
+									<point id="gla2-clan4-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> дужини вегетације;</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> толерантности на одређени хербицид;</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> садржају олеинских киселина;</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> другим специфичним својствима.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan5">
+						<num>5.</num>
+						<heading>Услови у погледу семена</heading>
+						<content>
+							<clause id="gla2-clan5-stav1">
+								<content>
+									<p>Семе сорте које се доставља за испитивање на огледном пољу мора да испуњава услове у погледу квалитета, да је здравствено исправно и третирано са фунгицидима и инсектицидима.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan6">
+						<num>6.</num>
+						<heading>Локалитет</heading>
+						<content>
+							<clause id="gla2-clan6-stav1">
+								<content>
+									<p>Сорта се испитује на више локалитета, а број локалитета зависи од одговарајућег типа из <ref>члана 4. овог</ref> правилника.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav2">
+								<content>
+									<p>Огледи за сорте уљаног типа из <ref>члана 4. став 2. </ref>тач. 1) и 2) овог правилника изводе се на најмање четири локалитета.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav3">
+								<content>
+									<p>Огледи за сорте уљаног типа из <ref>члана 4. став 2. тачка 3</ref>) овог правилника и за конзумни тип изводе се на најмање три локалитета.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan7">
+						<num>7.</num>
+						<heading>Услови у погледу огледног поља</heading>
+						<content>
+							<clause id="gla2-clan7-stav1">
+								<content>
+									<p>Предусев на целој површини огледног поља на коме се врши испитивање сорте мора да буде иста култура.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav2">
+								<content>
+									<p>Сорта се на истој огледној парцели може испитивати најмање после четири године, под условом да у том периоду нису сејане друге уљане биљне врсте.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav3">
+								<content>
+									<p>Сорта се испитује на земљишту које је пре сетве испитано на присутност земљишних штеточина и, по потреби, предсетвено третирање инсектицидима.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav4">
+								<content>
+									<p>Количине минералних ђубрива, време и начин њихове примене, као и остале агротехничке мере примењују се на огледном пољу тако да буду у складу са највишим нивоом технологије производње сунцокрета, а ради испољавања генетског потенцијала сорте.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav5">
+								<content>
+									<p>Сетву сорти у једном огледу треба обавити истог дана и у року који се у том локалитету сматра оптималним.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<heading>Постављање огледа</heading>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>У зависности од типа сорте из <ref>члана 4. овог</ref> правилника поставља се оглед за испитивања сорте са елементима датим у Табели – Eлементи огледа за испитивања сорте сунцокрета.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav2">
+								<content>
+									<p>Табела – Елементи огледа за испитивања сорте сунцокрета</p>
+								</content>
+							</clause>
+							<став id="gla2-clan8-stav3">
+								<table class="tabela-sa-borderom">
+									
+					
+									<tbody>
+										
+						
+										<tr>
+											
+							
+											<td width="80%">
+												
+								
+												<p>Елементи огледа</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>Уљани </p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>Конзумни </p>
+												
+							
+											</td>
+											
+						
+										</tr>
+										
+						
+										<tr>
+											
+							
+											<td width="80%">
+												
+								
+												<p>дужина парцеле</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>10 m</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>10 m</p>
+												
+							
+											</td>
+											
+						
+										</tr>
+										
+						
+										<tr>
+											
+							
+											<td width="80%">
+												
+								
+												<p>ширина парцеле</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>2,8 m</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>2,8 m</p>
+												
+							
+											</td>
+											
+						
+										</tr>
+										
+						
+										<tr>
+											
+							
+											<td width="80%">
+												
+								
+												<p>површина парцеле</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>28 m 2</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>28 m 2</p>
+												
+							
+											</td>
+											
+						
+										</tr>
+										
+						
+										<tr>
+											
+							
+											<td width="80%">
+												
+								
+												<p>дубина сетве</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>4–5 cm</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>4–5 cm</p>
+												
+							
+											</td>
+											
+						
+										</tr>
+										
+						
+										<tr>
+											
+							
+											<td width="80%">
+												
+								
+												<p>број понављања</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>4</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>4</p>
+												
+							
+											</td>
+											
+						
+										</tr>
+										
+						
+										<tr>
+											
+							
+											<td width="80%">
+												
+								
+												<p>размак између редова</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>70 cm</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>70 cm</p>
+												
+							
+											</td>
+											
+						
+										</tr>
+										
+						
+										<tr>
+											
+							
+											<td width="80%">
+												
+								
+												<p>размак у реду</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>25 cm</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>30 cm</p>
+												
+							
+											</td>
+											
+						
+										</tr>
+										
+						
+										<tr>
+											
+							
+											<td width="80%">
+												
+								
+												<p>број редова парцеле</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>4</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>4</p>
+												
+							
+											</td>
+											
+						
+										</tr>
+										
+						
+										<tr>
+											
+							
+											<td width="80%">
+												
+								
+												<p>број биљака у реду</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>40</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>33</p>
+												
+							
+											</td>
+											
+						
+										</tr>
+										
+						
+										<tr>
+											
+							
+											<td width="80%">
+												
+								
+												<p>број биљака на парцели</p>
+												
+								
+												<p>(број биљака у жетви)</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>160</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>132</p>
+												
+							
+											</td>
+											
+						
+										</tr>
+										
+						
+										<tr>
+											
+							
+											<td width="80%">
+												
+								
+												<p>укупан број биљака по hа</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>57143</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>47619</p>
+												
+							
+											</td>
+											
+						
+										</tr>
+										
+						
+										<tr>
+											
+							
+											<td width="80%">
+												
+								
+												<p>размак између блокова (понављања)</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>1,5 m</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>1,5 m</p>
+												
+							
+											</td>
+											
+						
+										</tr>
+										
+						
+										<tr>
+											
+							
+											<td width="80%">
+												
+								
+												<p>заштитни појас </p>
+												
+								
+												<p>(најранија сорта – хибрид)</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>2 реда</p>
+												
+							
+											</td>
+											
+							
+											<td align="center" width="10%">
+												
+								
+												<p>2 реда</p>
+												
+							
+											</td>
+											
+						
+										</tr>
+										
+					
+									</tbody>
+									
+				
+								</table>
+								
+				
+								<content/>
+							</став>
+						</content>
+					</article>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<heading>Евиденција података у периоду вегетације</heading>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>У периоду вегетације сорте на огледном пољу евидентирају се следећи подаци:</p>
+									<point id="gla2-clan9-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> датум сетве;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> датум ницања (када је више од 50% никлих биљака);</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> датум цветања (када је више од 50% биљака у цветању, као помоћни критеријум за одређивање дужине вегетације);</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> датум физиолошке зрелости (када је више од 50% биљака чије је наличје главица лимун жуте боје са браон – сувим ободом ширине 1–2 cm, као помоћни критеријум за одређивање дужине вегетације);</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> датум жетве.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan10">
+						<num>10.</num>
+						<heading>Одређивање садржаја олеинских киселина</heading>
+						<content>
+							<clause id="gla2-clan10-stav1">
+								<content>
+									<p>За одређивање садржаја олеинских киселина сорте потребно је посејати 20 кућица, са по два зрна. После ницања врши се проређивање тако да остане по једна биљка у кућици. Пред почетак цветања са платненим кесама изолује се најмање 10 биљака које се скидају после завршетка оплодње.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav2">
+								<content>
+									<p>Узорак семена са изолованих биљака из става 1. овог члана извођач огледа доставља лабораторији у којој се обавља одређивање садржаја олеинских киселина у уљу.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan11">
+						<num>11.</num>
+						<heading>Испитивање толерантности на хербициде</heading>
+						<content>
+							<clause id="gla2-clan11-stav1">
+								<content>
+									<p>Сорта која се испитује на толерантност на одређени хербицид третира се у одговарајућој фенофази развоја сорте хербицидом, а две недеље после третмана оцењује се фитотоксичност и број угинулих биљака (изражава се у процентима од укупног броја биљака).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan12">
+						<num>12.</num>
+						<heading>Оцењивање фитотоксичности хербицида</heading>
+						<content>
+							<clause id="gla2-clan12-stav1">
+								<content>
+									<p>Оцењивање фитотоксичности хербицида из групе имидазолинона врши се по скали од 1 до 9, која обухвата оцене са одговарајућим значењем, и то као:</p>
+									<point id="gla2-clan12-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> оцена 1 – без оштећења;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> оцена 2 – врло слаба хлороза на појединим деловима листова која брзо нестаје;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> оцена 3 – хлороза на листовимa којима нестаје после неколико дана;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> оцена 4 – смањење у порасту (мала редукција раста);</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> оцена 5 – значајно успоравање раста (биљка са скраћеним интернодијалним размаком);</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> оцена 6 – неколико уништених биљака или некротичних тачака на стаблу;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> оцена 7 – већи број уништених биљака или некротичних тачака на стаблу;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> оцена 8 – велики број пропалих (угинулих) биљака;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> оцена 9 – потпуно пропадање свих биљака.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla2-clan13-stav1">
+								<content>
+									<p>Оцењивање фитотоксичности хербицида из групе трибенурон-метила врши се по скали од 1 до 9, која обухвата оцене са одговарајућим значењем, и то као:</p>
+									<point id="gla2-clan13-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> оцена 1 – без оштећења;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> оцена 2 – мале морфолошке промене;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> оцена 3 – мале морфолошке промене и промена боје листова;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> оцена 4 – мања деформација листа;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> оцена 5 – значајна деформација листа;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> оцена 6 – неколико уништених биљака или тешко оштећених;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> оцена 7 – већи број уништених биљака или тешко оштећених;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> оцена 8 – велики број пропалих (угинулих) биљака;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> оцена 9 – потпуно пропадање свих биљака.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan14">
+						<num>14.</num>
+						<heading>Жетва</heading>
+						<content>
+							<clause id="gla2-clan14-stav1">
+								<content>
+									<p>Непосредно пред жетву, на свим елементарним парцелама у огледу, утврђује се број:</p>
+									<point id="gla2-clan14-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> биљака пред жетву;</p>
+										</content>
+									</point>
+									<point id="gla2-clan14-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> полеглих биљака;</p>
+										</content>
+									</point>
+									<point id="gla2-clan14-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> сломљених биљака;</p>
+										</content>
+									</point>
+									<point id="gla2-clan14-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> трулих глава.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla2-clan15-stav1">
+								<content>
+									<p>Жетва свих сорти из једног огледа врши се, у истом дану, у фази пуне зрелости сорте стандард.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan15-stav2">
+								<content>
+									<p>Приликом жетве, на свим елементарним парцелама у огледу, за сваку сорту која се испитује утврђује се принос зрна и садржај влаге у зрну.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan16">
+						<num>16.</num>
+						<heading>Испитивање толерантности, односно отпорности на одређене болести</heading>
+						<content>
+							<clause id="gla2-clan16-stav1">
+								<content>
+									<p>У току испитивања сорте на огледном пољу утврђује се толерантност, односно отпорност сорте на одређене болести, и то у:</p>
+									<point id="gla2-clan16-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> природним условима инфекције;</p>
+										</content>
+									</point>
+									<point id="gla2-clan16-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> посебним огледима у природним условима инфекције.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="gla2-clan17-stav1">
+								<content>
+									<p>У природним условима инфекције испитује се толерантност, односно отпорност на следеће болести:</p>
+									<point id="gla2-clan17-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> сиво-мрку пегавост сунцокрета (Phomopsis helianthi Munt. Cvet. et. al.): оцењује се непосредно пред жетву, у фази физиолошке зрелости, евидентирањем броја биљака које имају симптоме патогена на стаблу (оцену изразити у %);</p>
+										</content>
+									</point>
+									<point id="gla2-clan17-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> мрка пегавост стабла (Phoma sp.): оцењује се непосредно пред жетву оценом 0–5 (0 – без присуства болести, 1 – од 1–20% оболелих биљака, 2 – од 21–40% оболелих биљака, 3 – од 41–60% оболелих биљака, 4 – од 61–80% оболелих биљака, 5 – од 81–100% оболелих биљака);</p>
+										</content>
+									</point>
+									<point id="gla2-clan17-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> белу трулеж (Sclerotinia sclerotiorum /Lib./ de Bary) – оцењивање се обавља на два локалитета, према следећој скали:</p>
+											<item id="gla2-clan17-stav1-tac3-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> коренска форма: 15–20 дана након цветања, изражава се у проценту оболелих биљака од укупног броја биљака,</p>
+												</content>
+											</item>
+											<item id="gla2-clan17-stav1-tac3-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> форма обољења стабла: 15–20 дана након цветања, изражава се у проценту оболелих биљака од укупног броја биљака,</p>
+												</content>
+											</item>
+											<item id="gla2-clan17-stav1-tac3-podtac3">
+												<num>(3)</num>
+												<content>
+													<p> форма обољења главе: оцена пред бербу, изражава се у проценту оболелих биљака од укупног броја биљака.</p>
+												</content>
+											</item>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="gla2-clan18-stav1">
+								<content>
+									<p>У посебним огледима у природним условима инфекције испитује се:</p>
+									<point id="gla2-clan18-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> толерантност, односно отпорност на пламењачу (Plasmopara helianthi): оцењивање се обавља на два локалитета у два понављања на 100 биљака сетвом нетретираног семена;</p>
+										</content>
+									</point>
+									<point id="gla2-clan18-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> присутност воловода (Orobanche spp.): у фази наливања зрна утврђује се укупан број нападнутих биљака од стране воловода. Оглед се изводи у једном локалитету на два понављања и на 100 биљака по понављању, без евидентирања осталих параметара. Парцелу не треба третирати хербицидима.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan19">
+						<num>19.</num>
+						<heading>Евидентирање појаве штеточина</heading>
+						<content>
+							<clause id="gla2-clan19-stav1">
+								<content>
+									<p>Ако се у току испитивања сорте на огледном пољу појаве биљне штеточине у значајнијем броју врши се њихово евидентирање.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan20">
+						<num>20.</num>
+						<heading>Узимање узорака за хемијску анализу</heading>
+						<content>
+							<clause id="gla2-clan20-stav1">
+								<content>
+									<p>За хемијску анализу семена узима се са сваког локалитета просечан узорак укупне масе 500 g који се састоји од смеше из сва четири понављања.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan20-stav2">
+								<content>
+									<p>Узорак семена се пакује у натрон или платнену кесу, затвара, обележава додељеним шифрама које је имао у огледу и доставља овлашћеној лабораторији која ради хемијско-технолошке анализе узорака.</p>
+									<тачка id="gla2-clan20-stav2-tac3">
+										<num>3.</num>
+										<content>
+											<p> Испитивање у лабораторији</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan21">
+						<num>21.</num>
+						<content>
+							<clause id="gla2-clan21-stav1">
+								<content>
+									<p>Хемијско-технолошке анализе у лабораторији обављају се на просечним узорцима из свих локалитета.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan21-stav2">
+								<content>
+									<p>На сваком узорку обавља се следећа анализа:</p>
+									<point id="gla2-clan21-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> за уљани тип: садржај уља у сувој материји зрна у процентима;</p>
+										</content>
+									</point>
+									<point id="gla2-clan21-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> за конзумни тип:</p>
+											<item id="gla2-clan21-stav2-tac2-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> маса 1000 зрна (g),</p>
+												</content>
+											</item>
+											<item id="gla2-clan21-stav2-tac2-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> садржај протеина у сувој материји зрна у процентима;</p>
+												</content>
+											</item>
+											<item id="gla2-clan21-stav2-tac2-podtac3">
+												<num>(3)</num>
+												<content>
+													<p> боја семена љуске,</p>
+												</content>
+											</item>
+											<item id="gla2-clan21-stav2-tac2-podtac4">
+												<num>(4)</num>
+												<content>
+													<p> проценат љуске (рандман).</p>
+												</content>
+											</item>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan21-stav3">
+								<content>
+									<p>Анализа сорте која се испитује на састав масних киселина у уљу сунцокрета обухвата, поред анализе из става 2. тачка 1) овог правилника и анализу састава масних киселина у уљу из узорка семена из самооплодње (изолованих биљака натрон кесама).</p>
+									<тачка id="gla2-clan21-stav3-tac4">
+										<num>4.</num>
+										<content>
+											<p> Подаци о резултатима испитивања</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan22">
+						<num>22.</num>
+						<content>
+							<clause id="gla2-clan22-stav1">
+								<content>
+									<p>Извођач огледа који испитује сорту на огледном пољу евидентира следеће податке: назив извођача огледа; име и презиме одговорног лица за извођење огледа; локалитет на коме се изводи оглед; тип земљишта и садржај хранљивих материја у земљишту на коме се налази огледно поље; предусев; обављене агротехничке мере; податке из <ref>члана 14. </ref>и <ref>члана 15. став 2. овог</ref> правилника, као и друге податке који утичу на принос испитиване сорте (оштећења од дивљачи, птица, штеточина и природних непогода и друго).</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan22-stav2">
+								<content>
+									<p>Извођач огледа који испитује толерантност, односно отпорност сорте на болести из чл. 17. и 18. овог правилника и штеточине из <ref>члана 19. овог</ref> правилника и извођач огледа који испитује толерантност сорте на одређен хербицид, евидентирају податке о резултатима таквог испитивања, као и назив извођача огледа, одговорно лице за извођење огледа и локалитет на коме се оглед изводи.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan22-stav3">
+								<content>
+									<p>Извођач огледа који испитује сорту у лабораторији евидентира податке из <ref>члана 21. овог</ref> правилника, као и назив извођача огледа, одговорно лице за извођење огледа и локалитет на коме се изводи оглед.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan22-stav4">
+								<content>
+									<p>Подаци из ст. 1, 2. и 3. овог члана саставни су део годишњих и коначних резултата испитивања.</p>
+									<тачка id="gla2-clan22-stav4-tac5">
+										<num>5.</num>
+										<content>
+											<p> Обрада података о резултатима испитивања</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan23">
+						<num>23.</num>
+						<heading>Обрада података о резултатима испитивања</heading>
+						<content>
+							<clause id="gla2-clan23-stav1">
+								<content>
+									<p>Обрада података о резултатима испитивања приноса зрна и приноса уља, врши се израчунавањем анализе варијансе по плану „потпуно случајног блок система”, а оцена значајности се изражава на основу Lsd – теста или Dunnet-овог теста за поређење средина третмана са стандардом на нивоу значајности p=0,05 и p=0,01.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan23-stav2">
+								<content>
+									<p>Поред оцене значајности из става 2. овог члана, израчунава се и коефицијент варијације (Cv) огледа.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan23-stav3">
+								<content>
+									<p>За обрачун приноса уља користе се подаци укупног приноса зрна са обрачунске парцеле по понављањима и садржај уља у процентима.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan24">
+						<num>24.</num>
+						<heading>Обрада података о резултатима испитивања осталих битних особина</heading>
+						<content>
+							<clause id="gla2-clan24-stav1">
+								<content>
+									<p>Обрада података о резултатима испитивања осталих битних особина сорте врши се израчунавањем аритметичке средине.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>МЕТОДА ИСПИТИВАЊА РАЗЛИЧИТОСТИ, УНИФОРМНОСТИ И СТАБИЛНОСТИ СОРТЕ (DUS тест)</heading>
+				<content>
+					<article id="gla3-clan25">
+						<num>25.</num>
+						<content>
+							<clause id="gla3-clan25-stav1">
+								<content>
+									<p>Различитост, униформност и стабилност сорте испитује се методом одређеном техничким упутством за тестирање различитости, униформности и стабилности сорте.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ЗАВРШНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla4-clan26">
+						<num>26.</num>
+						<content>
+							<clause id="gla4-clan26-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan26-stav2">
+								<content>
+									<p>Број 110-00-00079/2012-09</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan26-stav3">
+								<content>
+									<p>У Београду, 8. јануара 2013. године</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan26-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan26-stav5">
+								<content>
+									<p>Горан Кнежевић, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

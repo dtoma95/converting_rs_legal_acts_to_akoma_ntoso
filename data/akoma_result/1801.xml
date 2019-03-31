@@ -1,0 +1,759 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1990/11-462/main"/>
+					<FRBRuri value="/rs/act/1990/11-462"/>
+					<FRBRdate date="1990" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1991/49-2017/srp@/main"/>
+					<FRBRuri value="/rs/act/1991/49-2017/srp@"/>
+					<FRBRdate date="1991" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1991/49-2017/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1991/49-2017/srp@.akn"/>
+					<FRBRdate date="1991" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1990-3-17" name="службени гласник срс" number="11" showAs="Службени гласник СРС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="12. Заштита природе" value="12. заштита природе"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1990-02-23" id="usvajanje"/>
+				<step date="1990-03-25" id="stupanje_na_snagu"/>
+				<step date="1990-03-25" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="11/1990-462" id="e1" type="generation"/>
+				<eventRef date="49/1991-2017" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу   <ref>члана 23. став 1. тачка 2</ref>.  Закона о заштити природе („<ref id="ref4" href="/rs/act/88/29/srp@">Службени гласник  СРС”, број 29/88</ref>),</p>
+			<p>Извршно веће Скупштине Социјалистичке Републике Србије доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о  стављању под заштиту биљних врста као природних рекости</title>
+			<date>„Службени гласник СРС”, број 11 од 17.   марта 1990, „Службени гласник РС”, број 49 од 15.   августа 1991.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Као природне реткости стављају се под заштиту ретке, проређене и угрожене биљне врсте којима је из природних узрока или људском делатношћу угрожен опстанак, односно које су угрожене коришћењем и прометом* ради очувања генофонда, односно појединих чланова животних заједница одређених екосистема Републике.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>*<ref id="ref5" href="/rs/act/1991/49/srp@">Службени гласник РС, број 49/1991</ref></heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Под потпуну забрану коришћења и промета стављају се следеће биљне врсте:*</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>Ред SCROPHULARIALES</heading>
+				<content>
+					<section id="gla1-od1">
+						<num>1.</num>
+						<heading> Фамилија Gesneriaceaе Dumort:</heading>
+						<content>
+							<point id="gla1-od1-clan2-tac1">
+								<num>1)</num>
+								<content>
+									<p> Ramonda serbica Panc. (nрпска рамондија);</p>
+								</content>
+							</point>
+							<point id="gla1-od1-clan2-tac2">
+								<num>2)</num>
+								<content>
+									<p> Ramonda Nathaliae Panc. (iаталијина рамондија).</p>
+								</content>
+							</point>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>Ред SAXIFRAGALES</heading>
+				<content>
+					<section id="gla2-od1">
+						<num>1.</num>
+						<heading> Фамилија Droseraceae:</heading>
+						<content>
+							<point id="gla2-od1-clan2-tac1">
+								<num>1)</num>
+								<content>
+									<p> Drosera rotundifolia (росуља)</p>
+								</content>
+							</point>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>Ред MYRTALES</heading>
+				<content>
+					<section id="gla3-od1">
+						<num>1.</num>
+						<heading> Фамилија Trapacае dum:</heading>
+						<content>
+							<point id="gla3-od1-clan2-tac1">
+								<num>1)</num>
+								<content>
+									<p> Trapa (водени орах или орашак).</p>
+								</content>
+							</point>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>Ред GENTIANALES</heading>
+				<content>
+					<section id="gla4-od1">
+						<num>1.</num>
+						<heading> Фамилија Gentianaseae (линцуре):</heading>
+						<content>
+							<point id="gla4-od1-clan2-tac1">
+								<num>1)</num>
+								<content>
+									<p> Gentiana lutea;</p>
+								</content>
+							</point>
+							<point id="gla4-od1-clan2-tac2">
+								<num>2)</num>
+								<content>
+									<p> Gentiana symphyandra;</p>
+								</content>
+							</point>
+							<point id="gla4-od1-clan2-tac4">
+								<num>4)</num>
+								<content>
+									<p> Gentiana acualis.</p>
+								</content>
+							</point>
+						</content>
+					</section>
+					<section id="gla4-od2">
+						<num>2.</num>
+						<heading> Фамилија Menyathacenea:*</heading>
+						<content>
+							<point id="gla4-od2-clan2-tac1">
+								<num>1)</num>
+								<content>
+									<p> Menyathes trifoliata L. (горска детелина).*</p>
+								</content>
+							</point>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>Ред LEONTOPODIUM</heading>
+				<content>
+					<point id="gla5-clan2-tac1">
+						<num>1)</num>
+						<content>
+							<p> Leontopodium alpinum Cass. (планика или рунолист).</p>
+						</content>
+					</point>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>Ред THUMELAEALES</heading>
+				<content>
+					<section id="gla6-od1">
+						<num>1.</num>
+						<heading> Фамилија Thymelaeaceae:</heading>
+						<content>
+							<point id="gla6-od1-clan2-tac1">
+								<num>1)</num>
+								<content>
+									<p> Daphne blagayana Frey. (благајев ликовац);</p>
+								</content>
+							</point>
+							<point id="gla6-od1-clan2-tac2">
+								<num>2)</num>
+								<content>
+									<p> Daphne laureola L. (ловорасти јеремичак).</p>
+								</content>
+							</point>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla7">
+				<num>VII</num>
+				<heading>Ред ILEX</heading>
+				<content>
+					<section id="gla7-od1">
+						<num>1.</num>
+						<heading> Фамилија Aquifoliaceae:</heading>
+						<content>
+							<point id="gla7-od1-clan2-tac1">
+								<num>1)</num>
+								<content>
+									<p> Ilex aquifolium L. (зеленика или божиковина).</p>
+								</content>
+							</point>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla8">
+				<num>VIII</num>
+				<heading>Ред FORSYTHIA</heading>
+				<content>
+					<section id="gla8-od1">
+						<num>1.</num>
+						<heading> Фамилија Oleaceae:</heading>
+						<content>
+							<point id="gla8-od1-clan2-tac1">
+								<num>1)</num>
+								<content>
+									<p> Forsythia еuropaeа Deg. i Bald. (форзиција).</p>
+								</content>
+							</point>
+							<clause id="gla8-od1-clan2-stav1">
+								<content>
+									<p>IХ. Ред CUNONIALES</p>
+								</content>
+							</clause>
+							<section id="gla8-od1">
+								<num>1.</num>
+								<heading> Фамилија Grossulariaceae Do:</heading>
+								<content>
+									<point id="gla8-od1-clan2-tac1">
+										<num>1)</num>
+										<content>
+											<p> Prunus lauracerasus (зеленичје).</p>
+										</content>
+									</point>
+									<clause id="gla8-od1-clan2-stav1">
+										<content>
+											<p>Х. Ред BETULALES</p>
+										</content>
+									</clause>
+									<section id="gla8-od1">
+										<num>1.</num>
+										<heading> Фамилија Betulaceae:</heading>
+										<content>
+											<point id="gla8-od1-clan2-tac1">
+												<num>1)</num>
+												<content>
+													<p> Betula pubescenus Ehrh. (маљава бреза).</p>
+												</content>
+											</point>
+											<clause id="gla8-od1-clan2-stav1">
+												<content>
+													<p>ХI. Ред ERICALES*</p>
+												</content>
+											</clause>
+											<section id="gla8-od1">
+												<num>1.</num>
+												<heading> Фамилија Ericaseae:*</heading>
+												<content>
+													<point id="gla8-od1-clan2-tac1">
+														<num>1)</num>
+														<content>
+															<p> Arctostaphylos uva ursi (L.) Спренг – (медвеђе грожђе, планика).*</p>
+														</content>
+													</point>
+													<clause id="gla8-od1-clan2-stav1">
+														<content>
+															<p>ХII. Ред LAMIALES*</p>
+														</content>
+													</clause>
+													<section id="gla8-od1">
+														<num>1.</num>
+														<heading> Фамилија Ericaceae:*</heading>
+														<content>
+															<point id="gla8-od1-clan2-tac1">
+																<num>1)</num>
+																<content>
+																	<p> Salvia officinalis L. – (жалфија, кадуља);*</p>
+																</content>
+															</point>
+															<point id="gla8-od1-clan2-tac2">
+																<num>2)</num>
+																<content>
+																	<p> Nepeta rtanjensis Diklic et Milojevic (iепета);*</p>
+																</content>
+															</point>
+															<point id="gla8-od1-clan2-tac3">
+																<num>3)</num>
+																<content>
+																	<p> Hyssopus officinalis L. – (исоп, милодух).*</p>
+																</content>
+															</point>
+															<clause id="gla8-od1-clan2-stav1">
+																<content>
+																	<p>ХIII. Ред RANALES*</p>
+																</content>
+															</clause>
+															<section id="gla8-od1">
+																<num>1.</num>
+																<heading>Фамилија Ranunculaecae:*</heading>
+																<content>
+																	<point id="gla8-od1-clan2-tac1">
+																		<num>1)</num>
+																		<content>
+																			<p> Adonis vernalis L. (гороцвет, зечији мак);*</p>
+																		</content>
+																	</point>
+																	<point id="gla8-od1-clan2-tac2">
+																		<num>2)</num>
+																		<content>
+																			<p> Pulssatilla vulgaris Mill, (саса, велика саса).*</p>
+																		</content>
+																	</point>
+																	<clause id="gla8-od1-clan2-stav1">
+																		<content>
+																			<p>ХIV. Ред ASTERALES*</p>
+																		</content>
+																	</clause>
+																	<section id="gla8-od1">
+																		<num>1.</num>
+																		<heading> Фамилија Asteraceae:*</heading>
+																		<content>
+																			<point id="gla8-od1-clan2-tac1">
+																				<num>1)</num>
+																				<content>
+																					<p> Helichrysum arenarium (L.) DC. (смиље).*</p>
+																				</content>
+																			</point>
+																			<clause id="gla8-od1-clan2-stav1">
+																				<content>
+																					<p>ХV. Ред RUTALES*</p>
+																				</content>
+																			</clause>
+																			<section id="gla8-od1">
+																				<num>1.</num>
+																				<heading> Фамилија Rutaceae:*</heading>
+																				<content>
+																					<point id="gla8-od1-clan2-tac1">
+																						<num>1)</num>
+																						<content>
+																							<p> Ruta graveolens L. 1753 (седеф, рута).*</p>
+																						</content>
+																					</point>
+																					<clause id="gla8-od1-clan2-stav1">
+																						<content>
+																							<p>ХVI. Ред DILLENIALES*</p>
+																						</content>
+																					</clause>
+																					<section id="gla8-od1">
+																						<num>1.</num>
+																						<heading> Фамилија Paeoniaceae:*</heading>
+																						<content>
+																							<point id="gla8-od1-clan2-tac2">
+																								<num>2)</num>
+																								<content>
+																									<p> Paeonia officinalis L. (божур);*</p>
+																								</content>
+																							</point>
+																							<point id="gla8-od1-clan2-tac3">
+																								<num>3)</num>
+																								<content>
+																									<p> Paeonia tnuifolia (степски божур).*</p>
+																								</content>
+																							</point>
+																							<article id="gla8-od1-clan3">
+																								<num>3.</num>
+																								<heading>*<ref id="ref6" href="/rs/act/1991/49/srp@">Службени  гласник РС, број 49/1991</ref></heading>
+																								<content>
+																									<clause id="gla8-od1-clan3-stav1">
+																										<content>
+																											<p>Забрањена је сеча, брање, уништавање и промет природних реткости из <ref>члана 2. </ref>ове одлуке.</p>
+																										</content>
+																									</clause>
+																									<article id="gla8-od1-clan3.а">
+																										<num>3а</num>
+																										<content>
+																											<clause id="gla8-od1-clan3.а-stav1">
+																												<content>
+																													<p>Под контролу коришћења и промета стављају се следеће врсте:*</p>
+																												</content>
+																											</clause>
+																										</content>
+																									</article>
+																								</content>
+																							</article>
+																						</content>
+																					</section>
+																				</content>
+																			</section>
+																		</content>
+																	</section>
+																</content>
+															</section>
+														</content>
+													</section>
+												</content>
+											</section>
+										</content>
+									</section>
+								</content>
+							</section>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>Ред BASIDIOMYCETES*</heading>
+				<content>
+					<section id="gla1-od1">
+						<num>1.</num>
+						<heading> Фамилија Polyporaceae:*</heading>
+						<content>
+							<point id="gla1-od1-clan3.а-tac1">
+								<num>1)</num>
+								<content>
+									<p> Boletus edulis Bull. ex. Fr (летњи, јесењи вргањ).*</p>
+								</content>
+							</point>
+						</content>
+					</section>
+					<section id="gla1-od2">
+						<num>2.</num>
+						<heading> Фамилија Agaricaeae:*</heading>
+						<content>
+							<point id="gla1-od2-clan3.а-tac1">
+								<num>1)</num>
+								<content>
+									<p> Pleurotus ostreatus Jacq. ex. Fr, Kummer (буковача, остригар).*</p>
+								</content>
+							</point>
+						</content>
+					</section>
+					<section id="gla1-od3">
+						<num>3.</num>
+						<heading> Фамилија Agaricaceae:*</heading>
+						<content>
+							<point id="gla1-od3-clan3.а-tac1">
+								<num>1)</num>
+								<content>
+									<p> Cantharellus cibarius L. ex. Fr (лисичарка).*</p>
+								</content>
+							</point>
+						</content>
+					</section>
+					<section id="gla1-od4">
+						<num>4.</num>
+						<heading> Фамилија Helvellaceae:*</heading>
+						<content>
+							<point id="gla1-od4-clan3.а-tac1">
+								<num>1)</num>
+								<content>
+									<p> Све врсте рода Morchella (смрчци).*</p>
+								</content>
+							</point>
+						</content>
+					</section>
+					<section id="gla1-od5">
+						<num>5.</num>
+						<heading> Фамилија Lactariaceae:*</heading>
+						<content>
+							<point id="gla1-od5-clan3.а-tac1">
+								<num>1)</num>
+								<content>
+									<p> Све врсте рода Lactarius (млечница).*</p>
+								</content>
+							</point>
+						</content>
+					</section>
+					<section id="gla1-od6">
+						<num>6.</num>
+						<heading> Фамилија Agariaceae:*</heading>
+						<content>
+							<point id="gla1-od6-clan3.а-tac1">
+								<num>1)</num>
+								<content>
+									<p> Agaricus (шампињони).*</p>
+								</content>
+							</point>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>Ред ERICALES*</heading>
+				<content>
+					<section id="gla2-od1">
+						<num>1.</num>
+						<heading> Фамилија Vacciniaceae:*</heading>
+						<content>
+							<point id="gla2-od1-clan3.а-tac1">
+								<num>1)</num>
+								<content>
+									<p> Vaccinium myrtillus L. (боровница).*</p>
+								</content>
+							</point>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>Ред CONIFERALES*</heading>
+				<content>
+					<section id="gla3-od1">
+						<num>1.</num>
+						<heading> Фамилија Cupressaceae:*</heading>
+						<content>
+							<point id="gla3-od1-clan3.а-tac1">
+								<num>1)</num>
+								<content>
+									<p> Juniperus communis L. (клека, вења).*</p>
+								</content>
+							</point>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>Ред ARALIALES*</heading>
+				<content>
+					<section id="gla4-od1">
+						<num>1.</num>
+						<heading> Фамилија Apiaceae:*</heading>
+						<content>
+							<point id="gla4-od1-clan3.а-tac1">
+								<num>1)</num>
+								<content>
+									<p> Angelica archangelica L. (анђеоски корен).*</p>
+								</content>
+							</point>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>Ред PRIMULALES*</heading>
+				<content>
+					<section id="gla5-od1">
+						<num>1.</num>
+						<heading> Фамилија Primulaceae:*</heading>
+						<content>
+							<point id="gla5-od1-clan3.а-tac1">
+								<num>1)</num>
+								<content>
+									<p> Primula veris Huds. (јагорчевина, јаглика).*</p>
+								</content>
+							</point>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>Ред ARALES*</heading>
+				<content>
+					<section id="gla6-od1">
+						<num>1.</num>
+						<heading> Фамилија Araceae:*</heading>
+						<content>
+							<point id="gla6-od1-clan3.а-tac1">
+								<num>1)</num>
+								<content>
+									<p> Acorus calamus L. (иђирот).*</p>
+								</content>
+							</point>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla7">
+				<num>VII</num>
+				<heading>Ред GENTIANALES*</heading>
+				<content>
+					<section id="gla7-od1">
+						<num>1.</num>
+						<heading> Фамилија Gentianaceae:*</heading>
+						<content>
+							<point id="gla7-od1-clan3.а-tac1">
+								<num>1)</num>
+								<content>
+									<p> Centaurium umbellatum Cilib (кичица, китица).*</p>
+								</content>
+							</point>
+							<article id="gla7-od1-clan3.б">
+								<num>3б</num>
+								<heading>*<ref id="ref7" href="/rs/act/1991/49/srp@">Службени гласник РС, број 49/1991</ref></heading>
+								<content>
+									<clause id="gla7-od1-clan3.б-stav1">
+										<content>
+											<p>Врсте из члана 3а могу се брати и откупљивати под условима утврђеним у овој одлуци.*</p>
+										</content>
+									</clause>
+									<clause id="gla7-od1-clan3.б-stav2">
+										<content>
+											<p>Организација из члана 3в став 1. ове одлуке може привремено да забрани брање, односно сакупљање појединих врста или њихових делова, односно плодова на одређеном подручју где су те врсте угрожене због непридржавања утврђених услова од стране берача, односно откупљивача или других разлога.*</p>
+										</content>
+									</clause>
+									<clause id="gla7-od1-clan3.б-stav3">
+										<content>
+											<p>За врсте гљива из члана 3а под римским бројем I. утврђује се забрана:*</p>
+											<alinea id="gla7-od1-clan3.б-stav3-ali1">
+												<content>
+													<p>рања и откупа примерака пречника шешира испод 2 цм, као и презрелих и недораслих примерака;*</p>
+												</content>
+											</alinea>
+											<alinea id="gla7-od1-clan3.б-stav3-ali2">
+												<content>
+													<p>рања више од 90% укупне количине на подручју сакупљања, као и у близини прометних путева и на депонијама отпадног материјала.*</p>
+												</content>
+											</alinea>
+										</content>
+									</clause>
+									<clause id="gla7-od1-clan3.б-stav4">
+										<content>
+											<p>За врсте лековитог биља из члана 3а под римским бр. II до VII утврђује се забрана:*</p>
+											<alinea id="gla7-od1-clan3.б-stav4-ali1">
+												<content>
+													<p>акупљања плодова механичким средствима која оштећују вегетативне органе;*</p>
+												</content>
+											</alinea>
+											<alinea id="gla7-od1-clan3.б-stav4-ali2">
+												<content>
+													<p>упања или ископавања читавих подземних органа;*</p>
+												</content>
+											</alinea>
+											<alinea id="gla7-od1-clan3.б-stav4-ali3">
+												<content>
+													<p>рања пре цветања, као и после цветања (плодоношења).*</p>
+												</content>
+											</alinea>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla7-od1-clan3.в">
+								<num>3в</num>
+								<heading>*<ref id="ref8" href="/rs/act/1991/49/srp@">Службени гласник РС, број 49/1991</ref></heading>
+								<content>
+									<clause id="gla7-od1-clan3.в-stav1">
+										<content>
+											<p>Брање, односно сакупљање, односно откуп врста или њихових делова, односно плодова из члана 3а ове одлуке, одобрава Завод за заштиту природе.*</p>
+										</content>
+									</clause>
+									<clause id="gla7-od1-clan3.в-stav2">
+										<content>
+											<p>Захтев за издавање одобрења из става 1. овог члана подноси се најкасније 15 дана пре сезоне брања, односно сакупљања врста.*</p>
+										</content>
+									</clause>
+									<clause id="gla7-od1-clan3.в-stav3">
+										<content>
+											<p>Акт о одобравању брања, односно сакупљања, односно откупа, садржи врсту која се може брати, сакупљати, односно откупљивати, количину, период и подручје за које се одобрење издаје.*</p>
+										</content>
+									</clause>
+									<clause id="gla7-od1-clan3.в-stav4">
+										<content>
+											<p>Завод за заштиту природе дужан је да један примерак акта из става 3. овог члана доставља општинском органу надлежном за послове привреде.*</p>
+										</content>
+									</clause>
+									<clause id="gla7-od1-clan3.в-stav5">
+										<content>
+											<p>Правна или физичка лица која врше откуп врста из члана 3а, дужна су да податке о откупљеним количинама достављају Заводу за заштиту природе.*</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla7-od1-clan4">
+								<num>4.</num>
+								<heading>*<ref id="ref9" href="/rs/act/1991/49/srp@">Службени гласник РС, број 49/1991</ref></heading>
+								<content>
+									<clause id="gla7-od1-clan4-stav1">
+										<content>
+											<p>За природне реткости из <ref>члана 2. </ref>и члана 3а* ове одлуке донеће се програм заштите и развоја, којим ће се утврдити и услови за потпуније информисање и популаризацију заштићених природних реткости.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla7-od1-clan5">
+								<num>5.</num>
+								<heading>*<ref id="ref10" href="/rs/act/1991/49/srp@">Службени гласник РС, број 49/1991</ref></heading>
+								<content>
+									<clause id="gla7-od1-clan5-stav1">
+										<content>
+											<p>О заштити природних реткости стара се Републички завод за заштиту природе, спровођењем програма заштите и развоја из <ref>члана 4. </ref>ове одлуке, вршењем стручног надзора над спровођењем утврђених мера заштите и популаризацијом заштићених природних реткости, као и имаоци односно корисници тих реткости.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla7-od1-clan6">
+								<num>6.</num>
+								<content>
+									<clause id="gla7-od1-clan6-stav1">
+										<content>
+											<p>Ова одлука ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Социјалистичке Републике Србије”.</p>
+										</content>
+									</clause>
+									<clause id="gla7-od1-clan6-stav2">
+										<content>
+											<p>05 број 501-603/32</p>
+										</content>
+									</clause>
+									<clause id="gla7-od1-clan6-stav3">
+										<content>
+											<p>У Београду, 23. фебруара 1990. године</p>
+										</content>
+									</clause>
+									<clause id="gla7-od1-clan6-stav4">
+										<content>
+											<p>Извршно веће Скупштине Социјалистичке Републике Србије</p>
+										</content>
+									</clause>
+									<clause id="gla7-od1-clan6-stav5">
+										<content>
+											<p>Потпредседник,</p>
+										</content>
+									</clause>
+									<clause id="gla7-od1-clan6-stav6">
+										<content>
+											<p>Душан Михајловић,   с.р.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</section>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

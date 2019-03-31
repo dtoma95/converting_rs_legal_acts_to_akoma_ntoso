@@ -1,0 +1,633 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2014/30-157/main"/>
+					<FRBRuri value="/rs/act/2014/30-157"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2014/30-157/srp@/main"/>
+					<FRBRuri value="/rs/act/2014/30-157/srp@"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2014/30-157/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2014/30-157/srp@.akn"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2014-3-14" name="службени гласник рс" number="30" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="1. Сточарство" value="1. сточарство"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2014-03-13" id="usvajanje"/>
+				<step date="2014-03-22" id="stupanje_na_snagu"/>
+				<step date="2014-07-01" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник је ступио на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 22. марта 2014. године, а примењује се од 1. јула 2014. године (види <ref>члан 11. </ref>Правилника).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 33. став 3. </ref>Закона о сточарству („<ref id="ref4" href="/rs/act/09/41/srp@">Службени гласник РС”, бр. 41/09</ref> и 93/12) и <ref>члана 17. став 4. </ref>и <ref>члана 24. став 2. </ref>Закона о Влади („<ref id="ref5" href="/rs/act/05/55/srp@">Службени гласник РС”, бр. 55/05, 71/05</ref> – исправка, 101/07, 65/08, 16/11, 68/12 – УС, 72/12 и 7/14 – УС),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, шумарства и водопривреде доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о начину вођења евиденције и садржини потврде о вештачком осемењавању, односно природном парењу</title>
+			<date>&quot;Службени      гласник РС&quot;, број 30 од 14. марта 2014.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником ближе се прописује начин вођења евиденције о вештачком осемењавању, односно природном парењу, као и садржина потврде о вештачком осемењавању, односно природном парењу.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Евиденција о вештачком осемењавању, односно евиденција о природном парењу води се у писаном облику.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Евиденција из става 1. овог члана може да се води и у електронском облику, при чему се обезбеђује одговарајућа заштита ради спречавања неовлашћеног улаза у базу података, а лице које врши унос или преглед базе података овлашћено је за то у складу са посебним прописом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Евиденција вештачком осемењавању обухвата:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> евиденцију о вештачком осемењавању плоткиња;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> евиденцију о осемењеним плоткињама.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Евиденција о вештачком осемењавању плоткиња води се посебно за сваку врсту и расу плоткиња, и то за календарску годину.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Евиденција о осемењеним плоткињама води се посебно за сваку врсту плоткиња и доставља се Центру за репродукцију животиња и вештачко осемењавање од којег је набављена сперма, као и главној одгајивачкој организацији, на крају сваког тромесечја, и то до 25-ог дана у следећем месецу.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>У евиденцију о вештачком осемењавању плоткиња уносе се следећи подаци:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив извођача вештачког осемењавања;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> врста и раса плоткиње;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> редни број осемењавања;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> датум осемењавања;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> ИД број плоткиње;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> број у главној матичној евиденцији плоткиње, уколико је уписана у главну матичну евиденцију;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> датум, односно година рођења плоткиње;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> број у главној матичној евиденцији, име за бикове и пастуве, као и раса оца плоткиње;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> број у главној матичној евиденцији, име за бикове и пастуве, као и раса приплодњака чијом спермом је плоткиња осемењена;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> име, презиме и адреса одгајивача плоткиње;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> број потврде о осемењавању;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> потпис и име лица које је обавило осемењавање.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Евиденција из става 1. овог члана дата је у Прилогу 1, који је одштампан уз овај правилник и чини његов саставни део (у даљем тексту: Прилог 1).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>У евиденцију о осемењеним плоткињама, датој у Прилогу 1. овог правилника, уносе се следећи подаци:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив извођача вештачког осемењавања;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> врста плоткиње;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> стање залиха сперме на почетку раздобља (број у главној матичној евиденцији приплодњака и број доза сперме);</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> набавка сперме у раздобљу за који се подноси извештај (број у главној матичној евиденцији приплодњака и број доза сперме);</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> утрошак доза сперме (број првих осемењавања, укупан број осталих осемењавања и утрошених доза);</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> стање залиха сперме на крају раздобља (број доза сперме и број у главној матичној евиденцији приплодњака).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Евиденција о природном парењу обухвата:</p>
+							<point id="clan6-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> евиденцију о природном парењу плоткиња;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> евиденцију о обављеним природним парењима.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Евиденција о природном парењу плоткиња води се посебно за сваког приплодњака, и то за календарску годину.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>Евиденција о обављеним природним парењима води се и доставља главној одгајивачкој организацији, у сарадњи са основном одгајивачком организацијом, и то до 15-ог новембра текуће године за претходну сточарску годину.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>У евиденцију о природном парењу плоткиња уносе се следећи подаци:</p>
+							<point id="clan7-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> име/назив и адреса одгајивача приплодњака;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> врста и раса приплодњака;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> ИД број приплодњака;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> број у главној матичној евиденцији, име за бикове и пастуве, као и раса приплодњака;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> редни број;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> датум парења;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> ИД број плоткиње;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> број у главној матичној евиденцији плоткиње, уколико је уписана у главну матичну евиденцију;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> раса плоткиње;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> датум, односно година рођења плоткиње;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> број у главној матичној евиденцији, име за бикове и пастуве, као и раса оца плоткиње;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> редни број парења (прво парење и остала парења);</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> број потврде о природном парењу.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Евиденција из става 1. овог члана дата је у Прилогу 2, који је одштампан уз овај правилник и чини његов саставни део (у даљем тексту: Прилог 2).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>У евиденцију о обављеним природним парењима, датој у Прилогу 2. овог правилника, уносе се следећи подаци:</p>
+							<point id="clan8-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> име/назив и адреса одгајивача приплодњака;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> врста и раса ИД број приплодњака (и име за бикове и пастуве);</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> број у главној матичној евиденцији приплодњака;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> период коришћења приплодњака;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> број обављених парења (прво парење и остала парења);</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> укупан број парења.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Потврда о вештачком осемењавању садржи следеће податке:</p>
+							<point id="clan9-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> редни број потврде о осемењавању;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> назив извођача вештачког осемењавања;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> име/назив и адреса одгајивача плоткиње;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> ИД број плоткиње;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> број у главној матичној евиденцији плоткиње, уколико је уписана у главну матичну евиденцију;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> врста и раса плоткиња;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> датум, односно година рођења плоткиње;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> раса и број у главној матичној евиденцији оца плоткиње (и име за бикове и пастуве);</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> редни број и датум осемењавања и реосемењавања;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> ИД број приплодњака чијом спермом је плоткиња осемењена;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> број у главној матичној евиденцији, име за бикове и пастуве, као и раса приплодњака.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Потврда из става 1. овог члана дата је у Прилогу 3, који је одштампан уз овај правилник и чини његов саставни део (у даљем тексту: Прилог 3).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Потврда о природном парењу садржи следеће податке:</p>
+							<point id="clan10-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> редни број потврде о природном парењу;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> име/назив и адреса одгајивача приплодњака;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> врста и раса плоткиње;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> ИД број плоткиње;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> број у главној матичној евиденцији плоткиње, уколико је уписана у главну матичну евиденцију;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> датум, односно година рођења плоткиње;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> раса и број у главној матичној евиденцији оца плоткиње (и име за бикове и пастуве);</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> редни број парења;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> датум парења;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> ИД број, име за бикове и пастуве, као и раса приплодњака;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> број у главној матичној евиденцији приплодњака;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> редни број у евиденцији о природном парењу.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Потврда из става 1. овог члана дата је у Прилогу 3. овог правилника.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, а примењује се од 1. јула 2014. године.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Број 110-00-00045/2014-09</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav3">
+						<content>
+							<p>У Београду, 13. марта 2014. године</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav5">
+						<content>
+							<p>проф. др Драган Гламочић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav6">
+						<content>
+							<p>ПРИЛОЗИ</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav7">
+						<content>
+							<p>Прилог 1. -          Евиденција о вештачком осемењавању (евиденција      о вештачком осемењавању плоткиња)</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav8">
+						<content>
+							<p>Прилог 2. -          Евиденција о природном парењу (евиденција      о природном парењу плоткиња)</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

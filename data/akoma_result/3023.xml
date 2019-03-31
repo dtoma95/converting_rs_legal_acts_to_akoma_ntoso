@@ -1,0 +1,374 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2008/94-17/main"/>
+					<FRBRuri value="/rs/act/2008/94-17"/>
+					<FRBRdate date="2008" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2008/94-17/srp@/main"/>
+					<FRBRuri value="/rs/act/2008/94-17/srp@"/>
+					<FRBRdate date="2008" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2008/94-17/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2008/94-17/srp@.akn"/>
+					<FRBRdate date="2008" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2008-10-17" name="службени гласник рс“" number="94" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="3. Оснивачки акти здравствених установа" value="3. оснивачки акти здравствених установа"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2008-10-16" id="usvajanje"/>
+				<step date="2008-10-25" id="stupanje_na_snagu"/>
+				<step date="2008-10-25" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 214. став 1. </ref>Закона о здравственој заштити („<ref id="ref3" href="/rs/act/05/107/srp@">Службени гласник РС”, број 107/05</ref>), <ref>члана 9. </ref>Закона о јавним агенцијама („<ref id="ref4" href="/rs/act/05/18/srp@">Службени гласник РС”, бр. 18/05</ref> и 81/05) и <ref>члана 43. став 1. </ref>Закона о Влади („<ref id="ref5" href="/rs/act/05/55/srp@">Службени гласник РС”, бр. 55/05, 71/05</ref> – исправка, 101/07 и 65/08),</p>
+			<p>Влада доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о оснивању Агенције за акредитацију здравствених установа Србије</title>
+			<date>„Службени гласник РС“, број 94 од 17. октобра 2008.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Оснива се Агенција за акредитацију здравствених установа Србије (у даљем тексту: Агенција) ради обављања стручних, регулаторних и развојних послова у поступку акредитације здравствених установа.</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Назив Агенције је Агенција за акредитацију здравствених установа Србије.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>Седиште Агенције је у Београду, улица др Суботића број 5.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Агенција је самостална у свом раду.</heading>
+				<content>
+					<clause id="od3-stav1">
+						<content>
+							<p>Агенција има својство правног лица које стиче уписом у судски регистар.</p>
+						</content>
+					</clause>
+					<clause id="od3-stav2">
+						<content>
+							<p>Агенција за своје обавезе одговара средствима којима располаже.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Делатност Агенције јесте:</heading>
+				<content>
+					<point id="od4-tac1">
+						<num>1)</num>
+						<content>
+							<p> утврђивање стандарда за акредитацију здравствених установа;</p>
+						</content>
+					</point>
+					<point id="od4-tac2">
+						<num>2)</num>
+						<content>
+							<p> процена квалитета пружене здравствене заштите становништву;</p>
+						</content>
+					</point>
+					<point id="od4-tac3">
+						<num>3)</num>
+						<content>
+							<p> решавање у управним стварима о акредитацији здравствених установа;</p>
+						</content>
+					</point>
+					<point id="od4-tac4">
+						<num>4)</num>
+						<content>
+							<p> издавање јавних исправа о акредитацији (сертификат);</p>
+						</content>
+					</point>
+					<point id="od4-tac5">
+						<num>5)</num>
+						<content>
+							<p> вођење евиденције о издатим сертификатима.</p>
+						</content>
+					</point>
+					<clause id="od4-stav1">
+						<content>
+							<p>Делатност из става 1. ове тачке Агенција обавља као поверене послове државне управе, у складу са законом.</p>
+						</content>
+					</clause>
+					<clause id="od4-stav2">
+						<content>
+							<p>На акт из става 1. подтачка 1) ове тачке сагласност даје Влада, у складу са законом.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> Средства за оснивање и почетак рада Агенције обезбеђују се у буџету Републике Србије.</heading>
+				<content>
+					<clause id="od5-stav1">
+						<content>
+							<p>Агенција може стицати средства за рад од поклона, легата, завештања и донација, у складу са законом.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od6">
+				<num>6.</num>
+				<heading> Органи Агенције јесу: Управни одбор и директор.</heading>
+				<content>
+					<clause id="od6-stav1">
+						<content>
+							<p>Органе из става 1. ове тачке именује и разрешава Влада.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od7">
+				<num>7.</num>
+				<heading> Управни одбор има председника и шест чланова.</heading>
+				<content>
+					<clause id="od7-stav1">
+						<content>
+							<p>Чланови Управног одбора јесу:</p>
+							<point id="od7-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> један представник Лекарске коморе Србије;</p>
+								</content>
+							</point>
+							<point id="od7-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> један представник Стоматолошке коморе Србије;</p>
+								</content>
+							</point>
+							<point id="od7-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> један представник Фармацеутске коморе Србије;</p>
+								</content>
+							</point>
+							<point id="od7-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> један представник Коморе биохемичара Србије;</p>
+								</content>
+							</point>
+							<point id="od7-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> један представник Републичког завода за здравствено осигурање;</p>
+								</content>
+							</point>
+							<point id="od7-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> један представник Института за јавно здравље Србије „др Милан Јовановић Батут”;</p>
+								</content>
+							</point>
+							<point id="od7-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> један представник Министарства здравља из реда државних службеника на положају.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="od7-stav2">
+						<content>
+							<p>Чланови Управног одбора именују се на пет година и могу бити поново именовани.</p>
+							<тачка id="od7-stav2-tac8">
+								<num>8.</num>
+								<content>
+									<p> Управни одбор:</p>
+								</content>
+							</тачка>
+							<point id="od7-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> доноси Статут;</p>
+								</content>
+							</point>
+							<point id="od7-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> усваја годишњи програм рада и финансијски план;</p>
+								</content>
+							</point>
+							<point id="od7-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> усваја годишњи извештај о раду и завршни рачун;</p>
+								</content>
+							</point>
+							<point id="od7-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> доноси друге опште акте, у складу са законом;</p>
+								</content>
+							</point>
+							<point id="od7-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> усмерава рад директора и издаје му упутства за рад;</p>
+								</content>
+							</point>
+							<point id="od7-stav2-tac6">
+								<num>6)</num>
+								<content>
+									<p> врши надзор над пословањем Агенције;</p>
+								</content>
+							</point>
+							<point id="od7-stav2-tac7">
+								<num>7)</num>
+								<content>
+									<p> подноси извештај о раду и пословању Агенције оснивачу;</p>
+								</content>
+							</point>
+							<point id="od7-stav2-tac8">
+								<num>8)</num>
+								<content>
+									<p> обавља и друге послове у складу са законом и Статутом Агенције.</p>
+								</content>
+							</point>
+							<тачка id="od7-stav2-tac9">
+								<num>9.</num>
+								<content>
+									<p> Директор:</p>
+								</content>
+							</тачка>
+							<point id="od7-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> организује и руководи радом и пословањем Агенције;</p>
+								</content>
+							</point>
+							<point id="od7-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> доноси одлуке, односно управне акте из надлежности Агенције, осим одлука које доноси Управни одбор:</p>
+								</content>
+							</point>
+							<point id="od7-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> заступа и представља Агенцију;</p>
+								</content>
+							</point>
+							<point id="od7-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> одговара за законитост рада, као и за стручни рад Агенције;</p>
+								</content>
+							</point>
+							<point id="od7-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> извршава одлуке Управног одбора и предузима мере за њихово спровођење;</p>
+								</content>
+							</point>
+							<point id="od7-stav2-tac6">
+								<num>6)</num>
+								<content>
+									<p> предлаже акте које доноси Управни одбор;</p>
+								</content>
+							</point>
+							<point id="od7-stav2-tac7">
+								<num>7)</num>
+								<content>
+									<p> доноси акт о унутрашњој организацији и систематизацији радних места у Агенцији;</p>
+								</content>
+							</point>
+							<point id="od7-stav2-tac8">
+								<num>8)</num>
+								<content>
+									<p> предлаже програм рада Агенције;</p>
+								</content>
+							</point>
+							<point id="od7-stav2-tac9">
+								<num>9)</num>
+								<content>
+									<p> обавља друге послове утврђене законом и Статутом Агенције.</p>
+								</content>
+							</point>
+							<тачка id="od7-stav2-tac10">
+								<num>10.</num>
+								<content>
+									<p> Влада ће именовати привременог директора Агенције, у року од 30 дана од дана ступања на снагу ове одлуке.</p>
+								</content>
+							</тачка>
+							<тачка id="od7-stav2-tac11">
+								<num>11.</num>
+								<content>
+									<p> Влада ће именовати чланове Управног одбора Агенције у року од 30 дана од дана ступања на снагу Одлуке о оснивању Агенције.</p>
+								</content>
+							</тачка>
+							<тачка id="od7-stav2-tac12">
+								<num>12.</num>
+								<content>
+									<p> Ова одлука ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="od7-stav3">
+						<content>
+							<p>05 број 022-4300/2008</p>
+						</content>
+					</clause>
+					<clause id="od7-stav4">
+						<content>
+							<p>У Београду, 16. октобра 2008. године</p>
+						</content>
+					</clause>
+					<clause id="od7-stav5">
+						<content>
+							<p>Влада</p>
+						</content>
+					</clause>
+					<clause id="od7-stav6">
+						<content>
+							<p>Први потпредседник Владе –</p>
+						</content>
+					</clause>
+					<clause id="od7-stav7">
+						<content>
+							<p>заменик председника Владе,</p>
+						</content>
+					</clause>
+					<clause id="od7-stav8">
+						<content>
+							<p>Ивица Дачић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

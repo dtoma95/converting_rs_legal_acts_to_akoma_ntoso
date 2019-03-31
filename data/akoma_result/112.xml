@@ -1,0 +1,252 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2013/22-43/main"/>
+					<FRBRuri value="/rs/act/2013/22-43"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2013/22-43/srp@/main"/>
+					<FRBRuri value="/rs/act/2013/22-43/srp@"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2013/22-43/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2013/22-43/srp@.akn"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2013-3-8" name="службени гласник рс" number="22" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="10. Култура" value="10. култура"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2013-03-01" id="usvajanje"/>
+				<step date="2013-03-16" id="stupanje_na_snagu"/>
+				<step date="2013-03-16" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 11. став 5. </ref>Закона о старој и реткој библиотечкој грађи („<ref id="ref1" href="/rs/act/11/52/srp@">Службени гласник РС”, број 52/11</ref>),</p>
+			<p>Министар културе и информисања доноси</p>
+		</preamble>
+		<preface>
+			<title>ПРАВИЛНИК</title>
+			<authority>о садржини и начину вођења регистара категорисане старе и ретке библиотечке грађе</authority>
+			<title>&quot;Службени гласник РС&quot;, број 22 од 8. марта 2013.</title>
+			<date>Садржина Правилника</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се садржина и начин вођења регистара категорисане старе и ретке библиотечке грађе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>Регистри</heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>За категорисану стару и ретку библиотечку грађу воде се, у складу са Законом о старој и реткој библиотечкој грађи, следећи регистри: Централни регистар категорисане старе и ретке библиотечке грађе у Републици Србији, Регистар категорисане старе и ретке библиотечке грађе у АП Војводини и Регистар категорисане старе и ретке библиотечке грађе у јединици локалне самоуправе. (у даљем тексту: Регистар).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>Начин вођења Регистра</heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Регистар се води у електронском и штампаном облику.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Регистар са свим подацима о категорисаној старој и реткој библиотечкој грађи, формата 50 x 35 cm, штампа се на трајном папиру, повезује се у књигу, прошива се јемствеником и печати. Категорисана стара и ретка библиотечка грађа у Регистру означава се редним бројем од 1 до 300, а на свакој страни води се по десет јединица.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>На насловној страни књиге налази се назив Регистра, број књиге Регистра, назив и седиште библиотеке која води Регистар.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>Књига Регистра микрофилмује се, копира се у два примерка и чува се трајно.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>Подаци који се уносе у Регистар</heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>У Регистар се уносе подаци о категорисаној старој и реткој библиотечкој грађи следећим редоследом: редни број, датум уписа у Регистар, назив дела, аутор, време и место настанка, односно издања, издавач и штампар, врста материјала на којем је дело писано или штампано, повез, језик, формат или величина дела, број листова или страна, број примерака, мере техничке заштите, име сопственика културног добра, број гласила у којем је објављен акт о проглашењу културног добра и врста културног добра, потпис лица одређеног за вођење Регистра и напомена.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<heading>Пратећа документација уз Регистар</heading>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Уз Регистар се образује и чува следећа документација:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> библиографско-каталошки опис категорисане старе и ретке библиотечке грађе;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> микрофилм и дигитална копија категорисане старе и ретке библиотечке грађе;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> фотографије или цртежи украсних детаља категорисане старе и ретке библиотечке грађе;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> опис изведених конзерваторских или рестаураторских радова на категорисаној старој и реткој библиотечкој грађи;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> акт о проглашењу категорисане старе и ретке библиотечке грађе за културно добро;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> белешка о исправкама података о категорисаној старој и реткој библиотечкој грађи;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> подаци и документи о набавци категорисане старе и ретке библиотечке грађе;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> подаци о промени сопственика;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> акт о брисању категорисане старе и ретке библиотечке грађе из Регистра.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<heading>Образовање Регистра</heading>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Образовање Регистра оверава се печатом и потписом руководиоца библиотеке.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<heading>Евидентирање грађе која се чува ван библиотеке</heading>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Ако се категорисана стара и ретка библиотечка грађа чува ван библиотеке, у Регистар се уписује место где се налази, име и адреса сопственика, односно правног лица које управља категорисаном старом и ретком библиотечком грађом и основ држања категорисане старе и ретке библиотечке грађе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<heading>Брисање категорисане старе и ретке библиотечке грађе из Регистра</heading>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Брисање категорисане старе и ретке библиотечке грађе из Регистра врши се тако што се прецртавају сви подаци о тој публикацији, а лице одређено за вођење Регистра у рубрици: „напомена” уписује на основу ког акта и када је извршено брисање.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Брисање оверава руководилац библиотеке потписом и печатом библиотеке.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>Обавештење о брисању из става 1. овог члана доставља се Народној библиотеци Србије, односно за АП Војводину Библиотеци Матице српске.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<heading>Ступање на снагу</heading>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у ,,Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Број 110-00-00059/2012-02</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav3">
+						<content>
+							<p>У Београду, 1. марта 2013. године</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav5">
+						<content>
+							<p>Братислав Петковић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

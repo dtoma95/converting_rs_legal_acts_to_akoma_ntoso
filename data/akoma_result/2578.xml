@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2005/77-9/main"/>
+					<FRBRuri value="/rs/act/2005/77-9"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/2-4/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/2-4/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/2-4/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/2-4/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2005-9-9" name="службени гласник рс" number="77" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="IV ЈАВНИ ПРИХОДИ" value="iv јавни приходи"/>
+				<keyword id="grupa" showAs="7. Игре на срећу" value="7. игре на срећу"/>
+			</classification>
+			<lifecycle source="#somebody">
+				<eventRef date="77/2005-9" id="e1" type="generation"/>
+				<eventRef date="62/2007-5" id="e2" type="amendment"/>
+				<eventRef date="118/2007-54" id="e3" type="amendment"/>
+				<eventRef date="35/2009-3" id="e4" type="amendment"/>
+				<eventRef date="65/2009-4" id="e5" type="amendment"/>
+				<eventRef date="2/2011-4" id="e6" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Одреба тачке 3. и тачке 4. став 1. нису у сагласности са Уставом и законом (види Одлуку УС - 65/2009-4).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 37. став 3. </ref>Закона о играма на срећу („<ref id="ref1" href="/rs/act/04/84/srp@">Службени гласник РС”, број 84/04</ref>),</p>
+			<p>Влада доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о динамици давања дозвола за приређивање посебних игара на срећу у играчницама</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 77 од 9. септембра 2005, 62 од 06. јула 2007, 118 од 13 децембра 2007, 35 од 12. маја 2009, 65 од 14. августа 2009  - УС, 2 од 18. јануара 2011.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Овом одлуком утврђује се динамика давања дозвола за приређивање посебних игара на срећу у играчницама.</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Влада ће, након спроведеног поступка по јавном позиву, давати дозволе за приређивање посебних игара на срећу у играчницама по следећој динамици:</heading>
+				<content>
+					<alinea id="od2-ali1">
+						<content>
+							<p> 2005. години једну дозволу;</p>
+						</content>
+					</alinea>
+					<alinea id="od2-ali2">
+						<content>
+							<p> 2006. години једну дозволу*.**</p>
+						</content>
+					</alinea>
+					<clause id="od2-stav1">
+						<content>
+							<p>Брисана је алинеја 3. (види тачку 2. Одлуке - 118/2007-54)</p>
+						</content>
+					</clause>
+					<clause id="od2-stav2">
+						<content>
+							<p>Брисана је алинеја 3. (види тачку 1. Одлуке - 35/2009-3)</p>
+						</content>
+					</clause>
+					<clause id="od2-stav3">
+						<content>
+							<p>*<ref id="ref2" href="/rs/act/2007/62/srp@">Службени гласник РС, број 62/2007</ref></p>
+						</content>
+					</clause>
+					<clause id="od2-stav4">
+						<content>
+							<p>**<ref id="ref3" href="/rs/act/2009/35/srp@">Службени гласник РС, број 35/2009</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Престала је да важи (види Одлуку УС 65/2009-4).</heading>
+				<content/>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Став 1. је престао да важи (види Одлуку УС 65/2009-4).</heading>
+				<content>
+					<clause id="od4-stav1">
+						<content>
+							<p>Влада ће* од 2011. године** давати по једну дозволу годишње.*</p>
+						</content>
+					</clause>
+					<clause id="od4-stav2">
+						<content>
+							<p>*<ref id="ref4" href="/rs/act/2009/35/srp@">Службени гласник РС, број 35/2009</ref></p>
+						</content>
+					</clause>
+					<clause id="od4-stav3">
+						<content>
+							<p>**<ref id="ref5" href="/rs/act/2011/2/srp@">Службени гласник РС, број 2/2011</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> Ова одлука ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</heading>
+				<content>
+					<clause id="od5-stav1">
+						<content>
+							<p>05 број 423-5480/2005</p>
+						</content>
+					</clause>
+					<clause id="od5-stav2">
+						<content>
+							<p>У Београду, 8. септембра 2005. године</p>
+						</content>
+					</clause>
+					<clause id="od5-stav3">
+						<content>
+							<p>Влада</p>
+						</content>
+					</clause>
+					<clause id="od5-stav4">
+						<content>
+							<p>Потпредседник,</p>
+						</content>
+					</clause>
+					<clause id="od5-stav5">
+						<content>
+							<p>Мирољуб Лабус, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

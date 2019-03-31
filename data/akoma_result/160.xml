@@ -1,0 +1,259 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1998/24-662/main"/>
+					<FRBRuri value="/rs/act/1998/24-662"/>
+					<FRBRdate date="1998" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2003/71-14/srp@/main"/>
+					<FRBRuri value="/rs/act/2003/71-14/srp@"/>
+					<FRBRdate date="2003" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2003/71-14/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2003/71-14/srp@.akn"/>
+					<FRBRdate date="2003" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1998-7-10" name="службени гласник рс" number="24" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="6. Средње образовање и васпитање" value="6. средње образовање и васпитање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1998-06-23" id="usvajanje"/>
+				<step date="1998-07-18" id="stupanje_na_snagu"/>
+				<step date="1998-07-18" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="24/1998-662" id="e1" type="generation"/>
+				<eventRef date="71/2003-14" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 33. став 4. </ref>Закона о ученичком и студентском стандарду („<ref id="ref2" href="/rs/act/92/81/srp@">Службени гласник РС”, бр. 81/92, 49/93, 53/93, 67/93</ref> и 48/94) и <ref>члана 99. став 5. </ref>Закона о средњој школи („<ref id="ref3" href="/rs/act/92/50/srp@">Службени гласник РС”, број 50/92, 53/93, 67/93, 48/94</ref> и 24/96),</p>
+		</preamble>
+		<preface>
+			<authority>Министар просвете доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о садржају и начину вођења матичне евиденције о ученицима и остваривању годишњег  програма рада у дому ученика и у школи са домом</title>
+			<date>„Службени гласник РС”, бр. 24 од 10.   јула 1998, 71 од 15.    јула 2003.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се садржај и начин вођења матичне евиденције о ученицима и остваривању годишњег програма рада у дому ученика и у школи са домом (у даљем тексту: дом ученика).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Матична евиденција о ученицима уписаним у дом ученика води се у матичној књизи ученика, на Обрасцу број 1, у облику табака, величине 290 х 420 mm и састоји се од листова који се повезују у књигу.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>У матичној књизи води се евиденција о сваком ученику, почев од уписа ученика у дом до завршетка боравка у дому.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Матичну књигу ученика води сваки васпитач за своју васпитну групу.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav4">
+						<content>
+							<p>За тачно и уредно вођење матичне књиге одговоран је директор.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Евиденција о остваривању годишњег програма рада у дому ученика води се у Дневнику васпитног рада на Обрасцу број 2, у облику књиге са тврдим корицама, величине 250 х 350 mm, која има 128 страна.*</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Дневник васпитног рада води се посебно за сваку васпитну групу, за сваку школску годину.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Дневник васпитног рада води сваки васпитач за своју васпитну групу.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>За тачно и уредно вођење дневника васпитног рада одговоран је директор.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>*<ref id="ref4" href="/rs/act/2003/71/srp@">Службени гласник РС, број 71/2003</ref></heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Књига дежурства води се за сваку школску годину на Обрасцу број 3, у облику књиге са тврдим корицама, величине 250 х 350 mm, која има 530 страна.*</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Књигу дежурства води дежурни васпитач.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Контролу тачности унетих података у књигу дежурства врши директор.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<heading>*<ref id="ref5" href="/rs/act/2003/71/srp@">Службени гласник РС, број 71/2003</ref></heading>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Дом ученика чува матичну књигу ученика трајно, а дневник васпитног рада и књигу дежурства десет година.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Обрасци евиденција из чл. 3. и 4. овог правилника одштампани су уз овај правилник и чине његов саставни део.*</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<heading>*<ref id="ref6" href="/rs/act/2003/71/srp@">Службени гласник РС, број 71/2003</ref></heading>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Погрешно уписани подаци у евиденцију прописану овим правилником прецртавају се тако да остају читљиви, а исправка се потписује и оверава печатом дома ученика.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Даном ступања на снагу овог правилника престаје да важи Правилник о евиденцији ученика и остваривању програма рада у домовима ученика („<ref id="ref7" href="/rs/act/87/27/srp@">Службени гласник СРС”, број 27/87</ref>).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Број 110-00-29/98-05</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav3">
+						<content>
+							<p>У Београду, 23. јуна 1998. године</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav5">
+						<content>
+							<p>проф. др  Јово Тодоровић,  с. р.</p>
+						</content>
+					</clause>
+					<став id="clan9-stav6">
+						<img height="297" id="Picture 3" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/ca6e02a7-0bda-4c13-967f-1bca4f7c4530.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424232&amp;regactid=424232" width="605"/>
+						<content/>
+					</став>
+					<став id="clan9-stav7">
+						<img height="865" id="Picture 4" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/ebe9e9aa-c088-4485-810a-515df6d92a94.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424232&amp;regactid=424232" width="605"/>
+						<content/>
+					</став>
+					<став id="clan9-stav8">
+						<img height="871" id="Picture 5" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/98ba536b-4f76-4597-a8da-17811ae7697b.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424232&amp;regactid=424232" width="605"/>
+						<content/>
+					</став>
+					<став id="clan9-stav9">
+						<img height="886" id="Picture 6" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/492643d9-714a-49bf-8623-9774852c7997.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424232&amp;regactid=424232" width="605"/>
+						<content/>
+					</став>
+					<став id="clan9-stav10">
+						<img height="817" id="Picture 7" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/684b97e1-e9cf-4864-bf91-81158ce21890.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424232&amp;regactid=424232" width="605"/>
+						<content/>
+					</став>
+					<став id="clan9-stav11">
+						<img height="874" id="Picture 8" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/1edbaad2-33c3-4e36-8ec8-a557aee9f804.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424232&amp;regactid=424232" width="605"/>
+						<content/>
+					</став>
+					<став id="clan9-stav12">
+						<img height="864" id="Picture 9" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/356b447d-4390-4b26-a983-bc85117360a8.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424232&amp;regactid=424232" width="605"/>
+						<content/>
+					</став>
+					<став id="clan9-stav13">
+						<img height="869" id="Picture 10" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/eb30eea9-bf1b-4854-8125-9acf45c3c41c.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424232&amp;regactid=424232" width="605"/>
+						<content/>
+					</став>
+					<став id="clan9-stav14">
+						<img height="829" id="Picture 11" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/ed973cde-41d9-46cc-bc26-c04b03f51a46.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424232&amp;regactid=424232" width="605"/>
+						<content/>
+					</став>
+					<став id="clan9-stav15">
+						<img height="883" id="Picture 12" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/cb81c0df-3172-44a2-a859-4d66238e6704.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424232&amp;regactid=424232" width="605"/>
+						<content/>
+					</став>
+					<став id="clan9-stav16">
+						<img height="869" id="Picture 13" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/73d24cc2-421d-4103-a303-088854ffc3eb.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424232&amp;regactid=424232" width="604"/>
+						<content/>
+					</став>
+					<став id="clan9-stav17">
+						<img height="886" id="Picture 14" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/0419bd3d-92cc-4fd3-baf8-9ebb5da893d4.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424232&amp;regactid=424232" width="604"/>
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

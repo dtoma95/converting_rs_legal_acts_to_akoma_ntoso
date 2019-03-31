@@ -1,0 +1,271 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2014/87-16/main"/>
+					<FRBRuri value="/rs/act/2014/87-16"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2014/87-16/srp@/main"/>
+					<FRBRuri value="/rs/act/2014/87-16/srp@"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2014/87-16/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2014/87-16/srp@.akn"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2014-8-22" name="службени гласник рс" number="87" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="3. Семе и садни материјал" value="3. семе и садни материјал"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2014-08-18" id="usvajanje"/>
+				<step date="2014-08-30" id="stupanje_na_snagu"/>
+				<step date="2014-08-30" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 5. став 2. </ref>Закона о признавању сорти пољопривредног биља („<ref id="ref2" href="/rs/act/10/30/srp@">Службени гласник РС”, број 30/10</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде и заштите животне средине доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о методама испитивања сорти језграстих воћних врста ради признавања сорти</title>
+			<date>&quot;Службени гласник РС&quot;, број 87 од      22. августа 2014.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се методе испитивања сорти језграстих воћних врста (у даљем тексту: сорта) на огледном пољу и у лабораторији, ради признавања сорте.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Методама испитивања из <ref>члана 1. овог</ref> правилника испитују се одређене битне особине сорте, ради утврђивања:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> производне и употребне вредности сорте (VCU тест);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> различитости, униформности и стабилности сорте (DUS тест).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Производна и употребна вредност сорте (VCU тест) утврђује се на основу резултата одређених битних особина сорте које се односе на:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> осматрање фенолошких фаза;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> принос;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> морфолошкe особинe плода.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Сорта се испитује тако што се битне особине из става 1. овог члана упоређују са битним особинама сорте стандард, у складу са законом којим се уређује признавање сорти пољопривредног биља.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Сорта се испитује на огледном пољу у једном, a оптимално у два огледа. Оглед чини парцела на којој је, ради испитивања, под истим условима засађено четири саднице сорте која се испитује и четири саднице сорте стандард.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Када се сорта испитује у два огледа, огледи се изводе на огледним пољима која се налазе на различитим локалитетима.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Сорта се испитује на огледном пољу у складу са захтевом за признавање сорте у коме власник сорте, односно његов овлашћени заступник предлаже да се сорта сади са сортом стандард, ради испитивања.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Сорта се испитује на земљишту погодном за гајење језграстих воћних врста на коме најмање четири године није гајена сорта језграстих воћних врста.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Саднице сорте која се испитује и саднице сорте стандард морају да буду квалитетне, исте старости и незаражене проузроковачима болести и штеточинама.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Припрема садног материјала врши се на истоветан начин за све саднице језграстих воћних врста у огледу.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>Сађење се врши у оптималном року и под истим условима за све саднице језграстих воћних врста у огледу (исто време садње, исто растојање између биљака и друго).</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>Све агротехничке мере и мере заштите садница језграстих воћних врста у огледу врше се у исто време и на исти начин.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Све фенолошке фазе сорте у огледу осматрају се (прате) код утврђивања различитости, униформности и стабилности, осим фенолошке фазе цветања и зрења које се осматрају само код утврђивања производних и употребних особина сорте.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Код сорти у огледу бележе се датуми почетка и краја фенолошких фаза цветања и зрења, као и карактеристике тока тих фаза.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Морфолошке особине плода сорте у огледу испитују се у технолошкој зрелости плода (зрелост за употребу).</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Испитују се следеће морфолошке особине плода сорте:</p>
+							<point id="clan9-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> маса плода;</p>
+								</content>
+							</point>
+							<point id="clan9-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> рандман.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan9-stav3">
+						<content>
+							<p>За утврђивање масе плода сорте мере се узорци од по 20 плодова.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav4">
+						<content>
+							<p>Узорци се узимају равномерно из целог огледа. На основу резултата мерења из става 3. овог члана израчунава се просечна маса плода изражена у грамима и укупан принос који се изражава у килограмима по хектару.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Различитост, униформност и стабилност сорте (DUS тест) испитује се методом одређеном техничким упутством за тестирање различитости, униформности и стабилности сорте.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Број 110-00-93/2014-09</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav3">
+						<content>
+							<p>У Београду, 18. августа 2014. године</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav5">
+						<content>
+							<p>проф. др Снежана Богосављевић Бошковић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

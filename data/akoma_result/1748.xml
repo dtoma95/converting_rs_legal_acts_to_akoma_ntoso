@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2006/1-9/main"/>
+					<FRBRuri value="/rs/act/2006/1-9"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2006/1-9/srp@/main"/>
+					<FRBRuri value="/rs/act/2006/1-9/srp@"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2006/1-9/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2006/1-9/srp@.akn"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="IV ЈАВНИ ПРИХОДИ" value="iv јавни приходи"/>
+				<keyword id="grupa" showAs="4. Јавни зајмови" value="4. јавни зајмови"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2005-12-28" id="usvajanje"/>
+				<step date="2006-01-17" id="stupanje_na_snagu"/>
+				<step date="2006-01-17" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 40. став 3. </ref>Закона о јавном дугу („<ref id="ref2" href="/rs/act/05/61/srp@">Службени гласник РС”, број 61/05</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар финансија доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о облику и садржини извештаја о контроли спровођења техничких и финансијских одредаба уговора о кредиту, односно зајму за које је Република Србија дала гаранцију или контрагаранцију</title>
+			<date>“Службени гласник РС”, број 1 од 9. јаунара 2006.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником уређује се облик и садржина извештаја о контроли спровођења техничких и финансијских одредаба уговора о кредиту, односно зајму за које је Република Србија дала гаранцију или контрагаранцију (у даљем тексту: извештај о контроли).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Извештај о контроли припрема јединица за управљање пројектом (у даљем тексту: ЈУП), која се образује при кориснику кредита, односно зајма.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Извештај о контроли доставља се на Обрасцу КК – Извештај о контроли уговора о кредиту, односно зајму за који је Република Србија дала гаранцију или контрагаранцију, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Извештај о контроли из <ref>члана 2. овог</ref> правилника ЈУП доставља Министарству финансија – Управи за трезор и надлежном министарству.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Извештај о контроли доставља се сваких шест месеци, до коначне отплате кредита, односно зајма, са подацима на дан 30. јуна и 31. децембра.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Рокови за достављање извештаја о контроли из става 1. овог члана су:</p>
+							<point id="clan4-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> до 15. јула за извештај о контроли који се доставља са подацима на дан 30. јуна текуће године;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> до 15. јануара текуће године за извештај о контроли који се доставља са подацима на дан 31. децембра претходне године.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Извештај о контроли доставља се и са подацима на дан коначне отплате кредита, односно зајма, у року од 15 дана од дана коначне отплате кредита, односно зајма.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>У Образац КК ЈУП уноси податке на следећи начин:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> у заглавље Обрасца КК:</p>
+									<alinea id="clan5-stav1-tac1-ali1">
+										<content>
+											<p> поље предвиђено за уношење података за корисника, уноси се пун назив корисника кредита, односно зајма за који се извештај доставља,</p>
+										</content>
+									</alinea>
+									<alinea id="clan5-stav1-tac1-ali2">
+										<content>
+											<p> поље предвиђено за податак на дан уноси се 30. јун или 31. децембар године за коју се извештај доставља, или датум коначне отплате кредита, односно зајма;</p>
+										</content>
+									</alinea>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> у табелу Обрасца КК – I под ред. бр. 1–16:</p>
+									<alinea id="clan5-stav1-tac2-ali1">
+										<content>
+											<p> колону 3 уноси се ознака валуте у којој је уговорен кредит, односно зајам,</p>
+										</content>
+									</alinea>
+									<alinea id="clan5-stav1-tac2-ali2">
+										<content>
+											<p> колону 4 уноси се износ валуте у којој је уговорен кредит, односно зајам,</p>
+										</content>
+									</alinea>
+									<alinea id="clan5-stav1-tac2-ali3">
+										<content>
+											<p> колону 5 уноси се износ из колоне 4, прерачунат у евре по средњем курсу Народне банке Србије на дан из тачке 1) алинеја 2. овог члана,</p>
+										</content>
+									</alinea>
+									<alinea id="clan5-stav1-tac2-ali4">
+										<content>
+											<p> колону 6 уноси се износ динарске противвредности за износ из колоне 4, прерачунат по средњем курсу Народне банке Србије на дан из тачке 1) алинеја 2. овог члана;</p>
+										</content>
+									</alinea>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> у табелу Обрасца КК – I под ред. бр. 9–16. уносе се тражени подаци који се односе на план повлачења и отплате кредита, односно зајма и плаћања провизије и осталих трошкова, у години за коју се доставља извештај (до 30. јуна и од 30. јуна до 31. децембра), као и у наредне две године;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> у табелу Обрасца КК –  II под ред. бр. 1. и 2. уносе се тражени подаци за пројекат за који је кредит, односно зајам узет, при чему се подаци под ред. бр. 1. у колоне 3–6. уносе на начин из тачке 2) овог члана.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Број 110-00-00498/2005-06</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>У Београду, 28. децембра 2005. године</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav5">
+						<content>
+							<p>Млађан Динкић, с.р.</p>
+						</content>
+					</clause>
+					<став id="clan6-stav6">
+						<img height="559" id="Picture 1" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/b5f00fb7-7c66-408e-b738-339bdfa2cbf9.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=396825&amp;regactid=396825" width="832"/>
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

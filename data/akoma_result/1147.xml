@@ -1,0 +1,696 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2005/45-25/main"/>
+					<FRBRuri value="/rs/act/2005/45-25"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/72-125/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/72-125/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/72-125/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/72-125/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2005-5-31" name="службени гласник рс“" number="45" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Закон" value="закон"/>
+				<keyword id="oblast" showAs="VI СВОЈИНСКИ И ОБЛИГАЦИОНИ, ПОРОДИЧНИ И БРАЧНИ ОДНОСИ" value="vi својински и облигациони, породични и брачни односи"/>
+				<keyword id="grupa" showAs="3. Експропријација и други облици ограничавања својине и враћање имовине" value="3. експропријација и други облици ограничавања својине и враћање имовине"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2005-05-23" id="usvajanje"/>
+				<step date="2005-06-08" id="stupanje_na_snagu"/>
+				<step date="2005-06-08" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="45/2005-25" id="e1" type="generation"/>
+				<eventRef date="72/2011-125" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Закон је ступио на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 8. јуна 2005. године (види <ref>члан 11. </ref>Закона).</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<title>ЗАКОН</title>
+			<title>о пријављивању и евидентирању одузете имовине</title>
+			<date>„Службени гласник РС“, бр. 45 од 31. маја 2005,  72 од 28. септембра 2011 -  др. закон</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим законом уређује се поступак пријављивања и евидентирања имовине која је на територији Републике Србије одузета без накнаде тржишне вредности или правичне накнаде, применом прописа и аката о национализацији, аграрној реформи, конфискацији, секвестрацији, експропријацији и других прописа донетих и примењиваних после 9. марта 1945. године.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Имовином, у смислу овог закона, сматра се право својине на непокретним и покретним стварима, као и друга имовинска права.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Пријаву одузете имовине по одредбама овог закона подносе физичка лица којима је имовина одузета применом прописа из <ref>члана 1. овог</ref> закона (у даљем тексту: ранији власник) или њихови наследници, односно правни следбеници.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Пријава из става 1. овог члана подноси се Републичкој дирекцији за имовину Републике Србије (у даљем тексту: Дирекција), у два примерка, непосредно или поштом препоручено, на Обрасцу ПОИ, који је одштампан уз овај закон и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Евиденција пријављене имовине – регистар имовине води се као јавна и електронска база података.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Одредбе овог закона не односе се на раније власнике или њихове наследнике, односно правне следбенике којима је законом или међународним уговором, односно споразумом утврђено право на накнаду за одузету имовину на терет иностране државе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Уз пријаву из <ref>члана 3. овог</ref> закона подноси се:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> копија акта о одузимању имовине или други материјални доказ из кога се виде подаци о одузетој имовини и основу одузимања;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> доказ о својству подносиоца пријаве, уколико није ранији власник (решење о наслеђивању, односно други доказ о правном следбеништву са ранијим власником или доказ о смрти лица чија је имовина одузета и доказ о сродству са тим лицем);</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> други акти и подаци за које подносилац пријаве сматра да су од значаја за његову идентификацију и идентификацију одузете имовине.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>О извршеном евидентирању имовине издаје се потврда најкасније у року од седам дана од дана подношења пријаве из <ref>члана 3. овог</ref> закона.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Пријава из <ref>члана 3. овог</ref> закона може се поднети најкасније до 30. јуна 2006. године.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Дирекција води евиденцију о пријављеној имовини, на основу података садржаних у пријави из <ref>члана 3. овог</ref> закона и података којима располажу државни органи и организације, органи и организације јединица територијалне аутономије и локалне самоуправе, јавне службе и други органи и организације.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content/>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<heading>Пртестао је да важи (види <ref>члан  66. </ref>Закона - 72/2011-125)</heading>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Правни основ и права у погледу враћања имовине или обештећења по основу одузете имовине пријављене по одредбама овог закона, као и поступак по захтеву за остваривање права на повраћај одузете имовине или обештећење за ту имовину, уредиће се посебним законом.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Захтев за остваривање права по посебном закону из става 1. овог члана, може се поднети само ако је пријава одузете имовине поднета у року из <ref>члана 6. овог</ref> закона.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Враћање одузете имовине црквама и верским заједницама уредиће се посебним законом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Овај закон ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Образац ПОИ</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav3">
+						<content>
+							<p>Републичка дирекција за имовину</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav4">
+						<content>
+							<p>Републике Србије</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav5">
+						<content>
+							<p>ул. Грачаничка бр. 8</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav6">
+						<content>
+							<p>11 000 Београд</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav7">
+						<content>
+							<p>ПРИЈАВА</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav8">
+						<content>
+							<p>ОДУЗЕТЕ ИМОВИНЕ</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav9">
+						<content>
+							<p>У складу са чланом 3. Закона о пријављивању и евидентирању одузете имовине,  подносим пријаву одузете имовине:</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav10">
+						<content>
+							<p>ПОДАЦИ О ПОДНОСИОЦУ ПРИЈАВЕ</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav11">
+						<content>
+							<p>___________________________________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav12">
+						<content>
+							<p>име (име родитеља) презиме</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav13">
+						<content>
+							<p>ЈМБГ (лични број)</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav14">
+						<content>
+							<p>АДРЕСА  _________________________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav15">
+						<content>
+							<p>ОПШТИНА  _______________________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav16">
+						<content>
+							<p>ПОДАЦИ О ОДУЗЕТОЈ ИМОВИНИ</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav17">
+						<content>
+							<p>А) ПРАВНИ ОСНОВ, НАЧИН И ВРЕМЕ ОДУЗИМАЊА ИМОВИНЕ</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav18">
+						<content>
+							<p>___________________________________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav19">
+						<content>
+							<p>___________________________________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav20">
+						<content>
+							<p>___________________________________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav21">
+						<content>
+							<p>Б) НЕПОКРЕТНОСТИ</p>
+						</content>
+					</clause>
+					<став id="clan11-stav22">
+						<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse: collapse; border: medium none">
+							
+	
+							<tbody>
+								<tr>
+									
+		
+									<td style="width: 13.3625rem; border: 0.0833333333333333rem solid windowtext; padding-left: 0.45rem; padding-right: 0.45rem; padding-top: 0cm; padding-bottom: 0cm" valign="top" width="214">
+										
+		
+										<p>
+		
+		
+		ВРСТА</p>
+										
+		
+										<p>
+		
+		(стан, кућа, пословни простор, земљиште и друго)</p>
+										
+		
+										<p>
+		
+		
+		И ПОВРШИНА У М2</p>
+									</td>
+									
+		
+									<td style="width: 13.3625rem; border-left: medium none; border-right: 0.0833333333333333rem solid windowtext; border-top: 0.0833333333333333rem solid windowtext; border-bottom: 0.0833333333333333rem solid windowtext; padding-left: 0.45rem; padding-right: 0.45rem; padding-top: 0cm; padding-bottom: 0cm" valign="top" width="214">
+										
+		
+										<p>
+		
+		
+		ЛОКАЦИЈА НЕПОКРЕТНОСТИ</p>
+										
+		
+										<p>
+		
+		(општина, место, улица, број, КО)</p>
+									</td>
+									
+		
+									<td style="width: 13.3666666666667rem; border-left: medium none; border-right: 0.0833333333333333rem solid windowtext; border-top: 0.0833333333333333rem solid windowtext; border-bottom: 0.0833333333333333rem solid windowtext; padding-left: 0.45rem; padding-right: 0.45rem; padding-top: 0cm; padding-bottom: 0cm" valign="top" width="214">
+										
+		
+										<p>
+		
+		
+		НАЗИВ,</p>
+										
+		
+										<p>
+		
+		односно име лица које је у поседу непокретности</p>
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width: 13.3625rem; border-left: 0.0833333333333333rem solid windowtext; border-right: 0.0833333333333333rem solid windowtext; border-top: medium none; border-bottom: 0.0833333333333333rem solid windowtext; padding-left: 0.45rem; padding-right: 0.45rem; padding-top: 0cm; padding-bottom: 0cm" valign="top" width="214">
+										
+		
+										<p>
+		
+		</p>
+									</td>
+									
+		
+									<td style="width: 13.3625rem; border-left: medium none; border-right: 0.0833333333333333rem solid windowtext; border-top: medium none; border-bottom: 0.0833333333333333rem solid windowtext; padding-left: 0.45rem; padding-right: 0.45rem; padding-top: 0cm; padding-bottom: 0cm" valign="top" width="214">
+										
+		
+										<p>
+		
+		</p>
+									</td>
+									
+		
+									<td style="width: 13.3666666666667rem; border-left: medium none; border-right: 0.0833333333333333rem solid windowtext; border-top: medium none; border-bottom: 0.0833333333333333rem solid windowtext; padding-left: 0.45rem; padding-right: 0.45rem; padding-top: 0cm; padding-bottom: 0cm" valign="top" width="214">
+										
+		
+										<p>
+		
+		</p>
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width: 13.3625rem; border-left: 0.0833333333333333rem solid windowtext; border-right: 0.0833333333333333rem solid windowtext; border-top: medium none; border-bottom: 0.0833333333333333rem solid windowtext; padding-left: 0.45rem; padding-right: 0.45rem; padding-top: 0cm; padding-bottom: 0cm" valign="top" width="214">
+										
+		
+										<p>
+		
+		</p>
+									</td>
+									
+		
+									<td style="width: 13.3625rem; border-left: medium none; border-right: 0.0833333333333333rem solid windowtext; border-top: medium none; border-bottom: 0.0833333333333333rem solid windowtext; padding-left: 0.45rem; padding-right: 0.45rem; padding-top: 0cm; padding-bottom: 0cm" valign="top" width="214">
+										
+		
+										<p>
+		
+		</p>
+									</td>
+									
+		
+									<td style="width: 13.3666666666667rem; border-left: medium none; border-right: 0.0833333333333333rem solid windowtext; border-top: medium none; border-bottom: 0.0833333333333333rem solid windowtext; padding-left: 0.45rem; padding-right: 0.45rem; padding-top: 0cm; padding-bottom: 0cm" valign="top" width="214">
+										
+		
+										<p>
+		
+		</p>
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width: 13.3625rem; border-left: 0.0833333333333333rem solid windowtext; border-right: 0.0833333333333333rem solid windowtext; border-top: medium none; border-bottom: 0.0833333333333333rem solid windowtext; padding-left: 0.45rem; padding-right: 0.45rem; padding-top: 0cm; padding-bottom: 0cm" valign="top" width="214">
+										
+		
+										<p>
+		
+		</p>
+									</td>
+									
+		
+									<td style="width: 13.3625rem; border-left: medium none; border-right: 0.0833333333333333rem solid windowtext; border-top: medium none; border-bottom: 0.0833333333333333rem solid windowtext; padding-left: 0.45rem; padding-right: 0.45rem; padding-top: 0cm; padding-bottom: 0cm" valign="top" width="214">
+										
+		
+										<p>
+		
+		</p>
+									</td>
+									
+		
+									<td style="width: 13.3666666666667rem; border-left: medium none; border-right: 0.0833333333333333rem solid windowtext; border-top: medium none; border-bottom: 0.0833333333333333rem solid windowtext; padding-left: 0.45rem; padding-right: 0.45rem; padding-top: 0cm; padding-bottom: 0cm" valign="top" width="214">
+										
+		
+										<p>
+		
+		</p>
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width: 13.3625rem; border-left: 0.0833333333333333rem solid windowtext; border-right: 0.0833333333333333rem solid windowtext; border-top: medium none; border-bottom: 0.0833333333333333rem solid windowtext; padding-left: 0.45rem; padding-right: 0.45rem; padding-top: 0cm; padding-bottom: 0cm" valign="top" width="214">
+										
+		
+										<p>
+		
+		</p>
+									</td>
+									
+		
+									<td style="width: 13.3625rem; border-left: medium none; border-right: 0.0833333333333333rem solid windowtext; border-top: medium none; border-bottom: 0.0833333333333333rem solid windowtext; padding-left: 0.45rem; padding-right: 0.45rem; padding-top: 0cm; padding-bottom: 0cm" valign="top" width="214">
+										
+		
+										<p>
+		
+		</p>
+									</td>
+									
+		
+									<td style="width: 13.3666666666667rem; border-left: medium none; border-right: 0.0833333333333333rem solid windowtext; border-top: medium none; border-bottom: 0.0833333333333333rem solid windowtext; padding-left: 0.45rem; padding-right: 0.45rem; padding-top: 0cm; padding-bottom: 0cm" valign="top" width="214">
+										
+		
+										<p>
+		
+		</p>
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width: 13.3625rem; border-left: 0.0833333333333333rem solid windowtext; border-right: 0.0833333333333333rem solid windowtext; border-top: medium none; border-bottom: 0.0833333333333333rem solid windowtext; padding-left: 0.45rem; padding-right: 0.45rem; padding-top: 0cm; padding-bottom: 0cm" valign="top" width="214">
+										
+		
+										<p>
+		
+		</p>
+									</td>
+									
+		
+									<td style="width: 13.3625rem; border-left: medium none; border-right: 0.0833333333333333rem solid windowtext; border-top: medium none; border-bottom: 0.0833333333333333rem solid windowtext; padding-left: 0.45rem; padding-right: 0.45rem; padding-top: 0cm; padding-bottom: 0cm" valign="top" width="214">
+										
+		
+										<p>
+		
+		</p>
+									</td>
+									
+		
+									<td style="width: 13.3666666666667rem; border-left: medium none; border-right: 0.0833333333333333rem solid windowtext; border-top: medium none; border-bottom: 0.0833333333333333rem solid windowtext; padding-left: 0.45rem; padding-right: 0.45rem; padding-top: 0cm; padding-bottom: 0cm" valign="top" width="214">
+										
+		
+										<p>
+		
+		</p>
+									</td>
+									
+	
+								</tr>
+								
+	
+								<tr>
+									
+		
+									<td style="width: 13.3625rem; border-left: 0.0833333333333333rem solid windowtext; border-right: 0.0833333333333333rem solid windowtext; border-top: medium none; border-bottom: 0.0833333333333333rem solid windowtext; padding-left: 0.45rem; padding-right: 0.45rem; padding-top: 0cm; padding-bottom: 0cm" valign="top" width="214">
+										
+		
+										<p>
+		
+		</p>
+									</td>
+									
+		
+									<td style="width: 13.3625rem; border-left: medium none; border-right: 0.0833333333333333rem solid windowtext; border-top: medium none; border-bottom: 0.0833333333333333rem solid windowtext; padding-left: 0.45rem; padding-right: 0.45rem; padding-top: 0cm; padding-bottom: 0cm" valign="top" width="214">
+										
+		
+										<p>
+		
+		</p>
+									</td>
+									
+		
+									<td style="width: 13.3666666666667rem; border-left: medium none; border-right: 0.0833333333333333rem solid windowtext; border-top: medium none; border-bottom: 0.0833333333333333rem solid windowtext; padding-left: 0.45rem; padding-right: 0.45rem; padding-top: 0cm; padding-bottom: 0cm" valign="top" width="214">
+										
+		
+										<p>
+		
+		</p>
+									</td>
+									
+	
+								</tr>
+								
+
+							</tbody>
+						</table>
+						
+
+						<content/>
+					</став>
+					<clause id="clan11-stav23">
+						<content>
+							<p>В) ПОКРЕТНЕ СТВАРИ</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav24">
+						<content>
+							<p>___________________________________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav25">
+						<content>
+							<p>___________________________________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav26">
+						<content>
+							<p>___________________________________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav27">
+						<content>
+							<p>(врста, количина)</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav28">
+						<content>
+							<p>Г) ИМОВИНСКА ПРАВА</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav29">
+						<content>
+							<p>___________________________________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav30">
+						<content>
+							<p>___________________________________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav31">
+						<content>
+							<p>___________________________________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav32">
+						<content>
+							<p>(врста, количина)</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav33">
+						<content>
+							<p>Уз пријаву подносим:</p>
+							<тачка id="clan11-stav33-tac1">
+								<num>1.</num>
+								<content>
+									<p> Акт о одузимању имовине или други материјални доказ из кога се виде подаци о  одузетој имовини или основ одузимања</p>
+								</content>
+							</тачка>
+							<тачка id="clan11-stav33-tac2">
+								<num>2.</num>
+								<content>
+									<p> Доказ о својству подносиоца пријаве, уколико није ранији власник (решење о  наслеђивању или доказ о смрти лица чија је имовина одузета и доказ о сродству са  тим лицем)</p>
+								</content>
+							</тачка>
+							<тачка id="clan11-stav33-tac3">
+								<num>3.</num>
+								<content>
+									<p>  ________________________________________________________________________________________</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="clan11-stav34">
+						<content>
+							<p>________________________________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav35">
+						<content>
+							<p>________________________________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav36">
+						<content>
+							<p>________________________________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav37">
+						<content>
+							<p>У _____________________________________, дана _____________ године</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav38">
+						<content>
+							<p>Подносилац пријаве</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav39">
+						<content>
+							<p>_____________________________</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav40">
+						<content>
+							<p>Напомена Дирекције:</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav41">
+						<content>
+							<p>___________________________________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav42">
+						<content>
+							<p>___________________________________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav43">
+						<content>
+							<p>___________________________________________________________________________________________</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav44">
+						<content>
+							<p>___________________________________________________________________________________________</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

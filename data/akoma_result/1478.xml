@@ -1,0 +1,1832 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2009/104-7/main"/>
+					<FRBRuri value="/rs/act/2009/104-7"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2015/106-62/srp@/main"/>
+					<FRBRuri value="/rs/act/2015/106-62/srp@"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2015/106-62/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2015/106-62/srp@.akn"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2009-12-16" name="службени гласник рс“" number="104" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Закон" value="закон"/>
+				<keyword id="oblast" showAs="III ПРАВОСУЂЕ, КАЗНЕНО ЗАКОНОДАВСТВО И ПОСТУПЦИ" value="iii правосуђе, казнено законодавство и поступци"/>
+				<keyword id="grupa" showAs="6. Правосудна академија и правосудни испит" value="6. правосудна академија и правосудни испит"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2009-12-11" id="usvajanje"/>
+				<step date="2009-12-24" id="stupanje_na_snagu"/>
+				<step date="2009-12-24" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="104/2009-7" id="e1" type="generation"/>
+				<eventRef date="32/2014-15" id="e2" type="amendment"/>
+				<eventRef date="106/2015-62" id="e3" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Закон је ступио на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 24. децембра 2009. године (види <ref>члан 31. </ref>Закона).Послове Правосудног центра за обуку и стручно усаврашавање, прописане чланом 165. Закона о малолетним учиноцима кривичних дела и кривичноправној заштити малолетних лица („<ref id="ref6" href="/rs/act/05/85/srp@">Службени гласник РС”, број 85/05</ref>), односно прописане Правилником о програму и начину стицања посебних знања из области права детета судија који суде у поступцима у вези са породичним односима („<ref id="ref7" href="/rs/act/06/44/srp@">Службени гласник РС”, број 44/06</ref>), од дана ступања на снагу овог закона, односно 24. децембра 2009. обавља Академија (види <ref>члан 54. </ref>Закона).Одлуком Уставног суда број IУз-497/2011 (<ref id="ref8" href="/rs/act/2014/32/srp@">Службени гласник РС, број 32/2014</ref>) престале су да важе одредбe <ref>члана 40. </ref>ст. 8, 9. и 11. Закона о Правосудној академији („<ref id="ref9" href="/rs/act/2014/32/srp@">Службени гласник РС”, број 32/2014</ref>) јер је утврђено да нису у сагласности са Уставом (види Одлуку УС – 32/2014-15).Закон о изменама и допунама Закона о Правосудној академији (<ref id="ref10" href="/rs/act/2015/106/srp@">Службени гласник РС, број 106/2015</ref>), ступио је на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 29. децембра 2015. године (види <ref>члан 8. </ref>Закона - 106/2015-62).</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<title>ЗАКОН</title>
+			<title>о Правосудној академији</title>
+			<date>„Службени гласник РС“   бр. 104 од 16. децембра 2009,  32 од 20. марта 2014 - УС, 106 од 21. децембра 2015.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОСНОВНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<heading>Предмет закона</heading>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим законом се оснива Правосудна академија (у даљем тексту: Академија) и уређују се њен статус, делатност, органи управљања и финансирање, као и почетна и стална обука судија, јавних тужилаца и заменика јавних тужилаца (у даљем тексту: тужиоци), обука судијских и тужилачких помоћника и приправника и обука судског и тужилачког особља.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<heading>Циљ оснивања Академије</heading>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Циљ оснивања Академије јесте да допринесе професионалном, независном, непристрасном и ефикасном обављању судијске и тужилачке функције и стручном и ефикасном обављању послова судског и тужилачког особља.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<heading>Статус Академије</heading>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Оснивач Академије је Република Србија.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav2">
+								<content>
+									<p>Академија се оснива као установа која обавља делатности ради обезбеђивања остваривања права утврђених законом.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav3">
+								<content>
+									<p>Академија има својство правног лица.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav4">
+								<content>
+									<p>Седиште Академије је у Београду.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav5">
+								<content>
+									<p>На унутрашње уређење и послове које обавља Академија, сходно се примењују одредбе закона који уређује јавне службе, ако овим законом није друкчије одређено.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav6">
+								<content>
+									<p>Надзор над законитошћу рада Академије врши министарство надлежно за правосуђе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan4">
+						<num>4.</num>
+						<heading>Печат Академије</heading>
+						<content>
+							<clause id="gla1-clan4-stav1">
+								<content>
+									<p>Академија има свој печат.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan4-stav2">
+								<content>
+									<p>Садржина и начин коришћења печата Академије утврђује се Статутом Академије, у складу са законом који уређује печат државних и других органа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ДЕЛАТНОСТ И ОРГАНИЗАЦИЈА АКАДЕМИЈЕ</heading>
+				<content>
+					<article id="gla2-clan5">
+						<num>5.</num>
+						<heading>Делатност Академије</heading>
+						<content>
+							<clause id="gla2-clan5-stav1">
+								<content>
+									<p>Академија:</p>
+									<alinea id="gla2-clan5-stav1-ali1">
+										<content>
+											<p>рганизује и спроводи пријемни испит за почетну обуку;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan5-stav1-ali2">
+										<content>
+											<p>рганизује и спроводи почетну обуку;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan5-stav1-ali3">
+										<content>
+											<p>рганизује и спроводи сталну обуку судија и тужилаца;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan5-stav1-ali4">
+										<content>
+											<p>рганизује и спроводи обуку предавача и ментора;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan5-stav1-ali5">
+										<content>
+											<p>рганизује и спроводи стручно усавршавање судског и тужилачког особља;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan5-stav1-ali6">
+										<content>
+											<p>споставља и одржава сарадњу са домаћим, страним и међународним институцијама, организацијама и удружењима, у вези са пословима које обавља;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan5-stav1-ali7">
+										<content>
+											<p>здаје публикације и обавља другу издавачку делатност;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan5-stav1-ali8">
+										<content>
+											<p>бавља истраживачко аналитичке послове и сарађује са научним институцијама;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan5-stav1-ali9">
+										<content>
+											<p>истематски прикупља податке који су од значаја за рад Академије, а нарочито о спровођењу обуке и резултатима обуке и води документационо информациони центар;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan5-stav1-ali10">
+										<content>
+											<p>рикупља и обрађује судску праксу;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan5-stav1-ali11">
+										<content>
+											<p>бавља и друге послове утврђене законом и Статутом Академије (у даљем тексту: Статут).</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+							<clause id="gla2-clan5-stav2">
+								<content>
+									<p>Академија може спроводити програме стручног усавршавања извршитеља,  јавних бележника, јавнобележничких помоћника и јавнобележничких приправника, на  основу уговора између Академије и Коморе извршитеља, односно Јавнобележничке  коморе.*</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan5-stav3">
+								<content>
+									<p>*<ref id="ref11" href="/rs/act/2015/106/srp@">Службени гласник РС, број 106/2015</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan6">
+						<num>6.</num>
+						<heading>Органи Академије</heading>
+						<content>
+							<clause id="gla2-clan6-stav1">
+								<content>
+									<p>Органи Академије су Управни одбор, директор и Програмски савет.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan7">
+						<num>7.</num>
+						<heading>Управни одбор</heading>
+						<content>
+							<clause id="gla2-clan7-stav1">
+								<content>
+									<p>Управни одбор је орган који управља Академијом и његов састав чини девет чланова.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav2">
+								<content>
+									<p>Чланови Управног одбора су: четири члана које именује Високи савет судства из реда судија, од којих два именује на предлог удружења судија; два члана које именује Државно веће тужилаца из реда тужилаца, од којих једног именује на предлог удружења тужилаца; и три члана које именује Влада, од којих је један државни секретар у министарству надлежном за правосуђе задужен за стручно усавршавање запослених у правосуђу, а један из реда запослених у Академији.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav3">
+								<content>
+									<p>Чланови Високог савета судства и Државног већа тужилаца не могу бити чланови Управног одбора.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav4">
+								<content>
+									<p>Мандат чланова Управног одбора траје четири године, с могућношћу поновног избора на још један мандат.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav5">
+								<content>
+									<p>Чланови и председник Управног одбора имају право на накнаду за рад у висини од 30% од основне плате судије основног суда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<heading>Председник Управног одбора</heading>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>Чланови Управног одбора бирају председника Управног одбора међу члановима Управног одбора из реда судија и тужилаца.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav2">
+								<content>
+									<p>Мандат председника Управног одбора траје четири године, са могућношћу поновног избора на још један мандат.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav3">
+								<content>
+									<p>Председник Управног одбора сазива и председава седницама Управног одбора.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<heading>Надлежности Управног одбора</heading>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>Управни одбор Академије:</p>
+									<alinea id="gla2-clan9-stav1-ali1">
+										<content>
+											<p>оноси Статут и друге акте Академије у складу са законом и прати њихову примену;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan9-stav1-ali2">
+										<content>
+											<p>ира и разрешава председника Управног одбора;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan9-stav1-ali3">
+										<content>
+											<p>ира и разрешава директора Академије, на основу претходно спроведеног јавног конкурса;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan9-stav1-ali4">
+										<content>
+											<p>ира и разрешава чланове Програмског савета;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan9-stav1-ali5">
+										<content>
+											<p>сваја програм пријемног испита за почетну обуку;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan9-stav1-ali6">
+										<content>
+											<p>сваја правилник о полагању пријемног испита за почетну обуку;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan9-stav1-ali7">
+										<content>
+											<p>сваја правилник о полагању завршног испита почетне обуке;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan9-stav1-ali8">
+										<content>
+											<p>сваја програме почетне обуке и доставља их Високом савету и Државном већу тужилаца ради утврђивања;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan9-stav1-ali9">
+										<content>
+											<p>сваја програме сталне обуке, уз сагласност Високог савета судства и Државног већа тужилаца;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan9-stav1-ali10">
+										<content>
+											<p>сваја програм обуке судског и тужилачког особља, уз сагласност Високог савета судства, односно Државног већа тужилаца;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan9-stav1-ali11">
+										<content>
+											<p>сваја посебни програм обуке судијских помоћника и приправника, уз сагласност Високог савета судства;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan9-stav1-ali12">
+										<content>
+											<p>сваја посебан програм обуке тужилачких помоћника и приправника и доставља га Државном већу тужилаца ради утврђивања;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan9-stav1-ali13">
+										<content>
+											<p>оноси програм пријемног испита за судијске и тужилачке приправнике;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan9-stav1-ali14">
+										<content>
+											<p>сваја програм обуке ментора и предавача;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan9-stav1-ali15">
+										<content>
+											<p>длучује о висини накнаде за рад ментора и предавача;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan9-stav1-ali16">
+										<content>
+											<p>сваја годишњи извештај о раду Академије и годишњи обрачун;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan9-stav1-ali17">
+										<content>
+											<p>аје сагласност на одлуку о именовању чланова сталних комисија;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan9-stav1-ali18">
+										<content>
+											<p>оноси пословник о свом раду;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan9-stav1-ali19">
+										<content>
+											<p>аје сагласност на акт о унутрашњем уређењу и систематизацији радних места у Академији;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan9-stav1-ali20">
+										<content>
+											<p>длучује о коришћењу средства Академије, у складу са законом;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan9-stav1-ali21">
+										<content>
+											<p>бавља и друге послове у складу са законом и Статутом.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan10">
+						<num>10.</num>
+						<heading>Престанак функције чланова и председника Управног одбора</heading>
+						<content>
+							<clause id="gla2-clan10-stav1">
+								<content>
+									<p>Члану Управног одбора престаје функција:</p>
+									<alinea id="gla2-clan10-stav1-ali1">
+										<content>
+											<p>стеком мандата на који је изабран;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan10-stav1-ali2">
+										<content>
+											<p>а лични захтев;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan10-stav1-ali3">
+										<content>
+											<p>лану Управног одбора који је судија, тужилац или државни секретар министарства надлежног за правосуђе, престанком те функције;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan10-stav1-ali4">
+										<content>
+											<p> случају спречености обављања функције члана Управног одбора у периоду дужем од шест месеци;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan10-stav1-ali5">
+										<content>
+											<p>азрешењем.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav2">
+								<content>
+									<p>Одлуку о престанку функције члана Управног одбора доноси орган који га је именовао.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav3">
+								<content>
+									<p>Орган надлежан за именовање, именује новог члана у року од 30 дана од дана доношења одлуке о престанку функције члана Управног одбора.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav4">
+								<content>
+									<p>Поред разлога из става 1. овог члана, председнику Управног одбора може престати та фунција и разрешењем на основу одлуке Управног одбора.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan11">
+						<num>11.</num>
+						<heading>Начин рада Управног одбора</heading>
+						<content>
+							<clause id="gla2-clan11-stav1">
+								<content>
+									<p>Седнице Управног одбора сазива и њима председава председник Управног одбора. Управни одбор одржава најмање четири седнице годишње.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav2">
+								<content>
+									<p>Председник Управног одбора сазива седницу на предлог најмање једне трећине чланова.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav3">
+								<content>
+									<p>Седница Управног одбора може бити сазвана и на основу образложеног писменог захтева директора Академије или члана Управног одбора.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav4">
+								<content>
+									<p>Управни одбор одржава седнице ако је присутно више од половине укупног броја чланова.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan12">
+						<num>12.</num>
+						<heading>Начин одлучивања Управног одбора</heading>
+						<content>
+							<clause id="gla2-clan12-stav1">
+								<content>
+									<p>Управни одбор доноси одлуке већином гласова присутног броја чланова.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan12-stav2">
+								<content>
+									<p>Одлуке о избору и разрешењу председника Управног одбора и директора Академије, Статут и пословник доносе се двотрећинском већином гласова свих чланова Управног одбора.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan12-stav3">
+								<content>
+									<p>Начин рада и одлучивања Управног одбора ближе се уређује пословником.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan13">
+						<num>13.</num>
+						<heading>Директор Академије</heading>
+						<content>
+							<clause id="gla2-clan13-stav1">
+								<content>
+									<p>Директор је извршни орган Академије.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan13-stav2">
+								<content>
+									<p>Директор Академије бира се на период од пет година, уз могућност поновног избора.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan13-stav3">
+								<content>
+									<p>За директора Академије може се изабрати лице које поред општих услова за рад у државним органима испуњава следеће услове:</p>
+									<alinea id="gla2-clan13-stav3-ali1">
+										<content>
+											<p>а има високу стручну спрему;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan13-stav3-ali2">
+										<content>
+											<p>а има најмање седам година радног искуства у струци;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan13-stav3-ali3">
+										<content>
+											<p>а има организационе и руководеће способности;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan13-stav3-ali4">
+										<content>
+											<p>а има активно знање једног светског језика.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan14">
+						<num>14.</num>
+						<heading>Надлежности Директора</heading>
+						<content>
+							<clause id="gla2-clan14-stav1">
+								<content>
+									<p>Директор:</p>
+									<alinea id="gla2-clan14-stav1-ali1">
+										<content>
+											<p>редставља и заступа Академију;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan14-stav1-ali2">
+										<content>
+											<p>звршава одлуке Управног одбора и Програмског савета;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan14-stav1-ali3">
+										<content>
+											<p>оординира и организује рад Академије;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan14-stav1-ali4">
+										<content>
+											<p>чествује у раду Управног одбора и Програмског савета;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan14-stav1-ali5">
+										<content>
+											<p>односи годишњи извештај о раду Управном одбору;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan14-stav1-ali6">
+										<content>
+											<p>оноси акт о унутрашњем уређењу и систематизацији радних места у Академији, уз сагласност Управног одбора;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan14-stav1-ali7">
+										<content>
+											<p>уководи стручном и техничком службом Академије;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan14-stav1-ali8">
+										<content>
+											<p>бавља и друге послове у складу са законом, Статутом и другим актима.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan15">
+						<num>15.</num>
+						<heading>Престанак функције директора</heading>
+						<content>
+							<clause id="gla2-clan15-stav1">
+								<content>
+									<p>Директору Академије престаје функција:</p>
+									<alinea id="gla2-clan15-stav1-ali1">
+										<content>
+											<p>стеком мандата на који је изабран;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan15-stav1-ali2">
+										<content>
+											<p>а лични захтев;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan15-stav1-ali3">
+										<content>
+											<p>убитком радне способности и испуњавањем услова за пензију;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan15-stav1-ali4">
+										<content>
+											<p>азрешењем због нестручног и несавесног рада.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan16">
+						<num>16.</num>
+						<heading>Програмски савет</heading>
+						<content>
+							<clause id="gla2-clan16-stav1">
+								<content>
+									<p>Програмски савет је стручни орган Академије.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan16-stav2">
+								<content>
+									<p>Прoгрaмски сaвeт чини 15 члaнoвa кoje имeнуje Упрaвни oдбoр, из рeдa  судиja и тужилaцa, других стручњaкa, судскoг и тужилaчкoг oсoбљa и корисника  почетне обуке.*</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan16-stav3">
+								<content>
+									<p>Најмање пет чланова Програмског савета су судије, најмање три су тужиоци, од којих по једног члана предлаже удружење судија, односно удружење тужилаца,   a по jeдaн члaн je из рeдa судскoг и тужилaчкoг oсoбљa и корисника  почетне обуке*.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan16-stav4">
+								<content>
+									<p>Чланови Високог савета судства, Државног већа тужилаца и чланови Управног одбора не могу бити чланови Програмског савета.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan16-stav5">
+								<content>
+									<p>Чланови Програмског савета из става 3. овог члана  из реда судија, тужилаца и судског и тужилачког особља*, могу се ослободити до 50% обима посла због рада у Академији.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan16-stav6">
+								<content>
+									<p>Одлуку о ослобођењу из става 5. овог члана доноси Високи савет судства за судије, Државно веће тужилаца за тужиоце, а старешина правосудног органа у коме је члан запослен за члана из реда судског и тужилачког особља.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan16-stav7">
+								<content>
+									<p>Чланови Програмског савета који нису из реда судија, тужилаца и судског и тужилачког особља имају право на посебну накнаду за рад коју утврђује Управни одбор.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan16-stav8">
+								<content>
+									<p>*<ref id="ref12" href="/rs/act/2015/106/srp@">Службени гласник РС, број 106/2015</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan17">
+						<num>17.</num>
+						<heading>Надлежност Програмског савета</heading>
+						<content>
+							<clause id="gla2-clan17-stav1">
+								<content>
+									<p>Програмски савет Академије:</p>
+									<alinea id="gla2-clan17-stav1-ali1">
+										<content>
+											<p>тврђује предлог програма полагања пријемног испита за почетну обуку;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan17-stav1-ali2">
+										<content>
+											<p>тврђује предлог програма завршног испита почетне обуке;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan17-stav1-ali3">
+										<content>
+											<p>тврђује предлог програма почетне обуке судија и тужиоца;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan17-stav1-ali4">
+										<content>
+											<p>менује чланове сталних комисија, уз сагласност Управног одбора;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan17-stav1-ali5">
+										<content>
+											<p>бразује повремене комисије и радне групе, у складу са Статутом;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan17-stav1-ali6">
+										<content>
+											<p>тврђује предлог програма сталне обуке судија и тужиоца;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan17-stav1-ali7">
+										<content>
+											<p>тврђује предлог посебног програма обуке судијских и тужилачких помоћника и приправника;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan17-stav1-ali8">
+										<content>
+											<p>тврђује предлог пријемног испита за судијске и тужилачке приправнике;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan17-stav1-ali9">
+										<content>
+											<p>тврђује предлог програма обуке судског и тужилачког особља;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan17-stav1-ali10">
+										<content>
+											<p>тврђује предлог програма обуке ментора и предавача и других специјализованих програма обуке;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan17-stav1-ali11">
+										<content>
+											<p>менује сталне предаваче из реда судија и тужилаца уз сагласност Високог савета судства, односно Државног већа тужилаца;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan17-stav1-ali12">
+										<content>
+											<p>аје сагласност на одлуку о избору сталних предавача који нису судије и тужиоци;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan17-stav1-ali13">
+										<content>
+											<p>тврђује услове за именовање и именује менторе и повремене предаваче;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan17-stav1-ali14">
+										<content>
+											<p>тврђује предлог правилника за полагање пријемног испита за почетну обуку;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan17-stav1-ali15">
+										<content>
+											<p>тврђује предлог правилника за полагање завршног испита почетне обуке;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan17-stav1-ali16">
+										<content>
+											<p>оноси пословник о свом раду;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan17-stav1-ali17">
+										<content>
+											<p>длучује о приговору на ранг листу кандидата са пријемног испита за почетну обуку;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan17-stav1-ali18">
+										<content>
+											<p>рши и друге послове у складу са овим законом и Статутом.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan18">
+						<num>18.</num>
+						<heading>Сталне комисије Програмског савета</heading>
+						<content>
+							<clause id="gla2-clan18-stav1">
+								<content>
+									<p>Програмски савет има сталне комисије:</p>
+									<alinea id="gla2-clan18-stav1-ali1">
+										<content>
+											<p>а пријемни испит корисника почетне обуке;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan18-stav1-ali2">
+										<content>
+											<p>а почетну обуку и завршни испит;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan18-stav1-ali3">
+										<content>
+											<p>а сталну обуку;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan18-stav1-ali4">
+										<content>
+											<p>а обуку судијских и тужилачких помоћника и приправника;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan18-stav1-ali5">
+										<content>
+											<p>а обуку судског и тужилачког особља;</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan18-stav1-ali6">
+										<content>
+											<p>а обуку ментора и предавача.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+							<clause id="gla2-clan18-stav2">
+								<content>
+									<p>Чланове сталне комисије именује Програмски савет уз сагласност Управног одбора.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan18-stav3">
+								<content>
+									<p>Број и састав чланова сталних комисија уређује се Статутом.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan18-stav4">
+								<content>
+									<p>Чланови сталних комисија имају права из <ref>члана 16. </ref>ст. 5. и 7. овог закона.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan19">
+						<num>19.</num>
+						<heading>Ментори и предавачи</heading>
+						<content>
+							<clause id="gla2-clan19-stav1">
+								<content>
+									<p>Ментори и предавачи су посебно обучена лица из реда судија, тужилаца и других професија која непосредно спроводе програме обуке.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan19-stav2">
+								<content>
+									<p>Ментори могу бити само судије и заменици јавних тужилаца.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan19-stav3">
+								<content>
+									<p>Предавачи могу бити стални и повремени.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan19-stav4">
+								<content>
+									<p>Стални предавачи из реда судија и заменика јавних тужилаца упућују се на рад у Академију на период од три године.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan19-stav5">
+								<content>
+									<p>Стални предавачи који нису судије и заменци јавних тужилаца заснивају радни однос у Академији.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan19-stav6">
+								<content>
+									<p>Повремени предавачи се ангажују према потреби ради спровођења програма обуке.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan19-stav7">
+								<content>
+									<p>Права и обавезе ментора и повремених предавача уређују се уговором између њих и Академије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan20">
+						<num>20.</num>
+						<heading>Плате и накнаде ментора и предавача</heading>
+						<content>
+							<clause id="gla2-clan20-stav1">
+								<content>
+									<p>Meнтoри нa прoгрaму пoчeтнe oбукe и мeнтoри нa прoгрaму oбукe судиjских,  oднoснo тужилaчких пoмoћникa и припрaвникa имajу прaвo нa нaкнaду зa мeнтoрски  рaд у износу од 10% свoje oснoвнe плaтe.*</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan20-stav2">
+								<content>
+									<p>Стaлни прeдaвaчи из рeдa судиja и зaмeникa jaвних тужилaцa имajу плaту  jeднaку плaти кojу би имaли дa oбaвљajу судиjску, oднoснo тужилaчку функциjу,  ако je тo зa њих пoвoљниje.*</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan20-stav3">
+								<content>
+									<p>Пoврeмeни прeдaвaчи имajу прaвo нa нaкнaду зa рaд и нa нaкнaду трoшкoвa  у вeзи сa припрeмoм и спрoвoђeњeм oбукe у склaду сa aктoм Упрaвнoг oдбoрa.*</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan20-stav4">
+								<content>
+									<p>*<ref id="ref13" href="/rs/act/2015/106/srp@">Службени гласник РС, број 106/2015</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan21">
+						<num>21.</num>
+						<heading>Стручна и техничка служба</heading>
+						<content>
+							<clause id="gla2-clan21-stav1">
+								<content>
+									<p>За обављање стручних и административнотехничких послова у Академији образује се стручна и техничка служба.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan21-stav2">
+								<content>
+									<p>Опис послова и радних задатака запослених у стручној и техничкој служби уређују се актом о унутрашњем уређењу и систематизацији радних места.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan21-stav3">
+								<content>
+									<p>На права и обавезе запослених у Академији примењују се одредбе закона и других прописа којима се уређују радни односи.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan22">
+						<num>22.</num>
+						<heading>Средства и услови за рад</heading>
+						<content>
+							<clause id="gla2-clan22-stav1">
+								<content>
+									<p>Средства за рад Академије обезбеђују се из буџета Републике Србије, донација и поклона, прихода од издавања публикација и реализације пројеката и других извора у складу са законом.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan22-stav2">
+								<content>
+									<p>Услове за рад Академије обезбеђује Влада.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ОБУКА СУДИЈА И ТУЖИЛАЦА</heading>
+				<content>
+					<article id="gla3-clan23">
+						<num>23.</num>
+						<heading>Појам и циљ</heading>
+						<content>
+							<clause id="gla3-clan23-stav1">
+								<content>
+									<p>Обука судија и тужилаца је организовано стицање и усавршавање практичних и теоријских знања и вештина потребних за независно, односно самостално, стручно и ефикасно вршење њихове функције.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan24">
+						<num>24.</num>
+						<heading>Врсте обуке</heading>
+						<content>
+							<clause id="gla3-clan24-stav1">
+								<content>
+									<p>Обука може бити почетна и стална.</p>
+									<тачка id="gla3-clan24-stav1-tac1">
+										<num>1.</num>
+										<content>
+											<p> Почетна обука</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan25">
+						<num>25.</num>
+						<heading>Појам и циљ</heading>
+						<content>
+							<clause id="gla3-clan25-stav1">
+								<content>
+									<p>Почетна обука је организовано стицање практичних и теоријских знања и вештина, разумевање улоге и основних принципа поступања судије и заменика јавног тужиоца у циљу самосталног, стручног и ефикасног вршења функције судије у прекршајном и основном суду и заменика јавног тужиоца у основном јавном тужилаштву.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan26">
+						<num>26.</num>
+						<heading>Корисници почетне обуке</heading>
+						<content>
+							<clause id="gla3-clan26-stav1">
+								<content>
+									<p>Корисници почетне обуке су лица која су по положеном пријемном испиту примљена у Академију на почетну обуку.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan26-stav2">
+								<content>
+									<p>Број корисника почетне обуке одређују Високи савет судства, односно Државно веће тужилаца једном годишње, до 1. марта и о томе обавештавају Академију.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan26-stav3">
+								<content>
+									<p>Број корисника почетне обуке из става 2. овог члана Високи савет судства и Државно веће тужилаца утврђују на основу процене броја слободних судијских места у прекршајним и основним судовима, односно места заменика у основном јавном тужилаштву, у години која следи након године у којој корисници завршавају почетну обуку, увећаном за 30%.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan27">
+						<num>27.</num>
+						<heading>Јавни конкурс за пријем на почетну обуку</heading>
+						<content>
+							<clause id="gla3-clan27-stav1">
+								<content>
+									<p>Академија расписује јавни конкурс за избор кандидата за пријем на почетну обуку.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan27-stav2">
+								<content>
+									<p>Јавни конкурс из става 1. овог члана расписује се једном годишње, најкасније до 1. јуна и објављује се у „Службеном гласнику Републике Србије” и другом средству јавног информисања које покрива целу територију Републике Србије.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan27-stav3">
+								<content>
+									<p>Рок за пријављивање кандидата је 15 дана од дана објављивања јавног конкурса у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan28">
+						<num>28.</num>
+						<heading>Услови за пријем на почетну обуку</heading>
+						<content>
+							<clause id="gla3-clan28-stav1">
+								<content>
+									<p>Услови за пријем на почетну обуку су:</p>
+									<alinea id="gla3-clan28-stav1-ali1">
+										<content>
+											<p>оложен правосудни испит;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan28-stav1-ali2">
+										<content>
+											<p>спуњавање општих услова за рад у државним органима;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan28-stav1-ali3">
+										<content>
+											<p>оложен пријемни испит за почетну обуку.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<subsection id="gla3-podod1">
+						<num>а</num>
+						<heading> Пријемни испит за почетну обуку</heading>
+						<content>
+							<article id="gla3-podod1-clan29">
+								<num>29.</num>
+								<heading>Циљ пријемног испита</heading>
+								<content>
+									<clause id="gla3-podod1-clan29-stav1">
+										<content>
+											<p>Циљ пријемног испита је утврђивање степена стручног знања потребног за похађање програма почетне обуке и способности за вршење судијске и тужилачке функције.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-podod1-clan30">
+								<num>30.</num>
+								<heading>Предмет и програм пријемног испита</heading>
+								<content>
+									<clause id="gla3-podod1-clan30-stav1">
+										<content>
+											<p>Предмет пријемног испита односи се на утврђивање степена стручног знања потребног за похађање програма почетне обуке, што обухвата важеће материјално и процесно право у области грађанског, кривичног и прекршајног права, као и познавање опште културе.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan30-stav2">
+										<content>
+											<p>Програм полагања пријемног испита уређује се актом Програмског савета који се објављује најкасније шест месеци пре дана полагања испита.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-podod1-clan31">
+								<num>31.</num>
+								<heading>Време и начин полагања пријемног испита</heading>
+								<content>
+									<clause id="gla3-podod1-clan31-stav1">
+										<content>
+											<p>Пријемни испит за почетну обуку организује се једном годишње најкасније до 1. септембра.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan31-stav2">
+										<content>
+											<p>Пријемни испит се састоји од писменог и усменог дела и теста личности.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan31-stav3">
+										<content>
+											<p>Начин полагања пријемног испита ближе се уређује правилником о полагању пријемног испита.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-podod1-clan32">
+								<num>32.</num>
+								<heading>Комисија за пријемни испит</heading>
+								<content>
+									<clause id="gla3-podod1-clan32-stav1">
+										<content>
+											<p>Пријемни испит се полаже пред комисијом за пријемни испит (у даљем тексту: Испитна комисија).</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan32-stav2">
+										<content>
+											<p>Испитна комисија има пет чланова које именује Програмски савет на период од четири године, од којих су три члана судије, а два тужиоци.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan32-stav3">
+										<content>
+											<p>Чланови Испитне комисије не могу бити чланови Програмског савета.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan32-stav4">
+										<content>
+											<p>За спровођење теста личности, Испитна комисија ангажује стручна лица.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-podod1-clan33">
+								<num>33.</num>
+								<heading>Оцењивање</heading>
+								<content>
+									<clause id="gla3-podod1-clan33-stav1">
+										<content>
+											<p>Усмени и писмени део оцењују се оценама од 1 до 10.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan33-stav2">
+										<content>
+											<p>Оцене на тесту личности су „задовољава” и „не задовољава”.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan33-stav3">
+										<content>
+											<p>Сматра се да кандидат који добије оцену 2 или нижу на усменом или писменом делу пријемног испита, односно оцену „не задовољава” на тесту личности, није положио пријемни испит.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan33-stav4">
+										<content>
+											<p>Кандидат који није задовољан оценом на усменом делу испита има право да у року од 24 часа од пријема обавештења о оцени поднесе захтев Програмском савету за полагање усменог дела пријемног испита пред посебном комисијом.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan33-stav5">
+										<content>
+											<p>Програмски савет образује посебну комисију из става 4. овог члана, у року од три дана од дана подношења захтева. Посебна комисија се састоји од три члана. Чланови Испитне комисије не могу бити чланови посебне комисије. Оцена посебне комисије је коначна.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan33-stav6">
+										<content>
+											<p>Завршна оцена на пријемном испиту представља збир оцена са усменог и писменог дела пријемног испита.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-podod1-clan34">
+								<num>34.</num>
+								<heading>Ранг листа</heading>
+								<content>
+									<clause id="gla3-podod1-clan34-stav1">
+										<content>
+											<p>Испитна комисија утврђује ранг листу кандидата на основу завршне оцене.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan34-stav2">
+										<content>
+											<p>Уколико кандидати имају исту завршну оцену, предност има кандидат са бољом оценом на правосудном испиту, а уколико су и те оцене исте, предност има кандидат са бољом просечном оценом на студијама.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan34-stav3">
+										<content>
+											<p>Приговор на утврђену ранг листу кандидат може поднети Програмском савету, у року од три дана од дана објављивања ранг листе. Програмски савет може одбити приговор или га усвојити и утврдити коначну ранг листу кандидата.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod1-clan34-stav4">
+										<content>
+											<p>За кориснике се примају кандидати према редоследу са ранг листе до попуне предвиђеног броја корисника за ту годину.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+					<subsection id="gla3-podod2">
+						<num>б</num>
+						<heading> Спровођење почетне обуке</heading>
+						<content>
+							<article id="gla3-podod2-clan35">
+								<num>35.</num>
+								<heading>Програм и обављање почетне обуке</heading>
+								<content>
+									<clause id="gla3-podod2-clan35-stav1">
+										<content>
+											<p>Програм почетне обуке обухвата примену материјалних и процесних закона, судску и тужилачку праксу, стандарде судијске и тужилачке етике, међународне правне стандарде, унутрашњу организацију рада судова и тужилаштва, научне и стручне радове у области домаћег и међународног права, као и вештине судског и тужилачког посла.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod2-clan35-stav2">
+										<content>
+											<p>Програм почетне обуке утврђују Високи савет судства и Државно веће тужилаца, на основу предлога који је утврдио Програмски савет, а усвојио Управни одбор Академије.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod2-clan35-stav3">
+										<content>
+											<p>Почетна обука траје две године, почиње 1. октобра и састоји се од теоријског и практичног дела у области уставног, грађанског, кривичног и прекршајног права, као и опште и професионалне културе.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod2-clan35-stav4">
+										<content>
+											<p>Практични део почетне обуке обавља се у суду, јавном тужилаштву, као и у другим државним органима, адвокатским канцеларијама и другим организацијама.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod2-clan35-stav5">
+										<content>
+											<p>Време трајања обуке за сваку област утврђује се програмом почетне обуке.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod2-clan35-stav6">
+										<content>
+											<p>Теоријски део обуке се одвија кроз обраду одређених тематских целина у организацији Академије, а практични део кроз рад у правосудним органима под надзором ментора и кроз рад у институцијама изван правосуђа.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-podod2-clan36">
+								<num>36.</num>
+								<heading>Оцењивање почетне обуке</heading>
+								<content>
+									<clause id="gla3-podod2-clan36-stav1">
+										<content>
+											<p>По завршетку сваког дела почетне обуке ментор и предавач из тог дела обуке која се обавља у суду и тужилаштву дају оцену. Рад у институцијама изван правосуђа се не оцењује.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod2-clan36-stav2">
+										<content>
+											<p>Оцењивање почетне обуке врши се оценама од 1 до 5.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod2-clan36-stav3">
+										<content>
+											<p>Корисник почетне обуке који није задовољан оценом има право да у року од 24 часа од пријема обевештења о оцени поднесе захтев Програмском савету за полагање тог дела обуке пред посебном комисијом.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod2-clan36-stav4">
+										<content>
+											<p>Програмски савет образује посебну комисију из става 3. овог члана у року од три дана од дана подношења захтева. Посебна комисија се састоји од три члана. Ментор и предавач на чију се оцену корисник почетне обуке жалио не могу бити чланови посебне комисије. Оцена посебне комисије је коначна.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod2-clan36-stav5">
+										<content>
+											<p>У случају да корисник почетне обуке добије коначну оцену 1 из дела почетне обуке престаје му својство корисника почетне обуке.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-podod2-clan37">
+								<num>37.</num>
+								<heading>Завршни испит</heading>
+								<content>
+									<clause id="gla3-podod2-clan37-stav1">
+										<content>
+											<p>По завршетку почетне обуке корисници почетне обуке полажу завршни испит на коме се проверају искључиво практична знања и способности стечена на почетној обуци за обављање посла судије прекршајног суда, основног суда и заменика јавног тужиоца у основном тужилаштву.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod2-clan37-stav2">
+										<content>
+											<p>Завршни испит се полаже пред комисијом од пет чланова, од којих су три  члана судије, а два тужиоци.*</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod2-clan37-stav3">
+										<content>
+											<p>Оцењивање завршног испита изражава се оценама од 1 до 5.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod2-clan37-stav4">
+										<content>
+											<p>Корисник почетне обуке који на завршном испиту добије оцену 1 сматра се да није завршио почетну обуку.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod2-clan37-stav5">
+										<content>
+											<p>Програм и начин полагања завршног испита ближе се уређује правилником.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod2-clan37-stav6">
+										<content>
+											<p>*<ref id="ref14" href="/rs/act/2015/106/srp@">Службени гласник РС, број 106/2015</ref></p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-podod2-clan38">
+								<num>38.</num>
+								<heading>Завршна оцена</heading>
+								<content>
+									<clause id="gla3-podod2-clan38-stav1">
+										<content>
+											<p>На крају почетне обуке корисник почетне обуке добија завршну оцену која представља збир оцена добијених за поједине делове обуке и оцене са завршног испита.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-podod2-clan39">
+								<num>39.</num>
+								<heading>Уверење о завршеној почетној обуци</heading>
+								<content>
+									<clause id="gla3-podod2-clan39-stav1">
+										<content>
+											<p>Академија издаје кориснику уверење о завршеној почетној обуци које садржи оцену за сваки део обуке и завршну оцену.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod2-clan39-stav2">
+										<content>
+											<p>Уверење из става 1. овог члана издаје се на обрасцу који се утврђује актом Управног одбора.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+					<subsection id="gla3-podod3">
+						<num>в</num>
+						<heading> Права и обавезе корисника почетне обуке</heading>
+						<content>
+							<article id="gla3-podod3-clan40">
+								<num>40.</num>
+								<content>
+									<clause id="gla3-podod3-clan40-stav1">
+										<content>
+											<p>Корисник почетне обуке заснива радни однос на одређено време у Академији у трајању од 30 месеци, почев од 1. октобра у години у којој је примљен као корисник почетне обуке.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan40-stav2">
+										<content>
+											<p>Суд, односно јавно тужилаштво, у којем ће корисник почетне обуке обављати почетну обуку, одређује Програмски савет према месту у коме корисник почетне обуке ради или има пребавилиште, односно боравиште.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan40-stav3">
+										<content>
+											<p>Корисник почетне обуке има плату у висини 70% од основне плате судије основног суда, за време трајања радног односа на одређено време у Академији.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan40-stav4">
+										<content>
+											<p>Похађање почетне обуке сматра се радним искуством у правној струци.**</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan40-stav5">
+										<content>
+											<p>Директор Академије може донети одлуку о одлагању похађања почетне обуке најдуже на 12 месеци на основу молбе корисника почетне обуке.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan40-stav6">
+										<content>
+											<p>Корисник почетне обуке има право жалбе Управном одбору, у року од осам дана од дана достављања одлуке из става 4. овог члана. Одлука Управног одбора је коначна.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan40-stav7">
+										<content>
+											<p>Изузетно, директор Академије доноси решење о одлагању похађања почетне обуке кориснику који се налази на трудничком боловању или породиљском одсуству. Решење о одлагању се доноси за период одређен законом који уређује ово право.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan40-stav8">
+										<content>
+											<p>По завршеној почетној обуци корисник је дужан да конкурише на места судије прекршајног суда или основног суда, односно заменика основног јавног тужиоца.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan40-stav9">
+										<content>
+											<p>Престао је да важи  ранији став 8. (види Одлуку УС* - 32/2014-15)</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan40-stav10">
+										<content>
+											<p>Престао је да важи  ранији став 9. (види Одлуку УС* - 32/2014-15)</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan40-stav11">
+										<content>
+											<p>Високи савет судства, односно Државно веће тужилаца може лицу које је завршило почетну обуку одобрити заснивање радног односа на одређено време у суду, односно тужилаштву најдуже три године, уколико се јављао на конкурс за избор судије или заменика јавног тужиоца, а није изабран.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan40-stav12">
+										<content>
+											<p>Престао је да важи  ранији став 11. (види Одлуку УС* - 32/2014-15)</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan40-stav13">
+										<content>
+											<p>Корисник је обавезан да редовно похађа почетну обуку и поштује правила утврђена општим актима Академије.</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan40-stav14">
+										<content>
+											<p>*<ref id="ref15" href="/rs/act/2014/32/srp@">Службени гласник РС, број 32/2014</ref> (Одлука УС)</p>
+										</content>
+									</clause>
+									<clause id="gla3-podod3-clan40-stav15">
+										<content>
+											<p>**<ref id="ref16" href="/rs/act/2015/106/srp@">Службени гласник РС, број 106/2015</ref></p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+					<section id="gla3-od2">
+						<num>2.</num>
+						<heading> Стална обука</heading>
+						<content>
+							<article id="gla3-od2-clan41">
+								<num>41.</num>
+								<heading>Појам и циљ</heading>
+								<content>
+									<clause id="gla3-od2-clan41-stav1">
+										<content>
+											<p>Стална обука је усавршавање теоријских и практичних знања и вештина ради стручног и ефикасног вршења судијске и тужилачке функције.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan42">
+								<num>42.</num>
+								<heading>Корисници сталне обуке</heading>
+								<content>
+									<clause id="gla3-od2-clan42-stav1">
+										<content>
+											<p>Корисници сталне обуке су судије и тужиоци.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan42-stav2">
+										<content>
+											<p>Академија води евиденцију о судијама и тужиоцима који су учествовали у програму сталне обуке и те податке доставља Високом савету судства и Државном већу тужилаца.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan43">
+								<num>43.</num>
+								<heading>Врсте и програм сталне обуке</heading>
+								<content>
+									<clause id="gla3-od2-clan43-stav1">
+										<content>
+											<p>Стална обука може бити добровољна и обавезна.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan43-stav2">
+										<content>
+											<p>Стaлнa oбукa je обавезна кaдa je то прeдвиђeно зaкoнoм или oдлукoм  Висoкoг сaвeтa судствa и Држaвнoг вeћa тужилaцa у случajу прoмeнe  спeциjaлизaциje, битних прoмeнa прoписa, увoђeњa нoвих тeхникa рaдa и рaди  oтклaњaњa нeдoстaтaкa у рaду судиje и зaмeникa jaвнoг тужиoцa уoчeних приликoм  вредновања њихoвoг рaдa.*</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan43-stav3">
+										<content>
+											<p>Програм сталне обуке усваја Управни одбор, на предлог Програмског савета, уз сагласност Високог савета судства, односно Државног већа тужилаца.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan43-stav4">
+										<content>
+											<p>*<ref id="ref17" href="/rs/act/2015/106/srp@">Службени гласник РС, број 106/2015</ref></p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan44">
+								<num>44.</num>
+								<heading>Општи програм сталне обуке</heading>
+								<content>
+									<clause id="gla3-od2-clan44-stav1">
+										<content>
+											<p>Право и обавеза сталног стручног усавршавања судија и тужилаца остварује се кроз опште програме сталне обуке.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan45">
+								<num>45.</num>
+								<heading>Посебан програм сталне обуке</heading>
+								<content>
+									<clause id="gla3-od2-clan45-stav1">
+										<content>
+											<p>Судије и заменици јавних тужилаца који су први пут изабрани на ту функцију  у прекршајном или основном суду, односно основном јавном тужилаштву*, а нису завршили почетну обуку, обавезни су да похађају посебан програм сталне обуке.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan45-stav2">
+										<content>
+											<p>Садржина и трајање посебног програма сталне обуке утврђују се актом Програмског савета зависно од професионалног искуства корисника из става 1. овог члана.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan45-stav3">
+										<content>
+											<p>Кориснику посебног програма сталне обуке из става 1. овог члана смањиће се обим посла и радно време до 30% за време трајања овог програма, на основу одлуке Високог савета судства, односно Државног већа тужилаца.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan45-stav4">
+										<content>
+											<p>Корисници посебног програма сталне обуке су и судије и заменици јавних тужилаца, који су одређени одлуком Високог савета судства, односно Државног већа тужилаца, када је то потребно ради отклањања недостатака у раду судије и заменика јавног тужиоца, уочених приликом вредновања њиховог рада. У овом случају стална обука је обавезна.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan45-stav5">
+										<content>
+											<p>Одлуком Високог савета судства, односно Државног већа тужилаца за поједине категорије судија и тужилаца, може бити прописана обавезна стална обука и то у случају избора за суд, односно јавно тужилаштво вишег степена, промене специјализације, битних промена прописа и увођења нових техника рада.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan45-stav6">
+										<content>
+											<p>Академија је у обавези да изради посебан програм сталне обуке, у складу са одлукама Високог савета судства, односно Државног већа тужилаца.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan45-stav7">
+										<content>
+											<p>*<ref id="ref18" href="/rs/act/2015/106/srp@">Службени гласник РС, број 106/2015</ref></p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla3-od2-clan46">
+								<num>46.</num>
+								<heading>Годишњи програм добровољне сталне обуке</heading>
+								<content>
+									<clause id="gla3-od2-clan46-stav1">
+										<content>
+											<p>Академија је дужна да једном годишње, најкасније до 1. децембра, достави судовима и јавним тужилаштвима оквирни годишњи програм добровољне обуке за наредну календарску годину.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan46-stav2">
+										<content>
+											<p>Пријаве за програме из става 1. овог члана, судије и тужиоци достављају Академији до 31. децембра текуће године, за наредну календарску годину.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan46-stav3">
+										<content>
+											<p>За сваки од понуђених програма, Академија одређује кориснике и о томе обавештава судове и јавна тужилаштва.</p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan46-stav4">
+										<content>
+											<p>Академија издаје уверења судијама и тужиоцима, о учешћу у програмима сталне обуке.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ОБУКА МЕНТОРА И ПРЕДАВАЧА</heading>
+				<content>
+					<article id="gla4-clan47">
+						<num>47.</num>
+						<heading>Програм обуке ментора и предавача</heading>
+						<content>
+							<clause id="gla4-clan47-stav1">
+								<content>
+									<p>Ментори и предавачи из реда судија и тужилаца похађају програм обуке који усваја Управни одбор на предлог Програмског савета.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan47-stav2">
+								<content>
+									<p>Академија издаје менторима и предавачима уверење о завршеној обуци из става 1. овог члана.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan47-stav3">
+								<content>
+									<p>Уверење из става 2. овог члана, издаје се на обрасцу који се утврђује актом Управног одбора.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan48">
+						<num>48.</num>
+						<heading>Ментори за програм обуке судијских и тужилачких помоћника и приправника</heading>
+						<content>
+							<clause id="gla4-clan48-stav1">
+								<content>
+									<p>Током спровођења обуке, судијски и тужилачки помоћници и приправници имају менторе из редова судија, односно заменика јавних тужилаца које именује председник суда, односно јавни тужилац.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan48-stav2">
+								<content>
+									<p>Ментори из става 1. овог члана су обавезни да заврше програм обуке за менторе који организује Академија.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>ПОСЕБАН ПРОГРАМ ОБУКЕ СУДИЈСКИХ И ТУЖИЛАЧКИХ ПОМОЋНИКА И ПРИПРАВНИКА</heading>
+				<content>
+					<article id="gla5-clan49">
+						<num>49.</num>
+						<heading>Пријемни испит за приправнике</heading>
+						<content>
+							<clause id="gla5-clan49-stav1">
+								<content>
+									<p>Кандидати за судијске или тужилачке приправнике су обавезни да полажу пријемни испит да би били примљени у суд или јавно тужилаштво ради обављања приправничког стажа.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan49-stav2">
+								<content>
+									<p>Програм пријемног испита за приправнике доноси Управни одбор Акадамије на предлог Програмског савета.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan49-stav3">
+								<content>
+									<p>Кандидати за судијске, односно тужилачке приправнике примају се на рад у суд, односно јавно тужилаштво на основу укупне оцене.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan49-stav4">
+								<content>
+									<p>Укупна оцена састоји се из збира просечне оцене са студија и оцене са пријемног испита, при чему 40% укупне оцене чини оцена са основних студија, а 60% чини оцена са пријемног испита.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan49-stav5">
+								<content>
+									<p>Радни однос као судијски, односно тужилачки приправници, заснивају кандидати који имају највишу укупну оцену.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan50">
+						<num>50.</num>
+						<heading>Посебан програм обуке</heading>
+						<content>
+							<clause id="gla5-clan50-stav1">
+								<content>
+									<p>Предлог посебног програма обуке судијских и тужилачких помоћника и приправника утврђује Програмски савет у сарадњи са председницима судова и јавним тужиоцима.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan50-stav2">
+								<content>
+									<p>Посебни програм обуке судијских помоћника и приправника усваја Управни одбор уз сагласност Високог савета судства.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan50-stav3">
+								<content>
+									<p>Посебни програм обуке тужилачких помоћника и приправника усваја Управни одбор и доставља га Државном већу тужилаца ради утврђивања.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan50-stav4">
+								<content>
+									<p>Судијски и тужилачки помоћници и приправници су обавезни да похађају посебни програм обуке из ст. 2. и 3. овог члана.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan50-stav5">
+								<content>
+									<p>Председници судова, односно јавни тужиоци достављају Академији једном годишње извештај о раду судијских и тужилачких помоћника и приправника, као и мишљење ментора.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan50-stav6">
+								<content>
+									<p>Судијски и тужилачки помоћници који су завршили почетну обуку нису обавезни да похађају посебни програм обуке из ст. 2. и 3. овог члана.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan50-stav7">
+								<content>
+									<p>Судијски и тужилачки волонтери имају иста права и обавезе, у вези са обуком као и приправници.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>ОБУКА СУДСКОГ И ТУЖИЛАЧКОГ ОСОБЉА</heading>
+				<content>
+					<article id="gla6-clan51">
+						<num>51.</num>
+						<heading>Појам и циљ</heading>
+						<content>
+							<clause id="gla6-clan51-stav1">
+								<content>
+									<p>Обука судског и тужилачког особља је организовано стицање знања и вештина ради стручног и ефикасног обављања послова.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan52">
+						<num>52.</num>
+						<heading>Корисници</heading>
+						<content>
+							<clause id="gla6-clan52-stav1">
+								<content>
+									<p>Корисници обуке из <ref>члана 51. овог</ref> закона су судско и тужилачко особље које обавља административне послове.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan52-stav2">
+								<content>
+									<p>Обука судског и тужилачког особља је добровољна, осим ако посебним законом није одређено другачије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan53">
+						<num>53.</num>
+						<heading>Програм обуке судског и тужилачког особља</heading>
+						<content>
+							<clause id="gla6-clan53-stav1">
+								<content>
+									<p>Програм обуке судског и тужилачког особља усваја Управни одбор на предлог Програмског савета, уз сагласност Високог савета судства, односно Државног већа тужилаца. Програм се доноси за сваку категорију судског и тужилачког особља.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla7">
+				<num>VII</num>
+				<heading>ПРЕЛАЗНЕ И ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla7-clan54">
+						<num>54.</num>
+						<heading>Преузимање послова Правосудног центра</heading>
+						<content>
+							<clause id="gla7-clan54-stav1">
+								<content>
+									<p>Послове Правосудног центра за обуку и стручно усаврашавање, прописане чланом 165. Закона о малолетним учиноцима кривичних дела и кривичноправној заштити малолетних лица („<ref id="ref19" href="/rs/act/05/85/srp@">Службени гласник РС”, број 85/05</ref>), односно прописане Правилником о програму и начину стицања посебних знања из области права детета судија који суде у поступцима у вези са породичним односима („<ref id="ref20" href="/rs/act/06/44/srp@">Службени гласник РС”, број 44/06</ref>), од дана ступања на снагу овог закона обавља Академија.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan55">
+						<num>55.</num>
+						<heading>Конституисање Управног одбора Академије</heading>
+						<content>
+							<clause id="gla7-clan55-stav1">
+								<content>
+									<p>Чланови Управног одбора Академије биће именовани у року од 45 дана од дана ступања на снагу овог закона.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan55-stav2">
+								<content>
+									<p>Конститутивну седницу Управног одобора Академије сазива најстарији члан Управног одбора, у року од 15 дана од дана именовања чланова Управног одбора Академије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan56">
+						<num>56.</num>
+						<heading>Избор директора Академије</heading>
+						<content>
+							<clause id="gla7-clan56-stav1">
+								<content>
+									<p>Управни одбор Академије доноси одлуку о објављивању јавног конкурса за избор директора Академије, у року од 15 дана од дана одржавања конститутивне седнице Управног одбора.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan56-stav2">
+								<content>
+									<p>Управни одбор Академије бира директора Академије најкасније 30 дана од дана истека рока за пријављивање на конкурс.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan57">
+						<num>57.</num>
+						<heading>Доношење Статута и подзаконских аката</heading>
+						<content>
+							<clause id="gla7-clan57-stav1">
+								<content>
+									<p>Статут се доноси у року од 30 дана од дана конституисања Управног одбора Академије.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan57-stav2">
+								<content>
+									<p>Други подзаконски акти предвиђени овим законом донеће се у року од 60 дана од дана конституисања, односно образовања органа и тела надлежних за њихово доношење, односно предлагање.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan58">
+						<num>58.</num>
+						<heading>Образовање Програмског савета</heading>
+						<content>
+							<clause id="gla7-clan58-stav1">
+								<content>
+									<p>Програмски савет образује се у року од два месеца од дана конституисања Управног одбора.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan59">
+						<num>59.</num>
+						<heading>Избор вршиоца дужности директора Академије</heading>
+						<content>
+							<clause id="gla7-clan59-stav1">
+								<content>
+									<p>Министар надлежан за правосуђе по прибављеној сагласности председника Високог савета судства и председника Државног већа тужилаца поставља вршиоца дужности директора Академије, у року од 15 дана од дана ступања на снагу овог закона.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan59-stav2">
+								<content>
+									<p>Вршилац дужности директора мора да испуњава услове за избор директора Академије.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan59-stav3">
+								<content>
+									<p>Вршилац дужности директора обавља функцију директора до избора директора Академије у складу са овим законом.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan59-stav4">
+								<content>
+									<p>Вршилац дужности директора доноси, у року од 15 дана од дана постављења, привремени акт о унутрашњем уређењу и систематизацији радних места запослених у стручној и техничкој служби Академије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan60">
+						<num>60.</num>
+						<heading>Престанак важења закона</heading>
+						<content>
+							<clause id="gla7-clan60-stav1">
+								<content>
+									<p>Ступањем на снагу овог закона престаје да важи Закон о обуци судија, јавних тужилаца и заменика јавних тужилаца и судијских и тужилачких помоћника („<ref id="ref21" href="/rs/act/06/46/srp@">Службени гласник РС”, број 46/06</ref>).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan61">
+						<num>61.</num>
+						<heading>Ступање на снагу закона</heading>
+						<content>
+							<clause id="gla7-clan61-stav1">
+								<content>
+									<p>Овај закон ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

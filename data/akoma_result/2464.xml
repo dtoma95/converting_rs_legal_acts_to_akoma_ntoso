@@ -1,0 +1,490 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2018/31-98/main"/>
+					<FRBRuri value="/rs/act/2018/31-98"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/31-98/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/31-98/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/31-98/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/31-98/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2018-4-27" name="службени гласник рс" number="31" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="VIII РАЗВОЈ" value="viii развој"/>
+				<keyword id="grupa" showAs="3. Информационе технологије" value="3. информационе технологије"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2018-04-11" id="usvajanje"/>
+				<step date="2018-05-05" id="stupanje_na_snagu"/>
+				<step date="2018-05-05" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 35. став 8. </ref>Закона о електронском документу, електронској идентификацији и услугама од поверења у електронском пословању („<ref id="ref4" href="/rs/act/17/94/srp@">Службени гласник РС”, број 94/17</ref>),</p>
+			<p>Министар трговине, туризма и телекомуникација доноси</p>
+		</preamble>
+		<preface>
+			<title>ПРАВИЛНИК</title>
+			<authority>о Регистру пружалаца квалификованих услуга од поверења</authority>
+			<title>&quot;Службени гласник РС&quot;, број 31 од 27. априла 2018.</title>
+			<date>Предмет</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се садржај и начин вођења Регистра пружалаца квалификованих услуга од поверења, начин подношења захтева за упис у Регистар, потребна документација уз захтев, образац захтева и начин провере испуњености услова за пружање квалификоване услуге од поверења.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Регистар пружалаца квалификованих услуга од поверења (у даљем тексту: Регистар) води министарство надлежно за послове информационог друштва (у даљем тексту: Министарство).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>Садржај Регистра</heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Регистар садржи следеће податке:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> редни број уписа у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> пословно име пружаоца квалификованих услуга од поверења (у даљем тексту: пружалац услуга);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> број решења о упису у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> датум уписа у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> матични број;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> пореско-идентификациони број (ПИБ);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> седиште (улица и број, место, поштански број и држава);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> адресу Интернет стране пружаоца услуга;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> број телефона пружаоца услуга;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> подаци о упису пружаоца услуга у регистар привредних субјеката или други одговарајући регистар који се води у складу са законом и то:</p>
+									<item id="clan2-stav1-tac10-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> назив регистра,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac10-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> број решења о упису у регистар,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac10-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> датум уписа,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac10-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> облик организовања,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac10-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> шифра делатности,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac10-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> опис делатности;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> подаци о одговорном лицу које заступа пружаоца услуга и обиму његових овлашћења и то:</p>
+									<item id="clan2-stav1-tac11-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> име, презиме,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac11-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> назив функције,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac11-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> обим овлашћења,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac11-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> службени број телефона,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac11-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> службена електронска адреса;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> подаци о служби пружаоца услуге за односе са странкама и то:</p>
+									<item id="clan2-stav1-tac12-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> назив службе,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac12-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> адреса,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac12-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> телефон,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac12-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> електронска адреса;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> подаци о врсти квалификоване услуге од поверења;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac14">
+								<num>14)</num>
+								<content>
+									<p> подаци у упису промена у регистар и то:</p>
+									<item id="clan2-stav1-tac14-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> број решења о упису промена у Регистар,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac14-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> датум уписа промена у Регистар;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac15">
+								<num>15)</num>
+								<content>
+									<p> подаци о брисању из Регистра и то:</p>
+									<item id="clan2-stav1-tac15-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> број решења о брисању из Регистара,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac15-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> датум брисања из Регистара.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>У Регистар се уписују све промене података из става 1. овог члана.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>Начин вођења Регистра и начин објављивања података из Регистра</heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Регистар се води у папирном и електронском облику.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Регистар у електронском облику јавно је доступан на Интернет страни Министарства.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Регистар у електронском облику потписује се напредним електронским потписом Министарства.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>Начин подношења захтева за упис у Регистар</heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Захтев за упис у Регистар (у даљем тексту: захтев) подноси се Министарству, електронским путем, на Обрасцу 1, који је одштампан уз овај правилник и чини његов саставни део и који се објављује на Интернет страни Министарства.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Захтев из става 1. овог члана и документација која се прилаже уз захтев достављају се у форми електронског документа у оригиналу или у форми овереног дигитализованог акта, у складу са Законом о електронском документу, електронској идентификацији и услугама од поверења у електронском пословању (у даљем тексту: Закон), на електронску адресу Министарства.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Захтев се може поднети и писаним путем, непосредно или поштом, на Обрасцу 1, а документација која се прилаже уз захтев подноси се у оригиналу или се прилаже копија оверена од стране надлежног органа.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<heading>Потребна документација уз захтев</heading>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Подносилац уз захтев прилаже:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> извод или решење надлежног органа о упису у регистар из <ref>члана 2. став 1. тачка 10</ref>) овог правилника, под условом да се податак о регистрацији не води у оквиру службене евиденције;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> извештај о оцењивању усаглашености издат од стране тела за оцењивање усаглашености;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> Опште услове за пружање услуге;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> Практична правила за пружање услуга;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> Политику пружања услуге;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> Политику информационе безбедности;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> документ о организационој структури подносиоца захтева;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> потврду о уплаћеној административној такси, у складу са законом којим се уређују републичке административне таксе.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<heading>Начин провере испуњености услова за пружање квалификоване услуге од поверења</heading>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Уз захтев из <ref>члана 4. овог</ref> правилника прилажу се докази о чињеницама исказаним у захтеву укључујући извештај о оцењивању усаглашености издатог од стране тела за оцењивање усаглашености, којим је оцењено да подносилац захтева и квалификоване услуге од поверења које он намерава да пружа испуњавају услове из Закона.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Министарство решава о упису пружаоца услуге у Регистар у року од 60 дана од дана подношења уредног захтева.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>У поступку решавања Министарство може захтевати прилагање додатних доказа, као и додатну проверу техничких и безбедносних компоненти и оперативног рада.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav4">
+						<content>
+							<p>Ако пружалац услуга престане да испуњава прописане услове, Министарство доноси решење о његовом брисању из Регистра.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<heading>Промена података уписаних у Регистар</heading>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Захтев за промену података уписаних у Регистар подноси се, у року од осам дана од дана настанка промене, на Обрасцу 2, који је одштампан уз овај правилник и чини његов саставни део и који се објављује на Интернет страни Министарства, на начин из <ref>члана 4. овог</ref> правилника.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<heading>Датум уписа у Регистар</heading>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Упис пружаоца услуга у Регистар, Министарство врши на дан доношења решења о упису у Регистар.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<heading>Завршне одредбе</heading>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Даном ступања на снагу овог правилника престаје да важи Правилник о Регистру сертификационих тела за издавање квалификованих електронских сертификата у Републици Србији („<ref id="ref5" href="/rs/act/08/26/srp@">Службени гласник РС”, број 26/08</ref>).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Број 110-00-16/2018-12</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>У Београду, 11. априла 2018. године</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav5">
+						<content>
+							<p>др Расим Љајић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav6">
+						<content>
+							<p>Прилози</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav7">
+						<content>
+							<p>Образац 1 - Захтев за упис у Регистар пружалаца квалификованих услуга од   поверења</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

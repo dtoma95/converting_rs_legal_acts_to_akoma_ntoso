@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1977/36-1433/main"/>
+					<FRBRuri value="/rs/act/1977/36-1433"/>
+					<FRBRdate date="1977" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1977/36-1433/srp@/main"/>
+					<FRBRuri value="/rs/act/1977/36-1433/srp@"/>
+					<FRBRdate date="1977" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1977/36-1433/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1977/36-1433/srp@.akn"/>
+					<FRBRdate date="1977" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1977-7-15" name="службени лист сфрј" number="36" showAs="Службени лист СФРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Упутство" value="упутство"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="10. Лично име, лична карта, матични број грађана" value="10. лично име, лична карта, матични број грађана"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1977-06-30" id="usvajanje"/>
+				<step date="1977-07-23" id="stupanje_na_snagu"/>
+				<step date="1977-07-23" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 6. </ref>Закона о увођењу јединственог матичног броја грађана („<ref id="ref2" href="/rs/act/76/58/srp@">Службени лист СФРЈ“, бр. 58/76</ref>), Савезно извршно веће прописује</p>
+		</preamble>
+		<preface>
+			<authority>УПУТСТВО</authority>
+			<title>о начину одређивања контролног броја јединственог матичног броја грађана по  модулу 11</title>
+			<date>„Службени лист СФРЈ”, број 36 од 15. јула 1977.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Контролни број, као тринаеста цифра јединственог матичног броја грађана, одређује се по модулу 11 помоћу електронског рачунара, посебно за сваки матични број грађана (<ref>члан 3. </ref>Закона о увођењу јединственог матичног броја грађана).</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Начин одређивања контролног броја јединственог матичног броја грађана по модулу 11 одштампан је уз ово упутство и чини његов саставни део.</heading>
+				<content/>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Ово упутство ступа на снагу осмог дана од дана објављивања у „Службеном листу СФРЈ”.</heading>
+				<content>
+					<clause id="od3-stav1">
+						<content>
+							<p>Е. п. бр. 566</p>
+						</content>
+					</clause>
+					<section id="od30">
+						<num>30.</num>
+						<heading> јуна 1977. године</heading>
+						<content>
+							<clause id="od30-stav1">
+								<content>
+									<p>Савезно извршно веће</p>
+								</content>
+							</clause>
+							<clause id="od30-stav2">
+								<content>
+									<p>Председник,</p>
+								</content>
+							</clause>
+							<clause id="od30-stav3">
+								<content>
+									<p>Веселин Ђурановић, с. р.</p>
+								</content>
+							</clause>
+						</content>
+					</section>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

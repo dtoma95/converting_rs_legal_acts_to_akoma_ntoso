@@ -1,0 +1,347 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1990/30-1048/main"/>
+					<FRBRuri value="/rs/act/1990/30-1048"/>
+					<FRBRdate date="1990" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1990/47-1374/srp@/main"/>
+					<FRBRuri value="/rs/act/1990/47-1374/srp@"/>
+					<FRBRdate date="1990" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1990/47-1374/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1990/47-1374/srp@.akn"/>
+					<FRBRdate date="1990" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1990-6-15" name="службени лист сфрј" number="30" showAs="Службени лист СФРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="9. Боравак странаца" value="9. боравак странаца"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1990-06-13" id="usvajanje"/>
+				<step date="1990-06-23" id="stupanje_na_snagu"/>
+				<step date="1990-06-23" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="30/1990-1048" id="e1" type="generation"/>
+				<eventRef date="47/1990-1374" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preface>
+			<authority>На основу <ref>члана 99. став 1. тачка 6</ref>. Закона о кретању и боравку странаца („<ref id="ref3" href="/rs/act/80/56/srp@">Службени лист СФРЈ“, бр. 56/80, 53/85, 30/89</ref> и 26/90), савезни секретар за унутрашње послове прописује</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о начину издавања пословне визе</title>
+			<date>„Службени лист СФРЈ”, бр. 30 од 15. јуна 1990, 47 од 17. августа 1990.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОПШТЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником прописује се начин издавања пословне визе, образац пословне визе, образац захтева за издавање пословне визе, начин поништавања пословне визе, као и начин вођења евиденције и извештавања о издатим пословним визама.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Пословна виза, у смислу члана 18а. став 1. Закона о допунама Закона о кретању и боравку странаца (у даљем тексту: Закона), издаје се следећој категорији странаца:</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<subsection id="gla1-podod1">
+						<num>а</num>
+						<heading> странцима који у Социјалистичку Федеративну Републику Југославију долазе ради обављања привредних и друштвених делатности предвиђених прописима о страним улагањима (по основу уговора о улагању о оснивању мешовитог предузећа, уговора о концесији, уговора о оснивању мешовите банке, уговора о оснивању уговорног предузећа, оснивања сопственог предузећа и др.);</heading>
+						<content/>
+					</subsection>
+					<subsection id="gla1-podod2">
+						<num>б</num>
+						<heading> странцима који у Социјалистичку Федеративну Републику Југославију долазе ради обављања привредних делатности предвиђених прописима о спољнотрговинском пословању (по основу уговора о дугорочној производној кооперацији, извођења инвестиционих радова у Југославији, страна представништва, know-how и др.);</heading>
+						<content/>
+					</subsection>
+					<subsection id="gla1-podod3">
+						<num>в</num>
+						<heading> странцима који у Социјалистичку Федеративну Републику Југославију долазе ради запошљавања, а по савезним прописима могу у Југославији засновати радни однос без одобрења за заснивање радног односа (ако радни однос заснивају за обављање стручних послова утврђених уговором о пословно-техничкој сарадњи, о дугорочној производној кооперацији, о преносу технологије и о страним улагањима).</heading>
+						<content>
+							<article id="gla1-podod3-clan3">
+								<num>3.</num>
+								<content>
+									<clause id="gla1-podod3-clan3-stav1">
+										<content>
+											<p>Боравак у Социјалистичкој Федеративној Републици Југославији сматраће се одобреним странцу коме је пословна виза издата.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla1-podod3-clan4">
+								<num>4.</num>
+								<content>
+									<clause id="gla1-podod3-clan4-stav1">
+										<content>
+											<p>Надлежни орган ће у поступку утврдити постојање законских услова за поништење пословне визе. О поништењу такве визе донеће решење.</p>
+										</content>
+									</clause>
+									<clause id="gla1-podod3-clan4-stav2">
+										<content>
+											<p>По правоснажности решења из става 1. овог члана пословна виза ће се поништити отискивањем клаузуле „поништено“ у путну исправу странца преко визе.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ПОСЕБНЕ ОДРЕДБЕ</heading>
+				<content>
+					<тачка id="gla2-clan4-tac1">
+						<num>1.</num>
+						<content>
+							<p> Издавање пословне визе</p>
+						</content>
+					</тачка>
+					<article id="gla2-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla2-clan5-stav1">
+								<content>
+									<p>Пословна виза издаје се на захтев. Захтев се подноси на посебном обрасцу (Образац бр. 1).</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan5-stav2">
+								<content>
+									<p>Уз захтев за издавање пословне визе прилаже се путна исправа на коју се тражи издавање такве визе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla2-clan6-stav1">
+								<content>
+									<p>Пословна виза издаје се на уредну и важећу путну исправу.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla2-clan7-stav1">
+								<content>
+									<p>Подносилац захтева дужан је да приложи доказ да испуњава услове за добијање пословне визе у смислу члана 18а. став 1. Закона, односно <ref>члана 2. овог</ref> правилника.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav2">
+								<content>
+									<p>Доказ у смислу става 1. овог члана је решење савезног органа управе надлежног за економске односе с иностранством којим се омогућава обављање привредне делатности странца или страног правног лица.</p>
+									<тачка id="gla2-clan7-stav2-tac2">
+										<num>2.</num>
+										<content>
+											<p> Образац пословне визе</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>Пословна виза се издаје отискивањем прописаног штамбиља у путну исправу странца и оверава округлим печатом и потписом службеног лица органа који издаје визу.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav2">
+								<content>
+									<p>Штамбиљ пословне визе је формата 67х82* mm.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav3">
+								<content>
+									<p>Текст у штамбиљу пословне визе исписан је на једном од језика народа Југославије, као и на француском језику.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav4">
+								<content>
+									<p>Штамбиљ пословне визе прописан је обрасцем бр. 2.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav5">
+								<content>
+									<p>*<ref id="ref4" href="/rs/act/1990/47/srp@">Службени лист СФРЈ, број 47/1990</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<section id="gla2-od3">
+						<num>3.</num>
+						<heading> Образац захтева за издавање пословне визе</heading>
+						<content>
+							<article id="gla2-od3-clan9">
+								<num>9.</num>
+								<content>
+									<clause id="gla2-od3-clan9-stav1">
+										<content>
+											<p>Образац захтева за издавање пословне визе одштампан је на хартији формата 30х21 cm.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od3-clan9-stav2">
+										<content>
+											<p>Образац садржи: назив органа коме се подноси захтев; натпис: „Захтев за издавање пословне визе странцу”; рубрике у које се уписују подаци о подносиоцу захтева и то: презиме, име, пол, дан, месец и година рођења, место и држава рођења, држављанство, занимање, место запослења, адреса пребивалишта (боравишта), врста и број путне исправе и од кога и где је издатака, рок важења путне исправе, време за које се тражи пословна виза, сврха издавања пословне визе; простор за упис назива места и датума издавања пословне визе и навођење прилога који се достављају уз захтев; место за потпис подносиоца захтева; рубрике за уписивање редног броја поднетог захтева, износа таксе и броја прилога који се подносе уз захтев; простор у који се уписује како је поступљено по захтеву странца за издавање пословне визе, број издате пословне визе и датум издавања такве визе; место за таксу и место за потпис службеног лица овлашћеног за издавање пословне визе.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od3-clan9-stav3">
+										<content>
+											<p>Текст обрасца штампа се на једном од језика народа Југославије, као и на енглеском, француском и немачком језику.</p>
+											<тачка id="gla2-od3-clan9-stav3-tac4">
+												<num>4.</num>
+												<content>
+													<p> Евиденција и извештавање о издатим пословним визама</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od3-clan10">
+								<num>10.</num>
+								<content>
+									<clause id="gla2-od3-clan10-stav1">
+										<content>
+											<p>Дипломатска и конзуларна представништва Социјалистичке Федеративне Републике Југославије у иностранству, односно надлежни органи у републикама и аутономним покрајинама, воде евиденцију о издатим пословним визама странцима.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od3-clan10-stav2">
+										<content>
+											<p>Евиденција о издатим пословним визама садржи: презиме и име странца; држављанство; занимање; назив фирме у којој је запослен и место у којој се она налази; врсту и број путне исправе странца; датум издавања пословне визе; рок важења путне исправе и пословне визе; разлоге издавања пословне визе.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od3-clan11">
+								<num>11.</num>
+								<content>
+									<clause id="gla2-od3-clan11-stav1">
+										<content>
+											<p>Дипломатска и конзуларна представништва Социјалистичке Федеративне Републике Југославије у иностранству о издатим пословним визама извештавају савезни орган управе надлежан за иностране послове и савезни орган управе надлежан за унутрашње послове.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od3-clan11-stav2">
+										<content>
+											<p>Надлежни органи у републици или аутономној покрајини о издатим пословним визама извештавају републичке, односно покрајинске органе управе надлежне за унутрашње послове.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od3-clan11-stav3">
+										<content>
+											<p>Републички, односно покрајински органи управе надлежни за унутрашње послове извештаје из става 2. овог члана достављају савезном органу управе надлежном за унутрашње послове.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od3-clan11-stav4">
+										<content>
+											<p>Извештаји о издатим пословним визама достављају се одмах по издавању такве визе, односно добијању обавештења и садрже податке предвиђене у <ref>члану 10. став 2. овог</ref> правилника.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od3-clan12">
+								<num>12.</num>
+								<content>
+									<clause id="gla2-od3-clan12-stav1">
+										<content>
+											<p>Обрасци бр. 1. и 2. из чл. 5. и 8. овог правилника одштампани су уз овај правилник и чине његов саставни део.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ЗАВРШНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla3-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla3-clan13-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном листу СФРЈ”.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav2">
+								<content>
+									<p>Бр. 15318/1</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<section id="gla3-od13">
+						<num>13.</num>
+						<heading> јуна 1990. године</heading>
+						<content>
+							<clause id="gla3-od13-clan13-stav1">
+								<content>
+									<p>Београд</p>
+								</content>
+							</clause>
+							<clause id="gla3-od13-clan13-stav2">
+								<content>
+									<p>Савезни секретар за</p>
+								</content>
+							</clause>
+							<clause id="gla3-od13-clan13-stav3">
+								<content>
+									<p>унутрашње послове,</p>
+								</content>
+							</clause>
+							<clause id="gla3-od13-clan13-stav4">
+								<content>
+									<p>Петар Грачанин, с.р.</p>
+								</content>
+							</clause>
+							<став id="gla3-od13-clan13-stav5">
+								<img height="863" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/cf9c11b6-7201-4f81-bf94-a49e491420e5.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416595&amp;regactid=416595" width="316"/>
+								<content/>
+							</став>
+							<став id="gla3-od13-clan13-stav6">
+								<img height="480" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/78c1b961-a30b-4296-8021-5122d6fce2be.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=416595&amp;regactid=416595" width="323"/>
+								<content/>
+							</став>
+						</content>
+					</section>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

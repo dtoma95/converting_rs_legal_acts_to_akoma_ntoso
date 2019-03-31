@@ -1,0 +1,299 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1988/48-2236/main"/>
+					<FRBRuri value="/rs/act/1988/48-2236"/>
+					<FRBRdate date="1988" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1988/48-2236/srp@/main"/>
+					<FRBRuri value="/rs/act/1988/48-2236/srp@"/>
+					<FRBRdate date="1988" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1988/48-2236/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1988/48-2236/srp@.akn"/>
+					<FRBRdate date="1988" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1988-12-24" name="службени гласник срс“" number="48" showAs="Службени гласник СРС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="VIII РАЗВОЈ" value="viii развој"/>
+				<keyword id="grupa" showAs="4. Квалитет предмета опште употребе и животних намирница" value="4. квалитет предмета опште употребе и животних намирница"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1988-12-02" id="usvajanje"/>
+				<step date="1989-01-01" id="stupanje_na_snagu"/>
+				<step date="1989-01-01" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 11. став 3. </ref>Закона о  здравственом надзору над животним намирницама и предметима опште употребе („<ref id="ref1" href="/rs/act/77/48/srp@">Службени гласник СРС“, бр. 48/77</ref> и 19/88),</p>
+		</preamble>
+		<preface>
+			<authority>Републички комитет за здравље и социјалну политику доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о ближим условима за рад здравствених и других организација које врше преглед и утврђују здравствену исправност воде за пиће</title>
+			<date>„Службени гласник СРС“, број 48 од 24. децембра 1988.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се услови у погледу стручних лица, просторија и опреме за организације удруженог рада које врше прегледе воде за пиће ради утврђивања њених физичких, хемијских, биолошких, бактериолошких, вирусолошких и радиолошких својстава као и њене здравствене исправности.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Организација удруженог рада испуњава услове за одговарајући преглед воде за пиће када за обављање послова има стручна лица:</p>
+							<тачка id="clan2-stav1-tac1">
+								<num>1.</num>
+								<content>
+									<p> за физичко-хемијски преглед воде за пиће:</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<subsection id="podod1">
+				<num>а</num>
+				<heading> дипломираног хемичара, дипломираног физико-хемичара, дипломираног инжењера технологије или дипломираног фармацеута, са положеним стручним испитом;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod2">
+				<num>б</num>
+				<heading> хемијско технолошког, фармацеутског, санитарног или лабораторијског техничара.</heading>
+				<content>
+					<тачка id="podod2-clan2-tac2">
+						<num>2.</num>
+						<content>
+							<p> за бактериолошки преглед воде за пиће:</p>
+						</content>
+					</тачка>
+				</content>
+			</subsection>
+			<subsection id="podod3">
+				<num>а</num>
+				<heading> доктора медицине са специјализацијом из микробиологије са паразитологијом;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod4">
+				<num>б</num>
+				<heading> лабораторијског или санитарног техничара.</heading>
+				<content>
+					<тачка id="podod4-clan2-tac3">
+						<num>3.</num>
+						<content>
+							<p> за биолошки преглед воде за пиће: дипломираног биолога са положеним стручним испитом.</p>
+						</content>
+					</тачка>
+					<тачка id="podod4-clan2-tac4">
+						<num>4.</num>
+						<content>
+							<p> за вирусолошки преглед воде за пиће: доктора медицине са специјализацијом из микробиологије са паразитологијом.</p>
+						</content>
+					</тачка>
+					<тачка id="podod4-clan2-tac5">
+						<num>5.</num>
+						<content>
+							<p> за радиохемијски преглед воде за пиће: дипломираног хемичара, дипломираног физикохемичара или дипломираног инжењера технологије, са положеним стручним испитом.</p>
+						</content>
+					</тачка>
+					<clause id="podod4-clan2-stav1">
+						<content>
+							<p>Организација удруженог рада из става 1. овог члана испуњава услове и за утврђивање здравствене исправности воде за пиће када има у радном односу доктора медицине са специјализацијом из хигијене.</p>
+						</content>
+					</clause>
+					<article id="podod4-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="podod4-clan3-stav1">
+								<content>
+									<p>Организација удруженог рада испуњава услове за одговарајући преглед воде за пиће када у погледу просторија има:</p>
+									<тачка id="podod4-clan3-stav1-tac1">
+										<num>1.</num>
+										<content>
+											<p> за физичко-хемијски преглед воде за пиће у једној или више просторија простор за:</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</subsection>
+			<subsection id="podod5">
+				<num>а</num>
+				<heading> лабораторију са капелом (дигестором),</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod6">
+				<num>б</num>
+				<heading> за апаратуру,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod7">
+				<num>в</num>
+				<heading> за перионицу и</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod8">
+				<num>г</num>
+				<heading> за магацин;</heading>
+				<content>
+					<тачка id="podod8-clan3-tac2">
+						<num>2.</num>
+						<content>
+							<p> за бактериолошки и биолошки преглед воде за пиће просторије за:</p>
+						</content>
+					</тачка>
+				</content>
+			</subsection>
+			<subsection id="podod9">
+				<num>а</num>
+				<heading> лабораторију површине  најмање 20 m2,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod10">
+				<num>б</num>
+				<heading> за прање лабораторијског посуђа и стерилизацију материјала површине најмање 16 m2,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod11">
+				<num>в</num>
+				<heading> за лабораторијску кухињу површине најмање 10  m2 и</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod12">
+				<num>г</num>
+				<heading> за магацин;</heading>
+				<content>
+					<тачка id="podod12-clan3-tac3">
+						<num>3.</num>
+						<content>
+							<p> за вирусолошки преглед воде за пиће просторије за:</p>
+						</content>
+					</тачка>
+				</content>
+			</subsection>
+			<subsection id="podod13">
+				<num>а</num>
+				<heading> припрему културе ткива,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod14">
+				<num>б</num>
+				<heading> за лабораторијски рад,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod15">
+				<num>в</num>
+				<heading> за прање и паковање лабораторијског посуђа,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod16">
+				<num>г</num>
+				<heading> за стерилизацију лабораторијског посуђа и</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod17">
+				<num>д</num>
+				<heading> за магацин;</heading>
+				<content>
+					<тачка id="podod17-clan3-tac4">
+						<num>4.</num>
+						<content>
+							<p> за радиохемијски преглед воде за пиће просторије за:</p>
+						</content>
+					</тачка>
+				</content>
+			</subsection>
+			<subsection id="podod18">
+				<num>а</num>
+				<heading> смештај опреме за мерење радиоактивне контаминације пијаће воде,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod19">
+				<num>б</num>
+				<heading> за рад са контаминираним материјалом са капелом (дигестором) површине најмање 20 ,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod20">
+				<num>в</num>
+				<heading> за прање посуђа контаминираног радиоактивним материјалом и</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod21">
+				<num>г</num>
+				<heading> за карантинско складиштење контаминираног материјала.</heading>
+				<content>
+					<article id="podod21-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="podod21-clan4-stav1">
+								<content>
+									<p>Ступањем на снагу овог правилника престаје да важи Правилник о условима које морају да испуњавају организације удруженог рада које врше преглед воде за пиће (&quot;<ref id="ref2" href="/rs/act/81/60/srp@">Службени гласник СР Србије&quot;, број 60/81</ref>).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod21-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="podod21-clan5-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у &quot;Службеном гласнику Социјалистичке Републике Србије&quot;.</p>
+								</content>
+							</clause>
+							<clause id="podod21-clan5-stav2">
+								<content>
+									<p>Број 110-23</p>
+								</content>
+							</clause>
+							<clause id="podod21-clan5-stav3">
+								<content>
+									<p>У Београду, 2. децембра 1988. године</p>
+								</content>
+							</clause>
+							<clause id="podod21-clan5-stav4">
+								<content>
+									<p>Републички комитет за здравље и социјалну политику</p>
+								</content>
+							</clause>
+							<clause id="podod21-clan5-stav5">
+								<content>
+									<p>Заменик председника,</p>
+								</content>
+							</clause>
+							<clause id="podod21-clan5-stav6">
+								<content>
+									<p>Андрија Мереник, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</subsection>
+		</body>
+	</act>
+</akomaNtoso>

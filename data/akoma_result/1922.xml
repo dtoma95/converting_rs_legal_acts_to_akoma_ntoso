@@ -1,0 +1,862 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1999/12-2/main"/>
+					<FRBRuri value="/rs/act/1999/12-2"/>
+					<FRBRdate date="1999" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1999/12-2/srp@/main"/>
+					<FRBRuri value="/rs/act/1999/12-2/srp@"/>
+					<FRBRdate date="1999" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1999/12-2/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1999/12-2/srp@.akn"/>
+					<FRBRdate date="1999" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1999-3-12" name="службени лист срј" number="12" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="4. Заштита биља" value="4. заштита биља"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1999-02-24" id="usvajanje"/>
+				<step date="1999-03-20" id="stupanje_na_snagu"/>
+				<step date="1999-03-20" id="primena"/>
+			</workflow>
+		</meta>
+		<preface>
+			<authority>На основу <ref>члана 15. став 1. </ref>Закона о заштити биља (“<ref id="ref2" href="/rs/act/98/24/srp@">Службени лист СРЈ”, бр. 24/98</ref>), Савезно министарство за пољопривреду прописује</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>О УСЛОВИМА ЗА ОБАВЉАЊЕ ПОСЛОВА ДЕЗИНФЕКЦИЈЕ, ДЕЗИНСЕКЦИЈЕ И ДЕРАТИЗАЦИЈЕ У ОБЛАСТИ ЗАШТИТЕ БИЉА И БИЉНИХ ПРОИЗВОДА</title>
+			<date>„Службени лист СРЈ”, број 12 од 12. III 1999.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Правна лица и предузетници који имају силосе, складишта и друге просторије за смештај биља и биљних производа (у даљем тексту: складишта биља), као и правна лица и предузетници који се баве пословима дезинфекције и дезинсекције биља и биљних производа и дератизације просторија за смештај биља и биљних производа ради спречавања појаве и сузбијања штетних организама, морају испуњавати услове прописане овим правилником.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Послове дезинфекције, дезинсекције и дератизације (у даљем тексту: ДДД послови) могу обављати правна лица и предузетници који имају:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> радника у сталном радном односу са високом стучном спремом из области заштите биља;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> опрему и уређаје за обављање ДДД послова;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> посебан простор за смештај и чување отрова из прве групе, а посебан за отрове из друге и треће групе;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> просторију за чување и одржавање опреме за извођење ДДД послова;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> просторију или простор за хигијенско-техничке потребе радника који учествују у обављању ДДД послова;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> просторију или простор за безбедно одржавање и чување заштитне одеће и опреме.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Складишта биља, поред општих санитарно-хигијенских услова, морају испуњавати и следеће услове:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> да су изграђена на начин и од материјала којима се онемогућава улазак птица, глодара и других животиња;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> да су унутрашње површине зидова и подова изграђене тако да је онемогућено задржавање нечистоћа и остатака ускладиштеног биља;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> да су заштићена од продирања влаге;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> да су новоизграђени објекти просторно удаљени 50 до 100 метара од насеља и пољопривредних објеката (фарми) због несметаног извођења дезинсекције фумигантима;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> да имају одговарајуће уређаје за вентилацију која је неопходна после извођења дезинфекције и дезинсекције;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> да имају уређаје за мерење температуре и влажности просторије, биља и биљних производа током складиштења.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>У погледу капацитета и опреме за дезинсекцију, складишта биља морају испуњавати следеће услове:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> силоси капацитета од 25.000 тона – најмање један дозатор за примену фумиганата или течних инсектицида, а на сваких наредних 25.000 тона још по један такав дозатор;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> подна складишта и објекти – више сонди за уношење инсектицида на сваких 100 тона корисне запремине и 100 m? пластичне фолије на сваких 1.000 тона капацитета;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> складишта за смештај дувана капацитета преко 500 тона – уређаје за дезинсекцију, а складишта капацитета преко 5.000 тона – уређаје за дезинсекцију на принципу коморе са уређајима за загревање до 50 ?С;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> уређаје за влажну и суву дезинфекцију и дезинсекцију биља и унутрашњих површина објекта (прскалице, орошиваче, замагљиваче, запрашиваче и другу опрему) и пластичне и друге посуде;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> посебну просторију за административне послове и санитарни чвор са топлом и хладном водом, као и просторију за смештај уређаја, опреме и пестицида.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>У складишту биља у коме се биље и биљни производи чувају у врећама, кутијама и сандуцима мора бити изграђена посебна просторија за дезинсекцију амбалаже фумигантима, односно средствима у облику гаса.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Амбалажа за транспорт и ускладиштење биља и биљних производа која се више неће користити у те сврхе мора се ставити у посебно ограђен простор изван складишта, уништити или, по могућству, употребити за другу намену.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Дезинфекција, односно дезинсекција објеката врши се пре уношења биља и биљних производа.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Дезинфекција, односно дезинсекција складишта која се пуне и празне више пута у току године, као и машина и уређаја за прераду, дораду и манипулисање и транспорт ускладиштеног биља врши се по указаној потреби.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>Дезинсекцију ускладиштеног биља и биљних производа као и дератизацију простора треба вршити када се утврди присуство штетних организама, или превентивно ако се укаже потреба.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Правна лица и предузетници воде евиденцију о извршеној дезинфекцији и дезинсекцији биља и дератизацији просторија за свако складиште посебно, на обрасцу ДДД који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Правна лица и предузетници за вршење ДДД послова, поред услова из <ref>члана 2. овог</ref> правилника, морају испуњавати и следеће услове:</p>
+							<point id="clan8-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> за вршење дезинфекције:</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<subsection id="podod1">
+				<num>а</num>
+				<heading> уређај за влажну или суву дезинфекцију семена, односно садног материјала;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod2">
+				<num>б</num>
+				<heading> моторну прскалицу, ручну, превозну или леђну прскалицу и орошивач;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod3">
+				<num>в</num>
+				<heading> довољан број пластичних и других посуда за одмеравање и припремање течности за прскање;</heading>
+				<content>
+					<point id="podod3-clan8-tac2">
+						<num>2)</num>
+						<content>
+							<p> за вршење дезинсекције:</p>
+						</content>
+					</point>
+				</content>
+			</subsection>
+			<subsection id="podod4">
+				<num>а</num>
+				<heading> уређај, односно дозатор за убацивање пестицида који делује у облику гаса;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod5">
+				<num>б</num>
+				<heading> уређај, односно дозатор за примену течних пестицида за заштиту биља за директно третирање зрнасте робе;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod6">
+				<num>в</num>
+				<heading> моторни и ручни замагљивач;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod7">
+				<num>г</num>
+				<heading> запрашивач капацитета најмање 5 килограма;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod8">
+				<num>д</num>
+				<heading> моторну прскалицу, ручну, превозну или леђну прскалицу и орошивач и довољан број пластичних и других посуда за припремање и одмеравање течности за прскање;</heading>
+				<content>
+					<point id="podod8-clan8-tac3">
+						<num>3)</num>
+						<content>
+							<p> за вршење дератизације:</p>
+						</content>
+					</point>
+				</content>
+			</subsection>
+			<subsection id="podod9">
+				<num>а</num>
+				<heading> комплет посуда или друге опреме за спремање, разношење и излагање затрованог мамка или затроване течности;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod10">
+				<num>б</num>
+				<heading> комплет посуда или друге опреме за сакупљање и уклањање остатака затрованог мамка или течности и угинулих глодара;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod11">
+				<num>в</num>
+				<heading> вагу за размеравање средства за заштиту, односно припремљеног мамка или течности;</heading>
+				<content>
+					<point id="podod11-clan8-tac4">
+						<num>4)</num>
+						<content>
+							<p> за утврђивање присуства гаса у третираном објекту и превозном средству:</p>
+						</content>
+					</point>
+				</content>
+			</subsection>
+			<subsection id="podod12">
+				<num>а</num>
+				<heading> за цијановодоничну киселину и њене соли – комплет лакмус папира са одговарајућим раствором за детекцију гаса, или цевчице и апарат за исту намену;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod13">
+				<num>б</num>
+				<heading> за метилбромид – комплет цевчица са апаратом за детекцију гаса и лампе за детекцију или анализатор гаса;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod14">
+				<num>в</num>
+				<heading> за фосфор–водоник треба имати апарат за детекцију гаса, са одговарајућим цевчицама за мерење различитих концентрација гаса.</heading>
+				<content>
+					<article id="podod14-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="podod14-clan9-stav1">
+								<content>
+									<p>Радници који врше ДДД послове морају имати следећу заштитну опрему:</p>
+									<point id="podod14-clan9-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> заштитна одела од импрегнираног платна или другог одговарајућег материјала;</p>
+										</content>
+									</point>
+									<point id="podod14-clan9-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> респираторе за рад са чврстим формулацијама инсектицида, фунгицида и родентицида;</p>
+										</content>
+									</point>
+									<point id="podod14-clan9-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> гас-маске са резервним филтерима за разне врсте пестицида који делују у облику гаса, ако се за дезинсекцију користе таква средства;</p>
+										</content>
+									</point>
+									<point id="podod14-clan9-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> заштитне наочари и штитник за лице;</p>
+										</content>
+									</point>
+									<point id="podod14-clan9-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> обичне техничке заштитне рукавице;</p>
+										</content>
+									</point>
+									<point id="podod14-clan9-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> гумене чизме;</p>
+										</content>
+									</point>
+									<point id="podod14-clan9-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> приручну апотеку за пружање прве помоћи са потребним антидотима (противотровима) за случај тровања приликом обављања ДДД послова и упутство за употребу.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod14-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="podod14-clan10-stav1">
+								<content>
+									<p>Поред уређаја и опреме из чл. 8. и 9. овог правилника, правна лица и предузетници који врше ДДД услуге, односно врше дезинсекцију (цијановодоничном киселином и њеним солима, фосфор-водоником, метилбромидом, и др.), морају бити регистрована за рад са отровима из И групе отрова, и морају имати у сталном радном односу радника са високом стручном спремом из области заштите.</p>
+								</content>
+							</clause>
+							<clause id="podod14-clan10-stav2">
+								<content>
+									<p>Лице из става 1. овог члана дужно је да лично и непосредно руководи извођењем мера ДДД.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod14-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="podod14-clan11-stav1">
+								<content>
+									<p>Радници који учествују у извођењу ДДД послова морају имати најмање средњу школску спрему пољопривредног, шумарског или технолошког смера и да су обучени за извођење ДДД послова.</p>
+								</content>
+							</clause>
+							<clause id="podod14-clan11-stav2">
+								<content>
+									<p>Радници који обављају ДДД послове упућују се сваке године на здравствени преглед.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod14-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="podod14-clan12-stav1">
+								<content>
+									<p>Правна лица и предузетници која имају силосе, складишта и друге просторије за смештај биља и биљних производа, као и правна лица и предузетници који се баве пословима дезинфекције и дезинсекције биља и биљних производа и дератизације просторија за смештај биља и биљних производа дужни су да испуне услове за обављање ДДД послова, утврђене овим правилником до 31. децембра 1999. године.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod14-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="podod14-clan13-stav1">
+								<content>
+									<p>Даном ступања на снагу овог правилника престаје да важи Правилник о условима које морају испуњавати складишта и друге просторије за смештај биља и предузећа која се баве пословима дезинфекције и дезинсекције биља и дератизације просторија (“<ref id="ref3" href="/rs/act/91/33/srp@">Службени лист СРЈ”, бр. 33/91</ref>).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod14-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="podod14-clan14-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у “Службеном листу СРЈ”.</p>
+								</content>
+							</clause>
+							<clause id="podod14-clan14-stav2">
+								<content>
+									<p>Бр. 5/0–07–053/001</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</subsection>
+			<section id="od24">
+				<num>24.</num>
+				<heading> фебруара 1999. године</heading>
+				<content>
+					<clause id="od24-clan14-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od24-clan14-stav2">
+						<content>
+							<p>Савезни министар за</p>
+						</content>
+					</clause>
+					<clause id="od24-clan14-stav3">
+						<content>
+							<p>пољопривреду</p>
+						</content>
+					</clause>
+					<clause id="od24-clan14-stav4">
+						<content>
+							<p>Недељко Шиповац, с. р.</p>
+						</content>
+					</clause>
+					<clause id="od24-clan14-stav5">
+						<content>
+							<p>Образац ДДД</p>
+						</content>
+					</clause>
+					<clause id="od24-clan14-stav6">
+						<content>
+							<p>ЕВИДЕНЦИЈА</p>
+						</content>
+					</clause>
+					<clause id="od24-clan14-stav7">
+						<content>
+							<p>О ИЗВРШЕНОЈ ДЕЗИНФЕКЦИЈИ, ДЕЗИНСЕКЦИЈИ И ДЕРАТИЗАЦИЈИ</p>
+						</content>
+					</clause>
+					<став id="od24-clan14-stav8">
+						<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:100.0%;border:outset black 0.0833333333333333rem" width="100%">
+							
+ 
+							<tbody>
+								<tr>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p>Назив и локација складишта биља</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p/>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p>Врста ускладиштеног биља и биљних производа</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p/>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p>Количина третираног биља</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p/>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p>и биљних производа или</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p/>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p>запремина складишта</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p/>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p>Назив средства којим је вршено третирање</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p/>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p>Начин и доза примене </p>
+										
+  
+									</td>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p/>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p>пестицида</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p/>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p>Време експозиције</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p/>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p>Врста штетних организама против којих је примењен</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p/>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p>Изведене мере предос-трожности после примене</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p/>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p>Датум изведених мера ДДД</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:50.0%;border:inset black 0.0833333333333333rem;   padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="50%">
+										
+  
+										<p/>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+
+							</tbody>
+						</table>
+						
+
+
+
+
+						<content/>
+					</став>
+					<став id="od24-clan14-stav9">
+						<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:100.0%" width="100%">
+							
+ 
+							<tbody>
+								<tr>
+									
+  
+									<td style="width:44.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="44%">
+										
+  
+										<p>М.П</p>
+										
+  
+									</td>
+									
+  
+									<td style="width:56.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="56%">
+										
+  
+										<p>–––––––––––––––––––––––––––––––––––</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+ 
+								<tr>
+									
+  
+									<td style="width:44.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="44%">
+  </td>
+									<td style="width:56.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="56%">
+										
+  
+										<p>(Име,
+  презиме и потпис одговорног лица)</p>
+										
+  
+									</td>
+									
+ 
+								</tr>
+								
+
+							</tbody>
+						</table>
+						
+
+
+
+
+						<content/>
+					</став>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

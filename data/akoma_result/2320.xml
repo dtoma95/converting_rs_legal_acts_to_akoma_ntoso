@@ -1,0 +1,261 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2017/58-6/main"/>
+					<FRBRuri value="/rs/act/2017/58-6"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2017/58-6/srp@/main"/>
+					<FRBRuri value="/rs/act/2017/58-6/srp@"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2017/58-6/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2017/58-6/srp@.akn"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2017-6-15" name="службени гласник рс" number="58" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="7. Скијалишта и жичаре" value="7. скијалишта и жичаре"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2017-05-30" id="usvajanje"/>
+				<step date="2017-06-23" id="stupanje_na_snagu"/>
+				<step date="2017-06-23" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>Нa oснoву <ref>члана 37. став 6. </ref>Закона о жичарама за транспорт лица („<ref id="ref1" href="/rs/act/15/38/srp@">Службени гласник РС”, број 38/15</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар грађевинарства, саобраћаја и инфраструктуре доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о изгледу, садржини, начину вођења записника стручног прегледа жичара и списку докумената о усклађености</title>
+			<date>&quot;Службени гласник РС&quot;, број 58 од 15. јуна      2017.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се изглед, садржина и начин вођења записника стручног прегледа жичара, као и списак докумената о усклађености жичара за транспорт лица (у даљем тексту: жичара).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Изглед записника стручног прегледа жичара дат је у Прилогу – Записник о стручном прегледу жичара, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Записник стручног прегледа жичара садржи:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> опште податке;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> податке о управљачу жичаре;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> податке о лицима која су обавиле стручни преглед;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> податке о жичари;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> податке о документацији жичаре;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> податке о техничко-технолошким карактеристикама жичаре;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> податке о извршеним испитивањима;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> закључак о извршеном прегледу, прегледаној документацији, извршеним испитивањима и изведеним радовима на жичари који испуњавају прописане услове или опис разлога због којих жичара није испунила услове стручног прегледа;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> оцену да ли жичара испуњава услове у складу са важећим прописима и техничким условима експлоатације и одржавања;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> оверен записник са именима и презименима и својеручним потписима особа које су присуствовале прегледу од стране управљача жичаре и именима и презименима особа и својеручним потписима које су извршиле преглед;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> попис приложених докумената о извршеним мерењима и испитивањима и приложену копију докумената;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> попис приложених оцена и изјава о усклађености компонената и подсистема жичаре и приложена копија оцена и изјава.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Саставни део записника стручног прегледа жичаре чине и:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> План одржавања жичаре;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> писана и оверена изјава управљача жичаре да је жичара одржавана у складу са Планом одржавања жичаре;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> попис свих обављених радова и измењених компоненти жичаре;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> оцена и изјава о усклађености измењених компоненти жичаре;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> Извештај о ванредним догађајима;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> копије других докумената битних за безбедан рад жичаре.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Број 110-00-220/2016-04</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>У Београду, 30. маја 2017. године</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav5">
+						<content>
+							<p>проф. др Зорана З. Михајловић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav6">
+						<content>
+							<p>Прилог</p>
+						</content>
+					</clause>
+					<став id="clan5-stav7">
+						<img alt="zicare_Page_1.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/zicare_Page_1_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423205&amp;regactid=423205"/>
+						<content/>
+					</став>
+					<став id="clan5-stav8">
+						<img alt="zicare_Page_2.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/zicare_Page_2_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423205&amp;regactid=423205"/>
+						<content/>
+					</став>
+					<став id="clan5-stav9">
+						<img alt="zicare_Page_3.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/zicare_Page_3_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423205&amp;regactid=423205"/>
+						<content/>
+					</став>
+					<став id="clan5-stav10">
+						<img alt="zicare_Page_4.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/zicare_Page_4_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423205&amp;regactid=423205"/>
+						<content/>
+					</став>
+					<став id="clan5-stav11">
+						<img alt="zicare_Page_5.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/zicare_Page_5_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423205&amp;regactid=423205"/>
+						<content/>
+					</став>
+					<став id="clan5-stav12">
+						<img alt="zicare_Page_6.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/zicare_Page_6_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423205&amp;regactid=423205"/>
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

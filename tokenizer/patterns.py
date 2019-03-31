@@ -1,34 +1,51 @@
-import xml.etree.ElementTree as ET
+from tokenizer.TokenType import TokenType
 import re
-from enum import IntEnum
+
 
 ROMAN_NUMERAL = "[MDCLXVI]+"
 
+eng_tags = {
+    TokenType.DEO : "part",
+    TokenType.GLAVA : "chapter",
+    TokenType.ODELJAK : "section",
+    TokenType.PODODELJAK : "subsection",
+    TokenType.CLAN : "article",
+    TokenType.STAV : "clause",
+    TokenType.TACKA : "point",
+    TokenType.PODTACKA : "item",
+    TokenType.ALINEJA : "alinea"
+}
 
-class TokenType(IntEnum):
-    DEO = 0
-    GLAVA = 1
-    ODELJAK = 2
-    PODODELJAK = 3
-    CLAN = 4
-    STAV = 5
-    TACKA = 6
-    PODTACKA = 7
-    ALINEJA = 8
-
+eng_ids = {
+    TokenType.DEO : "par",
+    TokenType.GLAVA : "ch",
+    TokenType.ODELJAK : "sect",
+    TokenType.PODODELJAK : "subsect",
+    TokenType.CLAN : "art",
+    TokenType.STAV : "cla",
+    TokenType.TACKA : "pnt",
+    TokenType.PODTACKA : "item",
+    TokenType.ALINEJA : "ali"
+}
 
 class FoundToken():
-    def __init__(self, type, name, value, number, number2=None, numberstr=None):
+    def __init__(self, type, name, value, number, number2=None, numberstr=None, special=None):
         self.type = type
         self.name = name
         self.value = value
         self.number = number
         self.number2 = number2
         self.numberstr = numberstr
+        self.special = special
 
 
-def recognize_pattern(el):
-    text = el.text
+def is_vrsta_akta(text):
+    m = re.match("(ОДЛУКА|ОДУЛУКУ|ПРАВИЛНИК|ЗАКОН|ПРОПИС|ЗАКЉУЧАК|КОДЕКС|ЛИСТУ|ПЛАН|УРЕДБА|УРЕДБУ)", text.upper())
+    if m:
+        return True
+    return False
+
+def recognize_pattern(text):
     if text is None:
         text = ""
     text = text.strip()
@@ -65,29 +82,32 @@ def recognize_pattern(el):
     return None
 
 brojevi = ["ПРВИ", "ДРУГИ", "ТРЕЋИ", "ЧЕТВРТИ", "ПЕТИ", "ШЕСТИ", "СЕДМИ", "ОСМИ","ДЕВЕТИ" , "ДЕСЕТИ", "ЈЕДАНАЕСТИ", "ДВАНАЕСТИ"]
+slova = "[џцвбнмасдфгхјклчћшђжпоиузтрењљђ]+"
+
+
 
 def is_deo(text):
-    m = re.match("(.*) (ДЕО|део)", text)
+    m = re.match("(.*) (ДЕО|део)", text.upper())
     if m:
         for i in range(0, len(brojevi)):
             if brojevi[i] == m.group(1):
-                return FoundToken(TokenType.DEO, "део", None, i + 1, numberstr=text)
+                return FoundToken(TokenType.DEO, eng_tags[TokenType.DEO], None, i + 1, numberstr=text)
 
-    m = re.match("(ДЕО|део) (.*)", text)
+    m = re.match("(ДЕО|део) (.*)", text.upper())
     if m:
         for i in range(0, len(brojevi)):
             if brojevi[i] == m.group(2):
-                return FoundToken(TokenType.DEO, "део", None, i + 1, numberstr=text)
+                return FoundToken(TokenType.DEO, eng_tags[TokenType.DEO], None, i + 1, numberstr=text)
     return False
 
 def is_glava(text):
     m = re.match("(Глава|ГЛАВА) ("+ROMAN_NUMERAL+")", text)
     if m:
-        return FoundToken(TokenType.GLAVA, "глава", None, roman_to_int(m.group(2)), numberstr=m.group(2))
+        return FoundToken(TokenType.GLAVA, eng_tags[TokenType.GLAVA], None, roman_to_int(m.group(2)), numberstr=m.group(2))
 
     m = re.match("(" + ROMAN_NUMERAL + ")(\.) (.*)" , text)
     if m:
-        return FoundToken(TokenType.GLAVA, "глава", m.group(3), roman_to_int(m.group(1)), numberstr=m.group(1))
+        return FoundToken(TokenType.GLAVA, eng_tags[TokenType.GLAVA], m.group(3), roman_to_int(m.group(1)), numberstr=m.group(1))
 
     return False
 
@@ -95,48 +115,52 @@ def is_glava(text):
 def is_odeljak(text):
     m = re.match("([0-9]+)(\.)(.*)", text)
     if m:
-        return FoundToken(TokenType.ODELJAK, "одељак", m.group(3), int(m.group(1)), numberstr=m.group(1)+".")
+        return FoundToken(TokenType.ODELJAK, eng_tags[TokenType.ODELJAK], m.group(3), int(m.group(1)), numberstr=m.group(1)+".")
     return False
 
 
 def is_pododeljak(text):
-    m = re.match("([а-з])(\))(.*)", text)#TODO: fix
+    m = re.match("("+slova+")(\))(.*)", text)#TODO: fix
     if m:
-        return FoundToken(TokenType.PODODELJAK, "пододељак", m.group(3), None, numberstr=m.group(1))
+        return FoundToken(TokenType.PODODELJAK, eng_tags[TokenType.PODODELJAK], m.group(3), None, numberstr=m.group(1))
     return False
 
 
 def is_clan(text):
     m = re.match("(Члан) ([0-9]+)(\.)", text)
     if m:
-        return FoundToken(TokenType.CLAN, "члан",None , int(m.group(2)), numberstr=m.group(2)+".")
+        return FoundToken(TokenType.CLAN, eng_tags[TokenType.CLAN], None , int(m.group(2)), numberstr=m.group(2)+".")
     m = re.match("(Чл\.) ([0-9]+\-[0-9]+)(\.)", text)
     if m:
         br1 = int(m.group(2).split("-")[0])
         br2 = int(m.group(2).split("-")[1])
-        return FoundToken(TokenType.CLAN, "члан", None, br1, br2, numberstr=m.group(2)+".")
+        return FoundToken(TokenType.CLAN, eng_tags[TokenType.CLAN], None, br1, br2, numberstr=m.group(2)+".")
+    m = re.match("(Члан) ([0-9]+)("+slova+")(\*)?", text)
+    if m:
+        return FoundToken(TokenType.CLAN, eng_tags[TokenType.CLAN], None, int(m.group(2)), m.group(2)+"."+m.group(3), numberstr=m.group(2)+m.group(3))
+
     return False
 
 def is_stav(text):
     #sve moze da bude stav?
-    return FoundToken(TokenType.STAV, "став", text, None)
+    return FoundToken(TokenType.STAV, eng_tags[TokenType.STAV], text, None)
 
 def is_tacka(text):
     m = re.match("([0-9]+)(\))(.*)", text)
     if m:
-        return FoundToken(TokenType.TACKA, "тачка", m.group(3), int(m.group(1)),numberstr=m.group(1)+")")
+        return FoundToken(TokenType.TACKA, eng_tags[TokenType.TACKA], m.group(3), int(m.group(1)),numberstr=m.group(1)+")")
     return False
 
 def is_podtacka(text):
     m = re.match("(\()([0-9]+)(\))(.*)", text)
     if m:
-        return FoundToken(TokenType.PODTACKA, "подтачка", m.group(4), int(m.group(2)), numberstr="("+m.group(2)+")")
+        return FoundToken(TokenType.PODTACKA, eng_tags[TokenType.PODTACKA], m.group(4), int(m.group(2)), numberstr="("+m.group(2)+")")
     return False
 
 def is_alineja(text):
     m = re.match("(– ?\w?)(.*)", text)
     if m:
-        return FoundToken(TokenType.ALINEJA, "алинеја", m.group(2), None)
+        return FoundToken(TokenType.ALINEJA, eng_tags[TokenType.ALINEJA], m.group(2), None)
     return False
 
 def int_to_roman(input):

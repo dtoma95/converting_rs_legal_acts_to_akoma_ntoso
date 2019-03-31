@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2006/64-71/main"/>
+					<FRBRuri value="/rs/act/2006/64-71"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2006/64-71/srp@/main"/>
+					<FRBRuri value="/rs/act/2006/64-71/srp@"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2006/64-71/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2006/64-71/srp@.akn"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2006-7-26" name="службени гласник рс“" number="64" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="1. Пензијско и инвалидско осигурање" value="1. пензијско и инвалидско осигурање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2006-06-06" id="usvajanje"/>
+				<step date="2006-08-03" id="stupanje_na_snagu"/>
+				<step date="2006-08-03" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 28. став 3. </ref>Правилника о образовању, организацији и начину рада органа вештачења („<ref id="ref1" href="/rs/act/03/46/srp@">Службени гласник РС”, број 46/03, 80/03, 8/04</ref> и 138/04),</p>
+			<p>Управни одбор Републичког фонда за пензијско и инвалидско осигурање запослених на седници од 6. јуна 2006. године, донео је</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о утврђивању висине трошкова вештачења о инвалидности за осигуранике, односно лица по предлогу за вештачење на који није дата сагласност лекарске комисије</title>
+			<date>„Службени гласник РС“, број 64 од 26. јула 2006.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Трошкови вештачења инвалидности за осигуранике, односно лица, по предлогу за вештачење на који није дата сагласност лекарске комисије у здравственој установи, износе 22.000,00 динара (словима: двадесет две хиљаде динара).</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Ова одлука ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>04/04 број 022.2-10/67</p>
+						</content>
+					</clause>
+					<clause id="od2-stav2">
+						<content>
+							<p>У Београду, 6. јуна 2006. године</p>
+						</content>
+					</clause>
+					<clause id="od2-stav3">
+						<content>
+							<p>Управни одбор Републичког фонда за пензијско</p>
+						</content>
+					</clause>
+					<clause id="od2-stav4">
+						<content>
+							<p>и инвалидско осигурање запослених</p>
+						</content>
+					</clause>
+					<clause id="od2-stav5">
+						<content>
+							<p>Председница,</p>
+						</content>
+					</clause>
+					<clause id="od2-stav6">
+						<content>
+							<p>Славица Савић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

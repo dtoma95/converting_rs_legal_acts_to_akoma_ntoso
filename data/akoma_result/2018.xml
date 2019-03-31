@@ -1,0 +1,514 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2006/108-14/main"/>
+					<FRBRuri value="/rs/act/2006/108-14"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2006/108-14/srp@/main"/>
+					<FRBRuri value="/rs/act/2006/108-14/srp@"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2006/108-14/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2006/108-14/srp@.akn"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2006-12-1" name="службени гласник рс" number="108" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="4. Руде и геолошка истраживања" value="4. руде и геолошка истраживања"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2006-11-23" id="usvajanje"/>
+				<step date="2006-12-09" id="stupanje_na_snagu"/>
+				<step date="2006-12-09" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 29. </ref>Закона о рударству („<ref id="ref1" href="/rs/act/95/44/srp@">Службени гласник РС”, бр. 44/95, 85/05</ref> – др. закон, 101/05 – др. закон и 34/06),</p>
+		</preamble>
+		<preface>
+			<authority>Министар рударства и енергетике доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о садржини студије изводљивости експлоатације лежишта минералних сировина</title>
+			<date>„Службени гласник РС”, број 108 од 1. децембра 2006.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником ближе се уређује садржина студије изводљивости експлоатације лежишта минералних сировина (у даљем тексту: студија).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Студија садржи:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> приказ услова и начина експлоатације и припреме минералних сировина;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> приказ пласмана минералних сировина;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> приказ мера заштите и санације животне средине и утицаја експлоатације на друштвену заједницу;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> приказ потребних новчаних средстава која ће бити ангажована и броја запослених.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Приказ услова и начина експлоатације и припреме минералних сировина садржи:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> опште податке о студији;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> опште податке о експлоатационом пољу;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> историјат геолошких истраживања и рударства;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> рударско-геолошки део студије.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Општи подаци о студији садрже:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив студије;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> податке о инвеститору студије;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> податке о аутору студије.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Општи подаци о експлоатационом пољу садрже:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> локацију лежишта и експлоатационог поља;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> просторни положај експлоатационог поља и повезаност са путном железничком и пловном воденом инфраструктуром;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> постојеће стање осталих инфраструктурних услова (електронапајање, водовод, гасна инфраструктура итд.).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Историјат геолошких истраживања и рударства садржи приказ резултата геолошких истраживања са описом изведених радова у претходном периоду, као и опис претходно спроведених рударских активности.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Рударско-геолошки део студије садржи податке који се односе на:</p>
+							<тачка id="clan7-stav1-tac1">
+								<num>1.</num>
+								<content>
+									<p> геолошки део са приказом:</p>
+									<point id="clan7-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> величине и облика лежишта, геолошке и структурне грађе лежишта, карактеристика радне средине, и то: хидролошке и хидрогеолошке, инжењерско-геолошке и физичко-механичке,</p>
+										</content>
+									</point>
+								</content>
+							</тачка>
+							<point id="clan7-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> врсте, квалитете и количине резерви минералних сировина, минералног састава, садржаја и густине корисне компоненте,</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> просторног положаја утврђених и оверених резерви минералних сировина,</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> графичког дела са геолошком и хидрогеолошком картом ширег подручја, геолошком картом подручја експлоатационог поља са назначеним објектима геолошких истраживања и уцртаном контуром оверених билансних резерви и контурама експлоатационог поља;</p>
+								</content>
+							</point>
+							<тачка id="clan7-stav1-tac2">
+								<num>2.</num>
+								<content>
+									<p> рударски део са приказом:</p>
+								</content>
+							</тачка>
+							<point id="clan7-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> концепције експлоатације и припреме минералне сировине,</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> анализе геомеханичке стабилности рударских објеката и јаловишта,</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> техничког описа експлоатације лежишта,</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> техничког описа припреме минералних сировина,</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> избора основне и помоћне рударске опреме,</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> експлоатационих резерви и степена искоришћења лежишта минералних сировина,</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> годишњег капацитета и радног века рудника,</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> динамичког плана развоја рударских радова,</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> снабдевања погонском и топлотном енергијом и индустријском и питком водом,</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> нормативе потрошње енергије, материјала и резервних делова,</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> техничке и биолошке рекултивације,</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> мерама техничке заштите људи и објекта,</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> мониторинг система на рударским објектима,</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac14">
+								<num>14)</num>
+								<content>
+									<p> графичког дела са ажурним ситуационим картама не старијим од шест месеци, са уцртаном контуром експлоатационог поља; ситуационом картом стања рударских радова – фаза отварања; ситуационом картом стања рударских радова – фаза затварања; технолошким попречним и уздужним профилом лежишта, са приказаним стањем у фази отварања и затварања рудника; технолошком шемом откопавања, одлагања, транспорта минералних сировина и јалових маса, шемом минирања, проветравања, одводњавања, одлагања флотацијских јаловишта и др.; технолошком шемом постројења за припрему минералних сировина.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Приказ пласмана минералних сировина садржи податке који се односе на:</p>
+							<point id="clan8-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> комерцијални асортиман рудничких производа;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> анализу тржишта комерцијалних производа рудника;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> токове новца;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> анализу кредитне способности инвеститора;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> анализу осетљивости и ризика;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> динамичку оцену инвестиционог пројекта;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> анализу одрживости / доступности пројекта.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Приказ мера заштите и санације животне средине и утицаја експлоатације на друштвену заједницу садржи податке који се односе на:</p>
+							<тачка id="clan9-stav1-tac1">
+								<num>1.</num>
+								<content>
+									<p> мере заштите и санације животне средине са приказом:</p>
+									<point id="clan9-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> утицаја рударских радова и објеката у свим фазама технолошких процеса експлоатације и припреме минералних сировина на животну средину,</p>
+										</content>
+									</point>
+								</content>
+							</тачка>
+							<point id="clan9-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> мера заштите животне средине услед утицаја рударских радова и објеката у свим фазама технолошких процеса експлоатације и припреме минералних сировина,</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> графичког дела који се састоји од ситуационе карте завршног стања рударских објеката, са приказом предвиђене техничке и биолошке рекултивације;</p>
+								</content>
+							</point>
+							<тачка id="clan9-stav1-tac2">
+								<num>2.</num>
+								<content>
+									<p> утицај експлоатације на друштвену заједницу са приказом:</p>
+								</content>
+							</тачка>
+							<point id="clan9-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> утицаја на социјалну структуру становништва,</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> јавних и осталих објеката у зони утицаја рударских радова,</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> категоризације и измене структуре земљишта,</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> измештања објеката инфраструктуре.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Приказ потребних новчаних средстава која ће бити ангажована и броја запослених садржи податке који се односе на:</p>
+							<point id="clan10-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> структуру и број запослених;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> инвестициона улагања у фази припреме за отварања рудника (изградња рудничке инфраструктуре);</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> инвестициона улагања у фази отварања рудника и изградњи постројења за припрему минералних сировина;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> инвестициона улагања у фази експлоатације;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> инвестициона улагања у фази затварања рудника.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Број 110-0055/2006-06</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav3">
+						<content>
+							<p>У Београду, 23. новембра 2006. године</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav5">
+						<content>
+							<p>Радомир М. Наумов, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

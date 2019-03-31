@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2002/41-7/main"/>
+					<FRBRuri value="/rs/act/2002/41-7"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2002/41-7/srp@/main"/>
+					<FRBRuri value="/rs/act/2002/41-7/srp@"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2002/41-7/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2002/41-7/srp@.akn"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2002-7-26" name="службени лист срј" number="41" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="IV ЈАВНИ ПРИХОДИ" value="iv јавни приходи"/>
+				<keyword id="grupa" showAs="4. Јавни зајмови" value="4. јавни зајмови"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2002-07-22" id="usvajanje"/>
+				<step date="2002-07-27" id="stupanje_na_snagu"/>
+				<step date="2002-07-27" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 24. </ref>Закона о регулисању јавног дуга Савезне Републике Југославије по основу девизне штедње грађана (“<ref id="ref1" href="/rs/act/2002/36/srp@">Службени лист СРЈ”, бр. 36/2002</ref>),</p>
+			<p>гувернер Народне банке Југославије доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о условима под којима домаћа и страна лица могу износити из земље и уносити у  земљу обвезнице које је издала СР Југославија</title>
+			<date>„Службени лист СРЈ”, број 41 од 26. јула 2002.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Домаће правно лице и предузетник, домаће физичко лице, грађани на привременом раду у иностранству, као и страно правно и физичко лице, могу износити из СР Југославије и уносити у СР Југославију обвезнице емитоване у складу са Одлуком о емисији обвезница Савезне Републике Југославије за измирење обавеза по основу девизне штедње грађана (“<ref id="ref2" href="/rs/act/2001/4/srp@">Службени лист СРЈ”, бр. 4/2001, 6/2001</ref> и 27/2001), под условом да их поднесу на увид надлежном царинском органу.</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> О изнетим, односно унетим обвезницама из тачке 1. ове одлуке, надлежни царински орган из те тачке води евиденцију, на основу које сачињава извештај о апоенској структури, односно укупној вредности обвезница, као и о роковима њиховог доспећа, који доставља Народној банци Југославије – најкасније до 10. у месецу за претходни месец.</heading>
+				<content/>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Ова одлука ступа на снагу наредног дана од дана објављивања у “Службеном листу СРЈ”.</heading>
+				<content>
+					<clause id="od3-stav1">
+						<content>
+							<p>О. бр. 91</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od22">
+				<num>22.</num>
+				<heading> јула 2002. године</heading>
+				<content>
+					<clause id="od22-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od22-stav2">
+						<content>
+							<p>Гувернер</p>
+						</content>
+					</clause>
+					<clause id="od22-stav3">
+						<content>
+							<p>Народне банке Југославије</p>
+						</content>
+					</clause>
+					<clause id="od22-stav4">
+						<content>
+							<p>Млађан Динкић, с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

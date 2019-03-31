@@ -1,0 +1,617 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2009/104-177/main"/>
+					<FRBRuri value="/rs/act/2009/104-177"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2009/104-177/srp@/main"/>
+					<FRBRuri value="/rs/act/2009/104-177/srp@"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2009/104-177/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2009/104-177/srp@.akn"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2009-12-16" name="службени гласник рс“" number="104" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="14. Заштита од зрачења и нуклеарна сигурност" value="14. заштита од зрачења и нуклеарна сигурност"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2009-12-04" id="usvajanje"/>
+				<step date="2009-12-24" id="stupanje_na_snagu"/>
+				<step date="2009-12-24" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 6. став 6. тачка 1</ref>) Закона о заштити од нејонизујућих зрачења („<ref id="ref1" href="/rs/act/09/36/srp@">Службени гласник РС”, број 36/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар животне средине и просторног планирања доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о границама излагања нејонизујућим зрачењима</title>
+			<date>„Службени гласник РС“ број 104 од 16. децембра 2009.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>УВОДНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<heading>Предмет уређивања</heading>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником прописују се границе излагања нејонизујућим зрачењима, односно базична ограничења и референтни гранични нивои излагања становништва електричним, магнетским и електромагнетским пољима различитих фреквенција.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan1-stav2">
+								<content>
+									<p>Одредбе овог правилника односе се на зоне повећане осетљивости изван контролисаних (надзираних) области, осим на зрачење уређаја који су намењени терапији или лечењу у здравству или зрачење радарских и примопредајних система за одбрамбене потребе, за заштиту, спасавање или пружање помоћи.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<heading>Значење израза</heading>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Поједини изрази употребљени у овом правилнику имају следеће значење:</p>
+									<point id="gla1-clan2-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> нискофреквентно (NF) зрачење јесте нејонизујуће зрачење опсега између 0 и 10 kHz;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> високофреквентно (VF) зрачење обухвата опсег нејонизујућег зрачења од 10 kHz до 300 GHz;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> радио-фреквенцијско (RF) зрачење јесте део ВФ опсега између 300 kHz и 300 GHz;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> микроталасно зрачење (MT) јесте део радио-фреквентног опсега између 300 MGHz и 300 GHz;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> блиско поље јесте електромагнетско поље у непосредној близини извора зрачења у коме оно нема особине раванског таласа;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> далеко поље јесте електромагнетско поље толико удаљено од извора да има карактер раванског таласа;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> неометано електромагнетско поље јесте поље око извора у коме нема покретних објеката или особа и које се користи за избор мерних тачака;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> контролисана (надзирана) зона јесте ограђени или обележени простор око извора нејонизујућег зрачења који је доступан само запосленим лицима или лицима која надгледају његово коришћење или радна средина;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> зоне повећане осетљивости јесу: подручја стамбених зона у којима се особе могу задржавати и 24 сата дневно; школе, домови, предшколске установе, породилишта, болнице, туристички објекти, те дечја игралишта; површине неизграђених парцела намењених, према урбанистичком плану, за наведене намене, у складу са препорукама Светске здравствене организације.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>БАЗИЧНА ОГРАНИЧЕЊА И РЕФЕРЕНТНИ ГРАНИЧНИ НИВОИ ИЗЛАГАЊА СТАНОВНИШТВА</heading>
+				<content>
+					<clause id="gla2-clan2-stav1">
+						<content>
+							<p>ЕЛЕКТРИЧНИМ, МАГНЕТСКИМ И ЕЛЕКТРОМАГНЕТСКИМ ПОЉИМА</p>
+						</content>
+					</clause>
+					<article id="gla2-clan3">
+						<num>3.</num>
+						<heading>Базична ограничења</heading>
+						<content>
+							<clause id="gla2-clan3-stav1">
+								<content>
+									<p>Базична ограничења излагања становништва електричним, магнетским и електромагнетским пољима (0 Хз до 300 GHz) јесу ограничења у излагању временски променљивим изворима електромагнетских поља (нискофреквентни, високофреквентни, укључујући радио фреквенцијске, микроталасне и др.), која су заснована непосредно на утврђеним здравственим ефектима и биолошким показатељима.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav2">
+								<content>
+									<p>Физичке величине којима се ова ограничења одређују, у зависности од фреквенције поља, јесу: густина магнетског флукса или магнетна индукција (B), густина струје (Ј), специфични ниво апсорбовања енергије (SAR), и густина снаге (S).</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav3">
+								<content>
+									<p>Базична ограничења изложености становништва електричним, магнетским и електромагнетским пољима (0 Hz до 300 GHz) садржана су у Табели 1. која је одштампана уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<heading>Физичке величине које одређују базична ограничења</heading>
+						<content>
+							<clause id="gla2-clan4-stav1">
+								<content>
+									<p>Физичке величине којима се одређују базична ограничења излагања становништва електричним, магнетским и електромагнетским пољима јесу:</p>
+									<point id="gla2-clan4-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> контактна струја (Ic) између особе и неког предмета изложеног електричном пољу и која се изражава у амперима (А);</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> густина струје (Ј) као проток струје кроз попречну јединицу површине окомиту на њен ток у запремини проводника као што је људско тело или његов део, изражен у амперима по квадратном метру (А/m²);</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> јачина електричног поља као векторска величина (Е) која одговара сили која се испољава на наелектрисану честицу без обзира на њено кретање у простору, изражена у волтима по метру (V/m);</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> јачина магнетског поља као векторска величина (B), која, заједно са густином магнетског флукса, одређује магнетско поље у некој тачки простора изражена у амперима по метру (А/m);</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> густина магнетског флукса као векторска величина (B), која се испољава као сила која делује на честице у покрету, изражена као тесла (T = Wb/m²). Густина магнетског флукса и густина снаге могу се брзо измерити код индивидуалних излагања.У слободном простору и у биолошким материјалима, густина магнетског флукса и јачина магнетског поља могу се заменити користећи еквиваленцију 1 А m-1 = 4p 10-7 Т, односно израз B = µХ при чему је µ магнетна пермеабилност (µ = µрµ0), µр релативна магнетна пермеабилност средине (за вакуум је µр=1), а µ0 магнетна пермеабилност вакуума;</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> густина снаге (S) као величина погодна за одређивање врло високих фреквенција, где је дубина продирања у тело мала. То је снага зрачења које пада вертикално на површину, подељена са површином и изражава се у ватима по метру квадратном (W/m²);</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> специфична енергија апсорпције (SA) као апсорбована енергија по јединици масе биолошког ткива, изражена у џулима по килограму (Ј/kg). Ова величина користи се за ограничавање нетермичких ефеката који потичу од импулсног микроталасног зрачења;</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> специфична брзина апсорбовања енергије (SAR), у просеку за цело тело или за делове тела, односно мера брзине апсорпције енергије по јединици масе, изражава се у ватима по килограму (W/kg). SAR за читаво тело је широко распрострањена мера повезивања неповољних термичких ефеката излагања радио фреквенцијама. Поред SAR усредњеног за читаво тело, локалне вредности SAR су потребне да би се проценила и ограничила прекомерна енергетска изложеност малих делова тела до чега долази код специјалних услова излагања. Примери таквих услова су: приземљена особа изложена нискофреквентном РФ зрачењу и особе изложене блиском пољу зрачења антене.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan5">
+						<num>5.</num>
+						<heading>Референтни гранични нивои</heading>
+						<content>
+							<clause id="gla2-clan5-stav1">
+								<content>
+									<p>Референтни гранични нивои јесу нивои излагања становништва електричним, магнетским и електромагнетским пољима који служе за практичну процену изложености, како би се одредило да ли постоји вероватноћа да базична ограничења буду прекорачена.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan5-stav2">
+								<content>
+									<p>Референтни гранични нивои исказују се зависно од висине фреквенције поља према следећим параметрима: јачина електричног поља Е (V/m), јачина магнетнског поља H (А/m), густина магнетског флукса B (µТ), густина снаге (еквивалентног равног таласа) – Sekv (W/м²).</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan5-stav3">
+								<content>
+									<p>Примена мерљивог референтног граничног нивоа осигурава поштовање релевантног базичног ограничења.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan5-stav4">
+								<content>
+									<p>Референтни гранични нивои садржани су у Табели 2. која је одштампана уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan6">
+						<num>6.</num>
+						<heading>Референтни нивои контактних струја</heading>
+						<content>
+							<clause id="gla2-clan6-stav1">
+								<content>
+									<p>На фреквенције до 110 MGHz примењују се прописани референтни нивои ради избегавања ризика од контактних струја.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav2">
+								<content>
+									<p>Референтни нивои контактних струја од проводних објеката садржани су у Табели 3. која је одштампана уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan7">
+						<num>7.</num>
+						<heading>Референтни ниво</heading>
+						<content>
+							<clause id="gla2-clan7-stav1">
+								<content>
+									<p>На фреквенције опсега 10 MGHz до 110 MGHz, за струју кроз неки екстремитет примењују се прописани референтни ниво од 45 mА.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav2">
+								<content>
+									<p>Локализовани SAR се утврђује као просек шестоминутног излагања.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<heading>Излагање нејонизујућем зрачењу у присуству више извора</heading>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>При симултаном излагању пољима са различитим фреквенцијама мора се узети у обзир могућност збирних ефеката тим излагањима.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav2">
+								<content>
+									<p>Прорачуни засновани на збирним деловањима морају се извести за сваки поједини ефект, тако да се одвојена процена врши за термичке и електричне стимулативне ефекте на тело.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<heading>Базична ограничења</heading>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>У случају симултаног излагања пољима различитих фреквенција, морају се задовољити следећи критеријуми у смислу базичних ограничења.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav2">
+								<content>
+									<p>За електричну стимулацију, релевантну за фреквенције од 1 Хз до 10 MGHz, индуковане густине струје морају се сабирати у складу са:</p>
+								</content>
+							</clause>
+							<став id="gla2-clan9-stav3">
+								<img height="54" id="Picture 23" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/825c1d34-c7da-4a13-9f32-1a64d3fe859b.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=420268&amp;regactid=420268" width="113"/>
+								<content/>
+							</став>
+							<clause id="gla2-clan9-stav4">
+								<content>
+									<p>За термичке ефекте, релевантне од 100 kHz, нивои специфичне енергије апсорпције и густине снаге морају се сабирати у складу са:</p>
+								</content>
+							</clause>
+							<став id="gla2-clan9-stav5">
+								<img height="50" id="Picture 24" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/2b14aaa6-8804-4a1e-8f63-9943593b4211.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=420268&amp;regactid=420268" width="189"/>
+								<content/>
+							</став>
+							<clause id="gla2-clan9-stav6">
+								<content>
+									<p>при чему је:</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav7">
+								<content>
+									<p>Ji густина струје на фреквенцији и;</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav8">
+								<content>
+									<p>JL,i густина струје базичног ограничења на фреквенцији и како је то дато у Табели 1;</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav9">
+								<content>
+									<p>SARi SAR узрокован излагањем на фреквенцији и;</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav10">
+								<content>
+									<p>SARL SAR базичног ограничења дат у Табели 1;</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav11">
+								<content>
+									<p>Si густина снаге на фреквенцији и;</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav12">
+								<content>
+									<p>SL густина снаге базичног ограничења дата у Табели 1.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan10">
+						<num>10.</num>
+						<heading>Референтни нивои</heading>
+						<content>
+							<clause id="gla2-clan10-stav1">
+								<content>
+									<p>У примени базичних ограничења, морају се користити критеријуми у односу на референтне нивое јачине поља:</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav2">
+								<content>
+									<p>За густине индукованих струја и електричне стимулативне ефекте, релевантне изнад 10 MGHz, морају се применити следећа два захтева:</p>
+								</content>
+							</clause>
+							<став id="gla2-clan10-stav3">
+								<img height="60" id="Picture 25" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/03d7d470-77c8-4b6f-8a03-13e5be70417a.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=420268&amp;regactid=420268" width="189"/>
+								<content/>
+							</став>
+							<clause id="gla2-clan10-stav4">
+								<content>
+									<p>и</p>
+								</content>
+							</clause>
+							<став id="gla2-clan10-stav5">
+								<img height="58" id="Picture 26" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/f3f1e5b9-5f0d-4846-9dba-7a1b8d85c4b2.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=420268&amp;regactid=420268" width="189"/>
+								<content/>
+							</став>
+							<clause id="gla2-clan10-stav6">
+								<content>
+									<p>при чему је:</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav7">
+								<content>
+									<p>Ei јачина електричног поља на фреквенцији и;</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav8">
+								<content>
+									<p>EL,и референтни ниво јачине електричног поља из Табеле 2;</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav9">
+								<content>
+									<p>Hj јачина магнетског поља на фреквенцији и;</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav10">
+								<content>
+									<p>HL,ј референтни ниво јачине магнетског поља из Табеле 2;</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav11">
+								<content>
+									<p>а 87 В/м;</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav12">
+								<content>
+									<p>b 5 A/m (6,25 mT).</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav13">
+								<content>
+									<p>Употреба константних вредности (а и б) изнад 1 MGHz за електрично поље и изнад 150 kHz за магнетско поље полази од чињенице да је сумирање засновано на индукованим густинама струје, и не сме се мешати са околностима термичких ефеката. Базичне вредности за ЕЛ и ХЛ изнад 1 MGHz и 150 kHz распективно, налазе се у Табели 1.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav14">
+								<content>
+									<p>За околности термичких ефеката, релевантне од 100 kHz, за нивое поља примењују се следећа два израза:</p>
+								</content>
+							</clause>
+							<став id="gla2-clan10-stav15">
+								<img height="54" id="Picture 27" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/e7d41df6-0d4f-46ce-a4ad-f8dca36c2d99.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=420268&amp;regactid=420268" width="189"/>
+								<content/>
+							</став>
+							<clause id="gla2-clan10-stav16">
+								<content>
+									<p>и</p>
+								</content>
+							</clause>
+							<став id="gla2-clan10-stav17">
+								<img height="53" id="Picture 28" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/dd364157-1807-4cda-af0f-a25e22021736.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=420268&amp;regactid=420268" width="189"/>
+								<content/>
+							</став>
+							<clause id="gla2-clan10-stav18">
+								<content>
+									<p>при чему је:</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav19">
+								<content>
+									<p>Ei јачина електричног поља измерена на фреквенцији и;</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav20">
+								<content>
+									<p>EL,и референтни ниво електричног поља према Табе-</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav21">
+								<content>
+									<p>ли 2;</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav22">
+								<content>
+									<p>Hj јачина магнетског поља на фреквенцији ј;</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav23">
+								<content>
+									<p>HL,ј референтни ниво магнетског поља изведен из Табеле 2;</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav24">
+								<content>
+									<p>c је 87/f1/2 V/m</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav25">
+								<content>
+									<p>d је 0,37/f V/m.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav26">
+								<content>
+									<p>Издвојене тачке су прилагођене само за укупно излагање организма код становништва.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav27">
+								<content>
+									<p>За струју кроз екстремитете и контактну струју, респективно, примењују се следећи изрази:</p>
+								</content>
+							</clause>
+							<став id="gla2-clan10-stav28">
+								<img height="60" id="Picture 29" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/44c4fd87-825c-4ef2-bb70-5208588ad127.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=420268&amp;regactid=420268" width="113"/>
+								<content/>
+							</став>
+							<clause id="gla2-clan10-stav29">
+								<content>
+									<p>и</p>
+								</content>
+							</clause>
+							<став id="gla2-clan10-stav30">
+								<img height="61" id="Picture 30" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/e4147c12-18d0-456d-a172-7c59e6d4d9c8.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=420268&amp;regactid=420268" width="113"/>
+								<content/>
+							</став>
+							<clause id="gla2-clan10-stav31">
+								<content>
+									<p>при чему је:</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav32">
+								<content>
+									<p>Ik компонента струје кроз уд на фреквенцији к;</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav33">
+								<content>
+									<p>IL,k референтни ниво струје кроз, 45 mA;</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav34">
+								<content>
+									<p>In компонента контактне струје на фреквенцији n;</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav35">
+								<content>
+									<p>IC,n референтни ниво контактне струје на фреквенцији n (види Табелу 3).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan11">
+						<num>11.</num>
+						<heading>Ступање на снагу</heading>
+						<content>
+							<clause id="gla2-clan11-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav2">
+								<content>
+									<p>Број 110-00-00058/2009-05</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav3">
+								<content>
+									<p>У Београду, 4. децембра 2009. године</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav5">
+								<content>
+									<p>др Оливер Дулић, с.р.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav6">
+								<content>
+									<p>ТАБЕЛА 1</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav7">
+								<content>
+									<p>Базична ограничења изложености становништва електричним, магнетским и електромагнетским пољима</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav8">
+								<content>
+									<p>(0 Хз до 300 GHz)</p>
+								</content>
+							</clause>
+							<став id="gla2-clan11-stav9">
+								<img height="233" id="Picture 31" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/e4512f28-8671-4602-990b-95c2700f6db0.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=420268&amp;regactid=420268" width="605"/>
+								<content/>
+							</став>
+							<clause id="gla2-clan11-stav10">
+								<content>
+									<p>ТАБЕЛА 2</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav11">
+								<content>
+									<p>Референтни гранични нивои</p>
+								</content>
+							</clause>
+							<став id="gla2-clan11-stav12">
+								<img height="174" id="Picture 32" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/c01fe95a-c8ba-46ce-a44d-e203f0fb34b6.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=420268&amp;regactid=420268" width="605"/>
+								<content/>
+							</став>
+							<став id="gla2-clan11-stav13">
+								<img height="237" id="Picture 33" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/dbc8de47-7b1e-40d9-9973-a972c7c73659.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=420268&amp;regactid=420268" width="605"/>
+								<content/>
+							</став>
+							<став id="gla2-clan11-stav14">
+								<img height="166" id="Picture 34" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/3fc89cfe-9a8a-4b1a-9c0e-186a74078ba7.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=420268&amp;regactid=420268" width="302"/>
+								<content/>
+							</став>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,266 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2012/55-101/main"/>
+					<FRBRuri value="/rs/act/2012/55-101"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2012/55-101/srp@/main"/>
+					<FRBRuri value="/rs/act/2012/55-101/srp@"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2012/55-101/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2012/55-101/srp@.akn"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2012-6-1" name="службени гласник рс" number="55" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="5. Оружје, муниција, опасне и експлозивне материје" value="5. оружје, муниција, опасне и експлозивне материје"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2012-05-25" id="usvajanje"/>
+				<step date="2012-06-09" id="stupanje_na_snagu"/>
+				<step date="2012-06-09" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 20. став 5. </ref>Закона о транспорту опасног терета („<ref id="ref1" href="/rs/act/10/88/srp@">Службени гласник РС”, број 88/10</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Mинистар за инфраструктуру и енергетику, доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о условима које мора да испуњава привредно друштво, односно друго правно лице којем се издаје Лиценца за стручно оспособљавање кандидата за Саветника, као и о обрасцу Лиценце</title>
+			<date>&quot;Службени гласник РС&quot;, број 55 од   1. јуна 2012.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>УВОДНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником прописују се ближи услови које мора да испуњава привредно друштво, односно друго правно лице којем се за обављање стручног оспособљавања кандидата за Саветника за безбедност у транспорту опасног терета (у даљем тексту: Саветник) издаје лиценца за Саветника (у даљем тексту: Лиценца), као и образац Лиценце.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>УСЛОВИ ЗА ИЗДАВАЊЕ ЛИЦЕНЦЕ</heading>
+				<content>
+					<article id="gla2-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla2-clan2-stav1">
+								<content>
+									<p>Лиценца је исправа која се, у складу са законом којим се уређује транспорт опасног терета, издаје привредном друштву, односно другом правном лицу које:</p>
+									<point id="gla2-clan2-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> испуњава услове у погледу плана и програма наставе;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> испуњава услове у погледу наставног кадра, простора, опреме и наставних средстава за стручно оспособљавање кандидата за Саветника.</p>
+										</content>
+									</point>
+									<тачка id="gla2-clan2-stav1-tac1">
+										<num>1.</num>
+										<content>
+											<p> План и програм наставе</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla2-clan3-stav1">
+								<content>
+									<p>План и програм наставе мора бити прилагођен кандидатима за Саветника различитих степена образовања, тако да омогући стицање знања из ускоспецијалистичких области које су обавезне при провери знања на испитима и садржи:</p>
+									<point id="gla2-clan3-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> техничке прописе потврђених међународних споразума у транспорту опасног терета (у даљем тексту: ADR/RID/ADN);</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> прописе којим се уређује транспорт опасног терета.</p>
+											<тачка id="gla2-clan3-stav1-tac2">
+												<num>2.</num>
+												<content>
+													<p> Наставни кадар, простор, опрема и наставна средстава за стручно оспособљавање кандидата за Саветника</p>
+												</content>
+											</тачка>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla2-clan4-stav1">
+								<content>
+									<p>Привредно друштво, односно друго правно лице коме се издаје Лиценца мора да:</p>
+									<point id="gla2-clan4-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> обезбеди одговарајуће предаваче и то:</p>
+											<item id="gla2-clan4-stav1-tac1-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> најмање два предавача са високим образовањем на студијама другог степена (мастер академске студије, специјалистичке струковне студије, специјалистичке академске студије), односно на основним студијама у трајању од најмање четири године, који имају важећи сертификат за Саветника и који морају да докажу:</p>
+													<alinea id="gla2-clan4-stav1-tac1-podtac1-ali1">
+														<content>
+															<p>пецијалистичка знања о посудама под притиском, или</p>
+														</content>
+													</alinea>
+													<alinea id="gla2-clan4-stav1-tac1-podtac1-ali2">
+														<content>
+															<p>опринос изради регулативе у области транспорта опасног терета, или</p>
+														</content>
+													</alinea>
+													<alinea id="gla2-clan4-stav1-tac1-podtac1-ali3">
+														<content>
+															<p>а имају најмање три објављена рада у стручним часописима или на стручним скуповима на тему транспорта опасног терета;</p>
+														</content>
+													</alinea>
+												</content>
+											</item>
+											<item id="gla2-clan4-stav1-tac1-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> предавача са високим образовањем на студијама другог степена (мастер академске студије, специјалистичке струковне студије, специјалистичке академске студије), односно на основним студијама у трајању од најмање четири године који мора да докаже оспособљеност за обраду ризика амбалажирања и транспорта радиоактивног терета;</p>
+												</content>
+											</item>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> има простор опремљен радним столовима и столицама са најмање 1,5 m2 радне површине и 3 m3 запремине за сваког кандидата за Саветника, са адекватном вентилацијом и најмање 150 lx (лукса) вештачког осветљења;</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> обезбеди наставна средства:</p>
+											<item id="gla2-clan4-stav1-tac3-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> техничка средства за видео презентацију наставног садржаја,</p>
+												</content>
+											</item>
+											<item id="gla2-clan4-stav1-tac3-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> визуелна средства: шеме, фотографије, цртеже и слично,</p>
+												</content>
+											</item>
+											<item id="gla2-clan4-stav1-tac3-podtac3">
+												<num>(3)</num>
+												<content>
+													<p> важећa издањa ADR, RID, ADN и закона којим се уређује транспорт опасног терета.</p>
+												</content>
+											</item>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ОБРАЗАЦ ЛИЦЕНЦЕ</heading>
+				<content>
+					<article id="gla3-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla3-clan5-stav1">
+								<content>
+									<p>Лиценца издаје се на заштићеном обрасцу, формата А4.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan5-stav2">
+								<content>
+									<p>Изглед и садржина обрасца Лиценце из става 1. овог члана дати су у Прилогу – Лиценца за обављање стручног оспособљавања кандидата за Саветника за безбедност у транспорту опасног терета, који je одштампан уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ЗАВРШНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla4-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla4-clan6-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan6-stav2">
+								<content>
+									<p>Број 110-00-63/2012-01</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan6-stav3">
+								<content>
+									<p>У Београду, 25. маја 2012. године</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan6-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan6-stav5">
+								<content>
+									<p>Милутин Мркоњић, с.р.</p>
+								</content>
+							</clause>
+							<став id="gla4-clan6-stav6">
+								<img alt="opasni-teret.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/opasni-teret_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419610&amp;regactid=419610"/>
+								<content/>
+							</став>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

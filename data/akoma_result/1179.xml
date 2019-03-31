@@ -1,0 +1,858 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2007/11-29/main"/>
+					<FRBRuri value="/rs/act/2007/11-29"/>
+					<FRBRdate date="2007" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2017/112-113/srp@/main"/>
+					<FRBRuri value="/rs/act/2017/112-113/srp@"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2017/112-113/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2017/112-113/srp@.akn"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2007-1-30" name="службени гласник рс“" number="11" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="10. Лично име, лична карта, матични број грађана" value="10. лично име, лична карта, матични број грађана"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2007-01-22" id="usvajanje"/>
+				<step date="2007-02-07" id="stupanje_na_snagu"/>
+				<step date="2007-02-07" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="11/2007-29" id="e1" type="generation"/>
+				<eventRef date="9/2008-20" id="e2" type="amendment"/>
+				<eventRef date="85/2014-86" id="e3" type="amendment"/>
+				<eventRef date="112/2017-113" id="e4" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Одлуком Уставног суда број IУо 198/2015 („<ref id="ref25" href="/rs/act/2017/112/srp@">Службени гласник РС“, број 112/2017</ref>) престала је да важи одредба <ref>члана 11. став 3. </ref>Правилника о личној карти („<ref id="ref26" href="/rs/act/07/11/srp@">Службени гласник РС”, бр. 11/07, 9/08</ref> и 85/14) јер је утврђено да није у сагласности с Уставом и законом (види Одлуку УС – 112/2017-113).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу <ref>члана 6. став 2, </ref><ref>члана 7. став 1, </ref><ref>члана 8.   </ref>став 2, <ref>члана 10. став 7, </ref><ref>члана 14. став 2, </ref><ref>члана 15, </ref><ref>члана 17. став 2</ref>,   <ref>члана 18. став 2. </ref>и <ref>члана 25. став 3. </ref>Закона о личној карти („<ref id="ref27" href="/rs/act/06/62/srp@">Службени   гласник РС”, број 62/06</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар унутрашњих послова доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о личној карти</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 11 од 30. јануара 2007, 9   од 25. јануара 2008, 85 од 12. августа 2014, 112 од 15. децембра 2017 - УС</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОСНОВНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником прописује се образац личне карте,   заштитни елементи, образац потврде о поднетом захтеву и обрасци за вођење   евиденција о личним картама, као и начин издавања личне карте, начин узимања   биометријских података и величина фотографије, услови за издавање личне   карте у краћем року, начин поништавања личне карте и вођење евиденције о   личним картама.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>У образац личне карте може да се угради  микроконтролер (чип) само ако се са тим сагласи лице коме се издаје лична   карта и у том случају податак о пребивалишту и адреси стана лица коме се   издаје лична карта, не уписује се у образац личне карте.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav2">
+								<content>
+									<p>У микроконтролер   (чип) могу да се уписују само   подаци из <ref>члана 8. </ref>Закона о личној карти („<ref id="ref28" href="/rs/act/06/62/srp@">Службени гласник РС”,   бр. 62/06</ref>   и 36/11) – у даљем тексту: Закон.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav3">
+								<content>
+									<p>*<ref id="ref29" href="/rs/act/2014/85/srp@">Службени гласник РС, број 85/2014</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ОБРАЗАЦ ЛИЧНЕ КАРТЕ</heading>
+				<content>
+					<article id="gla2-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla2-clan3-stav1">
+								<content>
+									<p>Образац личне карте је правоугаоног облика, у виду   картице, величине 85,6 x 54 mm, израђен је у потпуности од поликарбонатног   материјала, са доминантним плавим тоновима на предњој страни обрасца.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav2">
+								<content>
+									<p>Образац личне карте је израђен у складу са стандардима ISO/IEC 7810,  и физичке карактеристике, и ISO/IEC 10373, за тестирање   физичких карактеристика, и ISO/IEC 7816-1, ISO/IEC 7816-2, ISO/IEC 7816-3 и   ISO/IEC 7816-4, који се односе на електрична кола и контакте.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav3">
+								<content>
+									<p>*<ref id="ref30" href="/rs/act/2008/9/srp@">Службени гласник РС, број 9/2008</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<heading>**<ref id="ref31" href="/rs/act/2014/85/srp@">Службени гласник РС, број 85/2014</ref></heading>
+						<content/>
+					</article>
+					<article id="gla2-clan5">
+						<num>5.</num>
+						<heading>Брисан је (види <ref>члан 2. </ref>Правилника – 9/2008-20)</heading>
+						<content>
+							<clause id="gla2-clan5-stav1">
+								<content>
+									<p>Заштитни елементи на обрасцу личне карте су:   микроштампа, OVI (оптички променљиве боје) за графички приказ у облику штита   са четири оцила бридовима окренутих ка вертикалној греди крста, guilloche   линије, iris штампа, штампа УВ бојама, УВ нити, DOVID (Дифракциони оптички   променљив елемент), у складу са дефинисаном техничком спецификацијом и   Artwork-ом одобреног од стране поручиоца и MLI зона.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan6">
+						<num>6.</num>
+						<heading>*<ref id="ref32" href="/rs/act/2014/85/srp@">Службени гласник РС, број 85/2014</ref></heading>
+						<content>
+							<clause id="gla2-clan6-stav1">
+								<content>
+									<p>Образац личне карте одштампан је уз овај правилник и   чини његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ИЗДАВАЊЕ ЛИЧНЕ КАРТЕ</heading>
+				<content>
+					<article id="gla3-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla3-clan7-stav1">
+								<content>
+									<p>Лице које по одредбама Закона има право на личну карту,   захтев за издавање личне карте подноси организационој јединици Министарства   унутрашњих послова у месту пребивалишта, односно   пријављеног или утврђеног   боравишта у Републици Србији.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan7-stav2">
+								<content>
+									<p>Лице из става 1. овог члана које живи у иностранству,   захтев за издавање личне карте може поднети и преко надлежног дипломатског   или конзуларног представништва Републике Србије које располаже одговарајућим   техничким средствима за узимање биометријских података.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan8">
+						<num>8.</num>
+						<heading>*<ref id="ref33" href="/rs/act/2014/85/srp@">Службени гласник РС, број 85/2014</ref></heading>
+						<content>
+							<clause id="gla3-clan8-stav1">
+								<content>
+									<p>Лична карта се издаје на писмени захтев који мора да   садржи читко исписане податке предвиђене у <ref>члану 13. </ref>Закона.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan8-stav2">
+								<content>
+									<p>Ако родитељи подносиоца захтева немају јединствени   матични број или је тај број непознат, у захтеву за издавање личне карте се   наводи име и презиме родитеља.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan8-stav3">
+								<content>
+									<p>У захтеву се наводи језик и писмо на коме треба   уписати називе података које садржи образац личне карте и језик и писмо на   коме треба уписати име и презиме.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan8-stav4">
+								<content>
+									<p>У захтеву се посебно наводи да ли је лице коме се   издаје лична карта сагласно да се у образац личне карте угради  микроконтролер (чип).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan9">
+						<num>9.</num>
+						<heading>*<ref id="ref34" href="/rs/act/2014/85/srp@">Службени гласник РС, број 85/2014</ref></heading>
+						<content>
+							<clause id="gla3-clan9-stav1">
+								<content>
+									<p>Подносилац захтева је дужан да потпише захтев. Ако је   подносилац захтева неписмен или из других разлога није у стању да се   потпише, потписаће га лице које он овласти, а које поред личног имена   подносиоца захтева, наводи и своје име, адресу и број личне карте.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla3-clan10-stav1">
+								<content>
+									<p>Уз захтев за издавање личне карте подносилац   захтева дужан је да стави на увид личну карту или другу исправу из које се   може утврдити његов идентитет.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan10-stav2">
+								<content>
+									<p>Ако надлежни орган, по службеној дужности, не може   да утврди чињенице о испуњености услова за издавање личне карте, приступањем   подацима у централном систему за електронску обраду и складиштење података,   односно увидом у евиденцију о држављанству, матичну књигу рођених, матичну   књигу венчаних, матичну књигу умрлих и друге евиденције које у складу са   Законом, он или друго министарство води, од подносиоца захтева ће захтевати   да му достави на увид извод из матичне књиге рођених издат у Републици   Србији, односно уверење о држављанству Републике Србије, односно друге   исправе којима доказује испуњеност услова за издавање личне карте.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan10-stav3">
+								<content>
+									<p>Уз захтев за издавање личне карте подносилац   захтева прилаже доказ о уплаћеној накнади за образац личне карте и трошкове   техничке израде личне карте.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan10-stav4">
+								<content>
+									<p>Подносилац захтева може да, уз захтев, приложи   фотографију која верно приказује његов лик, која није старија од 6 месеци и   која мора да испуњава услове прописане у <ref>члану 21. овог</ref> правилника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan11">
+						<num>11.</num>
+						<heading>*<ref id="ref35" href="/rs/act/2014/85/srp@">Службени гласник РС, број 85/2014</ref></heading>
+						<content>
+							<clause id="gla3-clan11-stav1">
+								<content>
+									<p>Приликом пријема захтева за издавање личне карте   службено лице утврђује идентитет подносиоца захтева, као и да ли захтев   садржи прописане податке, да ли је захтев потписан и да ли су уз захтев   стављени на увид и приложени прописана документа и докази, односно врши   проверу података приступањем подацима у централном систему за електронску   обраду и складиштење података и другим службеним евиденцијама.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan11-stav2">
+								<content>
+									<p>Ако се провером установи да је поднесен захтев   непотпун, односно да подносилац захтева није приложио потребне документе и   доказе, због чега се по таквом захтеву не може поступати, службено лице ће   подносиоцу захтева указати на недостатке у захтеву, остављајући му примерен   рок да их отклони.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan11-stav3">
+								<content>
+									<p>Престао је да важи ранији став 3. (види     Одлуку УС - 112/2017-113)</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan12">
+						<num>12.</num>
+						<heading>*<ref id="ref36" href="/rs/act/2014/85/srp@">Службени гласник РС, број 85/2014</ref></heading>
+						<content>
+							<clause id="gla3-clan12-stav1">
+								<content>
+									<p>Кад службено лице које прими захтев утврди да је захтев   за издавање личне карте уредан и да се по њему може поступати, на погодном   месту на захтеву ставља забелешку и својим потписом потврђује да је захтев   поднесен у складу са Законом и овим правилником.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla3-clan13-stav1">
+								<content>
+									<p>Приликом пријема захтева за издавање личне карте,   подносиоцу захтева се издаје потврда.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav2">
+								<content>
+									<p>Потврда из става 1. овог члана издаје се на обрасцу   величине 21 х 15 cm, израђеном од хартије беле боје, који је одштампан уз   овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla3-clan14-stav1">
+								<content>
+									<p>Захтев за издавање личне карте лица које нема   превибалиште, односно боравиште у Републици Србији, заједно са узетим   биометријским подацима, надлежно дипломатско или конзуларно представништво   Републике Србије ће без одлагања проследити Министарству унутрашњих послова   – Полицијској управи за град Београд, ради решавања.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan15">
+						<num>15.</num>
+						<heading>*<ref id="ref37" href="/rs/act/2008/9/srp@">Службени гласник РС, број 9/2008</ref></heading>
+						<content>
+							<clause id="gla3-clan15-stav1">
+								<content>
+									<p>Службено лице које решава о захтеву врши проверу кроз   евиденцију о личним картама, утврђује идентитет, држављанство, као и провере   других података значајних за одлучивање.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan15-stav2">
+								<content>
+									<p>Извршене провере и радње службено лице потврђује својим   потписом на захтеву за издавање личне карте.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="gla3-clan16-stav1">
+								<content>
+									<p>Кад се због лечења, болести или смрти члана породице,   неодложног службеног пута или других оправданих разлога који не трпе   одлагање затражи хитно издавање личне карте, подносилац захтева дужан је да   уз захтев приложи и доказе о разлозима за издавање личне карте у року краћем   од прописаног (лекарско уверење, телеграм о смрти члана породице, путни   налог, доказ о закључењу брака, доказ о регистрацији привредног друштва и   сл.).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="gla3-clan17-stav1">
+								<content>
+									<p>Кад се захтева издавање нове личне карте из разлога   наведеног у <ref>члану 19. став 1. тачка 2</ref>. Закона, сматра се да фотографија на   личној карти више не одговара изгледу њеног имаоца ако је лик имаоца личне   карте битно промењен као последица природних промена и промена насталих   услед физичких утицаја (хируршке интервенције, повреде и др.).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan18">
+						<num>18.</num>
+						<content/>
+					</article>
+					<article id="gla3-clan19">
+						<num>19.</num>
+						<heading>Брисан је (види <ref>члан 5. </ref>Правилника – 9/2008-20)</heading>
+						<content>
+							<clause id="gla3-clan19-stav1">
+								<content>
+									<p>Лична карта уручује се подносиоцу захтева лично, у   просторијама Министарства унутрашњих послова или преко дипломатског или   конзуларног представништва Републике Србије.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan19-stav2">
+								<content>
+									<p>Ван просторија Министарства унутрашњих послова, уручење   личне карте, као и подношење захтева за издавање личне карте могући су само   изузетно, из очигледно оправданих разлога због чега је такво поступање   неопходно (болест или старост лица, издржавање казне затвора, боравак у   посебној установи и сл.).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>УЗИМАЊЕ БИОМЕТРИЈСКИХ ПОДАТАКА</heading>
+				<content>
+					<article id="gla4-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla4-clan20-stav1">
+								<content>
+									<p>Приликом подношења захтева за издавање личне карте   узимају се следећи биометријски подаци лица коме се издаје лична карта, и   то:</p>
+									<point id="gla4-clan20-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> фотографија;</p>
+										</content>
+									</point>
+									<point id="gla4-clan20-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> отисци прстију;</p>
+										</content>
+									</point>
+									<point id="gla4-clan20-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> потпис.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav2">
+								<content>
+									<p>Под узимањем биометријских података, у смислу овог   правилника, подразумева се узимање података из става 1. овог члана помоћу   одговарајућих техничких средстава и превођење тих података у електронски   облик (у даљем тексту: узимање).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan21">
+						<num>21.</num>
+						<heading>*<ref id="ref38" href="/rs/act/2008/9/srp@">Службени гласник РС, број 9/2008</ref></heading>
+						<content>
+							<clause id="gla4-clan21-stav1">
+								<content>
+									<p>Узимање фотографије се врши дигиталном камером или   скенирањем фотографије приложене уз захтев.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan21-stav2">
+								<content>
+									<p>Фотографија из става 1. овог члана мора да испуњава   следеће услове, и то:</p>
+									<point id="gla4-clan21-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> да има величину 50x50 mm;</p>
+										</content>
+									</point>
+									<point id="gla4-clan21-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> 70–80% фотографије заузима лице;</p>
+										</content>
+									</point>
+									<point id="gla4-clan21-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> да је оштра и јасна, високог квалитета, без мрља и   огреботина;</p>
+										</content>
+									</point>
+									<point id="gla4-clan21-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> лице да гледа директно у камеру, да се јасно виде   обе ивице лица, без осмеха и гримаса, са затвореним устима;</p>
+										</content>
+									</point>
+									<point id="gla4-clan21-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> да приказује природну боју коже;</p>
+										</content>
+									</point>
+									<point id="gla4-clan21-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> очи отворене и јасно видљиве (без косе преко очију);</p>
+										</content>
+									</point>
+									<point id="gla4-clan21-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> једнобојна сива позадина;</p>
+										</content>
+									</point>
+									<point id="gla4-clan21-stav2-tac8">
+										<num>8)</num>
+										<content>
+											<p> за лице са наочарима: очи јасно видљиве, да рам не   заклања било који део ока, без рефлексије;</p>
+										</content>
+									</point>
+									<point id="gla4-clan21-stav2-tac9">
+										<num>9)</num>
+										<content>
+											<p> на фотографији не смеју да се виде друге особе,   делови намештаја или други предмети.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan22">
+						<num>22.</num>
+						<content>
+							<clause id="gla4-clan22-stav1">
+								<content>
+									<p>Узимање отиска прста се врши скенером за отиске и   подразумева узимање отиска левог и десног кажипрста, на додир   и ваљањем   прста у једном правцу од једне до друге ивице нокта.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan22-stav2">
+								<content>
+									<p>Ако лице нема кажипрст, узима се отисак наредног прста   и то овим редоследом: палац, средњи прст, домали, мали.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan22-stav3">
+								<content>
+									<p>На захтеву за издавање личне карте, на погодном месту,   службено лице уписује податак са којих прстију су узети отисци, односно да   узимање отиска није доступно, што својим потписом потврђује.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan23">
+						<num>23.</num>
+						<heading>*<ref id="ref39" href="/rs/act/2008/9/srp@">Службени гласник РС, број 9/2008</ref></heading>
+						<content>
+							<clause id="gla4-clan23-stav1">
+								<content>
+									<p>Изузетно, ако узимање отисака прстију скенером из било   ког разлога није могуће или ако тако узети отисци не могу послужити   биометријској обради, отисци се узимају на класичан начин, механичким   отиском на картону. Овако узети отисак се скенира.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan23-stav2">
+								<content>
+									<p>У случају из става 1. овог члана на захтеву за издавање   личне карте уписује се напомена да је отисак узет на класичан начин.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan24">
+						<num>24.</num>
+						<content>
+							<clause id="gla4-clan24-stav1">
+								<content>
+									<p>Ако лице нема прсте, на обрасцу личне карте се на месту   за слику отиска прста уписује ознака НД (није доступно).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan25">
+						<num>25.</num>
+						<content>
+							<clause id="gla4-clan25-stav1">
+								<content>
+									<p>Узимање потписа се врши помоћу табле за дигитализацију   потписа. Узети потпис мора бити читко исписан.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan25-stav2">
+								<content>
+									<p>Ако је лице неписмено или из других објективних разлога   узимање потписа није могуће, на обрасцу личне карте место за потпис остаје   празно.</p>
+								</content>
+							</clause>
+							<article id="gla4-clan25.а">
+								<num>25а</num>
+								<heading>*<ref id="ref40" href="/rs/act/2014/85/srp@">Службени гласник РС, број 85/2014</ref></heading>
+								<content>
+									<clause id="gla4-clan25.а-stav1">
+										<content>
+											<p>Име и презиме на обрасцу личне карте може се   уписати и то са 36 карактера за презиме, односно 30 карактера за име.</p>
+										</content>
+									</clause>
+									<clause id="gla4-clan25.а-stav2">
+										<content>
+											<p>Име и презиме припадника националних мањина, које   се исписује у складу са чланом 9. став 3. Закона, уписује се паралелно на   језику и писму националне мањине и на српском језику и правопису и   ћириличком писму, а име и презиме подносиоца који захтева да му се лични   подаци о имену и презимену испишу и латиничким писмом уписује се на српском   језику ћириличким и латиничним писмом – ако презиме није дуже од 16, а име   од 13 карактера.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla4-clan25.б">
+								<num>25б</num>
+								<heading>*<ref id="ref41" href="/rs/act/2014/85/srp@">Службени гласник РС, број 85/2014</ref></heading>
+								<content>
+									<clause id="gla4-clan25.б-stav1">
+										<content>
+											<p>Уписивање података о држави рођења, месту и   општини рођења и пребивалишту и адреси стана, врши се по номенклатури, на   начин и у складу са законом који уређује територијалну организацију.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla4-clan25.ц">
+								<num>25ц</num>
+								<heading>*<ref id="ref42" href="/rs/act/2014/85/srp@">Службени гласник РС, број 85/2014</ref></heading>
+								<content>
+									<clause id="gla4-clan25.ц-stav1">
+										<content>
+											<p>Држављанима који имају право на личну карту, а   немају правни основ за пријаву пребивалишта на територији Републике Србије,   лична карта издаје се на основу утврђеног боравишта са роком важења од две   године, уз претходно одређивање јединственог матичног броја грађана.</p>
+										</content>
+									</clause>
+									<clause id="gla4-clan25.ц-stav2">
+										<content>
+											<p>*<ref id="ref43" href="/rs/act/2014/85/srp@">Службени гласник РС, број 85/2014</ref></p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>ПОНИШТАВАЊЕ ЛИЧНЕ КАРТЕ</heading>
+				<content>
+					<article id="gla5-clan26">
+						<num>26.</num>
+						<content>
+							<clause id="gla5-clan26-stav1">
+								<content>
+									<p>Приликом уручења личне карте врши се поништавање раније   издате личне карте.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan26-stav2">
+								<content>
+									<p>Поништавање личне карте врши се тако што се лична карта   перфорира у присуству странке.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan26-stav3">
+								<content>
+									<p>Поништена лична карта уписује се у одговарајућу   евиденцију и одмах поништава у електронском облику. У случају поништавања   личне карте са микроконтролером (чипом), поништавају се и сертификати који   се налазе у микроконтролеру (чипу).</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan26-stav4">
+								<content>
+									<p>Приликом издавања личне карте претходна се   поништава и враћа имаоцу.</p>
+								</content>
+							</clause>
+							<article id="gla5-clan26.а">
+								<num>26а</num>
+								<heading>*<ref id="ref44" href="/rs/act/2014/85/srp@">Службени гласник РС, број 85/2014</ref></heading>
+								<content>
+									<clause id="gla5-clan26.а-stav1">
+										<content>
+											<p>Приликом одјаве пребивалишта грађанина ради   исељења из Републике Србије у иностранство, поништава се лична карта и враћа   њеном имаоцу.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</article>
+					<article id="gla5-clan27">
+						<num>27.</num>
+						<heading>*<ref id="ref45" href="/rs/act/2014/85/srp@">Службени гласник РС, број 85/2014</ref></heading>
+						<content>
+							<clause id="gla5-clan27-stav1">
+								<content>
+									<p>На поништавање личне карте у случају из <ref>члана 20. </ref>став   3. Закона сходно се примењују одредбе <ref>члана 26. овог</ref> правилника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>ЕВИДЕНЦИЈА О ЛИЧНИМ КАРТАМА И ОБРАСЦИ ЗА ВОЂЕЊЕ ТЕ   ЕВИДЕНЦИЈЕ</heading>
+				<content>
+					<article id="gla6-clan28">
+						<num>28.</num>
+						<content>
+							<clause id="gla6-clan28-stav1">
+								<content>
+									<p>Евиденцију о личним картама, у складу са Законом, води   Министарство унутрашњих послова.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan29">
+						<num>29.</num>
+						<content>
+							<clause id="gla6-clan29-stav1">
+								<content>
+									<p>Евиденција о личним картама води се на средствима за   аутоматску обраду података.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan30">
+						<num>30.</num>
+						<content>
+							<clause id="gla6-clan30-stav1">
+								<content>
+									<p>Евиденција о личним картама састоји се од:</p>
+									<point id="gla6-clan30-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> Регистра о издатим личним картама;</p>
+										</content>
+									</point>
+									<point id="gla6-clan30-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> Регистра о поднетим захтевима за издавање личне   карте;</p>
+										</content>
+									</point>
+									<point id="gla6-clan30-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> Регистра о личним картама које су поништене;</p>
+										</content>
+									</point>
+									<point id="gla6-clan30-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> Регистра о личним картама које су проглашене   неважећим.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla6-clan30-stav2">
+								<content>
+									<p>Регистри из става 1. овог члана воде се на обрасцима   1–4, који су одштампани уз овај правилник и чине његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan31">
+						<num>31.</num>
+						<content>
+							<clause id="gla6-clan31-stav1">
+								<content>
+									<p>Упоредо са регистром, о издатим личним картама води се   и картотека.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan31-stav2">
+								<content>
+									<p>Картотека из става 1. овог члана, која се састоји од   скенираних слика захтева за издавање личне карте, са приложеном   документацијом, води се тако да за сваку издату личну карту постоји картон у   електронском облику.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan31-stav3">
+								<content>
+									<p>На картон, у који се уносе подаци о подносиоцу захтева   из <ref>члана 13. </ref>Закона и слике његових биометријских података, уноси се име и   презиме родитеља, ако њихов јединствени матични број није познат, податак о   серијском и регистарском броју издате личне карте, року важења и датуму   њеног издавања.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan31-stav4">
+								<content>
+									<p>Картон садржи и потпис службеног лица које је решавало   о захтеву за издавање личне карте, датум уручења личне карте и потпис лица   коме је лична карта уручена, односно забелешку службеног лица да је лична   карта уручена преко дипломатског или конзуларног представништва Републике   Србије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan32">
+						<num>32.</num>
+						<content>
+							<clause id="gla6-clan32-stav1">
+								<content>
+									<p>Подаци који се воде у регистрима из <ref>члана 30. овог</ref>   правилника и картони издатих личних карата који се воде у електронском   облику чувају се трајно.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan33">
+						<num>33.</num>
+						<content>
+							<clause id="gla6-clan33-stav1">
+								<content>
+									<p>У картотеци издатих личних карата Министарство   унутрашњих послова ће пасивизирати сваку личну карту чим утврди да је имаоцу   личне карте престало држављанство Републике Србије.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan33-stav2">
+								<content>
+									<p>На начин из става 1. овог члана поступиће се и у односу   на личне карте издате лицима из <ref>члана 32. </ref>Закона, одмах по истеку рока   важења личне карте.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan34">
+						<num>34.</num>
+						<content>
+							<clause id="gla6-clan34-stav1">
+								<content>
+									<p>Сагласно <ref>члану 31. </ref>Закона, саставни део евиденције о   личним картама која се води по одредбама овог правилника је евиденција   личних карата која је вођена у складу са Правилником о обрасцу, поступку   издавања и начину вођења евиденције личне карте („<ref id="ref46" href="/rs/act/74/47/srp@">Службени гласник СРС”,   број 47/74</ref>).</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan34-stav2">
+								<content>
+									<p>Упис и промене података у евиденцији личних карата из   става 1. овог члана врше се према правилима на основу којих је та евиденција   вођена до ступања на снагу овог правилника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla7">
+				<num>VII</num>
+				<heading>ПРЕЛАЗНЕ И ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla7-clan35">
+						<num>35.</num>
+						<content>
+							<clause id="gla7-clan35-stav1">
+								<content>
+									<p>Одредбе овог правилника односе се и на издавање личне   карте лицима из <ref>члана 32. </ref>Закона.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan35-stav2">
+								<content>
+									<p>Рок важења личне карте која се издаје лицима из става   1. овог члана не може бити дужи од рока прописаног у <ref>члану 32. </ref>Закона.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan36">
+						<num>36.</num>
+						<content>
+							<clause id="gla7-clan36-stav1">
+								<content>
+									<p>Док се не стекну техничке и друге могућности за   издавање личне карте према овом правилнику може се издавати лична карта   према раније важећим подзаконским прописима, с тим да рок њеног важења не   може бити дужи од рока утврђеног чланом 31. Закона.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan37">
+						<num>37.</num>
+						<content>
+							<clause id="gla7-clan37-stav1">
+								<content>
+									<p>Даном ступања на снагу овог правилника престаје да важи   Правилник о обрасцу, поступку издавања и начину вођења евиденције личне   карте („<ref id="ref47" href="/rs/act/74/47/srp@">Службени гласник СРС”, број 47/74</ref>).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan38">
+						<num>38.</num>
+						<content>
+							<clause id="gla7-clan38-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана   објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan38-stav2">
+								<content>
+									<p>01 број 13095/2006-3</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan38-stav3">
+								<content>
+									<p>У Београду, 22. јануара 2007. године</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan38-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan38-stav5">
+								<content>
+									<p>Драган Јочић, с.р</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan38-stav6">
+								<content>
+									<p>ОДРЕДБЕ КОЈЕ НИСУ УНЕТЕ У “ПРЕЧИШЋЕН ТЕКСТ” ПРАВИЛНИКА</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan8">
+						<num>8.</num>
+						<heading>Правилник о изменама и допунама Правилника о личној   карти: „<ref id="ref48" href="/rs/act/2008/9/srp@">Службени гласник РС“, број 9/2008</ref>-20</heading>
+						<content>
+							<clause id="gla7-clan8-stav1">
+								<content>
+									<p>Образац личне карте који је одштампан уз Правилник о   личној карти замењује се обрасцем личне карте који је одштампан уз овај   правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla7-clan9-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу наредног дана од дана   објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan9-stav2">
+								<content>
+									<p>Прилози</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan9-stav3">
+								<content>
+									<p>НАПОМЕНА ИЗДАВАЧА: Правилником о изменама и допунама Правилника о   личној карти (&quot;<ref id="ref49" href="/rs/act/2008/9/srp@">Службени гласник РС&quot;, број 9/2008</ref>) Образац личне карте   замењен је новим Обрасцем (види <ref>члан 8. </ref>Правилника - 9/2008-20)</p>
+								</content>
+							</clause>
+							<став id="gla7-clan9-stav4">
+								<img src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/imgF.jpg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=424490&amp;regactid=424490"/>
+								<content/>
+							</став>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

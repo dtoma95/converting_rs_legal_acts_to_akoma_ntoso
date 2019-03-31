@@ -1,0 +1,1312 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1977/3-52/main"/>
+					<FRBRuri value="/rs/act/1977/3-52"/>
+					<FRBRdate date="1977" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1977/3-52/srp@/main"/>
+					<FRBRuri value="/rs/act/1977/3-52/srp@"/>
+					<FRBRdate date="1977" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1977/3-52/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1977/3-52/srp@.akn"/>
+					<FRBRdate date="1977" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1977-1-22" name="службени гласник срс" number="3" showAs="Службени гласник СРС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Упутство" value="упутство"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="1. Земљиште" value="1. земљиште"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1977-01-07" id="usvajanje"/>
+				<step date="1977-01-30" id="stupanje_na_snagu"/>
+				<step date="1977-01-30" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 62. </ref>Закона о арондацији и комасацији пољопривредног и шумског земљишта („<ref id="ref3" href="/rs/act/74/47/srp@">Службени гласник СРС“, број 47/74</ref>), Републичка геодетска управа, доноси</p>
+		</preamble>
+		<preface>
+			<authority>УПУТСТВО</authority>
+			<title>О НАЧИНУ ВРШЕЊА ГЕОДЕТСКО-ТЕХНИЧКИХ РАДОВА И УТВРЂИВАЊУ ВРЕДНОСТИ ЗЕМЉИШТА У ПОСТУПКУ КОМАСАЦИЈЕ</title>
+			<date>„Службени гласник СРС”, број 3 од 22. јануара 1977.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим упутством се прописује начин састављања исказа земљишта, књиге фонда комасационе масе, утврђивање вредности земљишта, вршење геодетско-техничких радова и вршење надзора над тим радовима и проценом земљишта.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>САСТАВЉАЊЕ ИСКАЗА ЗЕМЉИШТА</heading>
+				<content>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Исказ земљишта за сваког учесника комасације саставља се на основу утврђеног фактичког стања и података из књиге фонда комасационе масе.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav2">
+								<content>
+									<p>За утврђивање фактичког стања из става 1. овог члана користе се:</p>
+									<тачка id="gla1-clan2-stav2-tac1">
+										<num>1.</num>
+										<content>
+											<p> поседовни листови,</p>
+										</content>
+									</тачка>
+									<тачка id="gla1-clan2-stav2-tac2">
+										<num>2.</num>
+										<content>
+											<p> преписи земљишно-књижних уложака (пописи поседа),</p>
+										</content>
+									</тачка>
+									<тачка id="gla1-clan2-stav2-tac3">
+										<num>3.</num>
+										<content>
+											<p> списак парцела,</p>
+										</content>
+									</тачка>
+									<тачка id="gla1-clan2-stav2-tac4">
+										<num>4.</num>
+										<content>
+											<p> списак кућа,</p>
+										</content>
+									</тачка>
+									<тачка id="gla1-clan2-stav2-tac5">
+										<num>5.</num>
+										<content>
+											<p> азбучни преглед поседника,</p>
+										</content>
+									</тачка>
+									<тачка id="gla1-clan2-stav2-tac6">
+										<num>6.</num>
+										<content>
+											<p> елаборати: аграрне реформе и колонизације, арондације и др.</p>
+										</content>
+									</тачка>
+									<тачка id="gla1-clan2-stav2-tac7">
+										<num>7.</num>
+										<content>
+											<p> геодетски планови на којима су провођене промене (радни оригинали општинских геодетских управа).</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav3">
+								<content>
+									<p>Поред доказа и података из става 2. овог члана за утврђивање фактичког стања користе се и други подаци о насталим променама који се добијају од учесника комасације.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav4">
+								<content>
+									<p>Докази и подаци из ст. 1–3. овог члана достављају се комасационој комисији.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav5">
+								<content>
+									<p>У поступку утврђивања фактичког стања промене које се не могу евидентирати на плановима снимају се по важећим прописима.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav6">
+								<content>
+									<p>Све промене установљене приликом утврђивања фактичког стања проводе се на плановима, поседовним листовима и списку парцела и уносе се у списак промена.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav7">
+								<content>
+									<p>Утврђени подаци о фактичком стању исказују се на начин који омогућује аутоматску обраду података.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>За сваког учесника комасације израђује се исказ земљишта који нарочито садржи:</p>
+									<тачка id="gla1-clan3-stav1-tac1">
+										<num>1.</num>
+										<content>
+											<p> број исказа,</p>
+										</content>
+									</тачка>
+									<тачка id="gla1-clan3-stav1-tac2">
+										<num>2.</num>
+										<content>
+											<p> број записника о утврђивању фактичког стања,</p>
+										</content>
+									</тачка>
+									<тачка id="gla1-clan3-stav1-tac3">
+										<num>3.</num>
+										<content>
+											<p> индикације учесника комасације,</p>
+										</content>
+									</тачка>
+									<тачка id="gla1-clan3-stav1-tac4">
+										<num>4.</num>
+										<content>
+											<p> терете и умањења (одбитке) за јавне потребе,</p>
+										</content>
+									</тачка>
+									<тачка id="gla1-clan3-stav1-tac5">
+										<num>5.</num>
+										<content>
+											<p> изјава учесника о груписању и додели земљишта из комасационе масе,</p>
+										</content>
+									</тачка>
+									<тачка id="gla1-clan3-stav1-tac6">
+										<num>6.</num>
+										<content>
+											<p> податке о парцелама које су обухваћене комасацијом (број парцеле, звано место, потес, површина, култура, проценбене класе и вредности),</p>
+										</content>
+									</тачка>
+									<тачка id="gla1-clan3-stav1-tac7">
+										<num>7.</num>
+										<content>
+											<p> податке о земљишту које учесник добија из комасационе масе (број парцеле, број табле, потес, површина, проценбене класе и вредности),</p>
+										</content>
+									</тачка>
+									<тачка id="gla1-clan3-stav1-tac8">
+										<num>8.</num>
+										<content>
+											<p> податке о парцелама које нису обухваћене комасацијом, који се уписују у новом стању,</p>
+										</content>
+									</тачка>
+									<тачка id="gla1-clan3-stav1-tac9">
+										<num>9.</num>
+										<content>
+											<p> збирне податке тач. 6–8 овог става.</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla1-clan4-stav1">
+								<content>
+									<p>За сваку катастарску општину искази земљишта нумеришу се бројевима одговарајућег записника о утврђивању фактичког стања или се слажу по азбучном реду учесника комасације и нумеришу од 1 па даље.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla1-clan5-stav1">
+								<content>
+									<p>У исказу земљишта врши се сабирање вредности и површина по проценбеним разредима појединих парцела и добија се вредност коју учесник комасације уноси у комасациону масу.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla1-clan6-stav1">
+								<content>
+									<p>Сви искази земљишта од броја 1 са збирним подацима о површинама и вредностима по проценбеним разредима уписују се у сумарник исказа који се води за сваку катастарску општину.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan6-stav2">
+								<content>
+									<p>У сумарнику исказа земљишта врши се контрола уписивања података из књиге фонда комасационе масе и образовања вредности коју учесник комасације уноси у комасациону масу.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla1-clan7-stav1">
+								<content>
+									<p>Свака усвојена промена података из <ref>члана 3. овог</ref> упутства, после обављене јавне расправе, спроводи се у исказу земљишта.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan7-stav2">
+								<content>
+									<p>Искази земљишта у којима је спроведена промена површина и вредности земљишта посебно се евидентирају у списку промењених исказа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>САСТАВЉАЊЕ КЊИГЕ ФОНДА КОМАСАЦИОНЕ МАСЕ</heading>
+				<content>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>Књига фонда комасационе масе саставља се за сваку катастарску општину на основу списка парцела у коме су претходно проведене промене установљене приликом утврђивања фактичког стања.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav2">
+								<content>
+									<p>За парцеле које не улазе у комасационо подручје израђује се посебан списак парцела.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav3">
+								<content>
+									<p>Површина парцела обухваћених комасацијом и парцела које не улазе у комасационо подручје мора дати укупну површину по катастарским општинама пре комасације.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>У књизи фонда комасационе масе врши се рачунање површина делова парцела у различитим проценбеним разредима.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav2">
+								<content>
+									<p>Изравнање површина различитих проценбених разреда врши се на површину парцеле. Дозвољено одступање је 2,0 Ц Р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla2-clan10-stav1">
+								<content>
+									<p>У књизи фонда комасационе масе рачуна се и уписује вредност појединих парцела, као и укупна површина и вредност земљишта комасационог подручја (Vu).</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav2">
+								<content>
+									<p>Вредност појединих парцела добија се множењем површина парцела са одговарајућим обрачунским коефицијентом.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav3">
+								<content>
+									<p>Укупна површина и вредност земљишта (Vu) комасационог подручја добија се рекапитулацијом страна књиге фонда комасационе масе а контрола рачунања вредности врши се по странама.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla2-clan11-stav1">
+								<content>
+									<p>Утврђивање комасационе масе катастарске општине код које је извршена промена границе врши се отписом и приписом вредности у књизи фонда комасационе масе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla2-clan12-stav1">
+								<content>
+									<p>Подаци о парцелама из књиге фонда комасационе масе уносе се у исказ земљишта.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>УТВРЂИВАЊЕ ВРЕДНОСТИ ЗЕМЉИШТА</heading>
+				<content>
+					<article id="gla3-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla3-clan13-stav1">
+								<content>
+									<p>Вредност земљишта утврђује се оријентационом и детаљном проценом земљишта.</p>
+									<тачка id="gla3-clan13-stav1-tac1">
+										<num>1.</num>
+										<content>
+											<p> Оријентациона процена</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla3-clan14-stav1">
+								<content>
+									<p>Оријентационом проценом земљишта утврђује се број проценбених разреда и њихов међусобни однос.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan14-stav2">
+								<content>
+									<p>Разврставање појединих земљишта у проценбене разреде врши се према: бонитету земљишта, климатским и економским чиниоцима.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan14-stav3">
+								<content>
+									<p>Бонитет земљишта утврђује се према: дубини, текстури, геолошкој подлози, структури, процесу, дубини хумусног хоризонта, проценту хумуса, подземној води, дренираности, рељефу, нагибу, ерозији, забарености, плавности, заслањености и експозицији.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan14-stav4">
+								<content>
+									<p>Климатски елементи који су од утицаја на бонитет земљишта јесу: средња годишња температура ваздуха, средње годишње количине падавина, количине падавина у вегетационом периоду, релативна влажност ваздуха и индекс суше за период јуни-август.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan14-stav5">
+								<content>
+									<p>Економски чиниоци који се узимају у обзир приликом процене земљишта јесу: прометна вредности земљишта и удаљеност од насеља.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan14-stav6">
+								<content>
+									<p>Подаци о бонитету земљишта, климатским елементима и економским чиниоцима уносе се у записник о оријентационој процени земљишта.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla3-clan15-stav1">
+								<content>
+									<p>На комасационом подручју врши се рекогносцирање у циљу одабирања места педолошких профила који карактеришу поједине врсте земљишта.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan15-stav2">
+								<content>
+									<p>За сваки установљени проценбени разред врши се избор и опис угледних земљишта, која служе за утврђивање вредности путем просечних приноса најзаступљенијих усева и прометне вредности земљишта.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="gla3-clan16-stav1">
+								<content>
+									<p>У поступку утврђивања просечних приноса за најзаступљеније усеве (пшеница, кукуруз, луцерка, шећерна репа, сунцокрет и др.), користе се званични статистички подаци и одговарајуће оцене о просечним приносима.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="gla3-clan17-stav1">
+								<content>
+									<p>Вредност земљишта по проценбеним разредима утврђује се на основу просечних приноса најзаступљенијих усева и прометне вредности земљишта.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan17-stav2">
+								<content>
+									<p>Просечни приноси првог проценбеног разреда узимају се као фактор за упоређење и означавају се са: 1,00 док се приноси осталих проценбених разреда стављају у релативан однос према првом проценбеном разреду. На овај начин се утврђују међусобни односи између установљених проценбених разреда и добија вредност земљишта путем приноса.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan17-stav3">
+								<content>
+									<p>На исти начин утврђује се и прометна вредност земљишта по установљеним проценбеним разредима.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan17-stav4">
+								<content>
+									<p>На основу вредности која се добија путем приноса и прометне вредности врши се израчунавање коефицијената за обрачун по проценбеним разредима.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="gla3-clan18-stav1">
+								<content>
+									<p>У поступку спровођења оријентационе процене води се записник у који се уносе следећи подаци:</p>
+									<alinea id="gla3-clan18-stav1-ali1">
+										<content>
+											<p>пис комасационог подручја,</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan18-stav1-ali2">
+										<content>
+											<p>арактеристике појединих земљишта утврђених на основу критеријума процене,</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan18-stav1-ali3">
+										<content>
+											<p>пис угледних земљишта,</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan18-stav1-ali4">
+										<content>
+											<p>ишљење чланова комисије – учесника комасације у погледу просечних приноса за најзаступљеније усеве и прометне вредности земљишта,</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan18-stav1-ali5">
+										<content>
+											<p>рој установљених проценбених разреда и вредности утврђене путем приноса и прометне вредности и њиховог међусобног односа,</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan18-stav1-ali6">
+										<content>
+											<p>оефицијенти за обрачун односно скала вредности земљишта по проценбеним разредима и њихов међусобни однос.</p>
+										</content>
+									</alinea>
+									<тачка id="gla3-clan18-stav1-tac2">
+										<num>2.</num>
+										<content>
+											<p> Детаљна процена</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="gla3-clan19-stav1">
+								<content>
+									<p>Детаљном проценом врши се разврставање појединих земљишта у установљене проценбене разреде.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan19-stav2">
+								<content>
+									<p>Разграничавање и обележавање граница проценбених разреда као и снимање и регистровање ових граница врши се на лицу места.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla3-clan20-stav1">
+								<content>
+									<p>Прегледни план старог стања садржи: парцеле са уписаним бројевима, потесе, називе суседних катастарских општина и проценбене разреде обојене одговарајућим бојама.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan20-stav2">
+								<content>
+									<p>Прегледни план старог стања израђује се у размери: 1:10.000 или 1:5.000 или 1:2.500.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan20-stav3">
+								<content>
+									<p>Прегледни план старог стања, на који се после процене земљишта уцртавају проценбени разреди, излаже се на јавни увид.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan21">
+						<num>21.</num>
+						<content>
+							<clause id="gla3-clan21-stav1">
+								<content>
+									<p>Снимање граница проценбених разреда врши се фотограметријски, ортогонално, поларно или умерањем.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan21-stav2">
+								<content>
+									<p>Границе проценбених разреда исцртавају се на скицама детаља, фотоскицама и контакт копијама зеленим тушем (дебљине линије 0,2 mm) а бројеви проценбених разреда исписују арапским бројевима зеленим тушем.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan22">
+						<num>22.</num>
+						<content>
+							<clause id="gla3-clan22-stav1">
+								<content>
+									<p>Картирање граница проценбених разреда врши се на радним оригиналима.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan22-stav2">
+								<content>
+									<p>Линије граница проценбених разреда исцртавају се зеленим тушем (дебљина линије 0,1–0,2 mm) а бројеви проценбених разреда исписују у величини од 2 mm.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan22-stav3">
+								<content>
+									<p>У случају да радни оригинали нису израђени у Гаус-Кригеровој пројекцији, трба извршити трансфромацију темена нових листова у систем у коме су израђени радни оригинали.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>НАЧИН ВРШЕЊА ГЕОДЕТСКО-ТЕХНИЧКИХ РАДОВА</heading>
+				<content>
+					<тачка id="gla4-clan22-tac1">
+						<num>1.</num>
+						<content>
+							<p> Пројекат путне мреже</p>
+						</content>
+					</тачка>
+					<article id="gla4-clan23">
+						<num>23.</num>
+						<content>
+							<clause id="gla4-clan23-stav1">
+								<content>
+									<p>Израда пројекта путне мреже у поступку комасације врши се на основу пројекта каналске мреже и прикупљених података о начину коришћења земљишта, величине и обима табли, ширине пољских путева, локације земљишта у друштвеној својини и земљишта за заједничке потребе и других елемената од којих зависи интензивно коришћење земљишта.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan24">
+						<num>24.</num>
+						<content>
+							<clause id="gla4-clan24-stav1">
+								<content>
+									<p>На основу пројекта путне и каналске мреже израђује се прегледни план у размери: 1:2.500 или 1:5.000 или 1:10.000 који садржи: бројеве табли, локације друштвене својине и остале површине за заједничке потребе као и границе проценбених разреда које су обојене одговарајућим бојама.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan24-stav2">
+								<content>
+									<p>Овај прегледни план служи за упознавање учесника комасације са новим стањем, правцем наделе као и за оријентацију приликом јавне расправе са учесницима комасације.</p>
+									<тачка id="gla4-clan24-stav2-tac2">
+										<num>2.</num>
+										<content>
+											<p> Геодетска основа</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan25">
+						<num>25.</num>
+						<content>
+							<clause id="gla4-clan25-stav1">
+								<content>
+									<p>Геодетску основу комасационих радова чини постојећа тригонометријска, нивелманска и полигонометријска мрежа.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan25-stav2">
+								<content>
+									<p>За пренос пројекта путне и каналске мреже, одржавање премера и других техничких радова развија се полигонометријска и нивелманска мрежа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan26">
+						<num>26.</num>
+						<content>
+							<clause id="gla4-clan26-stav1">
+								<content>
+									<p>Пројекат полигонометријске мреже израђује се после усвајања пројекта путне и каналске мреже.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan26-stav2">
+								<content>
+									<p>При изради пројекта полигонометријске мреже влакови се развијају дуж новопројектованих путева и канала.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan26-stav3">
+								<content>
+									<p>Пре израде пројекта путне и каналске мреже, на делу катастарске општине где се изводе комасациони радови, развијају се неопходни влакови у складу са пројектом полигонометријске мреже за целу катастарску општину у којој се врши обнова премера.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan27">
+						<num>27.</num>
+						<content>
+							<clause id="gla4-clan27-stav1">
+								<content>
+									<p>Стабилизација, нумерисање полигонометријских тачака, мерење хоризонталних и вертикалних углова и полигонометријских страна као и пројектовање, стабилизација, нумерисање репера нивелманске мреже, нивелање и обрада ових мерења врши се по прописима о премеру и катастру земљишта.</p>
+									<тачка id="gla4-clan27-stav1-tac3">
+										<num>3.</num>
+										<content>
+											<p> Пројекат новог стања</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan28">
+						<num>28.</num>
+						<content>
+							<clause id="gla4-clan28-stav1">
+								<content>
+									<p>После усвајања прегледног плана врши се:</p>
+									<alinea id="gla4-clan28-stav1-ali1">
+										<content>
+											<p>етаљна разрада путне и каналске мреже (нумерисање тачака темена и прелома табли, путева и канала, израда плана рачунања координата тачака),</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan28-stav1-ali2">
+										<content>
+											<p>ачунање координата темена и прелома путне и каналске мреже,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan28-stav1-ali3">
+										<content>
+											<p>ачунање координата граничних тачака комасационог подручја, грађевинског реона, сталних објеката (пут, канал, железничка пруга и др.),</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan28-stav1-ali4">
+										<content>
+											<p>спитивања бројева тачака темена и прелома на прегледном плану виолет тушем,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan28-stav1-ali5">
+										<content>
+											<p>зрада списка координата темена и прелома путне и каналске мреже,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan28-stav1-ali6">
+										<content>
+											<p>одела катастарске општине на листове детаља,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan28-stav1-ali7">
+										<content>
+											<p>бразовање нових листова детаља за комасационо подручје ако се врши комасација на делу катастарске општине,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan28-stav1-ali8">
+										<content>
+											<p>артирање на новим плановима: граница катастарских општина, грађевинског реона, комасационог подручја, нове путне и каналске мреже, сталних објеката и култура,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan28-stav1-ali9">
+										<content>
+											<p>артирање или преношење граница проценбених разреда које се исцртавају зеленим тушем (дебљина линије 0,15 mm), и исписивање бројева проценбених разреда зеленим тушем арапским бројевима (величина бројева 2 mm),</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan28-stav1-ali10">
+										<content>
+											<p>сцртавање граничних линија путне и каналске мреже на новим плановима у оловци.</p>
+										</content>
+									</alinea>
+									<тачка id="gla4-clan28-stav1-tac4">
+										<num>4.</num>
+										<content>
+											<p> Рачунање површина табли и објеката новог стања</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan29">
+						<num>29.</num>
+						<content>
+							<clause id="gla4-clan29-stav1">
+								<content>
+									<p>Рачунање површине комасационог подручја врши се из координата граничних тачака рачунањем површина ивичних листова који образују комасационо подручје.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan29-stav2">
+								<content>
+									<p>Уколико комасационо подручје обухвата више катастарских општина или делова катастарских општина рачунају се површине за сваку катастарску општину посебно.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan29-stav3">
+								<content>
+									<p>Површина табли, путева и канала рачуна се из координата граничних тачака а контрола рачунања површина врши се у оквиру комасационог подручја.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan29-stav4">
+								<content>
+									<p>По извршеном рачунању израђује се списак површина табли и објеката.</p>
+									<тачка id="gla4-clan29-stav4-tac5">
+										<num>5.</num>
+										<content>
+											<p> Рачунање вредности новог стања</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan30">
+						<num>30.</num>
+						<content>
+							<clause id="gla4-clan30-stav1">
+								<content>
+									<p>Ради одређивања вредности табли рачунају се површине по проценбеним разредима.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan30-stav2">
+								<content>
+									<p>Разлике између збира површина проценбених разреда и површине табле срачунате из координата не смеју да пређу 1,5 Ц Р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan31">
+						<num>31.</num>
+						<content>
+							<clause id="gla4-clan31-stav1">
+								<content>
+									<p>Вредност табли добија се множењем површина по проценбеним разредима са одговарајућим коефицијентом за обрачун. Збир вредности табли даје вредност комасационе масе новог стања (Vn).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan32">
+						<num>32.</num>
+						<content>
+							<clause id="gla4-clan32-stav1">
+								<content>
+									<p>Ради обезбеђења површина за јавне потребе рачуна се коефицијент умањен у књизи фонда комасационе масе по формули:</p>
+								</content>
+							</clause>
+							<став id="gla4-clan32-stav2">
+								<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width: 7.0625rem;" width="113">
+									
+    
+									<tbody>
+										
+        
+										<tr style="height: 0.5625rem;">
+											
+            
+											<td rowspan="2" style="width: 42%; padding: 0.125rem; height: 0.5625rem;" width="42%">
+												
+            
+												<p>К = </p>
+												
+            
+											</td>
+											
+            
+											<td style="width: 58%; padding: 0.125rem; height: 0.5625rem;" valign="top" width="58%">
+												
+            
+												<p>Vu–Vn</p>
+												
+            
+											</td>
+											
+        
+										</tr>
+										
+        
+										<tr style="height: 0.5625rem;">
+											
+            
+											<td style="width: 58%; border-right: medium none; border-width: 0.0833333333333333rem medium medium; border-style: solid none none; border-color: black -moz-use-text-color -moz-use-text-color; padding: 0.125rem; height: 0.5625rem;" width="58%">
+												
+            
+												<p>Vu</p>
+												
+            
+											</td>
+											
+        
+										</tr>
+										
+    
+									</tbody>
+									
+
+								</table>
+								
+
+
+								<content/>
+							</став>
+							<clause id="gla4-clan32-stav3">
+								<content>
+									<p>где је К – фактор смањења, Vu – вредност учесника а Vn – вредност новог стања</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan32-stav4">
+								<content>
+									<p>Коефицијент умањења К рачуна се на осам децималних места.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan33">
+						<num>33.</num>
+						<content>
+							<clause id="gla4-clan33-stav1">
+								<content>
+									<p>Добијеним фактором умањења (К) врши се исправка вредности у свим исказима а контрола рачунања врши се у сумарнику исказа.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan33-stav2">
+								<content>
+									<p>Сума умањених вредности свих исказа треба да да вредност новог стања.</p>
+									<тачка id="gla4-clan33-stav2-tac6">
+										<num>6.</num>
+										<content>
+											<p> Расподела комасационе масе</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan34">
+						<num>34.</num>
+						<content>
+							<clause id="gla4-clan34-stav1">
+								<content>
+									<p>За сваку таблу утврђује се редослед и вредност коју добија учесник комасације.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan34-stav2">
+								<content>
+									<p>Редослед учесника комасације уноси се у књигу расподеле комасационе масе и означава на копијама табли на којима се уписује: бројеви исказа, индикације и надељене вредности.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan35">
+						<num>35.</num>
+						<content>
+							<clause id="gla4-clan35-stav1">
+								<content>
+									<p>Претварање вредности у површину парцеле врши се: аналитички, графичко-аналитички и графичким (поступним приближавањем – апроксимацијом) начином.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan36">
+						<num>36.</num>
+						<content>
+							<clause id="gla4-clan36-stav1">
+								<content>
+									<p>У првој апроксимацији додељену вредност треба поделити са средњом вредношћу коефицијента за обрачун будуће парцеле.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan36-stav2">
+								<content>
+									<p>Средња вредност коефицијента за обрачун је општа аритметичка средина коефицијента за обрачун проценбених разреда где су тежине прве приближне вредности површина под проценбеним разредима будуће парцеле.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan36-stav3">
+								<content>
+									<p>Количник добијен приликом прве апроксимације даје површину парцеле у првој апроксимацији.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan36-stav4">
+								<content>
+									<p>Овако добијена парцела уцртава се на плану према утврђеном смеру парцелације и рачуна њена вредност.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan36-stav5">
+								<content>
+									<p>У другој апроксимацији рачуна се вредност површине појаса ширине једног метра којом се дели разлика додељене вредности и вредности добијене у првој апроксимацији. Овај количник представља поправку ширине парцеле прве апроксимације.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan36-stav6">
+								<content>
+									<p>Поступак се понавља док се не добије додељена вредност.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan36-stav7">
+								<content>
+									<p>Збир површина по проценбеним разредима и вредности парцела треба да да укупну површину по проценбеним разредима и вредности табле.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan37">
+						<num>37.</num>
+						<content>
+							<clause id="gla4-clan37-stav1">
+								<content>
+									<p>После одређивања дефинитивних површина приступа се нумерисању парцела.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan37-stav2">
+								<content>
+									<p>Нумерисање парцела врши се у оквиру катастарске општине по следећем редоследу: грађевински реон, комасационо подручје и остало подручје.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan38">
+						<num>38.</num>
+						<content>
+							<clause id="gla4-clan38-stav1">
+								<content>
+									<p>Ради бољег упознавања учесника комасације са новим стањем по извршеној расподели комасационе масе, на прегледном плану новог стања исцртавају се нове парцеле са бројевима исказа.</p>
+									<тачка id="gla4-clan38-stav1-tac7">
+										<num>7.</num>
+										<content>
+											<p> Обележавање новог стања</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan39">
+						<num>39.</num>
+						<content>
+							<clause id="gla4-clan39-stav1">
+								<content>
+									<p>Ради рачунања елемената за обележавање парцела на терену за сваку таблу у којој има више од једне додељене парцеле врши се трансформација граничних тачака табле у локални координантни систем чија је једна оса смер парцелације и координатни почетак једна од тачака темена табли. У поступку трансформације рачунају се апсцисе и ординате преломних тачака табли и дужине фронтова.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan40">
+						<num>40.</num>
+						<content>
+							<clause id="gla4-clan40-stav1">
+								<content>
+									<p>У погодној размери исцртава се табла са елементима: апсцисе, ординате и дужине фронтова.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan40-stav2">
+								<content>
+									<p>Користећи апсцисе и ординате локалног система рачунају се дужине страна и висине потребне за рачунање површина ламела (квадрат, правоугаоник, трапез и троугао).</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan40-stav3">
+								<content>
+									<p>Стране ламела повлаче се кроз сваку граничну тачку табле паралелно или управно на једну осу локалног система зависно од смера парцелације.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan40-stav4">
+								<content>
+									<p>Користећи дужине страна и висину ламела рачунају се површине ламела.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan40-stav5">
+								<content>
+									<p>Збир површина ламела мора дати површину табле.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan40-stav6">
+								<content>
+									<p>Подаци о ламели исписују се црвеним мастилом (број ламеле, ширина и висина).</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan40-stav7">
+								<content>
+									<p>Аналитичко рачунање елемената нових парцела (ширине, висине и фронтови) врши се из података о ламелама и површина нових парцела.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan40-stav8">
+								<content>
+									<p>Ширине, висине и фронтови рачунају се до на сантиметар.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan41">
+						<num>41.</num>
+						<content>
+							<clause id="gla4-clan41-stav1">
+								<content>
+									<p>Подаци о новим парцелама: број, индикација, фронтови и култура уносе се на скици детаља на којима су претходно уцртане граничне линије катастарске општине, грађевинског реона, табли и сталних објеката.</p>
+									<тачка id="gla4-clan41-stav1-tac8">
+										<num>8.</num>
+										<content>
+											<p> Пренос новог стања на терену</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan42">
+						<num>42.</num>
+						<content>
+							<clause id="gla4-clan42-stav1">
+								<content>
+									<p>Пренос граничних тачака нове путне и каналске мреже врши се поларном или ортогоналном методом са нове полигонометријске мреже при чему мора бити испуњен услов ширине пројектованих објеката.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan42-stav2">
+								<content>
+									<p>Стабилизација тачака путне и каналске мреже врши се надземно каменим или бетонским белегама димензије 0,10х0,10х0,60 m.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan43">
+						<num>43.</num>
+						<content>
+							<clause id="gla4-clan43-stav1">
+								<content>
+									<p>Обележавање граничних тачака појединих парцела врши се апсцисно између тачака табли. Разлика између мерене и рачунске вредности фронта табле не сме да пређе дозвољено одступање за директна мерења дужина напред-назад пантљиком за одговарајућу категорију терена.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan44">
+						<num>44.</num>
+						<content>
+							<clause id="gla4-clan44-stav1">
+								<content>
+									<p>Стабилизација граничних тачака парцела врши се каменим или бетонским белегама димензија 0,08х0,08х0,50 m.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan44-stav2">
+								<content>
+									<p>Контрола обележавања и стабилизације тачака парцеле врши се мерењем фронтова парцела. Максимално дозвољена разлика мерене и рачунске вредности фронта парцела је:</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan44-stav3">
+								<content>
+									<p>D=0.007 Ц d + 0.05</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan44-stav4">
+								<content>
+									<p>где је D и d у метрима.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan45">
+						<num>45.</num>
+						<content>
+							<clause id="gla4-clan45-stav1">
+								<content>
+									<p>После увођења учесника комасације у посед врши се катастарско класирање и бонитирање и излагање на јавни увид података класирања према прописима о премеру и катастру земљишта.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan46">
+						<num>46.</num>
+						<content>
+							<clause id="gla4-clan46-stav1">
+								<content>
+									<p>У завршне радове спадају.</p>
+									<тачка id="gla4-clan46-stav1-tac1">
+										<num>1.</num>
+										<content>
+											<p> обрада нових планова која се врши према прописима о премеру и катастру земљишта,</p>
+										</content>
+									</тачка>
+									<тачка id="gla4-clan46-stav1-tac2">
+										<num>2.</num>
+										<content>
+											<p> израда списка површина парцела,</p>
+										</content>
+									</тачка>
+									<тачка id="gla4-clan46-stav1-tac3">
+										<num>3.</num>
+										<content>
+											<p> израда новог катастарског операта за катастарску општину,</p>
+										</content>
+									</тачка>
+									<тачка id="gla4-clan46-stav1-tac4">
+										<num>4.</num>
+										<content>
+											<p> допуна записника разграничења катастарске општине,</p>
+										</content>
+									</тачка>
+									<тачка id="gla4-clan46-stav1-tac5">
+										<num>5.</num>
+										<content>
+											<p> израда прегледног плана на основу нових планова у размери 1:5.000 или 1:10.000.</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan47">
+						<num>47.</num>
+						<content>
+							<clause id="gla4-clan47-stav1">
+								<content>
+									<p>О изведеним геодетско-техничким радовима у поступку комасације извођач радова, поред елабората премера и катастра земљишта, предаје општинском геодетском органу следећи елаборат:</p>
+									<тачка id="gla4-clan47-stav1-tac1">
+										<num>1.</num>
+										<content>
+											<p> прегледни план старог стања,</p>
+										</content>
+									</тачка>
+									<тачка id="gla4-clan47-stav1-tac2">
+										<num>2.</num>
+										<content>
+											<p> прегледни план процене,</p>
+										</content>
+									</тачка>
+									<тачка id="gla4-clan47-stav1-tac3">
+										<num>3.</num>
+										<content>
+											<p> записник о оријентационој процени земљишта,</p>
+										</content>
+									</тачка>
+									<тачка id="gla4-clan47-stav1-tac4">
+										<num>4.</num>
+										<content>
+											<p> књигу фонда комасационе масе,</p>
+										</content>
+									</тачка>
+									<тачка id="gla4-clan47-stav1-tac5">
+										<num>5.</num>
+										<content>
+											<p> исказе земљишта,</p>
+										</content>
+									</тачка>
+									<тачка id="gla4-clan47-stav1-tac6">
+										<num>6.</num>
+										<content>
+											<p> сумарник исказа земљишта,</p>
+										</content>
+									</тачка>
+									<тачка id="gla4-clan47-stav1-tac7">
+										<num>7.</num>
+										<content>
+											<p> списак промењених исказа,</p>
+										</content>
+									</тачка>
+									<тачка id="gla4-clan47-stav1-tac8">
+										<num>8.</num>
+										<content>
+											<p> рачунање и списак координата граничних тачака путне и каналске мреже,</p>
+										</content>
+									</тачка>
+									<тачка id="gla4-clan47-stav1-tac9">
+										<num>9.</num>
+										<content>
+											<p> рачунање елемената за обележавање путне и каналске мреже,</p>
+										</content>
+									</тачка>
+									<тачка id="gla4-clan47-stav1-tac10">
+										<num>10.</num>
+										<content>
+											<p> рачунање површина парцела из додељене вредности (апроксимација),</p>
+										</content>
+									</тачка>
+									<тачка id="gla4-clan47-stav1-tac11">
+										<num>11.</num>
+										<content>
+											<p> трансформацију табли,</p>
+										</content>
+									</тачка>
+									<тачка id="gla4-clan47-stav1-tac12">
+										<num>12.</num>
+										<content>
+											<p> аналитичко рачунање елемената нових парцела (ширине, висине и фронтови).</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>ВРШЕЊЕ СТРУЧНОГ НАДЗОРА НАД ГЕОДЕТСКО-ТЕХНИЧКИМ РАДОВИМА И ПРОЦЕНОМ ЗЕМЉИШТА</heading>
+				<content>
+					<article id="gla5-clan48">
+						<num>48.</num>
+						<content>
+							<clause id="gla5-clan48-stav1">
+								<content>
+									<p>Стручни надзор над геодетско-техничким радовима у поступку комасације, општински геодетски орган у оквиру овлашћења утврђених законом врши: увидом у податке из предлога за спровођење комасације и оцењивањем потпуности и тачности геодетских података (опис границе комасационог подручја и грађевинског реона, прегледни план постојећег стања на коме је приказана путна и каналска мрежа).</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan48-stav2">
+								<content>
+									<p>У оквиру надзора из става 1. овог члана општински геодетски орган врши оверу списка промена (<ref>члан 2. овог</ref> упутства).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan49">
+						<num>49.</num>
+						<content>
+							<clause id="gla5-clan49-stav1">
+								<content>
+									<p>Надзор над геодетско-техничким радовима и проценом земљишта Републичка геодетска управа врши увидом у податке које доставља општински геодетски орган, по поднетом захтеву о спровођењу комасације, а који се односи на стање премера и катастара земљишта у катастарској општини за коју се предлаже комасација.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan50">
+						<num>50.</num>
+						<content>
+							<clause id="gla5-clan50-stav1">
+								<content>
+									<p>Републичка геодетска управа у вршењу надзора даје сагласност на облик и садржину образаца које користе у поступку комасације извођачи геодетско-техничких радова и радова на процени вредности земљишта.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>ЗАВРШНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla6-clan51">
+						<num>51.</num>
+						<content>
+							<clause id="gla6-clan51-stav1">
+								<content>
+									<p>Ово упутство ступа на снагу осмог дана од објављивања у „Службеном гласнику Социјалистичке Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan51-stav2">
+								<content>
+									<p>01 број 95-83/75</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan51-stav3">
+								<content>
+									<p>У Београду, 7. јануара 1977. године</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan51-stav4">
+								<content>
+									<p>Директор</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan51-stav5">
+								<content>
+									<p>Републичке геодетске управе,</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan51-stav6">
+								<content>
+									<p>инж. Богдан Богдановић, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

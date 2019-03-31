@@ -1,0 +1,992 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2016/95-42/main"/>
+					<FRBRuri value="/rs/act/2016/95-42"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/45-50/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/45-50/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/45-50/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/45-50/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2016-11-30" name="службени гласник рс" number="95" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="15. Спорт" value="15. спорт"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2016-11-09" id="usvajanje"/>
+				<step date="2016-12-08" id="stupanje_na_snagu"/>
+				<step date="2016-12-08" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="95/2016-42" id="e1" type="generation"/>
+				<eventRef date="45/2018-50" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник о допунама Правилника о надлежним националним спортским савезима за спортске гране и области спорта у Републици Србији (<ref id="ref2" href="/rs/act/2018/45/srp@">Службени гласник РС, број 45/2018</ref>) ступио је на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 21. јуна 2018. године (види <ref>члан 3. </ref>Правилника - 45/2018-50).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу <ref>члана 120. став 2. тачка 1</ref>) Закона о спорту („<ref id="ref3" href="/rs/act/16/10/srp@">Службени гласник РС”, број 10/16</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар омладине и спорта доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о надлежним националним спортским савезима за спортске гране и области спорта у Републици Србији</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 95 од 30. новембра 2016, 45 од   13. јуна 2018.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником утврђују се надлежни национални спортски савези за спортске гране и области спорта у Републици Србији.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Надлежни национални спортски савези за спортске гране и области спорта у Републици Србији јесу:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> Олимпијски спорт:</p>
+									<item id="clan2-stav1-tac1-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> Атлетика – Атлетски савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> Бадминтон – Бадминтон савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> Бејзбол – Бејзбол савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> Биатлон – Биатлон савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> Бициклизам – Бициклистички савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> Боб – Боб савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> Бокс – Боксерски савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> Ватерполо – Ватерполо савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac9">
+										<num>(9)</num>
+										<content>
+											<p> Веслање – Веслачки савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac10">
+										<num>(10)</num>
+										<content>
+											<p> Гимнастика – Гимнастички савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac11">
+										<num>(11)</num>
+										<content>
+											<p> Голф – Голф асоцијација Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac12">
+										<num>(12)</num>
+										<content>
+											<p> Дизање тегова – Савез Србије за дизање тегова,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac13">
+										<num>(13)</num>
+										<content>
+											<p> Једрење – Једриличарски савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac14">
+										<num>(14)</num>
+										<content>
+											<p> Кајак – кану – Кајакашки савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac15">
+										<num>(15)</num>
+										<content>
+											<p> Карате – Карате федерација Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac16">
+										<num>(16)</num>
+										<content>
+											<p> Карлинг – Национални савез за карлинг Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac17">
+										<num>(17)</num>
+										<content>
+											<p> Клизање – Клизачки савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac18">
+										<num>(18)</num>
+										<content>
+											<p> Коњички спорт (олимпијске и ФЕИ дисциплине) – Савез за коњички спорт Србије за олимпијске и ФЕИ дисциплине,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac19">
+										<num>(19)</num>
+										<content>
+											<p> Кошарка – Кошаркашки савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac20">
+										<num>(20)</num>
+										<content>
+											<p> Летеће мете – Стрељачки савез за летеће мете Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac21">
+										<num>(21)</num>
+										<content>
+											<p> Мачевање – Мачевалачки савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac22">
+										<num>(22)</num>
+										<content>
+											<p> Одбојка – Одбојкашки савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac23">
+										<num>(23)</num>
+										<content>
+											<p> Пливање – Пливачки савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac24">
+										<num>(24)</num>
+										<content>
+											<p> Рагби – Рагби савез Србрије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac25">
+										<num>(25)</num>
+										<content>
+											<p> Рвање – Рвачки савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac26">
+										<num>(26)</num>
+										<content>
+											<p> Рукомет – Рукометни савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac27">
+										<num>(27)</num>
+										<content>
+											<p> Санкашки спортови – Санкашки савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac28">
+										<num>(28)</num>
+										<content>
+											<p> Синхроно пливање – Савез за синхроно пливање Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac29">
+										<num>(29)</num>
+										<content>
+											<p> Скијање – Скијашки савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac30">
+										<num>(30)</num>
+										<content>
+											<p> Скокови у воду – Савез за скокове у воду Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac31">
+										<num>(31)</num>
+										<content>
+											<p> Софтбол – Софтбол савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac32">
+										<num>(32)</num>
+										<content>
+											<p> Спортско пењање – Спортско пењачки савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac33">
+										<num>(33)</num>
+										<content>
+											<p> Стони тенис – Стонотениски савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac34">
+										<num>(34)</num>
+										<content>
+											<p> Стрељаштво – Стрељачки савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac35">
+										<num>(35)</num>
+										<content>
+											<p> Стреличарство – Стреличарски савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac36">
+										<num>(36)</num>
+										<content>
+											<p> Тенис – Тениски савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac37">
+										<num>(37)</num>
+										<content>
+											<p> Теквондо – Теквондо асоцијација Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac38">
+										<num>(38)</num>
+										<content>
+											<p> Триатлон – Српска триатлонска унија,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac39">
+										<num>(39)</num>
+										<content>
+											<p> Фудбал – Фудбалски савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac40">
+										<num>(40)</num>
+										<content>
+											<p> Хокеј на леду – Савез хокеја на леду Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac41">
+										<num>(41)</num>
+										<content>
+											<p> Хокеј на трави – Савез хокеја на трави Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac1-podtac42">
+										<num>(42)</num>
+										<content>
+											<p> Џудо – Џудо савез Србије;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> Параолимпијски спорт:</p>
+									<item id="clan2-stav1-tac2-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> Атлетика – Параолимпијски комитет Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> Бадминтон – Бадминтон савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> Биатлон – Параолимпијски комитет Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> Бициклизам – Бициклистички савез особа са инвалидитетом Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> Боћање – Параолимпијски комитет Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> Веслање – Веслачки савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> Goalball (слепи и слабовиди) – Параолимпијски комитет Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> Кану – Кајакашки савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac9">
+										<num>(9)</num>
+										<content>
+											<p> Карлинг – Национални савез за карлинг Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac10">
+										<num>(10)</num>
+										<content>
+											<p> Коњички спорт – Савез за коњички спорт Србије за олимпијске и ФЕИ дисциплине,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac11">
+										<num>(11)</num>
+										<content>
+											<p> Кошарка у колицима – Кошаркашки савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac12">
+										<num>(12)</num>
+										<content>
+											<p> Мачевање у колицима – Параолимпијски комитет Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac13">
+										<num>(13)</num>
+										<content>
+											<p> Одбојка седећа – Савез седеће одбојке инвалида Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac14">
+										<num>(14)</num>
+										<content>
+											<p> Powerlifting (дизање терета) – Параолимпијски комитет Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac15">
+										<num>(15)</num>
+										<content>
+											<p> Пливање – Параолимпијски комитет Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac16">
+										<num>(16)</num>
+										<content>
+											<p> Рагби у колицима – Параолимпијски комитет Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac17">
+										<num>(17)</num>
+										<content>
+											<p> Скијање – Параолимпијски комитет Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac18">
+										<num>(18)</num>
+										<content>
+											<p> Стони тенис – Стонотениски савез особа са инвалидитетом Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac19">
+										<num>(19)</num>
+										<content>
+											<p> Стреличарство – Савез инвалида стреличара Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac20">
+										<num>(20)</num>
+										<content>
+											<p> Стрељаштво – Инвалидски стрељачки савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac21">
+										<num>(21)</num>
+										<content>
+											<p> Тенис у колицима – Тениски савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac22">
+										<num>(22)</num>
+										<content>
+											<p> Теквондо – Теквондо асоцијација Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac23">
+										<num>(23)</num>
+										<content>
+											<p> Триатлон – Српска триатлонска унија,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac24">
+										<num>(24)</num>
+										<content>
+											<p> Фудбал 5 на 5 (слепи и слабовиди) – Параолимпијски комитет Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac25">
+										<num>(25)</num>
+										<content>
+											<p> Хокеј на леду (Ice Sledge Hockey) – Параолимпијски комитет Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac2-podtac26">
+										<num>(26)</num>
+										<content>
+											<p> Џудо (слепи и слабовиди) – Параолимпијски комитет Србије;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> Непараолимпијски спорт:</p>
+									<item id="clan2-stav1-tac3-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> Непараолимпијски спорт особа са инвалидитетом – Спортски савез инвалида Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac3-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> Специјална олимпијада – „Специјална Олимпијада Србије”,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac3-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> Спорт глувих и наглувих – Спортски савез глувих Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac3-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> Спорт слепих и слабовидих – Национални спортски савез слепих и слабовидих;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> Неолимпијски спорт (Sport Acord):</p>
+									<item id="clan2-stav1-tac4-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> Аикидо – Аикидо савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> Амерички фудбал – Српска асоцијација америчког фудбала,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> Аутомобилизам – Спортски ауто и картинг савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> Билијар (pool) – Билијар савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> Bowling – Bowling савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> Боди билдинг – Савез Србије за Боди билдинг, Фитнес, Боди фитнес и Аеробик,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> Боћање – Боћарски савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> Бриџ – Бриџ савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac9">
+										<num>(9)</num>
+										<content>
+											<p> Ваздухопловни спорт – Ваздухопловни савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac10">
+										<num>(10)</num>
+										<content>
+											<p> Вушу – Српски кунгфу вушу савез,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac11">
+										<num>(11)</num>
+										<content>
+											<p> Го – Го савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac12">
+										<num>(12)</num>
+										<content>
+											<p> Кендо – Кендо савез Србије</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac13">
+										<num>(13)</num>
+										<content>
+											<p> Кик бокс – Кик бокс савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac14">
+										<num>(14)</num>
+										<content>
+											<p> Корфбол – Корфбол савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac15">
+										<num>(15)</num>
+										<content>
+											<p> Крикет – Крикет федерација Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac16">
+										<num>(16)</num>
+										<content>
+											<p> Куглање – Куглашки савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac17">
+										<num>(17)</num>
+										<content>
+											<p> Life Saving – Црвени крст Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac18">
+										<num>(18)</num>
+										<content>
+											<p> Lacrosse – Српски лакрос Савез,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac19">
+										<num>(19)</num>
+										<content>
+											<p> Маи таи – Маи таи савез Србије</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac20">
+										<num>(20)</num>
+										<content>
+											<p> Мото спорт – Мото савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac21">
+										<num>(21)</num>
+										<content>
+											<p> Мотонаутика – Српски наутички савез;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac22">
+										<num>(22)</num>
+										<content>
+											<p> Оријентиринг – Оријентиринг савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac23">
+										<num>(23)</num>
+										<content>
+											<p> Планинарство – Планинарски савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac24">
+										<num>(24)</num>
+										<content>
+											<p> Пикадо – Пикадо федерација Србије</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac25">
+										<num>(25)</num>
+										<content>
+											<p> Подводни спорт – Савез организација подводних активности Републике Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac26">
+										<num>(26)</num>
+										<content>
+											<p> Powerlifting – Паверлифтинг савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac27">
+										<num>(27)</num>
+										<content>
+											<p> Практично стрељаштво – Савез за практично стрељаштво Србије – И.П.С.Ц Србија,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac28">
+										<num>(28)</num>
+										<content>
+											<p> Савате – Савате савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac29">
+										<num>(29)</num>
+										<content>
+											<p> Самбо – Самбо савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac30">
+										<num>(30)</num>
+										<content>
+											<p> Сквош – Сквош асоцијација Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac31">
+										<num>(31)</num>
+										<content>
+											<p> Скијање на води – Савез за скијање на води и вејкбор Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac32">
+										<num>(32)</num>
+										<content>
+											<p> Спортски плес – Плесни савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac33">
+										<num>(33)</num>
+										<content>
+											<p> Спортски риболов – Савез спортских риболоваца Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac34">
+										<num>(34)</num>
+										<content>
+											<p> Tug-of-War (надвлачење конопца) – Tug of War савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac35">
+										<num>(35)</num>
+										<content>
+											<p> Џу џицу – Ju jutsu савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac36">
+										<num>(36)</num>
+										<content>
+											<p> Шах – Шаховски савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac37">
+										<num>(37)</num>
+										<content>
+											<p> Снукер – Снукер савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac38">
+										<num>(38)</num>
+										<content>
+											<p> Cheer (Чирлидниг) – Српски чирлидинг и   чирденс савез;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> Неолимпијски спорт (остали):</p>
+									<item id="clan2-stav1-tac5-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> Ashihara Kaikan – Ašihara Kaikan савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac5-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> Галопски спорт – Српски галопски савез,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac5-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> Екстремни спортови – Савез екстремних спортова Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac5-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> Касачки спорт – Српски касачки савез,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac5-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> ММА борилачки спорт – MMA савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac5-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> Кјокушинкаи – Kyokushin kai савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac5-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> Пеинтбол – Paintball савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac5-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> Рагби 13 – Рагби 13 федерација Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac5-podtac9">
+										<num>(9)</num>
+										<content>
+											<p> Рафтинг – Рафтинг савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac5-podtac10">
+										<num>(10)</num>
+										<content>
+											<p> Скај бол – Skajbol савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac5-podtac11">
+										<num>(11)</num>
+										<content>
+											<p> Спид бадминтон – Спид бадминтон савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac5-podtac12">
+										<num>(12)</num>
+										<content>
+											<p> Спортска спелеологија – Спортски савез спелеолога Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac5-podtac13">
+										<num>(13)</num>
+										<content>
+											<p> Фитнес – Савез Србије за Боди Билдинг, Фитнес, Боди Фитнес и Аеробик,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac5-podtac14">
+										<num>(14)</num>
+										<content>
+											<p> Џет ски – Џет ски савез Србије;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> Области спорта:</p>
+									<item id="clan2-stav1-tac6-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> Јога – Јога савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac6-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> Спортска рекреација (рекреативни спорт, спорт за све, масовни спорт) – Асоцијација спорта за све Србије, Савез за рекреацију и фитнес Србије, Савез за рекреативни спорт Републике Србије, Савез Србије за Боди Билдинг, Фитнес, Боди Фитнес и Аеробик,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac6-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> Сеоски спорт – Спортски савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac6-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> Соколски спорт – Савез Соко Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac6-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> Спорт у војсци – Спортски савез Србије;</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac6-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> Спорт у дијаспори – Спортски савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac6-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> Спорт у полицији – Спортски савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac6-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> Спорт старијих особа – Спортски савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac6-podtac9">
+										<num>(9)</num>
+										<content>
+											<p> Спорт у фирмама – Асоцијација спорта за све Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac6-podtac10">
+										<num>(10)</num>
+										<content>
+											<p> Традиционални спорт – Свебор савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac6-podtac11">
+										<num>(11)</num>
+										<content>
+											<p> Универзитетски спорт – Универзитетски спортски савез Србије,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac6-podtac12">
+										<num>(12)</num>
+										<content>
+											<p> Школски спорт – Савез за школски спорт Србије.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>*<ref id="ref4" href="/rs/act/2018/45/srp@">Службени гласник РС, број 45/2018</ref></heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Олимпијски комитет Србије, Параолимпијски комитет Србије и Спортски савез Србије имају статус надлежног националног спортског савеза у погледу остваривања својих надлежности утврђених Законом о спорту.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>За спортске гране и области спорта у Републици Србији које су утврђене актом којим се утврђују спортске гране и области спорта у Републици Србији и спортске дисциплине у оквиру спортских грана и области спорта, а за које није образован одговарајући национални грански спортски савез, односно национални спортски савез за област спорта, привремено остваривање надлежности и права надлежног националног гранског спортског савеза, односно надлежног националног спортског савеза за област спорта утврђује се у складу са чланом 102. став 3. тачка 9) и ставом 5. и чланом 103. став 2. тачка 9) и ставом 10. Закона о спорту.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Даном ступања на снагу овог правилника престаје да важи Правилник о националним гранским спортским савезима преко којих се остварује општи интерес у области спорта у Републици Србији („<ref id="ref5" href="/rs/act/11/72/srp@">Службени гласник РС”, бр. 72/11, 3/12, 25/13, 81/14</ref> и 126/14).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Број 110-00-27/2016-03</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>У Београду, 9. новембра 2016. године</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav5">
+						<content>
+							<p>Вања Удовичић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

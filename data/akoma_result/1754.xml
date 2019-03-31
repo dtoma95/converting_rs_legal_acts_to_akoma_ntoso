@@ -1,0 +1,1185 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2012/94-9/main"/>
+					<FRBRuri value="/rs/act/2012/94-9"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2012/94-9/srp@/main"/>
+					<FRBRuri value="/rs/act/2012/94-9/srp@"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2012/94-9/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2012/94-9/srp@.akn"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2012-9-28" name="службени гласник рс" number="94" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="3. Семе и садни материјал" value="3. семе и садни материјал"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2012-09-24" id="usvajanje"/>
+				<step date="2012-10-06" id="stupanje_na_snagu"/>
+				<step date="2012-10-06" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 5. став 2. </ref>Закона о признавању сорти пољопривредног биља („<ref id="ref1" href="/rs/act/10/30/srp@">Службени гласник РС”, број 30/10</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, шумарства и водопривреде, доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о методама испитивања сорте дувана (Nicotiana tabacum L.)  ради признавања сорте</title>
+			<date>&quot;Службени гласник РС&quot;, број   94 од 28. септембра 2012.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Уводна одредба</heading>
+				<content>
+					<article id="od1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="od1-clan1-stav1">
+								<content>
+									<p>Овим правилником прописују се методе испитивања сорте дувана   Nicotiana tabacum L. (у даљем тексту: сорта) на огледном пољу и у лабораторији, ради признавања сорте.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan1-stav2">
+								<content>
+									<p>Методама из става 1. овог члана испитују се одређене битне особине сорте, ради утврђивања:</p>
+									<point id="od1-clan1-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> боље производне и употребне вредности сорте (VCU тест);</p>
+										</content>
+									</point>
+									<point id="od1-clan1-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> различитости, униформности и стабилности сорте (DUS тест).</p>
+											<тачка id="od1-clan1-stav2-tac2">
+												<num>2.</num>
+												<content>
+													<p> Методе испитивања производне и употребне вредности сорте (VCU тест)</p>
+												</content>
+											</тачка>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="od1-clan2-stav1">
+								<content>
+									<p>Производна и употребна вредност сорте утврђује се на основу резултата испитивања одређених битних особина сорте које се односе на:</p>
+									<point id="od1-clan2-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> принос;</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> дужину вегетационог периода;</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> дужину и ширину листа;</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> хемијско-технолошке особине (садржај никотина, укупан азот, беланчевине, азотне-беланчевине, растворљиви шећери, садржај пепела и pH вредност);</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> боју листа (код типова берлеј и вирџинија);</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> проценат лисних ребара (нерватура листа код типова берлеј и вирџинија);</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> запреминску масу (волуминозност листа код типова берлеј и вирџинија);</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> отпорност на болести.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od1-clan2-stav2">
+								<content>
+									<p>Дужина вегетационог периода из става 1. тачка 2) овог члана обухвата број дана од расађивања биљака до датума цветања, који се утврђује се на основу датума цветања 50% биљака (у даљем тексту: датум цветања биљака).</p>
+								</content>
+							</clause>
+							<clause id="od1-clan2-stav3">
+								<content>
+									<p>Сорта има бољу производну и употребну вредност ако у току испитивања одређених битних особина из става 1. овог члана покаже боље резултате у поређењу са тим особинама сорте стандард.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="od1-clan3-stav1">
+								<content>
+									<p>Испитивање производне и употребне вредности сорте (VCU тест) врши се на огледном пољу, на најмање два локалитета.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="od1-clan4-stav1">
+								<content>
+									<p>Сорта се испитује на огледном пољу које је постављено на земљишту добрих производних особина које је одговарајуће за испитивање сорте.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan4-stav2">
+								<content>
+									<p>Сорта се не испитује на огледном пољу на коме је предусев била конопља, сунцокрет и врста која припада фамилији   Solanaceae.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="od1-clan5-stav1">
+								<content>
+									<p>Сорта се испитује у огледу који се поставља на огледном пољу.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan5-stav2">
+								<content>
+									<p>Оглед се изводи по плану „потпуно случајног блок система” у четири понављања са заштитним појасом од два реда.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan5-stav3">
+								<content>
+									<p>Оглед се поставља на следећи начин:</p>
+								</content>
+							</clause>
+							<став id="od1-clan5-stav4">
+								<table class="tabela-sa-borderom">
+									
+		
+									<thead>
+										
+			
+										<tr>
+											
+				
+											<td class="auto-style1" style="width: 25%">
+												
+				
+												<p>Елементи огледа</p>
+											</td>
+											
+				
+											<td class="auto-style1" style="width: 15%">
+												
+				
+												<p>Оријентални дувани</p>
+											</td>
+											
+				
+											<td class="auto-style1" style="width: 15%">
+												
+				
+												<p>Полуоријентални дувани</p>
+											</td>
+											
+				
+											<td class="auto-style1" style="width: 15%">
+												
+				
+												<p>Alue-cured (вирџинија)</p>
+											</td>
+											
+				
+											<td class="auto-style1" style="width: 15%">
+												
+				
+												<p>Air-cured (берлеј)</p>
+											</td>
+											
+				
+											<td class="auto-style1" style="width: 15%">
+												
+				
+												<p>Цигарни дувани</p>
+											</td>
+											
+			
+										</tr>
+										
+		
+									</thead>
+									
+		
+									<tbody>
+										
+			
+										<tr>
+											
+				
+											<td style="width: 25%">
+												
+				
+												<p>дужина парцеле</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>5 m</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>5 m</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>7 m</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>7 m</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>7 m</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td style="width: 25%">
+												
+				
+												<p>ширина парцеле</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>2,5 m</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>3,5 m</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>4,5 m</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>4,5 m</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>3,5 m</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td style="width: 25%">
+												
+				
+												<p>површина парцеле</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>12,5 m2</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>16,5 m2</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>31,5 m2 </p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>31,5 m2 </p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>24,5 m2</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td style="width: 25%">
+												
+				
+												<p>број редова</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>5 </p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>5</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>5</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>5</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>5</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td style="width: 25%">
+												
+				
+												<p>размак између редова</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>50 cm</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>70 cm</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>90 cm</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>90 cm</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>70 cm</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td style="width: 25%">
+												
+				
+												<p>размак у реду</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>10 cm</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>20 cm</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>45 cm</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>45 cm</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>50 cm</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td style="width: 25%">
+												
+				
+												<p>број понављања</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>4</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>4</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>4</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>4</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>4</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td style="width: 25%">
+												
+				
+												<p>број биљака у реду</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>50</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>25</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>15</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>15</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>14</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td style="width: 25%">
+												
+				
+												<p>број биљака на парцели</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>250</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>125</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>75</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>75</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>70</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td style="width: 25%">
+												
+				
+												<p>број биљака по хектару</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>200.000</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>71.000</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>24.500</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>24.500</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>28.500</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td style="width: 25%">
+												
+				
+												<p>размак између блокова (понављања)</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>1 m</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>1 m</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>1 m</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>1 m</p>
+											</td>
+											
+				
+											<td style="width: 15%">
+												
+				
+												<p>1m</p>
+											</td>
+											
+			
+										</tr>
+										
+		
+									</tbody>
+									
+	
+								</table>
+								
+	
+								<content/>
+							</став>
+						</content>
+					</article>
+					<article id="od1-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="od1-clan6-stav1">
+								<content>
+									<p>Семе сорте која се испитује и сорта стандард се дезинфикују и испитују на квалитет и здравствену исправност.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav2">
+								<content>
+									<p>Сетва семена за добијање расада обавља се у лејама заштићеним полиетиленским покривачем, у оптималном року за подручје на коме се огледно поље налази, а најкасније до 20. марта текуће године.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="od1-clan7-stav1">
+								<content>
+									<p>Нега расада обавља се према уобичајеној стандардној технологији.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan7-stav2">
+								<content>
+									<p>Расађивање се обавља на места која су претходно означена маркером, тако да се обезбеди једнак размак између биљака.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan7-stav3">
+								<content>
+									<p>Примењују се све потребне мере неге и заштите усева према захтевима савремене технологије производње дувана за подручје на коме се огледно поље налази.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan7-stav4">
+								<content>
+									<p>Попуњавање празних места врши се само ако је угинуло више од 5% биљака, најкасније у року од три до пет дана након расађивања.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan7-stav5">
+								<content>
+									<p>Мере неге приликом испитивања сорте одређују се према захтевима интензивне производње дувана.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan7-stav6">
+								<content>
+									<p>Количина ђубрива и време и начин његове примене одређују се у зависности од типа дувана, претходне културе и специфичних услова локалитета (предусев, тип земљишта, подаци о анализи хранљивих материја у земљишту, временске прилике, потребе биљака и сл.), у складу са добром пољопривредном праксом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="od1-clan8-stav1">
+								<content>
+									<p>У периоду гајења сорте на огледном пољу евидентирају се следећи подаци:</p>
+									<point id="od1-clan8-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> датум сетве семена сорте;</p>
+										</content>
+									</point>
+									<point id="od1-clan8-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> датум ницања;</p>
+										</content>
+									</point>
+									<point id="od1-clan8-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> датум расађивања;</p>
+										</content>
+									</point>
+									<point id="od1-clan8-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> број празних места, са податком о узроку појаве празних места (да ли су сортног карактера или друго);</p>
+										</content>
+									</point>
+									<point id="od1-clan8-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> датум цветања;</p>
+										</content>
+									</point>
+									<point id="od1-clan8-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> датум бербе;</p>
+										</content>
+									</point>
+									<point id="od1-clan8-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> број берби према пристизању у технолошку зрелост;</p>
+										</content>
+									</point>
+									<point id="od1-clan8-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> дужина вегетационог периода;</p>
+										</content>
+									</point>
+									<point id="od1-clan8-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> просечан број листова по биљци;</p>
+										</content>
+									</point>
+									<point id="od1-clan8-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> принос листа по парцели;</p>
+										</content>
+									</point>
+									<point id="od1-clan8-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> заступљеност класа у процентима и у грамима.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od1-clan8-stav2">
+								<content>
+									<p>Број празних места из става 1. тачка 4) овог члана утврђује се непосредно пре бербе.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan8-stav3">
+								<content>
+									<p>Просечан број листова из става 1. тачка 8) овог члана утврђује се бројањем на десет биљака по понављању.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="od1-clan9-stav1">
+								<content>
+									<p>Ради утврђивања отпорности сорте на огледном пољу врши се праћење и оцењивање појаве вироза, а нарочито црнила ребара (PVY) и микоза узрокованих гљивом Alternaria sp. (Alternaria solani, Alternaria alternata).</p>
+								</content>
+							</clause>
+							<clause id="od1-clan9-stav2">
+								<content>
+									<p>Интензитет појаве вироза у усеву дувана изражава се оценама од један (1) до пет (5), и то:</p>
+									<point id="od1-clan9-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> оцена 1 означава више од 50 % оболелих биљака, при чему су биљке јако заостале у развоју;</p>
+										</content>
+									</point>
+									<point id="od1-clan9-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> оцена 2 означава 35-50 % оболелих биљака, при чему су главно и споредна ребра по целој дужини црне боје, а листови су повијени на доле;</p>
+										</content>
+									</point>
+									<point id="od1-clan9-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> оцена 3 означава 15-35% оболелих биљака, при чему је главно ребро местимично црно, а код споредних ребара је видљиво црнило на рубовима;</p>
+										</content>
+									</point>
+									<point id="od1-clan9-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> оцена 4 означава до 15% оболелих биљака, при чему су биљке добро развијене, на споредним ребрима се уочава мања појава црнила, а сорта се сматра толерантном на болест;</p>
+										</content>
+									</point>
+									<point id="od1-clan9-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> оцена 5 означава да су биљке без симптома и сорта се сматра јако толерантном на болест.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od1-clan9-stav3">
+								<content>
+									<p>Приликом оцењивања оценама од 1 до 4 неопходно је да су симптоми присутни на целој биљци, односно да постоји системична инфекција.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan9-stav4">
+								<content>
+									<p>Интензитет појаве микоза узрокованих гљивом Alternaria sp. (Alternaria solani, Alternaria alternata) оцењује се оценама од један (1) до пет (5), и то:</p>
+									<point id="od1-clan9-stav4-tac1">
+										<num>1)</num>
+										<content>
+											<p> оцена 1 означава да пеге покривају преко 50% површине листа;</p>
+										</content>
+									</point>
+									<point id="od1-clan9-stav4-tac2">
+										<num>2)</num>
+										<content>
+											<p> оцена 2 означава да пеге покривају 26-50% површине листа;</p>
+										</content>
+									</point>
+									<point id="od1-clan9-stav4-tac3">
+										<num>3)</num>
+										<content>
+											<p> оцена 3 означава да пеге покривају 6-25% површине листа;</p>
+										</content>
+									</point>
+									<point id="od1-clan9-stav4-tac4">
+										<num>4)</num>
+										<content>
+											<p> оцена 4 означава да пеге покривају 1-5% површине листа;</p>
+										</content>
+									</point>
+									<point id="od1-clan9-stav4-tac5">
+										<num>5)</num>
+										<content>
+											<p> оцена 5 означава да нема симптома.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od1-clan9-stav5">
+								<content>
+									<p>У случају појаве других болести, односно штеточина евидентира се њихова појава.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="od1-clan10-stav1">
+								<content>
+									<p>Берба листова обавља се сукцесивно према пристизању сорте у технолошку зрелост, изузимајући заштитне редове.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan10-stav2">
+								<content>
+									<p>Мерење приноса обавља се мерењем укупног приноса листа по парцели и изражава у kg/парцели, и то тако да се по свакој берби установи маса обраних листова g/парцели за свако понављање.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan10-stav3">
+								<content>
+									<p>Мерење структуре приноса обавља се сушењем дувана на начин предвиђен за одређени тип дувана и сређивањем и класификацијом осушеног дувана према важећим стандардима, при чему се одређује тежина сваке класе посебно.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="od1-clan11-stav1">
+								<content>
+									<p>Након бербе и мерења приноса за испитивање сорте у лабораторији са сваког локалитета припрема се узорак листа који извођач огледа доставља лабораторији.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav2">
+								<content>
+									<p>Узорак из става 1. овог члана припрема се од масе листова коју чине сви листови одговарајућих инсерција са свих понављања сорте.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav3">
+								<content>
+									<p>Код вирџинијских, берлејских, полуоријенталних и цигарних дувана припрема се узорак масе 0.5 kg од лишћа средњих инсерција (доњи средњи, прави средњи и горњи средњи листови).</p>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav4">
+								<content>
+									<p>Узорак из става 3. овог члана користи се за утврђивање боје листа, процента лисних ребара и волуминозности листа (запреминске масе), дужине и ширине листа, као и за анализу садржаја никотина, укупног азота, беланчевина, азотних беланчевина, растворљивих шећера, садржаја пепела и pH вредности.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav5">
+								<content>
+									<p>Дужина и ширина листа из става 4. овог члана утврђују се мерењем највеће ширине и највеће дужине десет случајно одабраних листова, а изражава се у центиметрима без децимале.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav6">
+								<content>
+									<p>Код сорти оријенталних дувана формирају се два узорка.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav7">
+								<content>
+									<p>Први узорак сорте оријенталног дувана припрема се у количини од 150 грама, од лишћа праве средње инсерције и користи се за мерење ширине и дужине листа која се изражава у центиметрима на једну децималу.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav8">
+								<content>
+									<p>Други узорак сорте оријенталног дувана припрема се у количини од 300 грама, од лишћа инсерција подовршак и овршак и користи се за анализу садржаја никотина, укупног азота, беланчевина, азотних беланчевина, растворљивих шећера, садржаја пепела и pH вредности сорте.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan11-stav9">
+								<content>
+									<p>Оцена пушачких вредности (дегустација) за све типове дувана обавља се после друге године испитивања.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="od1-clan12-stav1">
+								<content>
+									<p>Обрада података о резултатима испитивања приноса листа поједине сорте дувана врши се за једногодишње и двогодишње резултате испитивања.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan12-stav2">
+								<content>
+									<p>Обрада података из става 1. овог члана врши се израчунавањем анализе варијансе једнофакторијалног, двофакторијалног и трофакторијалног огледа по плану „потпуно случајног блок система”, а оцена значајности средина се израчунава на основу Lsd теста за ниво ризика од 5% и 1% у односу на стандард или на основу Dunnet теста.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan12-stav3">
+								<content>
+									<p>Поред оцене значајности из става 2. овог члана, за принос листа израчунава се и коефицијент варијације (Cv) огледа.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan12-stav4">
+								<content>
+									<p>За обрачун укупног приноса користе се подаци приноса листа са обрачунске парцеле по понављањима.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan12-stav5">
+								<content>
+									<p>У случају да је број празних места на парцели већи од 15%, у моменту бербе, консултује се надлежна служба око искључивања сорте из огледа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="od1-clan13-stav1">
+								<content>
+									<p>Обрада података о резултатима испитивања осталих битних особина сорте врши се израчунавањем аритметичке средине.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="od1-clan14-stav1">
+								<content>
+									<p>Испитивање различитости, униформности и стабилности сорте (DUS тест) спроводи се у складу са методом одређеном техничким упутством за тестирање различитости, униформности и стабилности сорте.</p>
+									<тачка id="od1-clan14-stav1-tac3">
+										<num>3.</num>
+										<content>
+											<p> Завршна одредба</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="od1-clan15-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan15-stav2">
+								<content>
+									<p>Број 110-00-00008/2012-09</p>
+								</content>
+							</clause>
+							<clause id="od1-clan15-stav3">
+								<content>
+									<p>У Београду, 24. септембра 2012. године</p>
+								</content>
+							</clause>
+							<clause id="od1-clan15-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="od1-clan15-stav5">
+								<content>
+									<p>Горан Кнежевић, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

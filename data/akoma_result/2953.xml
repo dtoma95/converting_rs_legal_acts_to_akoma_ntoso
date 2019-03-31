@@ -1,0 +1,592 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2011/7-3/main"/>
+					<FRBRuri value="/rs/act/2011/7-3"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2016/95-6/srp@/main"/>
+					<FRBRuri value="/rs/act/2016/95-6/srp@"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2016/95-6/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2016/95-6/srp@.akn"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2011-2-8" name="службени гласник рс" number="7" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="2. Војска Србије" value="2. војска србије"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-02-03" id="usvajanje"/>
+				<step date="2011-02-16" id="stupanje_na_snagu"/>
+				<step date="2011-02-16" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="7/2011-3" id="e1" type="generation"/>
+				<eventRef date="95/2016-6" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 16. фебруара 2011. године (види <ref>члан 20. </ref>Уредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу <ref>члана 3. став 5. </ref>Закона о војној, радној и материјалној обавези („<ref id="ref4" href="/rs/act/09/88/srp@">Службени гласник РС”, бр. 88/09</ref> и 95/10) и <ref>члана 42. став 1. </ref>Закона о Влади („<ref id="ref5" href="/rs/act/05/55/srp@">Службени гласник РС”, бр. 55/05, 71/05</ref> – исправка, 101/07 и 65/08),</p>
+		</preamble>
+		<preface>
+			<authority>Влада доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о начину и поступку добровољног служења војног рока са оружјем</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 7 од 8. фебруара 2011, 95 од 30.  новембра 2016.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>УВОДНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овом уредбом уређују се начин и поступак добровољног служења војног рока са оружјем.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Појмови који се користе у овој уредби имају следеће значење:</p>
+									<point id="gla1-clan2-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> кандидат је лице које поднeсe пријаву на јавни оглас Министарства одбране за добровољно служење војног рока са оружјем на начин прописан овом уредбом;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> војник је лице које је актом надлежног органа упућено на добровољно служење војног рока са оружјем и које се јавило у центар за обуку Војске Србије.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ПРИЈАВА И ЕВИДЕНЦИЈА КАНДИДАТА</heading>
+				<content>
+					<article id="gla2-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla2-clan3-stav1">
+								<content>
+									<p>Министарство одбране у средствима јавног информисања објављује оглас за пријаву кандидата за добровољно служење војног рока са оружјем, у складу са утврђеним потребама и наређењем министра одбране или лица које он овласти о упућивању на добровољно служење војног рока са оружјем.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav2">
+								<content>
+									<p>Оглас за пријаву кандидата за добровољно служење војног рока са оружјем објављује се најмање два месеца пре упућивања на добровољно служење војног рока са оружјем.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla2-clan4-stav1">
+								<content>
+									<p>Заинтересовано лице подноси пријаву за добровољно служење војног рока са оружјем надлежном центру Министарства одбране за локалну самоуправу, према месту пребивалишта.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav2">
+								<content>
+									<p>Заинтересовано лице које привремено или стално борави у иностранству, а води се у евиденцији по месту пребивалишта у Републици Србији, пријаву за добровољно служење војног рока са оружјем може поднети надлежном дипломатско-конзуларном представништву Републике Србије у иностранству.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav3">
+								<content>
+									<p>Пријаве за добровољно служење војног рока са оружјем дипломатско-конзуларно представништво Републике Србије у иностранству доставља Министарству одбране.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav4">
+								<content>
+									<p>Образац пријаве за добровољно служење војног рока са оружјем одштампан је уз ову уредбу и чини њен саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ИЗБОР КАНДИДАТА</heading>
+				<content>
+					<article id="gla3-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla3-clan5-stav1">
+								<content>
+									<p>Центар Министарства одбране за локалну самоуправу је дужан да обезбеди кандидатима организовани превоз или исплати накнаду путних трошкова у вези са утврђивањем оцене способности за војну службу на основу прописа о мерилима за оцењивање здравствене способности војних обвезника, за долазак од места пребивалишта у Републици Србији до места прегледа и за повратак.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla3-clan6-stav1">
+								<content>
+									<p>Центар Министарства одбране за локалну самоуправу позива пријављене кандидате појединачним позивом на извршење лекарског прегледа.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan6-stav2">
+								<content>
+									<p>Пре упућивања на лекарски преглед центар Министарства одбране за локалну самоуправу дужан је да:</p>
+									<point id="gla3-clan6-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> упозна кандидата са правима и обавезама у вези са лекарским прегледом;</p>
+										</content>
+									</point>
+									<point id="gla3-clan6-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> изда кандидату упут за лекарски преглед.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla3-clan7-stav1">
+								<content>
+									<p>Кандидат је дужан да надлежном центру Министарства одбране за локалну самоуправу, непосредно или препорученом поштом, пријави промену пребивалишта, здравственог стања, брачног стања, стицања стручне спреме и друге податке о којима се води војна евиденција и који могу бити значајни за упућивање на лекарски преглед за добровољно служење војног рока са оружјем.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan7-stav2">
+								<content>
+									<p>Кандидат је дужан да се јави на позив центра Министарства одбране за локалну самоуправу, односно да одмах по пријему позива обавести центaр Министарства одбране за локалну самоуправу о промени свог здравственог стања, болести или другом разлогу спречености да се одазове позиву.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan7-stav3">
+								<content>
+									<p>Ако је разлог због којег се кандидат није одазвао позиву на лекарски преглед оправдан, центар Министарства одбране за локалну самоуправу одредиће нови термин за лекарски преглед кандидата.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan7-stav4">
+								<content>
+									<p>Сматра се да је кандидат одустао од добровољног служења војног рока са оружјем, ако не оправда изостанак са лекарског прегледа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla3-clan8-stav1">
+								<content>
+									<p>Кандидат може одустати од добровољног служења војног рока са оружјем најкасније пре обављања лекарског прегледа, ако у писаној форми, обавести центар Министарства одбране за локалну самоуправу код кога се води у евиденцији.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla3-clan9-stav1">
+								<content>
+									<p>Кандидат за кога је донет акт о упућивању на добровољно служење војног рока са оружјем може на лични захтев одустати од служења војног рока, из следећих разлога:</p>
+									<point id="gla3-clan9-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> болести или повреде;</p>
+										</content>
+									</point>
+									<point id="gla3-clan9-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> рођења детета;</p>
+										</content>
+									</point>
+									<point id="gla3-clan9-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> склапања брака;</p>
+										</content>
+									</point>
+									<point id="gla3-clan9-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> смрти или тешке болести члана заједничког домаћинства;</p>
+										</content>
+									</point>
+									<point id="gla3-clan9-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> упућивања на школовање;</p>
+										</content>
+									</point>
+									<point id="gla3-clan9-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> запослења;</p>
+										</content>
+									</point>
+									<point id="gla3-clan9-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> елементарне непогоде којом би породица кандидата била доведена у тежак материјални положај.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan9-stav2">
+								<content>
+									<p>Доказе о разлозима из става 1. овога члана, кандидат је дужан да достави центру Министарства одбране за локалну самоуправу најкасније у року од осам дана од дана настанка разлога за одустанак од добровољног служења војног рока са оружјем.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla3-clan10-stav1">
+								<content>
+									<p>Након извршених лекарских прегледа центар Министарства одбране за локалну самоуправу утврђује ранг листу пријављених кандидата за добровољно служење војног рока са оружјем.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan10-stav2">
+								<content>
+									<p>Критеријуми за утврђивање ранг листе из става 1. овог члана су:</p>
+									<point id="gla3-clan10-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> утврђен потребан број војника за добровољно служење војног рока са оружјем;</p>
+										</content>
+									</point>
+									<point id="gla3-clan10-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> школска спрема;</p>
+										</content>
+									</point>
+									<point id="gla3-clan10-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> оцена здравствене способности;</p>
+										</content>
+									</point>
+									<point id="gla3-clan10-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> разлози које је кандидат навео у пријави за добровољно служење војног рока са оружјем.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan10-stav3">
+								<content>
+									<p>Утврђивање коначне ранг листе кандидата за позивање на добровољно служење војног рока са оружјем врше регионални центри Министарства одбране, на основу предлога центара Министарства одбране за локалну самоуправу.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan10-stav4">
+								<content>
+									<p>Избор потребног броја кандидата врше регионални центри Министарства одбране на основу утврђене коначне ранг листе кандидата за позивање на добровољно служење војног рока са оружјем и Плана упута, који израђује и доставља Министарствo одбране.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla3-clan11-stav1">
+								<content>
+									<p>Са изабраним кандидатима територијално надлежни центар Министарства одбране за локалну самоуправу закључује уговор којим се уређују међусобна права и обавезе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>УПУТ НА ДОБРОВОЉНО СЛУЖЕЊЕ ВОЈНОГ РОКА СА ОРУЖЈЕМ</heading>
+				<content>
+					<article id="gla4-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla4-clan12-stav1">
+								<content>
+									<p>Упут кандидата на добровољно служење војног рока са оружјем спроводи се у складу са наређењем министра одбране или лица које он овласти о упућивању кандидата на добровољно служење војног рока са оружјем.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan12-stav2">
+								<content>
+									<p>Центар Министарства одбране за локалну самоуправу појединачним позивом позива кандидата на добровољно служење војног рока са оружјем, најкасније осам дана пре упућивања у центар за обуку.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla4-clan13-stav1">
+								<content>
+									<p>Кандидат који је изабран за добровољно служење војног рока са оружјем актом надлежног органа дужан је да се јави у центар за обуку у време назначено у појединачном позиву.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan13-stav2">
+								<content>
+									<p>Добровољно служење војног рока са оружјем започиње даном ступања кандидата у центар за обуку, када кандидат постаје војник на добровољном служењу војног рока.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla4-clan14-stav1">
+								<content>
+									<p>Центар Министарства одбране за локалну самоуправу доставља центрима за обуку документацију за кандидате које упућује на добровољно служење војнога рока са оружјем, по правилу, најкасније пет дана пре дана одређеног за јављање кандидата у центар за обуку.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan14-stav2">
+								<content>
+									<p>Центри за обуку обавештавају центре Министарства одбране за локалну самоуправу о кандидатима који су се јавили на добровољно служење војног рока са оружјем, најкасније пет дана након њиховог јављања.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla4-clan15-stav1">
+								<content>
+									<p>Војнику за време трајања добровољног служења војног рока са оружјем обезбеђује се, у складу са законом:</p>
+									<point id="gla4-clan15-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> накнада путних трошкова за јављање на добровољно служење војног рока са оружјем у назначени центар за обуку, од места пребивалишта у Републици Србији до центра за обуку;</p>
+										</content>
+									</point>
+									<point id="gla4-clan15-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> накнада путних трошкова за повратак кући по одслужењу добровољног служења војног рока са оружјем, од центра за обуку до места пребивалишта у Републици Србији;</p>
+										</content>
+									</point>
+									<point id="gla4-clan15-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> новчана примања у месечном износу који одреди министар одбране;</p>
+										</content>
+									</point>
+									<point id="gla4-clan15-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> права из здравственог осигурања по прописима из здравственог осигурања у Војсци Србије за војне обвезнике;</p>
+										</content>
+									</point>
+									<point id="gla4-clan15-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> смештај и исхрана, војна одећа и обућа.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="gla4-clan16-stav1">
+								<content>
+									<p>Новчана примања из <ref>члана 15. тачка 3</ref>) ове уредбе припадају војнику почев од месеца у којем је ступио на добровољно служење војног рока и исплаћују се за сваки месец, закључно са месецом у којем му престаје својство војника на добровољном служењу војног рока.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>ПРЕКИД ДОБРОВОЉНОГ СЛУЖЕЊА ВОЈНОГ РОКА И ОТПУСТ</heading>
+				<content>
+					<article id="gla5-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="gla5-clan17-stav1">
+								<content>
+									<p>У случају самовољног прекида добровољног служења војног рока са оружјем, војник је дужан да накнади стварне трошкове Министарству одбране, у складу са потписаним уговором.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan17-stav2">
+								<content>
+									<p>Војнику се може, на његов захтев, извршити прекид добровољног служења војног рока са оружјем, без обавезе накнаде трошкова, из следећих разлога:</p>
+									<point id="gla5-clan17-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> смрти члана породице;</p>
+										</content>
+									</point>
+									<point id="gla5-clan17-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> теже болести члана породице;</p>
+										</content>
+									</point>
+									<point id="gla5-clan17-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> рођења детета;</p>
+										</content>
+									</point>
+									<point id="gla5-clan17-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> елементарне непогоде којом би породица војника била доведена у тежак материјални положај.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla5-clan17-stav3">
+								<content>
+									<p>О прекиду добровољног служења војног рока са оружјем и обавези накнаде трошкова одлучује  старешина команде, јединице или установе Војске  Србије на положају команданта батаљона или старешина њему равног или вишег  положаја у којој војник служи војни рок.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan18">
+						<num>18.</num>
+						<heading>*<ref id="ref6" href="/rs/act/2016/95/srp@">Службени гласник РС, број 95/2016</ref></heading>
+						<content>
+							<clause id="gla5-clan18-stav1">
+								<content>
+									<p>Војнику се прекида добровољно служење војног рока са оружјем, ако се утврди да је:</p>
+									<point id="gla5-clan18-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> оценом надлежне војне здравствене установе оглашен привремено неспособним или неспособним за војну службу;</p>
+										</content>
+									</point>
+									<point id="gla5-clan18-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> у време добровољног служења војног рока против њега покренут кривични поступак;</p>
+										</content>
+									</point>
+									<point id="gla5-clan18-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> учинио дисциплински преступ прописан Законом о Војсци Србије.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla5-clan18-stav2">
+								<content>
+									<p>У случају прекида добровољног служења војног рока са оружјем из разлога наведених у ставу 1. тач. 2) и 3) овог члана, територијални орган Министарства одбране покреће поступак накнаде трошкова у складу са закљученим уговором.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="gla5-clan19-stav1">
+								<content>
+									<p>Војник се отпушта из Војске Србије истеком прописаног рока за добровољно служење војног рока са оружјем, односно даном доношења акта о прекиду добровољног служења војног рока са оружјем.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan19-stav2">
+								<content>
+									<p>Датум завршетка добровољног служења војног рока са оружјем, односно датум и разлог прекида и отпуста из Војске Србије уписују се у војну књижицу и друга документа војне евиденције.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan19-stav3">
+								<content>
+									<p>При отпусту из Војске Србије војнику се уручује војна књижица, а остала документа из евиденције центар за обуку доставља центру Министарства одбране за локалну самоуправу, код којег се војник води у евиденцији.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>ЗАВРШНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla6-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla6-clan20-stav1">
+								<content>
+									<p>Ова уредба ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan20-stav2">
+								<content>
+									<p>05 број 110-639/2011-002</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan20-stav3">
+								<content>
+									<p>У Београду, 3. фебруара 2011. године</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan20-stav4">
+								<content>
+									<p>Влада</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan20-stav5">
+								<content>
+									<p>Председник,</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan20-stav6">
+								<content>
+									<p>др Мирко Цветковић, с.р.</p>
+								</content>
+							</clause>
+							<став id="gla6-clan20-stav7">
+								<img alt="vojni-rok.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/vojni-rok_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=418812&amp;regactid=418812"/>
+								<content/>
+							</став>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

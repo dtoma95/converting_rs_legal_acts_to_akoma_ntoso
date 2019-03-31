@@ -1,0 +1,253 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2018/57-32/main"/>
+					<FRBRuri value="/rs/act/2018/57-32"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/57-32/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/57-32/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/57-32/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/57-32/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2018-7-25" name="службени гласник рс" number="57" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="9. Боравак странаца" value="9. боравак странаца"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2018-07-20" id="usvajanje"/>
+				<step date="2018-08-02" id="stupanje_na_snagu"/>
+				<step date="2018-08-02" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 54. став 1. </ref>Закона о азилу и привременој заштити („<ref id="ref1" href="/rs/act/18/24/srp@">Службени гласник РС”, број 24/18</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар здравља доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о здравственим прегледима тражиоца азила приликом пријема у Центар за азил или други објекат за смештај тражилаца азила</title>
+			<date>&quot;Службени гласник РС&quot;, број 57 од 25. јула 2018.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником ближе се уређује обављање здравствених прегледа тражиоца азила приликом пријема у Центар за азил или други објекат за смештај тражилаца азила.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>Тражилац азила је странац који је поднео захтев за азил на територији Републике Србије о којем није донета правноснажна одлука од стране овлашћеног органа</heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Здравствени преглед тражиоца азила обавља доктор медицине у дому здравља.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Директор дома здравља одређује докторе медицине који обављају прегледе из става 1. овог члана.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Доктор медицине из става 1. овог члана упућује тражиоца азила у другу здравствену установу за преглед и анализе који се не могу обавити у дому здравља.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Здравствени преглед тражиоца азила обухвата:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> анамнезу (заразне и незаразне болести, вакцинални статус);</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> објективни преглед;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> друге дијагностичке прегледе.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Дијагностички преглед на заразне болести обухвата:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> лабораторијски преглед крви (SE, LE, DKS);</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> rtg снимак плућа;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> лабораторијски преглед столице на узрочнике: трбушног тифуса и паратифуса, салмонелоза анималног порекла, шигелоза и цревних протозоа.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>За тражиоца азила, а који долази из земаља у којима има колере, маларије и/или других обољења која представљају претњу по међународно јавно здравље или постоји епидемија и ризик од оболевања од заразних болести које се могу унети у земљу спроводи се здравствени надзор у периоду максималне инкубације за суспектно обољење.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Ако се у току здравственог прегледа утврди да постоји епидемиолошка индикација, здравствени преглед обухвата и лабораторијске анализе на друге заразне болести.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Доктор медицине обавештава тражиоца азила о потреби и могућностима заштите и лечења од заразних болести у Републици Србији, као и о важности и начину спровођења програма обавезних вакцинација.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Постављање дијагнозе заразне болести спроводи се у складу са правилима струке, стручним критеријумима, у складу са законом који регулише област заразних болести и прописа донетих на основу тог закона.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Запослени у Центру за азил или другом објекту за смештај тражилаца азила прате здравствено стање тражиоца азила и евентуалну појаву високе температуре, пролива, осипа и др. пријављују доктору медицине у дому здравља основаном за територију на којој се Центар за азил или други објекат за смештај тражилаца азила налази.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Здравствена установа издаје потврду о обављеном здравственом прегледу и здравственом стању тражиоца азила приликом пријема у Центар за азил или други објекат за смештај тражилаца азила.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Потврда из става 1. овог члана дата је на Обрасцу бр. 1 који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Даном ступања на снагу овог правилника престаје да важи Правилник о здравственим прегледима лица која траже азил приликом пријема у Центар за азил („<ref id="ref2" href="/rs/act/08/93/srp@">Службени гласник РС”, број 93/08</ref>).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Број 011-00-77/2018-02</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>У Београду 20. јула 2018. године</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav5">
+						<content>
+							<p>асс. Златибор Лончар, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav6">
+						<content>
+							<p>Прилози</p>
+						</content>
+					</clause>
+					<став id="clan10-stav7">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik-zdravstveni-pregled-azilanti_Page_1.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=426386&amp;regactid=426386"/>
+						<content/>
+					</став>
+					<став id="clan10-stav8">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik-zdravstveni-pregled-azilanti_Page_2.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=426386&amp;regactid=426386"/>
+						<content/>
+					</став>
+					<став id="clan10-stav9">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik-zdravstveni-pregled-azilanti_Page_3.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=426386&amp;regactid=426386"/>
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

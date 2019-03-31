@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1995/12-28/main"/>
+					<FRBRuri value="/rs/act/1995/12-28"/>
+					<FRBRdate date="1995" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2005/85-30/srp@/main"/>
+					<FRBRuri value="/rs/act/2005/85-30/srp@"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2005/85-30/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2005/85-30/srp@.akn"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1995-3-10" name="службени лист срј" number="12" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Закон" value="закон"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="14. Заштита од зрачења и нуклеарна сигурност" value="14. заштита од зрачења и нуклеарна сигурност"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1995-03-02" id="usvajanje"/>
+				<step date="1995-03-18" id="stupanje_na_snagu"/>
+				<step date="1995-03-18" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="12/1995-28" id="e1" type="generation"/>
+				<eventRef date="85/2005-30" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Закон је ступио на снагу осмог дана од дана објављивања у „Службеном листу СРЈ”, односно 18. марта 1995. године (види <ref>члан 5. </ref>Закона).Престале су да важе кривичноправне одредбе садржане у <ref>члану 3. </ref>Закона (види <ref>члан 431. </ref>Законика – 85/2005-30).</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<title>ЗАКОН</title>
+			<title>о забрани изградње нуклеарних електрана у Савезној Републици Југославији</title>
+			<date>„Службени лист СРЈ”, број 12 од 10.   марта  1995,     &quot;Службени гласник РС&quot;, број    85 од 6. октобра 2005  - др. закон</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Забрањује се изградња  нуклеарних електрана, постројења за производњу нуклеарног горива и постројења за  прераду ислуженог нуклераног горива за нуклеарне елетране у Савезној Републици  Југославији.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Забрана се односи на:  доношење инвестиционих одлука, израду инвестиционих програма и техничке  документације за изградњу нуклеарних електрана, постројења за производњу  нуклеарног горива и постројења за прераду ислуженог горива за нуклеарне  електране.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Одредбе <ref>члана 1. овог</ref>  закона не односе се на научноистраживачке и истраживачко-развојне радове,  рударско-геолошке истражне радове, геолошко-сеизмичка истраживања и образовање  кадрова.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content/>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>Престао је да важи (види <ref>члан 431.  </ref>Закона - 85/2005-30)</heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Даном ступања на снагу  овог закона престаје да важи Закон о забрани изградње нуклеарних електрана у  Социјалистичкој Федеративној Републици Југославији („<ref id="ref5" href="/rs/act/89/35/srp@">Службени лист СФРЈ”, бр.  35/89</ref>).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Овај закон ступа на снагу  осмог дана од дана објављивања у „Службеном листу СРЈ”.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

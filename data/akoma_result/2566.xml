@@ -1,0 +1,174 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2001/7-1/main"/>
+					<FRBRuri value="/rs/act/2001/7-1"/>
+					<FRBRdate date="2001" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2002/10-1/srp@/main"/>
+					<FRBRuri value="/rs/act/2002/10-1/srp@"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2002/10-1/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2002/10-1/srp@.akn"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2001-2-16" name="службени лист срј" number="7" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="IV ЈАВНИ ПРИХОДИ" value="iv јавни приходи"/>
+				<keyword id="grupa" showAs="4. Јавни зајмови" value="4. јавни зајмови"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2001-02-15" id="usvajanje"/>
+				<step date="2001-02-17" id="stupanje_na_snagu"/>
+				<step date="2001-02-17" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="7/2001-1" id="e1" type="generation"/>
+				<eventRef date="10/2002-1" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 18. </ref>Закона о измирењу обавеза по основу девизне штедње грађана (“<ref id="ref2" href="/rs/act/98/59/srp@">Службени лист СРЈ”, бр. 59/98</ref> и 44/99),</p>
+			<p>Савезна влада доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о  превременом откупу обвезница Савезне Републике Југославије по основу девизне  штедње грађана ради плаћања одређених трошкова</title>
+			<date>„Службени лист СРЈ”, бр. 7 од 16. фебруара 2001, 10 од 22. фебруара 2002.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Овом одлуком утврђују се услови откупа и износ обвезница Савезне Републике Југославије из <ref>члана 4. </ref>Закона о измирењу обавеза по основу девизне штедње грађана (“<ref id="ref3" href="/rs/act/98/59/srp@">Службени лист СРЈ”, бр. 59/98</ref> и 44/99) (у даљем тексту: Закон) (у даљем тексту: обвезнице), пре рока њиховог доспећа, које су грађани (у даљем тексту: доносиоци обвезница) остварили по основу девизне штедње.</heading>
+				<content>
+					<clause id="od1-stav1">
+						<content>
+							<p>Висина средстава до којих ће се откупљивати обвезнице из става 1. ове тачке пре рока њиховог доспећа за намене утврђене овом одлуком утврђује се Пројекцијом платног биланса Савезне Републике Југославије за текућу годину.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Доносилац обвезнице може користити обвезницу пре рока доспећа, ради плаћања трошкова насталих од дана ступања на снагу Закона, и то:*</heading>
+				<content>
+					<point id="od2-tac1">
+						<num>1)</num>
+						<content>
+							<p> трошкова лечења у земљи, на основу оверених рачуна надлежне здравствене установе, до износа стварних трошкова лечења које утврди та установа уз приложено мишљење лекара специјалисте са дијагнозом о неопходности лечења;</p>
+						</content>
+					</point>
+					<point id="od2-tac2">
+						<num>2)</num>
+						<content>
+							<p> трошкова набавке лекова, ортопедских помагала и справа у земљи, на основу рецепта и оверених рачуна одговарајуће апотекарске организације или другог правног лица које се бави набавком и продајом лекова, односно ортопедских помагала – до износа утврђеног у профактури уз приложено мишљење лекара специјалисте са дијагнозом о неопходности набавке лекова, ортопедских помагала и справа;</p>
+						</content>
+					</point>
+					<point id="od2-tac3">
+						<num>3)</num>
+						<content>
+							<p> трошкова лечења у иностранству болести које се не могу лечити у Савезној Републици Југославији, уз одобрење републичког органа надлежног за послове из области здравства, до износа стварних трошкова, а на основу рачуна надлежне здравствене установе у иностранству;</p>
+						</content>
+					</point>
+					<point id="od2-tac4">
+						<num>4)</num>
+						<content>
+							<p> трошкова набавке лекова, ортопедских помагала и справа, који се не производе у Савезној Републици Југославији, уз одобрење републичког органа надлежног за послове из области здравства, до износа стварних трошкова, а на основу рачуна надлежне установе у иностранству;</p>
+						</content>
+					</point>
+					<point id="od2-tac5">
+						<num>5)</num>
+						<content>
+							<p> трошкова сахране – до 500 EUR* у динарској противвредности, на основу оверених рачуна надлежне установе. Ако се не приложе оверени рачуни – плаћа се на основу извода из матичне књиге умрлих, у износу до 250 EUR* у динарској противвредности;</p>
+						</content>
+					</point>
+					<point id="od2-tac6">
+						<num>6)</num>
+						<content>
+							<p> трошкова преноса посмртних остатака из иностранства – до висине стварних трошкова на основу оверених рачуна што се доказује одговарајућом документацијом.</p>
+						</content>
+					</point>
+					<clause id="od2-stav1">
+						<content>
+							<p>*<ref id="ref4" href="/rs/act/2002/10/srp@">Службени лист СРЈ, број 10/2002</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Плаћање трошкова утврђених овом одлуком врши се преко овлашћене банке.</heading>
+				<content/>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Откуп обвезница ради плаћања трошкова из тачке 2. ове одлуке врши се до висине тих трошкова са посебних рачуна отворених код Народне банке Југославије у складу са Законом.</heading>
+				<content/>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> До дистрибуирања свих обвезница емитованих у складу са Одлуком о емисији обвезница Савезне Републике Југославије за измирење обавеза по основу девизне штедње грађана („<ref id="ref5" href="/rs/act/2001/4/srp@">Службени лист СРЈ”, бр. 4/2001, 6/2001</ref> и 27/2001) трошкове до износа и под условима утврђеним овом одлуком грађани који имају право по основу девизне штедње могу плаћати и непосредно са девизних рачуна и девизних штедних књижица преко овлашћене банке.*</heading>
+				<content>
+					<clause id="od5-stav1">
+						<content>
+							<p>*<ref id="ref6" href="/rs/act/2002/10/srp@">Службени лист СРЈ, број 10/2002</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od6">
+				<num>6.</num>
+				<heading> Ова одлука ступа на снагу наредног дана од дана објављивања у “Службеном листу СРЈ”.</heading>
+				<content>
+					<clause id="od6-stav1">
+						<content>
+							<p>Е. п. бр. 27</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od15">
+				<num>15.</num>
+				<heading> фебруара 2001. године</heading>
+				<content>
+					<clause id="od15-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od15-stav2">
+						<content>
+							<p>Савезна влада</p>
+						</content>
+					</clause>
+					<clause id="od15-stav3">
+						<content>
+							<p>Председник</p>
+						</content>
+					</clause>
+					<clause id="od15-stav4">
+						<content>
+							<p>Зоран Жижић, с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

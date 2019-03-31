@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2015/51-16/main"/>
+					<FRBRuri value="/rs/act/2015/51-16"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/84-55/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/84-55/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/84-55/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/84-55/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2015-6-12" name="службени гласник рс" number="51" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="8. Девизно пословање и страна улагања" value="8. девизно пословање и страна улагања"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2015-06-11" id="usvajanje"/>
+				<step date="2015-07-01" id="stupanje_na_snagu"/>
+				<step date="2015-07-01" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="51/2015-16" id="e1" type="generation"/>
+				<eventRef date="3/2016-53" id="e2" type="amendment"/>
+				<eventRef date="84/2018-55" id="e3" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Одлука ступа на снaгу 1. јула 2015. године (види тачку 30. Одлуке).Одлука престаје да важи даном почетка примене Одлуке о условима и начину обављања мењачких послова (<ref id="ref3" href="/rs/act/2018/84/srp@">Службени гласник РС, број 84/2018</ref>), односно 1. јануара 2019. године, осим одредбее тач. 21. и 22. које ће се примењивати до дана почетка примене тачке 40. и тач. од 42. до 45. Одлуке о условима и начину обављања мењачких послова (<ref id="ref4" href="/rs/act/2018/84/srp@">Службени гласник РС, број 84/2018</ref>), односно до 1. јула 2019. године (види <ref>члан 46. </ref>Одлуке - 84/2018-55).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 39. став 6. </ref>Закона о девизном пословању („<ref id="ref5" href="/rs/act/06/62/srp@">Службени гласник РС”, бр. 62/06, 31/11</ref> и 119/12) и <ref>члана 14. став 1. тачка 9</ref>, а у вези с чланом 34. тачка 9. Закона о Народној банци Србије („<ref id="ref6" href="/rs/act/03/72/srp@">Службени гласник РС”, бр. 72/03, 55/04, 85/05</ref> – др. закон, 44/10, 76/12, 106/12, 14/15 и 40/15 – одлука УС),</p>
+			<p>Извршни одбор Народне банке Србије доноси</p>
+			<p>ОДЛУКУ</p>
+		</preamble>
+		<preface>
+			<authority>о условима и начину обављања мењачких послова</authority>
+			<title>&quot;Службени гласник РС&quot;, бр. 51 од 12. јуна      2015, 3 од 15. јануара 2016, 84 од 2. новембра 2018.</title>
+			<date>1-20. Престале су да важе (види тачку      46. Одлуке - 84/2018-55)</date>
+		</preface>
+		<body>
+			<section id="od21">
+				<num>21.</num>
+				<heading> За обављање мењачких послова овлашћени мењач користи софтвер једне од банака с којима има закључен уговор или софтвер Народне банке Србије ако је с њом закључио уговор о инсталирању, коришћењу и одржавању софтвера.</heading>
+				<content>
+					<clause id="od21-stav1">
+						<content>
+							<p>За обављање мењачких послова јавни поштански оператор користи сопствени софтвер.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od22">
+				<num>22.</num>
+				<heading> Банка је дужна да Народној банци Србије свакодневно, у електронском облику, доставља извештај о обављеним мењачким пословима, који садржи и податке о мењачким пословима који су обављени на основу налога које физичко лице достави електронски, а према обрасцу прописаном упутством за спровођење ове одлуке.</heading>
+				<content>
+					<clause id="od22-stav1">
+						<content>
+							<p>Овлашћени мењач који користи софтвер Народне банке Србије дужан је да јој свакодневно, у електронском облику, доставља извештај о обављеним мењачким пословима, који садржи све податке према обрасцу прописаном упутством за спровођење ове одлуке.</p>
+						</content>
+					</clause>
+					<clause id="od22-stav2">
+						<content>
+							<p>У случају прекида рада електронског система – банка из става 1, односно овлашћени мењач из става 2. ове тачке дужни су да извештај о обављеним мењачким пословима доставе одмах после успостављања рада тог система.</p>
+						</content>
+					</clause>
+					<clause id="od22-stav3">
+						<content>
+							<p>Народна банка Србије извештаје из ст. 1. и 2. ове тачке свакодневно доставља Пореској управи.</p>
+						</content>
+					</clause>
+					<clause id="od22-stav4">
+						<content>
+							<p>Овлашћени мењач који користи софтвер банке, дужан је да тој банци свакодневно доставља извештај о обављеним мењачким пословима, који садржи све податке према обрасцу прописаном упутством за спровођење ове одлуке.</p>
+						</content>
+					</clause>
+					<clause id="od22-stav5">
+						<content>
+							<p>Јавни поштански оператор дужан је да банци из тачке 6. став 2. ове одлуке свакодневно доставља извештај о обављеним мењачким пословима, који садржи све податке према обрасцу прописаном упутством за спровођење ове одлуке.</p>
+						</content>
+					</clause>
+					<clause id="od22-stav6">
+						<content>
+							<p>23-30. Престале су да важе (види      тачку 46. Одлуке - 84/2018-55)</p>
+						</content>
+					</clause>
+					<clause id="od22-stav7">
+						<content>
+							<p>ИО НБС број 39</p>
+						</content>
+					</clause>
+					<clause id="od22-stav8">
+						<content>
+							<p>У Београду, 11. јуна 2015. године</p>
+						</content>
+					</clause>
+					<clause id="od22-stav9">
+						<content>
+							<p>Председавајућа</p>
+						</content>
+					</clause>
+					<clause id="od22-stav10">
+						<content>
+							<p>Извршног одбора Народне банке Србије</p>
+						</content>
+					</clause>
+					<clause id="od22-stav11">
+						<content>
+							<p>гувернер</p>
+						</content>
+					</clause>
+					<clause id="od22-stav12">
+						<content>
+							<p>Народне банке Србије,</p>
+						</content>
+					</clause>
+					<clause id="od22-stav13">
+						<content>
+							<p>др Јоргованка Табаковић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

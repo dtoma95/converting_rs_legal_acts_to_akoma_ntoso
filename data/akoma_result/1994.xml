@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2008/65-14/main"/>
+					<FRBRuri value="/rs/act/2008/65-14"/>
+					<FRBRdate date="2008" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2008/65-14/srp@/main"/>
+					<FRBRuri value="/rs/act/2008/65-14/srp@"/>
+					<FRBRdate date="2008" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2008/65-14/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2008/65-14/srp@.akn"/>
+					<FRBRdate date="2008" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2008-7-5" name="службени гласник рс“" number="65" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="4. Полиција, јавни ред и мир и јавно окупљање" value="4. полиција, јавни ред и мир и јавно окупљање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2008-06-23" id="usvajanje"/>
+				<step date="2008-07-13" id="stupanje_na_snagu"/>
+				<step date="2008-07-13" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 150, </ref>а у вези са чланом 149. Закона о полицији („<ref id="ref3" href="/rs/act/05/101/srp@">Службени гласник РС”, број 101/05</ref>) и <ref>члана 17. став 4. </ref>и <ref>члана 24. </ref>Закона о Влади („<ref id="ref4" href="/rs/act/05/55/srp@">Службени гласник РС”, бр. 55/05, 71/05</ref> – исправка и 101/07),</p>
+		</preamble>
+		<preface>
+			<authority>Министар унутрашњих послова доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о накнади трошкова полицијским службеницима упућеним на вршење службених послова и задатака у другу организациону јединицу Министарства унутрашњих послова</title>
+			<date>„Службени гласник РС“, број 65 од 5. јула 2008.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником уређују се услови под којима полицијски службеници остварују право на накнаду трошкова превоза, смештаја и исхране, који настају у вези са њиховим упућивањем на вршење службених послова и задатака у другу организациону јединицу Министарства унутрашњих послова (у даљем тексту: Министарство) и висина и начин накнаде.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Накнада трошкова превоза признаје се за превоз од места пребивалишта до места боравишта, највише два пута месечно.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Накнада трошкова из става 1. овог члана исплаћује се према приложеним картама за превоз у међуградском саобраћају.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Накнада трошкова смештаја признаје се за смештај у хотелу, односно приватан смештај, у месту боравишта.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Полицијском службенику исплаћује се накнада трошкова из става 1. овог члана према приложеном хотелском рачуну за преноћиште и доручак, односно износу закупнине из уговора о закупу у приватном смештају, закљученог уз претходну сагласност Министарства.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Полицијском службенику смештеном у хотелу прве категорије (пет звездица), као и у објекту Министарства, не признају се трошкови смештаја.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Накнада трошкова исхране износи 5% просечне месечне зараде по запосленом у привреди Републике Србије, према последњем коначном објављеном податку републичког органа надлежног за послове статистике на дан исплате.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Накнада из става 1. овог члана исплаћује се полицијском службенику по истеку месеца у коме су трошкови настали, према приложеном списку обрачунате накнаде.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Накнада трошкова превоза, смештаја и исхране врши се према документацији која представља доказ да су ти трошкови настали, а коју организациона јединица у коју је полицијски службеник упућен доставља Управи за заједничке послове у седишту Министарства.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>01 број 5062/08</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>У Београду, 23. јуна 2008. године</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav5">
+						<content>
+							<p>Драган Јочић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,553 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2017/17-10/main"/>
+					<FRBRuri value="/rs/act/2017/17-10"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2017/17-10/srp@/main"/>
+					<FRBRuri value="/rs/act/2017/17-10/srp@"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2017/17-10/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2017/17-10/srp@.akn"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2017-3-6" name="службени гласник рс" number="17" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="4. Полиција, јавни ред и мир и јавно окупљање" value="4. полиција, јавни ред и мир и јавно окупљање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2017-03-03" id="usvajanje"/>
+				<step date="2017-03-14" id="stupanje_na_snagu"/>
+				<step date="2017-03-14" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 14. марта 2017. године (види <ref>члан 20. </ref>Уредбе).</p>
+				</note>
+				<note id="not2">
+					<p>Уредба је ступила на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 14. марта 2017. године (види <ref>члан 20. </ref>Уредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 167. став 4. </ref>Закона о полицији („<ref id="ref4" href="/rs/act/16/6/srp@">Службени гласник РС”, број 6/16</ref>) и <ref>члана 42. став 1. </ref>Закона о Влади („<ref id="ref5" href="/rs/act/05/55/srp@">Службени гласник РС”, бр. 55/05, 71/05</ref> – исправка, 101/07, 65/08, 16/11, 68/12 – УС, 72/12, 7/14 – УС и 44/14),</p>
+		</preamble>
+		<preface>
+			<authority>Влада доноси,</authority>
+			<title>УРЕДБУ</title>
+			<title>о оцењивању полицијских службеника и других запослених у Министарству унутрашњих послова</title>
+			<date>&quot;Службени гласник РС&quot;, број 17 од 6. марта      2017.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>УВОДНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овом уредбом утврђују се систем, мерила и начин оцењивања рада полицијских службеника и других запослених (у даљем тексту: запослени), у Министарству унутрашњих послова (у даљем тексту: Министарство).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Оцењивање је основ за праћење и унапређење резултата рада запослених у Министарству, каријерни развој и напредовање, а у сврху остваривања стратешких циљева и планова Министарства.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Поступак оцењивања је јаван.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav2">
+								<content>
+									<p>Резултати поступка оцењивања су поверљиви.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav3">
+								<content>
+									<p>Оцењивање је независно и непристрасно.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ЕЛЕМЕНТИ СИСТЕМА ЗА ОЦЕЊИВАЊЕ ЗАПОСЛЕНИХ</heading>
+				<content>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla2-clan4-stav1">
+								<content>
+									<p>Оцењује се рад свих запослених.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav2">
+								<content>
+									<p>Не оцењује се рад запослених који су радили краће од три месеца у циклусу оцењивања, односно краће од шест месеци у току календарске године и приправници.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla2-clan5-stav1">
+								<content>
+									<p>Годишње оцењивање рада запослених врши се сваке године у два циклуса са једном закључном оценом.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan5-stav2">
+								<content>
+									<p>Први циклус за који се спроводи оцењивање рада запослених је период од 1. јануара до 30. јуна текуће године.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan5-stav3">
+								<content>
+									<p>Други циклус за који се спроводи оцењивање рада запослених је период од 1. јула до 31. децембра текуће године.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan5-stav4">
+								<content>
+									<p>Закључну оцену рада запосленог чини просек оцена добијених у току два циклуса оцењивања у текућој години.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan5-stav5">
+								<content>
+									<p>Ако запослени није оцењен у једном од циклуса оцењивања, закључну оцену чини оцена из циклуса у којем је запослени оцењен.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan5-stav6">
+								<content>
+									<p>Оцена по истеку циклуса оцењивања мора бити дата у року од 30 дана од дана завршетка циклуса за оцењивање, а закључна годишња оцена рада најкасније до 1. фебруара текуће године за претходну годину.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla2-clan6-stav1">
+								<content>
+									<p>Оцењивање рада запосленог врши непосредни руководилац (у даљем тексту: оцењивач).</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav2">
+								<content>
+									<p>Контролу оцене рада запосленог врши непосредни руководилац оцењивача (у даљем тексту: контролор).</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav3">
+								<content>
+									<p>Ако се контролор не слаже са оценом оцењивача, оцену даје контролор.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla2-clan7-stav1">
+								<content>
+									<p>Оцењивање рада запослених врши се на посебном обрасцу за оцењивање рада запослених на руководећим радним местима и посебном обрасцу за оцењивање рада запослених на извршилачким радним местима, који су саставни део ове уредбе (Прилог 1а, 1б, 1в, 1г и Прилог 2).</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav2">
+								<content>
+									<p>Оцењивање рада запослених врши се кроз програмску апликацију.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<heading>Мерила за оцењивање рада запослених</heading>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>Мерила за оцењивање рада запослених су: базичне компетенције и резултати рада.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav2">
+								<content>
+									<p>У оцењивању рада запослених користи се укупно десет мерила: шест базичних компетенција и четири мерила резултата рада.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<heading>Базичне компетенције</heading>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>Појам, врсте и индикатори за оцењивање базичних компетенција прописани су актом који уређује компетенције за запослене и саставни су део обрасца за оцењивање.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan10">
+						<num>10.</num>
+						<heading>Резултати рада</heading>
+						<content>
+							<clause id="gla2-clan10-stav1">
+								<content>
+									<p>Мерила за оцењивање резултата рада за запослене на руководећим радним местима су: вођење и развој запослених, иновативност, коришћење нових метода рада и технологија и степен остварења планираних резултата организационе јединице.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav2">
+								<content>
+									<p>Мерила за оцењивање резултата рада за запослене на извршилачким радним местима су: професионализам, иновативност, коришћење нових метода рада и технологија и допринос остварењу планираних резултата организационе јединице.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav3">
+								<content>
+									<p>Мерила за оцењивање резултата рада и индикатори саставни су део обрасца за оцењивање.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>НАЧИН ОЦЕЊИВАЊА</heading>
+				<content>
+					<article id="gla3-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla3-clan11-stav1">
+								<content>
+									<p>На почетку сваког циклуса оцењивања оцењивач упознаје запослене са планским документима Министарства и очекиваним резултатима организационе јединице.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan11-stav2">
+								<content>
+									<p>Планирани резултати рада организационе јединице могу да се измене уколико се измене циљеви Министарства за текућу годину и уколико наступе околности због којих се циљеви не могу остварити.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla3-clan12-stav1">
+								<content>
+									<p>Оцењивач је дужан да током циклуса оцењивања континуирано прати рад запосленог који се оцењује.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla3-clan13-stav1">
+								<content>
+									<p>На крају циклуса за оцењивање оцењивач попуњава образац за оцењивање запосленог.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav2">
+								<content>
+									<p>У образац за оцењивање уноси се оценa и коментари који су од значаја за предложену оцену.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla3-clan14-stav1">
+								<content>
+									<p>Свако мерило се оцењује применом четворостепене бодовне скале, и то:</p>
+									<alinea id="gla3-clan14-stav1-ali1">
+										<content>
+											<p> бод – „неприхватљиво”;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan14-stav1-ali2">
+										<content>
+											<p> бода – „потребно је унапређење”;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan14-stav1-ali3">
+										<content>
+											<p> бода – „испуњава очекивање”;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan14-stav1-ali4">
+										<content>
+											<p> бода – „значајно превазилази очекивање”.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+							<clause id="gla3-clan14-stav2">
+								<content>
+									<p>Оцене по појединачним мерилима множе се одговарајућим пондерима. Пондер представља фактор важности појединачног мерила за оцењивање рада и показује процентуални удео оцене појединачног мерила за оцењивање у укупном броју бодова.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan14-stav3">
+								<content>
+									<p>Пондери су саставни део обрасца за оцењивање.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan14-stav4">
+								<content>
+									<p>Укупан број бодова представља збир остварених бодова по сваком појединачном мерилу.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan14-stav5">
+								<content>
+									<p>Распон остварених бодова опредељује укупну оцену рада запосленог на крају сваког циклуса оцењивања, и то:</p>
+									<alinea id="gla3-clan14-stav5-ali1">
+										<content>
+											<p> – 2,0 бода – оцена је „недовољан – 1”;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan14-stav5-ali2">
+										<content>
+											<p>,1 – 2,5 бода – оцена је „довољан – 2”;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan14-stav5-ali3">
+										<content>
+											<p>,6 – 3,0 бода – оцена је „добар – 3”;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan14-stav5-ali4">
+										<content>
+											<p>,1 – 3,5 бода – оцена је „истиче се – 4”;</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan14-stav5-ali5">
+										<content>
+											<p>,6 – 4,0 бода – оцена је „нарочито се истиче – 5”.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla3-clan15-stav1">
+								<content>
+									<p>Оцењивач на крају сваког циклуса оцењивања обавља разговор са запосленима чији рад оцењује.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan15-stav2">
+								<content>
+									<p>У току разговора оцењивач упознаје запосленог са оценом и унетим коментарима и заједнички утврђују, уколико је потребно, активности и временске рокове за унапређење компентенција и резултата рада запосленог.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="gla3-clan16-stav1">
+								<content>
+									<p>Контролор проверава образац за оцењивање, решава могуће несугласице између оцењивача и запосленог и уписује у образац за оцењивање своје коментаре на оцену.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan16-stav2">
+								<content>
+									<p>У складу са чланом 6. став 3. ове уредбе, контролор, изузетно, даје и оцену.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan16-stav3">
+								<content>
+									<p>Ако је оцењивач руководилац унутрашње организационе јединице, оцењивач је уједно и контролор.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan16-stav4">
+								<content>
+									<p>Примерак обрасца закључне годишње оцене рада доставља се запосленом и унутрашњој организационој јединици у чијем делокругу су послови људских ресурса.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="gla3-clan17-stav1">
+								<content>
+									<p>Запослени који није задовољан закључном годишњом оценом рада може поднети захтев за преиспитивање те оцене, у року од осам дана од дана достављања обрасца закључне оцене рада.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan17-stav2">
+								<content>
+									<p>Захтев за преиспитивање закључне годишње оцене рада подноси се Комисији за преиспитивање закључне оцене рада (у даљем тексту: Комисија), преко оцењивача, односно контролора.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan17-stav3">
+								<content>
+									<p>Образац о оцењивању и мишљење о основаности захтева оцењивач, односно контролор, ако је он дао закључну годишњу оцену рада, доставља Комисији, у року од осам дана од дана пријема захтева.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan17-stav4">
+								<content>
+									<p>Комисија има председника и једног сталног и једног променљивог члана, које, на период од три године, именује и разрешава министар унутрашњих послова.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan17-stav5">
+								<content>
+									<p>Председник Комисије именује се између запослених у унутрашњој организационој јединици у чијем делокругу су послови људских ресурса, стални члан између запослених у Секретаријату, а променљиви члан је оцењивач, односно контролор који је дао оцену.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan17-stav6">
+								<content>
+									<p>Комисија је дужна да у току преиспитивања захтева обави разговор са подносиоцем и на обрасцу за оцењивање утврди коначну закључну оцену рада, у року од 30 дана од дана пријема захтева у Комисији, и да у року од осам дана од дана утврђивања коначне закључне оцене рада, преко унутрашње организационе јединице у чијем делокругу су послови људских ресурса, примерак обрасца достави запосленом и оцењивачу, односно контролору који је дао оцену.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="gla3-clan18-stav1">
+								<content>
+									<p>Унутрашња организациона јединица у чијем делокругу су послови људских ресурса обавезна је:</p>
+									<point id="gla3-clan18-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> да се стара о уједначености спровођења поступка оцењивања;</p>
+										</content>
+									</point>
+									<point id="gla3-clan18-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> да даје смернице и упутства о свим питањима везаним за оцењивање;</p>
+										</content>
+									</point>
+									<point id="gla3-clan18-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> анализира сваки циклус оцењивања и у свом годишњем извештају наводи да ли су потребне промене у поступку оцењивања рада и које;</p>
+										</content>
+									</point>
+									<point id="gla3-clan18-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> организује обуке оцењивача и контролора и предлаже мере којима се уједначава начин одређивања оцена и спровођење поступка оцењивања у свим организационим јединицама Министарства.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ПРЕЛАЗНА И ЗАВРШНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla4-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="gla4-clan19-stav1">
+								<content>
+									<p>Даном почетка примене ове уредбе престаје да важи глава III. Оцењивање рада, односно чл. 9–11. Уредбе о начелима за унутрашње уређење Министарства унутрашњих послова („<ref id="ref6" href="/rs/act/06/8/srp@">Службени гласник РС”, бр. 8/06, 14/09</ref> – УС и 119/13).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla4-clan20-stav1">
+								<content>
+									<p>Ова уредба ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav2">
+								<content>
+									<p>05 број 110-1789/2017</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav3">
+								<content>
+									<p>У Београду, 3. марта 2017. године</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav4">
+								<content>
+									<p>Влада</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav5">
+								<content>
+									<p>Председник,</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav6">
+								<content>
+									<p>Александар Вучић, с.р.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav7">
+								<content>
+									<p>Прилози</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav8">
+								<content>
+									<p>Прилог 1А - Образац за оцењивање рада запослених на руководећим      радним местима оперативног нивоа</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav9">
+								<content>
+									<p>Прилог 1Б - Образац за оцењивање рада запослених на руководећим      радним местима средњег нивоа</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav10">
+								<content>
+									<p>Прилог 1В - Образац за оцењивање рада запослених на руководећим      радним местима високог нивоа</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan20-stav11">
+								<content>
+									<p>Прилог 1Г - Образац за оцењивање рада запослених на руководећим      радним местима стратешког нивоа</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

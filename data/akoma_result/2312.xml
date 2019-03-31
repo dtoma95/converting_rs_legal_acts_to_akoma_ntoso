@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2013/79-4/main"/>
+					<FRBRuri value="/rs/act/2013/79-4"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2016/61-39/srp@/main"/>
+					<FRBRuri value="/rs/act/2016/61-39/srp@"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2016/61-39/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2016/61-39/srp@.akn"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2013-9-6" name="службени гласник рс" number="79" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Закључак" value="закључак"/>
+				<keyword id="oblast" showAs="I ДРЖАВНО УРЕЂЕЊЕ" value="i државно уређење"/>
+				<keyword id="grupa" showAs="16. Борба против корупције, заштита узбуњивача и лобирање" value="16. борба против корупције, заштита узбуњивача и лобирање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2013-08-25" id="usvajanje"/>
+				<step date="" id="stupanje_na_snagu"/>
+				<step date="" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="79/2013-4" id="e1" type="generation"/>
+				<eventRef date="61/2016-39" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<body/>
+	</act>
+</akomaNtoso>

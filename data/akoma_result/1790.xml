@@ -1,0 +1,2612 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2012/118-55/main"/>
+					<FRBRuri value="/rs/act/2012/118-55"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2016/25-76/srp@/main"/>
+					<FRBRuri value="/rs/act/2016/25-76/srp@"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2016/25-76/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2016/25-76/srp@.akn"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2012-12-14" name="службени гласник рс" number="118" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Статут" value="статут"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="10. Социјална заштита и друштвена брига о деци" value="10. социјална заштита и друштвена брига о деци"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2012-11-23" id="usvajanje"/>
+				<step date="2012-12-22" id="stupanje_na_snagu"/>
+				<step date="2012-12-22" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="118/2012-55" id="e1" type="generation"/>
+				<eventRef date="27/2013-58" id="e2" type="amendment"/>
+				<eventRef date="13/2014-46" id="e3" type="amendment"/>
+				<eventRef date="25/2016-76" id="e4" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу <ref>члана 155. став 4. </ref>Закона о социјалној заштити („<ref id="ref9" href="/rs/act/11/24/srp@">Службени гласник РС”, број 24/11</ref>),</p>
+			<p>Скупштина Коморе социјалне заштите, на седници одржаној 23. новембра 2012. године, у Београду, усвојила је</p>
+			<p>СТАТУТ</p>
+		</preamble>
+		<preface>
+			<authority>Коморе социјалне заштите</authority>
+			<title>&quot;Службени гласник РС&quot;, бр. 118 од 14.   децембра 2012, 27 од 22. марта 2013, 13 од 5. фебруара   2014, 25 од 9. марта 2016.</title>
+			<date>I ОСНОВНЕ ОДРЕДБЕ</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим статутом уређује се: састав, начин и поступак избора органа Коморе, поступак разрешења, број чланова у органима Коморе, надлежности органа Коморе и друга питања утврђена законом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Област остваривања циљева*</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Комора социјалне заштите (у даљем тексту: Комора) је независна и   професионална организација запослених стручних радника и стручних сарадника   у области социјалне заштите oснована ради остваривања следећих циљева:*</p>
+							<alinea id="clan2-stav2-ali1">
+								<content>
+									<p>провођења поступка лиценцирања стручних радника у социјалној   заштити;*</p>
+								</content>
+							</alinea>
+							<alinea id="clan2-stav2-ali2">
+								<content>
+									<p>оношења Кодекса професионалне етике и формирања Етичког одбора;*</p>
+								</content>
+							</alinea>
+							<alinea id="clan2-stav2-ali3">
+								<content>
+									<p>тврђивања повреда професионалне етике и изрицања мера за почињене   повреде у складу са одредбама Кодекса;*</p>
+								</content>
+							</alinea>
+							<alinea id="clan2-stav2-ali4">
+								<content>
+									<p>аступања професионалних интереса чланова и запослених у социјалној   заштити;*</p>
+								</content>
+							</alinea>
+							<alinea id="clan2-stav2-ali5">
+								<content>
+									<p>ружања стручне помоћи члановима;*</p>
+								</content>
+							</alinea>
+							<alinea id="clan2-stav2-ali6">
+								<content>
+									<p>авања иницијативе за изменe прописа у области социјалне заштите;*</p>
+								</content>
+							</alinea>
+							<alinea id="clan2-stav2-ali7">
+								<content>
+									<p>рганизовања стручних скупова, обраде података и истраживања;*</p>
+								</content>
+							</alinea>
+							<alinea id="clan2-stav2-ali8">
+								<content>
+									<p>бављања издавачке делатности у области социјалне заштите.*</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>*<ref id="ref10" href="/rs/act/2013/27/srp@">Службени гласник РС,   број 27/2013</ref></p>
+						</content>
+					</clause>
+					<clause id="clan2-stav4">
+						<content>
+							<p>II ПОСЕБНЕ ОДРЕДБЕ</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>Назив и седиште</heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Назив Коморе је: „Комора социјалне заштите”.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Скраћени назив Коморе је: „КСЗ”.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Комора се уписује се у регистар комора који води Агенција за привредне регистре.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>Комора има рачун.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav5">
+						<content>
+							<p>Седиште Коморе је у Београду, Ул. Teразије бр. 41.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav6">
+						<content>
+							<p>Комора има и огранке у Новом Саду и Краљеву.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>Средства за рад</heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Средства за оснивање и рад Коморе обезбеђују се:</p>
+							<тачка id="clan4-stav1-tac1">
+								<num>1.</num>
+								<content>
+									<p> из буџета Републике Србије,</p>
+								</content>
+							</тачка>
+							<тачка id="clan4-stav1-tac2">
+								<num>2.</num>
+								<content>
+									<p> од чланарине коју плаћају чланови Коморе, накнаде за упис у   Регистар Коморе, накнаде за издавање и обнављање лиценце, накнаде за   полагање испита за лиценцу, накнаде за издавање уверења о чињеницама из   регистара које води Комора,**</p>
+								</content>
+							</тачка>
+							<тачка id="clan4-stav1-tac3">
+								<num>3.</num>
+								<content>
+									<p> од добровољних прилога, поклона, легата и завештања,</p>
+								</content>
+							</тачка>
+							<тачка id="clan4-stav1-tac4">
+								<num>4.</num>
+								<content>
+									<p> од сопствене издавачке делатности,</p>
+								</content>
+							</тачка>
+							<тачка id="clan4-stav1-tac5">
+								<num>5.</num>
+								<content>
+									<p> од сопствених прихода реализацијом одређених акција, допунских делатности, услуга трећим лицима, наплатом котизације,</p>
+								</content>
+							</тачка>
+							<тачка id="clan4-stav1-tac6">
+								<num>6.</num>
+								<content>
+									<p> од прихода остварених извршењем појединих уговорних обавеза (организовање стручних састанака, усавршавање стручних кадрова, експертиза и друго),</p>
+								</content>
+							</тачка>
+							<тачка id="clan4-stav1-tac7">
+								<num>7.</num>
+								<content>
+									<p> из других извора, у складу са законом.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>У случају престанка рада, имовина удружења Коморе социјалне заштите,   пренеће се на домаће недобитно правно лице*,   ** ради остваривања   истих или сличних циљева, односно Скупштина ће одлуком о престанку одредити   коме се имовина преноси у складу са Законом.*</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>*<ref id="ref11" href="/rs/act/2013/27/srp@">Службени гласник РС,   број 27/2013</ref></p>
+						</content>
+					</clause>
+					<clause id="clan4-stav4">
+						<content>
+							<p>**<ref id="ref12" href="/rs/act/2014/13/srp@">Службени гласник РС,   број 13/2014</ref></p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<heading>Печат, штамбиљ и лого Коморе</heading>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Комора има свој печат, штамбиљ и лого.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Печат је округлог облика, пречника 32 мм, са грбом Републике Србије у средини, исписаним текстом по ободу, на српском језику ћирилицом: „Република Србија, Комора социјалне заштите, Београд”.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>Огранак Коморе има печат и штамбиљ, који су истоветни печату и штамбиљу из ст. 1. овог члана и <ref>члана 6. </ref>уз назив и седиште огранка Коморе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<heading>Штамбиљ Коморе</heading>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Комора има штамбиљ, правоугаоног облика величине 60 x 25 мм са натписом:</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>РЕПУБЛИКА СРБИЈА</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>КОМОРА СОЦИЈАЛНЕ ЗАШТИТЕ</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav4">
+						<content>
+							<p>БРОЈ: _______________________</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav5">
+						<content>
+							<p>ДАТУМ:_____________________</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav6">
+						<content>
+							<p>БЕОГРАД</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<heading>Лого Коморе</heading>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Комора има лого, чији облик, садржину и употребу утврђује Управни одбор Коморе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<heading>Представљање и заступање Коморе</heading>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Комору представља директор Коморе.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Директор Коморе може, у оквиру својих овлашћења, одредити генералним или посебним пуномоћјем друго лице за заступање Коморе.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>Дато пуномоћје може се опозвати.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Председници сваког појединачног органа, радног и стручног тела Коморе, представљају тај орган по питањима која су у његовој искључивој надлежности.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<heading>Јавност рада Коморе – информисање, часописи и интернет</heading>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Информисање</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Јавност Кoморе обезбеђује се јавним одржавањем седница свих органа Коморе, као и објављивањем Статута и других аката у гласилима Коморе и презентацијом на интернету.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>У циљу информисања и едукације чланова Коморе и јавности, Комора може обављати и издавачку делатност.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav4">
+						<content>
+							<p>Послови који представљају службену или пословну тајну или су од других органа означени као државна тајна (поверљиво, строго поверљиво или интерно), не могу се саопштавати на начин одређен у ставу 2. овог члана.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Часописи и Интернет</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Комора издаје стручни часопис под називом „Комора социјалне заштите” на српском језику и штампа се ћирилицом.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav3">
+						<content>
+							<p>Комора може имати и друге часописе и публикације за потребе Коморе, а од интереса за социјалну заштиту.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav4">
+						<content>
+							<p>Комора има презентацију на интернету.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<heading>Делатност</heading>
+				<content>
+					<тачка id="clan12-tac94">
+						<num>94.</num>
+						<content>
+							<p>12 Делатност струковних удружења</p>
+						</content>
+					</тачка>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Активности Коморе у вршењу јавних овлашћења и активности у интересу чланова Коморе, стручних радника и стручних сарадника у области социјалне заштите.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<heading>III ПОСЛОВИ КОМОРЕ</heading>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Комора, у складу са Законом о социјалној заштити, обавља поверене и остале послове.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan14">
+				<num>14.</num>
+				<heading>Поверени послови Коморе</heading>
+				<content>
+					<clause id="clan14-stav1">
+						<content>
+							<p>У вршењу поверених послова Комора:</p>
+							<point id="clan14-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> доноси Кодекс професионалне етике (у даљем тексту: Етички кодекс),</p>
+								</content>
+							</point>
+							<point id="clan14-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> води Регистар чланова Коморе,</p>
+								</content>
+							</point>
+							<point id="clan14-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> организује и спроводи испит за лиценцу за рад у области социјалне заштите,</p>
+								</content>
+							</point>
+							<point id="clan14-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> издаје, обнавља и одузима лиценцу стручним радницима,</p>
+								</content>
+							</point>
+							<point id="clan14-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> води Регистар о издатим, обновљеним и одузетим лиценцама стручних радника,</p>
+								</content>
+							</point>
+							<point id="clan14-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> образује Етички одбор ради утврђивања повреде професионалне етике, односно дужности и одговорности и изрицања мера члановима Коморе,</p>
+								</content>
+							</point>
+							<point id="clan14-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> води Регистар изречених мера члановима Коморе,</p>
+								</content>
+							</point>
+							<point id="clan14-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> издаје уверења о чињеницама из регистара које води,</p>
+								</content>
+							</point>
+							<point id="clan14-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> утврђује висину чланарине за чланове Коморе,</p>
+								</content>
+							</point>
+							<point id="clan14-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> издаје легитимацију члановима Коморе,</p>
+								</content>
+							</point>
+							<point id="clan14-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> утврђује износ накнаде за упис у Регистар чланова Коморе, за издавање и обнављање лиценце, као и за издавање легитимација и уверења.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan14-stav2">
+						<content>
+							<p>У вршењу поверених послова из става 1. овог члана, примењују се одредбе закона којим се уређује општи управни поступак, ако Законом о социјалној заштити није другачије одређено.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav3">
+						<content>
+							<p>На одлуку о висини чланарине и накнада из става 1. тач. 9. и 11. овог члана, сагласност даје министарство надлежно за социјалну заштиту.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav4">
+						<content>
+							<p>Одлука из става 3. овог члана објављује се у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan15">
+				<num>15.</num>
+				<heading>Остали послови Коморе</heading>
+				<content>
+					<clause id="clan15-stav1">
+						<content>
+							<p>У вршењу осталих послова Комора:</p>
+							<point id="clan15-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> заступа и штити професионалне интересе својих чланова,</p>
+								</content>
+							</point>
+							<point id="clan15-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> стара се о угледу чланова Коморе, односно о обављању послова из делатности социјалне заштите у складу са Етичким кодексом,</p>
+								</content>
+							</point>
+							<point id="clan15-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> даје иницијативу за ближе уређивање начина обављања приправничког стажа и полагања приправничког испита, као и стручног усавршавања стручних радника и стручних сарадника, односно за ближе уређивање услова које морају испуњавати установе социјалне заштите и пружаоци услуга социјалне заштите за обављање приправничког стажа,</p>
+								</content>
+							</point>
+							<point id="clan15-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> даје иницијативу за доношење прописа у области социјалне заштите,</p>
+								</content>
+							</point>
+							<point id="clan15-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> пружа стручну помоћ члановима Коморе,</p>
+								</content>
+							</point>
+							<point id="clan15-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> бави се издавачком делатношћу у области социјалне заштите,</p>
+								</content>
+							</point>
+							<point id="clan15-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> врши обраду података и истраживања у социјалној заштити,</p>
+								</content>
+							</point>
+							<point id="clan15-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> организује стручне скупове из области социјалног рада и социјалне   политике, психолошких, педагошких, андрагошких, социолошких, правних,   економских и других области*</p>
+								</content>
+							</point>
+							<point id="clan15-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> стара се о континуираном стручном усавршавању чланова Коморе и   организује едукације и друге облике стручног усавршавања чланова Коморе;**</p>
+								</content>
+							</point>
+							<point id="clan15-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> остварује сарадњу са међународним организацијама и обезбеђује   подршку члановима Коморе за учешће на међународним скуповима.**</p>
+								</content>
+							</point>
+							<point id="clan15-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p>** обавља друге послове, у складу са законом и овим статутом Коморе.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan15-stav2">
+						<content>
+							<p>*<ref id="ref13" href="/rs/act/2014/13/srp@">Службени гласник РС,   број 13/2014</ref></p>
+						</content>
+					</clause>
+					<clause id="clan15-stav3">
+						<content>
+							<p>**<ref id="ref14" href="/rs/act/2016/25/srp@">Службени гласник РС,   број 25/2016</ref></p>
+						</content>
+					</clause>
+					<clause id="clan15-stav4">
+						<content>
+							<p>IV ПРАВА И ДУЖНОСТИ ЧЛАНОВА КОМОРЕ</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan16">
+				<num>16.</num>
+				<heading>Чланство у Комори</heading>
+				<content>
+					<clause id="clan16-stav1">
+						<content>
+							<p>Чланови Коморе могу бити:</p>
+							<alinea id="clan16-stav1-ali1">
+								<content>
+									<p>едовни,</p>
+								</content>
+							</alinea>
+							<alinea id="clan16-stav1-ali2">
+								<content>
+									<p>очасни.</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan16-stav2">
+						<content>
+							<p>Редовни чланови Коморе могу бити:</p>
+							<alinea id="clan16-stav2-ali1">
+								<content>
+									<p>ица запослена у социјалној заштити (стручни радници и стручни сарадници),</p>
+								</content>
+							</alinea>
+							<alinea id="clan16-stav2-ali2">
+								<content>
+									<p>ица која се у оквиру своје делатности-струке баве социјално и породично-правном заштитом.</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan16-stav3">
+						<content>
+							<p>Почасни чланови Коморе могу бити:</p>
+							<alinea id="clan16-stav3-ali1">
+								<content>
+									<p>ица која новчаним прилозима, личним ангажовањима, поклоном, завештањем имовине или на други начин помажу у остваривању циљева и задатака Коморе,</p>
+								</content>
+							</alinea>
+							<alinea id="clan16-stav3-ali2">
+								<content>
+									<p>ица која су дала изузетно значајан допринос развоју социјалне и породично-правне заштите, на теоријском и практичном плану, као и деловању Коморе.</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+					<clause id="clan16-stav4">
+						<content>
+							<p>Почасни члан има право да буде информисан о активностима удружења и да даје предлоге и мишљења органима Коморе, без права учешћа у одлучивању.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan17">
+				<num>17.</num>
+				<content>
+					<clause id="clan17-stav1">
+						<content>
+							<p>Чланови Коморе су једнаки у правима, одговорностима и обавезама.</p>
+						</content>
+					</clause>
+					<clause id="clan17-stav2">
+						<content>
+							<p>Комора води Регистар чланова Коморе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan18">
+				<num>18.</num>
+				<heading>Одлука о пријему у чланство</heading>
+				<content>
+					<clause id="clan18-stav1">
+						<content>
+							<p>Пријем у чланство у Комори подноси се Стручној служби Коморе.</p>
+						</content>
+					</clause>
+					<clause id="clan18-stav2">
+						<content>
+							<p>Чланство у Комори је добровољно.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan19">
+				<num>19.</num>
+				<content>
+					<clause id="clan19-stav1">
+						<content>
+							<p>Образац пријаве може се преузети са сајта Коморе или Стручне службе Коморе.</p>
+						</content>
+					</clause>
+					<clause id="clan19-stav2">
+						<content>
+							<p>Стручни радник, односно стручни сарадник, уз пријаву прилаже доказе о испуњености услова за пријем у Комору, односно да:</p>
+							<point id="clan19-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> је стручни радник, односно стручни сарадник у социјалној заштити, у смислу Закона и правилника којим су уређени послови у социјалној заштити;</p>
+								</content>
+							</point>
+							<point id="clan19-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> је социјални радник, психолог, педагог, андрагог, специјални педагог, правник, социолог, дефектолог   * који своју професионалну делатност обавља ван система социјалне   заштите</p>
+								</content>
+							</point>
+							<point id="clan19-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> је незапослени стручни радник или стручни радник – пензионер*</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan19-stav3">
+						<content>
+							<p>На основу пријаве и доказа из става 2. овог члана, директор Коморе доноси одлуку о пријему у чланство.</p>
+						</content>
+					</clause>
+					<clause id="clan19-stav4">
+						<content>
+							<p>Ако директор Коморе утврди да лице које је поднело пријаву не испуњава услове за пријем у Комору у својству редовног члана, о томе доноси решење.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan20">
+				<num>20.</num>
+				<heading>*<ref id="ref15" href="/rs/act/2014/13/srp@">Службени гласник РС,   број 13/2014</ref></heading>
+				<content>
+					<clause id="clan20-stav1">
+						<content>
+							<p>Лице из <ref>члана 16. став 1. </ref>алинеја 2, може бити примљено у Комору у својству почасног члана.</p>
+						</content>
+					</clause>
+					<clause id="clan20-stav2">
+						<content>
+							<p>Почасном члану директор Коморе издаје легитимацију, ако је лице поклоном, завештањем, или на други начин дало допринос развоју социјалне заштите, а у функцији је остваривања циљева и задатака Коморе.</p>
+						</content>
+					</clause>
+					<clause id="clan20-stav3">
+						<content>
+							<p>Садржина и изглед легитимације за почасне чланове Коморе утврђују се одлуком Управног одбора Коморе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan21">
+				<num>21.</num>
+				<heading>Права и дужности чланова Коморе</heading>
+				<content>
+					<clause id="clan21-stav1">
+						<content>
+							<p>Чланови Коморе имају права и дужности да:</p>
+							<alinea id="clan21-stav1-ali1">
+								<content>
+									<p>ктивно учествују у раду Коморе,</p>
+								</content>
+							</alinea>
+							<alinea id="clan21-stav1-ali2">
+								<content>
+									<p>ирају и буду бирани у органе, стручна и радна тела Коморе,</p>
+								</content>
+							</alinea>
+							<alinea id="clan21-stav1-ali3">
+								<content>
+									<p>едовно плаћају чланарину,</p>
+								</content>
+							</alinea>
+							<alinea id="clan21-stav1-ali4">
+								<content>
+									<p>односе предлоге, мишљења и примедбе на рад органа и радних тела Коморе,</p>
+								</content>
+							</alinea>
+							<alinea id="clan21-stav1-ali5">
+								<content>
+									<p>рисуствују седницама органа и радних тела Коморе,</p>
+								</content>
+							</alinea>
+							<alinea id="clan21-stav1-ali6">
+								<content>
+									<p>ористе одговарајуће видове стручног усавршавања које Комора организује,</p>
+								</content>
+							</alinea>
+							<alinea id="clan21-stav1-ali7">
+								<content>
+									<p>уду информисани о раду и финансијском пословању Коморе,</p>
+								</content>
+							</alinea>
+							<alinea id="clan21-stav1-ali8">
+								<content>
+									<p>трого поштују норме Кодекса професионалне етике,</p>
+								</content>
+							</alinea>
+							<alinea id="clan21-stav1-ali9">
+								<content>
+									<p>оприносе афирмацији професионалног стручног рада у области у којој делују,</p>
+								</content>
+							</alinea>
+							<alinea id="clan21-stav1-ali10">
+								<content>
+									<p>а поштују све одлуке и прописе које доносе органи Коморе и да их се придржавају,</p>
+								</content>
+							</alinea>
+							<alinea id="clan21-stav1-ali11">
+								<content>
+									<p>ористе правну и другу стручну помоћ Коморе,</p>
+								</content>
+							</alinea>
+							<alinea id="clan21-stav1-ali12">
+								<content>
+									<p>а стално прате развој професије и науке,</p>
+								</content>
+							</alinea>
+							<alinea id="clan21-stav1-ali13">
+								<content>
+									<p>а стечена знања и вештине преносе на друге, а нарочито млађе колеге,</p>
+								</content>
+							</alinea>
+							<alinea id="clan21-stav1-ali14">
+								<content>
+									<p>а чувају професионалну тајну,</p>
+								</content>
+							</alinea>
+							<alinea id="clan21-stav1-ali15">
+								<content>
+									<p>а учествују у скуповима које организује Комора,</p>
+								</content>
+							</alinea>
+							<alinea id="clan21-stav1-ali16">
+								<content>
+									<p>стварују и друга права која за своје чланове обезбеђује Комора.</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan22">
+				<num>22.</num>
+				<heading>Мировање и престанак чланства</heading>
+				<content>
+					<clause id="clan22-stav1">
+						<content>
+							<p>Редовном члану Коморе мирује чланство у Комори:</p>
+							<point id="clan22-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> за време привремене забране самосталног рада у обављању одређених послова из делатности социјалне заштите, по одлуци Етичког одбора Коморе,</p>
+								</content>
+							</point>
+							<point id="clan22-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> за време суспензије лиценце стручном раднику, у смислу правилника којим је уређено лиценцирање стручних радника у социјалној заштити.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan22-stav2">
+						<content>
+							<p>Редовном члану Коморе престаје чланство у Комори:</p>
+							<point id="clan22-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> на лични захтев,</p>
+								</content>
+							</point>
+							<point id="clan22-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> одузимањем лиценце стручном раднику,</p>
+								</content>
+							</point>
+							<point id="clan22-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> престанком испуњавања услова за чланство у Комори, у смислу Закона и Статута, и</p>
+								</content>
+							</point>
+							<point id="clan22-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> смрћу.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan22-stav3">
+						<content>
+							<p>Почасном члану Коморе престаје чланство у Комори:</p>
+							<point id="clan22-stav3-tac1">
+								<num>1)</num>
+								<content>
+									<p> на лични захтев, и</p>
+								</content>
+							</point>
+							<point id="clan22-stav3-tac2">
+								<num>2)</num>
+								<content>
+									<p> смрћу.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan22-stav4">
+						<content>
+							<p>Редовном и почасном члану Коморе може престати чланство у Комори, осим из напред наведених разлога из става 2. тач. 1– 4. и став 3. тач. 1. и 2. овог члана и одлуком Скупштине, а по претходно прибављеном мишљењу Етичког одбора.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan23">
+				<num>23.</num>
+				<heading>Плаћање чланарине</heading>
+				<content>
+					<clause id="clan23-stav1">
+						<content>
+							<p>Чланови Коморе плаћају чланарину у висини утврђеној одлуком коју доноси Управни одбор Коморе.</p>
+						</content>
+					</clause>
+					<clause id="clan23-stav2">
+						<content>
+							<p>На одлуку о висини чланарине сагласност даје министарство надлежно за социјалну заштиту, у складу са Законом о социјалној заштити.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan24">
+				<num>24.</num>
+				<heading>V УНУТРАШЊА ОРГАНИЗАЦИЈА КОМОРЕ</heading>
+				<content>
+					<clause id="clan24-stav1">
+						<content>
+							<p>Правилником о унутрашњој организацији и систематизацији ближе се уређује унутрашња организација и систематизација послова Коморе и огранака Коморе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan25">
+				<num>25.</num>
+				<heading>Огранци Коморе</heading>
+				<content>
+					<clause id="clan25-stav1">
+						<content>
+							<p>Комора циљеве и задатке реализује преко својих чланова, органа, стручних радних и других тела које оснива и преко огранака као својих организационих јединица.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan26">
+				<num>26.</num>
+				<content>
+					<clause id="clan26-stav1">
+						<content>
+							<p>Комора поред седишта у Београду има још два огранка на територији Републике Србије као своје организационе јединице, и то у:</p>
+							<alinea id="clan26-stav1-ali1">
+								<content>
+									<p>овом Саду и</p>
+								</content>
+							</alinea>
+							<alinea id="clan26-stav1-ali2">
+								<content>
+									<p>раљеву.</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan27">
+				<num>27.</num>
+				<content>
+					<clause id="clan27-stav1">
+						<content>
+							<p>Oгранак Коморе нема својство правног лица.</p>
+						</content>
+					</clause>
+					<clause id="clan27-stav2">
+						<content>
+							<p>Огранак Коморе има подрачун у оквиру рачуна Коморе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan28">
+				<num>28.</num>
+				<heading>VI ОРГАНИ КОМОРЕ</heading>
+				<content>
+					<clause id="clan28-stav1">
+						<content>
+							<p>Органи Коморе су:</p>
+							<тачка id="clan28-stav1-tac1">
+								<num>1.</num>
+								<content>
+									<p> Скупштина,</p>
+								</content>
+							</тачка>
+							<тачка id="clan28-stav1-tac2">
+								<num>2.</num>
+								<content>
+									<p> Директор,</p>
+								</content>
+							</тачка>
+							<тачка id="clan28-stav1-tac3">
+								<num>3.</num>
+								<content>
+									<p> Управни одбор, и</p>
+								</content>
+							</тачка>
+							<тачка id="clan28-stav1-tac4">
+								<num>4.</num>
+								<content>
+									<p> Надзорни одбор.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan29">
+				<num>29.</num>
+				<heading>Радна и стручна тела Коморе</heading>
+				<content>
+					<clause id="clan29-stav1">
+						<content>
+							<p>Радна и стручна тела Коморе:</p>
+							<тачка id="clan29-stav1-tac1">
+								<num>1.</num>
+								<content>
+									<p> Етички одбор,</p>
+								</content>
+							</тачка>
+							<тачка id="clan29-stav1-tac2">
+								<num>2.</num>
+								<content>
+									<p> Стручни савет,</p>
+								</content>
+							</тачка>
+							<тачка id="clan29-stav1-tac3">
+								<num>3.</num>
+								<content>
+									<p> Стручна служба Коморе.</p>
+								</content>
+							</тачка>
+							<тачка id="clan29-stav1-tac1">
+								<num>1.</num>
+								<content>
+									<p> Скупштина Коморе</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan30">
+				<num>30.</num>
+				<content>
+					<clause id="clan30-stav1">
+						<content>
+							<p>Скупштина је највиши орган Коморе и чине је сви чланови Коморе*.</p>
+						</content>
+					</clause>
+					<clause id="clan30-stav2">
+						<content>
+							<p>Скупштина има 45 представника*, од којих 25 * чине представници центара за социjални рад, 10 представници установа социјалне заштитe чији је оснивач Република Србија, односно аутономна покрајина и 10 представници пружалаца услуга социјалне заштите.</p>
+						</content>
+					</clause>
+					<clause id="clan30-stav3">
+						<content>
+							<p>Скупштине могу бити редовне и ванредне.</p>
+						</content>
+					</clause>
+					<clause id="clan30-stav4">
+						<content>
+							<p>Редовне се одржавају најмање једном годишње, а ванредне по потреби.</p>
+						</content>
+					</clause>
+					<clause id="clan30-stav5">
+						<content>
+							<p>Начин рада Скупштине уређује се пословником о раду.</p>
+						</content>
+					</clause>
+					<clause id="clan30-stav6">
+						<content>
+							<p>*<ref id="ref16" href="/rs/act/2013/27/srp@">Службени гласник РС,   број 27/2013</ref></p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan31">
+				<num>31.</num>
+				<heading>Начин одлучивања</heading>
+				<content>
+					<clause id="clan31-stav1">
+						<content>
+							<p>Скупштина пуноважно одлучује ако је на седници присутно више од половине чланова, осим када се одлучује о Статуту, избору директора, органа управљања и стручних тела, када је потребно присуство две трећине чланова Скупштине.</p>
+						</content>
+					</clause>
+					<clause id="clan31-stav2">
+						<content>
+							<p>Скупштина доноси Одлуке и Препоруке већином гласова присутних чланова.</p>
+						</content>
+					</clause>
+					<clause id="clan31-stav3">
+						<content>
+							<p>О изменама Статута и других општих аката, избору председника Скупштине, Управног одбора, Надзорног одбора и о другим пословима из делокруга њеног рада, Скупштина доноси одлуку.</p>
+						</content>
+					</clause>
+					<clause id="clan31-stav4">
+						<content>
+							<p>О ставу Скупштине по одређеном питању, доноси се препорука.</p>
+						</content>
+					</clause>
+					<clause id="clan31-stav5">
+						<content>
+							<p>Гласање на Скупштини је јавно, осим уколико Скупштина не одлучи да то буде тајно.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan32">
+				<num>32.</num>
+				<heading>Начин избора чланова Скупштине</heading>
+				<content>
+					<clause id="clan32-stav1">
+						<content>
+							<p>Услове за кандидате, овлашћене предлагаче кандидата, поступак и   рокове за предлагање кандидата, расписивање и спровођење избора за чланове   Скупштине, уређују се посебним правилником о расписивању и спровођењу избора   за чланове Скупштине Коморе.*</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan33">
+				<num>33.</num>
+				<heading>*<ref id="ref17" href="/rs/act/2016/25/srp@">Службени гласник РС, број 25/2016</ref></heading>
+				<content>
+					<clause id="clan33-stav1">
+						<content>
+							<p>Избори за Скупштину покрећу се на основу Одлуке о расписивању и   спровођењу избора за чланове Скупштине Коморе социјалне заштите, а све у   складу са одредбама Правилника о расписивању и спровођењу избора за чланове   Скупштине Коморе социјалне заштите из <ref>члана 32. </ref>Статута.*</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan34">
+				<num>34.</num>
+				<heading>*<ref id="ref18" href="/rs/act/2016/25/srp@">Службени гласник РС, број 25/2016</ref></heading>
+				<content>
+					<clause id="clan34-stav1">
+						<content>
+							<p>Избор чланова за Скупштину спроводи Стручна служба Коморе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan35">
+				<num>35.</num>
+				<heading>Надлежност Скупштине</heading>
+				<content>
+					<clause id="clan35-stav1">
+						<content>
+							<p>Скупштина у оквиру своје надлежности и овим статутом утврђеним начином гласања,</p>
+							<point id="clan35-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> Доноси:</p>
+									<alinea id="clan35-stav1-tac1-ali1">
+										<content>
+											<p>татут Коморе и друге опште акте,</p>
+										</content>
+									</alinea>
+									<alinea id="clan35-stav1-tac1-ali2">
+										<content>
+											<p>тички кодекс,</p>
+										</content>
+									</alinea>
+									<alinea id="clan35-stav1-tac1-ali3">
+										<content>
+											<p>ословник о раду Скупштине, и</p>
+										</content>
+									</alinea>
+									<alinea id="clan35-stav1-tac1-ali4">
+										<content>
+											<p>одишњи програм рада Коморе.</p>
+										</content>
+									</alinea>
+									<alinea id="clan35-stav1-tac1-ali5">
+										<content>
+											<p>длуку о престанку рада Коморе,*</p>
+										</content>
+									</alinea>
+									<alinea id="clan35-stav1-tac1-ali6">
+										<content>
+											<p>длучује о удруживању у Савезе и друге асоцијације.*</p>
+										</content>
+									</alinea>
+								</content>
+							</point>
+							<point id="clan35-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> Усваја:</p>
+									<alinea id="clan35-stav1-tac2-ali1">
+										<content>
+											<p>одишњи извештај о раду Коморе,</p>
+										</content>
+									</alinea>
+									<alinea id="clan35-stav1-tac2-ali2">
+										<content>
+											<p>одишњи извештај о финансијско-материјалном пословању Коморе,</p>
+										</content>
+									</alinea>
+									<alinea id="clan35-stav1-tac2-ali3">
+										<content>
+											<p>одишњи план рада Коморе, и</p>
+										</content>
+									</alinea>
+									<alinea id="clan35-stav1-tac2-ali4">
+										<content>
+											<p>одишњи финансијски план Коморе.</p>
+										</content>
+									</alinea>
+								</content>
+							</point>
+							<point id="clan35-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> Именује и разрешава:</p>
+									<alinea id="clan35-stav1-tac3-ali1">
+										<content>
+											<p>редседника Скупштине,</p>
+										</content>
+									</alinea>
+									<alinea id="clan35-stav1-tac3-ali2">
+										<content>
+											<p>редседника и чланове Надзорног, Управног и Етичког одбора Коморе,</p>
+										</content>
+									</alinea>
+									<alinea id="clan35-stav1-tac3-ali3">
+										<content>
+											<p>редседника и чланове одбора, комисија и радних тела, и</p>
+										</content>
+									</alinea>
+									<alinea id="clan35-stav1-tac3-ali4">
+										<content>
+											<p>иректора Коморе.</p>
+										</content>
+									</alinea>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan35-stav2">
+						<content>
+							<p>Избор председника Скупштине, председника Управног одбора, председника Надзорног одбора и именовање директора врши се из састава различитих статистичких региона, ради равномерне територијалне заступљености у избору лица на руководећим функцијама.</p>
+						</content>
+					</clause>
+					<clause id="clan35-stav3">
+						<content>
+							<p>Скупштина обавља и друге послове у складу са законом, другим прописима, овим статутом и општим актима Коморе, а све у интересу Коморе.</p>
+						</content>
+					</clause>
+					<clause id="clan35-stav4">
+						<content>
+							<p>*<ref id="ref19" href="/rs/act/2013/27/srp@">Службени гласник РС,   број 27/2013</ref></p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan36">
+				<num>36.</num>
+				<heading>Мандат члановима Скупштине</heading>
+				<content>
+					<clause id="clan36-stav1">
+						<content>
+							<p>Мандат члановима Скупштине, председнику Скупштине, председницима и члановима одбора и комисија, траје четири године.</p>
+						</content>
+					</clause>
+					<clause id="clan36-stav2">
+						<content>
+							<p>Члану Скупштине престаје мандат и пре истека периода на који је изабран, ако му престане чланство у Комори (на начин предвиђен чланом 22. ст. 2. и 3. овог статута) и ако поднесе оставку.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan37">
+				<num>37.</num>
+				<heading>Председник Скупштине</heading>
+				<content>
+					<clause id="clan37-stav1">
+						<content>
+							<p>Председник Скупштине:</p>
+							<тачка id="clan37-stav1-tac1">
+								<num>1.</num>
+								<content>
+									<p> одговоран је за законитост рада Скупштине,</p>
+								</content>
+							</тачка>
+							<тачка id="clan37-stav1-tac2">
+								<num>2.</num>
+								<content>
+									<p> сазива седнице Скупштине, предлаже дневни ред за ту седницу и председава истом,</p>
+								</content>
+							</тачка>
+							<тачка id="clan37-stav1-tac3">
+								<num>3.</num>
+								<content>
+									<p> потписује одлуке и друге акте које доноси Скупштина,</p>
+								</content>
+							</тачка>
+							<тачка id="clan37-stav1-tac4">
+								<num>4.</num>
+								<content>
+									<p> учествује у раду Управног одбора, без права одлучивања,</p>
+								</content>
+							</тачка>
+							<тачка id="clan37-stav1-tac5">
+								<num>5.</num>
+								<content>
+									<p> обавља и друге послове одређене овим статутом и другим актима Коморе.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="clan37-stav2">
+						<content>
+							<p>Председника Скупштине именује Скупштина, на период од 4 (четири) године.</p>
+						</content>
+					</clause>
+					<clause id="clan37-stav3">
+						<content>
+							<p>Председник Скупштине за свој рад одговара Скупштини.</p>
+						</content>
+					</clause>
+					<clause id="clan37-stav4">
+						<content>
+							<p>Председника Скупштине у одсуству замењује најмлађи члан Скупштине.</p>
+							<тачка id="clan37-stav4-tac2">
+								<num>2.</num>
+								<content>
+									<p> Директор Коморе</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan38">
+				<num>38.</num>
+				<content>
+					<clause id="clan38-stav1">
+						<content>
+							<p>Скупштина Коморе именује директора из редова својих чланова.</p>
+						</content>
+					</clause>
+					<clause id="clan38-stav2">
+						<content>
+							<p>Директор се именује и разрешава већином гласова Скупштине, ако је на седници присутно две трећине од укупног броја чланова Скупштине (кворум за одлучивање).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan39">
+				<num>39.</num>
+				<heading>Брисан је ранији став 3. (види <ref>члан 4. </ref>Статута -   13/2014-46)</heading>
+				<content>
+					<clause id="clan39-stav1">
+						<content>
+							<p>За директора Коморе социјалне заштите може бити именован члан Скупштине Коморе социјалне заштите, држављанин Републике Србије, који је стекао високо образовање на студијама другог степена (мастер академске студије, специјалистичке академске студије, специјалистичке струковне студије), односно на основним студијама у трајању од најмање четири године и одговарајући академски односно стручни назив утврђен у области социјалног рада и социјалне политике, правних, психолошких, педагошких и андрагошких наука, специјалне едукације и рехабилитације, социолошких, политичких, економских или медицинских наука и има најмање десет година радног искуства у струци.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan40">
+				<num>40.</num>
+				<content>
+					<clause id="clan40-stav1">
+						<content>
+							<p>За директора Коморе може се кандидовати сваки члан Скупштине.</p>
+						</content>
+					</clause>
+					<clause id="clan40-stav2">
+						<content>
+							<p>Кандидат за директора Коморе, уз прописану конкурсну документацију, подноси програм рада за мандатни период на који се врши избор.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan41">
+				<num>41.</num>
+				<content>
+					<clause id="clan41-stav1">
+						<content>
+							<p>У погледу радног односа директора Коморе примењују се општи прописи о раду, а уговор о раду директор закључује са председником Управног одбора.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan42">
+				<num>42.</num>
+				<heading>Надлежност</heading>
+				<content>
+					<clause id="clan42-stav1">
+						<content>
+							<p>Директор Коморе у оквиру своје надлежности,</p>
+							<point id="clan42-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> Доноси:</p>
+									<alinea id="clan42-stav1-tac1-ali1">
+										<content>
+											<p>равилник о унутрашњој организацији и систематизацији радних места у Стручној служби Коморе,</p>
+										</content>
+									</alinea>
+									<alinea id="clan42-stav1-tac1-ali2">
+										<content>
+											<p>длуке и решења, у складу са законом и колективним уговорима у вези права и обавеза запослених у Стручној служби Коморе,</p>
+										</content>
+									</alinea>
+									<alinea id="clan42-stav1-tac1-ali3">
+										<content>
+											<p>длуке о пријему у чланство, решења о одбијању захтева за чланство,   решења о одбијању захтева за издавање и обнављање лиценце, решење о   одузимању и суспензији лиценце, одлуке о одржавању и категоризацији стручног   скупа, односно о прихватању реализације обуке без провере знања,*</p>
+										</content>
+									</alinea>
+									<alinea id="clan42-stav1-tac1-ali4">
+										<content>
+											<p>руге акте којима се уређују права, обавезе и одговорности запослених у Стручној служби Коморе.</p>
+										</content>
+									</alinea>
+								</content>
+							</point>
+							<point id="clan42-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> Организује:</p>
+									<alinea id="clan42-stav1-tac2-ali1">
+										<content>
+											<p>ад Стручне службе Коморе,</p>
+										</content>
+									</alinea>
+									<alinea id="clan42-stav1-tac2-ali2">
+										<content>
+											<p>нформисање јавности о раду Коморе,</p>
+										</content>
+									</alinea>
+									<alinea id="clan42-stav1-tac2-ali3">
+										<content>
+											<p>дговарајући облик информисања чланова о раду Коморе.</p>
+										</content>
+									</alinea>
+								</content>
+							</point>
+							<point id="clan42-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> Одговара за законитост рада Коморе.</p>
+								</content>
+							</point>
+							<point id="clan42-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> Обавља и друге послове:</p>
+									<alinea id="clan42-stav1-tac4-ali1">
+										<content>
+											<p>редставља и заступа Комору,</p>
+										</content>
+									</alinea>
+									<alinea id="clan42-stav1-tac4-ali2">
+										<content>
+											<p>рисана је ранија алинеја 2. (види <ref>члан 5. </ref>Статута   - 13/2014-46)</p>
+										</content>
+									</alinea>
+									<alinea id="clan42-stav1-tac4-ali3">
+										<content>
+											<p>стварује сарадњу Коморе са надлежним државним органима, здравственим и другим установама,</p>
+										</content>
+									</alinea>
+									<alinea id="clan42-stav1-tac4-ali4">
+										<content>
+											<p>односи извештаје о свом раду органима Коморе.</p>
+										</content>
+									</alinea>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan42-stav2">
+						<content>
+							<p>Директор Коморе обавља и друге послове за које је овлашћен законом, овим статутом и другим актима Коморе.</p>
+						</content>
+					</clause>
+					<clause id="clan42-stav3">
+						<content>
+							<p>*<ref id="ref20" href="/rs/act/2014/13/srp@">Службени гласник РС,   број 13/2014</ref></p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan43">
+				<num>43.</num>
+				<heading>Мандат директора Коморе</heading>
+				<content>
+					<clause id="clan43-stav1">
+						<content>
+							<p>Мандат директора Коморе траје четири године, а исто лице не може бити бирано за директора Коморе више од два пута узастопно.</p>
+						</content>
+					</clause>
+					<clause id="clan43-stav2">
+						<content>
+							<p>Директору Коморе може престати дужност и пре истека мандата:</p>
+							<alinea id="clan43-stav2-ali1">
+								<content>
+									<p>а лични захтев,</p>
+								</content>
+							</alinea>
+							<alinea id="clan43-stav2-ali2">
+								<content>
+									<p>ко обавља послове директора супротно одредбама закона,</p>
+								</content>
+							</alinea>
+							<alinea id="clan43-stav2-ali3">
+								<content>
+									<p>ко нестручним и несавесним радом проузрокује штету Комори или своје обавезе извршава на начин који може проузроковати веће сметње у раду Коморе,</p>
+								</content>
+							</alinea>
+							<alinea id="clan43-stav2-ali4">
+								<content>
+									<p>ко је правоснажно осуђен за кривично дело из групе кривичних дела против живота и тела, слобода и права човека и грађанина, против права по основу рада, против части и угледа, против полне слободе, против брака и породице, против службене дужности, као и против уставног уређења и безбедности Републике Србије, и</p>
+								</content>
+							</alinea>
+							<alinea id="clan43-stav2-ali5">
+								<content>
+									<p>з других разлога утврђених законом.</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan44">
+				<num>44.</num>
+				<content>
+					<clause id="clan44-stav1">
+						<content>
+							<p>Директора Коморе у одсуству или у случају разрешења дужности пре истека мандата, замењује члан Скупштине, кога за то одреди Скупштина.</p>
+							<тачка id="clan44-stav1-tac3">
+								<num>3.</num>
+								<content>
+									<p> Управни одбор</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan45">
+				<num>45.</num>
+				<content>
+					<clause id="clan45-stav1">
+						<content>
+							<p>Управни одбор је орган Коморе.</p>
+						</content>
+					</clause>
+					<clause id="clan45-stav2">
+						<content>
+							<p>Управни одбор утврђује пословну политику Коморе и извршава одлуке Скупштине.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan46">
+				<num>46.</num>
+				<heading>Састав и начин избора Управног одбора</heading>
+				<content>
+					<clause id="clan46-stav1">
+						<content>
+							<p>Управни одбор броји 9 (девет) чланова, које бира Скупштина на предлог Комисије за избор и именовање.</p>
+						</content>
+					</clause>
+					<clause id="clan46-stav2">
+						<content>
+							<p>Избор чланова Управног одбора врши се из различитих статистичких региона, водећи рачуна о принципу равномерне територијалне заступљености статистичких региона на руководећим функцијама Коморе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan47">
+				<num>47.</num>
+				<heading>Председник Управног одбора</heading>
+				<content>
+					<clause id="clan47-stav1">
+						<content>
+							<p>Председника и чланове Управног одбора бира и разрешава Скупштина из редова својих чланова.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan48">
+				<num>48.</num>
+				<heading>Надлежност</heading>
+				<content>
+					<clause id="clan48-stav1">
+						<content>
+							<p>Управни одбор обавља следеће послове:</p>
+							<alinea id="clan48-stav1-ali1">
+								<content>
+									<p>азматра питања од значаја за рад Коморе,</p>
+								</content>
+							</alinea>
+							<alinea id="clan48-stav1-ali2">
+								<content>
+									<p>звршава одлуке, препоруке и закључке Скупштине,</p>
+								</content>
+							</alinea>
+							<alinea id="clan48-stav1-ali3">
+								<content>
+									<p>азматра годишњи финансијски план Коморе и предлаже их Скупштини на усвајање,</p>
+								</content>
+							</alinea>
+							<alinea id="clan48-stav1-ali4">
+								<content>
+									<p>безбеђује сарадњу са одговарајућим органима, организацијама и установама конвергентних области,</p>
+								</content>
+							</alinea>
+							<alinea id="clan48-stav1-ali5">
+								<content>
+									<p>     иницира организовање стручних скупова и састанака,**</p>
+								</content>
+							</alinea>
+							<alinea id="clan48-stav1-ali6">
+								<content>
+									<p>окреће иницијативу за решавање актуелних питања статуса стручних радника у социјалној заштити и даје предлоге за побољшавање њиховог положаја,</p>
+								</content>
+							</alinea>
+							<alinea id="clan48-stav1-ali7">
+								<content>
+									<p>ницира и организује разне видове стручног усавршавања, специјализације и напредовања у служби,</p>
+								</content>
+							</alinea>
+							<alinea id="clan48-stav1-ali8">
+								<content>
+									<p>ормира повремена или стална радна тела за одређена актуелна питања од значаја за извршавање основних циљева или задатака Коморе, и</p>
+								</content>
+							</alinea>
+							<point id="clan48-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> Доноси:</p>
+									<alinea id="clan48-stav1-tac1-ali1">
+										<content>
+											<p> брисана је ранија алинеја 1. (види <ref>члан 4. </ref>Статута - 25/2016-76)</p>
+										</content>
+									</alinea>
+									<alinea id="clan48-stav1-tac1-ali2">
+										<content>
+											<p>ословник о раду Управног одбора,</p>
+										</content>
+									</alinea>
+									<alinea id="clan48-stav1-tac1-ali3">
+										<content>
+											<p>длуку о висини и употреби средстава од стране огранка Коморе, односно овлашћеног лица огранка Коморе,</p>
+										</content>
+									</alinea>
+									<alinea id="clan48-stav1-tac1-ali4">
+										<content>
+											<p>длуку о висини чланарине за чланове Коморе,</p>
+										</content>
+									</alinea>
+									<alinea id="clan48-stav1-tac1-ali5">
+										<content>
+											<p>длуку о износу накнаде за упис у Регистар чланова Коморе,</p>
+										</content>
+									</alinea>
+									<alinea id="clan48-stav1-tac1-ali6">
+										<content>
+											<p>длуку о износу накнаде за издавање и обнављање лиценци,</p>
+										</content>
+									</alinea>
+									<alinea id="clan48-stav1-tac1-ali7">
+										<content>
+											<p>длуку о износу накнаде за издавање легитимација и уверења,</p>
+										</content>
+									</alinea>
+									<alinea id="clan48-stav1-tac1-ali8">
+										<content>
+											<p>длуку о висини дневница за службена путовања и трошењу средстава,</p>
+										</content>
+									</alinea>
+									<alinea id="clan48-stav1-tac1-ali9">
+										<content>
+											<p>длуку о употреби средстава Коморе, као и</p>
+										</content>
+									</alinea>
+									<alinea id="clan48-stav1-tac1-ali10">
+										<content>
+											<p>длуке о другим питањима у складу са законом, овим статутом и другим општим актима Коморе.</p>
+										</content>
+									</alinea>
+								</content>
+							</point>
+							<point id="clan48-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> Утврђује:</p>
+									<alinea id="clan48-stav1-tac2-ali1">
+										<content>
+											<p>редлог измена и допуна Статута Коморе,</p>
+										</content>
+									</alinea>
+									<alinea id="clan48-stav1-tac2-ali2">
+										<content>
+											<p>редлог општих аката које доноси Скупштина,</p>
+										</content>
+									</alinea>
+									<alinea id="clan48-stav1-tac2-ali3">
+										<content>
+											<p>редлог програма рада Коморе,</p>
+										</content>
+									</alinea>
+									<alinea id="clan48-stav1-tac2-ali4">
+										<content>
+											<p>редлог извештаја о финансијско-материјалном пословању Коморе,</p>
+										</content>
+									</alinea>
+									<alinea id="clan48-stav1-tac2-ali5">
+										<content>
+											<p>редлог годишњег програма рада и извештаја о раду Коморе, предлог финансијског плана Коморе и завршног рачуна Коморе,</p>
+										</content>
+									</alinea>
+									<alinea id="clan48-stav1-tac2-ali6">
+										<content>
+											<p>блик, садржину и употребу знака Коморе,</p>
+										</content>
+									</alinea>
+									<alinea id="clan48-stav1-tac2-ali7">
+										<content>
+											<p>редлоге мера државним органима за унапређивање социјалне заштите,</p>
+										</content>
+									</alinea>
+									<alinea id="clan48-stav1-tac2-ali8">
+										<content>
+											<p>ишљење и предлог у вези са размотреним примедбама и предлозима   чланова Коморе, министарства надлежног за послове социјалне заштите и других   државних органа и органа територијалне аутономије и локалне самоуправе и   факултета, о чему подноси извештај Скупштини Коморе*</p>
+										</content>
+									</alinea>
+									<alinea id="clan48-stav1-tac2-ali9">
+										<content>
+											<p>ницијативу за предузимање законом прописаних мера у вези са повредом прописа о забрани рекламирања (оглашавања) у области социјалне заштите и о томе подноси извештај Скупштини.</p>
+										</content>
+									</alinea>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan48-stav2">
+						<content>
+							<p>Управни одбор обавља и друге послове у складу са Законом и овим статутом.</p>
+						</content>
+					</clause>
+					<clause id="clan48-stav3">
+						<content>
+							<p>*<ref id="ref21" href="/rs/act/2014/13/srp@">Службени гласник РС,   број 13/2014</ref></p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan49">
+				<num>49.</num>
+				<heading>**<ref id="ref22" href="/rs/act/2016/25/srp@">Службени гласник РС, број 25/2016</ref></heading>
+				<content>
+					<clause id="clan49-stav1">
+						<content>
+							<p>Седнице Управног одбора одржавају се по потреби, а најмање једном у два месеца.</p>
+						</content>
+					</clause>
+					<clause id="clan49-stav2">
+						<content>
+							<p>Седницу Управног одбора сазива председник по својој иницијативи, на захтев 1/3 чланова Управног одбора, председника Скупштине, Надзорног одбора или директора Коморе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan50">
+				<num>50.</num>
+				<heading>Начин рада и одлучивање</heading>
+				<content>
+					<clause id="clan50-stav1">
+						<content>
+							<p>Управни одбор ради у седницама.</p>
+						</content>
+					</clause>
+					<clause id="clan50-stav2">
+						<content>
+							<p>Управни одбор пуноважно ради ако је седници присутно више од половине чланова Управног одбора.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan51">
+				<num>51.</num>
+				<content>
+					<clause id="clan51-stav1">
+						<content>
+							<p>Управни одбор одлучује већином гласова присутних чланова Управног одбора.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan52">
+				<num>52.</num>
+				<content>
+					<clause id="clan52-stav1">
+						<content>
+							<p>Седницу Управног одбора сазива и њеним радом руководи председник Управног одбора, а у случају његове спречености члан Управног одбора, кога за то одреди Управни одбор.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan53">
+				<num>53.</num>
+				<heading>Управни одбор</heading>
+				<content>
+					<clause id="clan53-stav1">
+						<content>
+							<p>Председник Управног одбора дужан је да закаже седницу Управног одбора у року од седам дана од дана пријема образложеног захтева, у складу са чланом 49. став 2. овог статута.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan54">
+				<num>54.</num>
+				<content>
+					<clause id="clan54-stav1">
+						<content>
+							<p>Управни одбор одлуке из своје надлежности доноси јавним гласањем.</p>
+						</content>
+					</clause>
+					<clause id="clan54-stav2">
+						<content>
+							<p>Управни одбор може одлучити да се о појединим питањима из своје надлежности одлуке доносе тајним гласањем.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan55">
+				<num>55.</num>
+				<content>
+					<clause id="clan55-stav1">
+						<content>
+							<p>Пословником о раду Управног одбора ближе се утврђује начин рада Управног одбора, као и друга питања од значаја за рад Управног одбора.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan56">
+				<num>56.</num>
+				<heading>Мандат председника Управног одбора</heading>
+				<content>
+					<clause id="clan56-stav1">
+						<content>
+							<p>Мандат председника и чланова Управног одбора траје четири године.</p>
+						</content>
+					</clause>
+					<clause id="clan56-stav2">
+						<content>
+							<p>Председнику и члану Управног одбора, престаје дужност и пре истека периода на који је биран, ако му престане својство члана Скупштине или поднесе оставку.</p>
+						</content>
+					</clause>
+					<clause id="clan56-stav3">
+						<content>
+							<p>Скупштина може разрешити председника и члана Управног одбора и пре истека мандата, ако своју функцију не врши на начин којим се обезбеђује остваривање надлежности Управног одбора или задатака Коморе.</p>
+						</content>
+					</clause>
+					<clause id="clan56-stav4">
+						<content>
+							<p>На места разрешених чланова Управног одбора се бирају нови чланови из одговарајућих статистичких регионa.</p>
+							<тачка id="clan56-stav4-tac4">
+								<num>4.</num>
+								<content>
+									<p> Надзорни одбор</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan57">
+				<num>57.</num>
+				<content>
+					<clause id="clan57-stav1">
+						<content>
+							<p>Надзорни одбор је орган који врши контролу рада директора Коморе, Управног одбора Коморе и материјално финансијских послова Коморе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan58">
+				<num>58.</num>
+				<heading>Састав и начин избора</heading>
+				<content>
+					<clause id="clan58-stav1">
+						<content>
+							<p>Надзорни одбор има 5 чланова које бира Скупштина из редова својих чланова.</p>
+						</content>
+					</clause>
+					<clause id="clan58-stav2">
+						<content>
+							<p>У Надзорни одбор бира се по један члан – представник из сваког статистичког региона.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan59">
+				<num>59.</num>
+				<content>
+					<clause id="clan59-stav1">
+						<content>
+							<p>Председника и чланове Надзорног одбора бира и разрешава Скупштина.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan60">
+				<num>60.</num>
+				<content>
+					<clause id="clan60-stav1">
+						<content>
+							<p>Мандат председника и чланова Надзорног одбора траје четири године.</p>
+						</content>
+					</clause>
+					<clause id="clan60-stav2">
+						<content>
+							<p>Председнику и члану Надзорног одбора престаје дужност и пре истека периода на који је биран, ако му престане чланство у Скупштини, ако поднесе оставку или буде разрешен.</p>
+						</content>
+					</clause>
+					<clause id="clan60-stav3">
+						<content>
+							<p>Скупштина може разрешити председника и члана Надзорног одбора и пре истека периода на који је биран, ако своју функцију не врше на начин којим се обезбеђује остваривање надлежности Надзорног одбора.</p>
+						</content>
+					</clause>
+					<clause id="clan60-stav4">
+						<content>
+							<p>На места разрешених чланова Надзорног одбора бирају се чланови из одговарајућих статистичких региона.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan61">
+				<num>61.</num>
+				<heading>Надлежност</heading>
+				<content>
+					<clause id="clan61-stav1">
+						<content>
+							<p>Надзорни одбор у оквиру својих надлежности обавља следеће послове:</p>
+							<тачка id="clan61-stav1-tac1">
+								<num>1.</num>
+								<content>
+									<p> врши контролу рада над укупним радом и пословањем Коморе, а нарочито разматра извештај о финансијско-материјалном пословању Коморе и огранака Коморе,</p>
+								</content>
+							</тачка>
+							<тачка id="clan61-stav1-tac2">
+								<num>2.</num>
+								<content>
+									<p> доноси Пословник о раду Надзорног одбора, и</p>
+								</content>
+							</тачка>
+							<тачка id="clan61-stav1-tac3">
+								<num>3.</num>
+								<content>
+									<p> подноси извештај о свом раду Скупштини.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan62">
+				<num>62.</num>
+				<content>
+					<clause id="clan62-stav1">
+						<content>
+							<p>Чланови и органи Коморе дужни су да на захтев Надзорног одбора ставе на увид потребну документацију и расположиве податке који су потребни ради вршења надзора.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan63">
+				<num>63.</num>
+				<content>
+					<clause id="clan63-stav1">
+						<content>
+							<p>Надзорни одбор врши контролу по сопственој процени и на иницијативу:</p>
+							<alinea id="clan63-stav1-ali1">
+								<content>
+									<p>редседника Скупштине Коморе,</p>
+								</content>
+							</alinea>
+							<alinea id="clan63-stav1-ali2">
+								<content>
+									<p>иректора,</p>
+								</content>
+							</alinea>
+							<alinea id="clan63-stav1-ali3">
+								<content>
+									<p>правног одбора и</p>
+								</content>
+							</alinea>
+							<alinea id="clan63-stav1-ali4">
+								<content>
+									<p>а захтев десет чланова Скупштине Коморе.</p>
+								</content>
+							</alinea>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan64">
+				<num>64.</num>
+				<heading>Начин рада и одлучивање</heading>
+				<content>
+					<clause id="clan64-stav1">
+						<content>
+							<p>Надзорни одбор ради у седницама.</p>
+						</content>
+					</clause>
+					<clause id="clan64-stav2">
+						<content>
+							<p>Надзорни одбор пуноважно ради ако је седници присутно више од половине броја чланова Надзорног одбора.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan65">
+				<num>65.</num>
+				<content>
+					<clause id="clan65-stav1">
+						<content>
+							<p>Надзорни одбор одлучује већином гласова присутних чланова Надзорног одбора.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan66">
+				<num>66.</num>
+				<content>
+					<clause id="clan66-stav1">
+						<content>
+							<p>Седницу Надзорног одбора сазива и њеним радом руководи председник Надзорног одбора, а у случају његове спречености члан Надзорног одбора, кога за то одреди Надзорни одбор.</p>
+						</content>
+					</clause>
+					<clause id="clan66-stav2">
+						<content>
+							<p>Предлог за заказивање седнице Надзорног одбора може поднети и директор Коморе, члан Надзорног одбора и 1/3 чланова Скупштине.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan67">
+				<num>67.</num>
+				<content>
+					<clause id="clan67-stav1">
+						<content>
+							<p>Председник Надзорног одбора дужан је заказати седницу Надзорног одбора у року од седам дана од дана пријема образложеног предлога, у складу са чланом 66. став 2. овог статута.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan68">
+				<num>68.</num>
+				<content>
+					<clause id="clan68-stav1">
+						<content>
+							<p>Надзорни одбор одлуке из своје надлежности доноси јавним гласањем.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan69">
+				<num>69.</num>
+				<content>
+					<clause id="clan69-stav1">
+						<content>
+							<p>Пословником о раду Надзорног одбора ближе се уређује начин рада Надзорног одбора и друга питања од значаја за рад Надзорног одбора.</p>
+						</content>
+					</clause>
+					<clause id="clan69-stav2">
+						<content>
+							<p>VII РАДНА И СТРУЧНА ТЕЛА КОМОРЕ</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Етички одбор социјалне заштите</heading>
+				<content>
+					<article id="od1-clan70">
+						<num>70.</num>
+						<content>
+							<clause id="od1-clan70-stav1">
+								<content>
+									<p>Етички одбор социјалне заштите (у даљем тексту: Етички одбор) је стручно тело Коморе које бира Скупштина Коморе из редова својих чланова, а који прати да ли се пружање услуга, односно спровођење социјалне заштите заснива на начелима професионалне етике.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan71">
+						<num>71.</num>
+						<heading>Састав и начин избора</heading>
+						<content>
+							<clause id="od1-clan71-stav1">
+								<content>
+									<p>Етички одбор броји седам чланова које бира Скупштина Коморе.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan71-stav2">
+								<content>
+									<p>Избор чланова Етичког одбора врши се из састава различитих статистичких региона, водећи рачуна да чланови одбора буду различитих струка.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan72">
+						<num>72.</num>
+						<heading>Председник Етичког одбора</heading>
+						<content>
+							<clause id="od1-clan72-stav1">
+								<content>
+									<p>Председника и чланове Етичког одбора бира и разрешава Скупштина Коморе из редова својих чланова.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan72-stav2">
+								<content>
+									<p>Мандат председника и чланова Етичког одбора траје четири године.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan73">
+						<num>73.</num>
+						<content>
+							<clause id="od1-clan73-stav1">
+								<content>
+									<p>У обављању послова из свог делокруга, Етички одбор сарађује са другим коморама, факултетима, научним установама и другим субјектима у земљи и иностранству.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan74">
+						<num>74.</num>
+						<heading>Надлежност</heading>
+						<content>
+							<clause id="od1-clan74-stav1">
+								<content>
+									<p>Етички одбор:</p>
+									<point id="od1-clan74-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> предлаже Кодекс професионалне етике и даје објашњења основних начела професионалне етике,</p>
+										</content>
+									</point>
+									<point id="od1-clan74-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> прати и анализира примену начела професионалне етике у пружању социјалне заштите,</p>
+										</content>
+									</point>
+									<point id="od1-clan74-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> доприноси стварању навика за поштовање и примену начела професионалне етике у пружању социјалне заштите,</p>
+										</content>
+									</point>
+									<point id="od1-clan74-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> врши сталну саветодавну функцију у погледу примене и унапређења професионалне етике,</p>
+										</content>
+									</point>
+									<point id="od1-clan74-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> утврђује повреде професионалне етике, односно дужности или угледа члана Коморе и изриче мере професионалне одговорности члановима Коморе,</p>
+										</content>
+									</point>
+									<point id="od1-clan74-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> прати спровођење научних истраживања у социјалној заштити и даје мишљење о спорним етичким питањима која су значајна за спровођење научних истраживања,</p>
+										</content>
+									</point>
+									<point id="od1-clan74-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> даје мишљење о разлозима за престанак редовног и почасног чланства   у случајевима из <ref>члана 22. став 4</ref>.*</p>
+										</content>
+									</point>
+									<point id="od1-clan74-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> разматра друга питања професионалне етике у социјалној заштити.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan75">
+						<num>75.</num>
+						<heading>*<ref id="ref23" href="/rs/act/2014/13/srp@">Службени гласник РС,   број 13/2014</ref></heading>
+						<content>
+							<clause id="od1-clan75-stav1">
+								<content>
+									<p>За повреде професионалне етике, односно за повреде дужности или угледа члана Коморе, Етички одбор може изрећи једну од следећих мера професионалне одговорности:</p>
+									<point id="od1-clan75-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> јавну опомену,</p>
+										</content>
+									</point>
+									<point id="od1-clan75-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> новчану казну у висини до 30% од просечне месечне зараде по запосленом у Републици Србији у месецу који претходи месецу у коме се та казна изриче, по подацима републичког органа надлежног за послове статистике, и</p>
+										</content>
+									</point>
+									<point id="od1-clan75-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> привремену забрану самосталног рада у обављању одређених послова из делатности социјалне заштите у трајању не краћем од 30 дана и не дужем од шест месеци.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan76">
+						<num>76.</num>
+						<heading>Начин рада и одлучивања Етичког одбора социјалне заштите</heading>
+						<content>
+							<clause id="od1-clan76-stav1">
+								<content>
+									<p>Етички одбор социјалне заштите ради у седницама.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan76-stav2">
+								<content>
+									<p>Етички одбор социјалне заштите пуноважно ради ако је седници присутно више од половине његових чланова.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan77">
+						<num>77.</num>
+						<content>
+							<clause id="od1-clan77-stav1">
+								<content>
+									<p>За пуноважно одлучивање Етичког одбора потребно је присуство више од половине чланова одбора, а одлука је донета ако је за њу гласало 2/3 присутних чланова.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan77-stav2">
+								<content>
+									<p>Рад Етичког одбора ближе се уређује пословником о његовом раду.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan78">
+						<num>78.</num>
+						<content>
+							<clause id="od1-clan78-stav1">
+								<content>
+									<p>Седницу Етичког одбора сазива и њеним радом руководи председник, а у случају његове спречености члан тог одбора, кога за то одреди Етички одбор.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan79">
+						<num>79.</num>
+						<content>
+							<clause id="od1-clan79-stav1">
+								<content>
+									<p>Председник Етичког одбора дужан је да закаже седницу Етичког одбора у року од седам дана од дана пријема образложеног предлога директора Коморе или најмање половина чланова Етичког, Управног или Надзорног одбора.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan80">
+						<num>80.</num>
+						<content>
+							<clause id="od1-clan80-stav1">
+								<content>
+									<p>Етички одбор одлуке из своје надлежности доноси јавним гласањем.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan80-stav2">
+								<content>
+									<p>Етички одбор може одлучити да се о појединим питањима из своје надлежности одлуке доносе тајним гласањем.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan81">
+						<num>81.</num>
+						<content>
+							<clause id="od1-clan81-stav1">
+								<content>
+									<p>Пословником о раду Етичког одбора ближе се утврђује начин рада Етичког одбора, права и дужности председника и чланова Етичког одбора, као и друга питања од значаја за рад Етичког одбора.</p>
+									<тачка id="od1-clan81-stav1-tac2">
+										<num>2.</num>
+										<content>
+											<p> Стручни савет</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan82">
+						<num>82.</num>
+						<content>
+							<clause id="od1-clan82-stav1">
+								<content>
+									<p>За успешно обављање задатака из делокруга Коморе, Скупштина бира Стручни савет као саветодавни орган Коморе, који чине угледни и доказани стручњаци из области социјалне заштите који су дали свој допринос у стварању система социјалне заштите.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan83">
+						<num>83.</num>
+						<content>
+							<clause id="od1-clan83-stav1">
+								<content>
+									<p>Стручни савет има 11 чланова, практичара и теоретичара из области социјалне заштите који не морају бити чланови Скупштине.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan83-stav2">
+								<content>
+									<p>Стручни савет:</p>
+									<alinea id="od1-clan83-stav2-ali1">
+										<content>
+											<p>рати и проучава проблематику социјалне заштите у остваривања стратешких смерница Коморе,</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan83-stav2-ali2">
+										<content>
+											<p>ружа подршку у успостављању и развоју система ангажовања приправника и обављања приправничког стажа,</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan83-stav2-ali3">
+										<content>
+											<p>ружа подршку у развоју и функционисању система лиценцирања стручних радника и испита за лиценцу,</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan83-stav2-ali4">
+										<content>
+											<p>рипрема стручне предлоге за развој делатности у оквиру социјалне заштите,</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan83-stav2-ali5">
+										<content>
+											<p>одржава развој социјално иновативних и комплементарних делатности у области социјалне заштите,</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan83-stav2-ali6">
+										<content>
+											<p>рати делатност истраживачких и образовних институција на подручју социјалне заштите и брине да она буде повезана са задацима Коморе,</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan83-stav2-ali7">
+										<content>
+											<p>азматра значајнија развојна питања струке и саветује органе Коморе у вези са њима,</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan83-stav2-ali8">
+										<content>
+											<p>сваја мишљења и ставове с којима учествује у развоју социјалне заштите у држави у складу са усвојеним смерницама своје области,</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan83-stav2-ali9">
+										<content>
+											<p>арађује са Стручном службом Коморе, експертским и радним групама Коморе.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan84">
+						<num>84.</num>
+						<content>
+							<clause id="od1-clan84-stav1">
+								<content>
+									<p>Радом Стручног савета руководи председник, кога бира Скупштина.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan84-stav2">
+								<content>
+									<p>Председника Стручног савета у случају његове спречености замењује члан тог савета, кога изабере Стручни савет.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan84-stav3">
+								<content>
+									<p>Стручни савет за свој рад подноси извештаје и одговара Скупштини Коморе.</p>
+									<тачка id="od1-clan84-stav3-tac3">
+										<num>3.</num>
+										<content>
+											<p> Стручна служба Коморе</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan85">
+						<num>85.</num>
+						<content>
+							<clause id="od1-clan85-stav1">
+								<content>
+									<p>Ради обављања стручних, административних и других послова у Комори, образује се Стручна служба.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan85-stav2">
+								<content>
+									<p>За постизање квалитетних резултата у реализацији програма рада Коморе, унутрашња организација Коморе уважава начела стручности, функционалности, рационалности и економичности рада, што радницима Стручне службе омогућава самоиницијативност, стваралачку способност и професионални развој и од њих изискује потпуно преузимање одговорности за извршавање задатака.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan86">
+						<num>86.</num>
+						<content>
+							<clause id="od1-clan86-stav1">
+								<content>
+									<p>Стручна служба Коморе обавља стручне, правне, финансијске, административне, техничке и друге послове за потребе Коморе.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan86-stav2">
+								<content>
+									<p>Организација, рад и надлежност Стручне службе Коморе уређује се и овим статутом, а у погледу права, обавеза и одговорности по основу рада запослених у Стручној служби Коморе, примењују се општи прописи о раду.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan87">
+						<num>87.</num>
+						<content>
+							<article id="od1-clan87">
+								<num>87.</num>
+								<heading>Брисан је (види <ref>члан 5. </ref>Статута - 25/2016-76)</heading>
+								<content>
+									<clause id="od1-clan87-stav1">
+										<content>
+											<p>Стручна служба Коморе:</p>
+											<alinea id="od1-clan87-stav1-ali1">
+												<content>
+													<p>чествује у припремању седница Скупштине, Управног одбора, Надзорног одбора и свих радних и стручних тела Коморе, присуствује седницама истих и води записник са тих седница,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan87-stav1-ali2">
+												<content>
+													<p>бавља послове заступања Коморе у имовинско – правним односима</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan87-stav1-ali3">
+												<content>
+													<p>рипрема предлоге за састав, избор и именовање органа Коморе, радних и стручних тела, на основу достављених предлога,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan87-stav1-ali4">
+												<content>
+													<p>безбеђује вршење општих послова, ако се повере неком другом правном или физичком лицу,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan87-stav1-ali5">
+												<content>
+													<p>безбеђује услове за обављање приправничког стажа и организује обављање приправничког стажа,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan87-stav1-ali6">
+												<content>
+													<p>редлаже директору* доношења одлуке о одржавању и категоризацији стручног скупа, односно о прихватању реализације обуке, без провере знања,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan87-stav1-ali7">
+												<content>
+													<p>тара се о спровођењу програма, односно одлука Скупштине, Управног одбора и других радних тела Скупштине,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan87-stav1-ali8">
+												<content>
+													<p>рганизује и води текуће послове Коморе, у складу са Програмом рада, Статутом и Пословником,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan87-stav1-ali9">
+												<content>
+													<p>тара се о информисању јавности о раду и активностима Коморе, и</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan87-stav1-ali10">
+												<content>
+													<p>бавља друге послове од значаја за рад Коморе.</p>
+												</content>
+											</alinea>
+										</content>
+									</clause>
+									<clause id="od1-clan87-stav2">
+										<content>
+											<p>*<ref id="ref24" href="/rs/act/2014/13/srp@">Службени гласник РС,   број 13/2014</ref></p>
+										</content>
+									</clause>
+									<clause id="od1-clan87-stav3">
+										<content>
+											<p>**<ref id="ref25" href="/rs/act/2016/25/srp@">Службени гласник РС, број 25/2016</ref></p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</article>
+					<article id="od1-clan88">
+						<num>88.</num>
+						<heading>VIII ПРЕЛАЗНЕ И ЗАВРШНЕ ОДРЕДБЕ</heading>
+						<content>
+							<clause id="od1-clan88-stav1">
+								<content>
+									<p>Надлежни органи коморе ће у року од три месеца од дана ступања на снагу овог статута донети следећа акта:</p>
+									<тачка id="od1-clan88-stav1-tac1">
+										<num>1.</num>
+										<content>
+											<p> Пословнике о раду органа, радних и стручних тела Коморе,</p>
+										</content>
+									</тачка>
+									<тачка id="od1-clan88-stav1-tac2">
+										<num>2.</num>
+										<content>
+											<p> Правилник о унутрашњој организацији и систематизацији Стручне службе Коморе и огранка Коморе.</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan88-stav2">
+								<content>
+									<p>Друга општа акта предвиђена овим статутом надлежни органи Коморе дужни су да донесу у року од шест месеци од дана ступања на снагу овог статута.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan89">
+						<num>89.</num>
+						<heading>*<ref id="ref26" href="/rs/act/2016/25/srp@">Службени гласник РС, број 25/2016</ref></heading>
+						<content>
+							<clause id="od1-clan89-stav1">
+								<content>
+									<p>Статут се може изменити на начин и по поступку за његово доношење.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan89-stav2">
+								<content>
+									<p>Предлог за промену Статута може покренути, Управни одбор, Надзорни одбор или најмање десет чланова Скупштине.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan89-stav3">
+								<content>
+									<p>*<ref id="ref27" href="/rs/act/2016/25/srp@">Службени гласник РС, број 25/2016</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan90">
+						<num>90.</num>
+						<heading>Ступање на снагу</heading>
+						<content>
+							<clause id="od1-clan90-stav1">
+								<content>
+									<p>Овај статут, по добијеној сагласности министарства надлежног за социјалну заштиту, објавиће се у „Службеном гласнику Републике Србије”, а ступа на снагу осмог дана од дана објављивања.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan90-stav2">
+								<content>
+									<p>*<ref id="ref28" href="/rs/act/2016/25/srp@">Службени гласник РС, број 25/2016</ref></p>
+								</content>
+							</clause>
+							<clause id="od1-clan90-stav3">
+								<content>
+									<p>Број 01/2012</p>
+								</content>
+							</clause>
+							<clause id="od1-clan90-stav4">
+								<content>
+									<p>У Београду, 23. новембра 2012. године</p>
+								</content>
+							</clause>
+							<clause id="od1-clan90-stav5">
+								<content>
+									<p>Председник Скупштине,</p>
+								</content>
+							</clause>
+							<clause id="od1-clan90-stav6">
+								<content>
+									<p>Душанка Иванчевић, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

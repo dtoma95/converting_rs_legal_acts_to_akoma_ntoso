@@ -1,0 +1,1004 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1994/71-881/main"/>
+					<FRBRuri value="/rs/act/1994/71-881"/>
+					<FRBRdate date="1994" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2004/49-1/srp@/main"/>
+					<FRBRuri value="/rs/act/2004/49-1/srp@"/>
+					<FRBRdate date="2004" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2004/49-1/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2004/49-1/srp@.akn"/>
+					<FRBRdate date="2004" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1994-9-23" name="службени лист срј" number="71" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="2. Војска Србије" value="2. војска србије"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1994-09-22" id="usvajanje"/>
+				<step date="1994-10-01" id="stupanje_na_snagu"/>
+				<step date="1994-10-01" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="71/1994-881" id="e1" type="generation"/>
+				<eventRef date="54/1998-1" id="e2" type="amendment"/>
+				<eventRef date="47/2004-1" id="e3" type="amendment"/>
+				<eventRef date="49/2004-1" id="e4" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу осмог дана од дана објављивања у „Службеном листу СРЈ”, односно 1. октобра 1994. године (види <ref>члан 32. </ref>Уредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<authority>На основу <ref>члана 269. </ref>Закона о Војсци Југославије („<ref id="ref11" href="/rs/act/94/43/srp@">Службени лист СРЈ“, бр. 43/94</ref>), Савезна влада доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о матичној евиденцији војних осигураника и корисника права из пензијског и   инвалидског осигурања</title>
+			<date>„Службени лист СРЈ”, бр. 71 од 23. септембра 1994, 54 oд 30. октобра 1998, „Службени лист СЦГ”, бр. 47 од 1. октобра 2004, 49 од 15. октобра 2004  - исправка</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОСНОВНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овом уредбом уређују се организовање, устројавање и вођење матичне евиденције војних осигураника и корисника права из пензијског и инвалидског осигурања (у даљем тексту: матична евиденција), подаци који се региструју у матичној евиденцији, начин обезбеђивања, пријављивања и достављања података за матичну евиденцију и рокови за њено устројавање и подношење прописаних пријава.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan1-stav2">
+								<content>
+									<p>У матичну евиденцију уносе се подаци о војним осигураницима и корисницима права из пензијског и инвалидског осигурања.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Матична евиденција води се по јединственим методолошким принципима.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav2">
+								<content>
+									<p>Подаци се уносе у матичну евиденцију према јединственом кодексу шифара, на начин који одговара техничкој опреми Генералштаба Војске Србије и Црне Горе* за вођење матичне евиденције.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav3">
+								<content>
+									<p>Подаци се уносе у матичну евиденцију на основу прописаних пријава и помоћу средстава за електронску обраду података.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<heading>*<ref id="ref12" href="/rs/act/2004/47/srp@">Службени лист СЦГ, број 47/2004</ref></heading>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Послове у вези са устројавањем, обрадом и вођењем матичне евиденције обавља Фонд за социјално осигурање војних осигураника (у даљем тексту: Фонд).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla1-clan4-stav1">
+								<content>
+									<p>У матичну евиденцију уносе се подаци о:</p>
+									<point id="gla1-clan4-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> војним осигураницима;</p>
+										</content>
+									</point>
+									<point id="gla1-clan4-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> корисницима права из пензијског и инвалидског осигурања који су остварили право на старосну, инвалидску или породичну пензију и право на накнаду за телесно оштећење.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla1-clan5-stav1">
+								<content>
+									<p>У матичну евиденцију војних осигураника уносе се следећи подаци:</p>
+									<point id="gla1-clan5-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> презиме, име оца и име,</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> јединствен матични број грађана;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> држављанство и национална припадност;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> пол;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> дан, месец и година рођења;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> школска спрема;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> датум стицања и престанка својства војног осигураника;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> стаж осигурања (ван Војске Србије и Црне Горе* пре ступања у професионалну војну службу, у Војсци Србије и Црне Горе* и посебан стаж);</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> инвалидност (узрок и дијагноза) и телесно оштећење;</p>
+										</content>
+									</point>
+									<point id="gla1-clan5-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> други подаци потребни за остваривање и коришћење права.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan6">
+						<num>6.</num>
+						<heading>*<ref id="ref13" href="/rs/act/2004/47/srp@">Службени лист СЦГ, број 47/2004</ref></heading>
+						<content>
+							<clause id="gla1-clan6-stav1">
+								<content>
+									<p>У матичну евиденцију корисника права из пензијског и инвалидског осигурања уносе се следећи подаци:</p>
+									<point id="gla1-clan6-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> подаци из <ref>члана 5. </ref>ове уредбе;</p>
+										</content>
+									</point>
+									<point id="gla1-clan6-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> врста пензије, правни основ који је служио за утврђивање права на пензију и могући радни век,</p>
+										</content>
+									</point>
+									<point id="gla1-clan6-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> датум стицања права на пензију и датум почетка исплате, обуставе и поновне исплате пензије;</p>
+										</content>
+									</point>
+									<point id="gla1-clan6-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> пензијски основ у последњем месецу пре престанка својства професионалног војника и процент пензије од пензијског основа;</p>
+										</content>
+									</point>
+									<point id="gla1-clan6-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> подаци о корисницима породичне пензије (подаци о правном основу за одређивање породичне пензије и групама корисника пензије);</p>
+										</content>
+									</point>
+									<point id="gla1-clan6-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> други подаци потребни за остваривање и коришћење права из пензијског и инвалидског осигурања.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla1-clan7-stav1">
+								<content>
+									<p>Подаци о времену које је војни осигураник провео на дужностима и радним местима на којима се време проведено на раду рачуна у стаж осигурања с увећаним трајањем уносе се у матичну евиденцију у ефективном трајању, са стопом његовог увећања.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>УСТРОЈАВАЊЕ И ВОЂЕЊЕ МАТИЧНЕ ЕВИДЕНЦИЈЕ</heading>
+				<content>
+					<тачка id="gla2-clan7-tac1">
+						<num>1.</num>
+						<content>
+							<p> Устројавање матичне евиденције</p>
+						</content>
+					</тачка>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>Матична евиденција устројава се уношењем података о војном осигуранику на основу Основне пријаве за осигурање (у даљем тексту: Основна пријава), која је одштампана уз ову уредбу и чини њен саставни део.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav2">
+								<content>
+									<p>Основну пријаву попуњавају и достављају Фонду војне јединице, односно војне установе које по посебним прописима воде други примерак досијеа персоналних података.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav3">
+								<content>
+									<p>Податке за матичну евиденцију војних осигураника који су код њих на раду односно на служби обезбеђују државни органи, предузећа и друга правна лица и војне јединице, односно војне установе, подношењем прописаних пријава.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>Војне јединице, односно војне установе дужне су да Фонду пријаве ступање у службу, односно на рад војног осигураника и сваки случај повреде на раду тог осигураника.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav2">
+								<content>
+									<p>Војне јединице, односно војне установе и Фонд дужни су да уредно воде прописане евиденције о војним осигураницима и корисницима права из пензијског и инвалидског осигурања.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla2-clan10-stav1">
+								<content>
+									<p>Основна пријава за војног осигураника сачињава се у једном примерку и садржи податке из <ref>члана 5. </ref>ове уредбе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla2-clan11-stav1">
+								<content>
+									<p>Војни осигураник својим потписом на основној пријави потврђује да је сагласан с подацима унесеним у ту пријаву.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla2-clan12-stav1">
+								<content>
+									<p>Војна јединица, односно војна установа оверава попуњене и потписане основне пријаве и уз списак тих пријава, сачињен у два примерка, доставља их Фонду.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan12-stav2">
+								<content>
+									<p>Уз основну пријаву достављају се:</p>
+									<point id="gla2-clan12-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> извод из матичне књиге рођених (оригинал или оверена фото-копија);</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> докази о стажу осигурања и посебном стажу који у пријаву нису унесени на основу досијеа персоналних података (радна књижица, решење и сл.).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla2-clan13-stav1">
+								<content>
+									<p>Фонд врши контролу исправности и потпуности основних пријава. По извршеној контроли, Фонд враћа војној јединици, односно војној установи један оверени примерак списка, чиме потврђује да је примио пријаве.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan13-stav2">
+								<content>
+									<p>По пријему списка из става 1. овог члана, војна јединица, односно војна установа писмено обавештава војног осигураника да је пријавила податке за матичну евиденцију.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla2-clan14-stav1">
+								<content>
+									<p>Подаци унесени у матичну евиденцију војних осигураника могу се мењати:</p>
+									<point id="gla2-clan14-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> ако надлежни орган, у прописаном поступку, накнадно утврди промену података;</p>
+										</content>
+									</point>
+									<point id="gla2-clan14-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> ако Фонд, провером података или на други начин, накнадно утврди да су у матичну евиденцију унесени неисправни, нетачни или непотпуни подаци, односно да су унесени подаци на основу лажних исправа.</p>
+											<тачка id="gla2-clan14-stav1-tac2">
+												<num>2.</num>
+												<content>
+													<p> Вођење матичне евиденције</p>
+												</content>
+											</тачка>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla2-clan15-stav1">
+								<content>
+									<p>Војне јединице, односно војне установе које по посебним прописима воде други примерак досијеа персоналних података региструју све промене података из <ref>члана 5. </ref>ове уредбе које утичу на права војних осигураника из пензијског и инвалидског осигурања.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan15-stav2">
+								<content>
+									<p>Регистроване промене података из става 1. овог члана, војне јединице, односно војне установе достављају Фонду у току професионалне војне службе на Пријави промене података (у даљем тексту: Пријава промене), а по престанку професионалне војне службе - на Пријави престанка осигурања (у даљем тексту: Пријава престанка), које су одштампане уз ову уредбу и чине њен саставни део.*</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan16">
+						<num>16.</num>
+						<heading>*<ref id="ref14" href="/rs/act/1998/54/srp@">Службени лист СРЈ, број 54/1998</ref></heading>
+						<content>
+							<clause id="gla2-clan16-stav1">
+								<content>
+									<p>У матичну евиденцију корисника права из пензијског и инвалидског осигурања уносе се промене података за лица регистрована у тој евиденцији ако те промене утичу на коришћење права из пензијског и инвалидског осигурања.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ПРИЈАВЉИВАЊЕ И ДОСТАВЉАЊЕ ПОДАТАКА ЗА МАТИЧНУ ЕВИДЕНЦИЈУ И РОКОВИ ЗА ЊЕНО УСТРОЈАВАЊЕ</heading>
+				<content>
+					<тачка id="gla3-clan16-tac1">
+						<num>1.</num>
+						<content>
+							<p> Дужности војних осигураника, војних јединица, односно војних установа и фонда</p>
+						</content>
+					</тачка>
+					<article id="gla3-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="gla3-clan17-stav1">
+								<content>
+									<p>Војни осигураник пријављује војној јединици, односно војној установи све промене које утичу на коришћење права из пензијског и инвалидског осигурања у року од осам дана од настанка промене.*</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan18">
+						<num>18.</num>
+						<heading>*<ref id="ref15" href="/rs/act/1998/54/srp@">Службени лист СРЈ, број 54/1998</ref></heading>
+						<content>
+							<clause id="gla3-clan18-stav1">
+								<content>
+									<p>Ради обезбеђивања података за устројавање матичне евиденције војних осигураника, војне јединице, односно војне установе:</p>
+									<point id="gla3-clan18-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> попуњавају основну пријаву за војне осигуранике за које воде други примерак досијеа персоналних података;</p>
+										</content>
+									</point>
+									<point id="gla3-clan18-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> обавештавају војног осигураника о подацима унесеним у основну пријаву;</p>
+										</content>
+									</point>
+									<point id="gla3-clan18-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> попуњену основну пријаву, коју је потписао војни осигураник, оверавају и сачињавају списак тих пријава.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan18-stav2">
+								<content>
+									<p>За вођење матичне евиденције војних осигураника, војне јединице, односно војне установе:</p>
+									<point id="gla3-clan18-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> достављају Фонду основну пријаву за лице које стекне својство војног осигураника;</p>
+										</content>
+									</point>
+									<point id="gla3-clan18-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> достављају Фонду пријаву промене података из <ref>члана 15. став 2. </ref>ове уредбе, у току професионалне војне службе;*</p>
+										</content>
+									</point>
+									<point id="gla3-clan18-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p>* достављају Фонду пријаву о престанку стажа осигурања, у коју уносе податке о:</p>
+											<alinea id="gla3-clan18-stav2-tac3-ali1">
+												<content>
+													<p>тврђеним променама у чину, положајној групи, стажу осигурања и елементима плате који улазе у пензијски основ;</p>
+												</content>
+											</alinea>
+											<alinea id="gla3-clan18-stav2-tac3-ali2">
+												<content>
+													<p>акнадно утврђеном стажу осигурања – кад решење о томе постане правноснажно;</p>
+												</content>
+											</alinea>
+											<alinea id="gla3-clan18-stav2-tac3-ali3">
+												<content>
+													<p>ињеницама које утичу на коришћење права из пензијског и инвалидског осигурања.</p>
+												</content>
+											</alinea>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan18-stav3">
+								<content>
+									<p>*<ref id="ref16" href="/rs/act/1998/54/srp@">Службени лист СРЈ, број 54/1998</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<section id="gla3-od2">
+						<num>2.</num>
+						<heading> Рокови за подношење основних пријава за устројавање и вођење матичне евиденције</heading>
+						<content>
+							<article id="gla3-od2-clan19">
+								<num>19.</num>
+								<content>
+									<clause id="gla3-od2-clan19-stav1">
+										<content>
+											<p>Војни осигураници и војне јединице, односно војне установе достављају пријаве из <ref>члана 18. </ref>ове уредбе у следећим роковима:*</p>
+											<point id="gla3-od2-clan19-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> Основну пријаву - у року од осам дана од дана пријема у професионалну војну службу;*</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan19-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> Пријаву промене - у року од осам дана од дана подношења захтева војног осигураника за остваривање права из пензијског и инвалидског осигурања у току професионалне војне службе;*</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan19-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> Пријаву престанка - у року од осам дана од дана престанка професионалне војне службе.*</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan19-stav2">
+										<content>
+											<p>Уз пријаву из става 1. тачка 3. овог члана, ради остваривања права на пензију по престанку професионалне војне службе, достављају се:*</p>
+											<point id="gla3-od2-clan19-stav2-tac1">
+												<num>1)</num>
+												<content>
+													<p> захтев војног осигураника за признавање права на пензију;*</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan19-stav2-tac2">
+												<num>2)</num>
+												<content>
+													<p> коначан акт о престанку професионалне војне службе;*</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan19-stav2-tac3">
+												<num>3)</num>
+												<content>
+													<p> коначно решење надлежног старешине о разрешењу од професионалне војне службе;*</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan19-stav2-tac4">
+												<num>4)</num>
+												<content>
+													<p> коначан управни акт којим је утврђен и признат посебан део плате за обављање специфичне војне службе у последњем месецу пре престанка професионалне војне службе;*</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan19-stav2-tac5">
+												<num>5)</num>
+												<content>
+													<p> коначан управни акт којим је утврђен и признат део плате који је утврђен према посебним условима службе у Војсци Србије и Црне Горе (војни додатак) у последњем месецу пре престанка својства професионалог војног лица;**</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan19-stav2-tac6">
+												<num>6)</num>
+												<content>
+													<p>** акт надлежног старешине (наредба о постављењу или обавештење о промени положајне групе) којим је утврђен и признат део плате према дужности у последњем месецу пре престанка својства професионалног војног лица;*</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan19-stav2-tac7">
+												<num>7)</num>
+												<content>
+													<p>** решење надлежног старешине о броју премештаја војног осигураника у току професионалне војне службе;*</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan19-stav2-tac8">
+												<num>8)</num>
+												<content>
+													<p>** коначан налаз, оцену и мишљење надлежне војнолекарске комисије о утврђеној трајној неспособности за професионалну војну службу (за војног осигураника коме служба престаје по том основу);*</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan19-stav2-tac9">
+												<num>9)</num>
+												<content>
+													<p>** решење надлежног старешине о утврђеном укупном пензијском стажу до престанка професионалне војне службе, укључујући и стаж осигурања у двоструком трајању, остварен на основу <ref>члана 264. став 3. </ref>Закона.*</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan19-stav2-tac10">
+												<num>10)</num>
+												<content>
+													<p>** коначно решење о утврђивању својства војног инвалида;*</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan19-stav2-tac11">
+												<num>11)</num>
+												<content>
+													<p>** пријава пребивалишта;*</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan19-stav2-tac12">
+												<num>12)</num>
+												<content>
+													<p>** на захтев Фонда, други подаци потребни за остваривање и коришћење права.*</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan19-stav3">
+										<content>
+											<p>У случају смрти војног осигураника, поред пријаве из става 1. тачка 3. овог члана, Фонду се достављају и:*</p>
+											<point id="gla3-od2-clan19-stav3-tac1">
+												<num>1)</num>
+												<content>
+													<p> извод из матичне књиге умрлих, и*</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan19-stav3-tac2">
+												<num>2)</num>
+												<content>
+													<p> уверење о узроку смрти.*</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan19-stav4">
+										<content>
+											<p>У случају престанка професионалне војне службе по личном захтеву или по другом основу без права на пензију, поред пријаве из става 1. тачка 3. овог члана, Фонду се достављају:*</p>
+											<point id="gla3-od2-clan19-stav4-tac1">
+												<num>1)</num>
+												<content>
+													<p> акт о престанку професионалне војне службе;*</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan19-stav4-tac2">
+												<num>2)</num>
+												<content>
+													<p> решење надлежног старешине о разрешењу од професионалне војне службе;*</p>
+												</content>
+											</point>
+											<point id="gla3-od2-clan19-stav4-tac3">
+												<num>3)</num>
+												<content>
+													<p> коначно решење надлежног старешине о утврђеном укупном пензијском стажу до престанка професионалне војне службе.*</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan19-stav5">
+										<content>
+											<p>*<ref id="ref17" href="/rs/act/1998/54/srp@">Службени лист СРЈ, број 54/1998</ref></p>
+										</content>
+									</clause>
+									<clause id="gla3-od2-clan19-stav6">
+										<content>
+											<p>**<ref id="ref18" href="/rs/act/2004/47/srp@">Службени лист СЦГ, број 47/2004</ref></p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ДАВАЊЕ ПОДАТАКА РЕГИСТРОВАНИХ У МАТИЧНОЈ ЕВИДЕНЦИЈИ</heading>
+				<content>
+					<article id="gla4-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla4-clan20-stav1">
+								<content>
+									<p>Подаци регистровани у матичној евиденцији могу се користити за статистичка истраживања и друге потребе Министарства одбране* и Генералштаба Војске Србије и Црне Горе.*</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan21">
+						<num>21.</num>
+						<heading>*<ref id="ref19" href="/rs/act/2004/47/srp@">Службени лист СЦГ, број 47/2004</ref></heading>
+						<content>
+							<clause id="gla4-clan21-stav1">
+								<content>
+									<p>На захтев фонда пензијског и инвалидског осигурања радника из републике чланице, Фонд ће за лица којима је престало својство војног осигураника доставити податке из матичне евиденције.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan22">
+						<num>22.</num>
+						<content>
+							<clause id="gla4-clan22-stav1">
+								<content>
+									<p>Податке о стажу осигурања и посебном стажу војном осигуранику, на његов захтев, у радну књижицу уносе:*</p>
+									<point id="gla4-clan22-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> команда војне јединице, односно војне установе која по посебним прописима води други примерак досијеа персоналних података подносиоца захтева, за укупан стаж остварен у Војсци Југославије - до истека рока од две године од престанка службе подносиоца захтева;*</p>
+										</content>
+									</point>
+									<point id="gla4-clan22-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> Фонд - за стаж из тачке 1. овог члана, по истеку рока од две године од престанка службе подносиоца захтева.*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla4-clan22-stav2">
+								<content>
+									<p>*<ref id="ref20" href="/rs/act/1998/54/srp@">Службени лист СРЈ, број 54/1998</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>МАТИЧНИ БРОЈ</heading>
+				<content>
+					<article id="gla5-clan23">
+						<num>23.</num>
+						<content>
+							<clause id="gla5-clan23-stav1">
+								<content>
+									<p>За сваког војног осигураника Фонд одређује матични број.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan24">
+						<num>24.</num>
+						<content>
+							<clause id="gla5-clan24-stav1">
+								<content>
+									<p>Матични број војног осигураника уноси се у досије персоналних података, исплата картон корисника војне пензије и здравствену књижицу војног осигураника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>ЧУВАЊЕ ДОКУМЕНТАЦИЈЕ МАТИЧНЕ ЕВИДЕНЦИЈЕ</heading>
+				<content>
+					<article id="gla6-clan25">
+						<num>25.</num>
+						<content>
+							<clause id="gla6-clan25-stav1">
+								<content>
+									<p>Документација матичне евиденције састоји се од:</p>
+									<point id="gla6-clan25-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> документације о војним осигураницима;</p>
+										</content>
+									</point>
+									<point id="gla6-clan25-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> документације о корисницима права из пензијског и инвалидског осигурања;</p>
+										</content>
+									</point>
+									<point id="gla6-clan25-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> друге документације.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla6-clan25-stav2">
+								<content>
+									<p>Документације о војним осигураницима и корисницима права из пензијског и инвалидског осигурања обухвата податке за устројавање и вођење матичне евиденције прописане овом уредбом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan26">
+						<num>26.</num>
+						<content>
+							<clause id="gla6-clan26-stav1">
+								<content>
+									<p>Документација матичне евиденције чува се 30 година од дана стицања права која произилазе из те документације, али не мање од 10 година од дана смрти корисника тих права, односно од дана престанка или губитка права чланова породице на пензију.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan26-stav2">
+								<content>
+									<p>Подаци за лица регистрована у матичној евиденцији која нису стекла право из пензијског и инвалидског осигурања чувају се најмање 40 година од последњег уношења у ту евиденцију.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan26-stav3">
+								<content>
+									<p>Документација из ст. 1. и 2. овог члана може се чувати и на микрофилму, односно средствима за електронску обраду података (магнетни медији и сл), с тим да се лицима која за то имају правни интерес техничким решењима обезбеди потпуни увид у ту документацију.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan27">
+						<num>27.</num>
+						<content>
+							<clause id="gla6-clan27-stav1">
+								<content>
+									<p>По истеку рокова из <ref>члана 26. </ref>ове уредбе, документацију матичне евиденције уништава комисија коју образује Фонд. Један члан комисије је представник Архива Војске Србије и Црне Горе.*</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan27-stav2">
+								<content>
+									<p>*<ref id="ref21" href="/rs/act/2004/47/srp@">Службени лист СЦГ, број 47/2004</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla7">
+				<num>VII</num>
+				<heading>ПРЕЛАЗНЕ И ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla7-clan28">
+						<num>28.</num>
+						<content>
+							<clause id="gla7-clan28-stav1">
+								<content>
+									<p>Војне јединице, односно војне установе које до дана ступања на снагу ове уредбе нису доставиле пријаве из <ref>члана 7. </ref>Правилника о матичној евиденцији о војним осигураницима и уживаоцима пензија доставиће их Фонду у року од 30 дана од дана ступања на снагу ове уредбе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan29">
+						<num>29.</num>
+						<content>
+							<clause id="gla7-clan29-stav1">
+								<content>
+									<p>Обрасци пријава одштампани уз Правилник о матичној евиденцији о војним осигураницима и уживаоцима пензија користиће се до њиховог утрошка.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan30">
+						<num>30.</num>
+						<content>
+							<clause id="gla7-clan30-stav1">
+								<content>
+									<p>Матична евиденција устројена по прописима који су били на снази до доношења ове уредбе водиће се на начин утврђен овом уредбом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan31">
+						<num>31.</num>
+						<content>
+							<clause id="gla7-clan31-stav1">
+								<content>
+									<p>Даном ступања на снагу ове уредбе престаје да важи Правилник о матичној евиденцији о војним осигураницима и уживаоцима пензија („<ref id="ref22" href="/rs/act/77/26/srp@">Службени лист СФРЈ”, бр. 26/77</ref>).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan32">
+						<num>32.</num>
+						<content>
+							<clause id="gla7-clan32-stav1">
+								<content>
+									<p>Ова уредба ступа на снагу осмог дана од дана објављивања у „Службеном листу СРЈ”.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan32-stav2">
+								<content>
+									<p>Савезна влада</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan32-stav3">
+								<content>
+									<p>Е. п. бр. 486</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<section id="gla7-od22">
+						<num>22.</num>
+						<heading> септембра 1994. године</heading>
+						<content>
+							<clause id="gla7-od22-clan32-stav1">
+								<content>
+									<p>Београд</p>
+								</content>
+							</clause>
+							<clause id="gla7-od22-clan32-stav2">
+								<content>
+									<p>Председник,</p>
+								</content>
+							</clause>
+							<clause id="gla7-od22-clan32-stav3">
+								<content>
+									<p>др  Радоје Контић,  с. р.</p>
+								</content>
+							</clause>
+							<clause id="gla7-od22-clan32-stav4">
+								<content>
+									<p>ОДРЕДБЕ КОЈЕ НИСУ УНЕТЕ У „ПРЕЧИШЋЕН ТЕКСТ“ УРЕДБЕ</p>
+								</content>
+							</clause>
+							<clause id="gla7-od22-clan32-stav5">
+								<content>
+									<p>Исправка Уредбе о изменама и допунама Уредбе о матичној евиденцији војних осигураника и корисника права из пензијског и инвалидског осигурања: „<ref id="ref23" href="/rs/act/2004/49/srp@">Службени лист СЦГ“, број 49/2004</ref>-1</p>
+								</content>
+							</clause>
+							<clause id="gla7-od22-clan32-stav6">
+								<content>
+									<p>У <ref>члану 3. </ref>испог табеле в, у доњем левом углу, испод речи: “(потпис осигураника)”, треба додати омашком испуштене речи:</p>
+								</content>
+							</clause>
+							<clause id="gla7-od22-clan32-stav7">
+								<content>
+									<p>“–––––––––––––––––––––––––––––––––––––––––”.</p>
+								</content>
+							</clause>
+							<clause id="gla7-od22-clan32-stav8">
+								<content>
+									<p>(потпис надлежног персоналног органа)</p>
+								</content>
+							</clause>
+							<став id="gla7-od22-clan32-stav9">
+								<img height="808" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/1348e1f9-445d-4e95-9527-c145a87efa76.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425840&amp;regactid=425840" width="599"/>
+								<content/>
+							</став>
+							<став id="gla7-od22-clan32-stav10">
+								<img height="805" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/b8464aae-cf85-479b-8d52-a60faf0323eb.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425840&amp;regactid=425840" width="606"/>
+								<content/>
+							</став>
+							<clause id="gla7-od22-clan32-stav11">
+								<content>
+									<p>*</p>
+								</content>
+							</clause>
+							<clause id="gla7-od22-clan32-stav12">
+								<content>
+									<p>*<ref id="ref24" href="/rs/act/1998/54/srp@">Службени лист СРЈ, број 54/1998</ref></p>
+								</content>
+							</clause>
+							<став id="gla7-od22-clan32-stav13">
+								<img height="844" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/7e92bad8-a591-4dae-b4d4-00f70a971965.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425840&amp;regactid=425840" width="623"/>
+								<content/>
+							</став>
+							<став id="gla7-od22-clan32-stav14">
+								<img height="862" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/5e5ae365-5842-4238-b36a-2c27f3fb9d6c.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425840&amp;regactid=425840" width="623"/>
+								<content/>
+							</став>
+							<став id="gla7-od22-clan32-stav15">
+								<img height="453" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/d43fcbd8-5b7f-4eac-9d73-c5e4ae7563c8.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425840&amp;regactid=425840" width="623"/>
+								<content/>
+							</став>
+							<clause id="gla7-od22-clan32-stav16">
+								<content>
+									<p>*</p>
+								</content>
+							</clause>
+							<clause id="gla7-od22-clan32-stav17">
+								<content>
+									<p>*<ref id="ref25" href="/rs/act/1998/54/srp@">Службени лист СРЈ, број 54/1998</ref></p>
+								</content>
+							</clause>
+							<став id="gla7-od22-clan32-stav18">
+								<img height="396" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/21765617-6248-4798-88a9-66eb80ff27c6.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425840&amp;regactid=425840" width="623"/>
+								<content/>
+							</став>
+							<став id="gla7-od22-clan32-stav19">
+								<img height="790" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/2e89f03b-8645-4694-b1f3-19aed764f04b.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425840&amp;regactid=425840" width="623"/>
+								<content/>
+							</став>
+							<став id="gla7-od22-clan32-stav20">
+								<img height="829" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/61ef768f-3f43-4bda-a856-2a5d7dde1406.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425840&amp;regactid=425840" width="624"/>
+								<content/>
+							</став>
+							<clause id="gla7-od22-clan32-stav21">
+								<content>
+									<p>*</p>
+								</content>
+							</clause>
+						</content>
+					</section>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

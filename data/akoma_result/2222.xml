@@ -1,0 +1,478 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2015/76-22/main"/>
+					<FRBRuri value="/rs/act/2015/76-22"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2015/76-22/srp@/main"/>
+					<FRBRuri value="/rs/act/2015/76-22/srp@"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2015/76-22/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2015/76-22/srp@.akn"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2015-9-4" name="службени гласник рс" number="76" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Упутство" value="упутство"/>
+				<keyword id="oblast" showAs="XI ТРГОВИНА, ТУРИЗАМ И УГОСТИТЕЉСТВО" value="xi трговина, туризам и угоститељство"/>
+				<keyword id="grupa" showAs="3. Заштита конкуренције и контрола државне помоћи" value="3. заштита конкуренције и контрола државне помоћи"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2015-08-28" id="usvajanje"/>
+				<step date="2015-09-12" id="stupanje_na_snagu"/>
+				<step date="2015-09-12" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу члана 6а Уредбе о правилима за доделу државне помоћи („<ref id="ref1" href="/rs/act/10/13/srp@">Службени гласник РС”, бр. 13/10, 100/11, 91/12, 37/13, 97/13</ref> и 119/14) и <ref>члана 15. </ref>ст. 1. и 4. Закона о државној управи („<ref id="ref2" href="/rs/act/05/79/srp@">Службени гласник РС”, бр. 79/05, 101/07, 95/10</ref> и 99/14),</p>
+			<p>Министар финансија доноси</p>
+			<p>УПУТСТВО</p>
+		</preamble>
+		<preface>
+			<authority>за утврђивање референтне и дисконтне каматне стопе</authority>
+			<title>&quot;Службени гласник РС&quot;, број 76 од 4. септембра      2015.</title>
+			<date>I ПРЕДМЕТ И САДРЖАЈ</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Овим упутством прописује се начин утврђивања, израчунавања и ажурирања основне референтне каматне стопе и израчунавањa референтне и дисконтне каматне стопе које се користе за обрачун износа и дисконтовања државне помоћи и израчунавање износа додељене државне помоћи.</heading>
+				<content>
+					<clause id="od1-stav1">
+						<content>
+							<p>II ОСНОВНА РЕФЕРЕНТНА КАМАТНА СТОПА</p>
+							<point id="od1-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> Утврђивање основне референтне каматне стопе</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Основна референтна каматна стопа за текућу годину утврђује се на основу просечне вредности 6М BELIBOR каматне стопе („Belgrade Interbank Offered Rate” за рочност од шест месеци), коју објављује Народна банка Србије на својој интернет страници, а израчунава се на основу дневних података о висини те стопе у септембру, октобру и новембру претходне годинe. Овако утврђена основна референтна каматна стопа примењује се од 1. јануара текуће године.</heading>
+				<content/>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Основна референтна каматна стопа ажурира се сваке године.</heading>
+				<content/>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Изузетно од тачке 3. овог упутства, а ради узимања у обзир значајних и изненадних промена 6М BELIBOR каматне стопе, основна референтна каматна стопа додатно се ажурира уколико је просечна вредност 6М BELIBOR каматне стопе, израчуната за претходна три месеца, одступила више од 15% од важеће 6М BELIBOR каматне стопе. Овако утврђена основна референтна каматна стопа примењује се првог дана другог месеца након истека месеци узетих за њено израчунавање.</heading>
+				<content>
+					<point id="od4-tac2">
+						<num>2)</num>
+						<content>
+							<p> Израчунавање референтне и дисконтне каматне стопе</p>
+						</content>
+					</point>
+				</content>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> Референтна каматна стопа израчунава се тако што се основној референтној каматној стопи из тачке 2. овог упутства додаје маржа одређена у Табели 1, која је одштампана уз ово упутство и чини његов саставни део, а у случају новооснованог привредног субјекта или зајмопримца који нема кредитну историју или оцену кредитног рејтинга, основној референтној каматној стопи додаје се маржа од најмање 400 базних поена, у зависности од доступног обезбеђења, при чему маржа не може бити нижа од марже која се примењује у случају матичне компаније.</heading>
+				<content>
+					<clause id="od5-stav1">
+						<content>
+							<p>Маржа из става 1. ове тачке зависи од кредитног рејтинга привредног субјекта и понуђеног обезбеђења, а изражава се у распону од 60 до 1000 базних поена.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od6">
+				<num>6.</num>
+				<heading> За оцену кредитног рејтинга могу се користити системи оцењивања кредитних рејтинга које примењују банке за израчунавање стопе ризика неизмирења обавеза.</heading>
+				<content/>
+			</section>
+			<section id="od7">
+				<num>7.</num>
+				<heading> Дисконтна каматна стопа се израчунава тако што се основна референтна каматна стопа из тачке 2. овог упутства увећава за фиксну маржу од 100 базних поена.</heading>
+				<content>
+					<clause id="od7-stav1">
+						<content>
+							<p>III ИЗРАЧУНАВАЊЕ ИЗНОСА ДОДЕЉЕНЕ ДРЖАВНЕ ПОМОЋИ</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od8">
+				<num>8.</num>
+				<heading> Референтна каматна стопа користи се као замена за тржишну каматну стопу приликом израчунавања износа државне помоћи која се додељује путем субвенционисања камата и/или у виду кредита под повољнијим условима од тржишних.</heading>
+				<content/>
+			</section>
+			<section id="od9">
+				<num>9.</num>
+				<heading> Дисконтна каматна стопа се користи за израчунавање нето садашње вредности државне помоћи приликом стицања права на њену доделу, када се државна помоћ исплаћује у више рата, односно када се средства преносе кориснику.</heading>
+				<content>
+					<clause id="od9-stav1">
+						<content>
+							<p>IV ОБЈАВЉИВАЊЕ РЕФЕРЕНТНЕ И ДИСКОНТНЕ КАМАТНЕ СТОПЕ</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od10">
+				<num>10.</num>
+				<heading> Референтну и дисконтну каматну стопу објављује Комисија за контролу државне помоћи на својој интернет страници.</heading>
+				<content>
+					<clause id="od10-stav1">
+						<content>
+							<p>V ЗАВРШНА ОДРЕДБА</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od11">
+				<num>11.</num>
+				<heading> Ово упутство ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</heading>
+				<content>
+					<clause id="od11-stav1">
+						<content>
+							<p>Број 110-00-351/2014-38</p>
+						</content>
+					</clause>
+					<clause id="od11-stav2">
+						<content>
+							<p>У Београду, 28. августа 2015. године</p>
+						</content>
+					</clause>
+					<clause id="od11-stav3">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="od11-stav4">
+						<content>
+							<p>др Душан Вујовић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="od11-stav5">
+						<content>
+							<p>Табела 1.</p>
+						</content>
+					</clause>
+					<став id="od11-stav6">
+						<table class="tabela-sa-borderom">
+							
+					
+							<tbody>
+								
+						
+								<tr>
+									
+							
+									<td colspan="4">
+										
+								
+										<p>Маржа код кредита у базним поенима</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td rowspan="2">
+										
+								
+										<p>Кредитни рејтинг</p>
+										
+							
+									</td>
+									
+							
+									<td colspan="3">
+										
+								
+										<p>Обезбеђење</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Високо</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>Уобичајено</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>Ниско</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Јак (AAA-A)</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>60</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>75</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>100</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Добар (БББ)</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>75</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>100</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>220</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Задовољавајући (ББ)</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>100</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>220</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>400</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Слаб (Б)</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>220</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>400</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>650</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Лош/Финансијске тешкоће (ЦЦЦ и мање)</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>400</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>650</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>1000</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+					
+							</tbody>
+							
+				
+						</table>
+						
+	
+
+
+						<content/>
+					</став>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

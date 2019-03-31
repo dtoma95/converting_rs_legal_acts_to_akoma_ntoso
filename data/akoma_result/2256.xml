@@ -1,0 +1,215 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2013/5-18/main"/>
+					<FRBRuri value="/rs/act/2013/5-18"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2015/17-103/srp@/main"/>
+					<FRBRuri value="/rs/act/2015/17-103/srp@"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2015/17-103/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2015/17-103/srp@.akn"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2013-1-16" name="службени гласник рс" number="5" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="4. Здравствено осигурање" value="4. здравствено осигурање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2012-12-21" id="usvajanje"/>
+				<step date="2013-01-24" id="stupanje_na_snagu"/>
+				<step date="2013-01-24" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="5/2013-18" id="e1" type="generation"/>
+				<eventRef date="17/2015-103" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 55. став 2. </ref>и <ref>члана 221. став 1. тачка 1</ref>. Закона о здравственом осигурању („<ref id="ref2" href="/rs/act/05/107/srp@">Службени гласник РС”, бр. 107/05, 109/05</ref> – исправка, 57/11 и 119/12),</p>
+		</preamble>
+		<preface>
+			<authority>Управни одбор Републичког фонда за здравствено осигурање, на седници одржаној 21. децембра 2012. године, донео је</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о ценама болесничког дана за продужену рехабилитацију у стационарним здравственим установама специјализованим за рехабилитацију</title>
+			<date>&quot;Службени гласник РС&quot;, број 5 од 16. јануара 2013, 17  од 10. фебруара 2015.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником утврђују се цене болесничког дана за продужену рехабилитацију у стационарним здравственим установама специјализованим за рехабилитацију.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Цене болесничког дана утврђују се у зависности од дијагнозе и здравственог   стања под којим је осигурано лице упућено у здравствену установу   специјализовану за рехабилитацију и то:*</p>
+						</content>
+					</clause>
+					<став id="clan2-stav2">
+						<table border="1" width="100%">
+							
+		
+							<tbody>
+								<tr>
+									
+			
+									<td>
+										
+			
+										<p>
+			1) непокретни 
+			</p>
+									</td>
+									
+			
+									<td align="right">
+										
+			
+										<p>
+			3.684,64 динара.*</p>
+									</td>
+									
+		
+								</tr>
+								
+		
+								<tr>
+									
+			
+									<td>
+										
+			
+										<p>
+			2) полупокретни
+			</p>
+									</td>
+									
+			
+									<td align="right">
+										
+			
+										<p>
+			3.117,79 динара.*</p>
+									</td>
+									
+		
+								</tr>
+								
+		
+								<tr>
+									
+			
+									<td>
+										
+			
+										<p>
+			3) покретни 
+			</p>
+									</td>
+									
+			
+									<td align="right">
+										
+			
+										<p>
+			3.019,67 динара.*</p>
+									</td>
+									
+		
+								</tr>
+								
+	
+							</tbody>
+						</table>
+						
+	
+						<content/>
+					</став>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>*<ref id="ref3" href="/rs/act/2015/17/srp@">Службени гласник РС, број 17/2015</ref></heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Цена болесничког дана за пратиоца осигураног лица до навршених 15 година живота, као и лицa старијег од 15 година живота теже душевно или телесно ометеног у развоју,    односно лицу код кога је у току живота због обољења или повреде дошло до   губитка појединих телесних или психичких функција због чега то лице није у   могућности да самостално обавља активности свакодневног живота, укључујући   слепа, слабовида, и глува лица,* које право на пратиоца користи у складу са одредбама важећег општег акта којим се уређује садржај и обим права на здравствену заштиту из обавезног здравственог осигурања и о партиципацији, утврђује се у висини 50% од цене болесничког дана опште неге интернистичких грана у општим болницама.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>*<ref id="ref4" href="/rs/act/2015/17/srp@">Службени гласник РС, број 17/2015</ref></heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Даном ступања на снагу овог правилника престаје да важи Правилник о ценама болесничког дана за продужену рехабилитацију у стационарним здравственим установама специјализованим за рехабилитацију („<ref id="ref5" href="/rs/act/12/60/srp@">Службени гласник РС”, број 60/12</ref>).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Овај правилник, по добијању сагласности Министарства здравља, ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>01/2 број 54-6256/12</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>У Београду, 21. децембра 2012. године</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>Управни одбор   Републичког фонда за здравствено осигурање</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav5">
+						<content>
+							<p>Председник,</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav6">
+						<content>
+							<p>др Рајко Косановић,   с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

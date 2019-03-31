@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1978/50-2518/main"/>
+					<FRBRuri value="/rs/act/1978/50-2518"/>
+					<FRBRdate date="1978" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1993/67-3111/srp@/main"/>
+					<FRBRuri value="/rs/act/1993/67-3111/srp@"/>
+					<FRBRdate date="1993" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1993/67-3111/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1993/67-3111/srp@.akn"/>
+					<FRBRdate date="1993" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1978-12-9" name="службени гласник срс" number="50" showAs="Службени гласник СРС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Закон" value="закон"/>
+				<keyword id="oblast" showAs="VII РАДНИ ОДНОСИ И ЗАПОШЉАВАЊЕ" value="vii радни односи и запошљавање"/>
+				<keyword id="grupa" showAs="3. Запошљавање и упућивање запослених на привремени рад у иностранство" value="3. запошљавање и упућивање запослених на привремени рад у иностранство"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1978-12-05" id="usvajanje"/>
+				<step date="1978-12-17" id="stupanje_na_snagu"/>
+				<step date="1978-12-17" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="50/1978-2518" id="e1" type="generation"/>
+				<eventRef date="24/1985-1357" id="e2" type="amendment"/>
+				<eventRef date="6/1989-397" id="e3" type="amendment"/>
+				<eventRef date="67/1993-3111" id="e4" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Закон је ступио на снагу осмог дана од дана објављивања у „Службеном гласнику Социјалистичке Републике Србије”, односно 17. децембра 1978. године (види <ref>члан 6. </ref>Закона).Промењене су висине новчаних казни (види: <ref>члан 47. </ref>Закона – 24/85-1357, <ref>члан 33. </ref>Закона – 6/1989-397 и <ref>члан 3. </ref>Закона – 67/1993-3111).Закон формалнопоравно, под овим називом, није стављен ван снаге од стране законодавног органа, а односи се на регулисање обавеза основних организација удруженог рада и других самоуправних организација и заједница, које више не постоје у правном систему Републике Србије, да запошљавају слепе инвалиде рада и друга слепа лица. Област запошљавања лица са инвалидитетом, па и слепих лица, у потпуности је регулисана новодонетим прописима.</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<title>ЗАКОН</title>
+			<title>о одређивању послова и радних задатака за обавезно запошљавање слепих инвалида  рада и других слепих лица</title>
+			<date>„Службени гласник СРС”, бр. 50 од 9. децембра 1978, 24 од 6.  јула 1985   -  др. закон, 6 од 25.   фебруара 1989   -  др. закон,   &quot;Службени гласник РС&quot;, број   67 од 30.   августа 1993   -  др. закон</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Основне организације удруженог рада и друге самоуправне организације и заједнице (у даљем тексту: организације), дужне су да за обављање послова и радних задатака (у даљем тексту: послови) телефониста кућних телефонских централа, капацитета најмање четири линије за поштанско-телефонску мрежу, запошљавају слепе инвалиде рада и друга слепа лица која су оспособљена за обављање таквих послова.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Обавезно запошљавање из става 1. овог члана, односи се на случајеве потребе повећања броја радника за обављање тих послова, као и на случајеве престанка рада радника који су обављали те послове.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Организације које за обављање редовне делатности запошљавају наставнике, односно професоре, који изводе предметну наставу дужне су да, под једнаким условима за пријем на рад, запосле слепо лице које за те послове испуњава услове утврђене законом и самоуправним општим актом.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Организације које у оквиру редовне делатности за обављање медицинских услуга запошљавају физиотерапеуте на пословима масаже и примене пасивних вежби дужне су да за те послове запошљавају слепа лица која имају одговарајућу стручну спрему.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Организације које у оквиру редовне делатности обављају послове на изради предмета од пластичних маса, картонске и папирне амбалаже, обраде метала и паковање дужне су да за те послове запошљавају слепа лица која имају одговарајућу стручну спрему.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav4">
+						<content>
+							<p>Организације из става 3. овог члана самоуправним општим актима утврђују послове и задатке на којима се запошљавају слепа лица.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav5">
+						<content>
+							<p>За послове из ст. 2. и 4. овог члана организације запошљавају слепа лица према потребама за радницима, а најмање једно слепо лице на пет радника који обављају те послове.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Организације су дужне да ускладе своје самоуправне опште акте са одредбама овог закона у року од шест месеци од дана његовог ступања на снагу.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Новчаном казном до   350.000.000* динара казниће се за прекршај организација, ако не запосли слепог инвалида рада или друго слепо лице у складу са одредбама овог закона.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>За прекршај из става 1. овог члана казниће се и одговорни радник у организацији новчаном казном до   70.000.000* динара.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<heading>*<ref id="ref4" href="/rs/act/1993/67/srp@">Службени гласник  РС, број   67/1993</ref></heading>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Ступањем на снагу овог закона престаје да важи Закон о одређивању радних места за запошљавање слепих инвалида рада и других слепих лица („<ref id="ref5" href="/rs/act/70/10/srp@">Службени гласник СРС”, бр. 10/70</ref> и 4/75).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Овај закон ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Социјалистичке Републике Србије”.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

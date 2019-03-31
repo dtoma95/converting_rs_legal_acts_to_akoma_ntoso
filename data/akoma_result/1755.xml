@@ -1,0 +1,697 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2008/54-26/main"/>
+					<FRBRuri value="/rs/act/2008/54-26"/>
+					<FRBRdate date="2008" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2008/54-26/srp@/main"/>
+					<FRBRuri value="/rs/act/2008/54-26/srp@"/>
+					<FRBRdate date="2008" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2008/54-26/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2008/54-26/srp@.akn"/>
+					<FRBRdate date="2008" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2008-5-23" name="службени гласник рс“" number="54" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="11. Борачка заштита" value="11. борачка заштита"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2008-05-09" id="usvajanje"/>
+				<step date="2008-05-31" id="stupanje_na_snagu"/>
+				<step date="2008-05-31" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 103. </ref>Закона о основним правима бораца, војних инвалида и породица палих бораца (<ref id="ref17" href="/rs/act/98/24/srp@">,,Службени лист СРЈ”, бр. 24/98, 29/98</ref> и 25/00 – СУС и „<ref id="ref18" href="/rs/act/05/101/srp@">Службени гласник РС”, број 101/05</ref> – др. закон), <ref>члана 50. став 4. </ref>и <ref>члана 56. став 3. </ref>Закона о правима бораца, војних инвалида и чланова њихових породица (<ref id="ref19" href="/rs/act/89/54/srp@">,,Службени гласник СРС”, број 54/89</ref> и<ref id="ref20" href="/rs/act/04/137/srp@"> ,,Службени гласник РС”, број 137/04</ref>) и <ref>члана 17. став 4. </ref>и <ref>члана 24. </ref>Закона о Влади (<ref id="ref21" href="/rs/act/05/55/srp@">,,Службени гласник РС”, бр. 55/05, 71/05</ref> – исправка и 101/07),</p>
+		</preamble>
+		<preface>
+			<authority>Министар рада и социјалне политике доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о Јединственој евиденцији података о корисницима права у области борачко-инвалидске заштите</title>
+			<date>„Службени гласник РС“, број 54 од 23. маја 2008.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Опште одредбе</heading>
+				<content>
+					<article id="od1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="od1-clan1-stav1">
+								<content>
+									<p>Овим правилником уређују се: садржај и начин вођења матичне евиденције корисника права у области борачко-</p>
+								</content>
+							</clause>
+							<clause id="od1-clan1-stav2">
+								<content>
+									<p>-инвалидске заштите и заштите цивилних инвалида рата, начин прикупљања, обраде, коришћења и заштите тих података и начин вођења евиденције о извршеним исплатама новчаних примања која се остварују по прописима из ове области (у даљем тексту: Јединствена евиденција).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="od1-clan2-stav1">
+								<content>
+									<p>Јединствена евиденција води се у министарству надлежном за послове борачко-инвалидске заштите (у даљем тексту: Министарство) као информатичка база података.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan2-stav2">
+								<content>
+									<p>Јединствена евиденција састоји се из:</p>
+									<point id="od1-clan2-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> евиденције коју воде општински органи управе (у даљем тексту: Евиденција општина);</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> евиденције коју води Министарство (у даљем тексту: Евиденција Министарства).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="od1-clan3-stav1">
+								<content>
+									<p>Органи из <ref>члана 2. овог</ref> правилника дужни су да ажурно уносе податке у евиденције које воде.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan3-stav2">
+								<content>
+									<p>Унос података у одговарајућу евиденцију врши се одмах, а најдаље у року од пет дана од дана коначности решења о признатом праву, односно од дана достављања одговарајућих доказа о подацима који се евидентирају.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="od1-clan4-stav1">
+								<content>
+									<p>Подаци из Јединствене евиденције могу се користити за потребе истраживања, у складу са законом, а увид у податке који се односе на појединачног корисника може се дозволити само кориснику на кога се ти подаци односе и овлашћеном лицу у органу који води евиденцију.</p>
+									<тачка id="od1-clan4-stav1-tac2">
+										<num>2.</num>
+										<content>
+											<p> Евиденција општина</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="od1-clan5-stav1">
+								<content>
+									<p>Евиденција општина садржи податке о корисницима права у области борачко-инвалидске заштите и заштите цивилних инвалида рата, о извршеним исплатама по основу признатих права и о неправилно исплаћеним износима.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan5-stav2">
+								<content>
+									<p>Корисницима права у смислу става 1. овог члана сматрају се:</p>
+									<point id="od1-clan5-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> борци;</p>
+										</content>
+									</point>
+									<point id="od1-clan5-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> војни инвалиди и цивилни инвалиди рата;</p>
+										</content>
+									</point>
+									<point id="od1-clan5-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> чланови породица погинулих, умрлих и несталих бораца, војних инвалида, цивилних инвалида рата и цивилних жртава рата.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="od1-clan6-stav1">
+								<content>
+									<p>У Евиденцију општина уносе се следећи подаци о корисницима права из <ref>члана 5. овог</ref> правилника:</p>
+									<alinea id="od1-clan6-stav1-ali1">
+										<content>
+											<p>резиме, име једног родитеља и име;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan6-stav1-ali2">
+										<content>
+											<p>единствени матични број грађана;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan6-stav1-ali3">
+										<content>
+											<p>ол;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan6-stav1-ali4">
+										<content>
+											<p>атум, место и држава рођења;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan6-stav1-ali5">
+										<content>
+											<p>ржављанство и националност;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan6-stav1-ali6">
+										<content>
+											<p>ребивалиште, односно боравиште;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan6-stav1-ali7">
+										<content>
+											<p>ме старатеља односно пуномоћника корисника;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan6-stav1-ali8">
+										<content>
+											<p>колности под којима је корисник остварио својство борца, војног инвалида, односно цивилног инвалида рата;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan6-stav1-ali9">
+										<content>
+											<p>рава која су кориснику призната коначним решењем, број решења, датум доношења и назив органа који је донео решење;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan6-stav1-ali10">
+										<content>
+											<p>ачин остваривања права (самостално или као сауживалац);</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan6-stav1-ali11">
+										<content>
+											<p>рста и степен телесног оштећења војних инвалида, односно цивилних инвалида рата;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan6-stav1-ali12">
+										<content>
+											<p>лан породичног домаћинства корисника чији приходи утичу на остваривање права корисника;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan6-stav1-ali13">
+										<content>
+											<p>оцијално-економски статус корисника;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan6-stav1-ali14">
+										<content>
+											<p>сплате новчаних примања;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan6-stav1-ali15">
+										<content>
+											<p>дминистративне забране на новчаним примањима корисника;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan6-stav1-ali16">
+										<content>
+											<p>атум виђења корисника или уверење о животу корисника;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan6-stav1-ali17">
+										<content>
+											<p>атум смрти корисника;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan6-stav1-ali18">
+										<content>
+											<p>еисплаћена новчана примања умрлог корисника и име лица коме се врши исплата ових примања.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="od1-clan7-stav1">
+								<content>
+									<p>Када је корисник права лице из <ref>члана 5. став 2. тачка 3</ref>) овог правилника, у Евиденцију општина уносе се и подаци о погинулом, несталом односно умрлом, и то:</p>
+									<alinea id="od1-clan7-stav1-ali1">
+										<content>
+											<p>резиме, име једног родитеља и име;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan7-stav1-ali2">
+										<content>
+											<p>единствени матични број грађана;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan7-stav1-ali3">
+										<content>
+											<p>ол;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan7-stav1-ali4">
+										<content>
+											<p>атум, место и држава рођења;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan7-stav1-ali5">
+										<content>
+											<p>оследње познато пребивалиште, односно боравиште;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan7-stav1-ali6">
+										<content>
+											<p>ржављанство и националност;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan7-stav1-ali7">
+										<content>
+											<p>атум, околности и узрок смрти;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan7-stav1-ali8">
+										<content>
+											<p>војство у тренутку погибије, нестанка или смрти.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="od1-clan8-stav1">
+								<content>
+									<p>Општински орган управе је у обавези да након уноса података из чл. 6. и 7. овог правилника, у Евиденцију општина унесе и доказе који су били од значаја за признавање права.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan8-stav2">
+								<content>
+									<p>Докази из става 1. овог члана скенирају се и у дигиталном облику уносе у Евиденцију општина, и то:</p>
+									<point id="od1-clan8-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> за кориснике права из <ref>члана 5. став 2. тачка 1</ref>) овог правилника уносе се следећи докази:</p>
+											<alinea id="od1-clan8-stav2-tac1-ali1">
+												<content>
+													<p>звод из матичне књиге рођених,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan8-stav2-tac1-ali2">
+												<content>
+													<p>верење о времену проведеном у рату, односно оружаним акцијама,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan8-stav2-tac1-ali3">
+												<content>
+													<p>ешење којим је кориснику признато својство борца, односно којим му је време проведено у рату, односно оружаним акцијама признато у посебан стаж осигурања,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan8-stav2-tac1-ali4">
+												<content>
+													<p>оначно решење о признатим правима,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan8-stav2-tac1-ali5">
+												<content>
+													<p>ешење о неспособности за привређивање и</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan8-stav2-tac1-ali6">
+												<content>
+													<p>алаз и мишљење надлежних лекарских комисија;</p>
+												</content>
+											</alinea>
+										</content>
+									</point>
+									<point id="od1-clan8-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> за кориснике права из <ref>члана 5. став 2. тачка 2</ref>) овог правилника уносе се следећи докази:</p>
+											<alinea id="od1-clan8-stav2-tac2-ali1">
+												<content>
+													<p>звод из матичне књиге рођених,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan8-stav2-tac2-ali2">
+												<content>
+													<p>верење о времену проведеном у рату, односно оружаним акцијама,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan8-stav2-tac2-ali3">
+												<content>
+													<p>верење о времену проведеном на одслужењу војног рока односно о времену проведеном у војношколским установама,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan8-stav2-tac2-ali4">
+												<content>
+													<p>верење о околностима рањавања, односно записник надлежног органа о извршеном увиђају,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan8-stav2-tac2-ali5">
+												<content>
+													<p>едицинска документација о лечењу насталог оштећења организма које је основ за признавање права,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan8-stav2-tac2-ali6">
+												<content>
+													<p>оначно решење о признатим правима,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan8-stav2-tac2-ali7">
+												<content>
+													<p>алаз и мишљење надлежних лекарских комисија и</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan8-stav2-tac2-ali8">
+												<content>
+													<p>отврда о преузимању моторног возила;</p>
+												</content>
+											</alinea>
+										</content>
+									</point>
+									<point id="od1-clan8-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> за кориснике права из <ref>члана 5. став 2. тачка 3</ref>) овог правилника уносе се следећи докази:</p>
+											<alinea id="od1-clan8-stav2-tac3-ali1">
+												<content>
+													<p>звод из матичне књиге рођених,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan8-stav2-tac3-ali2">
+												<content>
+													<p>оначно решење о признатим правима,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan8-stav2-tac3-ali3">
+												<content>
+													<p>отврде о школовању деце,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan8-stav2-tac3-ali4">
+												<content>
+													<p>ешење надлежног органа о неспособности за привређивање, односно налаз и мишљење надлежних лекарских комисија,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan8-stav2-tac3-ali5">
+												<content>
+													<p>звод из матичне књиге умрлих,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan8-stav2-tac3-ali6">
+												<content>
+													<p>верење о околностима погибије, смрти односно нестанка,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan8-stav2-tac3-ali7">
+												<content>
+													<p>ешење надлежног органа о проглашењу несталог за умрлог,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan8-stav2-tac3-ali8">
+												<content>
+													<p>верење о времену проведеном у рату, односно оружаним акцијама, као и о времену проведеном на одслужењу војног рока, односно у војношколским установама,</p>
+												</content>
+											</alinea>
+											<alinea id="od1-clan8-stav2-tac3-ali9">
+												<content>
+													<p>оначно решење о признатом својству по прописима из области борачко-инвалидске заштите;</p>
+												</content>
+											</alinea>
+										</content>
+									</point>
+									<point id="od1-clan8-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> за кориснике права из <ref>члана 5. овог</ref> правилника уноси се одговарајући акт о административним забранама, старатељству, пуномоћју, односно наслеђу.</p>
+										</content>
+									</point>
+									<тачка id="od1-clan8-stav2-tac3">
+										<num>3.</num>
+										<content>
+											<p> Евиденција Министарства</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="od1-clan9-stav1">
+								<content>
+									<p>Министарство води евиденцију о:</p>
+									<point id="od1-clan9-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> лицима одликованим Орденом народног хероја, носиоцима ,,Партизанске споменице 1941.” и носиоцима ,,Равногорске споменице 1941.”, као и о правима која остварују ова лица;</p>
+										</content>
+									</point>
+									<point id="od1-clan9-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> саставу и раду лекарских комисија надлежних за давање налаза и мишљења у поступку одлучивања о правима из области борачко-инвалидске заштите;</p>
+										</content>
+									</point>
+									<point id="od1-clan9-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> организацијама бораца и инвалида, као и организацијама које се баве неговањем традиција ослободилачких ратова Србије;</p>
+										</content>
+									</point>
+									<point id="od1-clan9-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> генерисаним привременим јединственим матичним бројевима грађана.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="od1-clan10-stav1">
+								<content>
+									<p>За лица из <ref>члана 9. тачка 1</ref>) овог правилника у Евиденцију Министарства уносе се одговарајући подаци из чл. 6. и 7. овог правилника, као и скенирани одговарајући докази у дигиталном облику из <ref>члана 8. овог</ref> правилника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="od1-clan11-stav1">
+								<content>
+									<p>У Евиденцију Министарства из <ref>члана 9. тачка 2</ref>) овог правилника уносе се следећи подаци:</p>
+									<alinea id="od1-clan11-stav1-ali1">
+										<content>
+											<p>рста лекарске комисије;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan11-stav1-ali2">
+										<content>
+											<p>ешење о именовању чланова и секретара лекарске комисије;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan11-stav1-ali3">
+										<content>
+											<p>ични подаци чланова и секретара лекарске комисије;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan11-stav1-ali4">
+										<content>
+											<p>рој одржаних седница комисија и број обрађених налаза и мишљења;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan11-stav1-ali5">
+										<content>
+											<p>одатна специјалистичка испитивања;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan11-stav1-ali6">
+										<content>
+											<p>сплата накнада за рад лекарских комисија.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="od1-clan12-stav1">
+								<content>
+									<p>У Евиденцију Министарства из <ref>члана 9. тачка 3</ref>) овог правилника уносе се следећи подаци:</p>
+									<alinea id="od1-clan12-stav1-ali1">
+										<content>
+											<p>азив и седиште организације, број чланова, датум доношења статута, број лица у радном односу у организацији и њихове функције, као и број и седишта општинских организација;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan12-stav1-ali2">
+										<content>
+											<p>ачин финансирања организације: захтевана средства (датум захтева, износ и сврха), одобрена средства (датум одобрења и износ) и отпис;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan12-stav1-ali3">
+										<content>
+											<p>ројекти којима је организација конкурисала ради финансирања (назив пројекта, тражена и одобрена средства).</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="od1-clan13-stav1">
+								<content>
+									<p>У Евиденцију Министарства из <ref>члана 9. тачка 4</ref>) овог правилника уносе се подаци о лицима за која су издати генерисани привремени јединствени матични бројеви грађана.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan13-stav2">
+								<content>
+									<p>Генерисани привремени јединствени матични број грађана одређује Министарство само код уношења података за лица која немају јединствени матични број грађана.</p>
+									<тачка id="od1-clan13-stav2-tac4">
+										<num>4.</num>
+										<content>
+											<p> Обрада и контрола тачности података</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="od1-clan14-stav1">
+								<content>
+									<p>Податке из Евиденције општина надлежни општински орган управе доставља Министарству два пута месечно, и то од 1. до 5. и од 15. до 20. у месецу, ради обједињавања у Јединствену евиденцију.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav2">
+								<content>
+									<p>Обједињавање података из Евиденције општина и Евиденције Министарства у Јединствену евиденцију, ради исплате новчаних примања, врши Министарство, без права уноса нових или измене унетих података у Евиденцију општина.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="od1-clan15-stav1">
+								<content>
+									<p>За тачност података унетих у Евиденцију општина одговоран је надлежни општински орган управе.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan15-stav2">
+								<content>
+									<p>Министарство врши контролу унетих података у Евиденцију општина и, у случају утврђених неправилности, има право да према надлежном општинском органу управе предузме законом утврђене мере.</p>
+									<тачка id="od1-clan15-stav2-tac5">
+										<num>5.</num>
+										<content>
+											<p> Прелазне и завршне одредбе</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="od1-clan16-stav1">
+								<content>
+									<p>Надлежни општински органи управе дужни су да успоставе Евиденцију општина за све кориснике права који су у исплати, у складу са овим правилником, најкасније до 31. децембра 2008. године.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan16-stav2">
+								<content>
+									<p>Евиденција Министарства успоставиће се најкасније до 31. децембра 2008. године.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="od1-clan17-stav1">
+								<content>
+									<p>Даном ступања на снагу овог правилника престаје да важи Правилник о садржају, обрасцима и начину вођења јединствене матичне евиденције корисника месечног новчаног примања („<ref id="ref22" href="/rs/act/90/17/srp@">Службени гласник СРС”, број 17/90</ref>).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="od1-clan18-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у ,,Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan18-stav2">
+								<content>
+									<p>Број 110-00-193/07-11</p>
+								</content>
+							</clause>
+							<clause id="od1-clan18-stav3">
+								<content>
+									<p>У Београду, 9. маја 2008. године</p>
+								</content>
+							</clause>
+							<clause id="od1-clan18-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="od1-clan18-stav5">
+								<content>
+									<p>Расим Љајић, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

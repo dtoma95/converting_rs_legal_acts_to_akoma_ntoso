@@ -1,0 +1,380 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2014/74-11/main"/>
+					<FRBRuri value="/rs/act/2014/74-11"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2014/87-15/srp@/main"/>
+					<FRBRuri value="/rs/act/2014/87-15/srp@"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2014/87-15/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2014/87-15/srp@.akn"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2014-7-18" name="службени гласник" number="74" showAs="Службени гласник"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="6. Путеви" value="6. путеви"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2014-07-18" id="usvajanje"/>
+				<step date="2014-07-19" id="stupanje_na_snagu"/>
+				<step date="2014-07-19" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="74/2014-11" id="e1" type="generation"/>
+				<eventRef date="87/2014-15" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 61. став 1. </ref>Закона о јавним путевима („<ref id="ref2" href="/rs/act/05/101/srp@">Службени гласник РС”, бр. 101/05, 123/07, 101/11, 93/12</ref> и 104/13),</p>
+		</preamble>
+		<preface>
+			<authority>Министар грађевинарства, саобраћаја и инфраструктуре доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о ургентном одржавању државног пута</title>
+			<date>&quot;Службени гласник&quot;, бр. 74 од      18. јула 2014, 87 од 22. августа 2014.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>Уводне одредбе</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником ближе се уређују врсте радова, технички услови и начин извођења радова на ургентном одржавању државног пута, путног објекта, саобраћајне сигнализације и опреме државног пута.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Радови на ургентном одржавању државних путева, у смислу овог правилника, обухватају активности и мере на мрежи или појединим деоницама државних путева, у циљу отклањања недостатака узрокованих елементарним непогодама и ванредним околностима, а које је неопходно спровести да би се обезбедило несметано одвијање саобраћаја, или одвијање саобраћаја у отежаним условима, када је онемогућена проходност државног пута и угрожена безбедност учесника у саобраћају.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>Врсте радова на ургентном одржавању државних путева</heading>
+				<content>
+					<article id="gla2-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla2-clan3-stav1">
+								<content>
+									<p>Радови на отклањању недостатака и враћању мреже државних путева у првобитно стање, у условима елементарних непогода и ванредних околности, изводе се:</p>
+									<point id="gla2-clan3-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> у време трајања елементарних непогода и ванредних околности;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> после престанка елементарних непогода и ванредних околности.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla2-clan4-stav1">
+								<content>
+									<p>Радови који се изводе у време трајања елементарних непогода и ванредних околности су:</p>
+									<point id="gla2-clan4-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> постављање привремене саобраћајне сигнализације;</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> уклањање материјала који је нанет на пут (материјал из осулина и клизишта, расути материјал из транспортних средстава, хемијски и други опасни материјали, наноси снега и леда, хаварије, и сл.);</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> оспособљавање система за одводњавање пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> израда и постављање привремених ослонаца путних објеката када је угрожена носивост темеља или стубова објекта;</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> израда и постављање привремених мостова или понтона;</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> постављање привремених ограда на путним објектима;</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> делимична или потпуна обнова коловозне конструкције;</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> израда привремених комуникација (девијација, обилазница) за успостављање саобраћаја када је саобраћај у прекиду, а није могуће изводити радове на основној траси пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> израда привремених насипа за усмеравање воде;</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> израда привремених потпорних зидова у циљу спречавања или успоравања клизишта;</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> уклањање ограда и других препрека у земљишном појасу;</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac12">
+										<num>12)</num>
+										<content>
+											<p> постављање ограда и других препрека на путу;</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac13">
+										<num>13)</num>
+										<content>
+											<p> други радови којима се отклањају недостаци узроковани елементарним непогодама и ванредним околностима.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla2-clan5-stav1">
+								<content>
+									<p>Радови који се изводе после престанка елементарних непогода и ванредних околности су:</p>
+									<point id="gla2-clan5-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> обављање ванредног прегледа државних путева, путних објеката, саобраћајне сигнализације и опреме пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan5-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> вршење предистражних и истражних радова;</p>
+										</content>
+									</point>
+									<point id="gla2-clan5-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> извођење радова којима се обезбеђује несметан и безбедан саобраћај и чува употребна вредност државног пута.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan5-stav2">
+								<content>
+									<p>Радови из ставa 1. тач. 1) и 2) овог члана основа су за      израду техничке документације према којој се државни пут доводи      у првобитно стање.*</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan5-stav3">
+								<content>
+									<p>*<ref id="ref3" href="/rs/act/2014/87/srp@">Службени      гласник РС, број 87/2014</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>Технички услови и начин извођења радова</heading>
+				<content>
+					<article id="gla3-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla3-clan6-stav1">
+								<content>
+									<p>Технички услови на ургентном одржавању државних путева у време трајања елементарних непогода и ванредних околности и непосредно по њиховом престанку, су:</p>
+									<point id="gla3-clan6-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> предузимање мера предвиђених прописима којима се уређује заштита од елементарних непогода и поступање у ванредним ситуацијама;</p>
+										</content>
+									</point>
+									<point id="gla3-clan6-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> стање одвијања саобраћаја и стање мреже државних путева;</p>
+										</content>
+									</point>
+									<point id="gla3-clan6-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> техничко регулисање саобраћаја;</p>
+										</content>
+									</point>
+									<point id="gla3-clan6-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> опис позиција изведених радова са технологијом извођења радова у време трајања елементарних непогода и ванредних околности;</p>
+										</content>
+									</point>
+									<point id="gla3-clan6-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> предмер и предрачун изведених радова у време трајања елементарних непогода и ванредних околности;</p>
+										</content>
+									</point>
+									<point id="gla3-clan6-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> списак употребљених материјала са назнаком произвођача или местом порекла или сличном идентификацијом;</p>
+										</content>
+									</point>
+									<point id="gla3-clan6-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> скице и цртежи израђени у току извођења радова;</p>
+										</content>
+									</point>
+									<point id="gla3-clan6-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> оцена да ли се изведени радови или део изведених радова у време трајања елементарних непогода и ванредних околности, са одговарајућим доказима, могу прихватити као саставни део радова који ће се изводити по престанку елементарних непогода и ванредних околности;</p>
+										</content>
+									</point>
+									<point id="gla3-clan6-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> ситуациони планови и други цртежи радова изведених у време трајања елементарних непогода и ванредних околности;</p>
+										</content>
+									</point>
+									<point id="gla3-clan6-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> фото документација која приказује стање пута после радова изведених у време трајања елементарних непогода и ванредних околности.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla3-clan7-stav1">
+								<content>
+									<p>У случају непосредне опасности по живот и здравље учесника у саобраћају, затвара се деоница државног пута на којој је онемогућена проходност и безбедно одвијање саобраћаја, у складу са прописима којима се уређују јавни путеви и безбедност саобраћаја на путевима.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla3-clan8-stav1">
+								<content>
+									<p>На затвореној деоници државног пута из <ref>члана 7. овог</ref> правилника, без одлагања се изводе радови на отклањању последица проузрокованих елементарним непогодама и ванредним околностима.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan8-stav2">
+								<content>
+									<p>При извођењу радова из става 1. овог члана, доводе се у првобитно стање они елементи државног пута којима се обезбеђује проходност државног пута и безбедно одвијање саобраћаја.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan8-stav3">
+								<content>
+									<p>Начин извођења радова на ургентном одржавању прописан је техничким прописима и стандардима којима се уређују грађевински радови.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>Завршна одредба</heading>
+				<content>
+					<article id="gla4-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla4-clan9-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan9-stav2">
+								<content>
+									<p>Број 110-00-00068/2014-01</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan9-stav3">
+								<content>
+									<p>У Београду, 18. јула 2014. године</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan9-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan9-stav5">
+								<content>
+									<p>проф. др Зорана Михајловић, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

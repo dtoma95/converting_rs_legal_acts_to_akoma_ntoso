@@ -1,0 +1,721 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2010/75-31/main"/>
+					<FRBRuri value="/rs/act/2010/75-31"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2010/75-31/srp@/main"/>
+					<FRBRuri value="/rs/act/2010/75-31/srp@"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2010/75-31/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2010/75-31/srp@.akn"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2010-10-20" name="службени гласник рс" number="75" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="15. Управљање отпадом" value="15. управљање отпадом"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2010-10-08" id="usvajanje"/>
+				<step date="2010-10-28" id="stupanje_na_snagu"/>
+				<step date="2010-10-28" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 54. став 4. </ref>Закона о управљању отпадом („<ref id="ref1" href="/rs/act/09/36/srp@">Службени гласник РС”, број 36/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар животне средине и просторног планирања доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о поступању са отпадом који садржи азбест</title>
+			<date>&quot;Службени гласник РС&quot;, број 75 од 20. октобра 2010.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се начин паковања, критеријуми, услови и начин коначног одлагања отпада који садржи азбест и друге мере за спречавање разношења азбестних влакана и прашине у животној средини.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Одредбе овог правилника односе се на отпадни сирови азбест, односно отпад који садржи азбест.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Листа отпада који садржи азбест дата је у прилогу који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Изрази употребљени у овом правилнику имају следеће значење:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> азбест обухвата следеће влакнасте силикате:</p>
+									<alinea id="clan3-stav1-tac1-ali1">
+										<content>
+											<p>рокидолит (плави азбест),</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav1-tac1-ali2">
+										<content>
+											<p>ктинолит,</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav1-tac1-ali3">
+										<content>
+											<p>нтофилит,</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav1-tac1-ali4">
+										<content>
+											<p>ризотил (бели азбест),</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav1-tac1-ali5">
+										<content>
+											<p>мозит (смеђи азбест),</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav1-tac1-ali6">
+										<content>
+											<p>ремолит;</p>
+										</content>
+									</alinea>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> отпад који садржи азбест (у даљем тексту: азбестни отпад) јесте отпадни сирови азбест и свака материја или предмет који садржи азбест и азбестна влакна, као и азбестна прашина настала емисијом азбеста у ваздух код обраде азбеста или материја, материјала и производа који садрже азбест, а које власник одбацује, намерава или мора одбацити;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> површинско очвршћивање јесте поступак везивања азбестних влакана на површини материјала слојем везива које веже азбестна влакна у чврсто везаном азбестном отпаду, или везивом које спречава ослобађање азбестних влакана у животну средину слабо везаног азбестног отпада;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> рад са производима који садрже азбест обухвата активности код којих је могуће ослобађање азбеста у животну средину, осим активности употребе азбеста из тачке 3) овог члана;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> сирови азбест јесте производ добијен примарним дробљењем азбестне руде;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> слабо везани азбестни отпад јесте азбестни отпад специфичне масе мање од 1000 kg/m3;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> солидификација азбестног отпада јесте поступак у којем се азбестна прашина, отпадни сирови азбест или слабо везани азбестни отпад хомогено мешају са цементом или другим хидрауличким везивом и са њим вежу тако да се постигне притисна чврстоћа од најмање 10 N/mm² и спречи ослобађање азбестних влакана у животну средину;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> употреба азбеста обухвата активности које укључују руковање сировим азбестом у количини већој од 100 kg годишње и које се односе на:</p>
+									<item id="clan3-stav1-tac8-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> производњу сирове азбестне руде, осим процеса који су у директној вези са копањем руде, и/или</p>
+										</content>
+									</item>
+									<item id="clan3-stav1-tac8-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> производњу производа који садрже азбест, и то:</p>
+											<alinea id="clan3-stav1-tac8-podtac2-ali1">
+												<content>
+													<p>збестни цемент или производи од азбестног цемента,</p>
+												</content>
+											</alinea>
+											<alinea id="clan3-stav1-tac8-podtac2-ali2">
+												<content>
+													<p>збестни фрикциони производи,</p>
+												</content>
+											</alinea>
+											<alinea id="clan3-stav1-tac8-podtac2-ali3">
+												<content>
+													<p>збестни филтери,</p>
+												</content>
+											</alinea>
+											<alinea id="clan3-stav1-tac8-podtac2-ali4">
+												<content>
+													<p>збестни текстил,</p>
+												</content>
+											</alinea>
+											<alinea id="clan3-stav1-tac8-podtac2-ali5">
+												<content>
+													<p>збестни папир и картон,</p>
+												</content>
+											</alinea>
+											<alinea id="clan3-stav1-tac8-podtac2-ali6">
+												<content>
+													<p>збестни заптивачи,</p>
+												</content>
+											</alinea>
+											<alinea id="clan3-stav1-tac8-podtac2-ali7">
+												<content>
+													<p>збестни амбалажни материјали,</p>
+												</content>
+											</alinea>
+											<alinea id="clan3-stav1-tac8-podtac2-ali8">
+												<content>
+													<p>збестни материјал за ојачања,</p>
+												</content>
+											</alinea>
+											<alinea id="clan3-stav1-tac8-podtac2-ali9">
+												<content>
+													<p>збестне подне облоге,</p>
+												</content>
+											</alinea>
+											<alinea id="clan3-stav1-tac8-podtac2-ali10">
+												<content>
+													<p>збестна пунила;</p>
+												</content>
+											</alinea>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> уништавање азбестних влакана јесте поступак хемијског, термичког или механичког третмана азбестног отпада услед којег из азбеста настају друга једињења или минерали или азбест изгуби своју влакнасту структуру;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> чврсто везани азбестни отпад јесте азбестни отпад специфичне масе веће од 1000 kg/m3.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Производ који садржи азбест подлеже редовном мерењу емисије у ваздух, односно испуштања течности из постројења у складу са законом.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>На постројења која у производњи користе азбест примењују се мере и граничне вредности утврђене посебним прописом о граничним вредностима емисија у ваздух, односно испуштања у воду, уз примену најбољих доступних техника, утврђених дозволом у складу са законом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>У производњи производа који садржи азбест обезбеђује се третман свих отпадних течности које настају као последица процеса производње до нивоа садржаја азбеста у концентрацији мањој од прописаних граничних вредности за испуштање у реципијент.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Ако отпадне течности, настале у току чишћења и одржавања постројења, садрже азбест у концентрацији мањој од прописаних граничних вредности, дозвољено је њихово испуштање у реципијент у складу са посебним прописом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>У обављању активности са производима који садрже азбест предузимају се све потребне мере за спречавање загађивања животне средине азбестним влакнима или прашином који су настали обављањем тих активности.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Производња производа који садржи азбест и третман производа који садржи азбест врше се у складу са планом уклањања азбеста или материјала који садрже азбест из грађевинских објеката, конструкција или уређаја, који садржи нарочито:</p>
+							<point id="clan6-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> активности којима се у највећој могућој мери обезбеђује одстрањивање азбеста или материјала који садрже азбест пре него што се приступи уклањању грађевинских објеката, конструкције или уређаја;</p>
+								</content>
+							</point>
+							<point id="clan6-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> мере заштите здравља и безбедности запослених, као и обавезу употребе посебне заштитне опреме у складу са прописима о заштити на раду.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Мере за спречавање разношења азбестних влакана и прашине у животну средину предузимају се при сакупљању, транспорту, складиштењу, третману или одлагању азбестног отпада.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Сакупљање, транспорт, складиштење, третман и коначно одлагање азбестног отпада врши се у складу са законом којим се уређује управљање отпадом.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>Кретање азбестног отпада прати документ о кретању опасног отпада, у складу са посебним прописом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Азбестни отпад се пакује пре транспорта тако да се спречи разношење азбестних влакана и прашине у животну средину.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Азбестни отпад се пре одлагања третира поступцима површинског очвршћивања или солидификације или уништавањем азбестних влакана, тако да се спречи разношење азбестних влакана и прашине у животну средину.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>Транспорт азбестног отпада до места одлагања врши се без претовара.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav4">
+						<content>
+							<p>Контејнери или амбалажа за паковање азбестног отпада морају бити видљиво означени, у складу са прописима којима се уређује превоз опасних материја.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav5">
+						<content>
+							<p>Слабо везани азбестни отпад пакује се у одговарајућу непропусну амбалажу.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav6">
+						<content>
+							<p>Складиштење азбестног отпада спроводи се на начин да се спречи разношење азбестних влакана и прашине у животну средину.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Азбестни отпад се пре одлагања пакује и прекрива на начин да се избегне разношење азбестних влакана и прашине у ваздух или изливања течности које садрже азбестна влакна.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Коначно одлагање отпада који садржи азбест врши се под контролисаним условима  (подземно складиштење у рудницима, на депонију и друго), у складу са посебним прописом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Азбестни отпад одлаже се на депонију под условима и на начин да:</p>
+							<point id="clan10-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> буде одложен у посебне касете, видљиво означене и намењене одлагању азбестног отпада, одвојено од осталог отпада на депонији;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> дневно прекривање буде вршено на начин да се током прекривања спречи ослобађање азбестних влакана у животну средину;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> након затварања касете где је одложен азбестни отпад, буду забрањене било какве додатне активности (отварање касете, копање, бушење и друго) како би се спречило ослобађање азбестних влакана и прашине у животну средину.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Азбестни отпад одлаже се на депонију, без претходне анализе елуата у складу са законом којим се уређује управљање отпадом и посебним прописом, ако:</p>
+							<point id="clan10-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> не садржи друге опасне материје, осим чврсто везаног азбеста;</p>
+								</content>
+							</point>
+							<point id="clan10-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> обухвата грађевински отпад који садржи чврсто везани азбест и остали чврсто везани азбестни отпад.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>Ако на депонији не постоји изграђена посебна касета за одлагање азбестног отпада, азбестни отпад до коначног одлагања, складишти се у радном простору депоније како би се спречило разношење азбестних влакана у животну средину.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Број 110-00-00073/2010-01</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav3">
+						<content>
+							<p>У Београду, 8. октобра 2010. године</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav5">
+						<content>
+							<p>др Оливер Дулић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav6">
+						<content>
+							<p>ПРИЛОГ</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav7">
+						<content>
+							<p>ЛИСТА ОТПАДА КОЈИ САДРЖИ АЗБЕСТ</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Чврсто везани азбестни отпад – грађевински отпад који садржи азбест и претежно неорганске материје:</heading>
+				<content>
+					<point id="od1-clan11-tac1">
+						<num>1)</num>
+						<content>
+							<p> Азбестноцементни производи:</p>
+						</content>
+					</point>
+					<subsection id="od1-podod1">
+						<num>а</num>
+						<heading> равне или таласасте плоче великог формата,</heading>
+						<content/>
+					</subsection>
+					<subsection id="od1-podod2">
+						<num>б</num>
+						<heading> фасадне и кровне плоче малог формата,</heading>
+						<content/>
+					</subsection>
+					<subsection id="od1-podod3">
+						<num>в</num>
+						<heading> азбестно цементна галантерија (посуде за растиње итд.),</heading>
+						<content/>
+					</subsection>
+					<subsection id="od1-podod4">
+						<num>г</num>
+						<heading> цеви за високо и нискоградњу,</heading>
+						<content/>
+					</subsection>
+					<subsection id="od1-podod5">
+						<num>д</num>
+						<heading> цеви за наводњавање и одводњавање;</heading>
+						<content>
+							<point id="od1-podod5-clan11-tac2">
+								<num>2)</num>
+								<content>
+									<p> Азбестноцементна прашина и азбестноцементни муљ – прашина и муљ из обраде азбестцемента;</p>
+								</content>
+							</point>
+							<point id="od1-podod5-clan11-tac3">
+								<num>3)</num>
+								<content>
+									<p> Кочионе облоге и плочице које садрже азбест и други чврсти неоргански отпад који садржи азбест:</p>
+								</content>
+							</point>
+							<clause id="od1-podod5-clan11-stav1">
+								<content>
+									<p>a) кочионе облоге и плочице за возила и индустријску употребу,</p>
+								</content>
+							</clause>
+						</content>
+					</subsection>
+					<subsection id="od1-podod6">
+						<num>б</num>
+						<heading> облоге склопова;</heading>
+						<content>
+							<point id="od1-podod6-clan11-tac4">
+								<num>4)</num>
+								<content>
+									<p> Отпад који садржи азбест обрађен методама очвршћавања:</p>
+								</content>
+							</point>
+							<clause id="od1-podod6-clan11-stav1">
+								<content>
+									<p>a) азбест нанешен бризгањем и/или навлачењем отврднут неорганским везивом,</p>
+								</content>
+							</clause>
+						</content>
+					</subsection>
+					<subsection id="od1-podod7">
+						<num>б</num>
+						<heading> обрађене лаке грађевинске плоче, ватросталне плоче и плоче за заштиту од пожара,</heading>
+						<content/>
+					</subsection>
+					<subsection id="od1-podod8">
+						<num>в</num>
+						<heading> обрађени азбестни папири и картони,</heading>
+						<content/>
+					</subsection>
+					<subsection id="od1-podod9">
+						<num>г</num>
+						<heading> други обрађени слабо везани отпад који садржи азбест попут азбестних трака и тканина.</heading>
+						<content>
+							<тачка id="od1-podod9-clan11-tac2">
+								<num>2.</num>
+								<content>
+									<p> Чврсто везани азбестни отпад – грађевински отпад који садржи претежно органске материје настао у поступцима прераде азбеста:</p>
+								</content>
+							</тачка>
+							<point id="od1-podod9-clan11-tac1">
+								<num>1)</num>
+								<content>
+									<p> Материјали загађени азбестним влакнима:</p>
+								</content>
+							</point>
+						</content>
+					</subsection>
+					<subsection id="od1-podod10">
+						<num>а</num>
+						<heading> конструкциони елементи и уређаји који се користе код уклањања материјала који садрже слабо везани азбест,</heading>
+						<content/>
+					</subsection>
+					<subsection id="od1-podod11">
+						<num>б</num>
+						<heading> подне облоге, текстил, завесе,</heading>
+						<content/>
+					</subsection>
+					<subsection id="od1-podod12">
+						<num>в</num>
+						<heading> фолије,</heading>
+						<content/>
+					</subsection>
+					<subsection id="od1-podod13">
+						<num>г</num>
+						<heading> изолациони материјали,</heading>
+						<content/>
+					</subsection>
+					<subsection id="od1-podod14">
+						<num>д</num>
+						<heading> радна заштитна одећа;</heading>
+						<content>
+							<point id="od1-podod14-clan11-tac2">
+								<num>2)</num>
+								<content>
+									<p> Грађевински хемијски производи који садрже азбест:</p>
+								</content>
+							</point>
+						</content>
+					</subsection>
+					<subsection id="od1-podod15">
+						<num>а</num>
+						<heading> китови за спајање, површински китови,</heading>
+						<content/>
+					</subsection>
+					<subsection id="od1-podod16">
+						<num>б</num>
+						<heading> пунила и заливне масе,</heading>
+						<content/>
+					</subsection>
+					<subsection id="od1-podod17">
+						<num>в</num>
+						<heading> заптивне масе,</heading>
+						<content/>
+					</subsection>
+					<subsection id="od1-podod18">
+						<num>г</num>
+						<heading> пластичне масе и лепкови,</heading>
+						<content/>
+					</subsection>
+					<subsection id="od1-podod19">
+						<num>д</num>
+						<heading> боје;</heading>
+						<content>
+							<point id="od1-podod19-clan11-tac3">
+								<num>3)</num>
+								<content>
+									<p> Други отпад који садржи азбест са претежно органским материјама:</p>
+								</content>
+							</point>
+						</content>
+					</subsection>
+					<subsection id="od1-podod20">
+						<num>а</num>
+						<heading> подне облоге,</heading>
+						<content/>
+					</subsection>
+					<subsection id="od1-podod21">
+						<num>б</num>
+						<heading> киселоотпорне посуде,</heading>
+						<content>
+							<point id="od1-podod21-clan11-tac4">
+								<num>4)</num>
+								<content>
+									<p> Отпадни азбест очвршћен неорганским везивима;</p>
+								</content>
+							</point>
+							<тачка id="od1-podod21-clan11-tac3">
+								<num>3.</num>
+								<content>
+									<p> Слабо везани азбестни отпад – изолациони материјали који садрже азбест:</p>
+								</content>
+							</тачка>
+							<point id="od1-podod21-clan11-tac1">
+								<num>1)</num>
+								<content>
+									<p> Отпад који садржи азбест настао при реконструкцији или одржавању делова грађевинских објеката или уређаја;</p>
+								</content>
+							</point>
+							<point id="od1-podod21-clan11-tac2">
+								<num>2)</num>
+								<content>
+									<p> Прашина која садржи азбест, азбестна прашина и азбестни муљ:</p>
+								</content>
+							</point>
+						</content>
+					</subsection>
+					<subsection id="od1-podod22">
+						<num>а</num>
+						<heading> честице прашине из филтерских уређаја,</heading>
+						<content/>
+					</subsection>
+					<subsection id="od1-podod23">
+						<num>б</num>
+						<heading> сирови азбест настао у току прераде азбеста,</heading>
+						<content/>
+					</subsection>
+					<subsection id="od1-podod24">
+						<num>в</num>
+						<heading> слабо-везани материјали који садрже азбест из уређаја и грађевинских елемената,</heading>
+						<content/>
+					</subsection>
+					<subsection id="od1-podod25">
+						<num>г</num>
+						<heading> азбестни муљ настао при пречишћавању отпадних вода или рушењу грађевинских објеката и уређаја које садрже слабо везани азбест;</heading>
+						<content>
+							<point id="od1-podod25-clan11-tac3">
+								<num>3)</num>
+								<content>
+									<p> Лаке плоче које садрже азбест:</p>
+								</content>
+							</point>
+						</content>
+					</subsection>
+					<subsection id="od1-podod26">
+						<num>а</num>
+						<heading> лаке грађевинске плоче,</heading>
+						<content/>
+					</subsection>
+					<subsection id="od1-podod27">
+						<num>б</num>
+						<heading> ватросталне плоче,</heading>
+						<content/>
+					</subsection>
+					<subsection id="od1-podod28">
+						<num>в</num>
+						<heading> плоче за заштиту од пожара;</heading>
+						<content>
+							<point id="od1-podod28-clan11-tac4">
+								<num>4)</num>
+								<content>
+									<p> Текстил и филтерски материјали који садрже азбест:</p>
+								</content>
+							</point>
+						</content>
+					</subsection>
+					<subsection id="od1-podod29">
+						<num>а</num>
+						<heading> траке, савитљиве цеви, тканине, одећа за заштиту од високих температура,</heading>
+						<content/>
+					</subsection>
+					<subsection id="od1-podod30">
+						<num>б</num>
+						<heading> азбестне плоче и запивачи,</heading>
+						<content/>
+					</subsection>
+					<subsection id="od1-podod31">
+						<num>в</num>
+						<heading> азбестни папир и картон.</heading>
+						<content/>
+					</subsection>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

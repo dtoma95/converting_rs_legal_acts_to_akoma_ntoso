@@ -1,0 +1,806 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2016/6-79/main"/>
+					<FRBRuri value="/rs/act/2016/6-79"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2016/6-79/srp@/main"/>
+					<FRBRuri value="/rs/act/2016/6-79/srp@"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2016/6-79/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2016/6-79/srp@.akn"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2016-1-25" name="службени гласник рс" number="6" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="5. Оружје, муниција, опасне и експлозивне материје" value="5. оружје, муниција, опасне и експлозивне материје"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2016-01-26" id="usvajanje"/>
+				<step date="2016-02-05" id="stupanje_na_snagu"/>
+				<step date="2016-02-05" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 34. </ref>Закона о запаљивим и горивим течностима и запаљивим гасовима („<ref id="ref2" href="/rs/act/15/54/srp@">Службени гласник РС”, број 54/15</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар унутрашњих послова доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о техничким нормативима за безбедност од пожара и експлозија објеката малопродаје боца са течним нафтним гасом</title>
+			<date>&quot;Службени гласник РС&quot;, број 6 од 25. јануара      2016.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником уређује се безбедно постављање објеката малопродаје боца са течним нафтним гасом као и безбедност од пожара и експлозија за изградњу, реконструкцију и доградњу објеката малопродаје боца са течним нафтним гасом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Поред одредаба овог правилника, на боце за течни нафтни гас у погледу пројектовања, конструкције, опреме и означавања примењују се одговарајуће одредбе прописа који ближе уређују ову област, као и прописи о изградњи постројења за течни нафтни гас и о ускладиштавању и претакању течног нафтног гаса.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Појмови који се употребљавају у овом правилнику имају исто значење као појмови у прописима који уређују област изградње постројења за течни нафтни гас и о ускладиштавању и претакању течног нафтног гаса.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Објекат за малопродају боца са течним нафтним гасом је грађевински објекат, односно објекат кавезног типа за смештај пуних и празних боца са течним нафтним гасом намењен за продају, у чијем саставу се може налазити просторија за смештај запосленог особља и продају делова за употребу течног нафтног гаса.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>На појам зона опасности (у даљем тексту: зоне), извора опасности и поступање у зонама, у смислу овог правилника, примењују се одредбе српског стандарда SRPS EN 60079-10-1.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Зона „0” обухвата унутрашњост боце.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>Зона „1” обухвата унутрашњост просторије грађевинског објекта односно унутрашњост објекта кавезног типа.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>Зона „2” обухвата простор 1 m око објекта кавезног типа до висине 1 m мерено од нивоа тла и простор 0,5 m око отвора грађевинског објекта у свим правцима до нивоа тла.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>У зонама опасности не смеју се налазити канализациони отвори за одвођење атмосферског талога, јаме и отворени канали за каблове и цевоводе.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Зона опасности се не може распростирати унутар просторије за смештај запосленог особља.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>У објектима за малопродају боца са течним нафтним гасом може се складиштити до 3000 kg течног нафтног гаса. Од укупне количине гаса која се одобрава, највише једна трећина може бити у боцама од по 35 kg гаса.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Празне боце се третирају исто као и пуне, односно, њихов капацитет се сабира са капацитетом пуних боца до укупног дозвољеног капацитета.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Објекат за малопродају боца са течним нафтним гасом мора испуњавати услове предвиђене у следећој табели:</p>
+						</content>
+					</clause>
+					<став id="clan8-stav2">
+						<table class="tabela-sa-borderom">
+							
+					
+							<tbody>
+								
+						
+								<tr>
+									
+							
+									<td colspan="4">
+										
+								
+										<p>Најмања удаљеност габарита било које тачке објекта за малопродају боца са течним нафтним гасом капацитета од:</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+							</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>до 1000 kg</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>до 2000 kg</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>до 3000 kg</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Интерног пута</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>2,5 m</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>3,5 m</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>7,0 m</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Јавног пута</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>7,0 m</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>7,0 m</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>7,0 m</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Било ког извора опасности у оквиру станице за снабдевање горивом</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>5 m</p>
+										
+							
+									</td>
+									
+							
+									<td>
+							</td>
+									
+							
+									<td>
+							</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Било ког извора опасности у околини објекта за малопродају боца утврђеног стандардом SRPS EN 60079-10-1</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>5 m</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>5 m</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>10 m</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Објекта за смештај запосленог особља и других пратећих зграда у оквиру станице за снабдевање горивом </p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>5 m</p>
+										
+							
+									</td>
+									
+							
+									<td>
+							</td>
+									
+							
+									<td>
+							</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Објекта корисника до складишног објекта кавезног типа</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>7 m</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>10 m</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>15 m</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Објекта корисника до складишног грађевинског објекта</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>3 m</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>5 m</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>8 m</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Складишног објекта кавезног типа до границе парцеле</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>10 m</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>12 m</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>15 m</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Складишног грађевинског објекта до границе парцеле</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>6 m</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>8 m</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>10 m</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Од надземних електричних водова без обзира на напон, као и од колосека за парну, дизел или електричну вучу </p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>15 m</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>15 m</p>
+										
+							
+									</td>
+									
+							
+									<td class="potpis">
+										
+								
+										<p>15 m</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+					
+							</tbody>
+							
+				
+						</table>
+						
+				
+						<content/>
+					</став>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Када је дужина затворених страна објекта мања или једнака две трећине обима основе објекта, тај објекат се сврстава у складишни објекат кавезног типа. У дужину затворених страна урачунавају се само оне стране које су изведене као затворене по целој висини објекта, поштујући услове ефикасне вентилације.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Сматра се да је објекат за малопродају боца са течним нафтним гасом у саставу станице за снабдевање горивом, када је било која тачка габарита објекта на растојању мањем од 8 m од извора опасности станице.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Складишним грађевинским објектом сматра се објекат чије су затворене стране – зидови израђени од негоривог материјала (опека, армирани бетон, челични лим, панел и сл.).</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>У појасу ширине 2,5 m терен око објекта мора бити без икакве вегетације или било ког другог материјала који преноси пожар.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav3">
+						<content>
+							<p>Конструкција објекта и елементи конструкције морају бити негориви, а кровни покривач најмање класе Б према SRPS EN 13501 део 1 и израђен од лаганог материјала (највећа тежина 50 kg/m²), односно да је обезбеђено безбедно растерећење услед појаве експлозије.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav4">
+						<content>
+							<p>Испод крова мора бити причвршћена заштитна мрежа од челика.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav5">
+						<content>
+							<p>Под објекта мора бити издигнут најмање 20 cm од околног терена, а израђен од материјала који не варничи и који је електропроводљив.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav6">
+						<content>
+							<p>Врата и прозори морају бити урађени од материјала који не варничи и морају се отварати према споља.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav7">
+						<content>
+							<p>У објекту мора бити обезбеђена ефикасна природна вентилација односно изузетно принудна вентилација.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav8">
+						<content>
+							<p>Величина вентилационих отвора не сме бити мања од 10% тлоцртне површине пода.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav9">
+						<content>
+							<p>У објекту се не смеју налазити материјали који могу изазвати пожар.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav10">
+						<content>
+							<p>Електрична инсталација у објекту мора бити изведена у складу са одредбама прописа којим је уређена област потенцијално експлозивних атмосфера.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav11">
+						<content>
+							<p>Објекат мора имати изведену инсталацију за заштиту од атмосферског пражњења.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Објектом кавезног типа сматра се објекат отворен са свих страна, као и објекат из <ref>члана 9. овог</ref> правилника.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav2">
+						<content>
+							<p>Све отворене стране морају бити заштићене челичном жицом или материјалом сличних карактеристика, а која је затегнута и причвршћена на челичним рамовима.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav3">
+						<content>
+							<p>Величина окца на жици мора бити таква да онемогућава неовлашћен контакт лица са спољне стране објекта са боцама у објекту.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav4">
+						<content>
+							<p>Конструкција и елементи конструкције објекта, кровни покривач, под, врата, заштита од атмосферског пражњења, електрична инсталација, ефикасна природна вентилација и терен око објекта кавезног типа морају испуњавати услове као код складишног грађевинског објекта.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Опрема за заштиту од пожара објекта за малопродају боца са течним нафтним гасом састоји се од мобилних уређаја за гашење пожара.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav2">
+						<content>
+							<p>У објекту за малопродају боца са течним нафтним гасом морају се налазити најмање два мобилна уређаја за гашење пожара капацитета пуњења најмање 9 kg праха или другог одговарајућег средства за гашење пожара и најмање један мобилни уређај за гашење пожара капацитета пуњења најмање 50 kg праха или другог одговарајућег средства за гашење пожара.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan14">
+				<num>14.</num>
+				<content>
+					<clause id="clan14-stav1">
+						<content>
+							<p>У складишном простору објекта за малопродају боца са течним нафтним гасом боце се ускладиштавају у највише два нивоа.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan15">
+				<num>15.</num>
+				<content>
+					<clause id="clan15-stav1">
+						<content>
+							<p>Лица која обављају послове малопродаје морају бити обучена за правилно руковање уређајима и инсталацијама за заштиту од пожара и експлозија и морају бити упознати и са осталим сигурносним мерама.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan16">
+				<num>16.</num>
+				<content>
+					<clause id="clan16-stav1">
+						<content>
+							<p>Постојећи објекти малопродаје боца са тeчним нафтним гасом морају се ускладити сa одредбама овог правилника у року од три године од дана његовог ступања на снагу.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan17">
+				<num>17.</num>
+				<content>
+					<clause id="clan17-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan17-stav2">
+						<content>
+							<p>Број 01-8555/15-7</p>
+						</content>
+					</clause>
+					<clause id="clan17-stav3">
+						<content>
+							<p>У Београду, 26. јануара 2016. године</p>
+						</content>
+					</clause>
+					<clause id="clan17-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan17-stav5">
+						<content>
+							<p>др Небојша Стефановић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

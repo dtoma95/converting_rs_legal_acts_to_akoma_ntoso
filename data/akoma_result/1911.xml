@@ -1,0 +1,325 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2010/20-41/main"/>
+					<FRBRuri value="/rs/act/2010/20-41"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2010/20-41/srp@/main"/>
+					<FRBRuri value="/rs/act/2010/20-41/srp@"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2010/20-41/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2010/20-41/srp@.akn"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2010-3-31" name="службени гласник рс“" number="20" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="VIII РАЗВОЈ" value="viii развој"/>
+				<keyword id="grupa" showAs="4. Квалитет предмета опште употребе и животних намирница" value="4. квалитет предмета опште употребе и животних намирница"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2010-03-25" id="usvajanje"/>
+				<step date="2010-04-08" id="stupanje_na_snagu"/>
+				<step date="2010-04-08" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 16. став 3. </ref>Закона о безбедности хране („<ref id="ref2" href="/rs/act/09/41/srp@">Службени гласник РС”, број 41/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, шумарства и водопривреде доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о садржини и начину вођења Централног регистра објеката</title>
+			<date>„Службени гласник РС“, број 20 од 31. марта 2010.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником ближе се прописује садржина и начин вођења Централног регистара објеката (у даљем тексту: Централни регистар), у који се уписују субјекти који се баве производњом и прометом хране и хране за животиње.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Централни регистар води министарство надлежно за послове пољопривреде (у даљем тексту: Министарство), у складу са законом којим се уређује безбедност хране.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>У Централном регистру воде се подаци о:</p>
+							<point id="clan2-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> одобреним објектима и</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> регистрованим објектима.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Објекти за производњу и промет хране и хране за животиње који су одобрени или регистровани у складу са посебним прописом сматрају се уписаним у Централни регистар и подаци о томе воде се у Централном регистру, у складу са законом којим се уређује безбедност хране.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>За објекте из става 1. овог члана, Централни регистар представља јединствену базу која садржи податке који су прописани посебним прописом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Ако посебним прописом није предвиђено претходно утврђивање испуњености услова за обављање одређене делатности, као и ако посебним прописом није предвиђена обавеза уписа у регистар, објекти за производњу и промет хране и хране за животиње уписују се у Централни регистар на основу пријаве субјекта у пословању храном и храном за животиње.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>У случају из става 1. овог члана, Централни регистар садржи следеће податке о објектима:</p>
+							<point id="clan4-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> број и назив објеката у којима се обавља делатност у било којој фази производње, прераде и промета хране, односно хране за животиње;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> место и адресу за сваки од објеката из става 1. тачка 1) овог члана;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> опис делатности која се обавља у сваком од објеката из става 1. тачка 1) овог члана;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> одговорно лице у сваком објекту из става 1. тачка 1) овог члана (име, презиме и адреса, јединствени матични број грађана и број личне карте);</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> датум почетка обављања делатности за сваки од објеката из става 1. тачка 1) овог члана;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac6">
+								<num>6)</num>
+								<content>
+									<p> број и датум решења Министарства о испуњености услова за обављање делатности, ако се ради о објектима за које посебним прописом није предвиђена обавеза уписа у регистар;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac7">
+								<num>7)</num>
+								<content>
+									<p> број телефона и телефакса, као и електронска адреса за сваки од објеката из става 1. тачка 1) овог члана;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac8">
+								<num>8)</num>
+								<content>
+									<p> настале промене у објектима (датум, врста и опис промене).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Поред података из става 2. овог члана, у Централни регистар уписују се и подаци који се односе на субјект у пословању храном и храном за животиње, и то:</p>
+							<point id="clan4-stav3-tac1">
+								<num>1)</num>
+								<content>
+									<p> име, презиме и адреса, односно назив и седиште;</p>
+								</content>
+							</point>
+							<point id="clan4-stav3-tac2">
+								<num>2)</num>
+								<content>
+									<p> јединствени матични број грађана и број личне карте физичког лица и предузетника;</p>
+								</content>
+							</point>
+							<point id="clan4-stav3-tac3">
+								<num>3)</num>
+								<content>
+									<p> име и презиме, јединствени матични број грађана и број личне карте одговорног лица у правном лицу;</p>
+								</content>
+							</point>
+							<point id="clan4-stav3-tac4">
+								<num>4)</num>
+								<content>
+									<p> датум уписа у Регистар привредних субјеката, односно Регистар пољопривредних газдинстава, као и време почетка обављања делатности;</p>
+								</content>
+							</point>
+							<point id="clan4-stav3-tac5">
+								<num>5)</num>
+								<content>
+									<p> број под којим је регистрован у Регистар привредних субјеката, односно Регистар пољопривредних газдинстава;</p>
+								</content>
+							</point>
+							<point id="clan4-stav3-tac6">
+								<num>6)</num>
+								<content>
+									<p> матични број правног лица и предузетника који је додељен од стране надлежног органа за послове статистике;</p>
+								</content>
+							</point>
+							<point id="clan4-stav3-tac7">
+								<num>7)</num>
+								<content>
+									<p> пореско-идентификациони број (ПИБ);</p>
+								</content>
+							</point>
+							<point id="clan4-stav3-tac8">
+								<num>8)</num>
+								<content>
+									<p> шифра и опис претежне делатности;</p>
+								</content>
+							</point>
+							<point id="clan4-stav3-tac10">
+								<num>10)</num>
+								<content>
+									<p> шифра и опис осталих делатности;</p>
+								</content>
+							</point>
+							<point id="clan4-stav3-tac11">
+								<num>11)</num>
+								<content>
+									<p> број телефона и телефакса и електронска адреса;</p>
+								</content>
+							</point>
+							<point id="clan4-stav3-tac12">
+								<num>12)</num>
+								<content>
+									<p> све настале промене података (датум, врста и опис промене).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Уз пријаву из <ref>члана 4. став 1. овог</ref> правилника субјект у пословању храном и храном за животиње дужан је да достави документацију којом се потврђује тачност података који се уписују у Централни регистар.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>По извршеном упису у Централни регистар, Министарство подносиоцу пријаве издаје потврду о извршеном упису, која садржи регистарски број.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>Сваки субјект у пословању храном и храном за животиње може да има само један регистарски број.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>Регистарски број који је једном додељен не може се мењати, нити може бити додељен неком другом лицу у случају престанка обављања делатности тог лица.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Централни регистар се води у електронској форми и повезује са другим базама и регистрима Министарства, односно министарства надлежног за послове здравља.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Документација о сваком уписаном субјекту преводи се у електронску форму и чини саставни део Централног регистра и чува се трајно у складу са прописима којима се уређује архивска грађа.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>У Централни регистар уписују се и промене података.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Субјекти у пословању храном и храном за животиње су дужни да сваку промену података пријаве Министарству и о томе доставе потребну документацију, у року од 15 дана од дана настале промене, осим када је промена података већ извршена у складу са посебним прописима.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Број 110-00-00036/2010-09</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>У Београду, 25. марта 2010. године</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav5">
+						<content>
+							<p>др Саша Драгин, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

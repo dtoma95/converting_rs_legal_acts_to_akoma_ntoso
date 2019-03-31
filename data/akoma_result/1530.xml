@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2017/41-48/main"/>
+					<FRBRuri value="/rs/act/2017/41-48"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2017/41-48/srp@/main"/>
+					<FRBRuri value="/rs/act/2017/41-48/srp@"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2017/41-48/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2017/41-48/srp@.akn"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2017-4-28" name="службени гласник рс" number="41" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Износ" value="износ"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="9. Доприноси за обавезно социјално осигурање" value="9. доприноси за обавезно социјално осигурање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2017-04-25" id="usvajanje"/>
+				<step date="" id="stupanje_na_snagu"/>
+				<step date="2017-05-01" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 37. став 2. </ref>Закона о доприносима за обавезно социјално осигурање („<ref id="ref1" href="/rs/act/04/84/srp@">Службени гласник РС”, бр. 84/04, 61/05, 62/06, 5/09, 52/11, 101/11, 47/13, 108/13, 57/14, 68/14</ref> – др. закон и 112/15),</p>
+			<p>Министар финансија утврђује и објављује</p>
+		</preamble>
+		<preface>
+			<authority>ИЗНОС</authority>
+			<title>најниже месечне основице доприноса за обавезно социјално осигурање</title>
+			<date>&quot;Службени гласник РС&quot;, број 41 од 28.      априла 2017.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Најнижа месечна основица на коју се обрачунавају и плаћају доприноси за обавезно социјално осигурање износи 21.906 динара.</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Износ из тачке 1. примењује се од 1. маја 2017. године.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>Број 401-00-1300/2017-04</p>
+						</content>
+					</clause>
+					<clause id="od2-stav2">
+						<content>
+							<p>У Београду, 25. априла 2017. године</p>
+						</content>
+					</clause>
+					<clause id="od2-stav3">
+						<content>
+							<p>Министap,</p>
+						</content>
+					</clause>
+					<clause id="od2-stav4">
+						<content>
+							<p>др Душан Вујовић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

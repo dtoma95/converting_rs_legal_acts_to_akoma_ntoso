@@ -1,0 +1,241 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2011/25-28/main"/>
+					<FRBRuri value="/rs/act/2011/25-28"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/103-56/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/103-56/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/103-56/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/103-56/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2011-4-12" name="службени гласник рс" number="25" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="I ДРЖАВНО УРЕЂЕЊЕ" value="i државно уређење"/>
+				<keyword id="grupa" showAs="19. Матичне књиге" value="19. матичне књиге"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-03-31" id="usvajanje"/>
+				<step date="2011-04-20" id="stupanje_na_snagu"/>
+				<step date="2011-04-20" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="25/2011-28" id="e1" type="generation"/>
+				<eventRef date="103/2018-56" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник о допунама Правилника о поступку издавања потврде о смрти и обрасцу потврде о смрти („<ref id="ref3" href="/rs/act/2018/103/srp@">Службени гласник РС“, број 103/2018</ref>) ступа на снагу 1. јануара 2020. године (види <ref>члан 4. </ref>Правилника - 103/2018-56).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу <ref>члана 86. став 3. </ref>Закона о матичним књигама („<ref id="ref4" href="/rs/act/09/20/srp@">Службени гласник РС”, број 20/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар за људска и мањинска права, државну управу и локалну самоуправу и министар здравља споразумно доносе</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о поступку издавања потврде о смрти и обрасцу потврде о смрти</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 25 од 12. априла 2011, 103 од 26.      децембра 2018.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се поступак издавања потврде о смрти и образац потврде о смрти.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Потврда о смрти је јавна исправа на основу које се врши упис чињенице смрти у матичну књигу умрлих.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Потврду о смрти издаје надлежна здравствена установа, односно надлежни доктор медицине за стручно утврђивање времена и узрока смрти умрлих ван здравствене установе по службеној дужности или на захтев лица која су по закону дужна да пријаве чињеницу смрти.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Надлежна здравствена установа, односно надлежни доктор медицине за стручно утврђивање времена и узрока смрти умрлих ван здравствене установе потврду о смрти достављају матичару матичног подручја општине, односно града, односно града Београда у чијем саставу је насељено место где је смрт наступила.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Потврда о смрти издаје се на обрасцу беле боје, формата А4, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>Потврда о смрти издаје се и у форми      електронског документа.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav5">
+						<content>
+							<p>Потврда о смрти из става 4. овог члана      мора бити потписана од стране надлежног доктора медицине,      квалификованим електронским потписом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>*<ref id="ref5" href="/rs/act/2018/103/srp@">Службени гласник РС, број 103/2018</ref></heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>У потврди о смрти подаци о умрлом уписују се из личне карте и извода из матичне књиге рођених, а за странце из путне исправе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Потврда о смрти саставља се у три истоветна примерка.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Један примерак састављене потврде о смрти чува здравствена установа, односно надлежни доктор медицине за стручно утврђивање времена и узрока смрти умрлих ван здравствене установе, а два примерка се достављају матичару.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>Матичар један примерак потврде о смрти по извршеном основном упису чињенице смрти у матичну књигу умрлих чува у списима предмета на основу којих је извршен тај упис, а други примерак потврде о смрти прилаже уз Статистички листић о случају смрти (Образац ДЕМ-2) и доставља органу надлежном за послове статистике, најкасније до 3. у месецу за претходни месец.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>Потврда из <ref>члана 3. став 4. овог</ref>      правилника чува се у архиви информационог система здравства и      архиви Регистра матичних књига.</p>
+						</content>
+					</clause>
+					<article id="clan5.а">
+						<num>5а</num>
+						<heading>*<ref id="ref6" href="/rs/act/2018/103/srp@">Службени гласник РС, број 103/2018</ref></heading>
+						<content>
+							<clause id="clan5.а-stav1">
+								<content>
+									<p>Систем електронског достављања потврде      о смрти примењиваће све здравствене установе од 1. јануара 2020.      године.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<heading>*<ref id="ref7" href="/rs/act/2018/103/srp@">Службени гласник РС, број 103/2018</ref></heading>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Даном ступања на снагу овог правилника престаје да важи Правилник о поступку издавања и обрасцу потврде о смрти („<ref id="ref8" href="/rs/act/05/8/srp@">Службени гласник РС”, број 8/05</ref>).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Број 110-00-32/2011-04</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>У Београду, 31. марта 2011. године</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav5">
+						<content>
+							<p>Милан Марковић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav6">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav7">
+						<content>
+							<p>Зоран Станковић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav8">
+						<content>
+							<p>ОДРЕДБЕ КОЈЕ НИСУ УНЕТЕ У „ПРЕЧИШЋЕН ТЕКСТ“      ПРАВИЛНИКА</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>Правилник о допунама Правилника о поступку      издавања потврде о смрти и обрасцу потврде о смрти : „<ref id="ref9" href="/rs/act/2018/103/srp@">Службени      гласник РС“, број 103/2018</ref>-56</heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу      1. јануара 2020. године.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Прилози</p>
+						</content>
+					</clause>
+					<став id="clan4-stav3">
+						<img alt="potvrda-o-smrti-1.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/potvrda-o-smrti-1_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427472&amp;regactid=427472"/>
+						<content/>
+					</став>
+					<став id="clan4-stav4">
+						<img alt="potvrda-o-smrti-2.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/potvrda-o-smrti-2_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427472&amp;regactid=427472"/>
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

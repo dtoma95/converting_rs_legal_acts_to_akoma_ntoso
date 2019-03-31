@@ -1,0 +1,436 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2011/61-50/main"/>
+					<FRBRuri value="/rs/act/2011/61-50"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/61-50/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/61-50/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/61-50/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/61-50/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2011-8-19" name="службени гласник рс" number="61" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="15. Спорт" value="15. спорт"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-08-01" id="usvajanje"/>
+				<step date="2011-08-27" id="stupanje_na_snagu"/>
+				<step date="2011-08-27" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 165. став 8. </ref>Закона о спорту („<ref id="ref2" href="/rs/act/11/24/srp@">Службени гласник РС”, број 24/11</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар омладине и спорта доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о евиденцијама које воде високошколске и друге организације које се баве оспособљавањем у области спорта</title>
+			<date>&quot;Службени гласник РС&quot;, број 61 од 19. августа   2011.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се садржај и начин вођења евиденције полазника стручног оспособљавања у области спорта и евиденције о издатим уверењима о завршеном стручном оспособљавању, коју воде високошколске установе у области спорта и друге организације које се баве пословима стручног оспособљавања у складу са Законом о спорту (у даљем тексту: друге организације).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Евиденције из <ref>члана 1. овог</ref> правилника воде се у писменом облику и као електронска база података.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>У писменом и електронском облику, евиденције садрже идентичне податке.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Евиденције се воде на јединствен начин.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Евиденција полазника стручног оспособљавања води се у виду књиге, у облику спољњег и унутрашњег табака величине 290 mm x 420 mm, а када се штампа и води двојезично, величине 350 mm x 500 mm – Образац број 1.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Евиденција из става 1. овог члана садржи следеће податке:</p>
+							<point id="clan3-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив Републике Србије;</p>
+								</content>
+							</point>
+							<point id="clan3-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> назив и седиште високошколске установе, односно друге организације;</p>
+								</content>
+							</point>
+							<point id="clan3-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> број дозволе за рад високошколске установе и датум њеног издавања, односно број дозволе за рад друге организације и датум њеног издавања;</p>
+								</content>
+							</point>
+							<point id="clan3-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> годину за коју се води евиденција;</p>
+								</content>
+							</point>
+							<point id="clan3-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> назив програма стручног оспособљавања и колико траје;</p>
+								</content>
+							</point>
+							<point id="clan3-stav2-tac6">
+								<num>6)</num>
+								<content>
+									<p> спортско звање за које се врши стручно оспособљавање;</p>
+								</content>
+							</point>
+							<point id="clan3-stav2-tac7">
+								<num>7)</num>
+								<content>
+									<p> језик на коме се изводи настава на одобреном програму стручног оспособљавања;</p>
+								</content>
+							</point>
+							<point id="clan3-stav2-tac8">
+								<num>8)</num>
+								<content>
+									<p> списак свих полазника уписаних по први пут на програм стручног оспособљавања (презиме, име једног родитеља и име);</p>
+								</content>
+							</point>
+							<point id="clan3-stav2-tac9">
+								<num>9)</num>
+								<content>
+									<p> појединачни лист за сваког полазника, који садржи:</p>
+									<alinea id="clan3-stav2-tac9-ali1">
+										<content>
+											<p>рој уписа,</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav2-tac9-ali2">
+										<content>
+											<p>одину уписа за сваког полазника,</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav2-tac9-ali3">
+										<content>
+											<p>единствени матични број грађана,</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav2-tac9-ali4">
+										<content>
+											<p>резиме, име једног родитеља и име полазника,</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav2-tac9-ali5">
+										<content>
+											<p>атум, место, општина рођења и држава,</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav2-tac9-ali6">
+										<content>
+											<p>ребивалиште,</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav2-tac9-ali7">
+										<content>
+											<p>ржављанство,</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav2-tac9-ali8">
+										<content>
+											<p>рој телефона, имејл адреса,</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav2-tac9-ali9">
+										<content>
+											<p>азив и седиште претходно завршене школе,</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav2-tac9-ali10">
+										<content>
+											<p>одину у којој је завршено претходно школовање,</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav2-tac9-ali11">
+										<content>
+											<p>тручни или академски и скраћени назив који полазник има на основу претходног школовања,</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav2-tac9-ali12">
+										<content>
+											<p>портско звање које полазник има,</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav2-tac9-ali13">
+										<content>
+											<p>азив наставног предмета, односно програма који је полазник савладао,</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav2-tac9-ali14">
+										<content>
+											<p>татус савладаног предмета (обавезан или изборни),</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav2-tac9-ali15">
+										<content>
+											<p>цену на испиту,</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav2-tac9-ali16">
+										<content>
+											<p>резиме и име наставника,</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav2-tac9-ali17">
+										<content>
+											<p>росечну оцену,</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav2-tac9-ali18">
+										<content>
+											<p>аслов завршног рада (када је предвиђен),</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav2-tac9-ali19">
+										<content>
+											<p>ме наставника (предавача) који је руководио израдом завршног рада,</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav2-tac9-ali20">
+										<content>
+											<p>цену на завршном раду и датум одбране рада,</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav2-tac9-ali21">
+										<content>
+											<p>портско звање које се стиче,</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav2-tac9-ali22">
+										<content>
+											<p>рој уверења о завршеном стручном оспособљавању,</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav2-tac9-ali23">
+										<content>
+											<p>атум издавања уверења,</p>
+										</content>
+									</alinea>
+									<alinea id="clan3-stav2-tac9-ali24">
+										<content>
+											<p>апомену.</p>
+										</content>
+									</alinea>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Унутрашње странице књиге оверавају се печатом високошколске установе, односно друге организације.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Евиденција о издатим уверењима води се у виду књиге, у облику спољних и унутрашњих табака повезаних у књигу, величине 210 mm x 290 mm, а када се штампа и води двојезично, величине 250 mm x 350 mm – Образац број 2.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Евиденција из става 1. овог члана садржи следеће податке:</p>
+							<point id="clan4-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив Републике Србије;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> назив и седиште високошколске установе, односно друге организације;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> назив програма стручног оспособљавања за који се води евиденција;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> почетну и крајњу годину за коју се евиденција води;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> редни број полазника стручног оспособљавања;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac6">
+								<num>6)</num>
+								<content>
+									<p> презиме, име једног родитеља и име полазника ;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac7">
+								<num>7)</num>
+								<content>
+									<p> број уписа полазника;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac8">
+								<num>8)</num>
+								<content>
+									<p> број уверења и датум издавања;</p>
+								</content>
+							</point>
+							<point id="clan4-stav2-tac9">
+								<num>9)</num>
+								<content>
+									<p> потпис полазника и датум пријема уверења.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Податке из чл. 3. и 4. овог правилника у евиденцију о полазницима стручног оспособљавања и евиденцију о издатим уверењима о завршеном стручном оспособљавању уписују овлашћена лица високошколске установе, односно друге организације.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Погрешно уписани подаци у евиденцији прецртавају се тако да остану читљиви, а исправка се потписује и оверава печатом високошколске установе, односно друге организације.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Обрасци бр. 1. и 2. одштампани су уз овај правилник и чине његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Заштита података из евиденције која се води у складу са овим правилником који су личне и поверљиве природе врши се на начин прописан законом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Број 66-00-15/46/2011-03</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>У Београду, 1. августа 2011. године</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav5">
+						<content>
+							<p>Снежана Самарџић Марковић, с.р.</p>
+						</content>
+					</clause>
+					<став id="clan8-stav6">
+						<img alt="pravilnik-sport_Page_1.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik-sport_Page_1_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=418838&amp;regactid=418838"/>
+						<content/>
+					</став>
+					<став id="clan8-stav7">
+						<img alt="pravilnik-sport_Page_2.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik-sport_Page_2_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=418838&amp;regactid=418838"/>
+						<content/>
+					</став>
+					<став id="clan8-stav8">
+						<img alt="pravilnik-sport_Page_3.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik-sport_Page_3_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=418838&amp;regactid=418838"/>
+						<content/>
+					</став>
+					<став id="clan8-stav9">
+						<img alt="pravilnik-sport_Page_4.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik-sport_Page_4_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=418838&amp;regactid=418838"/>
+						<content/>
+					</став>
+					<став id="clan8-stav10">
+						<img alt="pravilnik-sport_Page_5.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik-sport_Page_5_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=418838&amp;regactid=418838"/>
+						<content/>
+					</став>
+					<став id="clan8-stav11">
+						<img alt="pravilnik-sport_Page_6.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik-sport_Page_6_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=418838&amp;regactid=418838"/>
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

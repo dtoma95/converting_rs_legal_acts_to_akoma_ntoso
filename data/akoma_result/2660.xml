@@ -1,0 +1,1043 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2011/100-110/main"/>
+					<FRBRuri value="/rs/act/2011/100-110"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/100-110/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/100-110/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/100-110/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/100-110/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2011-12-29" name="службени гласник рс" number="100" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="4. Заштита биља" value="4. заштита биља"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-12-23" id="usvajanje"/>
+				<step date="2012-01-06" id="stupanje_na_snagu"/>
+				<step date="2012-01-06" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 49. став 6. </ref>Закона о здрављу биља („<ref id="ref3" href="/rs/act/09/41/srp@">Службени гласник РС”, број 41/09</ref>)</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, трговине, шумарства и водопривреде доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о техничким условима за уношење штетних организама и увоз биља, биљних производа и прописаних објеката за потребе огледа, научне сврхе или за рад на клонској селекцији</title>
+			<date>&quot;Службени гласник      РС&quot;, број 100 од 29. децембра 2011.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Уводне одредбе</heading>
+				<content>
+					<article id="od1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="od1-clan1-stav1">
+								<content>
+									<p>Овим правилником ближе се прописују услови у погледу техничке оспособљености за спречавање опасности од ширења штетног организма за правно лице које врши уношење штетних организама са Листе IA део I, Листе IA део II, Листе IIA део I, Листе IIA део II, Листе IБ и Листе IIБ, као и увоз биља, биљних производа и прописаних објеката са Листе IIIА, Листе IIIБ, Листе IVA део I, Листе IVA део II и Листе IVБ за потребе огледа, научне сврхе или за рад на клонској селекцији, као и образац захтева за издавање одобрења за увоз биља, биљних производа, прописаних објеката, односно штетних организама.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="od1-clan2-stav1">
+								<content>
+									<p>Поједини изрази употребљени у овом правилнику имају следеће значење:</p>
+									<point id="od1-clan2-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> истраживачка активност је свака активност која се обавља за потребе огледа, научне сврхе или за рад на клонској селекцији којa укључујe коришћење штетних организама са Листе IA део I, Листе IA део II, Листе IIA део I, Листе IIA део II, Листе IБ и Листе IIБ и биља, биљних производа и прописаних објеката са Листе IIIА, Листе IIIБ, Листе IVA део I, Листе IVA део II и Листе IVБ;</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> карантин је прописани начин поступања са материјалом у циљу спречавања ширењa штетних организама;</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> Материјал је:</p>
+											<item id="od1-clan2-stav1-tac3-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> штетни организам са Листе IA део I, Листе IA део II, Листе IIA део I, Листе IIA део II, Листе IБ и Листе IIБ, чије је уношење или премештање забрањено или ограничено, као и друге врсте штетних организама ако постоји опасност по здравље биља на територији Републике Србије,</p>
+												</content>
+											</item>
+											<item id="od1-clan2-stav1-tac3-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> биље, биљни производи и прописани објекти са Листе IIIА и Листе IIIБ,</p>
+												</content>
+											</item>
+											<item id="od1-clan2-stav1-tac3-podtac3">
+												<num>(3)</num>
+												<content>
+													<p> биље, биљни производи и прописани објекти са Листе IVA део I, Листе IVA део II и Листе IVБ, који не испуњавају прописане специфичне фитосанитарне услове, чије је уношење и премештање одобрено ради обављања истраживачке активности уз испуњавање прописаних услова.</p>
+												</content>
+											</item>
+										</content>
+									</point>
+									<тачка id="od1-clan2-stav1-tac2">
+										<num>2.</num>
+										<content>
+											<p> Услови у погледу техничке оспособљености</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="od1-clan3-stav1">
+								<content>
+									<p>У погледу техничке оспособљености за спречавање опасности од ширења штетног организма правно лице које врши уношење, односно увоз материјала обезбеђује следеће услове:</p>
+									<point id="od1-clan3-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> да научна и стручна оспособљеност особља које ће спроводити истраживачке послове одговара врсти истраживачких активности;</p>
+										</content>
+									</point>
+									<point id="od1-clan3-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> да су врста и циљеви истраживачке активности за коју се материјал уноси или премешта у складу са концептом огледне или научне сврхе или рада на клонској селекцији;</p>
+										</content>
+									</point>
+									<point id="od1-clan3-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> да је количина материјала ограничена на количину која је довољна за извођење истраживачких активности и у складу са капацитетима карантинских објеката;</p>
+										</content>
+									</point>
+									<point id="od1-clan3-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> да се материјал током уношења или премештања одржава у карантинским условима и да се у што краћем року превезе на одобрено место;</p>
+										</content>
+									</point>
+									<point id="od1-clan3-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> да се у објектима и на парцелама, односно местима на којима ће се обављати истраживачке активности гарантује безбедан рад са материјалом на начин да се штетни организми држе у карантинским условима и да је ризик од њиховог ширења онемогућен, што укључује:</p>
+											<item id="od1-clan3-stav1-tac5-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> физичко раздвајање од другог биља, односно штетних организама, укључујући по потреби контролу вегетације у непосредној околини,</p>
+												</content>
+											</item>
+											<item id="od1-clan3-stav1-tac5-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> одређивање особе одговорне за истраживачке активности;</p>
+												</content>
+											</item>
+											<item id="od1-clan3-stav1-tac5-podtac3">
+												<num>(3)</num>
+												<content>
+													<p> ограничење приступа просторијама, објектима и околном подручју, ако је потребно, на особље које обавља истраживачке активности,</p>
+												</content>
+											</item>
+											<item id="od1-clan3-stav1-tac5-podtac4">
+												<num>(4)</num>
+												<content>
+													<p> одговарајућу идентификацију просторија и објеката навођењем врсте истраживачке активности и одговорног особља,</p>
+												</content>
+											</item>
+											<item id="od1-clan3-stav1-tac5-podtac5">
+												<num>(5)</num>
+												<content>
+													<p> вођење евиденција обављених истраживачких активности и радних поступака, укључујући и поступке у случају ненамерног испуштања штетних организама из карантина,</p>
+												</content>
+											</item>
+											<item id="od1-clan3-stav1-tac5-podtac6">
+												<num>(6)</num>
+												<content>
+													<p> одговарајуће безбедносне системе,</p>
+												</content>
+											</item>
+											<item id="od1-clan3-stav1-tac5-podtac7">
+												<num>(7)</num>
+												<content>
+													<p> одговарајуће контролне мере за спречавање уношења и ширења штетних организама унутар простора,</p>
+												</content>
+											</item>
+											<item id="od1-clan3-stav1-tac5-podtac8">
+												<num>(8)</num>
+												<content>
+													<p> контролисане поступке узорковања и преношења материјала између просторија и објеката,</p>
+												</content>
+											</item>
+											<item id="od1-clan3-stav1-tac5-podtac9">
+												<num>(9)</num>
+												<content>
+													<p> контролисано одлагање отпада, супстрата, земље и воде, када је потребно,</p>
+												</content>
+											</item>
+											<item id="od1-clan3-stav1-tac5-podtac10">
+												<num>(10)</num>
+												<content>
+													<p> одговарајуће хигијенске и дезинфекцијске поступке за особље, објекте и опрему,</p>
+												</content>
+											</item>
+											<item id="od1-clan3-stav1-tac5-podtac11">
+												<num>(11)</num>
+												<content>
+													<p> одговарајуће мере и објекте за одлагање материјала,</p>
+												</content>
+											</item>
+											<item id="od1-clan3-stav1-tac5-podtac12">
+												<num>(12)</num>
+												<content>
+													<p> одговарајуће објекте и поступке за индексирање (укључујући и тестирање);</p>
+												</content>
+											</item>
+										</content>
+									</point>
+									<point id="od1-clan3-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> да се у циљу спречавањa опасности од ширења штетног организма, по окончању огледа, научног рада, односно рада на клонској селекцији, из карантинских услова може пустити само материјал из <ref>члана 2. тачка 3</ref>) подтач. (2) и (3) овог правилника након спроведених активности из Прилога – Карантинске мере укључујући тестирање материјала намењеног пуштању из карантина, који је одштампан уз овај правилник и чини његов саставни део, и по добијању сагласности од министарства надлежног за послове здравља биља;</p>
+										</content>
+									</point>
+									<point id="od1-clan3-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> да се материјал који није намењен за пуштање из карантина, укључујући и штетне организме и сав материјал за који је утврђено да је током истраживачких активности заражен, као и друго биље, биљни производи и прописани објекти који су били у додиру са тим материјалом или су могли бити заражени штетним организмима, уништава, стерилише или третира на начин који обезбеђује спречавање опасности од ширења штетног организма;</p>
+										</content>
+									</point>
+									<point id="od1-clan3-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> да се парцеле и објекти на којима се обављају истраживачке активности стерилишу и чисте на начин начин који обезбеђује спречавање опасности од ширења штетног организма;</p>
+										</content>
+									</point>
+									<point id="od1-clan3-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> ефикасан систем обавештавања министарства надлежног за послове здравља биља у случају заразе материјала штетним организмима, као и о ненамерном испуштању штетних организама;</p>
+										</content>
+									</point>
+									<point id="od1-clan3-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> вођење евиденције која садржи податке о приспећу материјала укључујући и време, место, врсту и количину пристиглог материјала, о поступцима у време обављања истраживачких активности на материјалу, њиховом трајању и завршетку, о материјалу пуштеном из карантинских услова (време и место пуштања, врста и количина пуштеног материјала), као и о уништењу материјала (време, место и начин уништења, врста и количина уништеног материјала).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="od1-clan4-stav1">
+								<content>
+									<p>У зависности од врсте материјала и планиране истраживачке активности, биологије штетног организма, начина његовог ширења, интеракције са околином и другим важним чињеницама везаним за опасност која се односи на материјал, правно лице које врши уношење, односно увоз материјала, поред услова из <ref>члана 3. овог</ref> правилника, обезбеђује и додатне услове у погледу техничке оспособљености, који укључују спровођење једне или више мера за спречавање опасности од ширења штетног организма наложених на основу процењеног ризика.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan4-stav2">
+								<content>
+									<p>Услови у погледу техничке оспособљеност из става 1. овог члана су:</p>
+									<point id="od1-clan4-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> чување материјала у објектима са одвојеним коморама са двоструким вратима за приступ особља;</p>
+										</content>
+									</point>
+									<point id="od1-clan4-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> чување материјала под негативним ваздушним притиском;</p>
+										</content>
+									</point>
+									<point id="od1-clan4-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> чување материјала у заштићеним посудама с одговарајућом величином отвора за ваздух и другим баријерама (нпр. водена баријера за гриње, затворене посуде напуњене земљом за нематоде, електричне клопке за инсекте);</p>
+										</content>
+									</point>
+									<point id="od1-clan4-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> чување материјала одвојено од других штетних организама и материјала (нпр. домаћини материјала);</p>
+										</content>
+									</point>
+									<point id="od1-clan4-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> чување материјала за узгој у коморама за узгој са одговарајућом опремом за манипулацију;</p>
+										</content>
+									</point>
+									<point id="od1-clan4-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> спречавање укрштања штетних организама с аутохтоним сојевима или врстама;</p>
+										</content>
+									</point>
+									<point id="od1-clan4-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> избегавање одржавања трајних култура штетних организама;</p>
+										</content>
+									</point>
+									<point id="od1-clan4-stav2-tac8">
+										<num>8)</num>
+										<content>
+											<p> чување у условима у којима се строго контролише умножавање штетног организма;</p>
+										</content>
+									</point>
+									<point id="od1-clan4-stav2-tac9">
+										<num>9)</num>
+										<content>
+											<p> чување на начин којим се спречава ширење пропагулама – делова живих организама којима се они размножавају, чувају или шире (нпр. спречити ваздушна струјања);</p>
+										</content>
+									</point>
+									<point id="od1-clan4-stav2-tac10">
+										<num>10)</num>
+										<content>
+											<p> процедуре за проверу чистоће културе штетног организма, ради искључења присутности паразита или других штетних организама;</p>
+										</content>
+									</point>
+									<point id="od1-clan4-stav2-tac11">
+										<num>11)</num>
+										<content>
+											<p> одговарајући програми контроле за елиминисање могућих вектора;</p>
+										</content>
+									</point>
+									<point id="od1-clan4-stav2-tac12">
+										<num>12)</num>
+										<content>
+											<p> за активности in vitro, руковање материјалом у стерилним условима: опремање лабораторије за извођење стерилних поступака и одржавање стерилних услова;</p>
+										</content>
+									</point>
+									<point id="od1-clan4-stav2-tac13">
+										<num>13)</num>
+										<content>
+											<p> чување штетних организама који се шире векторима, у условима који онемогућавају ширење тим векторима (нпр. прописана величина отвора, затварањем земље у посуде);</p>
+										</content>
+									</point>
+									<point id="od1-clan4-stav2-tac14">
+										<num>14)</num>
+										<content>
+											<p> сезонска изолација да би се обезбедило да се истраживачка активност реализује у време мале опасности за здравље биља.</p>
+										</content>
+									</point>
+									<тачка id="od1-clan4-stav2-tac3">
+										<num>3.</num>
+										<content>
+											<p> Образац захтева за издавање одобрења за увоз</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="od1-clan5-stav1">
+								<content>
+									<p>Захтев за издавање одобрења за увоз биља, биљних производа и прописаних објеката, односно штетних организама подноси се Министарству пољопривреде, трговине, шумарства и водопривреде на Обрасцу – Захтев за издавање одобрења за увоз, који је одштампан уз овај правилник и чини његов саставни део.</p>
+									<тачка id="od1-clan5-stav1-tac4">
+										<num>4.</num>
+										<content>
+											<p> Завршна одредба</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="od1-clan6-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav2">
+								<content>
+									<p>Број 110-00-00251/2011-09</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav3">
+								<content>
+									<p>У Београду, 23. децембра 2011. године</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav5">
+								<content>
+									<p>Душан Петровић, с.р.</p>
+								</content>
+							</clause>
+							<став id="od1-clan6-stav6">
+								<img alt="pravilniktehnickiuslovi.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilniktehnickiuslov_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=422853&amp;regactid=422853"/>
+								<content/>
+							</став>
+							<clause id="od1-clan6-stav7">
+								<content>
+									<p>ПРИЛОГ</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav8">
+								<content>
+									<p>КАРАНТИНСКЕ МЕРЕ, УКЉУЧУЈУЋИ ТЕСТИРАЊЕ МАТЕРИЈАЛА НАМЕЊЕНОГ ПУШТАЊУ ИЗ КАРАНТИНА</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav9">
+								<content>
+									<p>I БИЉЕ, БИЉНИ ПРОИЗВОДИ     И ПРОПИСАНИ ОБЈЕКТИ СА ЛИСТЕ IIIА И ЛИСТЕ IIIБ</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<section id="od1">
+						<num>1.</num>
+						<heading> Биље Citrus L., Fortunella Swingle, Poncirus Raf. и њихови хибриди, искључујући плодове и семе</heading>
+						<content>
+							<clause id="od1-clan6-stav1">
+								<content>
+									<p>Биљни материјал подвргава се по потреби одређеним терапијским поступцима, који су прописани у Техничком упутству FAO/IPGRI.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav2">
+								<content>
+									<p>Биљни материјал након терапијских поступака у потпуности подлеже поступку индексирања. Сав биљни материјал, укључујући и биље за индексирање, чува се у одобреним објектима, у карантинским условима. Биљни материјал, намењен пуштању из карантина чува се у условима који обезбеђују нормалан циклус вегетативног раста. На њему се обавља визуелни преглед ради откривања симптома присуства штетних организама укључујући и све релевантне штетне организме наведене у Листи IA део I, Листи IA део II, Листи IIA део I, Листи IIA део II, Листи IБ и Листи IIБ и то у одговарајуће време, по њиховом пристизању и касније током поступка индексирања.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav3">
+								<content>
+									<p>Биљни материјал на коме су визуелним прегледом уочени симптоми присуства штетних организама посебно се испитује и према потреби тестира како би се одредио узрочник симптома.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav4">
+								<content>
+									<p>Биљни материјал се индексира на штетне организме (испитивањем и идентификацијом) следећим поступцима:</p>
+									<point id="od1-clan6-stav4-tac1">
+										<num>1)</num>
+										<content>
+											<p> за испитивање се користе одговарајуће лабораторијске методе и по потреби биљке индикатори укључујући Citrus sinensis (L.) Osbeck, C. aurantиfolиa Christm. Swing, C. medica L., C. reticulata Blanco и Sesamum L., ради откривања најмање следећих штетних организама:</p>
+											<item id="od1-clan6-stav4-tac1-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> Citrus greening bacterium,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav4-tac1-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> Citrus variegated chlorosis,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav4-tac1-podtac3">
+												<num>(3)</num>
+												<content>
+													<p> Citrus mosaic virus,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav4-tac1-podtac4">
+												<num>(4)</num>
+												<content>
+													<p> Citrus tristeza virus (svi izolati),</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav4-tac1-podtac5">
+												<num>(5)</num>
+												<content>
+													<p> Citrus vein enation woody gall,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav4-tac1-podtac6">
+												<num>(6)</num>
+												<content>
+													<p> Leproza,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav4-tac1-podtac7">
+												<num>(7)</num>
+												<content>
+													<p> Psoroza koja se prenosi prirodnim putem,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav4-tac1-podtac8">
+												<num>(8)</num>
+												<content>
+													<p> Phoma tracheiphila (Petri) Kanchaveli &amp; Gikashvili,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav4-tac1-podtac9">
+												<num>(9)</num>
+												<content>
+													<p> Satsuma dwarf virus,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav4-tac1-podtac10">
+												<num>(10)</num>
+												<content>
+													<p> Spiroplasma citri Saglio et al.,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav4-tac1-podtac11">
+												<num>(11)</num>
+												<content>
+													<p> Tatter leaf virus,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav4-tac1-podtac12">
+												<num>(12)</num>
+												<content>
+													<p> Witches’ broom (MLO),</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav4-tac1-podtac13">
+												<num>(13)</num>
+												<content>
+													<p> Xanthomonas campestris (svi sojevi patogeni za rod Citrus);</p>
+												</content>
+											</item>
+										</content>
+									</point>
+									<point id="od1-clan6-stav4-tac2">
+										<num>2)</num>
+										<content>
+											<p> за болести као што је пламењача и сличне болести за које не постоје краткорочни поступци индексирања, на биљном материјалу после пристизања обавља се калемљење изданака на подлогу гајену на стерилној култури у складу са упутством из става 1. овог одељка и тако гајено биље подвргава се терапијском поступку.</p>
+											<тачка id="od1-clan6-stav4-tac2">
+												<num>2.</num>
+												<content>
+													<p> Биље Cydonia Mill., Malus Mill., Prunus L. и Pyrus L. и њихови хибриди, Fragarиa L., намењено садњи, искључујући семе</p>
+												</content>
+											</тачка>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav5">
+								<content>
+									<p>Биљни материјал подвргава се по потреби одређеним терапијским поступцима, који су прописани у Техничком упутству FAO/IPGRI.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav6">
+								<content>
+									<p>Биљни материјал након терапијских поступака у потпуности подлеже поступку индексирања. Биљни материјал намењен пуштању из карантина чува се у условима који обезбеђују нормалан циклус вегетативног раста. На њему се обавља визуелни преглед ради откривања симптома присуства штетних организама укључујући и све релевантне штетне организме наведене у Листи IA део I, Листи IA део II, Листи IIA део I, Листи IIA део II, Листи IБ и Листи IIБ, и то у одговарајуће време, по њиховом пристизању и касније током поступка индексирања.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav7">
+								<content>
+									<p>Биљни материјал на коме су визуелним прегледом уочени симптоми присуства штетних организама посебно се испитује и према потреби тестира како би се одредио узрочник симптома.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav8">
+								<content>
+									<p>Биљни материјал се индексира на штетне организме (испитивањем и идентификацијом) следећим поступцима:</p>
+									<point id="od1-clan6-stav8-tac1">
+										<num>1)</num>
+										<content>
+											<p> у случају Fragaia L. без обзира на земљу порекла биљног материјала, приликом тестирањa се користе одговарајуће лабораторијске методе и по потреби биљке индикатори, укључујући Fragaria vesca, F. virginiana и Chenopodium spp., ради откривања најмање следећих штетних организама:</p>
+											<item id="od1-clan6-stav8-tac1-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> Arabis mosaic virus,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav8-tac1-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> Raspberry ringspot virus,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav8-tac1-podtac3">
+												<num>(3)</num>
+												<content>
+													<p> Strawberry crinkle virus,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav8-tac1-podtac4">
+												<num>(4)</num>
+												<content>
+													<p> Strawberry latent „C” virus,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav8-tac1-podtac5">
+												<num>(5)</num>
+												<content>
+													<p> Strawberry latent ringspot virus,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav8-tac1-podtac6">
+												<num>(6)</num>
+												<content>
+													<p> Strawberry mild yellow edge virus,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav8-tac1-podtac7">
+												<num>(7)</num>
+												<content>
+													<p> Strawberry vein banding virus,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav8-tac1-podtac8">
+												<num>(8)</num>
+												<content>
+													<p> Strawberry witches’ broom mycoplasm,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav8-tac1-podtac9">
+												<num>(9)</num>
+												<content>
+													<p> Tomato black ring virus,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav8-tac1-podtac10">
+												<num>(10)</num>
+												<content>
+													<p> Tomato ringspot virus,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav8-tac1-podtac11">
+												<num>(11)</num>
+												<content>
+													<p> Colletotrиchum acutatum Simmonds,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav8-tac1-podtac12">
+												<num>(12)</num>
+												<content>
+													<p> Phytophthora fragariae Hickman var. fragariae Wilcox &amp; Duncan,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav8-tac1-podtac13">
+												<num>(13)</num>
+												<content>
+													<p> Xanthomonas fragariae Kennedy &amp; King;</p>
+												</content>
+											</item>
+										</content>
+									</point>
+									<point id="od1-clan6-stav8-tac2">
+										<num>2)</num>
+										<content>
+											<p> у случају Malus Mill. зa тестирање се користе одговарајуће лабораторијске методе и по потреби биљке индикатори ради откривања Apple proliferation mycoplasm или Cherry rasp leaf virus (амерички сој) када биљни материјал потиче из земље у којој је распрострањен неки од тих штетних организама, а без обзира на земљу порекла биљног материјала, за тестирање се користе одговарајуће лабораторијске методе и по потреби биљке индикатори ради откривања најмање следећих штетних организама:</p>
+											<item id="od1-clan6-stav8-tac2-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> Tobacco ringspot virus,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav8-tac2-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> Tomato ringspot virus,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav8-tac2-podtac3">
+												<num>(3)</num>
+												<content>
+													<p> Erwиnиa amylovora (Burr.) Winsl. et al.;</p>
+												</content>
+											</item>
+										</content>
+									</point>
+									<point id="od1-clan6-stav8-tac3">
+										<num>3)</num>
+										<content>
+											<p> У случају Prunus L.:</p>
+											<item id="od1-clan6-stav8-tac3-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> када биљни материјал потиче из земље у којој је распрострањен Apricot chlorotic leafroll mycoplasm, Cherry rasp leaf virus (aмерички сој) или Pseudomonas syringae pv. persicae (Prunier et al.) Young et al., за тестирање се користе одговарајуће лабораторијске методе и по потреби биљке индикатори ради њиховог откривања,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav8-tac3-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> без обзира на земљу порекла биљног материјала, за тестирање се користе одговарајуће лабораторијске методе и по потреби биљке индикатори ради откривање најмање следећих штетних организама:</p>
+												</content>
+											</item>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav9">
+								<content>
+									<p>− Little cherry pathogen (неевропски изолати),</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav10">
+								<content>
+									<p>− Peach mosaic virus (амерички сој),</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav11">
+								<content>
+									<p>− Peach phony rickettsia,</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav12">
+								<content>
+									<p>− Peach rosette mosaic virus,</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav13">
+								<content>
+									<p>− Peach rosette mycoplasm,</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav14">
+								<content>
+									<p>− Peach X-disease mycoplasm,</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav15">
+								<content>
+									<p>− Plum line pattern virus (амерички сој),</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav16">
+								<content>
+									<p>− Plum pox virus,</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav17">
+								<content>
+									<p>− Tomato ringspot virus,</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav18">
+								<content>
+									<p>− Xanthomonas campestris pv. pruni (Smith) Dye.</p>
+									<point id="od1-clan6-stav18-tac4">
+										<num>4)</num>
+										<content>
+											<p> у случају Cydonia Mill. и Pyrus L., без обзира на земљу порекла биљног материјала, за тестирање се користе одговарајуће лабораторијске методе и по потреби биљке индикатори за откривање Erwinia amylovora (Burr.) Winsl. et al. и Pear decline mycoplasm.</p>
+										</content>
+									</point>
+									<тачка id="od1-clan6-stav18-tac3">
+										<num>3.</num>
+										<content>
+											<p> Биље Vitis L., осим плодова</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav19">
+								<content>
+									<p>Биљни материјал подвргава се по потреби одређеним терапијским поступцима, који су прописани у Техничком упутству FAO/IPGRI.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav20">
+								<content>
+									<p>Биљни материјал након терапијских поступака у потпуности подлеже поступку индексирања. Сав биљни материјал, укључујући и биље за индексирање, чува се у одобреним објектима, у карантинским условима. Биљни материјал намењен пуштању из карантина чува се у условима који обезбеђују нормалан циклус вегетативног раста. На њему се обавља визуелни преглед ради откривања симптома присуства штетних организама укључујући Daktulosphaira vitifoliae (Fitch) укључујући и све релевантне штетне организме наведене у Листи IA део I, Листи IA део II, Листи IIA део I, Листи IIA део II, Листи IБ и Листи IIБ , и то у одговарајуће време, по њиховом пристизању и касније током поступка индексирања.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav21">
+								<content>
+									<p>Биљни материјал на коме су визуелним прегледом уочени симптоми присуства штетних организама посебно се испитује и према потреби тестира како би се одредио узрочник симптома.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav22">
+								<content>
+									<p>Биљни материјал индексира се на штетне организме (тестирањем и идентификацијом) следећим поступцима:</p>
+									<point id="od1-clan6-stav22-tac1">
+										<num>1)</num>
+										<content>
+											<p> када биљни материјал потиче из земље у којој је потврђена болест Ajinashika тестирање се обавља прописаном лабораторијском методом, а ако су резултати негативни биљни материјал индексира се на сорти винове лозе Koshu и чува под надзором најмање два вегетациона периода;</p>
+										</content>
+									</point>
+									<point id="od1-clan6-stav22-tac2">
+										<num>2)</num>
+										<content>
+											<p> када биљни материјал потиче из земље у којој је потврђен штетни организам Grapevine stunt virus, тестирање се обавља на одговарајућим биљкама индикаторима, укључујући сорту винове лозе Campbell Early и надзор се спроводи током једне године;</p>
+										</content>
+									</point>
+									<point id="od1-clan6-stav22-tac3">
+										<num>3)</num>
+										<content>
+											<p> када биљни материјал потиче из земље у којој је потврђен штетни организам Summer mottle, тестирање се обавља на одговарајућим биљкама индикаторима, укључујући сорте винове лозе Sideritis, Cabernet- Franc и Mission;</p>
+										</content>
+									</point>
+									<point id="od1-clan6-stav22-tac4">
+										<num>4)</num>
+										<content>
+											<p> без обзира на земљу порекла биљног материјала, приликом тестирања се користе одговарајуће лабораторијске методе и по потреби биљке индикатори за откривање најмање следећих штетних организама:</p>
+											<item id="od1-clan6-stav22-tac4-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> Blueberry leaf mottle virus,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav22-tac4-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> Grapevine flavescence dorée MLO и остала жутила винове лозе,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav22-tac4-podtac3">
+												<num>(3)</num>
+												<content>
+													<p> Peach rosette mosaic virus,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav22-tac4-podtac4">
+												<num>(4)</num>
+												<content>
+													<p> Tobacco ringspot virus,</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav22-tac4-podtac5">
+												<num>(5)</num>
+												<content>
+													<p> Tomato ringspot virus („yellow vein” i drugi sojevi),</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav22-tac4-podtac6">
+												<num>(6)</num>
+												<content>
+													<p> Xylella fastidiosa (Well &amp; Raju),</p>
+												</content>
+											</item>
+											<item id="od1-clan6-stav22-tac4-podtac7">
+												<num>(7)</num>
+												<content>
+													<p> Xylophilus ampelinus (Panagopoulos) Willems et al.</p>
+												</content>
+											</item>
+											<тачка id="od1-clan6-stav22-tac4">
+												<num>4.</num>
+												<content>
+													<p> Биље врста из рода Solanum L. које формирају кртоле или вреже или њихови хибриди, намењено садњи</p>
+												</content>
+											</тачка>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav23">
+								<content>
+									<p>Биљни материјал подвргава се по потреби одређеним терапијским поступцима, који су прописани у Техничком упутству FAO/IPGRI.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav24">
+								<content>
+									<p>Биљни материјал након терапијских поступака у потпуности подлеже поступку индексирања. Сав биљни материјал, укључујући и биље за индексирање, чува се у одобреним објектима, у карантинским условима. Биљни материјал намењен пуштању из карантина чува се у условима који обезбеђују нормалан циклус вегетативног раста. На њему се обавља визуелни преглед ради откривања симптома присуства штетних организама укључујући све релевантне штетне организме наведене у Листи IA део I, Листи IA део II, Листи IIA део I, Листи IIA део II, Листи IБ и Листи IIБ и Potato yellow vein disease, у одговарајуће време, по његовом пристизању и касније током поступка индексирања.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav25">
+								<content>
+									<p>Биљни материјал на коме су визуелним прегледом уочени симптоми присуства штетних организама посебно се испитује и према потреби тестира како би се одредио узрочник симптома.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav26">
+								<content>
+									<p>Поступак индексирања спроводи се ради откривања присуства бактерија Clavibacter michiganensis (Smith) Davis et al. spp. sepedonicus (Spieckermann et Kotthoff) Davis et al. и Ralstonia solanacearum (Smith)Yabuuchi et al.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav27">
+								<content>
+									<p>Технички услови за поступак индексирања на присуство бактерија су:</p>
+									<point id="od1-clan6-stav27-tac1">
+										<num>1)</num>
+										<content>
+											<p> код кртола кромпира тестира се хилус сваке кртоле, а поступак се може применити на узорак мањи од стандардног (200 кртола);</p>
+										</content>
+									</point>
+									<point id="od1-clan6-stav27-tac2">
+										<num>2)</num>
+										<content>
+											<p> код младих биљака и резница укључујући и микро-саднице, тестира се доњи део стабљике, ако је потребно и корен;</p>
+										</content>
+									</point>
+									<point id="od1-clan6-stav27-tac3">
+										<num>3)</num>
+										<content>
+											<p> након тестирања из тач. 1) и 2) овог става препоручује се један нормалан вегетациони циклус за тестирање новонасталих кртола или основе стабљика код врста које не формирају кртоле;</p>
+										</content>
+									</point>
+									<point id="od1-clan6-stav27-tac4">
+										<num>4)</num>
+										<content>
+											<p> метода тестирања на присуство Clavibacter michiganensis (Smith) Davis et al spp. sepedonicus (Spieckermann et Kotthoff) Davis et al. спроводи се у складу са Правилником о мерама за откривање, спречавање ширења и сузбијање штетног организма Clavibacter michiganensis (Smith) Davis et al spp. sepedonicus (Spieckermann et Kotthoff) Davis et al. проузроковача прстенасте трулежи кртола кромпира, начину одређивања граница зараженог, угроженог и подручја без штетних организама, условима за окончање наложених мера, као и начину обавештавања о предузетим мерама и престанак мера („<ref id="ref4" href="/rs/act/09/103/srp@">Службени гласник РС”, број 103/09</ref>);</p>
+										</content>
+									</point>
+									<point id="od1-clan6-stav27-tac5">
+										<num>5)</num>
+										<content>
+											<p> метода тестирања на присуство Ralstonia solanacearum (Smith)Yabuuchi et al. спроводи се у складу с Правилником о мерама откривања, спречавања ширења и сузбијања штетног организма Ralstonia solanacearum (Smith)Yabuuchi et al. проузроковача мрке трулежи кртола кромпира и бактеријског увенућа кромпира и парадајза, начину одређивања граница зараженог, угроженог и подручја без штетног организма, као и начину обавештавања о предузетим мерама и престанак мера („<ref id="ref5" href="/rs/act/09/107/srp@">Службени гласник РС”, број 107/09</ref>).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav28">
+								<content>
+									<p>Поступак индексирања спроводи се ради откривања присуства вируса и вирусима сличних организама, и то:</p>
+									<point id="od1-clan6-stav28-tac1">
+										<num>1)</num>
+										<content>
+											<p>Andean potato latent virus;</p>
+										</content>
+									</point>
+									<point id="od1-clan6-stav28-tac2">
+										<num>2)</num>
+										<content>
+											<p> Potato black ringspot virus;</p>
+										</content>
+									</point>
+									<point id="od1-clan6-stav28-tac3">
+										<num>3)</num>
+										<content>
+											<p> Potato spindle tuber viroid;</p>
+										</content>
+									</point>
+									<point id="od1-clan6-stav28-tac4">
+										<num>4)</num>
+										<content>
+											<p> Potato yellowing alfamovirus;</p>
+										</content>
+									</point>
+									<point id="od1-clan6-stav28-tac5">
+										<num>5)</num>
+										<content>
+											<p> Potato virus T;</p>
+										</content>
+									</point>
+									<point id="od1-clan6-stav28-tac6">
+										<num>6)</num>
+										<content>
+											<p> Andean potato mottle virus;</p>
+										</content>
+									</point>
+									<point id="od1-clan6-stav28-tac7">
+										<num>7)</num>
+										<content>
+											<p> Вируси кромпира A, M, S, V, X и Y (укључујући Yo, Yn, Yc) i Potato leaf roll virus.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav29">
+								<content>
+									<p>Kод семена кромпира у ботаничком смислу поступци индексирања обављају се да би се открило присуство бар једне од врста вируса и вирусима сличних организама.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav30">
+								<content>
+									<p>Технички услови за поступак индексирања на присуство вируса и вирусима сличних организама, осим Potato spindle tuber viroid-а су:</p>
+									<point id="od1-clan6-stav30-tac1">
+										<num>1)</num>
+										<content>
+											<p> минимално тестирање биљног материјала (кртола, младих биљака – расада, резница укључујући и микро-саднице) обухвата серолошко тестирање које се обавља у време цветања, за сваки штетан организам који је на посебној листи, са изузетком Potato spindle tuber viroida. Ако је серолошки тест негативан, следи биолошко тестирање. Код вируса увијености листа кромпира (Potato leaf roll virus) обављају се два серолошка тестирања;</p>
+										</content>
+									</point>
+									<point id="od1-clan6-stav30-tac2">
+										<num>2)</num>
+										<content>
+											<p> минимално тестирање семена у ботаничком смислу обавља се серолошким тестирањем и биолошким тестирањем, када је серолошко тестирање негативно. Препоручује се поновно тестирање дела негативних узорака или крајњих резултата другом методом;</p>
+										</content>
+									</point>
+									<point id="od1-clan6-stav30-tac3">
+										<num>3)</num>
+										<content>
+											<p> серолошка и биолошка тестирања обављају се на биљу гајеном у расаднику са којих се узорак узима са најмање два места са сваке стабљике, укључујући младе потпуно развијене листове на врху сваке стабљике и старије листове са средине стабљике, при чему се свака стабљика узоркује због могуће несистемичне заразе. Приликом серолошког тестирања листови с више биљака се не спајају, а листови са сваке стабљике могу се спајати ради добијања узорка са сваке биљке. При биолошком тестирању могу се спајати узорци од највише пет биљака, при чему се инокулишу најмање две индикатор биљке;</p>
+										</content>
+									</point>
+									<point id="od1-clan6-stav30-tac4">
+										<num>4)</num>
+										<content>
+											<p> одговарајуће биљке индикатори које се користе приликом биолошког тестирања, јесу оне наведене на EPPO листи или друге биљке индикатори за које је доказано да откривају заразе вирусом;</p>
+										</content>
+									</point>
+									<point id="od1-clan6-stav30-tac5">
+										<num>5)</num>
+										<content>
+											<p> само материјал који је био непосредно тестиран може се пустити из карантина. Када је обављено индексирање окаца, пуштају се само новонастале кртоле тестираних окаца. Кртоле се не пуштају ако постоје потешкоће с несистемичном заразом.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od1-clan6-stav31">
+								<content>
+									<p>Технички услови за поступак индексирања на присуство Potato spindle tuber viroid-а су:</p>
+									<point id="od1-clan6-stav31-tac1">
+										<num>1)</num>
+										<content>
+											<p> биљке које су расле у стакленику се тестирају када се добро укорене, али пре цветања и стварања полена, а тестирање клица, биљака узгајаних in vitro и микро садница обавља се прелиминарно, а узорци се узимају од потпуно отвореног листића са врха сваке тест биљке;</p>
+										</content>
+									</point>
+									<point id="od1-clan6-stav31-tac2">
+										<num>2)</num>
+										<content>
+											<p> материјал намењен тестирању гаји се на температурама које нису ниже од 18 C (пожељно је да су више од 20 C) и при дневној светлости у трајању од најмање 16 сати;</p>
+										</content>
+									</point>
+									<point id="od1-clan6-stav31-tac3">
+										<num>3)</num>
+										<content>
+											<p> тестирање се спроводи радиоактивно или нерадиоактивно обележеним cDNA или RNA-сондама, повратним R-PAGE-ом (бојењем сребром) или RT-PCR-om;</p>
+										</content>
+									</point>
+									<point id="od1-clan6-stav31-tac4">
+										<num>4)</num>
+										<content>
+											<p> највиши степен спајања за сонде и повратни R-PAGE јесте 5. Коришћење тог или вишег степена спајања потребно је потврдити.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</section>
+				</content>
+			</section>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>БИЉЕ, БИЉНИ ПРОИЗВОДИ И ПРОПИСАНИ     ОБЈЕКТИ СА ЛИСТЕ IIA ДЕО I, ЛИСТЕ IIA ДЕО II, ЛИСТЕ IIБ,     ЛИСТЕ IVA ДЕО I, ЛИСТЕ IVA ДЕО II И ЛИСТИ IVБ</heading>
+				<content>
+					<clause id="gla2-clan6-stav1">
+						<content>
+							<p>Карантинске мере обухватају одговарајуће прегледе или тестирање на присуство релевантних штетних организама наведених у Листи IA део I, Листи IA део II, Листи IIA део I, Листи IIA део II, Листи IБ и Листе IIБ и спроводе се у складу с посебним фитосанитарним захтевима прописаним за одређене штетне организме у Листи IVA део I, Листи IVA део II и Листи IVБ .</p>
+						</content>
+					</clause>
+					<clause id="gla2-clan6-stav2">
+						<content>
+							<p>Када се утврђује испуњеност посебних фитосанитарних услова, као карантинске мере користе се методе које су прописане у Листи IVA део I, Листи IVA део II и Листи IVБ или друге мере.</p>
+						</content>
+					</clause>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

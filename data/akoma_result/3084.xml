@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2004/125-76/main"/>
+					<FRBRuri value="/rs/act/2004/125-76"/>
+					<FRBRdate date="2004" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/36-3/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/36-3/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/36-3/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/36-3/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2004-11-22" name="службени гласник рс" number="125" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Закон" value="закон"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="1. Привредна друштва, предузећа и предузетници" value="1. привредна друштва, предузећа и предузетници"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2004-11-15" id="usvajanje"/>
+				<step date="2004-11-30" id="stupanje_na_snagu"/>
+				<step date="2004-11-30" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="125/2004-76" id="e1" type="generation"/>
+				<eventRef date="36/2011-3" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Закон је престао да важи 1. фебруара 2012. године, даном почетка примене Закона о привредним друштвима (<ref id="ref3" href="/rs/act/2011/36/srp@">Службени гласник РС, број 36/2011</ref>), осим одредбе <ref>члана 456. </ref>која се примењује до окончања приватизације постојећих друштвених предузећа и привредних друштава која послују друштвеним или државним капиталом (види <ref>члан 597. </ref>Закона о привредним друштвима - 36/2011-3).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>о привредним  друштвима</p>
+		</preamble>
+		<preface>
+			<title>ЗАКОН</title>
+			<authority>„Службени гласник РС”, бр. 125 од 22.  новембра 2004,  36 од 27. маја 2011 - др. закон</authority>
+			<title>Закон  је   престао   да важи 1. фебруара 2012.   године, даном почетка примене Закона о привредним друштвима (&quot;<ref id="ref4" href="/rs/act/2011/36/srp@">Службени  гласник РС&quot;, број 36/2011</ref>),    осим одредбе <ref>члана 456. </ref>која се примењује до окончања приватизације   постојећих друштвених предузећа и привредних друштава која послују   друштвеним или државним капиталом (види чл. 597. и 600. Закона - 36/2011-3).</title>
+			<title>Чл. 1. до 455.</title>
+			<date>Престали су да важе   (види чл. 597. и 600. Закона - 36/2011-3)</date>
+		</preface>
+		<body>
+			<article id="clan456">
+				<num>456.</num>
+				<content>
+					<clause id="clan456-stav1">
+						<content>
+							<p>Даном ступања на снагу овог    закона, престаје да важи Закон о предузећима („<ref id="ref5" href="/rs/act/96/29/srp@">Службени лист СРЈ”, бр.    29/96, 33/96, 29/97, 59/98, 74/99, 9/01</ref> и 36/02), осим чл. 392 до 399. и    чл. 400а, 400б, 400в и 421а који остају на снази до истека рокова за    приватизацију утврђених законом којим се уређује приватизација.</p>
+						</content>
+					</clause>
+					<clause id="clan456-stav2">
+						<content>
+							<p>Чл. 457.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

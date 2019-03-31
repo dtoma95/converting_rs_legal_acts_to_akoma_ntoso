@@ -1,0 +1,388 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2012/121-51/main"/>
+					<FRBRuri value="/rs/act/2012/121-51"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2012/121-51/srp@/main"/>
+					<FRBRuri value="/rs/act/2012/121-51/srp@"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2012/121-51/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2012/121-51/srp@.akn"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2012-12-24" name="службени гласник рс" number="121" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="3. Семе и садни материјал" value="3. семе и садни материјал"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2012-12-19" id="usvajanje"/>
+				<step date="2013-01-01" id="stupanje_na_snagu"/>
+				<step date="2013-01-01" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 5. став 2. </ref>Закона о признавању сорти пољопривредног биља („<ref id="ref3" href="/rs/act/10/30/srp@">Службени гласник РС”, број 30/10</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, шумарства и водопривреде, доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о методама испитивања сорти коштичавих воћних врста, ради признавања сорти</title>
+			<date>&quot;Службени гласник РС&quot;, број 121 од 24. децембра 2012.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се методе испитивања сорти коштичавих воћних врста (у даљем тексту: сортa) на огледном пољу, ради признавања сортe.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Методама из става 1. овог члана испитују се одређене битне особине сорте, ради утврђивања:</p>
+							<point id="clan1-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> различитости, униформности и стабилности сорте (DUS тест);</p>
+								</content>
+							</point>
+							<point id="clan1-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> боље производне и употребне вредности сорте (VCU тест).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Производна и употребна вредност сорте утврђује се на основу резултата испитивања одређених битних особина сорте које се односе на:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> осматрање фенолошких фаза;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> отпорност према проузроковачима болести и штеточинaма;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> отпорност на ниске температурe;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> принос;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> морфолошкe особинe плода.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Сорта има бољу производну и употребну вредност ако у току испитивања одређених битних особина из става 1. овог члана покаже боље резултате у поређењу са тим особинама сорте стандард.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Ако подносилац захтева за признавање сорте (власник сорте, односно овлашћени заступник) то захтева, сортa може да се испитује посебно на повећану отпорност на одређену болест, односно штеточину или на отпорност на ниске температуре.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Ако се сорта испитује посебно на повећану отпорност на одређену болест, односно штеточину, такво испитивање врши се научно прихваћеном методом за ту врсту испитивања, са испитивањем осталих особина сорте из <ref>члана 3. став 1. овог</ref> правилника.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Отпорност из става 2. овог члана се испитује за болести коврџавост листа брескве (Taphrina deformans), монилозу коштичавих воћака (Monilinia laxa), вирус шарке шљиве (Plum pox virus), лисну пегавост (Cocomices hiemalis).</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>Ако се сорта испитује посебно на повећану отпорност на ниске температуре, такво испитивање врши се научно прихваћеном методом за ту врсту испитивања, са испитивањем осталих особина сорте из <ref>члана 3. став 1. овог</ref> правилника.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Сорта се испитује на огледном пољу у једном, a оптимално у два огледа. Оглед чини парцела на којој је, ради испитивања, под истим условима засађено пет садница сорте која се испитује и пет садница сорте стандард.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Ако се сорта испитује у два огледа, огледи се изводе на огледним пољима која се налазе на различитим локалитетима.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Сорта се испитује на огледном пољу у складу са захтевом за признавање сорте у коме власник сорте, односно његов овлашћени заступник предлаже да се сорта сади са сортом стандард ради испитивања.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Сорта се испитује на земљишту погодном за гајење коштичавих воћних врста и на коме најмање четири године није гајена сорта коштичавих воћних врста.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Саднице сорте која се испитује и саднице сорте стандард морају да буду квалитетне, исте старости и незаражене проузроковачима болести и штеточинама.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Припрема садног материјала врши се на истоветан начин за све саднице коштичавих воћних врста у огледу.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>Сађење се врши у оптималном року и под истим условима за све саднице коштичавих воћних врста у огледу (исто време садње, исто растојање између биљака и друго).</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>Све агротехничке мере и мере заштите садница коштичавих воћних врста у огледу врше се у исто време и на исти начин.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Све фенолошке фазе коштичавих воћних врста у огледу осматрају се (прате) код утврђивања различитости, униформности и стабилности сорте, осим фенолошке фазе цветања и зрења које се осматрају само код утврђивања производних и употребних особина сорте.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Код коштичавих воћних врста у огледу бележе се датуми почетка и краја фенолошких фаза цветања и зрења, као и карактеристике тока тих фаза.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Отпорност сорте према проузроковачима болести и штеточинама (пољска отпорност) испитује се на огледном пољу у условима стандардне заштите коштичавих воћних врста.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>У току вегетационог периода коштичавих воћних врста врши се осматрање интензитета напада болести и штеточина на биљке у огледу, а отпорност на болести и штеточине оцењује оценама од један (1) до девет (9), при чему:</p>
+							<point id="clan9-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> оцена 1 и 2 – значи да је отпорност јако добра;</p>
+								</content>
+							</point>
+							<point id="clan9-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> оцена 3 и 4 – значи да је отпорност добра;</p>
+								</content>
+							</point>
+							<point id="clan9-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> оцена 5 и 6 – значи да је отпорност средње добра;</p>
+								</content>
+							</point>
+							<point id="clan9-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> оцена 7 и 8 – значи да је отпорност слаба;</p>
+								</content>
+							</point>
+							<point id="clan9-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> оцена 9 – значи да је отпорност врло слаба.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Отпорност сорте на ниске температуре испитује се на огледном пољу тако што се посматра интензитет оштећења грана, ластара и родних пупољака.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>У току периода зимског мировања коштичавих воћних врста врши се осматрање интензитета оштећења делова биљке из става 1. овог члана у огледу од ниских температура, а степен оштећења оцењује оценама од један (1) до девет (9), при чему:</p>
+							<point id="clan10-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> оцена 1 и 2 – значи да нема оштећења;</p>
+								</content>
+							</point>
+							<point id="clan10-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> оцена 3 и 4 – значи да је оштећење слабо;</p>
+								</content>
+							</point>
+							<point id="clan10-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> оцена 5 и 6 – значи средње оштећење;</p>
+								</content>
+							</point>
+							<point id="clan10-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> оцена 7 и 8 – значи јако оштећење;</p>
+								</content>
+							</point>
+							<point id="clan10-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> оцена 9 – значи врло јако оштећење.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Морфолошке особине плода сорте у огледу испитују се у технолошкој зрелости плода (зрелост за употребу).</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Испитују се следеће морфолошке особине плода сорте:</p>
+							<point id="clan11-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> маса плода;</p>
+								</content>
+							</point>
+							<point id="clan11-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> величина, униформност, боја и уједначеност боје покожице плода.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan11-stav3">
+						<content>
+							<p>За утврђивање масе плода сорте мере се узорци од по 20 плодова. Узорци се узимају равномерно са свих делова крошње и са свих стабала у огледу. На основу ових резултата израчунава се просечна маса плода изражена у грамима и укупан принос који се изражава у килограмима по хектару.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Различитост, униформност и стабилност сорте испитује се методом одређеном техничким упутством за тестирање различитости, униформности и стабилности сорте.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav2">
+						<content>
+							<p>Број 110-00-00078/2012-09</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav3">
+						<content>
+							<p>У Београду, 19. децембра 2012. године</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav5">
+						<content>
+							<p>Горан Кнежевић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

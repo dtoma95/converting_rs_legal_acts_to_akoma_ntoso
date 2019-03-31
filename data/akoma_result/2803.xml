@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2003/65-1/main"/>
+					<FRBRuri value="/rs/act/2003/65-1"/>
+					<FRBRdate date="2003" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2003/65-1/srp@/main"/>
+					<FRBRuri value="/rs/act/2003/65-1/srp@"/>
+					<FRBRdate date="2003" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2003/65-1/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2003/65-1/srp@.akn"/>
+					<FRBRdate date="2003" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2003-6-27" name="службени гласник рс" number="65" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="VII РАДНИ ОДНОСИ И ЗАПОШЉАВАЊЕ" value="vii радни односи и запошљавање"/>
+				<keyword id="grupa" showAs="5. Штрајк" value="5. штрајк"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2003-06-26" id="usvajanje"/>
+				<step date="2003-06-28" id="stupanje_na_snagu"/>
+				<step date="2003-06-28" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 28. јуна 2003. године (види <ref>члан 3. </ref>Уредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 90. тачка 2</ref>) Устава Републике Србије и <ref>члана 10. став 2. </ref>Закона о штрајку („<ref id="ref4" href="/rs/act/96/29/srp@">Службени лист СРЈ”, број 29/96</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Влада Републике Србије доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о минимуму процеса рада факултета и универзитета чији је оснивач  Република Србија</title>
+			<date>&quot;Службени гласник РС&quot;, број 65 од 27. јуна 2003.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Минимум процеса рада факултета и универзитета чији је оснивач Република Србија, обухвата обављање послова којима се обезбеђује:</p>
+							<point id="clan1-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> одржавање консултативне наставе;</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> одржавање испита на основним, специјалистичким, магистарским и докторским студијама;</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> одржавање пријемног испита, односно испита за проверу склоности и способности;</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> обављање уписа студената у одговарајућу годину студија;</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> издавање јавних исправа.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Начин обезбеђивања минимума процеса рада из <ref>члана 1. </ref>ове уредбе, радна места и број извршилаца који су дужни да раде, као и друга питања, одредиће декан, односно ректор, у складу са законом. Акт из става 1. овог члана декан, односно ректор дужан је да донесе у року од пет дана од дана ступања на снагу ове уредбе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Ова уредба ступа на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>05 број 130-3874/2003 У Београду, 26. јуна 2003. године Влада Републике Србије Потпредседник, Јожеф Каса, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

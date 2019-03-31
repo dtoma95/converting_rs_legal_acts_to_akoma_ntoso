@@ -1,0 +1,2265 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2017/29-101/main"/>
+					<FRBRuri value="/rs/act/2017/29-101"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2017/46-41/srp@/main"/>
+					<FRBRuri value="/rs/act/2017/46-41/srp@"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2017/46-41/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2017/46-41/srp@.akn"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2017-3-24" name="службени гласник рс" number="29" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Пословник" value="пословник"/>
+				<keyword id="oblast" showAs="III ПРАВОСУЂЕ, КАЗНЕНО ЗАКОНОДАВСТВО И ПОСТУПЦИ" value="iii правосуђе, казнено законодавство и поступци"/>
+				<keyword id="grupa" showAs="2. Тужилаштво" value="2. тужилаштво"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2017-03-23" id="usvajanje"/>
+				<step date="2017-04-01" id="stupanje_na_snagu"/>
+				<step date="2017-04-01" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="29/2017-101" id="e1" type="generation"/>
+				<eventRef date="46/2017-41" id="e2" type="amendment"/>
+				<eventRef date="46/2017-41" id="e3" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p/>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу <ref>члана 18. став 1. </ref>Закона о Државном већу тужилаца („<ref id="ref3" href="/rs/act/08/116/srp@">Службени гласник РС”, бр. 116/08, 101/10, 88/11</ref> и 106/15),</p>
+			<p>Државно веће тужилаца доноси</p>
+		</preamble>
+		<preface>
+			<authority>ПОСЛОВНИК</authority>
+			<title>о раду Државног већа тужилаца</title>
+			<date>&quot;Службени гласник РС&quot;, број 29 од 24. марта      2017, 46 од 12. маја 2017, 46 од 12. маја 2017.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>Предмет Пословника</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Пословником о раду Државног већа тужилаца ближе се уређује начин рада и одлучивање Државног већа тужилаца.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<heading>Значење израза</heading>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Скраћени изрази употребљени у овом пословнику имају значење:</p>
+									<point id="gla1-clan2-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> Закон има значење Закона о Државном већу тужилаца,</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> Веће има значење Државног већа тужилаца,</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> Пословник има значење Пословника о раду Већа,</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> Председник има значење председника Већа,</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> Заменик председника има значење заменика председника Већа,</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> Члан Већа има значење члана Државног већа тужилаца,</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> Канцеларија има значење административне канцеларије,</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> Повереник има значење повереника за самосталност,</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> Секретар има значење државног службеника по положају који руководи радом канцеларије.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav2">
+								<content>
+									<p>Све именице употребљене у мушком граматичком роду обухватају мушки и женски род лица на која се односе. Генеричка употреба мушког граматичког рода у овом тексту не искључује родно осетљив језик у актима Већа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<heading>Начела поступања и одлучивања</heading>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Веће поступа и одлучује законито, самостално, непристрасно, јавно, уз поштовање личног и професионалног интегритета.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan4">
+						<num>4.</num>
+						<heading>Законитост</heading>
+						<content>
+							<clause id="gla1-clan4-stav1">
+								<content>
+									<p>Веће поступа и одлучује на основу Устава, закона и других општих аката када је то предвиђено законом, општеприхваћених правила међународног права и потврђених међународних уговора.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan5">
+						<num>5.</num>
+						<heading>Самосталност</heading>
+						<content>
+							<clause id="gla1-clan5-stav1">
+								<content>
+									<p>Веће је самостални орган који обезбеђује и гарантује самосталност јавних тужилаца и заменика јавних тужилаца.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan5-stav2">
+								<content>
+									<p>Сваки члан Већа самосталан је у поступању и одлучивању.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan5-stav3">
+								<content>
+									<p>У оквиру своје надлежности Веће остварује сарадњу и узима у обзир мишљења Високог савета судства, државних и других органа и организација, тужилачких савета других држава и међународних организација, а нарочито организација која се баве питањима правосуђа, владавине права и правосудних савета.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan6">
+						<num>6.</num>
+						<heading>Непристрасност</heading>
+						<content>
+							<clause id="gla1-clan6-stav1">
+								<content>
+									<p>Члан Већа дужан је да поступа и одлучује без личних предрасуда или наклоности.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan6-stav2">
+								<content>
+									<p>Члан Већа дужан је да се у вршењу функције понаша на начин којим се учвршћује поверење јавности и учесника у поступку у његову непристрасност и да се уздржи од понашања које би непристрасност могло да доведе у сумњу.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan6-stav3">
+								<content>
+									<p>Члан Већа дужан је да се изузме од поступања у предметима и поступцима у којима постоје разлози који доводе у сумњу његову непристрасност.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan7">
+						<num>7.</num>
+						<heading>Јавност рада</heading>
+						<content>
+							<clause id="gla1-clan7-stav1">
+								<content>
+									<p>Рад Већа је јаван.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan7-stav2">
+								<content>
+									<p>Јавност рада Већа заснива се на законској претпоставци о оправданом интересу јавности да зна, начелу једнакости и забрани дискриминације новинара и јавних гласила.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan7-stav3">
+								<content>
+									<p>Јавност рада Већа остварује се објављивањем општих аката на интернет презентацији Већа и у „Службеном гласнику Републике Србије”, омогућавањем новинарима и другим заинтересованим лицима да прате седнице Већа уколико нису затворене за јавност, давањем службених саопштења, а по потреби објављивањем евиденција, извештаја и одлука у средствима јавног обавештавања и на други начин.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan7-stav4">
+								<content>
+									<p>Односе са јавношћу Веће остварује преко портпарола и члана Већа одређеног за односе са јавношћу.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan8">
+						<num>8.</num>
+						<heading>Начело поштовања личног и професионалног интегритета</heading>
+						<content>
+							<clause id="gla1-clan8-stav1">
+								<content>
+									<p>Веће је дужно да приликом поступања и одлучивања поштује лични и професионални интегритет сваког лица, а посебно професионални интегритет носилаца јавнотужилачке функције у циљу заштите и очувања самосталности јавнотужилачке функције.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan8-stav2">
+								<content>
+									<p>Веће је дужно да предузима радње у циљу јачања институционалног интегритета јавнотужилачке организације и индивидуалног интегритета носилаца јавнотужилачке функције.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan9">
+						<num>9.</num>
+						<heading>Обавештавање јавности о политичком или другом недозвољеном утицају</heading>
+						<content>
+							<clause id="gla1-clan9-stav1">
+								<content>
+									<p>Веће једном годишње обавештава јавност о постојању политичког или другог недозвољеног утицаја на рад јавног тужилаштва.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan9-stav2">
+								<content>
+									<p>Поводом политичког или другог недозвољеног утицаја на рад јавног тужилаштва, Веће, по потреби, може и ванредно да се обрати јавности.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan9-stav3">
+								<content>
+									<p>О постојању политичког или другог недозвољеног утицаја на рад јавног тужилаштва Веће обавештава заменик председника, који у том случају поступа као повереник за самосталност.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan9-stav4">
+								<content>
+									<p>Начин поступања повереника и обавештавања уређује се посебном одлуком Већа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan10">
+						<num>10.</num>
+						<heading>Права и дужности члана Већа</heading>
+						<content>
+							<clause id="gla1-clan10-stav1">
+								<content>
+									<p>Члан Већа има следећа права:</p>
+									<alinea id="gla1-clan10-stav1-ali1">
+										<content>
+											<p>а учествује у раду и одлучивању Већа,</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan10-stav1-ali2">
+										<content>
+											<p>а учествује у расправи на седницама Већа и поставља питања о раду Већа,</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan10-stav1-ali3">
+										<content>
+											<p>а буде обавештен о свим питањима потребним за вршење функције,</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan10-stav1-ali4">
+										<content>
+											<p>а му буде благовремено достављен материјал за седницу,</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan10-stav1-ali5">
+										<content>
+											<p>а му се обезбеди увид у целокупне списе Већа,</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan10-stav1-ali6">
+										<content>
+											<p>а тражи обавештења од јавних тужилаштава, судова и других државних органа,</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan10-stav1-ali7">
+										<content>
+											<p>а учествује у раду повремених радних тела,</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan10-stav1-ali8">
+										<content>
+											<p>а указује Већу на повреду Пословника и да тражи да се о повреди Веће изјасни,</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan10-stav1-ali9">
+										<content>
+											<p>а непосредно контактира са носиоцима јавнотужилачке функције и обилази јавна тужилаштва у циљу остваривања надлежности Већа,</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan10-stav1-ali10">
+										<content>
+											<p>а користи просторије Већа за састанке у вези обављања функције,</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan10-stav1-ali11">
+										<content>
+											<p>а преко секретара издаје налоге канцеларији у оквиру послова који су му поверени,</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan10-stav1-ali12">
+										<content>
+											<p>а остварује друга права у складу са законом.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+							<clause id="gla1-clan10-stav2">
+								<content>
+									<p>Члан Већа има следеће дужности:</p>
+									<alinea id="gla1-clan10-stav2-ali1">
+										<content>
+											<p>а функцију обавља у складу са принципима Етичког кодекса чланова Државног већа тужилаца,</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan10-stav2-ali2">
+										<content>
+											<p>а функцију обавља савесно, у складу са начелима поступања и одлучивања,</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan10-stav2-ali3">
+										<content>
+											<p>а благовремено пријави одсуство са седнице,</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan10-stav2-ali4">
+										<content>
+											<p>а обавести Веће о постојању разлога који могу да доведу у сумњу његову непристрасност.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+							<clause id="gla1-clan10-stav3">
+								<content>
+									<p>Права и дужности члан Већа стиче ступањем на функцију.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan11">
+						<num>11.</num>
+						<heading>Обавештавање Већа о покренутом кривичном поступку или лишењу слободе</heading>
+						<content>
+							<clause id="gla1-clan11-stav1">
+								<content>
+									<p>Надлежни јавни тужилац је дужан да обавести Веће уколико је против носиоца јавнотужилачке функције или члана Већа покренут кривични поступак или је лишен слободе.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan11-stav2">
+								<content>
+									<p>Обавештавање Већа се врши у циљу обезбеђења и гарантовања самосталности јавних тужилаца и заменика јавних тужилаца и чланова Већа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan12">
+						<num>12.</num>
+						<heading>Годишњи извештај о раду</heading>
+						<content>
+							<clause id="gla1-clan12-stav1">
+								<content>
+									<p>Веће подноси Народној скупштини редовни годишњи извештај о раду у претходној години.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan12-stav2">
+								<content>
+									<p>Годишњи извештај садржи хронолошки приказ годишњих активности Већа и податке о редовном и ванредном јавном реаговању Већа на постојање политичког утицаја на рад јавног тужилаштва.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan12-stav3">
+								<content>
+									<p>Веће разматра и усваја годишњи извештај о раду најкасније до 1. марта текуће године.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan12-stav4">
+								<content>
+									<p>Годишњи извештај о раду доставља се Народној скупштини најкасније до 15. марта текуће године и објављује се на интернет презентацији Већа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan13">
+						<num>13.</num>
+						<heading>Годишњи план рада</heading>
+						<content>
+							<clause id="gla1-clan13-stav1">
+								<content>
+									<p>Веће припрема годишњи план рада.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan13-stav2">
+								<content>
+									<p>Годишњи план рада има програмски карактер и садржи: дефинисање постојећег стања у областима за које се подноси годишњи извештај; утврђивање краткорочних и средњорочних циљева у складу са дефинисаним дугорочним циљевима; утврђивање рокова и начина мерења остварљивости резултата; планирање краткорочних и средњорочних програмских активности са становишта утврђених циљева уз временско опредељење њиховог спровођења; оправдање појединачних спроведених активности са становишта утврђених циљева; мерење степена остварености циљева; планирање програма даљих активности, годишњи распоред послова.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan13-stav3">
+								<content>
+									<p>Веће припрема годишњи план за наредну годину најкасније до 25. децембра текуће године.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>Председник Већа</heading>
+				<content>
+					<article id="gla2-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla2-clan14-stav1">
+								<content>
+									<p>Председник представља Веће, руководи радом и врши друге послове у складу са Законом и овим пословником.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan14-stav2">
+								<content>
+									<p>Председник има следећа овлашћења:</p>
+									<alinea id="gla2-clan14-stav2-ali1">
+										<content>
+											<p>тара се да рад Већа буде у складу са законом и овим пословником,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan14-stav2-ali2">
+										<content>
+											<p>рганизује и усклађује рад Већа,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan14-stav2-ali3">
+										<content>
+											<p>азива седнице Већа и њима председава,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan14-stav2-ali4">
+										<content>
+											<p>отписује писмене отправке одлука и друге акте Већа,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan14-stav2-ali5">
+										<content>
+											<p>аставља предлог дневног реда и обавља друге радње ради припремања седнице Већа,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan14-stav2-ali6">
+										<content>
+											<p>редузима мере за несметано одвијање седнице,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan14-stav2-ali7">
+										<content>
+											<p>проводи одлуке поводом примене Пословника,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan14-stav2-ali8">
+										<content>
+											<p>тара се о правилном административном и финансијском пословању Већа и издаје упутства која се односе на пословање Већа,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan14-stav2-ali9">
+										<content>
+											<p>адзире вођење евиденција, списа и докумената Већа,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan14-stav2-ali10">
+										<content>
+											<p>редставља и заступа Веће пред домаћим и страним органима и организацијама и преноси поједина овлашћења за заступање,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan14-stav2-ali11">
+										<content>
+											<p>тара се о сарадњи Већа са Републичким јавним тужилаштвом, Високим саветом судства и другим органима и организацијама, тужилачким и правосудним саветима других држава и међународним организацијама,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan14-stav2-ali12">
+										<content>
+											<p>односи захтеве за обезбеђење средстава за рад Већа и потписује предлог буџета потребних средстава за рад Већа,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan14-stav2-ali13">
+										<content>
+											<p>оноси одлуку о удаљењу са функције члана Већа,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan14-stav2-ali14">
+										<content>
+											<p>оноси одлуку о отпочињању поступка предлагања кандидата за изборне чланове Већа,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan14-stav2-ali15">
+										<content>
+											<p>проводи одлуке Већа и врши друга поверена овлашћења у складу са законом и Пословником.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan15">
+						<num>15.</num>
+						<heading>Заменик председника Већа</heading>
+						<content>
+							<clause id="gla2-clan15-stav1">
+								<content>
+									<p>Заменика председника Веће бира из реда изборних чланова Већа носилаца јавнотужилачке функције.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan15-stav2">
+								<content>
+									<p>Заменик председника Већа обавља послове председника у случају његовог одсуства или спречености.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan15-stav3">
+								<content>
+									<p>Предлог за избор или разрешење заменика председника могу ставити три члана Већа.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan15-stav4">
+								<content>
+									<p>Заменик председника се бира на период до истека мандата члана Већа.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan15-stav5">
+								<content>
+									<p>Функција заменика председника престаје: на лични захтев, престанком функције члана Већа или разрешењем функције заменика председника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan16">
+						<num>16.</num>
+						<heading>Стална радна тела</heading>
+						<content>
+							<clause id="gla2-clan16-stav1">
+								<content>
+									<p>Стална радна тела Већа су: изборна комисија и дисциплински органи.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan16-stav2">
+								<content>
+									<p>Чланове сталних радних тела Веће бира на посебној седници.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan16-stav3">
+								<content>
+									<p>Приликом избора чланова сталних радних тела, Веће узима у обзир предлоге колегијума јавних тужилаштава и предлоге струковних и стручних удружења.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan17">
+						<num>17.</num>
+						<heading>Начин рада сталних радних тела</heading>
+						<content>
+							<clause id="gla2-clan17-stav1">
+								<content>
+									<p>Начин рада сталних радних тела прописује Веће општим правним актима.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan17-stav2">
+								<content>
+									<p>Стална радна тела одлучују на седницама.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan17-stav3">
+								<content>
+									<p>Седнице сталних радних тела се одржавају у седишту Већа, а по потреби могу да се одрже и ван седишта.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan18">
+						<num>18.</num>
+						<heading>Повремено радно тело</heading>
+						<content>
+							<clause id="gla2-clan18-stav1">
+								<content>
+									<p>Ради разматрања појединих питања из своје надлежности и давања предлога, мишљења и стручних образложења, односно предузимања одређених радњи, Веће образује повремено радно тело.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan18-stav2">
+								<content>
+									<p>Повремено радно тело чини најмање три члана.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan18-stav3">
+								<content>
+									<p>У одлуци о образовању повременог радног тела Веће одређује надлежност и чланове, а по потреби и рок у коме повремено радно тело поступа. Веће може именовати и заменике чланова, за случај спречености.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan18-stav4">
+								<content>
+									<p>Чланови повременог радног тела могу бити чланови Већа, носиоци јавнотужилачке функције и друга стручна лица. Најмање један члан радног тела мора бити члан Већа.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan18-stav5">
+								<content>
+									<p>Председника повременог радног тела, који је уједно и известилац о раду радног тела, бирају чланови радног тела на првом састанку.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan18-stav6">
+								<content>
+									<p>Повремено радно тело одлуке доноси по правилу сагласношћу свих чланова, а уколико то није могуће, одлуке се доносе већином гласова чланова тела.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan18-stav7">
+								<content>
+									<p>Седницама повременог радног тела може да присуствује било који члан Већа, као и друга стручна лица на позив члана радног тела. Присутна стручна лица могу да учествују у раду, уколико повремено радно тело то одобри.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan18-stav8">
+								<content>
+									<p>Повремено радно тело престаје са радом усвајањем предлога или извештаја у ком је изнето мишљење или стручно образложење на седници Већа, истеком рока или предузимањем одређене радње. Рад повременог радног тела може да престане и одлуком Већа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan19">
+						<num>19.</num>
+						<heading>Етички одбор</heading>
+						<content>
+							<clause id="gla2-clan19-stav1">
+								<content>
+									<p>Веће одлуком образује Етички одбор, као повремено радно тело, ради старања о поштовању Етичког кодекса јавних тужилаца и заменика јавних тужилаца Републике Србије.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan19-stav2">
+								<content>
+									<p>Етички одбор је овлашћен да:</p>
+									<alinea id="gla2-clan19-stav2-ali1">
+										<content>
+											<p>е стара о успостављању и развоју стандарда професионалне етике носилаца јавнотужилачке функције у циљу доприноса јачања владавине права и поверења јавности у вршење јавнотужилачке функције,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan19-stav2-ali2">
+										<content>
+											<p>редузима радње на јачању свести о садржини и значају стандарда професионалне етике,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan19-stav2-ali3">
+										<content>
+											<p>казује на поступке којима се угрожавају стандарди професионалне етике,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan19-stav2-ali4">
+										<content>
+											<p>редлаже превентивне мере у циљу јачања професионалне етике,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan19-stav2-ali5">
+										<content>
+											<p>арађује са повереником и дисциплинским органима, као и другим органима и организацијама које се баве питањима професионалне етике,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan19-stav2-ali6">
+										<content>
+											<p>а захтев Већа или носиоца јавнотужилачке функције даје мишљење и препоруке,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan19-stav2-ali7">
+										<content>
+											<p>ачињава извештај о поступању.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+							<clause id="gla2-clan19-stav3">
+								<content>
+									<p>Етички одбор има пет чланова од којих је један изборни члан Већа, три носиоци јавнотужилачке функције, а један личност која се јавно афирмисала у одбрани етичких вредности.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan19-stav4">
+								<content>
+									<p>Чланове Етичког одбора бира Веће на период од три године и могу бити поново бирани.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan19-stav5">
+								<content>
+									<p>Чланови Етичког одбора могу бити разрешени одлуком Већа пре истека мандата или на лични захтев.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan19-stav6">
+								<content>
+									<p>Начин рада Етичког одбора Веће уређује посебним актом.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan19-stav7">
+								<content>
+									<p>Етички одбор подноси Већу годишњи извештај о раду.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan20">
+						<num>20.</num>
+						<heading>Радна група за праћење правосудних закона</heading>
+						<content>
+							<clause id="gla2-clan20-stav1">
+								<content>
+									<p>Веће одлуком образује радну групу за праћење правосудних закона, као повремено радно тело, ради стручне помоћи Већу у поступку: давања мишљења о изменама постојећих или доношењу нових закона који уређују положај и поступање јавних тужилаца и заменика јавних тужилаца, организацију јавног тужилаштва, као и других закона која јавна тужилаштва примењују; праћења примене правосудних закона који су на снази, као и анализе нацрта правосудних закона ради давања мишљења и предлога.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan20-stav2">
+								<content>
+									<p>Радна група има три члана од којих је један изборни члан Већа, један носилац правосудне функције који се истакао у научном и теоријском раду, а један професор правног факултета.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan20-stav3">
+								<content>
+									<p>Чланове радне групе бира Веће на период од три године и могу бити поново бирани, изузев изборног члана Већа коме мандат траје до истека мандата члана Већа.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan20-stav4">
+								<content>
+									<p>Чланови радне групе могу бити разрешени одлуком Већа пре истека мандата или на лични захтев.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan20-stav5">
+								<content>
+									<p>Радна група за праћење правосудних закона подноси Већу годишњи извештај о раду.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan21">
+						<num>21.</num>
+						<heading>Радна група за програме обуке</heading>
+						<content>
+							<clause id="gla2-clan21-stav1">
+								<content>
+									<p>Веће одлуком образује радну групу за програм обуке, као повремено радно тело, ради стручне помоћи Већу у поступку: утврђивања програма почетне обуке; давања сагласности на програме сталне обуке за јавне тужиоце и заменике јавних тужилаца и програме обуке тужилачког особља; утврђивања посебног програма обуке тужилачких помоћника и приправника; давања сагласности на именовање сталних предавача из реда носилаца јавнотужилачке функције; одређивања броја корисника почетне обуке; доношења одлуке о обавезној сталној обуци у случају избора за јавно тужилаштво вишег степена, промене специјализације, битних промена прописа, увођења нових техника рада или отклањања недостатака у раду уочених приликом вредновања рада.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan21-stav2">
+								<content>
+									<p>Радна група има три члана од којих је један изборни члан Већа, а два су носиоци јавнотужилачке функције.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan21-stav3">
+								<content>
+									<p>Чланове радне групе бира Веће на период од три године и могу бити поново бирани, изузев изборног члана Већа коме мандат траје до истека мандата члана Већа.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan21-stav4">
+								<content>
+									<p>Чланови радне групе могу бити разрешени одлуком Већа пре истека мандата или на лични захтев.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan21-stav5">
+								<content>
+									<p>Радна група за програм обуке подноси Већу годишњи извештај о раду.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan22">
+						<num>22.</num>
+						<heading>Административна канцеларија</heading>
+						<content>
+							<clause id="gla2-clan22-stav1">
+								<content>
+									<p>Унутрашње уређење канцеларије и систематизација радних места уређује се општим актом који доноси Веће на предлог секретара.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan23">
+						<num>23.</num>
+						<heading>Унутрашње јединице канцеларије</heading>
+						<content>
+							<clause id="gla2-clan23-stav1">
+								<content>
+									<p>Ради обављања правних, економских и других стручних послова у оквиру канцеларије организују се унутрашње јединице.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan23-stav2">
+								<content>
+									<p>Делокруг послова и однос унутрашњих јединица прописује Веће општим актом.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan23-stav3">
+								<content>
+									<p>Изборни члан Већа носилац јавнотужилачке функције, одлуком Већа о годишњем распореду послова, задужује се да прати рад једне или више унутрашњих јединица канцеларије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan24">
+						<num>24.</num>
+						<heading>Секретар Већа</heading>
+						<content>
+							<clause id="gla2-clan24-stav1">
+								<content>
+									<p>Секретар у оквиру руковођења канцеларијом има следеће дужности:</p>
+									<alinea id="gla2-clan24-stav1-ali1">
+										<content>
+											<p>омаже председнику и заменику председника у организовању, припремању и вођењу седнице Већа,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan24-stav1-ali2">
+										<content>
+											<p>тара се о изради и достављању материјала потребног за рад и одлучивање Већа, сталних и повремених радних тела Већа,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan24-stav1-ali3">
+										<content>
+											<p>тара се о примени закона и Пословника у оквиру својих овлашћења,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan24-stav1-ali4">
+										<content>
+											<p>рипрема нацрт годишњег извештаја,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan24-stav1-ali5">
+										<content>
+											<p>рипрема предлог правилника којим се регулише унутрашње уређење канцеларије и систематизација радних места у канцеларији,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan24-stav1-ali6">
+										<content>
+											<p>тара се о обезбеђењу и унапређењу услова за рад Већа,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan24-stav1-ali7">
+										<content>
+											<p>редлаже нацрт одлуке о врсти и начину вођења уписника,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan24-stav1-ali8">
+										<content>
+											<p>тара се о пружању административне и стручне подршке сталним и повременим радним телима,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan24-stav1-ali9">
+										<content>
+											<p>тара се о извршавању одлука Већа, сталних и повремених радних тела,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan24-stav1-ali10">
+										<content>
+											<p>бавља и друге послове у складу са законом и актима Већа, као и послове по овлашћењу чланова Већа.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+							<clause id="gla2-clan24-stav2">
+								<content>
+									<p>Председник може да овласти секретара да потписује одређена писмена Већа.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan24-stav3">
+								<content>
+									<p>Секретар Већа је државни службеник по положају кога на пет година одлуком поставља Веће.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan24-stav4">
+								<content>
+									<p>Секретар може бити поново постављен без интерног или јавног конкурса.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>Седница Већа</heading>
+				<content>
+					<article id="gla3-clan25">
+						<num>25.</num>
+						<content>
+							<clause id="gla3-clan25-stav1">
+								<content>
+									<p>Веће разматра питања и доноси одлуке на седницама.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan25-stav2">
+								<content>
+									<p>Седница Већа може бити редовна и ванредна.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan25-stav3">
+								<content>
+									<p>Веће одлуке доноси гласањем.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan25-stav4">
+								<content>
+									<p>У раду седнице, по одобрењу      председника, учествује секретар и друга лица запослена у      Административној канцеларији.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan25-stav5">
+								<content>
+									<p>На предлог члана, по одобрењу председника, седници могу присуствовати и друга лица, а ради разматрања појединих тачака дневног реда.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan25-stav6">
+								<content>
+									<p>Носилац јавнотужилачке функције и друго лице о чијем статусу, праву или обавези се одлучује на седници има право да се непосредно обрати Већу.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan25-stav7">
+								<content>
+									<p>*<ref id="ref4" href="/rs/act/2017/46/srp@">Службени гласник РС, број 46/2017</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan26">
+						<num>26.</num>
+						<heading>Јавност седнице</heading>
+						<content>
+							<clause id="gla3-clan26-stav1">
+								<content>
+									<p>Седнице Већа су јавне.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan26-stav2">
+								<content>
+									<p>Седници могу да присуствују заинтересована лица и представници средстава јавног информисања до броја расположивих места у просторији Већа, а према редоследу пријављивања канцеларији.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan26-stav3">
+								<content>
+									<p>Веће може да одлучи да ради у седници затвореној за јавност, у целини или у делу, ако то налажу интереси јавног реда, заштите тајности података, националне безбедности, морала и интереси малолетника, као и приватности носиоца јавнотужилачке функције или лица о чијем статусу, праву или обавези се одлучује, уколико то лице захтева да седница буде затворена за јавност.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan26-stav4">
+								<content>
+									<p>Веће одлучује у седници затвореној за јавност приликом одлучивања о правним лековима у дисциплинском поступку и утврђивања разлога за разрешење јавног тужиоца и заменика јавног тужиоца.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan27">
+						<num>27.</num>
+						<heading>Редовна седница</heading>
+						<content>
+							<clause id="gla3-clan27-stav1">
+								<content>
+									<p>Редовна седница Већа одржава се сваке последње среде у месецу. Уколико је последња среда у месецу нерадни дан, седница се одржава први наредни радни дан.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan27-stav2">
+								<content>
+									<p>Чланови Већа се обавештавају позивом о редном броју седнице, времену и месту одржавања седнице.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan27-stav3">
+								<content>
+									<p>Уз позив за седницу члановима Већа се доставља предлог дневног реда, записник са претходне седнице и материјал за седницу.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan27-stav4">
+								<content>
+									<p>Позив за редовну седницу са свим прилозима доставља се члановима Већа најкасније пет дана пре дана за који је редовна седница заказана.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan27-stav5">
+								<content>
+									<p>О припреми и достављању материјала за седницу стара се канцеларија.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan28">
+						<num>28.</num>
+						<heading>Ванредна седница</heading>
+						<content>
+							<clause id="gla3-clan28-stav1">
+								<content>
+									<p>Председник заказује ванредну седницу по потреби или на предлог најмање три члана Већа.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan28-stav2">
+								<content>
+									<p>Председник је дужан да закаже ванредну седницу на предлог најмање три члана Већа у року од осам дана од дана пријема захтева.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan28-stav3">
+								<content>
+									<p>Ванредна седница на захтев три члана Већа одржаће се најкасније у року од петнаест дана од дана заказивања.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan28-stav4">
+								<content>
+									<p>Предлог чланова Већа за заказивање ванредне седнице садржи предлог дневног реда и дана у ком седница треба да буде одржана, а имајући у виду рокове из ст. 2. и 3. овог члана.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan29">
+						<num>29.</num>
+						<heading>Ванредна седница телефонским и електронским путем</heading>
+						<content>
+							<clause id="gla3-clan29-stav1">
+								<content>
+									<p>Председник може одржати ванредну седницу телефонским путем.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan29-stav2">
+								<content>
+									<p>Ванредна седница телефонским путем одржава се из разлога хитности када одлука која је на дневном реду не изискује расправу и увид у материјал.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan29-stav3">
+								<content>
+									<p>Ванредна седница телефонским путем одржава се тако што председник усмено путем телефона саопштава члановима Већа разлоге одржавања ванредне седнице и предложени дневни ред.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan29-stav4">
+								<content>
+									<p>Ванредна телефонска седница започиње позивањем првог члана Већа, а окончава се позивањем последњег члана Већа и може трајати најдуже пет сати.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan29-stav5">
+								<content>
+									<p>Уколико се неко од чланова Већа није јавио или није доступан, тај податак се уноси у записник.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan29-stav6">
+								<content>
+									<p>Ванредна телефонска седница не сматра се одржаном ако се на телефонски позив јавило мање од шест чланова Већа. У том случају сачињава се посебан записник о позивању.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan29-stav7">
+								<content>
+									<p>Ванредну телефонску седницу могуће је одржати и путем електронске поште. У том случају члановима Већа се оставља рок од пет сати да одговоре.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan29-stav8">
+								<content>
+									<p>Одмах након одржане седнице саставља се записник који се шаље електронском поштом члановима Већа.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan29-stav9">
+								<content>
+									<p>Председник може овластити члана Већа да одржи ванредну седницу телефонским путем.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan30">
+						<num>30.</num>
+						<heading>Дневни ред седнице</heading>
+						<content>
+							<clause id="gla3-clan30-stav1">
+								<content>
+									<p>Председник предлаже дневни ред редовне седнице, ванредне седнице коју је заказао и ванредне седнице телефонским путем.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan30-stav2">
+								<content>
+									<p>Члан Већа је овлашћен да предложи допуну дневног реда. Члан Већа има право понављања истог предлога тачке дневног реда, али не на истој седници.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan30-stav3">
+								<content>
+									<p>Предлог се сматра усвојеним уколико за њега гласа шест чланова Већа.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan30-stav4">
+								<content>
+									<p>Члан Већа чији је предлог тачке дневног реда усвојен, по правилу, је известилац по тој тачки дневног реда.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan30-stav5">
+								<content>
+									<p>Предлог тачке дневног реда увек може бити повучен.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan31">
+						<num>31.</num>
+						<heading>Председавање и отварање седнице</heading>
+						<content>
+							<clause id="gla3-clan31-stav1">
+								<content>
+									<p>Седницом председава председник, а у случају његове спречености заменик председника.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan31-stav2">
+								<content>
+									<p>Председник отвара седницу Већа и утврђује да ли постоји потребна већина за рад Већа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan32">
+						<num>32.</num>
+						<heading>Расправа</heading>
+						<content>
+							<clause id="gla3-clan32-stav1">
+								<content>
+									<p>Након усвајања дневног реда, председник отвара расправу по свакој тачки дневног реда појединачно.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan32-stav2">
+								<content>
+									<p>Чланови Већа имају право да учествују у расправи.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan32-stav3">
+								<content>
+									<p>У расправи имају право да учествују и друга лица у смислу <ref>члана 26. став 5. овог</ref> пословника.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan32-stav4">
+								<content>
+									<p>Председник даје реч према редоследу пријављивања.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan32-stav5">
+								<content>
+									<p>Расправа почиње излагањем известиоца.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan32-stav6">
+								<content>
+									<p>Известилац је дужан да објективно и непристрасно износи правно и чињенично стање и да предложи Већу одлуку о тачки дневног реда.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan32-stav7">
+								<content>
+									<p>Расправа се сматра окончаном када се више нико не јавља за реч.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan32-stav8">
+								<content>
+									<p>По окончаној расправи, председник ставља на гласање предлог известиоца, а може и сам да предложи доношење одлуке по тој тачки. Уколико неко од чланова Већа стави предлог другачији од предлога известиоца, председник и тај предлог ставља на гласање.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan33">
+						<num>33.</num>
+						<heading>Одлучивање</heading>
+						<content>
+							<clause id="gla3-clan33-stav1">
+								<content>
+									<p>Веће одлучује гласањем. Гласање је јавно, осим ако Веће не одлучи да се о предлогу гласа тајно.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan33-stav2">
+								<content>
+									<p>Предлог да се гласа тајно може да изнесе сваки члан Већа. Уколико је гласање тајно, Веће одређује начин на који ће се гласање обавити.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan33-stav3">
+								<content>
+									<p>Гласање о сваком предлогу врши се дизањем руке за предлог или против предлога.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan33-stav4">
+								<content>
+									<p>Након обављеног гласања, председник закључује гласање и саопштава резултат гласања.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan33-stav5">
+								<content>
+									<p>Одлука је донета ако је за предлог гласало најмање шест чланова Већа.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan33-stav6">
+								<content>
+									<p>Члан Већа има право да издвоји мишљење које може да изнесе усмено или достави у писаној форми, најкасније десет дана од дана одржавања седнице на којој се гласало о предлогу. Издвојено мишљење изнето у писаној форми саставни је део записника.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan33-stav7">
+								<content>
+									<p>Када Веће доноси одлуке против којих је дозвољено вођење управног спора, сачињава се посебан записник о већању и гласању у складу са одредбама закона којим се уређује општи управни поступак.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan34">
+						<num>34.</num>
+						<heading>Закључивање седнице</heading>
+						<content>
+							<clause id="gla3-clan34-stav1">
+								<content>
+									<p>Након окончања расправе и одлучивања по свим тачкама дневног реда и уколико се нико више не јавља за реч, председник закључује седницу.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan35">
+						<num>35.</num>
+						<heading>Одржавање реда на седници</heading>
+						<content>
+							<clause id="gla3-clan35-stav1">
+								<content>
+									<p>Председник се стара о одржавању реда на седници. Председник опомиње члана Већа или друго присутно лице које омета рад Већа на седници.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan35-stav2">
+								<content>
+									<p>Ако опоменуто лице настави да омета рад Већа на седници, на предлог председника или члана Већа, Веће доноси одлуку о његовом удаљењу са седнице.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan35-stav3">
+								<content>
+									<p>Лице у односу на које је донета одлука о удаљењу обавезно је да одмах по доношењу одлуке напусти просторију у којој се седница Већа одржава.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan35-stav4">
+								<content>
+									<p>Мера удаљења односи се само на седницу Већа на којој је изречена.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan36">
+						<num>36.</num>
+						<heading>Повреда Пословника</heading>
+						<content>
+							<clause id="gla3-clan36-stav1">
+								<content>
+									<p>Сваки члан Већа има право и обавезу да указује на повреду Пословника.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan36-stav2">
+								<content>
+									<p>Сваки члан Већа има право да захтева да се Веће изјасни о повреди Пословника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan37">
+						<num>37.</num>
+						<heading>Одлагање, прекид седнице и пауза</heading>
+						<content>
+							<clause id="gla3-clan37-stav1">
+								<content>
+									<p>Седница се одлаже уколико седници не присуствује потребан број чланова Већа или остала позвана лица чије је присуство неопходно или ако није испуњен неки други услов за њено одржавање.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan37-stav2">
+								<content>
+									<p>Седница се прекида ако се не може одржати ред на седници или ако у току седнице престане да постоји неки услов неопходан за њено одржавање.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan37-stav3">
+								<content>
+									<p>Седницу одлаже и прекида председник.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan37-stav4">
+								<content>
+									<p>Седница Већа може бити прекинута и одлуком Већа.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan37-stav5">
+								<content>
+									<p>Током седнице председник може да одреди паузу, самостално или на предлог члана Већа, а ради одмора или консултација о поједином питању.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan38">
+						<num>38.</num>
+						<heading>Тонски запис седнице</heading>
+						<content>
+							<clause id="gla3-clan38-stav1">
+								<content>
+									<p>Веће може одлучити да се седница Већа тонски снима.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan38-stav2">
+								<content>
+									<p>Тонски снимци чувају се у електронској форми.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan38-stav3">
+								<content>
+									<p>Секретар доставља канцеларији тонски запис ради правилне израде записника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan39">
+						<num>39.</num>
+						<heading>Записник са седнице</heading>
+						<content>
+							<clause id="gla3-clan39-stav1">
+								<content>
+									<p>На седници Већа води се записник који садржи:</p>
+									<alinea id="gla3-clan39-stav1-ali1">
+										<content>
+											<p>едни број седнице,</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan39-stav1-ali2">
+										<content>
+											<p>есто, датум и време одржавања седнице,</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan39-stav1-ali3">
+										<content>
+											<p>рој присутних чланова Већа, њихова имена, као и имена и функције других присутних лица,</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan39-stav1-ali4">
+										<content>
+											<p>мена одсутних чланова Већа, као и податак да ли је изостанак оправдан,</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan39-stav1-ali5">
+										<content>
+											<p>онстатацију да ли је присутан број чланова Већа потребан за одлучивање,</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan39-stav1-ali6">
+										<content>
+											<p>одатак о томе да ли је седница затворена за јавност,</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan39-stav1-ali7">
+										<content>
+											<p>невни ред седнице,</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan39-stav1-ali8">
+										<content>
+											<p>адржину расправе по свакој тачки дневног реда,</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan39-stav1-ali9">
+										<content>
+											<p>одатке о предузетим мерама поводом одржавања реда на седници и о лицима којима су мере изречене,</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan39-stav1-ali10">
+										<content>
+											<p>ачин и резултат гласања по свим тачкама дневног реда поводом којих се доноси одлука Већа,</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan39-stav1-ali11">
+										<content>
+											<p>зузета и издвојена мишљења чланова Већа поводом одлука по појединим тачкама дневног реда,</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan39-stav1-ali12">
+										<content>
+											<p>одатке о прекиду седнице и паузи,</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan39-stav1-ali13">
+										<content>
+											<p>одатке о времену завршетка седнице и</p>
+										</content>
+									</alinea>
+									<alinea id="gla3-clan39-stav1-ali14">
+										<content>
+											<p>руге податке са седнице за које се оцени да су од значаја.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+							<clause id="gla3-clan39-stav2">
+								<content>
+									<p>Записничар је лице запослено у канцеларији које одреди секретар.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan39-stav3">
+								<content>
+									<p>По завршетку седнице записник се доставља свим члановима Већа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan40">
+						<num>40.</num>
+						<heading>Усвајање записника</heading>
+						<content>
+							<clause id="gla3-clan40-stav1">
+								<content>
+									<p>Записник са претходне седнице усваја се, по правилу, до завршетка наредне седнице Већа.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan40-stav2">
+								<content>
+									<p>Члан Већа има право да стави примедбе на записник, писмено пре седнице или усмено на седници на којој се усваја записник.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan40-stav3">
+								<content>
+									<p>Председник констатује да је записник усвојен без примедби, са прихваћеним изменама или да није усвојен.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan40-stav4">
+								<content>
+									<p>Усвојени записник потписују председник и државни службеник из канцеларије који је водио записник.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan40-stav5">
+								<content>
+									<p>За чување записника одговоран је секретар.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan40-stav6">
+								<content>
+									<p>Записник се чува трајно.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan41">
+						<num>41.</num>
+						<heading>Акти Већа</heading>
+						<content>
+							<clause id="gla3-clan41-stav1">
+								<content>
+									<p>Веће доноси Пословник, правилнике, решења, закључке и друге акте.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan41-stav2">
+								<content>
+									<p>Нацрте аката припрема канцеларија.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan41-stav3">
+								<content>
+									<p>Одлуке Већа против којих је дозвољен правни лек морају бити образложене.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan41-stav4">
+								<content>
+									<p>Акте Већа потписује председник, а у његовом одсуству то чини заменик председника.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan41-stav5">
+								<content>
+									<p>У поступку за доношење аката Већа сходно се примењују одредбе закона којим се уређује општи управни поступак.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan41-stav6">
+								<content>
+									<p>Одлуке и општи акти Већа објављују се у „Службеном гласнику Републике Србије” и на интернет презентацији Већа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan42">
+						<num>42.</num>
+						<heading>Поступање у вези са тајним подацима</heading>
+						<content>
+							<clause id="gla3-clan42-stav1">
+								<content>
+									<p>Информације о раду Већа доступне су јавности.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan42-stav2">
+								<content>
+									<p>Веће је у обавези да тајне податке одређује и штити на начин како је то прописано законом којим се уређује тајност података.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan43">
+						<num>43.</num>
+						<heading>Изузеће</heading>
+						<content>
+							<clause id="gla3-clan43-stav1">
+								<content>
+									<p>Председник и члан Већа морају се сами изузети из расправе и одлучивања која се тичу њих самих, крвних сродника у правој линији до било кога степена сродства, крвних сродника у побочној линији до четвртог степена, сродника по тазбини до другог степена, брачног друга – чак и онда када је брак престао, ванбрачног партнера, духовног сродства (кумство), стараоца, хранитеља, усвојиоца и усвојеника, као и када постоје друге околности које изазивају сумњу у његову непристрасност.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan43-stav2">
+								<content>
+									<p>Председник и члан Већа не морају да се изузму из расправе и одлучивања по питањима која се тичу њих самих уколико се разматрање и одлучивање односи на распоред послова у оквиру Већа, годишњи распоред послова и чланство у повременим радним телима.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan43-stav3">
+								<content>
+									<p>Седници Већа не присуствује члан Већа који је учествовао у поступку који је претходио одлучивању Већа о истом питању.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan43-stav4">
+								<content>
+									<p>Чланови Већа су дужни да обавесте председника о могућем сукобу интереса који може настати у току њиховог рада.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan43-stav5">
+								<content>
+									<p>Сваки члан Већа има право да затражи изузеће другог члана Већа, а дужан је да предлог образложи.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan43-stav6">
+								<content>
+									<p>Лице о коме се одлучује има право да Веће обавести о постојању разлога за изузеће члана Већа и да затражи изузеће члана Већа.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan43-stav7">
+								<content>
+									<p>Члан Већа о чијем се изузећу одлучује може учествовати у расправи, али не и у гласању.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan43-stav8">
+								<content>
+									<p>Члан Већа који је изузет не може учествовати у поступку или расправи која се односи на питање због којег је изузет.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan43-stav9">
+								<content>
+									<p>Веће доноси закључак о изузећу.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>Појам поступка избора</heading>
+				<content>
+					<article id="gla4-clan44">
+						<num>44.</num>
+						<content>
+							<clause id="gla4-clan44-stav1">
+								<content>
+									<p>Поступак избора подразумева:</p>
+									<alinea id="gla4-clan44-stav1-ali1">
+										<content>
+											<p>оступак предлагања кандидата за први избор заменика јавног тужиоца,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan44-stav1-ali2">
+										<content>
+											<p>оступак избора заменика јавног тужиоца,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan44-stav1-ali3">
+										<content>
+											<p>оступак предлагања кандидата за избор Републичког јавног тужиоца и јавног тужиоца,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan44-stav1-ali4">
+										<content>
+											<p>оступак избора на сталну функцију заменика јавног тужиоца који је први пут изабран.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan45">
+						<num>45.</num>
+						<heading>Поступак избора</heading>
+						<content>
+							<clause id="gla4-clan45-stav1">
+								<content>
+									<p>Поступак избора обухвата:</p>
+									<alinea id="gla4-clan45-stav1-ali1">
+										<content>
+											<p>глашавање избора,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan45-stav1-ali2">
+										<content>
+											<p>орму и садржину огласа,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan45-stav1-ali3">
+										<content>
+											<p>адржину пријаве на оглас,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan45-stav1-ali4">
+										<content>
+											<p>роверу уредности пријава,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan45-stav1-ali5">
+										<content>
+											<p>тврђивање стручности, оспособљености и достојности,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan45-stav1-ali6">
+										<content>
+											<p>бављање разговора са кандидатима,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan45-stav1-ali7">
+										<content>
+											<p>астављање ранг листе,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan45-stav1-ali8">
+										<content>
+											<p>риговор на ранг листу,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan45-stav1-ali9">
+										<content>
+											<p>длучивање Већа по приговору на ранг листу,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan45-stav1-ali10">
+										<content>
+											<p>орму и садржину одлуке о предлогу кандидата за заменика јавног тужиоца који се први пут бира,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan45-stav1-ali11">
+										<content>
+											<p>орму и садржину одлуке о избору заменика јавног тужиоца,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan45-stav1-ali12">
+										<content>
+											<p>орму и садржину одлуке о предлогу кандидата за избор Републичког јавног тужиоца и јавног тужиоца,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan45-stav1-ali13">
+										<content>
+											<p>осебна правила о избору на сталну функцију заменика јавног тужиоца који је први пут изабран,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan45-stav1-ali14">
+										<content>
+											<p>орму и садржину одлуке о избору на сталну функцију заменика јавног тужиоца који је први пут изабран,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan45-stav1-ali15">
+										<content>
+											<p>остављање одлуке о избору.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan46">
+						<num>46.</num>
+						<heading>Јавност у поступку избора</heading>
+						<content>
+							<clause id="gla4-clan46-stav1">
+								<content>
+									<p>На интернет презентацији Већа објављује се: оглас поводом расписаног конкурса; податак о дану, часу и месту одржавања писаног испита и разговора, резултат са писаног испита под шифром, ранг листа, коначна ранг листа, предлог за избор и одлука о избору.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan47">
+						<num>47.</num>
+						<heading>Права особа са инвалидитетом</heading>
+						<content>
+							<clause id="gla4-clan47-stav1">
+								<content>
+									<p>Кандидату који има утврђен статус особе са инвалидитетом, Веће одлуком одобрава додатна помагала уколико је коришћење таквих помагала потребно да би се кандидату омогућило равноправно учешће на конкурсу.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan47-stav2">
+								<content>
+									<p>Захтев за коришћење додатних помагала, са приложеном документацијом којом се потврђује инвалидитет, доставља се уз пријаву на оглас.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan48">
+						<num>48.</num>
+						<heading>Оглашавање избора</heading>
+						<content>
+							<clause id="gla4-clan48-stav1">
+								<content>
+									<p>Веће доноси одлуку о оглашавању избора најкасније шест месеци пре истека функције јавног тужиоца, а три месеца од дана када је место заменика јавног тужиоца постало слободно или упражњено.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan48-stav2">
+								<content>
+									<p>Оглас се објављује у „Службеном гласнику Републике Србије” и другом средству јавног обавештавања које покрива територију целе Републике Србије, као и на интернет презентацији Већа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan49">
+						<num>49.</num>
+						<heading>Форма и садржина огласа</heading>
+						<content>
+							<clause id="gla4-clan49-stav1">
+								<content>
+									<p>Оглас се објављује у форми коју је утврдило Веће.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan49-stav2">
+								<content>
+									<p>Оглас који се објављује у „Службеном гласнику Републике Србије” садржи:</p>
+									<alinea id="gla4-clan49-stav2-ali1">
+										<content>
+											<p>рој и назив јавнотужилачких места за које је оглас расписан,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan49-stav2-ali2">
+										<content>
+											<p>пште и посебне услове за пријаву,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan49-stav2-ali3">
+										<content>
+											<p>ачин пријављивања,</p>
+										</content>
+									</alinea>
+									<alinea id="gla4-clan49-stav2-ali4">
+										<content>
+											<p>ок за подношење пријаве.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan50">
+						<num>50.</num>
+						<heading>Форма и садржина пријаве на оглас</heading>
+						<content>
+							<clause id="gla4-clan50-stav1">
+								<content>
+									<p>Пријаве се подносе у писаној форми Већу у року од 15 дана од дана објављивања огласа у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan50-stav2">
+								<content>
+									<p>Уз пријаву на оглас кандидат доставља конкурсну документацију.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan50-stav3">
+								<content>
+									<p>Под конкурсном документацијом подразумева се:</p>
+									<point id="gla4-clan50-stav3-tac1">
+										<num>1)</num>
+										<content>
+											<p> оверена копија дипломе о завршеном акредитованом правном факултету са називом „дипломирани правник”,</p>
+										</content>
+									</point>
+									<point id="gla4-clan50-stav3-tac2">
+										<num>2)</num>
+										<content>
+											<p> оверена копија уверења о положеном правосудном испиту,</p>
+										</content>
+									</point>
+									<point id="gla4-clan50-stav3-tac3">
+										<num>3)</num>
+										<content>
+											<p> уверење о држављанству Републике Србије,</p>
+										</content>
+									</point>
+									<point id="gla4-clan50-stav3-tac4">
+										<num>4)</num>
+										<content>
+											<p> извештај из казнене евиденције,</p>
+										</content>
+									</point>
+									<point id="gla4-clan50-stav3-tac5">
+										<num>5)</num>
+										<content>
+											<p> уверење о здравственој способности,</p>
+										</content>
+									</point>
+									<point id="gla4-clan50-stav3-tac6">
+										<num>6)</num>
+										<content>
+											<p> изјава подносиоца о томе да ли му је престао радни однос због теже повреде дужности из радног односа у државном органу,</p>
+										</content>
+									</point>
+									<point id="gla4-clan50-stav3-tac7">
+										<num>7)</num>
+										<content>
+											<p> потврда о радном искуству у правној струци после положеног правосудног испита,</p>
+										</content>
+									</point>
+									<point id="gla4-clan50-stav3-tac8">
+										<num>8)</num>
+										<content>
+											<p> лична и радна биографија са навођењем података о завршеним специјалистичким академским, мастер академским, магистарским или докторским студијама; податка о објављеним стручним и научним радовима из области правне струке и науке; податка о познавању језика националних мањина; опционо податак о националној припадности уколико конкурише за неко од јавних тужилаштава где се примењује <ref>члан 60. овог</ref> пословника, као и друге податке од значаја за одлучивање.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla4-clan50-stav4">
+								<content>
+									<p>Веће прописује формулар који обухвата личну и радну биографију и изјаву подносиоца из става 3. алинеја 6. и 8. овог члана. Формулар се објављује на интернет презентацији Већа.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan50-stav5">
+								<content>
+									<p>Давање неистинитих података има за последицу искључивање кандидата из разматрања или покретање дисциплинског поступка.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan50-stav6">
+								<content>
+									<p>Кандидат који је носилац јавнотужилачке функције не подноси доказе о испуњености услова за избор.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan51">
+						<num>51.</num>
+						<heading>Провера уредности пријава</heading>
+						<content>
+							<clause id="gla4-clan51-stav1">
+								<content>
+									<p>Веће одлуком образује трочлану комисију која утврђује благовременост и потпуност поднетих пријава.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan51-stav2">
+								<content>
+									<p>Неблаговремене и непотпуне пријаве комисија одбацује закључком.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan51-stav3">
+								<content>
+									<p>Комисија закључком одбацује пријаву и уколико из извештаја из казнене евиденције, који је уз пријаву достављен, произилази да је кандидат осуђен на казну затвора од шест месеци или кривично дело које га чини недостојним.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan51-stav4">
+								<content>
+									<p>На закључак је дозвољен приговор Већу у року од три дана од дана достављања.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan51-stav5">
+								<content>
+									<p>Благовремене и потпуне пријаве комисија доставља Већу на даљи поступак.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan52">
+						<num>52.</num>
+						<heading>Утврђивање стручности, оспособљености и достојности кандидата</heading>
+						<content>
+							<clause id="gla4-clan52-stav1">
+								<content>
+									<p>По пријему благовремене и потпуне пријаве спроводи се утврђивање стручности, оспособљености и достојности кандидата у складу са општим правим актом Већа којим се прописују критеријуми и мерила за оцену стручности, оспособљености и достојности.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan53">
+						<num>53.</num>
+						<heading>Разговор са кандидатима</heading>
+						<content>
+							<clause id="gla4-clan53-stav1">
+								<content>
+									<p>Када по Закону или општем акту Већа постоји обавеза обављања разговора са кандидатом, односно организовања испита, Веће благовремено обавештава кандидата о времену и месту обављања разговора или одржавања испита.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan54">
+						<num>54.</num>
+						<heading>Јавност на разговору</heading>
+						<content>
+							<clause id="gla4-clan54-stav1">
+								<content>
+									<p>Веће, на захтев кандидата, одобрава присуство стручне и друге јавности на разговору.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan54-stav2">
+								<content>
+									<p>Захтев за присуство мора бити поднет најкасније пет дана пре дана одржавања разговора.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan54-stav3">
+								<content>
+									<p>Веће може одлучити да разговоре видео и аудио снима.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan55">
+						<num>55.</num>
+						<heading>Ранг листа</heading>
+						<content>
+							<clause id="gla4-clan55-stav1">
+								<content>
+									<p>При предлагању и избору кандидата за јавнотужилачку функцију Веће саставља ранг листу кандидата на основу стручности, оспособљености и достојности кандидата, а према критеријумима и мерилима за оцену стручности, оспособљености и достојности које прописује Веће, у складу са Законом.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan55-stav2">
+								<content>
+									<p>Испуњеност критеријума стручности и оспособљености исказује се оценом или бодовима.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan55-stav3">
+								<content>
+									<p>Ранг листа се сачињава тако што се као прворангирани кандидат уписује кандидат са највишом оценом, односно највећим бројем бодова, а као последње рангирани кандидат са најнижом оценом, односно најмањим бројем бодова. Уколико два или више кандидата имају исту оцену, односно исти број бодова, њихова имена се уписују по азбучном редоследу презимена и имена.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan55-stav4">
+								<content>
+									<p>Ранг листа се објављује на интернет презентацији Већа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan56">
+						<num>56.</num>
+						<heading>Приговор на ранг листу</heading>
+						<content>
+							<clause id="gla4-clan56-stav1">
+								<content>
+									<p>Сваки кандидат има право приговора на ранг листу.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan56-stav2">
+								<content>
+									<p>Приговор се подноси због повреде одредаба овог пословника којима се уређује поступак избора.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan56-stav3">
+								<content>
+									<p>Приговор се доставља у писаној форми Већу у року од три дана од дана објављивања ранг листе на интернет презентацији Већа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan57">
+						<num>57.</num>
+						<heading>Одлуке Већа по приговору на ранг листу и утврђивање коначне ранг листе</heading>
+						<content>
+							<clause id="gla4-clan57-stav1">
+								<content>
+									<p>Недозвољен или неблаговремен приговор на ранг листу Веће одбацује закључком.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan57-stav2">
+								<content>
+									<p>Веће усваја приговор на ранг листу уколико је основан и мења ранг листу у складу са усвојеним приговором.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan57-stav3">
+								<content>
+									<p>Веће одбија приговор на ранг листу уколико је неоснован.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan57-stav4">
+								<content>
+									<p>Одлука по приговору на ранг листу мора бити образложена.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan57-stav5">
+								<content>
+									<p>После одлучивања по приговору Веће утврђује коначну ранг листу кандидата.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan58">
+						<num>58.</num>
+						<heading>Одлука Већа о избору заменика јавног тужиоца и о предлагању кандидата за избор</heading>
+						<content>
+							<clause id="gla4-clan58-stav1">
+								<content>
+									<p>Веће бира заменика јавног тужиоца, односно предлаже кандидате за избор за јавног тужиоца или заменика јавног тужиоца који се први пут бира на основу коначне ранг листе.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan58-stav2">
+								<content>
+									<p>Веће бира, односно предлаже кандидата који је остварио највишу оцену, односно највећи број бодова.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan58-stav3">
+								<content>
+									<p>У случају када Веће утврђује листу кандидата за Републичког јавног тужиоца и јавног тужиоца, може предложити једног или више кандидата, по редоследу са коначне ранг листе почев од кандидата који је остварио највишу оцену, односно највећи број бодова.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan58-stav4">
+								<content>
+									<p>Уколико је више кандидата прворангирано, приликом одлучивања о избору и предлагању Веће узима у обзир податке из личне и радне биографије кандидата.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan59">
+						<num>59.</num>
+						<heading>Заступљеност припадника националних мањима и познавање стручне правне терминологије на језику националне мањине</heading>
+						<content>
+							<clause id="gla4-clan59-stav1">
+								<content>
+									<p>Ради обезбеђења пуне и ефективне равноправности између припадника националних мањина и припадника већинске нације, у поступку избора Веће води рачуна о националном саставу становништва, одговарајућој заступљености припадника националних мањина и познавању стручне правне терминологије на језику националне мањине који је у службеној употреби у суду.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan60">
+						<num>60.</num>
+						<heading>Посебна правила о одлучивању</heading>
+						<content>
+							<clause id="gla4-clan60-stav1">
+								<content>
+									<p>Пре доношења одлуке о избору, односно предлагању кандидата за заменика јавног тужиоца у јавним тужилаштвима на подручју локалних самоуправа у којима је у службеној употреби језик или писмо националне мањине, Веће прибавља податке о националном саставу становништва локалних самоуправа, као и о националном саставу носилаца јавнотужилачке функције у том јавном тужилаштву.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan60-stav2">
+								<content>
+									<p>Уколико национални састав носилаца јавнотужилачке функције није сразмеран националном саставу становништва на подручју надлежности јавног тужилаштва, Веће ће, по правилу, изабрати, односно предложити кандидата оне националне припадности чији би избор, односно предлагање допринело сразмерности националног састава и то највише рангираног кандидата те националне припадности, уколико његова оцена, односно број бодова нису испод 90% оцене, односно броја бодова прворангираног кандидата.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan60-stav3">
+								<content>
+									<p>Посебна правила о одлучивању из става 2. овог члана примењиваће се у односу на оне кандидате који су се конкурсној документацији изјаснили о својој националној припадности и дали сагласност Већу за примену посебних правила.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan61">
+						<num>61.</num>
+						<heading>Одлука о предлогу кандидата за заменика јавног тужиоца који се први пут бира</heading>
+						<content>
+							<clause id="gla4-clan61-stav1">
+								<content>
+									<p>Веће доноси одлуку о предлогу за избор заменика јавног тужиоца који се први пут бира, на основу коначне ранг листе.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan61-stav2">
+								<content>
+									<p>Одлука из става 1. овог члана мора бити образложена и објављује се на интернет презентацији Већа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan62">
+						<num>62.</num>
+						<heading>Одлука о избору заменика јавног тужиоца</heading>
+						<content>
+							<clause id="gla4-clan62-stav1">
+								<content>
+									<p>Веће доноси одлуку о избору заменика јавног тужиоца на основу коначне ранг листе.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan62-stav2">
+								<content>
+									<p>Одлука о избору садржи увод, диспозитив и образложење.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan62-stav3">
+								<content>
+									<p>Одлука о избору заменика јавног тужиоца објављује се у „Службеном гласнику Републике Србије” и на интернет презентацији Већа.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan62-stav4">
+								<content>
+									<p>Одлука Већа о избору кандидата за заменика јавног тужиоца је коначна.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan63">
+						<num>63.</num>
+						<heading>Одлука о предлогу кандидата за Републичког јавног тужиоца и јавног тужиоца</heading>
+						<content>
+							<clause id="gla4-clan63-stav1">
+								<content>
+									<p>На основу коначне ранг листе Веће доноси одлуку о предлогу за избор јавног тужиоца, у форми утврђене листе кандидата.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan63-stav2">
+								<content>
+									<p>Одлука о предлогу садржи предлог једног или више кандидата за избор јавног тужиоца.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan63-stav3">
+								<content>
+									<p>Одлука о предлогу мора бити образложена и објављује се на интернет презентацији Већа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan64">
+						<num>64.</num>
+						<heading>Посебна правила о поступку избора на сталну функцију заменика јавног тужиоца који је први пут изабран</heading>
+						<content>
+							<clause id="gla4-clan64-stav1">
+								<content>
+									<p>Најкасније три месеца пре истека рока од три године од дана ступања на функцију заменика јавног тужиоца, Веће прибавља податке о оцени рада заменика јавног тужиоца који је први пут изабран.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan64-stav2">
+								<content>
+									<p>Оцена рада прибавља се од јавног тужилаштва у коме је заменик јавног тужиоца који је први пут изабран вршио јавнотужилачку функцију.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan64-stav3">
+								<content>
+									<p>Најкасније осам дана пре дана којим истиче рок од три године од дана ступања на функцију заменика јавног тужиоца, Веће доноси одлуку о избору на сталну функцију заменика јавног тужиоца који је први пут изабран.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan64-stav4">
+								<content>
+									<p>Веће на сталну функцију не може изабрати заменика јавног тужиоца који је први пут изабран уколико је његов рад једном оцењен оценом „не задовољава”.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan65">
+						<num>65.</num>
+						<heading>Одлука о избору на сталну функцију заменика јавног тужиоца који је први пут изабран</heading>
+						<content>
+							<clause id="gla4-clan65-stav1">
+								<content>
+									<p>Веће одлуком о избору на сталну функцију бира заменика јавног тужиоца који је први пут изабран.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan65-stav2">
+								<content>
+									<p>Одлука о избору садржи увод, диспозитив и образложење.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan65-stav3">
+								<content>
+									<p>Одлука о избору на сталну функцију објављује се у „Службеном гласнику Републике Србије” и на интернет презентацији Већа.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan65-stav4">
+								<content>
+									<p>Одлука о избору кандидата за заменика јавног тужиоца је коначна.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>Одлука о престанку функције</heading>
+				<content>
+					<article id="gla5-clan66">
+						<num>66.</num>
+						<content>
+							<clause id="gla5-clan66-stav1">
+								<content>
+									<p>Веће утврђује постојање разлога за престанак функције и за разрешење јавног тужиоца и заменика јавног тужиоца и о томе доноси посебну одлуку коју у случају када утврди постојање разлога за разрешење јавног тужиоца доставља Влади.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan66-stav2">
+								<content>
+									<p>Одлука о престанку функције и разрешењу заменика јавног тужиоца садржи увод, диспозитив, образложење и поуку о правном леку.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan66-stav3">
+								<content>
+									<p>Одлука којом се утврђују разлози за разрешење јавног тужиоца садржи увод, диспозитив и образложење.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan66-stav4">
+								<content>
+									<p>Одлука о престанку функције на лични захтев има само увод и диспозитив.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>Усвајање Пословника и доношење измена и допуна</heading>
+				<content>
+					<article id="gla6-clan67">
+						<num>67.</num>
+						<content>
+							<clause id="gla6-clan67-stav1">
+								<content>
+									<p>Одлуку о усвајању Пословника доноси Веће на седници.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan67-stav2">
+								<content>
+									<p>Писани предлог за измене и допуне Пословника може поднети сваки члан Већа.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan67-stav3">
+								<content>
+									<p>Предлог се подноси председнику који је дужан да предлог достави свим члановима најмање десет дана пре одржавања седнице.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan68">
+						<num>68.</num>
+						<heading>Ступање на снагу</heading>
+						<content>
+							<clause id="gla6-clan68-stav1">
+								<content>
+									<p>Овај пословник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan68-stav2">
+								<content>
+									<p>Даном ступања на снагу овог пословника, престају да важе одредбе Пословника о раду Државног већа тужилаца („<ref id="ref5" href="/rs/act/09/55/srp@">Службени гласник РС”, бр. 55/09, 43/15</ref> и 4/16), изузев Главе III „Поступак избора”, која     се примењује до 1. септембра 2017. године.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan68-stav3">
+								<content>
+									<p>*<ref id="ref6" href="/rs/act/2017/46/srp@">Службени гласник РС, број 46/2017</ref></p>
+								</content>
+							</clause>
+							<clause id="gla6-clan68-stav4">
+								<content>
+									<p>А број 340/17</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan68-stav5">
+								<content>
+									<p>У Београду, 23. марта 2017. године</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan68-stav6">
+								<content>
+									<p>Председник Државног већа тужилаца,</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan68-stav7">
+								<content>
+									<p>Загорка Доловац, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,272 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2010/38-25/main"/>
+					<FRBRuri value="/rs/act/2010/38-25"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2010/38-25/srp@/main"/>
+					<FRBRuri value="/rs/act/2010/38-25/srp@"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2010/38-25/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2010/38-25/srp@.akn"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2010-6-4" name="службени гласник рс“" number="38" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="10. Култура" value="10. култура"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2010-05-21" id="usvajanje"/>
+				<step date="2015-05-12" id="stupanje_na_snagu"/>
+				<step date="2015-05-12" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 32. став 3. </ref>Закона о култури („<ref id="ref2" href="/rs/act/09/72/srp@">Службени гласник РС”, брoj 72/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар културе доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о садржини и начину вођења централне евиденције установа културе основаних средствима у јавној својини са седиштем на територији Републике Србије</title>
+			<date>„Службени гласник РС“, брoj 38 од 4. јуна 2010.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником утврђује се садржина и начин вођења централне евиденције установа културе основаних средствима у јавној својини са седиштем на територији Републике Србије (у даљем тексту: Евиденција).</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Установе културе основане средствима у јавној својини са седиштем на територији Републике Србије (у даљем тексту: установа), у складу са законом, јесу установе које је основала Република Србија, аутономна покрајина, односно јединица локалне самоуправе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Евиденција се води као јединствена, централна, јавна, електронска база података о установама.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Електронска база података о установама јавно је доступна на званичној интернет страни министарства надлежног за културу (у даљем тексту: Министарство).</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Електронска база из става 1. овог члана води се у складу са законом којим се уређује електронски документ.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav4">
+						<content>
+							<p>У Евиденцију се уписују подаци о установи утврђени овим правилником.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Евиденцију, у складу са законом, води Министарство.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>У Евиденцију се уписују:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> редни број уписа;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> датум уписа установе у евиденцију;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> назив установе;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> седиште установе (адреса);</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> назив оснивача установе;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> датум оснивања установе;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> матични број установе додељен од стране Републичког завода за статистику;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> пореско-идентификациони број (ПИБ) установе;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> делатност установе (шифра и опис основне-претежне делатности);</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> надлежност установе (утврђена посебним прописом);</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> име и матични број директора установе и датум његовог именовања;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> име и матични број заступника и границе његовог овлашћења;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> укупан број и структура запослених у установи;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac14">
+								<num>14)</num>
+								<content>
+									<p> пословни простор, врста, место где се пословни простор налази, основ коришћења, укупна површина и намена;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac15">
+								<num>15)</num>
+								<content>
+									<p> број телефона и телефакса установе;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac16">
+								<num>16)</num>
+								<content>
+									<p> електронска адреса установе;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac17">
+								<num>17)</num>
+								<content>
+									<p> адреса интернет стране установе;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac18">
+								<num>18)</num>
+								<content>
+									<p> забелешка.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Подаци из <ref>члана 4. овог</ref> правилника уписују се у Евиденцију на основу података којe Министарству, у складу са Законом о култури, доставља надлежни орган Републике Србије, орган аутономне покрајине, односно орган јединице локалне самоуправе у року од 30 дана од дана оснивања установе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>У Евиденцију се уписују и промене података у складу са подацима којe доставља надлежни орган Републике Србије, орган аутономне покрајине, односно орган јединице локалне самоуправе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Број 110-00-12/2010-07</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>У Београду, 21. маја 2010. године</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav5">
+						<content>
+							<p>Небојша Брадић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

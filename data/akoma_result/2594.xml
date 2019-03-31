@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1989/56-1398/main"/>
+					<FRBRuri value="/rs/act/1989/56-1398"/>
+					<FRBRdate date="1989" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1989/56-1398/srp@/main"/>
+					<FRBRuri value="/rs/act/1989/56-1398/srp@"/>
+					<FRBRdate date="1989" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1989/56-1398/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1989/56-1398/srp@.akn"/>
+					<FRBRdate date="1989" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1989-9-22" name="службени лист сфрј" number="56" showAs="Службени лист СФРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="4. Заштита биља" value="4. заштита биља"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1989-02-23" id="usvajanje"/>
+				<step date="1989-09-30" id="stupanje_na_snagu"/>
+				<step date="1989-09-30" id="primena"/>
+			</workflow>
+		</meta>
+		<preface>
+			<authority>На основу <ref>члана 44. став 5. </ref>Закона о признавању новостворених, одобравању увођења у производњу страних и заштити сорти пољопривредног и шумског биља („<ref id="ref1" href="/rs/act/80/38/srp@">Службени лист СФРЈ“, бр 38/80</ref>), Савезни комитет за пољопривреду прописује</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>О РЕГИСТРУ ЗАШТИЋЕНИХ НОВОСТВОРЕНИХ ДОМАЋИХ СОРТИ И РЕГИСТРУ ЗАШТИЋЕНИХ СТРАНИХ СОРТИ ПОЉОПРИВРЕДНОГ И ШУМСКОГ БИЉА</title>
+			<date>„Службени лист СФРЈ”, број 56 од 22. IХ 1989.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се подаци који се воде у регистру заштићених новостворених домаћих сорти, односно регистру заштићених страних сорти пољопривредног и шумског биља за које је одобрено увођење у производњу у Социјалистичкој Федеративној Републици Југославији.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Регистар заштићених новостворених домаћин сорти, односно регистар заштићених страних сорти пољопривредног и шумског биља за које је одобрено увођење у производњу у Социјалистичкој Федеративној Републици Југославији садржи: врсту биља, назив сорте, редни број, назив и седиште ствараоца сорте, односно носиоца заштите сорте и број и датум решења којим се дозвољава заштита сорте.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном листу СФРЈ”.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Бр 1852/3</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<section id="od23">
+				<num>23.</num>
+				<heading> фебруара 1989. године</heading>
+				<content>
+					<clause id="od23-clan3-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od23-clan3-stav2">
+						<content>
+							<p>Председник</p>
+						</content>
+					</clause>
+					<clause id="od23-clan3-stav3">
+						<content>
+							<p>Савезног комитета за</p>
+						</content>
+					</clause>
+					<clause id="od23-clan3-stav4">
+						<content>
+							<p>пољопривреду,</p>
+						</content>
+					</clause>
+					<clause id="od23-clan3-stav5">
+						<content>
+							<p>Сава Вујков, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

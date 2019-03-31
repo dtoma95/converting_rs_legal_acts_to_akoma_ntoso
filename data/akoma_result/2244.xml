@@ -1,0 +1,588 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2011/58-8/main"/>
+					<FRBRuri value="/rs/act/2011/58-8"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/58-8/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/58-8/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/58-8/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/58-8/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2011-8-5" name="службени гласник рс" number="58" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="3. Ваздух" value="3. ваздух"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-07-29" id="usvajanje"/>
+				<step date="2011-08-13" id="stupanje_na_snagu"/>
+				<step date="2011-08-13" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 13. августа 2011. године (види <ref>члан 3. </ref>Уредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 11. став 4. </ref>Закона о заштити ваздуха („<ref id="ref4" href="/rs/act/09/36/srp@">Службени гласник РС”, број 36/09</ref>) и <ref>члана 42. став 1. </ref>Закона о Влади („<ref id="ref5" href="/rs/act/05/55/srp@">Службени гласник РС”, бр. 55/05</ref> и 71/05 – исправка и 101/07, 65/08 и 16/11),</p>
+		</preamble>
+		<preface>
+			<authority>Влада доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о утврђивању Програма контроле квалитета ваздуха у државној мрежи</title>
+			<date>&quot;Службени   гласник РС&quot;, број 58 од 5. августа 2011.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овом уредбом утврђује се Програм контроле квалитета ваздуха у државној мрежи, који је одштампан уз ову уредбу и чини њен саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Програмом из <ref>члана 1. </ref>ове уредбе одређује се број и распоред мерних станица и/или мерних места у одређеним зонама и агломерацијама, као и обим, врста и учесталост мерења нивоа загађујућих материја у ваздуху, на нивоу Републике Србије.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Ова уредба ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>05 број 110-5965/2011</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>У Београду, 29. јула 2011. године</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>Влада</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav5">
+						<content>
+							<p>Председник,</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav6">
+						<content>
+							<p>др Мирко Цветковић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav7">
+						<content>
+							<p>ПРОГРАМ</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav8">
+						<content>
+							<p>КОНТРОЛЕ КВАЛИТЕТА ВАЗДУХА У ДРЖАВНОЈ МРЕЖИ</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav9">
+						<content>
+							<p>Државна мрежа мерних станица и/или мерних места ( у даљем тексту: државна мрежа ), у складу са законом којим се уређује заштита ваздуха, се успоставља у сврху мерења регионалног и прекограничног атмосферског преноса загађујућих материја у ваздуху и аероседиментима у оквиру међународних обавеза, квалитета ваздуха у насељима, индустријским и ненасељеним подручјима, квалитета ваздуха у заштићеним природним добрима и заштићеној околини непокретних културних добара, квалитета ваздуха у подручјима под утицајем одређених извора загађивања, укључујући покретне изворе и алергеног полена.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav10">
+						<content>
+							<p>Контрола квалитета ваздуха у државној мрежи врши се у оквиру мреже метеоролошких станица, мреже урбаних станица за мерење нивоа загађујућих материја у ваздуху и мреже аутоматских мерних станица.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav11">
+						<content>
+							<p>Локације мерних станица и/или мерних места у државној мрежи, њихов број и распоред, као и загађујуће материје које се прате на појединим мерним станицама и/или мерним местима у државној мрежи дате су у Табелама 1-5 .</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav12">
+						<content>
+							<p>Мерна места у мрежи урбаних станица за мерење нивоа загађујућих материја у ваздуху дата су у Табели 6.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav13">
+						<content>
+							<p>Загађујуће материје наведене у табелама 1-5 мере се континуално на фиксним мерним местима, у складу са прописом којим се уређују услови за мониторинг и захтеви квалитета ваздуха.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav14">
+						<content>
+							<p>Загађујуће материје на мерним местима у мрежи урбаних станица за мерење нивоа загађујућих материја у ваздуху датим у Табели 6. мере се по динамици мерења датој у Табели 7.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav15">
+						<content>
+							<p>Изрази и скраћенице које се користе у овом Програму имају следеће значење:</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav16">
+						<content>
+							<p>АЗЖС – Агенција за заштиту животне средине;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav17">
+						<content>
+							<p>АЗЖС (РХМЗ) – Станице које је преузела Агенција за заштиту животне средине од Републичког хидрометеоролошког завода, станице са мануелним методама;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav18">
+						<content>
+							<p>ЗЗЈЗ – Завод за јавно здравље;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav19">
+						<content>
+							<p>ГЗЈЗ – Градски завод за јавно здравље;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav20">
+						<content>
+							<p>ИЗЈЗ – Институт за јавно здравље;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav21">
+						<content>
+							<p>ИРМ – Институт за рударство и металургију;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav22">
+						<content>
+							<p>СБ – Севернобачки управни округ;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav23">
+						<content>
+							<p>СБн – Севернобанатски управни округ;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav24">
+						<content>
+							<p>ЈБн – Јужнобанатски управни округ;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav25">
+						<content>
+							<p>ЗБ – Западнобачки управни округ;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav26">
+						<content>
+							<p>ЈБ – Јужнобачки управни округ;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav27">
+						<content>
+							<p>СР – Сремски управни округ;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav28">
+						<content>
+							<p>ГБг – Град Београд</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav29">
+						<content>
+							<p>МЧ – Мачвански управни округ;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav30">
+						<content>
+							<p>КО – Колубарски управни округ;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav31">
+						<content>
+							<p>ПД – Подунавски управни округ;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav32">
+						<content>
+							<p>БР – Браничевски управни округ;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav33">
+						<content>
+							<p>ШУ – Шумадијски управни округ;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav34">
+						<content>
+							<p>ПО – Поморавски управни округ;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav35">
+						<content>
+							<p>Б – Борски управни округ;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav36">
+						<content>
+							<p>ЗА – Зајечарски управни округ;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav37">
+						<content>
+							<p>З – Златиборски управни округ;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav38">
+						<content>
+							<p>МО – Моравички управни округ;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav39">
+						<content>
+							<p>РШ – Рашки управни округ;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav40">
+						<content>
+							<p>РС – Расински управни округ;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav41">
+						<content>
+							<p>НИ – Нишавски управни округ;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav42">
+						<content>
+							<p>ПИ – Пиротски управни округ;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav43">
+						<content>
+							<p>ЈА – Јабланички управни округ;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav44">
+						<content>
+							<p>ПЧ – Пчињски управни округ;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav45">
+						<content>
+							<p>КМ – Косовскомитровачки управни округ;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav46">
+						<content>
+							<p>φ(N) – северна географска ширина;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav47">
+						<content>
+							<p>λ(E) – источна географска дужина;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav48">
+						<content>
+							<p>H(m) – надморска висина;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav49">
+						<content>
+							<p>Тип станице:</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav50">
+						<content>
+							<p>Г – градски;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav51">
+						<content>
+							<p>ПГ – приградски;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav52">
+						<content>
+							<p>И – индустријски;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav53">
+						<content>
+							<p>С – саобраћајни;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav54">
+						<content>
+							<p>Р – рурални;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav55">
+						<content>
+							<p>ЕМЕР – (European Monitoring and Evaluation Programmе) је Програм сарадње за праћење и процену преноса загађујућих материја у ваздуху на велике удаљености у Европи</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav56">
+						<content>
+							<p>TSP – укупне суспендоване честице;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav57">
+						<content>
+							<p>*TSP – укупне суспендоване честице са анализом тешких метала (олово(Pb), кадмијум(Cd), арсен(As), никл(Ni), жива(Hg));</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav58">
+						<content>
+							<p>УТМ – укупне таложне материје;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav59">
+						<content>
+							<p>*УТМ – укупне таложне материје са анализом тешких метала (олово(Pb), кадмијум(Cd), цинк(Zn));</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav60">
+						<content>
+							<p>VOC – лако испарљива органска једињења (C2-C6);</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav61">
+						<content>
+							<p>BTX – бензен, толуен и ксилен;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav62">
+						<content>
+							<p>PAH – полициклични ароматични угљоводоници;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav63">
+						<content>
+							<p>ТМ – тешки метали у падавинама (кадмијум(Cd), олово(Pb), никл(Ni), бакар(Cu), хром(Cr), арсен(As), цинк(Zn));</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav64">
+						<content>
+							<p>VOP – лако испарљива органска једињења (C2-C12);</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav65">
+						<content>
+							<p>TRS – тотални редуковани сумпор;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav66">
+						<content>
+							<p>WPS – узоркивач падавина;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav67">
+						<content>
+							<p>ХАП – хемијска анализа падавина;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav68">
+						<content>
+							<p>НЈ – неорганска једињења са филтерпакова;</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav69">
+						<content>
+							<p>ХСЧ – укупна масена концентрација честица PM2.5 и концентрација одговарајућих једињења у њима (SO42-, NO3-, NH4+, Na+, K+, Ca2+, Mg2+, Cl-, елементарни и органски угљеник);</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav70">
+						<content>
+							<p>PM TM – тешки метали у суспендованим честицама (олово(Pb), кадмијум(Cd), арсен(As), никл(Ni), жива(Hg));</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav71">
+						<content>
+							<p>PM PAH – полициклични ароматични угљоводоници у суспендованим честицама.</p>
+						</content>
+					</clause>
+					<став id="clan3-stav72">
+						<img alt="z-02_Page_1.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/z-02_Page_1_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=422180&amp;regactid=422180"/>
+						<content/>
+					</став>
+					<став id="clan3-stav73">
+						<img alt="z-02_Page_2.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/z-02_Page_2_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=422180&amp;regactid=422180"/>
+						<content/>
+					</став>
+					<став id="clan3-stav74">
+						<img alt="z-02_Page_3.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/z-02_Page_3_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=422180&amp;regactid=422180"/>
+						<content/>
+					</став>
+					<став id="clan3-stav75">
+						<img alt="z-02_Page_4.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/z-02_Page_4_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=422180&amp;regactid=422180"/>
+						<content/>
+					</став>
+					<став id="clan3-stav76">
+						<img alt="z-02_Page_5.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/z-02_Page_5_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=422180&amp;regactid=422180"/>
+						<content/>
+					</став>
+					<став id="clan3-stav77">
+						<img alt="z-02_Page_6.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/z-02_Page_6_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=422180&amp;regactid=422180"/>
+						<content/>
+					</став>
+					<став id="clan3-stav78">
+						<img alt="z-02_Page_7.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/z-02_Page_7_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=422180&amp;regactid=422180"/>
+						<content/>
+					</став>
+					<став id="clan3-stav79">
+						<img alt="z-02_Page_8.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/z-02_Page_8_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=422180&amp;regactid=422180"/>
+						<content/>
+					</став>
+					<clause id="clan3-stav80">
+						<content>
+							<p>Табела 7. Динамика мерења у мрежи урбаних станица за мерење нивоа загађујућих материја у ваздуху</p>
+						</content>
+					</clause>
+					<став id="clan3-stav81">
+						<table class="tabela-sa-borderom">
+							
+		
+							<tbody>
+								
+			
+								<tr>
+									
+				
+									<td>
+										
+				
+										<p>
+				ЗАГАЂУЈУЋЕ МАТЕРИЈЕ</p>
+									</td>
+									
+				
+									<td>
+										
+				
+										<p>
+				ДИНАМИКА</p>
+									</td>
+									
+			
+								</tr>
+								
+			
+								<tr>
+									
+				
+									<td>
+										
+				
+										<p>
+				SO2, NOX, O3,CO, VOP, TRS, чађ</p>
+										
+				
+									</td>
+									
+				
+									<td>
+										
+				
+										<p>
+				365 дана</p>
+									</td>
+									
+			
+								</tr>
+								
+			
+								<tr>
+									
+				
+									<td>
+										
+				
+										<p>
+				PM10, PM2.5, BTX, VOC, PM TM, PM PAH, NH3, TSP</p>
+										
+				
+									</td>
+									
+				
+									<td>
+										
+				
+										<p>
+				56 дана (осам недеља равномерно распоређених у току једне године)</p>
+										
+				
+									</td>
+									
+			
+								</tr>
+								
+			
+								<tr>
+									
+				
+									<td>
+										
+				
+										<p>
+				УТМ</p>
+									</td>
+									
+				
+									<td>
+										
+				
+										<p>
+				12 пута (једном месечно у току једне године)</p>
+										
+				
+									</td>
+									
+			
+								</tr>
+								
+		
+							</tbody>
+							
+	
+						</table>
+						
+
+
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

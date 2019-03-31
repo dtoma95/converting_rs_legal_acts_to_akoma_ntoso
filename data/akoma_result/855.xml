@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2018/31-116/main"/>
+					<FRBRuri value="/rs/act/2018/31-116"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/31-116/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/31-116/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/31-116/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/31-116/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2018-4-28" name="службени гласник рс" number="31" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="V МОНЕТАРНИ СИСТЕМ, ФИНАНСИЈСКЕ ОРГАНИЗАЦИЈЕ И ФИНАНСИЈСКО ПОСЛОВАЊЕ" value="v монетарни систем, финансијске организације и финансијско пословање"/>
+				<keyword id="grupa" showAs="6. Издавање, основна обележја и пуштање у оптицај новчаница, кованог новца и пригодног кованог новца" value="6. издавање, основна обележја и пуштање у оптицај новчаница, кованог новца и пригодног кованог новца"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2018-04-26" id="usvajanje"/>
+				<step date="2018-05-04" id="stupanje_na_snagu"/>
+				<step date="2018-05-04" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Одлука ступа на снагу 4. маја 218. године (види тачку 2. Одлуке).</p>
+				</note>
+			</notes>
+		</meta>
+		<body>
+			<clause id="stav1">
+				<content>
+					<p>На основу <ref>члана 18. став 1. тачка 3</ref>) и <ref>члана 55. став 3. </ref>Закона о Народној банци Србије („<ref id="ref2" href="/rs/act/03/72/srp@">Службени гласник РС”, бр. 72/03, 55/04, 85/05</ref> – др. закон, 44/10, 76/12, 106/12, 14/15 и 40/15 – одлука УС),</p>
+				</content>
+			</clause>
+			<clause id="stav2">
+				<content>
+					<p>Гувернер Народне банке Србије доноси</p>
+				</content>
+			</clause>
+			<clause id="stav3">
+				<content>
+					<p>ОДЛУКУ</p>
+				</content>
+			</clause>
+			<clause id="stav4">
+				<content>
+					<p>о пуштању у оптицај кованог новца апоена од 1, 2 и 5 динара</p>
+				</content>
+			</clause>
+			<clause id="stav5">
+				<content>
+					<p>&quot;Службени гласник РС&quot;, број 31 од 28. априла 2018.</p>
+				</content>
+			</clause>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Народна банка Србије пустиће у оптицај 4. маја 2018. године ковани новац апоена од 1, 2 и 5 динара са ознаком године ковања „2018” и осталим обележјима утврђеним Одлуком о издавању и основним обележјима кованог новца апоена од 1, 2 и 5 динара („<ref id="ref3" href="/rs/act/13/56/srp@">Службени гласник РС”, број 56/13</ref>).</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Ова одлука објављује се у „Службеном гласнику Републике Србије” и ступа на снагу 4. маја 2018. године.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>О. број 3</p>
+						</content>
+					</clause>
+					<clause id="od2-stav2">
+						<content>
+							<p>У Београду, 26. априла 2018. године</p>
+						</content>
+					</clause>
+					<clause id="od2-stav3">
+						<content>
+							<p>Гувернер</p>
+						</content>
+					</clause>
+					<clause id="od2-stav4">
+						<content>
+							<p>Народне банке Србије,</p>
+						</content>
+					</clause>
+					<clause id="od2-stav5">
+						<content>
+							<p>др Јоргованка Табаковић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

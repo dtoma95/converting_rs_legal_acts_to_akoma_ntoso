@@ -1,0 +1,452 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2016/101-130/main"/>
+					<FRBRuri value="/rs/act/2016/101-130"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2016/101-130/srp@/main"/>
+					<FRBRuri value="/rs/act/2016/101-130/srp@"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2016/101-130/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2016/101-130/srp@.akn"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2016-12-16" name="службени гласник рс" number="101" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="5. Привредне коморе" value="5. привредне коморе"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2016-12-08" id="usvajanje"/>
+				<step date="2016-12-24" id="stupanje_na_snagu"/>
+				<step date="2016-12-24" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 11. </ref>Закона о привредним коморама („<ref id="ref4" href="/rs/act/15/112/srp@">Службени гласник РС”, број 112/15</ref>) и чл. 13. и 48. Статута Привредне коморе Србије („<ref id="ref5" href="/rs/act/16/39/srp@">Службени гласник РС”, број 39/16</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Управни одбор Привредне коморе Србије, на седници одржаноj 8. децембра 2016. године, доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о вођењу евиденције чланова Привредне коморе Србије и привредних комора аутономних покрајина</title>
+			<date>&quot;Службени гласник РС&quot;, број 101 од 16.      децембра 2016.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОПШТЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Правилником о вођењу евиденције чланова Привредне коморе Србије и привредних комора аутономних покрајина (у даљем тексту: Правилник), уређује се упис чланова Привредне коморе Србије и привредних комора аутономних покрајина (у даљем тексту: Комора) у евиденцију чланова коморе (у даљем тексту: евиденција), јединствени садржај и начин вођења евиденције.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Комора води евиденцију, на основу чега се издају одговарајућа уверења и потврде о чланству, као и информације о члановима Коморе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ВРСТЕ ПОДАТАКА</heading>
+				<content>
+					<article id="gla2-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla2-clan3-stav1">
+								<content>
+									<p>У евиденцији се о сваком члану Коморе воде следећи подаци:</p>
+									<alinea id="gla2-clan3-stav1-ali1">
+										<content>
+											<p>атични број,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan3-stav1-ali2">
+										<content>
+											<p>иб,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan3-stav1-ali3">
+										<content>
+											<p>ословно име,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan3-stav1-ali4">
+										<content>
+											<p>краћени назив,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan3-stav1-ali5">
+										<content>
+											<p>равна форма,</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan3-stav1-ali6">
+										<content>
+											<p>дреса седишта (матични број насеља + адреса + поштански број),</p>
+										</content>
+									</alinea>
+									<alinea id="gla2-clan3-stav1-ali7">
+										<content>
+											<p>ифра претежне делатности.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla2-clan4-stav1">
+								<content>
+									<p>При евиденцији из <ref>члана 3. овог</ref> правилника, могу се водити посебни подаци, као што су производни капацитети и могућности, референце, сертификати, награде, услуге и инвестиције.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav2">
+								<content>
+									<p>Члан Kоморе може да достави посебне податке за евиденцију, у циљу ефикаснијег пословног повезивања са партнерима у земљи и иностранству.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ИЗВОРИ ПОДАТАКА</heading>
+				<content>
+					<article id="gla3-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla3-clan5-stav1">
+								<content>
+									<p>Извори података за евиденцију су: регистри Aгенције за привредне регистре и подаци државних органа, организација и агенција, као и подаци којима располажу регионалне привредне коморе, односно привредна комора главног града, као и стручна служба Коморе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>НАЧИН ВОЂЕЊА ЕВИДЕНЦИЈЕ</heading>
+				<content>
+					<article id="gla4-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla4-clan6-stav1">
+								<content>
+									<p>Евиденција се води у електронском облику, у организационој целини Коморе надлежној за послове информационог система и електронско пословање.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan6-stav2">
+								<content>
+									<p>За вођење регистра одговоран је руководилац организационе целине из става 1. овог члана.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla4-clan7-stav1">
+								<content>
+									<p>Удружења Коморе имају увид у евиденцију за чланове удружења.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan7-stav2">
+								<content>
+									<p>У циљу ажурирања посебних података који се воде о члановима Kоморе, сваку промену података коју члан Коморе достави Комори, удружења су дужна да ажурирају у року три дана од дана пријема званичног обавештења члана.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla4-clan8-stav1">
+								<content>
+									<p>Запослени Коморе којима је одобрен приступ електронској бази, податке могу користити искључиво за обављање послова интерне анализе и ради реализације послова Коморе, у складу са Законом.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan8-stav2">
+								<content>
+									<p>Лица из става 1. овог члана, податке из евиденције не смеју умножавати и дистрибуирати, нити уступати трећим лицима, осим лицима посебно овлашћеним за издавање уверења и потврда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla4-clan9-stav1">
+								<content>
+									<p>Брисање из евиденције чланова Коморе врши се у случају престанка рада члана Коморе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>ИЗДАВАЊЕ ПОТВРДА И УВЕРЕЊА</heading>
+				<content>
+					<article id="gla5-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla5-clan10-stav1">
+								<content>
+									<p>Потврде и уверења садрже податке из <ref>члана 3. овог</ref> правилника.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan10-stav2">
+								<content>
+									<p>Потврде и уверења о чланству издају се на писани захтев корисника.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan10-stav3">
+								<content>
+									<p>Корисник, у смислу става 2. овога члана, је домаће или страно правно или физичко лице, државни органи и институције, банке, осигуравајуће организације, агенције и друге заинтересоване стране.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla5-clan11-stav1">
+								<content>
+									<p>Потврде и уверења обавезно садрже податке о датуму издавања и датуму ажурирања евиденције.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla5-clan12-stav1">
+								<content>
+									<p>Потврде и уверења се издају у писаној форми, на српском или енглеском језику, а могу се издавати и на другим светским језицима, по посебном захтеву.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav2">
+								<content>
+									<p>Уверења и потврде издате на основу евиденције имају својство јавних исправа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla5-clan13-stav1">
+								<content>
+									<p>Комора је одговорна за истоветност података које даје у потврди и уверењу, са подацима добијеним из извора података.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan13-stav2">
+								<content>
+									<p>Комора не одговара за штету која евентуално може да настане за корисника, због активности које је предузео на основу добијених података.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla5-clan14-stav1">
+								<content>
+									<p>Издавање потврда и уверења наплаћује се према ценовнику.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan14-stav2">
+								<content>
+									<p>Ценовник доноси надлежни орган Коморе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla5-clan15-stav1">
+								<content>
+									<p>Комора води евиденцију о издатим потврдама и уверењима.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan15-stav2">
+								<content>
+									<p>Евиденција о издатим потврдама и уверењима чува се пет година.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>ДАВАЊЕ ИНФОРМАЦИЈА</heading>
+				<content>
+					<article id="gla6-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="gla6-clan16-stav1">
+								<content>
+									<p>Информације садрже посебне податке из <ref>члана 4. овог</ref> правилника.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan16-stav2">
+								<content>
+									<p>Информација се дају на писани захтев корисника.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan16-stav3">
+								<content>
+									<p>Корисник, у смислу става 2. овога члана, је домаће или страно правно или физичко лице, државни органи и институције, банке, осигуравајуће организације, агенције и друге заинтересоване стране.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="gla6-clan17-stav1">
+								<content>
+									<p>Информације се дају у писаној форми, на српском или енглеском језику, а могу се давати и на другим светским језицима, по посебном захтеву.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan17-stav2">
+								<content>
+									<p>Акти у којима су садржане информације немају својство јавних исправа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="gla6-clan18-stav1">
+								<content>
+									<p>Комора води посебну евиденцију о издатим информацијама.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan18-stav2">
+								<content>
+									<p>Евиденција из става 1. овог члана чува се три године.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="gla6-clan19-stav1">
+								<content>
+									<p>Комора не одговара за штету која евентуално може да настане за корисника, због активности које је предузео на основу добијених информација.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla6-clan20-stav1">
+								<content>
+									<p>Давање информација наплаћује се према ценовнику.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan20-stav2">
+								<content>
+									<p>Ценовник доноси надлежни орган Коморе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla7">
+				<num>VII</num>
+				<heading>ПРЕЛАЗНЕ И ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla7-clan21">
+						<num>21.</num>
+						<content>
+							<clause id="gla7-clan21-stav1">
+								<content>
+									<p>Ступањем на снагу овог правилника престаје да важи Правилник о начину уписа и вођењу регистра чланова привредних комора у Србији („<ref id="ref6" href="/rs/act/02/45/srp@">Службени гласник РС”, број 45/02</ref>).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan22">
+						<num>22.</num>
+						<content>
+							<clause id="gla7-clan22-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+									<тачка id="gla7-clan22-stav1-tac2">
+										<num>02.</num>
+										<content>
+											<p>01 број 19/7</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="gla7-clan22-stav2">
+								<content>
+									<p>У Београду, 8. децембра 2016. године</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan22-stav3">
+								<content>
+									<p>Привредна комора Србије</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan22-stav4">
+								<content>
+									<p>Председник,</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan22-stav5">
+								<content>
+									<p>Марко Чадеж, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

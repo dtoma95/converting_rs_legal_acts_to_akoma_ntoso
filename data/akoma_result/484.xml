@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2007/4-3/main"/>
+					<FRBRuri value="/rs/act/2007/4-3"/>
+					<FRBRdate date="2007" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2009/111-84/srp@/main"/>
+					<FRBRuri value="/rs/act/2009/111-84/srp@"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2009/111-84/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2009/111-84/srp@.akn"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2007-1-12" name="службени гласник рс“" number="4" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="10. Лично име, лична карта, матични број грађана" value="10. лично име, лична карта, матични број грађана"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2007-01-11" id="usvajanje"/>
+				<step date="2007-01-20" id="stupanje_na_snagu"/>
+				<step date="2007-01-20" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="4/2007-3" id="e1" type="generation"/>
+				<eventRef date="111/2009-84" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 20. јануара 2007. године (види <ref>члан 2. </ref>Уредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 123. тачка 3</ref>. Устава Републике Србије, а у вези са чланом 8. став 1. Закона о личној карти („<ref id="ref4" href="/rs/act/06/62/srp@">Службени гласник РС”, број 62/06</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Влада доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о упису података у образац личне карте</title>
+			<date>„Службени гласник РС“, бр. 4 од 12. јануара 2007, 111 од 29. децембра 2009.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Подаци из <ref>члана 7. </ref>и <ref>члана 8. став 1. </ref>Закона о личној карти („<ref id="ref5" href="/rs/act/06/62/srp@">Службени гласник РС”, број 62/06</ref>) уписују се у образац личне карте и у машински читљиву зону на том обрасцу.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Само на основу изричите сагласности лица коме се издаје лична карта у образац личне карте може да се угради чип који у том случају садржи и податак о пребивалишту и адреси стана лица коме се издаје лична карта.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav3">
+						<content>
+							<p>Лична карта са чипом у којој је, на захтев лица коме се издаје лична карта, у процесу доперсонализације формиран пар &quot;приватни кључ–сертификат&quot;, користи се за формирање квалификованог електронског потписа, у складу са законом.*</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>*<ref id="ref6" href="/rs/act/2009/111/srp@">Службени гласник РС, број 111/2009</ref></heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Ова уредба ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>05 број 110-320/2007</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>У Београду, 11. јануара 2007. године</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav4">
+						<content>
+							<p>Влада</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav5">
+						<content>
+							<p>Председник,</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav6">
+						<content>
+							<p>Војислав Коштуница, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

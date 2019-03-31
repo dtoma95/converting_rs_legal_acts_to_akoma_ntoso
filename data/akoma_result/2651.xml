@@ -1,0 +1,295 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2011/16-42/main"/>
+					<FRBRuri value="/rs/act/2011/16-42"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/16-42/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/16-42/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/16-42/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/16-42/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2011-3-11" name="службени гласник рс" number="16" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="1. Сточарство" value="1. сточарство"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-03-03" id="usvajanje"/>
+				<step date="2011-03-19" id="stupanje_na_snagu"/>
+				<step date="2011-03-19" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 31. став 2. </ref>Закона о сточарству („<ref id="ref3" href="/rs/act/09/41/srp@">Службени гласник РС”, број 41/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, шумарства и водопривреде доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о условима за признавање нових раса, линија и хибрида домаћих животиња</title>
+			<date>&quot;Службени гласник РС&quot;, број 16 од 11. марта 2011.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се услови за признавање нових раса, линија и хибрида домаћих животиња.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Услови за признавање нових раса, линија и хибрида домаћих животиња јесу:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> производне и морфолошке особине раса, линија и хибрида домаћих животиња не могу се значајније мењати најмање три задње генерације;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> расе, линије и хибриди домаћих животиња морају да имају видљиве особине које их разликују од других раса, линија и хибрида домаћих животиња унутар врсте којој припадају;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> расе, линије и хибриди домаћих животиња морају да буду географски одређени и ограничени;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> расе, линије и хибриди домаћих животиња морају да буду прилагођени условима гајења на одређеном географском подручју;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> да постоји значајна генетска удаљеност расе, линије и хибрида домаћих животиња од других сродних раса, линија и хибрида домаћих животиња;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> ефективна величина популације расе, линије и хибрида домаћих животиња мора да буде најмање 50.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Ефективна величина популације, у смислу овог правилника, јесте одређена величина популације која има исту количину случајности генетске структуре, као и права популација и изражава се</p>
+						</content>
+					</clause>
+					<став id="clan2-stav3">
+						<img alt="formula.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/formula_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=421614&amp;regactid=421614"/>
+						, где је ефективна величина популације означена ознаком: „Nе”, број мушких приплодних животиња означен ознаком: „nm”, а број женских приплодних животиња означен ознаком: „nž”.
+						<content/>
+					</став>
+					<clause id="clan2-stav4">
+						<content>
+							<p>у облику формуле:</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Поред услова из <ref>члана 2. овог</ref> правилника, за признавање нових раса, линија и хибрида домаћих животиња морају да се испуне и услови у погледу достављања података и спровођења испитивања, у складу са одредбама овог правилника.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Признавање нових раса, линија и хибрида домаћих животиња може да се обавља под условом да се доставе следећи подаци:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> име и адреса, односно назив и седиште лица које покреће поступак за признавање нових раса, линија и хибрида домаћих животиња;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> опис расе, линије и хибрида домаће животиње, и то:</p>
+									<item id="clan4-stav1-tac2-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> број мушких и женских грла,</p>
+										</content>
+									</item>
+									<item id="clan4-stav1-tac2-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> телесне мере,</p>
+										</content>
+									</item>
+									<item id="clan4-stav1-tac2-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> телесна маса по фазама развоја домаће животиње у односу на старост,</p>
+										</content>
+									</item>
+									<item id="clan4-stav1-tac2-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> облик (морфологија) тела,</p>
+										</content>
+									</item>
+									<item id="clan4-stav1-tac2-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> производне особине (плодност, млечност, прираст, количина и квалитет меса, способност преживљавања и др.),</p>
+										</content>
+									</item>
+									<item id="clan4-stav1-tac2-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> прилагођеност околини и климатским условима,</p>
+										</content>
+									</item>
+									<item id="clan4-stav1-tac2-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> исхрана и технологија гајења,</p>
+										</content>
+									</item>
+									<item id="clan4-stav1-tac2-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> остале особине (склоност болестима, осталим здравственим поремећајима и др.);</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> оцена производних особина и других обављених испитивања.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Признавање нових раса, линија и хибрида домаћих животиња може да се обавља под условом да се спроведу одговарајућа испитивања.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Испитивањима из става 1. овог члана одређују се производне особине, параметри препознатљивости, односно разликовања раса, линија и хибрида домаћих животиња, могућности утврђивања њихове уједначености и постојаности узимајући у обзир и особине потребне за њихово привредно искоришћавање.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Испитивања из <ref>члана 5. овог</ref> правилника односе се на:</p>
+							<point id="clan6-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> упоредну анализу телесних мера, телесне масе и облика (морфологије) тела домаћих животиња и њихове разлике у најмање три задње генерације за расу, линију и хибрид;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> анализу производних особина домаћих животиња (плодност, млечност, прираст, количина и квалитет меса, способност преживљавања и др.);</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> утврђивање способности прилагођавања домаћих животиња на околину, климатске услове и остале појаве (склоност болестима, осталим здравственим поремећајима и др.);</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> потврђивање значајних генетских разлика домаћих животиња молекуларним методама (ДНК анализа).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Ако су подаци који се односе на популацију домаћих животиња приближно слични подацима који се односе на већ признату популацију домаћих животиња обављају се и додатна испитивања, ради потврђивања њихове различитости, односно сличности.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Број 110-00-00296/2010-09</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>У Београду, 3. марта 2011. године</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav5">
+						<content>
+							<p>др Саша Драгин,     с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

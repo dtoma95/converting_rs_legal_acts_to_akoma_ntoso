@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2006/24-12/main"/>
+					<FRBRuri value="/rs/act/2006/24-12"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2007/33-9/srp@/main"/>
+					<FRBRuri value="/rs/act/2007/33-9/srp@"/>
+					<FRBRdate date="2007" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2007/33-9/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2007/33-9/srp@.akn"/>
+					<FRBRdate date="2007" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2006-3-21" name="службени гласник рс" number="24" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="9. Доприноси за обавезно социјално осигурање" value="9. доприноси за обавезно социјално осигурање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2006-02-27" id="usvajanje"/>
+				<step date="2006-03-29" id="stupanje_na_snagu"/>
+				<step date="2006-03-29" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="24/2006-12" id="e1" type="generation"/>
+				<eventRef date="33/2007-9" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник о измени Правилника о утврђивању основице на коју се обрачунава и плаћа допринос за обавезно здравствено осигурање за лица укључена у обавезно здравствено осигурање (<ref id="ref5" href="/rs/act/2007/33/srp@">Службени гласник РС, број 33/2007</ref>) је ступио на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 18. априла 2007. године, а примењиваће се од 1. маја 2007. године (види <ref>члан 2. </ref>Правилника - 33/2007-9).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 29. </ref>Закона о доприносима за обавезно социјално осигурање („<ref id="ref6" href="/rs/act/04/84/srp@">Службени гласник РС”, бр. 84/04</ref> и 61/05) и <ref>члана 205. </ref>Закона о здравственом осигурању („<ref id="ref7" href="/rs/act/05/107/srp@">Службени гласник РС”, бр. 107/05</ref> и 109/05 – исправка),</p>
+		</preamble>
+		<preface>
+			<authority>Управни одбор Републичког завода за здравствено осигурање, на седници од 27. фебруара 2006. године, донео је</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о утврђивању основице на коју се обрачунава и плаћа допринос за обавезно здравствено осигурање за лица укључена у обавезно здравствено осигурање</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 24 од 21. марта 2006. и 33 од 10. априла 2007.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником утврђује се месечна основица доприноса на коју се обрачунава и плаћа допринос за обавезно здравствено осигурање (у даљем тексту: основица доприноса), за лица укључена у обавезно здравствено осигурање на основу закона којим се уређује обавезно здравствено осигурање.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Основицу доприноса из <ref>члана 1. овог</ref> правилника чини најнижа месечна основица доприноса утврђена законом којим се уређују доприноси за обавезно социјално осигурање*.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>*<ref id="ref8" href="/rs/act/2007/33/srp@">Службени гласник РС, број 33/2007</ref></heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>На основицу доприноса из <ref>члана 2. овог</ref> правилника, лица укључена у обавезно здравствено осигурање плаћају допринос до 15. у месецу за претходни месец на прописани уплатни рачун за обавезно здравствено осигурање.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Овај правилник, по добијању сагласности Владе, објављује се у „Службеном гласнику Републике Србије” и ступа на снагу осмог дана од дана објављивања.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>01/2 број 416-14/06</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>У Београду, 27. фебруара 2006. године</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav4">
+						<content>
+							<p>Управни одбор Републичког завода за здравствено осигурање</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav5">
+						<content>
+							<p>Председник,</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav6">
+						<content>
+							<p>др Рајко Косановић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav7">
+						<content>
+							<p>ОДРЕДБЕ КОЈЕ НИСУ УНЕТЕ У &quot;ПРЕЧИШЋЕН ТЕКСТ&quot; ПРАВИЛНИКА</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>Правилник о измени Правилника о утврђивању основице на коју се обрачунава и плаћа допринос за обавезно здравствено осигурање за лица укључена у обавезно здравствено осигурање: &quot;<ref id="ref9" href="/rs/act/2007/33/srp@">Службени гласник РС&quot;,број 33/2007</ref>-9</heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Овај правилник, по добијању сагласности Владе, ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, а примењиваће се од 1. маја 2007. године.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

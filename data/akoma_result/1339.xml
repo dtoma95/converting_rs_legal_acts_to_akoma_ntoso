@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2016/44-44/main"/>
+					<FRBRuri value="/rs/act/2016/44-44"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2016/44-44/srp@/main"/>
+					<FRBRuri value="/rs/act/2016/44-44/srp@"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2016/44-44/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2016/44-44/srp@.akn"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2016-4-29" name="службени гласник рс" number="44" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="V МОНЕТАРНИ СИСТЕМ, ФИНАНСИЈСКЕ ОРГАНИЗАЦИЈЕ И ФИНАНСИЈСКО ПОСЛОВАЊЕ" value="v монетарни систем, финансијске организације и финансијско пословање"/>
+				<keyword id="grupa" showAs="6. Издавање, основна обележја и пуштање у оптицај новчаница, кованог новца и пригодног кованог новца" value="6. издавање, основна обележја и пуштање у оптицај новчаница, кованог новца и пригодног кованог новца"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2016-04-27" id="usvajanje"/>
+				<step date="2016-05-06" id="stupanje_na_snagu"/>
+				<step date="2016-05-06" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 18. став 1. тачка 3</ref>) и <ref>члана 55. став 3. </ref>Закона о Народној банци Србије („<ref id="ref2" href="/rs/act/03/72/srp@">Службени гласник РС”, бр. 72/03, 55/04, 85/05</ref> – др. закон, 44/10, 76/12, 106/12, 14/15 и 40/15 – одлука УС),</p>
+			<p>Гувернер Народне банке Србије доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о пуштању у оптицај новчанице од 5000 динара</title>
+			<date>&quot;Службени гласник РС&quot;, број 44 од 29. априла      2016.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Народна банка Србије пустиће у оптицај 6. маја 2016. године новчаницу од 5000 динара, са обележјима утврђеним Одлуком о издавању и основним обележјима новчанице од 5000 динара („<ref id="ref3" href="/rs/act/2016/44/srp@">Службени гласник РС”, број 44/2016</ref>).</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Ова одлука објављује се у „Службеном гласнику Републике Србије” и ступа на снагу 6. маја 2016. године.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>О. број 3</p>
+						</content>
+					</clause>
+					<clause id="od2-stav2">
+						<content>
+							<p>У Београду, 27. априла 2016. године</p>
+						</content>
+					</clause>
+					<clause id="od2-stav3">
+						<content>
+							<p>Гувернер</p>
+						</content>
+					</clause>
+					<clause id="od2-stav4">
+						<content>
+							<p>Народне банке Србије,</p>
+						</content>
+					</clause>
+					<clause id="od2-stav5">
+						<content>
+							<p>др Јоргованка Табаковић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

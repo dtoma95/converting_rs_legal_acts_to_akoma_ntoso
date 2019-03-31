@@ -1,0 +1,523 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1993/31-1301/main"/>
+					<FRBRuri value="/rs/act/1993/31-1301"/>
+					<FRBRdate date="1993" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1994/38-1190/srp@/main"/>
+					<FRBRuri value="/rs/act/1994/38-1190/srp@"/>
+					<FRBRdate date="1994" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1994/38-1190/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1994/38-1190/srp@.akn"/>
+					<FRBRdate date="1994" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1993-4-27" name="службени гласник рс" number="31" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="12. Заштита особа са инвалидитетом" value="12. заштита особа са инвалидитетом"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1993-04-21" id="usvajanje"/>
+				<step date="1993-04-28" id="stupanje_na_snagu"/>
+				<step date="1993-04-28" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="31/1993-1301" id="e1" type="generation"/>
+				<eventRef date="5/1994-74" id="e2" type="amendment"/>
+				<eventRef date="38/1994-1190" id="e3" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 6. став 4. </ref>и <ref>члана 11. </ref>Закона о повластицама у унутрашњем путничком саобраћају инвалидних лица („<ref id="ref16" href="/rs/act/93/21/srp@">Службени гласник РС“, број 21/93</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>министар за рад, борачка и социјална питања доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о начину  остваривања права инвалидних лица на повластице у унутрашњем путничком  саобраћају</title>
+			<date>„Службени гласник РС”, бр. 31 од 27.  априла 1993, 5 од 12.  јануара 1994, 38 од 10.  јуна 1994.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником ближе се уређује начин остваривања права инвалидних лица и њихових пратилаца на повластице у унутрашњем путничком саобраћају, утврђених Законом о повластицама у унутрашњем путничком саобраћају инвалидних лица (у даљем тексту: Закон), садржина и образац књижице, односно објаве за повлашћену вожњу, као и садржина захтева и документације која се подноси за остваривање накнаде за коришћење повластица.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Захтев за издавање књижице за повлашћену вожњу (у даљем тексту: књижица) инвалидно лице подноси надлежној организацији из <ref>члана 6. </ref>Закона преко њене општинске, регионалне, односно градске организације.*</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Уз захтев из става 1. овог члана, поред доказа о пребивалишту, и две фотографије формата 4,5 х 3,5 цм, инвалидно лице подноси и то:</p>
+							<point id="clan2-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> слепо лице – налаз одговарајуће специјалистичке здравствене установе, односно налаз надлежне лекарске комисије, по прописима из области пензијског и инвалидског осигурања, борачке и инвалидске заштите и социјалне заштите, о постојању слепоће у смислу <ref>члана 2. став 1. </ref>Закона;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> лице оболело од дистрофије и сродних мишићних и неуромишићних болести, плегија, церебралне и дечје парализе и мултипле склерозе – налаз одговарајуће специјалистичке здравствене установе, односно налаз надлежне лекарске комисије по прописима из области пензијског и инвалидског осигурања, борачке и инвалидске заштите или социјалне заштите о постојању одговарајуће болести, као и о утврђивању I категорије инвалидности или потребе за помоћ и негу другог лица по основу тих болести.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>*<ref id="ref17" href="/rs/act/1994/5/srp@">Службени гласник РС, број 5/1994</ref></heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Захтев за издавање објаве за бесплатну вожњу, односно објаве за повлашћену вожњу (у даљем тексту: објава), за свог пратиоца, инвалидно лице подноси надлежној организацији из <ref>члана 6. </ref>Закона преко њене општинске, регионалне, односно градске организације.*</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Приликом подношења захтева из става 1. овог члана, инвалидно лице подноси на увид књижицу.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>*<ref id="ref18" href="/rs/act/1994/5/srp@">Службени гласник РС, број 5/1994</ref></heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Књижица садржи:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> име и презиме и адресу инвалидног лица,</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> број личне карте инвалидног лица и назив органа од кога је издата,</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> лични број инвалидног лица,*</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p>* евиденциони број књижице,</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p>* датум и место издавања,</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p>* назив организације која издаје књижицу,</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p>* оверу књижице приликом издавања,</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p>* извод из Закона – о обиму права инвалидног лица на повластице,</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p>* рубрике за годишњу оверу књижице,</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p>* купоне за оверу сваког појединачног путовања.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Књижица се штампа у облику књиге у брошираном повезу, величине 10 х 7 цм, а када се штампа двојезично, величине 11 х 8 цм на обрасцу број 1, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<heading>*<ref id="ref19" href="/rs/act/1994/5/srp@">Службени гласник РС, број 5/1994</ref></heading>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Објава коју користи пратилац када путује са инвалидним лицем садржи:*</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> име и презиме пратиоца инвалидног лица,*</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> број личне карте пратиоца инвалидног лица и назив органа од кога је издата,*</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> купоне за оверу сваког појединачног путовања.*</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Објава из става 1. овог члана чини саставни део књижице и штампа се на обрасцу број 1 из <ref>члана 4. став 2. овог</ref> правилника.*</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>Објава коју користи пратилац када путује по инвалидно лице или се враћа после праћења инвалидног лица садржи:*</p>
+							<point id="clan5-stav3-tac1">
+								<num>1)</num>
+								<content>
+									<p> име и презиме пратиоца инвалидног лица,*</p>
+								</content>
+							</point>
+							<point id="clan5-stav3-tac2">
+								<num>2)</num>
+								<content>
+									<p> број личне карте пратиоца инвалидног лица и назив органа код кога је издата,*</p>
+								</content>
+							</point>
+							<point id="clan5-stav3-tac3">
+								<num>3)</num>
+								<content>
+									<p> евиденциони број објаве,*</p>
+								</content>
+							</point>
+							<point id="clan5-stav3-tac4">
+								<num>4)</num>
+								<content>
+									<p> датум и место издавања,*</p>
+								</content>
+							</point>
+							<point id="clan5-stav3-tac5">
+								<num>5)</num>
+								<content>
+									<p> назив организације која издаје објаву,*</p>
+								</content>
+							</point>
+							<point id="clan5-stav3-tac6">
+								<num>6)</num>
+								<content>
+									<p> име и презиме инвалидног лица,*</p>
+								</content>
+							</point>
+							<point id="clan5-stav3-tac7">
+								<num>7)</num>
+								<content>
+									<p> назнаку врсте повластице,*</p>
+								</content>
+							</point>
+							<point id="clan5-stav3-tac8">
+								<num>8)</num>
+								<content>
+									<p> полазно и одредишно место путовања,*</p>
+								</content>
+							</point>
+							<point id="clan5-stav3-tac9">
+								<num>9)</num>
+								<content>
+									<p> извод из Закона – о обиму права пратиоца инвалидног лица на повластице,*</p>
+								</content>
+							</point>
+							<point id="clan5-stav3-tac10">
+								<num>10)</num>
+								<content>
+									<p> рубрику за оверу сваког појединачног путовања.*</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>Објава из става 3. овог члана се штампа на листу формата А-5 на једној страни, на обрасцу број 2, који је одштампан уз овај правилник и чини његов саставни део.*</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<heading>*<ref id="ref20" href="/rs/act/1994/38/srp@">Службени гласник РС, број 38/1994</ref></heading>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>На основу књижице, овлашћено лице превозника издаје инвалидном лицу карту за превоз и при том оверава одговарајући купон за путовање у књижици.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>На основу објаве, овлашћено лице превозника издаје пратиоцу инвалидног лица карту за превоз, оверава путовање одобрено у објави, а објава остаје код пратиоца инвалидног лица за даљу употребу.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Издата књижица може се користити само у календарској години за коју је оверена.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Надлежна организација из <ref>члана 6. </ref>Закона врши оверу књижице за годину у којој се књижица издаје.*</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>Оверу књижице за сваку наредну годину врши надлежна организација из <ref>члана 6. </ref>Закона преко своје општинске, регионалне, односно градске организације.*</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<heading>*<ref id="ref21" href="/rs/act/1994/5/srp@">Службени гласник РС, број 5/1994</ref></heading>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Ако инвалидно лице изгуби књижицу, организација која је издала књижицу, издаће му нову књижицу на основу доказа да је изгубљена књижица оглашена неважећом.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Нова књижица издаје се и ако је раније издата књижица дотрајала или је постала неупотребљива. Приликом издавања нове књижице, поништава се онолико купона колико је искоришћено путовања са повластицом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Организација која је издала књижицу огласиће књижицу неважећом, уколико лице коме је издата књижица престане да испуњава услове из <ref>члана 2. </ref>Закона, ако то лице у року од 30 дана од дана престанка испуњавања услова не врати књижицу.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Накнаду за искоришћене повластице превозник остварује подношењем захтева за накнаду Министарству за рад, борачка и социјална питања преко организационе јединице службе надлежне за платни промет код које има жиро рачун.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Уз захтев превозник подноси попуњен општи налог за пренос – образац број 40 – СДК ЈУ, са позивом на рачун Министарства за рад, борачка и социјална питања бр. 60802-637-5299, без уписивања датума, потписа и печата.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>Захтев из става 1. овог члана подноси се на обрасцу број 3, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Када утврди да су поднети захтеви у складу са Законом и одредбама овог правилника, организациона јединица службе надлежне за платни промет из <ref>члана 10. став 1. овог</ref> правилника доставља налог за исплату Министарству за рад, борачка и социјална питања.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Када превоз обавља превозник чије је седиште ван територије Републике Србије, накнаду за искоришћену повластицу инвалидно лице, односно његов пратилац, остварује подношењем захтева за накнаду Министарству за рад, борачка и социјална питања.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav2">
+						<content>
+							<p>Уз захтев, инвалидно лице, односно његов пратилац, подноси фотокопију књижице, односно објаве и карту за извршени превоз.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Лица којима су издате књижице и објаве у складу са прописима који су били на снази до дана ступања на снагу Закона могу, за остваривање Законом утврђених права, те исправе користити најкасније до краја 1994.* године.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan14">
+				<num>14.</num>
+				<heading>*<ref id="ref22" href="/rs/act/1994/5/srp@">Службени гласник РС&quot;, број 5/1994</ref></heading>
+				<content>
+					<clause id="clan14-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav2">
+						<content>
+							<p>Број 110-37/93-10</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav3">
+						<content>
+							<p>У Београду, 21. априла 1993. године</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav5">
+						<content>
+							<p>др Јован Радић, с. р.</p>
+						</content>
+					</clause>
+					<став id="clan14-stav6">
+						<img border="0" height="828" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/1.htm2.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423563&amp;regactid=423563" width="616"/>
+						<content/>
+					</став>
+					<став id="clan14-stav7">
+						<img border="0" height="812" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/2.htm3.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423563&amp;regactid=423563" width="636"/>
+						<content/>
+					</став>
+					<clause id="clan14-stav8">
+						<content>
+							<p>НАПОМЕНА ИЗДАВАЧА:  Правилникoм  о изменама и допунама  Правилника  о начину остваривања права инвалидних лица на повластице у унутрашњем путничком  саобраћају („<ref id="ref23" href="/rs/act/1994/5/srp@">Службени гласник РС&quot;, број 5/1994</ref>), чланом 6. прописано је да се у књижици за повлашћену  вожњу инвалидног лица приликом издавања, однонсо овере, књижицње на првој  унутрашњој страни у рубрици у којој се уписује име и презиме корисника уписује и  лични број корисника (види <ref>члан 6. </ref>Правилника - 5/1994-74).</p>
+						</content>
+					</clause>
+					<став id="clan14-stav9">
+						<img border="0" height="810" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/3.htm4.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423563&amp;regactid=423563" width="647"/>
+						<content/>
+					</став>
+					<став id="clan14-stav10">
+						<img border="0" height="838" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/4.htm1.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423563&amp;regactid=423563" width="574"/>
+						<content/>
+					</став>
+					<став id="clan14-stav11">
+						<img border="0" height="812" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/5.htm2.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423563&amp;regactid=423563" width="644"/>
+						<content/>
+					</став>
+					<clause id="clan14-stav12">
+						<content>
+							<p>НАПОМЕНА  ИЗДАВАЧА:  Правилникoм  о изменама и допунама  Правилника  о начину остваривања права инвалидних лица на повластице у унутрашњем путничком  саобраћају („<ref id="ref24" href="/rs/act/1994/38/srp@">Службени гласник РС&quot;, број 38/1994</ref>), после четврте унутрашње стране додата је нова пета  унутрашња страна (види <ref>члан 2. </ref>Правилника  38/1994-1190).</p>
+						</content>
+					</clause>
+					<став id="clan14-stav13">
+						<img border="0" height="279" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/nova5a13.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423563&amp;regactid=423563" width="516"/>
+						<content/>
+					</став>
+					<став id="clan14-stav14">
+						<img border="0" height="185" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/nova5b14.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423563&amp;regactid=423563" width="519"/>
+						<content/>
+					</став>
+					<clause id="clan14-stav15">
+						<content>
+							<p>НАПОМЕНА  ИЗДАВАЧА:  Правилникoм  о изменама и допунама  Правилника  о начину остваривања права инвалидних лица на повластице у унутрашњем путничком  саобраћају („<ref id="ref25" href="/rs/act/1994/38/srp@">Службени гласник РС&quot;, број 38/1994</ref>), у дотадашњој петој унутрашњој страни у горњем левом  углу у загради реч &quot;пета&quot; замењена је речју &quot;шеста&quot; и дотадашња пета унутрашња  страна је постала шеста унутрашња страна (види <ref>члан 2.  </ref>Правилника  38/1994-1190).</p>
+						</content>
+					</clause>
+					<став id="clan14-stav16">
+						<img border="0" height="854" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/6.htm3.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423563&amp;regactid=423563" width="650"/>
+						<content/>
+					</став>
+					<clause id="clan14-stav17">
+						<content>
+							<p>*<ref id="ref26" href="/rs/act/1994/38/srp@">Службени гласник РС, број 38/1994</ref></p>
+						</content>
+					</clause>
+					<clause id="clan14-stav18">
+						<content>
+							<p>НАПОМЕНА  ИЗДАВАЧА:  Правилникoм  о изменама и допунама  Правилника  о начину остваривања права инвалидних лица на повластице у унутрашњем путничком  саобраћају („<ref id="ref27" href="/rs/act/1994/38/srp@">Службени гласник РС&quot;, број 38/1994</ref>), после дотадашње пете унутрашње стране која је  постала шеста унутрашња страна, додата је седма унутрашња страна (види <ref>члан 2.  </ref>Правилника  38/1994-1190)</p>
+						</content>
+					</clause>
+					<став id="clan14-stav19">
+						<img border="0" height="507" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/7a.htm5.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423563&amp;regactid=423563" width="524"/>
+						<content/>
+					</став>
+					<clause id="clan14-stav20">
+						<content>
+							<p>НАПОМЕНА ИЗДАВАЧА:  Правилникoм  о изменама и допунама  Правилника  о начину остваривања права инвалидних лица на повластице у унутрашњем путничком  саобраћају („<ref id="ref28" href="/rs/act/1994/38/srp@">Службени гласник РС&quot;, број 38/1994</ref>), 64, 65. и 66.страна постале су 124, 125. и 126. страна (види <ref>члан 2. </ref>Правилника – 38/1994-1190).</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav21">
+						<content>
+							<p>НАПОМЕНА ИЗДАВАЧА:  Правилникoм  о изменама и допунама  Правилника  о начину остваривања права инвалидних лица на повластице у унутрашњем путничком  саобраћају („<ref id="ref29" href="/rs/act/1994/38/srp@">Службени гласник РС&quot;, број 38/1994</ref>) замењен је Образац број 2.  (види <ref>члан 2.  </ref>Правилника – 38/1994-1190).</p>
+						</content>
+					</clause>
+					<став id="clan14-stav22">
+						<img border="0" height="489" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/nov2.h10.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423563&amp;regactid=423563" width="522"/>
+						<content/>
+					</став>
+					<став id="clan14-stav23">
+						<img border="0" height="402" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/nov2.h11.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423563&amp;regactid=423563" width="505"/>
+						<content/>
+					</став>
+					<став id="clan14-stav24">
+						<img border="0" height="822" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/obraza12.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423563&amp;regactid=423563" width="618"/>
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

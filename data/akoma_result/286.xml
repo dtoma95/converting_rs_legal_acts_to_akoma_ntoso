@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1994/23-263/main"/>
+					<FRBRuri value="/rs/act/1994/23-263"/>
+					<FRBRdate date="1994" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1994/23-263/srp@/main"/>
+					<FRBRuri value="/rs/act/1994/23-263/srp@"/>
+					<FRBRdate date="1994" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1994/23-263/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1994/23-263/srp@.akn"/>
+					<FRBRdate date="1994" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1994-3-17" name="службени лист срј" number="23" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Наредба" value="наредба"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="4. Заштита биља" value="4. заштита биља"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1994-03-17" id="usvajanje"/>
+				<step date="1994-03-18" id="stupanje_na_snagu"/>
+				<step date="1994-03-18" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 59. тачка 3</ref>, а у вези са чланом 2. став 2. Закона о заштити биља од болести и штеточина које угрожавају целу земљу (“<ref id="ref1" href="/rs/act/89/74/srp@">Службени лист СФРЈ”, бр. 74/89</ref>), савезни министар за пољопривреду издаје</p>
+		</preamble>
+		<preface>
+			<authority>НАРЕДБУ</authority>
+			<title>О ПРЕДУЗИМАЊУ МЕРА ЗА СПРЕЧАВАЊЕ ШИРЕЊА КАРАНТИНСКЕ БИЉНЕ ШТЕТОЧИНЕ DIABROTICA VIRGIFERA LE CONTE</title>
+			<date>„Службени лист СРЈ”, број 23 од 17. III 1994.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Ради утврђивања присуства карантинске биљне штеточине Diabrotica virgifera Le Conte, држаоци биља дужни су да врше преглед парцела засејаних кукурузом и да, ако посумњају на присуство наведене штеточине, обавесте о томе Савезно министарство за пољопривреду, републички орган управе надлежан за послове заштите биља и најближе предузеће, односно друго правно лице које има стручну службу за заштиту биља.</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Ради спречавања ширења карантинске биљне штеточине Diabrotica virgifera Le Conte, забрањује се гајење кукуруза у монокултури (на земљишту на коме је кукуруз гајен током једне године или више година), у несељеним местима следећих општина: Земун (Батајница, Бољевци, Добановци, Сурчин, Земун и Земун Поље); Панчево (Панчево и Борча); Пећинци (Пећинци, Попинци и Шимановци); Стара Пазова (Стара Пазова и Нови Бановци); Нови Београд (Нови Београд и Ледине), Чукарица (Умка) и Палилула (Вишњичка Бања и Мокри Себеш).</heading>
+				<content/>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Ова наредба ступа на снагу наредног дана од дана објављивања у „Службеном листу СРЈ”.</heading>
+				<content>
+					<clause id="od3-stav1">
+						<content>
+							<p>Број 6/0-03-006/006</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od17">
+				<num>17.</num>
+				<heading> марта 1994. године</heading>
+				<content>
+					<clause id="od17-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od17-stav2">
+						<content>
+							<p>Савезни министар</p>
+						</content>
+					</clause>
+					<clause id="od17-stav3">
+						<content>
+							<p>за пољопривреду</p>
+						</content>
+					</clause>
+					<clause id="od17-stav4">
+						<content>
+							<p>др Ковиљко Ловре, с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

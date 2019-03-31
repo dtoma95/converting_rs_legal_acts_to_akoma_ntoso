@@ -1,0 +1,348 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1999/42-5/main"/>
+					<FRBRuri value="/rs/act/1999/42-5"/>
+					<FRBRdate date="1999" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2010/46-44/srp@/main"/>
+					<FRBRuri value="/rs/act/2010/46-44/srp@"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2010/46-44/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2010/46-44/srp@.akn"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1999-6-18" name="службени лист срј" number="42" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="4. Заштита биља" value="4. заштита биља"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1999-03-10" id="usvajanje"/>
+				<step date="1999-12-31" id="stupanje_na_snagu"/>
+				<step date="1999-12-31" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="42/1999-5" id="e1" type="generation"/>
+				<eventRef date="46/2010-44" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Престао је да важи у делу који се односи на пружање услуга у области заштите здравља биља (види <ref>члан 12. </ref>Правилника - 46/2010-44).</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<authority>На основу чл. 6. и 17. став 2. Закона о заштити биља (“<ref id="ref6" href="/rs/act/98/24/srp@">Службени лист СРЈ”, бр. 24/98</ref>), Савезно министарство за пољопривреду прописује</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>О ПРУЖАЊУ УСЛУГА У ОБЛАСТИ ЗАШТИТЕ БИЉА</title>
+			<date>„Службени лист СРЈ”, број 42 од 18. VI 1999.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се опрема и уређаји које морају имати правна лица и предузетници који пружају услуге у области заштите биља, као и услови које морају испуњавати физичка лица која пружају те услуге.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Пружањем услуга у области заштите биља сматра се пружање стручне помоћи у организовању и спровођењу мера сузбијања штетних организама (биљних болести, штеточина и корова) на биљу у пољу и у затвореном простору. Услуге могу бити саветодавне и оперативне.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Саветодавним услугама из става 1. овог члана сматрају се идентификација штетних организама (у пољу и у затвореном простору, односно на основу узорака у лабораторији) и давање препоруке (рецепта) за њихово сузбијање од стране стручњака за заштиту биља.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Оперативним услугама из става 1. овог члана сматра се спровођење мера заштите биља у пољу и у затвореном простору.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Саветодавне услуге могу вршити правна лица која имају одговарајућу опрему за детерминацију штетних организама (бинокулар, микроскоп, лупа и друго).</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Саветодавне услуге може вршити и физичко лице - стручњак за заштиту биља, који има цертификат за писање препоруке (рецепт) и најмање пет година радног стажа у области заштите биља.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Оперативне услуге могу вршити правна лица која имају одговарајућу опрему и уређаје (атомизери, прскалице, орошивачи и друго) за пружање услуга у спровођењу мера заштите биља, који морају бити атестирани.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Оперативне услуге могу вршити предузетници који имају одговарајућу опрему и уређаје из <ref>члана 4. овог</ref> правилника.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Оперативне услуге могу вршити и физичка лица - стручњаци за заштиту биља који имају опрему и уређаје из <ref>члана 4. овог</ref> правилника.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Физичко лице које није стручњак за заштиту биља, а располаже опремом и уређајима из <ref>члана 4. овог</ref> правилника, може вршити оперативне услуге ако са правним лицем из <ref>члана 4. овог</ref> правилника, односно са предузетником, односно са физичким лицем из <ref>члана 3. став 2. овог</ref> правилника, закључи уговор о пружању стручне помоћи у области заштите биља.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Контролу опреме и уређаја који се користе за пружање услуга у области заштите биља могу вршити правна лица и предузетници који имају стручњака за заштиту биља, стручњака за механизацију пољопривреде и одговарајућу опрему и уређаје за контролу техничке исправности машина и апарата за примену пестицида.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Пре стављања уређаја за заштиту биља у промет, домаћи произвођач или заступник иностраног произвођача дужан је да поднесе доказ о извршеном атестирању односно техничкој истравности тих уређаја.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Атестирањем из става 1. овог члана сматра се провера функционалности и техничке исправности уређаја и појединачних склопова (према намени), и оцена функционисања појединих склопова и уређаја у целини, као и процену опасности по руковаоца и околину при раду.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>Атест из става 2. овог члана издаје се за новоконструисане или иновиране машине и уређаје.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Контролу опреме и уређаја за примену пестицида може вршити овлашћена организација која поседује:</p>
+							<point id="clan9-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> инструменте и опрему за мерење и трасирање пута (мерни точак или пантљика, трасирке, заставице и друго);</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> опрему и уређаје за мерење броја обртаја (обртомер);</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> опрему и уређаје за мерење времена (хронометар, штоперица);</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> опрему за мерење протока (квантометар);</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> опрему за контролу притиска (манотест);</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> опрему за контролу ваздушне струје (брзине, количине, дистрибуције);</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> опрему за контролу дистрибуције течности (пробни сто) и чврстих честица;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> опрему за мерење величине и дистрибуције капи.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Под техничком исправношћу уређаја за примену пестицида подразумева се стање радних склопова (распршивача, разводног система мешалице, пумпе, вентилатора и усмеривача, склопова за пренос снаге и транспорт и других виталних делова за правилну дисперзију пестицида), декларисано у атесту.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Доказ о техничкој исправности уређаја за примену пестицида, који издаје овлашћена организација, важи две године.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Доказ о техничкој исправности нових, иновираних и постојећих уређаја за примену пестицида добија се на основу поднете пријаве и испуњења критеријума о квалитету и функционалности уређаја за примену пестицида.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Пријава из става 1. овог члана садржи:</p>
+							<point id="clan11-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив и адресу произвођача, односно заступника;</p>
+								</content>
+							</point>
+							<point id="clan11-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> област примене, опис намене и функционисања уређаја;</p>
+								</content>
+							</point>
+							<point id="clan11-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> упутство за употребу;</p>
+								</content>
+							</point>
+							<point id="clan11-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> техничку документацију о квалитету и функционисању уређаја.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Овлашћена организација извршиће контролу техничке исправности атестираних уређаја у року од 15 дана од дана подношења пријаве.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav2">
+						<content>
+							<p>Ако се прегледом уређаја утврди да они испуњавају прописане услове и стандарде за поједине начине примене пестицида (прскање, орошавање замагљивање, растурање и депоновање гранула, ињектовање и друго) и да им сви склопови функционишу, сагласно наводима у атесту, издаје се потврда о техничкој исправности.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav3">
+						<content>
+							<p>Уз потврду о техничкој исправности уређаја за примену пестицида, овлашћена организација издаје и налепницу, која се поставља на видно место на уређају.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav4">
+						<content>
+							<p>Налепница из става 3. овог члана треба да садржи ознаку “АТЕСТИРАНО” и назив овлашћене организације која је извршила атестирање.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу 31. децембра 1999. године.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav2">
+						<content>
+							<p>Бр. 6/0-06-003/001</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<section id="od10">
+				<num>10.</num>
+				<heading> марта 1999. године</heading>
+				<content>
+					<clause id="od10-clan13-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od10-clan13-stav2">
+						<content>
+							<p>Савезни министар за</p>
+						</content>
+					</clause>
+					<clause id="od10-clan13-stav3">
+						<content>
+							<p>пољопривреду</p>
+						</content>
+					</clause>
+					<clause id="od10-clan13-stav4">
+						<content>
+							<p>Недељко Шиповац, с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

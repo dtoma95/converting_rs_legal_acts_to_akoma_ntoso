@@ -1,0 +1,947 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2013/57-80/main"/>
+					<FRBRuri value="/rs/act/2013/57-80"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2013/57-80/srp@/main"/>
+					<FRBRuri value="/rs/act/2013/57-80/srp@"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2013/57-80/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2013/57-80/srp@.akn"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2013-7-3" name="службени гласник рс" number="57" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="3. Семе и садни материјал" value="3. семе и садни материјал"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2013-06-26" id="usvajanje"/>
+				<step date="2013-07-11" id="stupanje_na_snagu"/>
+				<step date="2013-07-11" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 5. став 2. </ref>Закона о признавању сорти пољопривредног биља („<ref id="ref4" href="/rs/act/10/30/srp@">Службени гласник РС”, број 30/10</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, шумарства и водопривреде доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о методама испитивања сорте конопље (Cannabis sativa L.) ради признавања сорте</title>
+			<date>&quot;Службени гласник РС&quot;,      број 57 од 3. јула 2013.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се методе испитивања сорте конопље Cannabis sativa L. (у даљем тексту: сорта) на огледном пољу и у лабораторији, ради признавања сорте.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Методама из става 1. овог члана испитују се одређене битне особине сорте, ради утврђивања:</p>
+							<point id="clan1-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> производне и употребне вредности сорте (VCU тест);</p>
+								</content>
+							</point>
+							<point id="clan1-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> различитости, униформности и стабилности сорте (DUS тест).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Испитивање производне и употребне вредности сорте (VCU тест) утврђује се на основу резултата одређених битних особина сорте које се односе на:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> принос ваздушно суве стабљике (са 10% влаге);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> садржај влакна у ваздушно сувој стабљици;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> принос зрна (са 13% влаге);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> хектолитарску масу зрна;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> масу 1000 зрна;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> садржај протеина у зрну;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> садржај уља у зрну;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> садржај тетрахидроканабинола (ТНС), који не прелази проценат прописан законом којим се уређују психоактивне контролисане супстанце.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Сорта се испитује тако што се битне особине из става 1. овог члана сорте која се испитује упоређују са битним особинама једне или више сорти стандард, у складу са законом којим се уређује признавање сорти пољопривредног биља.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Сорта се испитује у једном или више огледа постављених на огледном пољу на више локалитета. Оглед чине елементарне парцеле на којима се врши испитивање.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Оглед из става 1. овог члана изводи се по плану „потпуно случајног блок система” у четири понављања.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Сорта се испитује на огледном пољу у складу са захтевом за признавање сорте у којем власник сорте, односно његов овлашћени заступник предлаже да се сорта, ради испитивања, разврста у одговарајућу групу према циљу гајења. Тако разврстана сорта сеје се, ради испитивања, у одговарајући оглед.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Приликом подношења захтева за признавање сорте из става 1. овог члана треба назначити и тип конопље: дводома, једнодома или хибридна.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Сорта се у складу са ставом 1. овог члана разврстава у одређене огледе према циљу гајења:</p>
+							<point id="clan4-stav3-tac1">
+								<num>1)</num>
+								<content>
+									<p> за влакно;</p>
+								</content>
+							</point>
+							<point id="clan4-stav3-tac2">
+								<num>2)</num>
+								<content>
+									<p> за зрно;</p>
+								</content>
+							</point>
+							<point id="clan4-stav3-tac3">
+								<num>3)</num>
+								<content>
+									<p> за комбиновану употребу (за влакно и зрно).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Семе сорте које се доставља за испитивање на огледном пољу треба да испуњава услове у погледу квалитета, да је здравствено исправно и третирано фунгицидима.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Предусев на целој површини огледног поља на коме се врши испитивање сорте мора да буде иста култура.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Сорта на истој елементарној парцели може да се сеје најмање после две године, под условом да у том периоду нису сејане друге уљане биљне врсте.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>Сорта се испитује на земљишту које је пре сетве испитано на присутност земљишних штеточина и, по потреби, изводи се предсетвено третирање инсектицидима.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav4">
+						<content>
+							<p>Количине минералних ђубрива, време и начин њихове примене, као и остале агротехничке мере примењују се на огледном пољу тако да буду у складу са највишим нивоом технологије производње конопље, а ради испољавања генетског потенцијала сорте.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav5">
+						<content>
+							<p>Сетву сорти у једном огледу треба обавити истог дана и у року који се у том локалитету сматра оптималним.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>У зависности од циља гајења из <ref>члана 4. овог</ref> правилника поставља се оглед за испитивање сорте са елементима датим у Табели – Елементи огледа за испитивање сорте.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Табела – Елементи огледа за испитивање сорте</p>
+						</content>
+					</clause>
+					<став id="clan7-stav3">
+						<table class="tabela-sa-borderom">
+							
+					
+							<tbody>
+								
+						
+								<tr>
+									
+							
+									<td class="bold">
+										
+								
+										<p>Елементи огледа</p>
+										
+							
+									</td>
+									
+							
+									<td class="bold" style="width: 20%">
+										
+								
+										<p>за влакно</p>
+										
+							
+									</td>
+									
+							
+									<td class="bold" style="width: 20%">
+										
+								
+										<p>за зрно</p>
+										
+							
+									</td>
+									
+							
+									<td class="bold" style="width: 20%">
+										
+								
+										<p>за комбиновану употребу</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>дужина елементарне парцеле</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>10 m</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>10 m</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>10 m</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>ширина елементарне парцеле</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>2 m</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>2 m</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>2 m</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>површина елементарне парцеле</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>20 m2</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>20 m2</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>20 m2</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>дубина сетве</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>3 – 5 cm</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>3 – 5 cm</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>3 – 5 cm</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>размак између редова</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>12,5 cm</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>50 cm</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>25 cm</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>размак у реду</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>2 – 3 cm</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>18 – 20 cm</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>4 – 5 cm</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>број редова по елементарној парцели</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>16</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>4</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>8</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>размак између блокова (понављања)</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>2,5 – 3 m</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>2,5 – 3 m</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>2,5 – 3 m</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>заштитни појас</p>
+										
+								
+										<p>(око целог огледа минимум)</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>4 реда</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>2 – 4 реда</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style1" style="width: 20%">
+										
+								
+										<p>2 реда</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+					
+							</tbody>
+							
+				
+						</table>
+						
+				
+						<content/>
+					</став>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>У периоду вегетације сорте на огледном пољу евидентирају се следећи подаци:</p>
+							<point id="clan8-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> датум сетве;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> датум ницања (када је више од 50% никлих биљака);</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> датум цветања (када је више од 50% мушких биљака у цветању код дводоме сорте или 50% биљака у цветању код једнодоме или хибридне сорте);</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> датум жетве;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> висина биљке у моменту жетве (укупна висина мерена у cm на по 10 случајно одабраних биљака по елементарној парцели);</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> дебљина стабљике у моменту жетве (мерена шублером, у mm са тачношћу 0,1 mm, на 30 cm изнад површине земље, на по 10 случајно одабраних биљака по елементарној парцели).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Жетва конопље за влакно обавља се у технолошкој зрелости, и то код дводоме конопље у моменту прецветавања мушких биљака, односно код једнодоме и хибридне конопље у моменту прецветавања биљака женског типа. Стабљике се секу на висини 4–5 cm изнад површине земље. Посечене стабљике везују се на два места у снопове пречника око 15 cm. Снопови са исте елементарне парцеле слажу се одвојено од снопова са других елементарних парцела у облику „рибље кости”, ради природног просушивања.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Жетва конопље за зрно и за комбиновану употребу обавља се у технолошкој зрелости, односно у моменту када при енергичном трешењу стабљике почиње осипање зрна. Стабљике се секу на висини 5 cm изнад површине земље. Посечене стабљике на свакој елементарној парцели (пажљиво да се семе не осипа) слажу се у облику „рибље кости”, ради природног просушивања.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav3">
+						<content>
+							<p>За одређивање приноса зрна потребно је овршити зрно ударањем биљака о косо постављену даску и сакупљањем зрна које при томе испада. Мери се ваздушно сува маса зрна по елементарној парцели.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav4">
+						<content>
+							<p>За одређивање приноса стабљике мери се ваздушно сува маса свих снопова са исте елементарне парцеле, а за одређивање приноса стабљике сорте за комбиновану употребу мери се ваздушно сува маса свих претходно овршених снопова са исте елементарне парцеле.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Извођач огледа обавља жетву у фази пуне зрелости сваке сорте посебно, без чекања да се цео оглед истовремено пожање.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Ако се у току испитивања сорте на огледном пољу појаве болести, биљне штеточине или паразитни корови у значајнијем броју врши се њихово евидентирање.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>У току жетве конопље за влакно и комбиновану употребу узима се узорак за утврђивање садржаја влаге и влакана у стабљици у моменту одређивања приноса стабљике. Узорак се саставља формирањем новог снопа узимањем неколико случајно одабраних стабљика из сваког снопа са свих понављања. Пречник тог снопа треба да буде око 15 cm. Узорак се даље сече на делове дужине 15 cm рачунајући 30 cm од земље.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav2">
+						<content>
+							<p>У току жетве конопље за зрно и комбиновану употребу узима се просечан узорак зрна укупне величине 1 kg који је састављен од једнаке количине зрна са сваке елементарне парцеле исте сорте. Узорак се узима у моменту мерења приноса зрна.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav3">
+						<content>
+							<p>За одређивање садржаја тетрахидроканабинола (ТНС) узима се узорак у вршним деловима биљака дужине 30 cm. Узорци се узимају са по 10 случајно одабраних биљака по сорти у фази млечно-воштане зрелости зрна. Мушке биљке дводоме сорте се не узоркују.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav4">
+						<content>
+							<p>Узорак из ст. 1–3. овог члана пакује се у натрон или платнену кесу, затвара, обележава додељеним шифрованим ознакама као и сорта на огледном пољу и доставља се на лабораторијску анализу.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Анализе у лабораторији обављају се на просечном узорку формираном из свих понављања са једног локалитета.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav2">
+						<content>
+							<p>На сваком узорку обавља се следећа анализа:</p>
+							<point id="clan13-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> за влакно и комбиновану употребу:</p>
+									<item id="clan13-stav2-tac1-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> садржај влаге у стабљици у процентима,</p>
+										</content>
+									</item>
+									<item id="clan13-stav2-tac1-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> садржај влакна у стабљици у процентима у односу на ваздушно суву стабљику (са 10% влаге);</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan13-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> за зрно и комбиновану употребу:</p>
+									<item id="clan13-stav2-tac2-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> маса 1000 зрна (g, са 13% влаге),</p>
+										</content>
+									</item>
+									<item id="clan13-stav2-tac2-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> садржај влаге у зрну у процентима,</p>
+										</content>
+									</item>
+									<item id="clan13-stav2-tac2-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> хектолитарска маса зрна (kg),</p>
+										</content>
+									</item>
+									<item id="clan13-stav2-tac2-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> садржај протеина у зрну у процентима (са 13% влаге),</p>
+										</content>
+									</item>
+									<item id="clan13-stav2-tac2-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> садржај уља у зрну у процентима (са 13% влаге);</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan13-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> за влакно, зрно и комбиновану употребу:</p>
+									<item id="clan13-stav2-tac3-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> садржај тетрахидроканабинола (ТНС) у процентима у односу на суву материју узорка.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan14">
+				<num>14.</num>
+				<content>
+					<clause id="clan14-stav1">
+						<content>
+							<p>Извођач огледа који испитује сорту на огледном пољу евидентира следеће податке: назив извођача огледа; име и презиме одговорног лица за извођење огледа; локалитет на коме се изводи оглед; тип земљишта и садржај хранљивих материја у земљишту на коме се налази огледно поље; предусев; обављене агротехничке мере; податке из <ref>члана 8. овог</ref> правилника; принос ваздушно суве стабљике (са 10% влаге) и принос зрна (са 13% влаге) у складу са чланом 9. овог правилника, као и друге податке који утичу на принос испитиване сорте (оштећења од дивљачи, птица, штеточина и природних непогода и друго).</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav2">
+						<content>
+							<p>Извођач огледа који испитује сорту у лабораторији евидентира податке из <ref>члана 13. овог</ref> правилника, као и назив лабораторије, одговорно лице за извођење анализе, локалитет и шифровану ознаку сорте са локалитета на коме се изводи оглед.</p>
+						</content>
+					</clause>
+					<clause id="clan14-stav3">
+						<content>
+							<p>Подаци из ст. 1. и 2. овог члана саставни су део годишњих и коначних резултата испитивања.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan15">
+				<num>15.</num>
+				<content>
+					<clause id="clan15-stav1">
+						<content>
+							<p>Испитивање различитости, униформности и стабилности сорте (DUS тест) спроводи се методом одређеном техничким упутством за тестирање различитости, униформности и стабилности сорте.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan16">
+				<num>16.</num>
+				<content>
+					<clause id="clan16-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav2">
+						<content>
+							<p>Број 110-00-96/2013-09</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav3">
+						<content>
+							<p>У Београду, 26. јуна 2013. године</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan16-stav5">
+						<content>
+							<p>Горан Кнежевић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

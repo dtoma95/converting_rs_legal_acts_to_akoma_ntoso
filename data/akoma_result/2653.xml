@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1981/51-1289/main"/>
+					<FRBRuri value="/rs/act/1981/51-1289"/>
+					<FRBRdate date="1981" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1981/51-1289/srp@/main"/>
+					<FRBRuri value="/rs/act/1981/51-1289/srp@"/>
+					<FRBRdate date="1981" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1981/51-1289/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1981/51-1289/srp@.akn"/>
+					<FRBRdate date="1981" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1981-9-25" name="службени лист сфрј" number="51" showAs="Службени лист СФРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Наредба" value="наредба"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="3. Војна опрема, наоружање и роба двоструке намене" value="3. војна опрема, наоружање и роба двоструке намене"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1981-09-09" id="usvajanje"/>
+				<step date="1981-10-03" id="stupanje_na_snagu"/>
+				<step date="1981-10-03" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 91. тачка 12</ref>. Закона о производњи наоружања и војне опреме („<ref id="ref1" href="/rs/act/79/30/srp@">Службени лист СФРЈ“, бр. 30/79</ref>), савезни секретар за народну одбрану издаје</p>
+		</preamble>
+		<preface>
+			<authority>НАРЕДБУ</authority>
+			<title>о техничкој документацији и другим условима које морају испуњавати наоружање и  војна опрема за стављање у промет у земљи</title>
+			<date>„Службени лист СФРЈ”, број 51 од 25. септембра 1981.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Наоружање и војна опрема морају за стављање у промет у земљи, бити засновани на техничкој документацији, под којом се, у смислу ове наредбе, подразумевају:</heading>
+				<content>
+					<point id="od1-tac1">
+						<num>1)</num>
+						<content>
+							<p> конструкциона документација, технички услови, односно прописи квалитета производа и специфични део технолошке документације неопходан за обезбеђење и контролу прописаног квалитета наоружања и војне опреме, које је одобрио надлежни орган;</p>
+						</content>
+					</point>
+					<point id="od1-tac2">
+						<num>2)</num>
+						<content>
+							<p> прописани стандарди предвиђени за производњу одређене врсте наоружања и војне опреме;</p>
+						</content>
+					</point>
+					<point id="od1-tac3">
+						<num>3)</num>
+						<content>
+							<p> техничка правила и упутства за руковање, одржавање и ремонт и именик саставних делова, алата и прибора за наоружање и војну опрему који се стављају у промет у земљи.</p>
+						</content>
+					</point>
+					<clause id="od1-stav1">
+						<content>
+							<p>Зависно од сложености средстава наоружања и војне опреме који се стављају у промет, уговором о набавки ближе се одређује врста документације из става 1. овог тачке.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> За стављање у промет у земљи, наоружање и војна опрема морају да испуњавају и ове услове:</heading>
+				<content>
+					<point id="od2-tac1">
+						<num>1)</num>
+						<content>
+							<p> да су по успешно завршеном развоју испитани и усвојени у наоружању оружаних снага СФРЈ;</p>
+						</content>
+					</point>
+					<point id="od2-tac2">
+						<num>2)</num>
+						<content>
+							<p> да имају карактеристике и квалитет предвиђен техничком документацијом из тачке 1. ове наредбе;</p>
+						</content>
+					</point>
+					<point id="od2-tac3">
+						<num>3)</num>
+						<content>
+							<p> да имају потврду о квалитету коју је издала војна контрола квалитета и поузданости, односно стручна комисија вида оружаних снага СФРЈ или интерна контрола квалитета и поузданости (ако је за то овлашћена) организације удруженог рада која производи наоружање и војну опрему и атесте (потврде, уверења или извештаје) о квалитету склопова, подсклопова, полупроизвода, сировина и материјала који је употребљен за производњу наоружања и војне опреме.</p>
+						</content>
+					</point>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Ова наредба ступа на снагу осмог дана од дана објављивања у „Службеном листу СФРЈ”.</heading>
+				<content>
+					<clause id="od3-stav1">
+						<content>
+							<p>Р. в. п. бр. 36</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od9">
+				<num>9.</num>
+				<heading> септембра 1981. године</heading>
+				<content>
+					<clause id="od9-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od9-stav2">
+						<content>
+							<p>Савезни секретар за</p>
+						</content>
+					</clause>
+					<clause id="od9-stav3">
+						<content>
+							<p>народну одбрану</p>
+						</content>
+					</clause>
+					<clause id="od9-stav4">
+						<content>
+							<p>генерал армије,</p>
+						</content>
+					</clause>
+					<clause id="od9-stav5">
+						<content>
+							<p>Никола Љубичић, с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

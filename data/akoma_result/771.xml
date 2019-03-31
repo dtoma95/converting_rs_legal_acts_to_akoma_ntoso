@@ -1,0 +1,962 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2016/39-120/main"/>
+					<FRBRuri value="/rs/act/2016/39-120"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2016/95-52/srp@/main"/>
+					<FRBRuri value="/rs/act/2016/95-52/srp@"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2016/95-52/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2016/95-52/srp@.akn"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2016-4-15" name="службени гласник рс" number="39" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Статут" value="статут"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="8. Девизно пословање и страна улагања" value="8. девизно пословање и страна улагања"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2016-02-11" id="usvajanje"/>
+				<step date="2016-02-11" id="stupanje_na_snagu"/>
+				<step date="2016-02-11" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="39/2016-120" id="e1" type="generation"/>
+				<eventRef date="78/2016-34" id="e2" type="amendment"/>
+				<eventRef date="95/2016-52" id="e3" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Статут је ступио на снагу даном усвајања, односно 11. фебруара 2016. године (види <ref>члан 34. </ref>Статута).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу <ref>члана 32. став 1. тачка 1</ref>. Закона о улагањима („<ref id="ref4" href="/rs/act/15/89/srp@">Службени гласник РС”, број 89/15, </ref>у даљем тексту: Закон) и <ref>члана 15. став 1. </ref>Закона о јавним агенцијама („<ref id="ref5" href="/rs/act/05/18/srp@">Службени гласник РС”, бр. 18/05</ref> и 81/05 – исправка),</p>
+		</preamble>
+		<preface>
+			<authority>Управни одбор Развојне агенције Србије нa првој седници одржаној 25. децембра 2015. године, усваја</authority>
+			<title>СТАТУТ</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 39. од 15.      априла 2016, 78 од 16. септембра 2016 - исправка, 95 од 30.      новембра 2016.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОСНОВНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Развојна агенција Србије (у даљем тексту: Агенција) основана је Законом о улагањима („<ref id="ref6" href="/rs/act/15/89/srp@">Службени гласник РС”, број 89/15</ref>), ради обављања развојних, стручних и оперативних послова подстицања и реализације директних улагања, промоције и повећања извоза, развоја и унапређења конкурентности привредних субјеката, угледа и развоја Републике Србије у области привреде и регионалног развоја.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Агенција има статус правног лица са правима, обавезама и одговорностима утврђеним законом и овим статутом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Назив Агенције је: Развојна агенција Србије.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav2">
+								<content>
+									<p>Скраћени назив Агенције је: РАС.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav3">
+								<content>
+									<p>У пословној комуникацији са иностранством Агенција користи и енглески превод свог назива који гласи: Serbian Development Agency.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav4">
+								<content>
+									<p>Седиште Агенције је у Београду,      Кнеза Милоша 12.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan4">
+						<num>4.</num>
+						<heading>*<ref id="ref7" href="/rs/act/2016/95/srp@">Службени гласник РС, број 95/2016</ref></heading>
+						<content>
+							<clause id="gla1-clan4-stav1">
+								<content>
+									<p>Агенција може имати организационе јединице ван свог седишта.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan4-stav2">
+								<content>
+									<p>Организационе јединице немају статус правног лица.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla1-clan5-stav1">
+								<content>
+									<p>Агенција има печат и штамбиљ.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan5-stav2">
+								<content>
+									<p>Печат Агенције је кружног облика, пречника 32 mm, у чијој је средини мали грб Републике Србије и садржи текст: „Развојна агенција Србије – Београд”.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan5-stav3">
+								<content>
+									<p>Штамбиљ Агенције је правоугаоног облика и садржи текст: „Развојна агенција Србије” и рубрике за упис датума пријема поднеска и деловодни број под којим ће се поднесак завести.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan5-stav4">
+								<content>
+									<p>Текст печата и штамбиља се исписује на српском језику ћириличним писмом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla1-clan6-stav1">
+								<content>
+									<p>Директор Агенције посебним актом утврђује начин употребе и чувања печата и штамбиља Агенције.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla1-clan7-stav1">
+								<content>
+									<p>Агенција има заштитни знак који користи у пословању са трећим лицима.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan7-stav2">
+								<content>
+									<p>Садржина и изглед заштитног знака биће одређени посебном одлуком Управног одбора.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ПОСЛОВИ АГЕНЦИЈЕ</heading>
+				<content>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>Агенција обавља следеће послове:</p>
+									<point id="gla2-clan8-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> сарађује са државним органима и организацијама и носиоцима јавно правних овлашћења, органима територијалне аутономије и локалне самоуправе, ради обезбеђивања услова за примену Закона и других прописа којима се уређују питања од значаја за унапређење привредног развоја и улагања;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> прати примену Закона и предлаже одговарајуће мере;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> учествује у припреми и спроводи програме и пројекте привредног и регионалног развоја;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> врши анализе и обезбеђује податке и информације за потребе унапређења политике привредног и регионалног развоја;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> врши акредитацију регионалних развојних агенција;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> обавља стручне и административно-оперативне послове у вези са пројектима привлачења директних инвестиција и улагања и прати њихову реализацију у складу са законом и прописима;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> спроводи програме и пројекте са циљем унапређења извозних активности привредних субјеката;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> спроводи програме и пројекте са циљем унапређења положаја, активности и конкурентности малих и средњих привредних субјеката и предузетника;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> води Централизовани информациони систем за пословну интелигенцију који обједињује релевантне податке органа власти, од значаја за израду анализа и студија у области привредног и регионалног развоја;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> води евиденцију улагача од посебног значаја и улагача од регионалног значаја;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> предлаже, координира и спроводи активности стратешког маркетинга привредних потенцијала и угледа Републике Србије;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac12">
+										<num>12)</num>
+										<content>
+											<p> пружа стручну и саветодавну подршку привредним друштвима и предузетницима;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac13">
+										<num>13)</num>
+										<content>
+											<p> припрема и реализује програме едукације инструктора и консултаната за потребе развоја привредних друштава и предузетништва;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac14">
+										<num>14)</num>
+										<content>
+											<p> извршава и координира спровођење шеме и индивидуалне државне помоћи за подстицање директних инвестиција;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac15">
+										<num>15)</num>
+										<content>
+											<p> обезбеђује услове за приступ и реализацију пројеката који се финансирају из међународне развојне помоћи;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac16">
+										<num>16)</num>
+										<content>
+											<p> прати и анализира услове улагања и привредне услове на појединачним тржиштима и у појединачним секторима и даје предлоге за њихово унапређење;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac17">
+										<num>17)</num>
+										<content>
+											<p> остварује сарадњу у области улагања и прикупља информације о стању улагања у другим државама;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac18">
+										<num>18)</num>
+										<content>
+											<p> води посебне евиденције у складу са Законом;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac19">
+										<num>19)</num>
+										<content>
+											<p> води поступак против функционера у коме се одлучује да ли постоји повреда Закона о чему доноси одлуку;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac20">
+										<num>20)</num>
+										<content>
+											<p> предлаже давање државне помоћи, у складу са Законом и прописима о контроли државне помоћи;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac21">
+										<num>21)</num>
+										<content>
+											<p> организује и вршу издавачку делатност у складу са својим делокругом;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac22">
+										<num>22)</num>
+										<content>
+											<p> обавља и друге послове, у складу са законом и овим статутом.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav2">
+								<content>
+									<p>Послове под тач. 5, 9, 10. и 18. овог члана Агенција обавља као поверене послове.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>Агенција може предложити министарству надлежном за послове привреде да у поступку надзора над радом органа власти, у складу са прописима којима се уређује државна управа спровођење мере преузимања поверених послова, ако би неизвршење посла од стране органа власти могло да изазове штетне последице по привреду.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan9-stav2">
+								<content>
+									<p>Предлог мера из става 1. овог члана Агенција објављује на својој интернет страни.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ИЗВОРИ ФИНАНСИРАЊА</heading>
+				<content>
+					<article id="gla3-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla3-clan10-stav1">
+								<content>
+									<p>Средства за оснивање Агенције обезбеђују се из:</p>
+									<point id="gla3-clan10-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> буџета Републике Србије;</p>
+										</content>
+									</point>
+									<point id="gla3-clan10-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> других извора финансирања у складу са законом.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan10-stav2">
+								<content>
+									<p>Средства за рад Агенције обезбеђују се из:</p>
+									<point id="gla3-clan10-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> прихода које Агенција оствари обављањем послова из своје надлежности;</p>
+										</content>
+									</point>
+									<point id="gla3-clan10-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> буџета Републике Србије;</p>
+										</content>
+									</point>
+									<point id="gla3-clan10-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> других извора финансирања.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ОРГАНИ АГЕНЦИЈЕ И ЊИХОВ ДЕЛОКРУГ</heading>
+				<content>
+					<article id="gla4-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla4-clan11-stav1">
+								<content>
+									<p>Органи Агенције су Управни одбор и директор Агенције.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan12">
+						<num>12.</num>
+						<heading>Управни одбор</heading>
+						<content>
+							<clause id="gla4-clan12-stav1">
+								<content>
+									<p>Управни одбор Агенције:</p>
+									<point id="gla4-clan12-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> усваја статут Агенције;</p>
+										</content>
+									</point>
+									<point id="gla4-clan12-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> усваја годишњи програм рада, финансијски план и извештај о раду Агенције;</p>
+										</content>
+									</point>
+									<point id="gla4-clan12-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> доноси опште акте Агенције осим правилника којим се уређује унутрашња организација и систематизација радних места у Агенцији;</p>
+										</content>
+									</point>
+									<point id="gla4-clan12-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> усмерава рад директора Агенције и издаје му упутства за рад;</p>
+										</content>
+									</point>
+									<point id="gla4-clan12-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> надзире пословање Агенције;</p>
+										</content>
+									</point>
+									<point id="gla4-clan12-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> на предлог директора Агенције, одлучује о захтевима који су, у складу са прописима, Агенцији поднети ради давања сагласности;</p>
+										</content>
+									</point>
+									<point id="gla4-clan12-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> доноси пословник о раду Агенције;</p>
+										</content>
+									</point>
+									<point id="gla4-clan12-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> обавља друге послове у складу са законом.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla4-clan12-stav2">
+								<content>
+									<p>На годишњи програм рада, финансијски план, финансијски извештај и извештај о раду Агенције из става 1. тачка 2. овог члана, Влада даје сагласност.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla4-clan13-stav1">
+								<content>
+									<p>Управни одбор има пет чланова, од којих три члана из реда државних службеника или из реда државних службеника на положају у министарству, а два члана из реда пословне заједнице.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan13-stav2">
+								<content>
+									<p>Чланове Управног одбора именује и разрешава Влада на предлог министра надлежног за послове привреде.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan13-stav3">
+								<content>
+									<p>Чланови Управног одбора се именују на период од пет година, са могућношћу поновног избора.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan13-stav4">
+								<content>
+									<p>Чланови Управног одбора за свој рад      примају накнаду.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan13-stav5">
+								<content>
+									<p>*<ref id="ref8" href="/rs/act/2016/78/srp@">Службени гласник РС, број 78/2016</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan14">
+						<num>14.</num>
+						<heading>Директор</heading>
+						<content>
+							<clause id="gla4-clan14-stav1">
+								<content>
+									<p>Директор Агенције:</p>
+									<point id="gla4-clan14-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> заступа и представља Агенцију;</p>
+										</content>
+									</point>
+									<point id="gla4-clan14-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> организује и руководи радом и пословањем Агенције;</p>
+										</content>
+									</point>
+									<point id="gla4-clan14-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> одговара за законитост рада, као и за стручни рад и коришћење средстава Агенције;</p>
+										</content>
+									</point>
+									<point id="gla4-clan14-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> закључује уговоре из делокруга рада Агенције;</p>
+										</content>
+									</point>
+									<point id="gla4-clan14-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> доноси акт о унутрашњој организацији и систематизацији радних места у Агенцији;</p>
+										</content>
+									</point>
+									<point id="gla4-clan14-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> одговоран је за обављање административних и стручно-техничких послова за потребе Савета за економски развој;</p>
+										</content>
+									</point>
+									<point id="gla4-clan14-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> одлучује о правима и обавезама запослених;</p>
+										</content>
+									</point>
+									<point id="gla4-clan14-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> врши и друге послове утврђене законом и овим статутом.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla4-clan15-stav1">
+								<content>
+									<p>Директор заступа и представља Агенцију и руководи њеним радом.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan15-stav2">
+								<content>
+									<p>Директор Агенције именује се и разрешава у складу са законом и овим статутом.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan15-stav3">
+								<content>
+									<p>Директора именује и разрешава Влада, на предлог министра надлежног за послове привреде, после спроведеног јавног конкурса, на период од пет година, и може бити поново именован.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan15-stav4">
+								<content>
+									<p>Јавни конкурс за избор директора спроводи министарство надлежно за послове привреде.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="gla4-clan16-stav1">
+								<content>
+									<p>За директора може бити именовано лице које:</p>
+									<point id="gla4-clan16-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> испуњава услове за пријем у радни однос у државни орган;</p>
+										</content>
+									</point>
+									<point id="gla4-clan16-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> је стручњак у једној или више области из делокруга Агенције;</p>
+										</content>
+									</point>
+									<point id="gla4-clan16-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> има стечено високо образовање на студијама другог степена (мастер академске студије, специјалистичке академске студије, специјалистичке струковне, односно основне студије у трајању од најмање четири године);</p>
+										</content>
+									</point>
+									<point id="gla4-clan16-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> најмање пет година радног искуства на пословима из једне или више области из делокруга Агенције.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla4-clan16-stav2">
+								<content>
+									<p>Министар надлежан за послове привреде може одредити критеријуме и мерила у погледу стручне оспособљености и радног искуства које морају испуњавати кандидати за директора Агенције.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="gla4-clan17-stav1">
+								<content>
+									<p>Директору престаје дужност пре истека периода на који је именован подношењем оставке или разрешењем, у складу са законом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="gla4-clan18-stav1">
+								<content>
+									<p>Директор подноси оставку Влади у писаном облику и иста мора бити образложена.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="gla4-clan19-stav1">
+								<content>
+									<p>Ако директору дужност престане пре времена на које је именован, Влада без јавног конкурса именује вршиоца дужности директора на предлог Управног одбора, најдуже на шест месеци, у складу са законом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>ЗАСТУПАЊЕ АГЕНЦИЈЕ</heading>
+				<content>
+					<article id="gla5-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla5-clan20-stav1">
+								<content>
+									<p>Агенцију заступа директор.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan20-stav2">
+								<content>
+									<p>У случају одсутности или спречености директора, Агенцију заступа извршни директор.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan20-stav3">
+								<content>
+									<p>Директор може овластити запосленог или друго лице да у одређеним пословима или поступцима пред судом или другим органима представља или заступа Агенцију, у складу са датим овлашћењима.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan20-stav4">
+								<content>
+									<p>Агенцију потписује директор, извршни директор или лице које овласти директор.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>УНУТРАШЊА ОРГАНИЗАЦИЈА</heading>
+				<content>
+					<article id="gla6-clan21">
+						<num>21.</num>
+						<content>
+							<clause id="gla6-clan21-stav1">
+								<content>
+									<p>Агенција обавља послове из свог делокруга у оквиру организационих целина које су дефинисане актом о организацији и систематизацији послова у Агенцији.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan21-stav2">
+								<content>
+									<p>Правилником о организацији и систематизацији послова утврђује се унутрашња организација, врсте послова, врста и степен стручне спреме и посебни услови за рад на тим пословима, као и начин обављања делатности Агенције.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan22">
+						<num>22.</num>
+						<content>
+							<clause id="gla6-clan22-stav1">
+								<content>
+									<p>На права, обавезе и одговорности запослених у Агенцији и директора примењују се општи прописи којима се уређују радни односи, општи акти Агенције и уговор о раду.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan23">
+						<num>23.</num>
+						<content>
+							<clause id="gla6-clan23-stav1">
+								<content>
+									<p>За обављање појединих стручних послова из своје надлежности Агенција може ангажовати друга правна или физичка, домаћа или страна лица.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan23-stav2">
+								<content>
+									<p>Кад Агенција поверава обављање појединих стручних послова из своје надлежности лицима из става 1. овог члана, њихова међусобна права и обавезе уређују се уговором.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla7">
+				<num>VII</num>
+				<heading>ЕВИДЕНЦИЈЕ</heading>
+				<content>
+					<article id="gla7-clan24">
+						<num>24.</num>
+						<content>
+							<clause id="gla7-clan24-stav1">
+								<content>
+									<p>Агенција, у складу са Законом, води:</p>
+									<тачка id="gla7-clan24-stav1-tac1">
+										<num>1.</num>
+										<content>
+											<p> евиденцију пројектних тимова за подршку улагањима;</p>
+										</content>
+									</тачка>
+									<тачка id="gla7-clan24-stav1-tac2">
+										<num>2.</num>
+										<content>
+											<p> евиденцију инвестиционих програма;</p>
+										</content>
+									</тачка>
+									<тачка id="gla7-clan24-stav1-tac3">
+										<num>3.</num>
+										<content>
+											<p> евиденцију о спроведеним контролама извршења реализације улагања.</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="gla7-clan24-stav2">
+								<content>
+									<p>Садржину и начин вођења евиденције ближе уређује министар надлежан за послове привреде.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla8">
+				<num>VIII</num>
+				<heading>ЈАВНОСТ РАДА</heading>
+				<content>
+					<article id="gla8-clan25">
+						<num>25.</num>
+						<content>
+							<clause id="gla8-clan25-stav1">
+								<content>
+									<p>Рад Агенције је јаван.</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan25-stav2">
+								<content>
+									<p>Јавност рада остварује се благовременим давањем информација средствима јавног информисања, јавношћу рада Управног одбора Агенције, објављивањем општих аката и програма рада Агенције, као и подношењем извештаја о раду Агенције.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla9">
+				<num>IX</num>
+				<heading>ПОСЛОВНА ТАЈНА</heading>
+				<content>
+					<article id="gla9-clan26">
+						<num>26.</num>
+						<content>
+							<clause id="gla9-clan26-stav1">
+								<content>
+									<p>Пословну тајну представљају исправе и подаци чије би достављање и саопштавање неовлашћеном лицу произвело штетне последице за законито, благовремено и ваљано извршавање послова Агенције или би штетило угледу и интересима лица са којима Агенција сарађује у обављању послова из своје надлежности, у смислу прописа о чувању пословне тајне и прописа о тржишту капитала.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla9-clan27">
+						<num>27.</num>
+						<content>
+							<clause id="gla9-clan27-stav1">
+								<content>
+									<p>Лица у Агенцији која располажу информацијама које представљају пословну тајну не смеју исте да употребе ради стицања имовинске користи или других погодности за себе и трећа лица, или да на такав начин нанесу штету институцијама или привредним друштвима на које се односе и имају обавезу њиховог чувања.</p>
+								</content>
+							</clause>
+							<clause id="gla9-clan27-stav2">
+								<content>
+									<p>Лицима из става 1. овог члана сматрају се лица која су у обављању својих радних дужности или функција сазнала за информације које представљају пословну тајну.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla9-clan28">
+						<num>28.</num>
+						<content>
+							<clause id="gla9-clan28-stav1">
+								<content>
+									<p>Пословном тајном не сматра се податак којим се прикрива извршење кривичног дела, прекорачење овлашћења или злоупотреба службеног положаја или извршење другог незаконитог акта или поступања.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla9-clan29">
+						<num>29.</num>
+						<heading>Начин поступања са пословном тајном</heading>
+						<content>
+							<clause id="gla9-clan29-stav1">
+								<content>
+									<p>Лица из <ref>члана 27. став 2, </ref>су дужна да податке одређене као пословна тајна, чувају као тајне, односно не смеју их учинити доступним трећим лицима, осим у случајевима прописаним законом.</p>
+								</content>
+							</clause>
+							<clause id="gla9-clan29-stav2">
+								<content>
+									<p>Обавеза чувања тајне из става 1. овог члана не престаје ни након престанка радног односа, односно функције, осим у случајевима прописаним законом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla10">
+				<num>X</num>
+				<heading>СУКОБ ИНТЕРЕСА И ЗАБРАНА КОНКУРЕНЦИЈЕ</heading>
+				<content>
+					<article id="gla10-clan30">
+						<num>30.</num>
+						<content>
+							<clause id="gla10-clan30-stav1">
+								<content>
+									<p>Директор Агенције има статус функционера у смислу закона којим се уређује сукоб интереса при вршењу јавних функција.</p>
+								</content>
+							</clause>
+							<clause id="gla10-clan30-stav2">
+								<content>
+									<p>Директор Агенције и запослени у Агенцији не могу да заснују радни однос, односно пословну сарадњу са правним лицем, предузетником или међународном организацијом која обавља делатности у вези са функцијом коју је директор, односно запослени вршио у Агенцији, у року од две године по престанку радног односа директора и запослених у Агенцији, осим по добијеној сагласности Агенције за запослене, односно сагласности Агенције за борбу против корупције за директора.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla11">
+				<num>XI</num>
+				<heading>ЗАШТИТА ЖИВОТНЕ СРЕДИНЕ</heading>
+				<content>
+					<article id="gla11-clan31">
+						<num>31.</num>
+						<content>
+							<clause id="gla11-clan31-stav1">
+								<content>
+									<p>Делатност Агенције врши се на начин на који се не угрожава животна средина.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla12">
+				<num>XII</num>
+				<heading>ПРЕСТАНАК АГЕНЦИЈЕ</heading>
+				<content>
+					<article id="gla12-clan32">
+						<num>32.</num>
+						<content>
+							<clause id="gla12-clan32-stav1">
+								<content>
+									<p>Агенција може престати одлуком Владе или правоснажном судском одлуком којом се утврђује ништавост њеног уписа у судски регистар.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla13">
+				<num>XIII</num>
+				<heading>ИЗМЕНЕ И ДОПУНЕ СТАТУТА</heading>
+				<content>
+					<article id="gla13-clan33">
+						<num>33.</num>
+						<content>
+							<clause id="gla13-clan33-stav1">
+								<content>
+									<p>Измене и допуне овог статута врше се у поступку и на начин који је прописан за његово доношење.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla14">
+				<num>XIV</num>
+				<heading>СТУПАЊЕ НА СНАГУ СТАТУТА</heading>
+				<content>
+					<article id="gla14-clan34">
+						<num>34.</num>
+						<content>
+							<clause id="gla14-clan34-stav1">
+								<content>
+									<p>Овај статут се објављује у „Службеном гласнику Републике Србије”, а ступа на снагу даном усвајања.</p>
+								</content>
+							</clause>
+							<clause id="gla14-clan34-stav2">
+								<content>
+									<p>Број 110-00-00002/2016-1</p>
+								</content>
+							</clause>
+							<clause id="gla14-clan34-stav3">
+								<content>
+									<p>У Београду, 11. фебруара 2016. године</p>
+								</content>
+							</clause>
+							<clause id="gla14-clan34-stav4">
+								<content>
+									<p>Председник Управног одбора,</p>
+								</content>
+							</clause>
+							<clause id="gla14-clan34-stav5">
+								<content>
+									<p>Тамара Јуренић, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

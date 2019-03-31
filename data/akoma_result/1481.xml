@@ -1,0 +1,911 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2016/12-100/main"/>
+					<FRBRuri value="/rs/act/2016/12-100"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2016/12-100/srp@/main"/>
+					<FRBRuri value="/rs/act/2016/12-100/srp@"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2016/12-100/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2016/12-100/srp@.akn"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2016-2-12" name="службени гласник рс" number="12" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="5. Оружје, муниција, опасне и експлозивне материје" value="5. оружје, муниција, опасне и експлозивне материје"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2016-02-05" id="usvajanje"/>
+				<step date="2016-02-20" id="stupanje_na_snagu"/>
+				<step date="2016-03-05" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник је ступио на снагу осмог дана од дана објављивања у Службеном гласнику Републике Србије, односно 20. фебруара 2016. године, а почиње да се примењује 5. марта 2016. године (види <ref>члан 22. </ref>Правилника).</p>
+				</note>
+				<note id="not2">
+					<p>Правилник је ступио на снагу осмог дана од дана објављивања у Службеном гласнику Републике Србије, односно 20. фебруара 2016. године, а почиње да се примењује 5. марта 2016. године (види <ref>члан 22. </ref>Правилника).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 45. став 1. тачка 3</ref>) Закона о оружју и муницији („<ref id="ref4" href="/rs/act/15/20/srp@">Службени гласник РС”, број 20/15</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар унутрашњих послова доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о начину вођења и обрасцима евиденција о оружју и муницији које воде надлежни органи</title>
+			<date>&quot;Службени гласник РС&quot;, број 12 од 12. фебруара      2016.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се начин вођења евиденција о оружју и муницији које надлежни органи воде на основу Закона о оружју и муницији (у даљем тексту: Закон) и садржина и изглед образаца на којима се воде ове евиденције.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Надлежни органи, у складу са законом, воде евиденције о:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> поднетим захтевима и издатим одобрењима за набављање оружја и основних делова за оружје и муниције;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> поднетим захтевима и издатим оружним листовима и о поднетим захтевима и издатим потврдама о пријави оружја из категорије Ц за физичка лица;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> поднетим захтевима и издатим оружним листовима и о поднетим захтевима и издатим потврдама о пријави оружја из категорије Ц за правна лица и предузетнике;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> поднетим захтевима и издатим дозволама за ношење оружја за личну безбедност;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> одузетом, нађеном и предатом оружју, основним деловима за оружје и муницији;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> поднетим захтевима и издатим колекционарским дозволама;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> поднетим захтевима и издатим решењима за бављење прометом оружја и муниције, обуком у руковању ватреним оружјем, поправљањем и преправљањем оружја, справљање муниције, посредовање у промету оружја и муниције;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> онеспособљеном оружју;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> оружју чији је нестанак пријављен;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> регистрованом оружју;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> уношењу и изношењу оружја преко државне границе;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> превозу оружја;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> оружју дипломатско-конзуларних представника и странаца;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac14">
+								<num>14)</num>
+								<content>
+									<p> издатим одобрењима за ношење оружја представницима страних служби безбедности;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac15">
+								<num>15)</num>
+								<content>
+									<p> издатим одобрењима за набављање, држање и ношење оружја странцима на боравку;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac16">
+								<num>16)</num>
+								<content>
+									<p> уверењима о здравственој способности;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac17">
+								<num>17)</num>
+								<content>
+									<p> аутоматском оружју.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Евиденција о поднетим захтевима и издатим одобрењима за набављање оружја и основних делова за оружје и муниције води се на обрасцу који садржи:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> датум пријема захтева и број под којим је захтев заведен;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> податке о подносиоцу захтева;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> податке о уверењу о здравственој способности и то: назив овлашћене установе која је издала уверење и податке о периоду важења уверења;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> податке о оружју, основним деловима за оружје и муницији;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> број и датум издавања одобрења, односно, одбијања захтева и рок важења одобрења.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Евиденција о поднетим захтевима и издатим оружним листовима и о поднетим захтевима и издатим потврдама о пријави оружја из категорије Ц за физичка лица води се на обрасцу који садржи:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> датум пријема захтева и број под којим је захтев заведен;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> податке о подносиоцу захтева;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> податке о уверењу о здравственој способности и то: назив овлашћене установе која је издала уверење и податке о периоду важења уверења;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> податке о врсти издате исправе и то: врста исправе, број издате исправе и датум издавања;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> податке о оружју;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> датум и разлог пасивизације оружја.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Евиденција о поднетим захтевима и издатим оружним листовима и о поднетим захтевима и издатим потврдама о пријави оружја из категорије Ц за правна лица и предузетнике води се на обрасцу који садржи:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> датум пријема захтева и број под којим је захтев заведен;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> податке о подносиоцу захтева;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> податке о оружном листу за правна лица и предузетнике, односно, о потврди о пријављеном оружју из категорије Ц, и то: број и датум издавања исправе, односно, потврде;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> податке о оружју;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> датум и разлог пасивизације оружја.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Евиденција о поднетим захтевима и издатим дозволама за ношење оружја за личну безбедност води се на обрасцу који садржи:</p>
+							<point id="clan6-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> датум пријема захтева и број под којим је захтев заведен;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> податке о подносиоцу захтева;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> број и датум издавања оружног листа за држање оружја за личну безбедност;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> број и датум решења којим је одобрено ношење оружја, датум издавања дозволе за ношење оружја за личну безбедност и датум пасивизације.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Евиденција о одузетом, нађеном и предатом оружју, основним деловима за оружје и муницији води се на обрасцу који садржи:</p>
+							<point id="clan7-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> датум пријема оружја и број потврде о одузетим предметима;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> податке о власнику оружја, односно лицу које је предало оружје;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> податке о оружју, основним деловима за оружје и муницији;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> податке о пасивизацији оружја, и то: да ли је оружје било регистровано, број исправе, број и датум акта о одузимању оружја и назив органа који је донео акт о одузимању оружја и муниције.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Евиденција о поднетим захтевима и издатим колекционарским дозволама води се на обрасцу који садржи:</p>
+							<point id="clan8-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> датум пријема захтева и број под којим је захтев заведен;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> податке о подносиоцу захтева;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> број оружја из категорије Б које подносилац захтева поседује;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> начин решавања захтева, број и датум акта којим се по захтеву решава.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Евиденција о поднетим захтевима и издатим решењима за бављење прометом оружја и муниције, обуком у руковању ватреним оружјем, поправљањем и преправљањем оружја, справљање муниције, посредовање у промету оружја и муниције, води се на обрасцу који садржи:</p>
+							<point id="clan9-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> датум пријема захтева и број под којим је захтев заведен;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> податке о подносиоцу захтева;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> послови чије се обављање одобрава;</p>
+								</content>
+							</point>
+							<point id="clan9-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> начин решавања захтева, број и датум акта којим се по захтеву решава.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Евиденција онеспособљеног оружја води се на обрасцу који садржи:</p>
+							<point id="clan10-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> податке о власнику оружја;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> датум издавања и број потврде о онеспособљавању;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> назив правног лица, односно предузетника који је извршио онеспособљавање;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> број исправе о испитивању, обележавању и жигосању онеспособљеног оружја и датум издавања;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> податке о оружју;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> податке о оружном листу;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> број и датум издавања потврде о држању оружја из категорије Ц;</p>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> датум евидентирања онеспособљеног оружја.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Евиденција оружја и муниције чији је нестанак пријављен води се на обрасцу који садржи:</p>
+							<point id="clan11-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> податке о власнику оружја;</p>
+								</content>
+							</point>
+							<point id="clan11-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> податке о оружју;</p>
+								</content>
+							</point>
+							<point id="clan11-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> податке о врсти количини муниције;</p>
+								</content>
+							</point>
+							<point id="clan11-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> датуму пријаве нестанка оружја.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Евиденција регистрованог оружја води се на обрасцу који садржи:</p>
+							<point id="clan12-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> податке о власнику оружја;</p>
+								</content>
+							</point>
+							<point id="clan12-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> податке о оружју;</p>
+								</content>
+							</point>
+							<point id="clan12-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> регистрациони број;</p>
+								</content>
+							</point>
+							<point id="clan12-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> назив органа који је извршио регистрацију.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Евиденција уношења и изношења оружја преко државне границе води се на обрасцу који садржи:</p>
+							<point id="clan13-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> податке о власнику оружја;</p>
+								</content>
+							</point>
+							<point id="clan13-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> податке о оружју;</p>
+								</content>
+							</point>
+							<point id="clan13-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> број и датум испитивања исправе о оружју;</p>
+								</content>
+							</point>
+							<point id="clan13-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> назив органа који је издао исправу;</p>
+								</content>
+							</point>
+							<point id="clan13-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> назив граничног прелаза;</p>
+								</content>
+							</point>
+							<point id="clan13-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> датум уношења односно изношења оружја.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan14">
+				<num>14.</num>
+				<content>
+					<clause id="clan14-stav1">
+						<content>
+							<p>Евиденција о превозу оружја води се на обрасцу који садржи:</p>
+							<point id="clan14-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> податке о пошиљаоцу, примаоцу и превознику оружја;</p>
+								</content>
+							</point>
+							<point id="clan14-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> податке о овлашћеном лицу за подношење захтева;</p>
+								</content>
+							</point>
+							<point id="clan14-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> траса превоза;</p>
+								</content>
+							</point>
+							<point id="clan14-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> број и датум одобрења за превоз оружја и назив органа који је издао одобрење;</p>
+								</content>
+							</point>
+							<point id="clan14-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> податке о оружју, деловима за оружје и муницији;</p>
+								</content>
+							</point>
+							<point id="clan14-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> податке о обезбеђењу превоза оружја.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan15">
+				<num>15.</num>
+				<content>
+					<clause id="clan15-stav1">
+						<content>
+							<p>Евиденција о оружју дипломатско-конзуларних представника и странаца води се на обрасцу који садржи:</p>
+							<point id="clan15-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> податке о припаднику дипломатско-конзуларног представништва, односно, странца;</p>
+								</content>
+							</point>
+							<point id="clan15-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> податке о оружју;</p>
+								</content>
+							</point>
+							<point id="clan15-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> податке о исправи о оружју.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan16">
+				<num>16.</num>
+				<content>
+					<clause id="clan16-stav1">
+						<content>
+							<p>Евиденција о издатим одобрењима за ношење оружја представницима страних служби безбедности води се на обрасцу који садржи:</p>
+							<point id="clan16-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> податке о припаднику службе безбедности;</p>
+								</content>
+							</point>
+							<point id="clan16-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> држава припадника службе обезбеђења;</p>
+								</content>
+							</point>
+							<point id="clan16-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> број и датум издавања путне исправе и назив органа који је исправу издао;</p>
+								</content>
+							</point>
+							<point id="clan16-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> податке о оружју;</p>
+								</content>
+							</point>
+							<point id="clan16-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> број, датум издавања и период важења одобрења.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan17">
+				<num>17.</num>
+				<content>
+					<clause id="clan17-stav1">
+						<content>
+							<p>Евиденција о издатим одобрењима за набављање, држање и ношење оружја странцима на боравку води се на обрасцу који садржи:</p>
+							<point id="clan17-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> податке о власнику;</p>
+								</content>
+							</point>
+							<point id="clan17-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> податке о оружју;</p>
+								</content>
+							</point>
+							<point id="clan17-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> број и датум издавања исправе о оружју и назив органа који је исправу издао.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan18">
+				<num>18.</num>
+				<content>
+					<clause id="clan18-stav1">
+						<content>
+							<p>Евиденција о уверењима о здравственој способности води се на обрасцу који садржи:</p>
+							<point id="clan18-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив овлашћене установе која је издала уверење;</p>
+								</content>
+							</point>
+							<point id="clan18-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> податке о физичком лицу коме је издато уверење;</p>
+								</content>
+							</point>
+							<point id="clan18-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> датум издавања и рок важења уверења.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan19">
+				<num>19.</num>
+				<content>
+					<clause id="clan19-stav1">
+						<content>
+							<p>Евиденција аутоматског оружја води се на обрасцу који садржи:</p>
+							<point id="clan19-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> податке о власнику оружја;</p>
+								</content>
+							</point>
+							<point id="clan19-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> податке о оружју;</p>
+								</content>
+							</point>
+							<point id="clan19-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> број и датум издавања исправе о оружју и назив органа који је исправу издао.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan20">
+				<num>20.</num>
+				<content>
+					<clause id="clan20-stav1">
+						<content>
+							<p>Евиденције се воде у електронском облику у Јединственом информационом систему Министарства унутрашњих послова.</p>
+						</content>
+					</clause>
+					<clause id="clan20-stav2">
+						<content>
+							<p>Изузетно од става 1. овог члана, евиденције из <ref>члана 2. </ref>тач. 1)–7) воде се и ручно у писаном облику, најдуже три године од дана почетка примене Закона.</p>
+						</content>
+					</clause>
+					<clause id="clan20-stav3">
+						<content>
+							<p>Обрасци евиденција из става 2. овог члана (Образац 1–7.), одштампани су уз овај правилник и чине његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan21">
+				<num>21.</num>
+				<content>
+					<clause id="clan21-stav1">
+						<content>
+							<p>Даном почетка примене овог правилника престају да важе чл. 4–7. Правилника о обрасцима захтева, одобрења, оружног листа и других исправа и евиденција предвиђених Законом о оружју и муницији („<ref id="ref5" href="/rs/act/99/1/srp@">Службени гласник РС”, број 1/99</ref>).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan22">
+				<num>22.</num>
+				<content>
+					<clause id="clan22-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у Службеном гласнику Републике Србије, а почиње да се примењује 5. марта 2016. године.</p>
+						</content>
+					</clause>
+					<clause id="clan22-stav2">
+						<content>
+							<p>Број 01-10805/15-5</p>
+						</content>
+					</clause>
+					<clause id="clan22-stav3">
+						<content>
+							<p>У Београду, 5. фебруара 2016. године</p>
+						</content>
+					</clause>
+					<clause id="clan22-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan22-stav5">
+						<content>
+							<p>др Небојша Стефановић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan22-stav6">
+						<content>
+							<p>Прилози</p>
+						</content>
+					</clause>
+					<clause id="clan22-stav7">
+						<content>
+							<p>Образац 1 -     Евиденција поднетих      захтева и издатих одобрења за набављање оружја, основних делова      за оружје и муниције</p>
+						</content>
+					</clause>
+					<clause id="clan22-stav8">
+						<content>
+							<p>Образац 2 -     Евиденција издатих      оружних листова и потврда о пријављеном оружја из категорије Ц      за физичка лица</p>
+						</content>
+					</clause>
+					<clause id="clan22-stav9">
+						<content>
+							<p>Образац 3 -     Евиденција издатих      оружних листова и потврда о пријављеном оружју из категорије Ц      за правна лица</p>
+						</content>
+					</clause>
+					<clause id="clan22-stav10">
+						<content>
+							<p>Образац 4 -     Евиденција поднетих      захтева и издатих дозвола за ношење оружја</p>
+						</content>
+					</clause>
+					<clause id="clan22-stav11">
+						<content>
+							<p>Образац 5 -     Евиденција одузетог,      нађеног и предатог оружја, делова за оружје и муниције</p>
+						</content>
+					</clause>
+					<clause id="clan22-stav12">
+						<content>
+							<p>Образац 6 -     Евиденција поднетих      захтева и издатих колекционарских дозвола</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

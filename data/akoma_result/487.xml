@@ -1,0 +1,737 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2016/58-68/main"/>
+					<FRBRuri value="/rs/act/2016/58-68"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/16-32/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/16-32/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/16-32/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/16-32/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2016-6-22" name="службени гласник рс" number="58" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="1. Сточарство" value="1. сточарство"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2016-05-31" id="usvajanje"/>
+				<step date="2016-06-30" id="stupanje_na_snagu"/>
+				<step date="2016-06-30" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="58/2016-68" id="e1" type="generation"/>
+				<eventRef date="16/2018-32" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу <ref>члана 69. став 9. </ref>Закона о сточарству („<ref id="ref3" href="/rs/act/09/41/srp@">Службени гласник РС”, бр. 41/09, 93/12</ref> и 14/16) и <ref>члана 17. став 4. </ref>и <ref>члана 24. став 2. </ref>Закона о Влади („<ref id="ref4" href="/rs/act/05/55/srp@">Службени гласник РС”, бр. 55/05, 71/05</ref> – исправка, 101/07, 65/08, 16/11, 68/12 – УС, 72/12, 7/14 – УС и 44/14),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде и заштите животне средине доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о условима у погледу гајења и промета аутохтоних раса домаћих животиња, као и садржини и начину вођења Регистра одгајивача аутохтоних раса домаћих животиња</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 58 од 22. јуна      2016, 16 од 5. марта 2018.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником ближе се прописују услови у погледу гајења и промета аутохтоних раса домаћих животиња, као и садржина и начин вођења Регистра одгајивача аутохтоних раса домаћих животиња (у даљем тексту: Регистар).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Гајење домаћих животиња, у смислу овог правилника, јесте скуп генетских и зоотехничких поступака ради испољавања производног потенцијала животиња.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Аутохтоне расе домаћих животиња гаје се у чистој раси.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Аутохтоне расе домаћих животиња гаје се на:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> екстензиван начин;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> полуинтензиван начин;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> интензиван начин.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Ради очувања станишта у којем су аутохтоне расе домаћих животиња настале, аутохтоне расе домаћих животиња гаје се на традиционалан начин у производним системима са ниским улагањима – екстензиван начин.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Ради бољег спровођења одгајивачких циљева, повећања ефикасности селекције и конзервације одређене расе, аутохтоне расе домаћих животиња гаје се и на полуинтензиван и интензиван начин.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Промет аутохтоних раса домаћих животиња обухвата увоз, извоз, транзит, продају, куповину или било какав њихов пренос на трећа лица, у складу са законом којим се уређује сточарство.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Сваки промет аутохтоних раса домаћих животиња мора да буде пријављен надлежној организацији, у складу са законом којим се уређује сточарство.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Промет аутохтоних раса домаћих животиња врши се у складу са прописаним ветеринарско-санитарним условима.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Упис у Регистар врши се на основу захтева који власник домаћих животиња – физичко и правно лице, односно предузетник подноси министарству надлежном за послове пољопривреде (у даљем тексту: Министарство), у складу са законом којим се уређује сточарство.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Захтев из става 1. овог члана садржи следеће податке:</p>
+							<point id="clan7-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> име и презиме, адресу, број телефона, електронску адресу и јединствени матични број грађана за физичко лице;</p>
+								</content>
+							</point>
+							<point id="clan7-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> назив и седиште, број телефона и електронску адресу за правно лице и предузетника;</p>
+								</content>
+							</point>
+							<point id="clan7-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> матични број и порески идентификациони број (у даљем тексту: ПИБ) за правно лице и предузетника;</p>
+								</content>
+							</point>
+							<point id="clan7-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> број регистрованог пољопривредног газдинства;</p>
+								</content>
+							</point>
+							<point id="clan7-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> назив расе за коју се подноси захтев;</p>
+								</content>
+							</point>
+							<point id="clan7-stav2-tac6">
+								<num>6)</num>
+								<content>
+									<p> број претходног решења о упису у Регистар (уписује се приликом обнове уписа у Регистар);</p>
+								</content>
+							</point>
+							<point id="clan7-stav2-tac7">
+								<num>7)</num>
+								<content>
+									<p> број животиња према раси и категорији за које се подноси захтев.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>Уз захтев из става 1. овог члана подноси се потврда о броју животиња према раси и категорији за коју се подноси захтев која је оверена од стране главне одгајивачке организације.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>Потврда из става 3. овог члана подноси се у оригиналу или овереној копији.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav5">
+						<content>
+							<p>Захтев из става 1. овог члана подноси се на Обрасцу – Захтев за упис у Регистар одгајивача аутохтоних раса домаћих животиња, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Регистар садржи следеће податке:</p>
+							<point id="clan8-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> редни број и датум уписа у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> име и презиме, адресу, број телефона и електронску адресу физичког лица, односно назив и седиште, број телефона и електронску адресу правног лица и предузетника;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> број регистрованог пољопривредног газдинства;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> ПИБ за правно лице и предузетника, односно јединствени матични број грађана за физичко лице;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> подаци о обнови регистрације (број решења о претходном упису);</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> број и датум решења о упису;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> број животиња према раси и категорији.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Обнова регистрације врши се након истека периода од седам година од дана уписа у Регистар, на основу захтева власника домаћих животиња.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Приликом подношења захтева за обнову      регистрације не подноси се потврда оверена од стране одгајивачке      организације о броју животиња према раси и категорији за коју се      подноси захтев, уколико је захтев за обнову регистрације поднет      у року од 30 дана од дана истека периода од седам година.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<heading>*<ref id="ref5" href="/rs/act/2018/16/srp@">Службени гласник РС, број 16/2018</ref></heading>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Лице овлашћено за вођење Регистра мора да чува Регистар и податке за упис у Регистар на начин којим се обезбеђује заштита од злоупотреба, оштећења и уништења Регистра.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Увид у Регистар врши се уз обавезно присуство овлашћеног лица из става 1. овог члана.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Даном ступања на снагу овог правилника престаје да важи Правилник о условима у погледу гајења и промета аутохтоних раса домаћих животиња, као и садржини и начину вођења Регистра аутохтоних раса домаћих животиња („<ref id="ref6" href="/rs/act/10/56/srp@">Службени гласник РС”, број 56/10</ref>).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav2">
+						<content>
+							<p>Број 110-00-00110/2016-09</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav3">
+						<content>
+							<p>У Београду, 31. маја 2016. године</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav5">
+						<content>
+							<p>проф. др Снежана Богосављевић Бошковић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav6">
+						<content>
+							<p>Образац</p>
+						</content>
+					</clause>
+					<clause id="clan12-stav7">
+						<content>
+							<p>ЗАХТЕВ ЗА УПИС У РЕГИСТАР ОДГАЈИВАЧА АУТОХТОНИХ РАСА ДОМАЋИХ ЖИВОТИЊА</p>
+						</content>
+					</clause>
+					<став id="clan12-stav8">
+						<table class="tabela-sa-borderom">
+							
+					
+							<tbody>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Име и презиме, адреса, број телефона, електронска адреса и јединствени матични број грађана за физичко лице</p>
+										
+							
+									</td>
+									
+							
+									<td colspan="2">
+							</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Назив и седиште, број телефона и електронска адреса за правно лице и предузетника</p>
+										
+							
+									</td>
+									
+							
+									<td colspan="2">
+							</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Матични број, порески идентификациони број (ПИБ) за правно лице и предузетника</p>
+										
+							
+									</td>
+									
+							
+									<td colspan="2">
+							</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Број регистрованог пољопривредног газдинства (БПГ)</p>
+										
+							
+									</td>
+									
+							
+									<td colspan="2">
+							</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Назив расе за коју се подноси захтев</p>
+										
+							
+									</td>
+									
+							
+									<td colspan="2">
+							</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Број претходног решења о упису у Регистар (уписује се приликом обнове уписа у Регистар)</p>
+										
+							
+									</td>
+									
+							
+									<td colspan="2">
+							</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Број животиња према раси и категорији</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>раса</p>
+										
+							
+									</td>
+									
+							
+									<td>
+							 </td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+							</td>
+									
+							
+									<td>
+										
+								
+										<p>категорија</p>
+										
+							
+									</td>
+									
+							
+									<td>
+							 
+							</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+							</td>
+									
+							
+									<td>
+										
+								
+										<p>категорија</p>
+										
+							
+									</td>
+									
+							
+									<td>
+							 
+							</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+							</td>
+									
+							
+									<td>
+										
+								
+										<p>категорија</p>
+										
+							
+									</td>
+									
+							
+									<td>
+							 
+							</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+							</td>
+									
+							
+									<td>
+										
+								
+										<p>категорија</p>
+										
+							
+									</td>
+									
+							
+									<td>
+							 </td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+							</td>
+									
+							
+									<td>
+										
+								
+										<p>категорија</p>
+										
+							
+									</td>
+									
+							
+									<td>
+							 
+							</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+							</td>
+									
+							
+									<td>
+										
+								
+										<p>укупно</p>
+										
+							
+									</td>
+									
+							
+									<td>
+							 
+							</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+							 </td>
+									
+							
+									<td colspan="2">
+							</td>
+									
+						
+								</tr>
+								
+					
+							</tbody>
+							
+				
+						</table>
+						
+				
+				
+						<content/>
+					</став>
+					<став id="clan12-stav9">
+						<table>
+							
+					
+							<tbody>
+								
+						
+								<tr>
+									
+							
+									<td class="auto-style2">
+										
+								
+										<p>Датум и место</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style3">
+										
+								
+										<p>Подносилац захтева</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td class="auto-style2">
+										
+								
+										<p>__________________</p>
+										
+							
+									</td>
+									
+							
+									<td class="auto-style3">
+										
+								
+										<p>________________</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+					
+							</tbody>
+							
+				
+						</table>
+						
+	
+
+
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

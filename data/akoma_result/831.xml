@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2002/8-1/main"/>
+					<FRBRuri value="/rs/act/2002/8-1"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2002/8-1/srp@/main"/>
+					<FRBRuri value="/rs/act/2002/8-1/srp@"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2002/8-1/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2002/8-1/srp@.akn"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2002-2-8" name="службени лист срј“" number="8" showAs="Службени лист СРЈ“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="IV ЈАВНИ ПРИХОДИ" value="iv јавни приходи"/>
+				<keyword id="grupa" showAs="4. Јавни зајмови" value="4. јавни зајмови"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2002-02-08" id="usvajanje"/>
+				<step date="2002-02-09" id="stupanje_na_snagu"/>
+				<step date="2002-02-09" id="primena"/>
+			</workflow>
+		</meta>
+		<body>
+			<clause id="stav1">
+				<content>
+					<p>На основу <ref>члана 6. </ref>Уредбе о чланству Савезне Републике Југославије у Међународном монетарном фонду и другим међународним финансијским организацијама (“<ref id="ref1" href="/rs/act/96/40/srp@">Службени лист СРЈ”, бр. 40/96</ref>),</p>
+				</content>
+			</clause>
+			<clause id="stav2">
+				<content>
+					<p>Савезна влада доноси</p>
+				</content>
+			</clause>
+			<clause id="stav3">
+				<content>
+					<p>ОДЛУКУ</p>
+				</content>
+			</clause>
+			<clause id="stav4">
+				<content>
+					<p>о издавању некаматоносне и непреносиве обвезнице ради измиривања обавеза Савезне  Републике Југославије по основу уплата у оснивачки капитал Међународне агенције  за гарантовање инвестиција</p>
+				</content>
+			</clause>
+			<clause id="stav5">
+				<content>
+					<p>„Службени лист СРЈ“, број 8 од 8. фебруара 2002.</p>
+				</content>
+			</clause>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Ради измиривања обавеза Савезне Републике Југославије по основу уплата у оснивачки капитал Међународне агенције за гарантовање инвестиција издаје се некаматоносна и непреносива обвезница на износ од 249.942 САД долара.</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Оригинал обвезнице на српском и енглеском језику савезни орган надлежан за послове финансија депоноваће код Народне банке Југославије.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>Фотокопија обвезнице доставиће се Међународној агенцији за гарантовање инвестиција.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Ова одлука ступа на снагу наредног дана од дана објављивања у “Службеном листу СРЈ”.</heading>
+				<content>
+					<clause id="od3-stav1">
+						<content>
+							<p>Савезна влада</p>
+						</content>
+					</clause>
+					<clause id="od3-stav2">
+						<content>
+							<p>Е. п. бр. 24</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od8">
+				<num>8.</num>
+				<heading> фебруара 2002. године</heading>
+				<content>
+					<clause id="od8-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od8-stav2">
+						<content>
+							<p>Председник</p>
+						</content>
+					</clause>
+					<clause id="od8-stav3">
+						<content>
+							<p>Драгиша Пешић, с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

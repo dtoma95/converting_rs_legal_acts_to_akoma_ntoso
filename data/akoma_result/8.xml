@@ -1,0 +1,589 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2012/92-14/main"/>
+					<FRBRuri value="/rs/act/2012/92-14"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2012/92-14/srp@/main"/>
+					<FRBRuri value="/rs/act/2012/92-14/srp@"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2012/92-14/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2012/92-14/srp@.akn"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2012-9-26" name="службени гласник рс" number="92" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="3. Семе и садни материјал" value="3. семе и садни материјал"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2012-09-17" id="usvajanje"/>
+				<step date="2012-10-04" id="stupanje_na_snagu"/>
+				<step date="2012-10-04" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 5. став 2. </ref>Закона о признавању сорти пољопривредног биља (<ref id="ref3" href="/rs/act/10/30/srp@">,,Службени гласник РС”, број 30/10</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, шумарства и водопривреде доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о методама испитивања сорти трава  (Poaceae) ради признавања сорти</title>
+			<date>&quot;Службени гласник РС&quot;, број 92 од 26.   септембра 2012.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Уводнe одредбe</heading>
+				<content>
+					<article id="od1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="od1-clan1-stav1">
+								<content>
+									<p>Овим правилником прописују се методе испитивања сорти трава за сточну храну на огледном пољу и у лабораторији, ради признавања сорти, и то: енглески љуљ (Lolium perenne L.); јежевица (Dactylis glomerata L.); италијански љуљ (Lolium multiflorum Lam); ливадски вијук (Festuca pratensis Huds.); црвени вијук (Festuca rubra L.ssp. vulgaris Gaud.); Hayek; високи вијук (Festuca arundinacea Schreb); фестулолиум (Festuca pratensis Huds x Lolium multiflorum Lam); права ливадарка (Poa pratensis L.); француски љуљ (Arrhenatherum elatius (L.) P.Beauv.ex J.S.et K.B.Presl); мачији реп (Phleum pratense L.); бела росуља (Agrostis gigantea (Roth); безосни власен (Bromus inermis Leyes.); шрадеров власен (Bromus catharticus Vahl.); лисичији реп (Alopecurus pratensis L.).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="od1-clan2-stav1">
+								<content>
+									<p>Сорта трава се испитујe на огледном пољу и у лабораторији методама којима се испитују одређене битне особине сортe трава ради признавања сортe, односно којима се утврђује да je сорта различита, униформна и стабилна (DUS тест), као и да има бољу производну и употребну вредност (VCU тест), у складу са законом којим се уређује признавање сорти пољопривредног биља.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan2-stav2">
+								<content>
+									<p>Методе испитивања сорте трава су скуп поступака и података које предузима, односно прикупља правно лице, предузетник или физичко лице које испуњава услове за вршење испитивања сорти прописане законом којим се уређује признавање сорти пољопривредног биља (у даљем тексту: извођач огледа).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Методе испитивања производне и употребне вредности сорте (VCU тест)</heading>
+				<content>
+					<article id="od2-clan3">
+						<num>3.</num>
+						<heading>Битне особине сортe трава</heading>
+						<content>
+							<clause id="od2-clan3-stav1">
+								<content>
+									<p>Битне особине сорте трава су оне производне и употребне особине сортe трава које се, у складу са законом којим се уређује признавање сорти пољопривредног биља, испитују да би се утврдила произвoдна и употребна вредност сорте трава, и то:</p>
+									<point id="od2-clan3-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> принос зелене масе;</p>
+										</content>
+									</point>
+									<point id="od2-clan3-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> принос суве материје;</p>
+										</content>
+									</point>
+									<point id="od2-clan3-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> квалитет крме (садржај сирових протеина, садржај неутралних – НДФ влакна и садржај киселих – АДФ влакна).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od2-clan3-stav2">
+								<content>
+									<p>Сорта трава испитујe се тако што се битне особине сорте из става 1. овог члана које се испитују упоређују са битним особинама једне или више сорти стандард, у складу са законом којим се уређује признавање сорти пољопривредног биља.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan4">
+						<num>4.</num>
+						<heading>Испитивања на огледном пољу</heading>
+						<content>
+							<clause id="od2-clan4-stav1">
+								<content>
+									<p>Сорта трава испитујe се у више одвојених огледа на огледном пољу (мрежа огледа) у току две производне године након заснивања огледа.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan4-stav2">
+								<content>
+									<p>Огледи из става 1. овог члана изводе се на најмање три локалитета, а састојe се од елементарних парцела на којима се врши испитивање.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan4-stav3">
+								<content>
+									<p>Огледи из става 1. овог члана се изводе по плану „потпуно случајног блок система” у четири понављања, а рандомизација, односно план огледа је исти за све локалитете.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="od2-clan5-stav1">
+								<content>
+									<p>Сорта трава испитујe се на огледном пољу у складу са захтевом за признавање сорте у коме власник сорте, односно његов овлашћени заступник предлаже да се сорта трава, ради испитивања, разврста у одговарајућу групу трава према врсти.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav2">
+								<content>
+									<p>Сорта трава разврстана на начин из става 1. овог члана, ради испитивања, сеје се у одређени оглед.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav3">
+								<content>
+									<p>Семе сорте трава за испитивање на огледном пољу доставља се нетретирано и здравствено исправно, a квалитет семена је у складу са одредбама прописа којим се уређује квалитет семена пољопривредног биља.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="od2-clan6-stav1">
+								<content>
+									<p>Предусев на целој површини огледног поља на коме се врши испитивање сорте трава је иста култура.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan6-stav2">
+								<content>
+									<p>Сорта трава испитујe се на земљишту без депресија, добре структуре и плодности које је пре сетве испитано на присутност земљишних штеточина, а по потреби, изводи се и предсетвено третирање инсектицидима.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan6-stav3">
+								<content>
+									<p>Након сетве трава, засејана површина се поваља и залива како би се омогућило равномерније и брже ницање и добијањe одређеног склопа биљака.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan6-stav4">
+								<content>
+									<p>Количине минералних ђубрива, време и начин њихове примене, као и остале агротехничке мере примењују се приликом испитивања сорте трава на огледном пољу тако да буду у складу са највишим нивоом технологије гајења трава.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="od2-clan7-stav1">
+								<content>
+									<p>Сорте трава које се испитују сеју се на површини од 10m2, а чине је 10 редова од по 5m дужине уз размак између редова од 20cm, односно 12,5cm, у зависности од тога да ли има могућности за машинску сетву трава.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan7-stav2">
+								<content>
+									<p>Параметри који се примењују приликом испитивања сорти трава дати су у Табели – Елементи огледа.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan7-stav3">
+								<content>
+									<p>Табела – Елементи огледа</p>
+								</content>
+							</clause>
+							<став id="od2-clan7-stav4">
+								<table class="tabela-sa-borderom">
+									
+		
+									<tbody>
+										
+			
+										<tr>
+											
+				
+											<td width="70%">
+												
+				
+												<p>Дужина основне парцеле</p>
+											</td>
+											
+				
+											<td width="30%">
+												
+				
+												<p>5m</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td width="70%">
+												
+				
+												<p>Ширина основне парцеле</p>
+											</td>
+											
+				
+											<td width="30%">
+												
+				
+												<p>2m</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td width="70%">
+												
+				
+												<p>Површина основне парцеле</p>
+											</td>
+											
+				
+											<td width="30%">
+												
+				
+												<p>10m2</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td width="70%">
+												
+				
+												<p>Размак између редова</p>
+											</td>
+											
+				
+											<td width="30%">
+												
+				
+												<p>20cm (12,5cm)</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td width="70%">
+												
+				
+												<p>Број редова у парцели</p>
+											</td>
+											
+				
+											<td width="30%">
+												
+				
+												<p>10 (16)</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td width="70%">
+												
+				
+												<p>Размак између понављања</p>
+											</td>
+											
+				
+											<td width="30%">
+												
+				
+												<p>1m</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td width="70%">
+												
+				
+												<p>Размак између парцела унутар понављања</p>
+											</td>
+											
+				
+											<td width="30%">
+												
+				
+												<p>50cm</p>
+											</td>
+											
+			
+										</tr>
+										
+		
+									</tbody>
+									
+	
+								</table>
+								
+	
+								<content/>
+							</став>
+							<clause id="od2-clan7-stav5">
+								<content>
+									<p>На почетку и на крају сваког огледа сеју се два заштитна реда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="od2-clan8-stav1">
+								<content>
+									<p>У току вегетације сорте трава која се испитује евидентирају се следећи подаци:</p>
+									<point id="od2-clan8-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> датум ницања (дан кад се појави комплетан ред);</p>
+										</content>
+									</point>
+									<point id="od2-clan8-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> оцена ницања, 1–9 (1 – без никлих биљака, 3–25% никлих биљака, 5–50% никлих биљака, 7–75% никлих биљака и 9–100% никлих биљака);</p>
+										</content>
+									</point>
+									<point id="od2-clan8-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> датум прве косидбе – почетак класања на висини 6–8cm (високе траве се косе свакe 4 недељe, а ниске сваких 6 недеља);</p>
+										</content>
+									</point>
+									<point id="od2-clan8-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> брзина регенерације (14 дана након сваке косидбе измерити висину биљака у cm из једног понављања на 20 биљака по слободном избору);</p>
+										</content>
+									</point>
+									<point id="od2-clan8-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> презимљавање, оцена 1–9 (1–100% оштећења, 3–75% оштећених биљака, 5–50% оштећених биљака, 7–25% оштећених биљака и 9 – без оштећених биљака);</p>
+										</content>
+									</point>
+									<point id="od2-clan8-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> полегање, оцена 1–9 (1–100% полеглих биљака, 3–75% полеглих биљака, 5–50% полеглих биљака, 7–25% полеглих биљака и 9 – без полеглих биљака);</p>
+										</content>
+									</point>
+									<point id="od2-clan8-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> висина биљака (cm), непосредно пред сваку косидбу у једном понављању на првих 20 биљака.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="od2-clan9-stav1">
+								<content>
+									<p>У току испитивања сорте трава у огледном пољу у односу на стандардну сорту утврђује се степен присуства болести и штеточина, с тим што извођачи огледа сами евидентирају врсту и степен присуства болести.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan9-stav2">
+								<content>
+									<p>Оцењивање отпорности сорте трава која се испитује према болестима и штеточинама врши се по скали од 1 до 9, и то:</p>
+									<point id="od2-clan9-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> оцена 1 – 100% оболелих биљака;</p>
+										</content>
+									</point>
+									<point id="od2-clan9-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> оцена 3 – 75% оболелих биљака;</p>
+										</content>
+									</point>
+									<point id="od2-clan9-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> оцена 5 – 50% оболелих биљака;</p>
+										</content>
+									</point>
+									<point id="od2-clan9-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> оцена 7 – 25% оболелих биљака;</p>
+										</content>
+									</point>
+									<point id="od2-clan9-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> оцена 9 – без оболелих биљака.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="od2-clan10-stav1">
+								<content>
+									<p>У току производне године извођач огледа по косидби сваке сорте у огледном пољу мерењем утврђује:</p>
+									<point id="od2-clan10-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> принос зелене масе (kg/парцела) за свако понављање по откосима;</p>
+										</content>
+									</point>
+									<point id="od2-clan10-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> % суве материје из просечног узорка за сваку сорту, по откосима на основу које утврђујемо принос суве материје у (kg/парцела) за свако понављање.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od2-clan10-stav2">
+								<content>
+									<p>На основу података из става 1. овог члана израчунава се принос изражен у kg/парцели и kg/ha за све сорте у огледу.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan11">
+						<num>11.</num>
+						<heading>Испитивање у лабораторији</heading>
+						<content>
+							<clause id="od2-clan11-stav1">
+								<content>
+									<p>Сорте трава испитују се у лабораторији тако што се испитује квалитет крме, односно утврђује садржај сирових протеина, сирове целулозе, суве материје, масти, пепела, БЕМ и влакана.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan11-stav2">
+								<content>
+									<p>Да би се квалитет крме из става 1. овог члана испитао у лабораторији узима се просечан узорак из свих понављања у микроогледу по откосима са једне локације.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan11-stav3">
+								<content>
+									<p>Просечан узорак се узима у другој години испитивања непосредно после косидбе, и то из покошене масе са сваке парцеле, односно са сваког понављања, по 1/2kg.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan12">
+						<num>12.</num>
+						<heading>Подаци о резултатима испитивања</heading>
+						<content>
+							<clause id="od2-clan12-stav1">
+								<content>
+									<p>Извођач огледа који испитује сорту трава на огледном пољу евидентира следеће податке: назив извођача огледа; име и презиме одговорног лица за извођење огледа; локалитет на коме се изводи оглед, тип земљишта и садржај храњивих материја у земљишту на коме се налази огледно поље; предусев; обављене агротехничке мере; податке из чл. 8. и 10. овог правилника, као и друге податке који утичу на принос испитиване сорте трава (оштећења од штеточина, природних непогода и др.).</p>
+								</content>
+							</clause>
+							<clause id="od2-clan12-stav2">
+								<content>
+									<p>Извођач огледа који испитује сорту трава у лабораторији евидентира и податке из <ref>члана 11. став 1. овог</ref> правилника, као и назив извођача огледа, одговорно лице за извођење огледа и локалитет на коме се изводи оглед из <ref>члана 11. став 2. овог</ref> правилника.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan12-stav3">
+								<content>
+									<p>Подаци из ст. 1. и 2. овог члана саставни су део годишњих и коначних резултата испитивања.</p>
+									<тачка id="od2-clan12-stav3-tac3">
+										<num>3.</num>
+										<content>
+											<p> Метода испитивања различитости, униформности, и стабилности сорте (DUS тест)</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="od2-clan13-stav1">
+								<content>
+									<p>Различитост, униформност и стабилност сорте трава испитује се методом одређеном техничким упутством за тестирање различитости, униформности и стабилности сорте трава.</p>
+									<тачка id="od2-clan13-stav1-tac4">
+										<num>4.</num>
+										<content>
+											<p> Завршна одредба</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="od2-clan14-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan14-stav2">
+								<content>
+									<p>Број 110-00-18/2012-09</p>
+								</content>
+							</clause>
+							<clause id="od2-clan14-stav3">
+								<content>
+									<p>У Београду, 17. септембра 2012. године</p>
+								</content>
+							</clause>
+							<clause id="od2-clan14-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="od2-clan14-stav5">
+								<content>
+									<p>Горан Кнежевић, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

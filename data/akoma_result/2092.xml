@@ -1,0 +1,491 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1992/48-1627/main"/>
+					<FRBRuri value="/rs/act/1992/48-1627"/>
+					<FRBRdate date="1992" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1994/57-1914/srp@/main"/>
+					<FRBRuri value="/rs/act/1994/57-1914/srp@"/>
+					<FRBRdate date="1994" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1994/57-1914/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1994/57-1914/srp@.akn"/>
+					<FRBRdate date="1994" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1992-7-17" name="службени гласник рс" number="48" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="12. Отклањање последица санкција" value="12. отклањање последица санкција"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1992-07-16" id="usvajanje"/>
+				<step date="1992-07-18" id="stupanje_na_snagu"/>
+				<step date="1992-07-18" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="48/1992-1627" id="e1" type="generation"/>
+				<eventRef date="75/1992-2526" id="e2" type="amendment"/>
+				<eventRef date="57/1994-1914" id="e3" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 18. јула 1992. године (види <ref>члан 9. </ref>Уредбе).Уредба се не може примењивати, јер се општи акти донети за извршење закона и других општих аката за које се одлуком Уставног суда утврди да нису у сагласности с Уставом, општеприхваћеним правилима међународног права, потврђеним међународним уговорима или законом, неће примењивати од дана објављивања одлуке Уставног суда, ако из одлуке произилази да су ти општи акти несагласни Уставу, општеприхваћеним правилима међународног права, потврђеним међународним уговорима или закону (види <ref>члан 56. </ref>Закона о поступку пред Уставним судом и правном дејству његових одлука:<ref id="ref10" href="/rs/act/1991/32/srp@"> Службени гласник РС, број 32/1991</ref> и <ref>члан 60. </ref>Закона о Уставном суду:<ref id="ref11" href="/rs/act/2007/109/srp@"> Службени гласник РС, број 109/2007</ref>).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 2. став 1. тачка 2</ref>. Закона о мерама за отклањање у ублажавање последица примене санкција међународних оргнизација („<ref id="ref12" href="/rs/act/92/46/srp@">Службени гласник Републике Србије“, број 46/92</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Влада Републике Србије доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о продаји моторног бензина и дизел-горива и наплати путарине за моторна возила  стране регистрације и пловне објекте који плове под страном заставом</title>
+			<date>„Службени гласник РС”, бр. 48 од 17. јула 1992, 75 од 16. октобра 1992, 57 од 16. септембра 1994.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Моторни бензин и дизел-гориво за возила стране регистрације и погонско гориво за пловне објекте који плове под страном заставом плаћа се боновима које издаје и на посебним продајним местима продаје Јавно предузеће „Нафтна индустрија Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Наплата путарине за моторна возила стране регистрације врши се на наплатним станицама Дирекције за путеве у ефективним девизним средствима плаћања у складу са девизним ценовником који утврђује та Дирекција.*</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>*<ref id="ref13" href="/rs/act/1994/57/srp@">Службени гласник РС, број 57/1994</ref></heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Бонови за намене из <ref>члана 1. став 1</ref>.* ове уредбе продају се за ефективни страни новац.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Девизни прилив по основу продаје бонова и наплате путарине* из <ref>члана 1. </ref>ове уредбе преноси се на рачун Народне банке Југославије* која га посебно евидентира.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>„Нафтна индустрија Србије“ за продате бонове има* право на мењачку провизију од 2%.</p>
+						</content>
+					</clause>
+					<article id="clan2.а">
+						<num>2а</num>
+						<heading>*<ref id="ref14" href="/rs/act/1994/57/srp@">Службени гласник РС, број 57/1994</ref></heading>
+						<content>
+							<clause id="clan2.а-stav1">
+								<content>
+									<p>За моторни бензин и дизел-гориво који се продају за бонове из <ref>члана 1</ref>.* став 1.** ове уредбе утврђују се следеће цене и то:*</p>
+								</content>
+							</clause>
+							<став id="clan2.а-stav2">
+								<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:100.0%" width="100%">
+									
+	
+									<tbody>
+										<tr>
+											
+		
+											<td style="width:33.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="33%">
+												
+		
+												<p>
+		</p>
+											</td>
+											<td style="width:58.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="58%">
+												
+		
+												<p>
+		</p>
+											</td>
+											<td nowrap="nowrap" style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+												
+		
+												<p>
+		
+		ДМ/л*</p>
+												
+		
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td style="width:33.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="33%">
+												
+		
+												<p>
+		1)
+  моторни
+  бензин:*</p>
+											</td>
+											
+		
+											<td style="width:58.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="58%">
+												
+		
+												<p>
+		</p>
+											</td>
+											<td nowrap="nowrap" style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+												
+		
+												<p>
+		</p>
+											</td>
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td style="width:33.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="33%">
+												
+		
+												<p>
+		–
+  МБ-86*</p>
+											</td>
+											
+		
+											<td style="width:58.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="58%">
+												
+		
+												<p>
+		</p>
+											</td>
+											<td nowrap="nowrap" style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+												
+		
+												<p>
+		
+		2,80*</p>
+												
+		
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td style="width:33.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="33%">
+												
+		
+												<p>
+		–
+  МБ-98*</p>
+											</td>
+											
+		
+											<td style="width:58.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="58%">
+												
+		
+												<p>
+		</p>
+											</td>
+											<td nowrap="nowrap" style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+												
+		
+												<p>
+		
+		3,00*</p>
+												
+		
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td style="width:33.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="33%">
+												
+		
+												<p>
+		–
+  БМБ-95*</p>
+											</td>
+											
+		
+											<td style="width:58.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="58%">
+												
+		
+												<p>
+		</p>
+											</td>
+											<td nowrap="nowrap" style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+												
+		
+												<p>
+		
+		2,90*</p>
+												
+		
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td colspan="2" style="width:91.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="91%">
+												
+		
+												<p>
+		2)
+  плинско уље –
+  дизел-гориво*</p>
+											</td>
+											
+		
+											<td nowrap="nowrap" style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+												
+		
+												<p>
+		</p>
+											</td>
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td style="width:33.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="33%">
+												
+		
+												<p>
+		–
+  Д-1*</p>
+											</td>
+											
+		
+											<td style="width:58.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="58%">
+												
+		
+												<p>
+		</p>
+											</td>
+											<td nowrap="nowrap" style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+												
+		
+												<p>
+		
+		2,80*</p>
+												
+		
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td style="width:33.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="33%">
+												
+		
+												<p>
+		–
+  Д-2*</p>
+											</td>
+											
+		
+											<td style="width:58.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="58%">
+												
+		
+												<p>
+		</p>
+											</td>
+											<td nowrap="nowrap" style="width:9.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="9%">
+												
+		
+												<p>
+		
+		2,75*</p>
+												
+		
+											</td>
+											
+	
+										</tr>
+										
+
+									</tbody>
+								</table>
+								
+
+								<content/>
+							</став>
+							<clause id="clan2.а-stav3">
+								<content>
+									<p>*<ref id="ref15" href="/rs/act/1992/75/srp@">Службени гласник РС, број 75/1992</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>**<ref id="ref16" href="/rs/act/1994/57/srp@">Службени гласник РС, број 57/1994</ref></heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Остварени девизни приход по основу продаје бонова из <ref>члана 1. став 1. </ref>користи се за набавку нафте и нафтних деривата.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Изузетно, Влада Републике Србије може одредити коришћење средстава из става 1. овог члана и за друге намене.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Влада Републике Србије може, на основу реципроцитета, одобрити другачији начин наплате моторног бензина, дизел-горива * за власнике моторних возила стране регистрације.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>*<ref id="ref17" href="/rs/act/1994/57/srp@">Службени гласник РС, број 57/1994</ref></heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Облик и садржину бонова и пратећу документацију за продају бонова за моторни бензин и дизел-гориво утврђује „Нафтна индустрија Србије”.*</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<heading>*<ref id="ref18" href="/rs/act/1994/57/srp@">Службени гласник РС, број 57/1994</ref></heading>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>За спровођење ове уредбе министар саобраћаја и веза може, по потреби, донети упутство.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Новчаном казном од 10.000 до 50.000 нових динара казниће се за привредни преступ правно лице које продаје нафтне деривате противно одредбама чл. 1. и 2. ове уредбе, односно врши наплату путарине противно одредби <ref>члана 1. став 2. </ref>ове уредбе.*</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>За привредни преступ из става 1. овог члана казниће се и одговорно лице у правном лицу новчаном казном од 1.000 до 5.000 нових динара*.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<heading>*<ref id="ref19" href="/rs/act/1994/57/srp@">Службени гласник РС, број 57/1994</ref></heading>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Новчаном казном од 100 до 1.000 нових динара** казниће се за прекршај физичко лице (власник бензинске пумпе) које продаје нафтне деривате противно одредбама чл. 1. 2. и 2а. ове уредбе*.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>За радњу из става 1. овог члана поред новчане казне може се изрећи и мера забране продаје нафтних деривата у трајању од најмање 6 месеци.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>*<ref id="ref20" href="/rs/act/1992/75/srp@">Службени гласник РС, број 75/1992</ref></p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<heading>**<ref id="ref21" href="/rs/act/1994/57/srp@">Службени гласник РС, број 57/1994</ref></heading>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Брисан је (види <ref>члан 8. </ref>Уредбе–57/94–1914).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Ова уредба ступа на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>05 број 06-4941/55-28</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav3">
+						<content>
+							<p>У Београду, 16. јула 1992. године</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav4">
+						<content>
+							<p>Влада Републике Србије</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav5">
+						<content>
+							<p>Потпредседник,</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav6">
+						<content>
+							<p>Небојша Маљковић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

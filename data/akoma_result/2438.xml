@@ -1,0 +1,426 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2011/65-21/main"/>
+					<FRBRuri value="/rs/act/2011/65-21"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2017/17-64/srp@/main"/>
+					<FRBRuri value="/rs/act/2017/17-64/srp@"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2017/17-64/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2017/17-64/srp@.akn"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2011-9-2" name="службени гласник рс" number="65" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="15. Управљање отпадом" value="15. управљање отпадом"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-08-29" id="usvajanje"/>
+				<step date="2011-09-10" id="stupanje_na_snagu"/>
+				<step date="2011-09-10" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="65/2011-21" id="e1" type="generation"/>
+				<eventRef date="17/2017-64" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу <ref>члана 53. став 4. </ref>Закона о управљању отпадом („<ref id="ref1" href="/rs/act/09/36/srp@">Службени гласник РС”, бр. 36/09</ref> и 88/10),</p>
+		</preamble>
+		<preface>
+			<authority>Министар животне средине, рударства и просторног планирања доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о листи POPs материја, начину и поступку за управљање POPs отпадом и граничним вредностима концентрација POPs материја које се односе на одлагање отпада који садржи или је контаминиран POPs материјама</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 65   од 2. септембра 2011, 17 од 6. марта 2017.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се: листa POPs материја, начин и поступак за управљање POPs отпадом и граничне вредности концентрација POPs материја које се односе на одлагање отпада који садржи или је контаминиран POPs материјама.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Одредбе овог правилника примењују се на отпад који садржи, састоји се или је контаминиран POPs материјама (у даљем тексту: POPs отпад), и то:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> отпадну електричну и електронску опрему која садржи PCB, укључујући и отпад који настаје приликом расклапања електричне и електронске опреме који садржи POPs материје и отпадна уља која садрже PCB;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> грађевински отпад и отпад од рушења који садржи PCB, укључујући и ископан материјал контаминиран са PCB;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> отпадне POPs пестициде;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> залихе PFOS и PBDE и отпад контаминиран са PFOS и PBDE;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> отпад контаминиран ненамерно произведеним POPs материјама.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Начин управљања POPs отпадом мора бити такав да се:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> спречи испуштање POPs материја у животну средину и контаминација других отпада POPs материјама;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> паковање POPs отпада обезбеди од цурења, оштећења, рђе или високе температуре, односно врши препакивање и поновно означавање по потреби;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> предузму адекватне мере како не би дошло до просипања POPs отпада;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> поставе заштитне подлоге испод упакованог отпада;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> уклањање течног отпада врши пумпама и погодним хемијски отпорним цевима, намењеним само за руковање са POPs отпадом;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> чишћење контаминираних површина врши троструким испирањем са одговарајућим органским растварачем;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> се врши третирање свих апсорбената и растварача из испирања, употребљене једнократне заштитне одеће и пластичне фолије када су контаминирани POPs материјама.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>При управљању POPs отпадом предузимају се мере, потребне за спречавање даље контаминације POPs материјама.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Листа POPs материја и граничне вредности концентрација POPs материја које се односе на одлагање POPs отпада дата је у   Прилогу 1. – Листа POPs материја и граничне   вредности концентрација POPs материја које се односе на одлагање отпада који   садржи, састоји се или је контаминиран POPs материјама (POPs отпад), који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>*<ref id="ref2" href="/rs/act/2017/17/srp@">Службени гласник РС, број 17/2017</ref></heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Сакупљање POPs отпада врши се тако да се:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> одвојено сакупља од осталих врста отпада;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> обезбеди одговарајућа паковања за транспорт, а посебно отпада који захтева да се препакује и да се транспорт одвија под безбедним условима;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> обезбеди предаја отпада на складиштење, односно третман, у складу са законом којим се уређује управљање отпадом.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Сакупљање POPs отпада из става 1. овог члана врши се према оперативним програмима и динамици, односно одговарајућим роковима којима се обезбеђује прикупљање свих врста POPs отпада.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>POPs отпад сакупљен од произвођача, односно власника тог отпада транспортује се до центра за сакупљање, складиштење, трансфер станице или постројења за третман или одлагање отпада.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Паковање РOPs отпада врши се за транспорт и за складиштење.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>РOPs отпад треба да буде прописно упакован за транспорт са сигурносним мерама за смањење ризика од цурења и просипања.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>Паковање РOPs отпада за транспорт може се користити и за његово складиштење.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>РOPs отпад у у свом оригиналном паковању безбедан је за складиштење, ако је паковање у добром стању.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav5">
+						<content>
+							<p>Уређаји ван употребе који садрже или су контаминирани POPs материјама могу се користити као паковање за складиштење.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav6">
+						<content>
+							<p>Трансформатори који садрже PCB празне се од течности, а са кондензаторима који садрже PCB поступа се као са упакованим РOPs отпадом.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav7">
+						<content>
+							<p>Отпад контаминиран РOPs материјама може се сместити у складиште, при чему подлога складишта треба да буде таква да се могу предузети мере заштите, укључујући и мере спречавања избијања пожара.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav8">
+						<content>
+							<p>РOPs отпад се пакује и означава на прописан начин у погледу врсте и стања POPs материја, као и нивoа опасности, у складу са прописом којим се уређује паковање и означавање опасног отпада.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Транспорт POPs отпада врши се у складу са законом којим се уређује превоз опасних терета и дозволом за транспорт опасног отпада, издатом на основу закона којим се уређује управљање отпадом.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Транспорт неопасног отпада који има карактеристике POPs отпада обавља се адекватно опремљеним возилима у складу са дозволом за транспорт неопасног отпада издатом на основу закона којим се уређује управљање отпадом, односно тако да се спречи расипање или испадање отпада приликом транспорта, утовара и истовара, односно загађење ваздуха, воде, земљишта и животне средине.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Складиштење POPs отпада врши се у складу са законом којим се уређује управљање отпадом и прописом којим се уређује складиштење опасног отпада.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Складиште POPs отпада означава се као место за складиштење POPs отпада.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>Простор за складиштење треба да буде пројектован, изграђен и опремљен тако да се спречи емисија POPs материја у животну средину.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>Отпад контаминиран POPs материјама насталим приликом деконтаминације чува се на непропусној подлози, пре коначног одлагања.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav5">
+						<content>
+							<p>Течни POPs отпад ставља се у посуде које спречавају његово цурење у животну средину.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav6">
+						<content>
+							<p>POPs отпад у прашкастом стању чува се у затвореном паковању.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav7">
+						<content>
+							<p>POPs отпад у расутом стању складишти се у посебним контејнерима за транспорт.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>POPs отпад одлаже се или поново искоришћава тако да се осигура уништење садржаја РОРѕ материја или неповратно трансформише, односно да преостали отпад и испуштања не показују карактеристике РОРѕ материја.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Третман, односно одлагање POPs отпада врши се прописаним поступцима или методама одлагања у складу са прописом којим се уређују категорије, испитивање и класификација отпада (D листа – Операције одлагања и R листа – Операције поновног искоришћења), и то:</p>
+							<point id="clan8-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> D9 – физичко хемијски третман;</p>
+								</content>
+							</point>
+							<point id="clan8-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> D10 – спаљивање на земљи;</p>
+								</content>
+							</point>
+							<point id="clan8-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> R1 – коришћење првенствено као гориво или за производњу енергије, искључујући отпад који садржи PCB</p>
+								</content>
+							</point>
+							<point id="clan8-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> R3 – рециклажа/прерада органских материја које се не користе као растварачи, ограничена на отпад за конверзију гаса;</p>
+								</content>
+							</point>
+							<point id="clan8-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> R 4 – рециклажа/прерада метала и једињења метала, ограничена на активности примарне и секундарне металургије, када су достигнуте граничне вредности емисије за ненамерно произведене POPs материје.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>Изузетно, POPs који садржи, састоји се или је контаминиран било којом POPs материјом из Прилога 1. овог правилника, може бити стабилизован и одложен на депонију опасног отпада (D5 операција) или одложен у одговарајућем подземном складишту (D12 операција), тако да обезбеди да се не испуштају гасови са ефектом стаклене баште и ненамерно произведене POPs материје, у складу са граничним вредностима концентрација утврђеним у   Прилогу 2. – Листа отпада који садржи, састоји се или је контаминиран POPs материјама за који се може применити алтернативно одлагање, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav4">
+						<content>
+							<p>При одлагању или поновном искоришћењу може се изоловати било која POPs материја из Прилога 1. овог правилника.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav5">
+						<content>
+							<p>POPs материје које су изоловане из отпада у складу са ставом 4. овог члана накнадно се одлажу у складу са операцијама D9 и D10 из става 2. тач. 1) и 2) овог члана.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<heading>*<ref id="ref3" href="/rs/act/2017/17/srp@">Службени гласник РС, број 17/2017</ref></heading>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Лице које врши третман или одлагање POPs отпада, у складу са законом, обезбеђује да остаци после третмана немају карактеристике POPs материја.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Број 110-00-63/2011-05</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>У Београду, 29. августа 2011. године</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav5">
+						<content>
+							<p>др   Оливер Дулић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav6">
+						<content>
+							<p>Прилози</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav7">
+						<content>
+							<p>НАПОМЕНА ИЗДАВАЧА: Правилником о изменама   Правилника о листи POPs материја, начину и поступку за управљање POPs   отпадом и граничним вредностима концентрација POPs материја које се односе   на одлагање отпада који садржи или је контаминиран POPs материјама   (&quot;<ref id="ref4" href="/rs/act/2017/17/srp@">Службени гласник РС&quot;, број 17/2017</ref>) Прилози 1. и 2. замењени су новим   прилозима (види чл. 1. и 2. Правилника - 17/2017-64)</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav8">
+						<content>
+							<p>Прилог 1. – Листа POPs материја и граничне вредности концентрација POPs материја које се односе на одлагање отпада који садржи, састоји се или је контаминиран POPs материјама (POPs отпад)</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

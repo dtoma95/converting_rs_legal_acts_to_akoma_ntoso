@@ -1,0 +1,836 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2018/104-116/main"/>
+					<FRBRuri value="/rs/act/2018/104-116"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/104-116/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/104-116/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/104-116/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/104-116/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2018-12-28" name="службени гласник рс" number="104" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="6. Дуван" value="6. дуван"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2018-12-27" id="usvajanje"/>
+				<step date="2018-12-29" id="stupanje_na_snagu"/>
+				<step date="2018-12-29" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник је ступио на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 29. децембра 2018. године (види <ref>члан 19. </ref>Правилника).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 5. став 5. </ref>и <ref>члана 6. став 5. </ref>Закона о дувану („<ref id="ref9" href="/rs/act/05/101/srp@">Службени гласник РС”, бр. 101/05, 90/07, 95/10, 36/11, 93/12, 108/13</ref> и 95/18),</p>
+		</preamble>
+		<preface>
+			<authority>Министар финансија доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о садржини и начину вођења регистара и евиденционих листа о производњи, обради, преради и промету дувана, обрађеног дувана, прерађеног дувана, односно дуванских производа</title>
+			<date>&quot;Службени гласник РС&quot;, број 104 од 28. децембра     2018.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Предмет</heading>
+				<content>
+					<article id="od1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="od1-clan1-stav1">
+								<content>
+									<p>Овим правилником ближе се уређује садржина и начин вођења Регистра произвођача дувана, Регистра обрађивача дувана, Регистра прерађивача дувана, Регистра произвођача дуванских производа, Регистра трговаца на велико дуванским производима, Регистра увозника дувана, обрађеног дувана, прерађеног дувана, односно дуванских производа, Регистра извозника дувана, обрађеног дувана, прерађеног дувана, односно дуванских производа (у даљем тексту: регистри), Регистра привредних субјеката који обављају промет дуванских производа по посебном поступку и Регистра о маркама дуванских производа, као и садржина и начин вођења Евиденционе листе о физичким лицима – произвођачима дувана, Евиденционе листе о трговцима на мало дуванским производима и Евиденционе листе о маркама дуванских производа чији се промет обавља по посебном поступку (у даљем тексту: евиденционе листе), које води Управа за дуван, као орган управе у саставу Министарства финансија (у даљем тексту: Управа).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Садржина регистара</heading>
+				<content>
+					<article id="od2-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="od2-clan2-stav1">
+								<content>
+									<p>У регистре, Регистар привредних субјеката који обављају промет дуванских производа по посебном поступку и Регистар о маркама дуванских производа, Управа врши упис података који се односе на предмет уписа, промене тих података и њихово брисање из регистара.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="od2-clan3-stav1">
+								<content>
+									<p>Регистри садрже податке који се односе на:</p>
+									<point id="od2-clan3-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> редни (регистарски) број уписа;</p>
+										</content>
+									</point>
+									<point id="od2-clan3-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> број и датум решења о упису;</p>
+										</content>
+									</point>
+									<point id="od2-clan3-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> назив привредног субјекта који се уписује у регистар;</p>
+										</content>
+									</point>
+									<point id="od2-clan3-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> седиште и адресу привредног субјекта;</p>
+										</content>
+									</point>
+									<point id="od2-clan3-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> име, презиме, адресу и јединствени матични број грађана (у даљем тексту: ЈМБГ) предузетника;</p>
+										</content>
+									</point>
+									<point id="od2-clan3-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> порески идентификациони број (у даљем тексту: ПИБ), матични број привредног субјекта;</p>
+										</content>
+									</point>
+									<point id="od2-clan3-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> назив регистра, број и датум акта о упису, ако је привредни субјект уписан и у друге регистре код Управе;</p>
+										</content>
+									</point>
+									<point id="od2-clan3-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> име, презиме и ЈМБГ, односно број пасоша лица овлашћеног за заступање привредног субјекта;</p>
+										</content>
+									</point>
+									<point id="od2-clan3-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> број и датум решења о давању дозволе за обављање делатности и рок на који је дозвола издата;</p>
+										</content>
+									</point>
+									<point id="od2-clan3-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> број и датум решења о одузимању дозволе за обављање делатности;</p>
+										</content>
+									</point>
+									<point id="od2-clan3-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> број и датум решења о брисању из регистра;</p>
+										</content>
+									</point>
+									<point id="od2-clan3-stav1-tac12">
+										<num>12)</num>
+										<content>
+											<p> закљученe уговорe (датум закључења уговора; назив уговорних страна; предмет уговора и рок важности уговора) из <ref>члана 9. став 1. тачка 4</ref>), <ref>члана 17. став 1. тачка 5</ref>), члана 25в став 1. тачка 5), <ref>члана 38. став 1. тачка 4</ref>) и <ref>члана 52. став 1. тачка 2</ref>) Закона о дувану (у даљем тексту: Закон).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od2-clan3-stav2">
+								<content>
+									<p>У регистре се уписују и промене података из става 1. овог члана.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="od2-clan4-stav1">
+								<content>
+									<p>Регистар привредних субјеката који обављају промет дуванских производа по посебном поступку садржи податке који се односе на:</p>
+									<point id="od2-clan4-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> редни (регистарски) број уписа;</p>
+										</content>
+									</point>
+									<point id="od2-clan4-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> број и датум решења о упису;</p>
+										</content>
+									</point>
+									<point id="od2-clan4-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> назив привредног субјекта који се уписује у регистар;</p>
+										</content>
+									</point>
+									<point id="od2-clan4-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> седиште и адресу привредног субјекта;</p>
+										</content>
+									</point>
+									<point id="od2-clan4-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> име, презиме, адресу и јединствени матични број грађана (у даљем тексту: ЈМБГ) предузетника;</p>
+										</content>
+									</point>
+									<point id="od2-clan4-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> порески идентификациони број (у даљем тексту: ПИБ) и матични број привредног субјекта;</p>
+										</content>
+									</point>
+									<point id="od2-clan4-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> назив регистра, број и датум акта о упису, ако је привредни субјект уписан и у друге регистре код Управе;</p>
+										</content>
+									</point>
+									<point id="od2-clan4-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> име, презиме и ЈМБГ, односно број пасоша лица овлашћеног за заступање привредног субјекта;</p>
+										</content>
+									</point>
+									<point id="od2-clan4-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> број и датум решења о брисању из регистра;</p>
+										</content>
+									</point>
+									<point id="od2-clan4-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> закључене уговоре о набавци дуванских производа (датум закључења уговора; назив уговорних страна; предмет уговора и рок важења уговора из члана 64б став 2. тачка 1) Закона;</p>
+										</content>
+									</point>
+									<point id="od2-clan4-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> приватно царинско складиште, и то податке о одобрењу за управљање царинским складиштем (број и датум одобрења, назив издаваоца одобрења, адреса и ознака царинског складишта, назив држаоца царинског складишта);</p>
+										</content>
+									</point>
+									<point id="od2-clan4-stav1-tac12">
+										<num>12)</num>
+										<content>
+											<p> јавно царинско складиште, и то податке о одобрењу за управљање царинским складиштем, односно уговору о закупу јавног царинског складишта (датум закључења уговора, предмет закупа, рок важења уговора, подаци о уговорним странама).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od2-clan4-stav2">
+								<content>
+									<p>У Регистар привредних субјеката који обављају промет дуванских производа по посебном поступку се уписују и промене података из става 1. овог члана.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="od2-clan5-stav1">
+								<content>
+									<p>Регистар о маркама дуванских производа садржи податке који се односе на:</p>
+									<point id="od2-clan5-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> редни (регистарски) број уписа;</p>
+										</content>
+									</point>
+									<point id="od2-clan5-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> број и датум решења о упису;</p>
+										</content>
+									</point>
+									<point id="od2-clan5-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> назив, седиште и адресу произвођача, односно увозника дуванског производа, који дувански производ који се уписује у Регистар о маркама дуванских производа ставља у промет на тржиште Републике Србије;</p>
+										</content>
+									</point>
+									<point id="od2-clan5-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> име, презиме, адресу и ЈМБГ предузетника – произвођача дуванског производа;</p>
+										</content>
+									</point>
+									<point id="od2-clan5-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> ПИБ и матични број произвођача, односно увозника дуванског производа;</p>
+										</content>
+									</point>
+									<point id="od2-clan5-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> назив регистра, број и датум акта о упису, ако је привредни субјект уписан и у друге регистре код Управе;</p>
+										</content>
+									</point>
+									<point id="od2-clan5-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> име, презиме и ЈМБГ, односно број пасоша лица овлашћеног за заступање привредног субјекта;</p>
+										</content>
+									</point>
+									<point id="od2-clan5-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> број и датум решења о брисању из регистра;</p>
+										</content>
+									</point>
+									<point id="od2-clan5-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> назив робне марке дуванског производа који се уписује у регистар;</p>
+										</content>
+									</point>
+									<point id="od2-clan5-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> број и датум акта о регистрацији робне марке дуванског производа, ако је донет;</p>
+										</content>
+									</point>
+									<point id="od2-clan5-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> ближи опис изгледа и облика паковања дуванског производа (фотографија паковања у одговарајућем формату) који се уписује у регистар;</p>
+										</content>
+									</point>
+									<point id="od2-clan5-stav1-tac12">
+										<num>12)</num>
+										<content>
+											<p> закључене уговоре и овлашћења (датум закључења уговора; назив уговорних страна; предмет уговора и рок важења уговора; датум, предмет и рок важења овлашћења) из <ref>члана 37. став 3. </ref>тач. 2)– 3) Закона.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav2">
+								<content>
+									<p>У Регистар о маркама дуванских производа уписују се и промене података из става 1. овог члана, као и подаци о брисању из регистра које се врши на захтев произвођача, односно увозника дуванског производа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="od2-clan6-stav1">
+								<content>
+									<p>Привредни субјекти о којима се воде регистри дужни су да Управи пријаве сваку насталу промену података уписаних у регистар у року од 15 дана од дана настале промене.</p>
+									<тачка id="od2-clan6-stav1-tac3">
+										<num>3.</num>
+										<content>
+											<p> Начин вођења регистара</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="od2-clan7-stav1">
+								<content>
+									<p>Регистри се воде у електронској форми као јединствена база података.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan7-stav2">
+								<content>
+									<p>База података за Регистар о маркама дуванских производа састоји се од нумерисаних одељака који се формирају за сваку врсту дуванског производа из <ref>члана 2. тачка 3</ref>) Закона.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan7-stav3">
+								<content>
+									<p>Одељак из става 2. овог члана може да садржи више пододељака, ако се у њему врши упис више категорија у оквиру једног дуванског производа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="od2-clan8-stav1">
+								<content>
+									<p>Податке који у складу са овим правилником чине садржину регистара, Управа уписује на основу захтева привредног субјекта и документације коју тај субјект прилаже уз захтев, као и на основу друге документације која се подноси у складу са Законом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="od2-clan9-stav1">
+								<content>
+									<p>Подаци који чине садржину регистара, а који се наводе у захтеву за упис у регистар, односе се на:</p>
+									<point id="od2-clan9-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> датум подношења захтева;</p>
+										</content>
+									</point>
+									<point id="od2-clan9-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> назив регистра за који се подноси захтев за упис;</p>
+										</content>
+									</point>
+									<point id="od2-clan9-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> назив привредног субјекта који подноси захтев за упис;</p>
+										</content>
+									</point>
+									<point id="od2-clan9-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> седиште, адресу, број телефона и адресу електронске поште привредног субјекта;</p>
+										</content>
+									</point>
+									<point id="od2-clan9-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> ПИБ и матични број привредног субјекта;</p>
+										</content>
+									</point>
+									<point id="od2-clan9-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> назив регистра, број и датум акта о упису, ако је привредни субјект уписан и у друге регистре код Управе;</p>
+										</content>
+									</point>
+									<point id="od2-clan9-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> име, презиме и ЈМБГ, односно број пасоша лица овлашћеног за заступање привредног субјекта;</p>
+										</content>
+									</point>
+									<point id="od2-clan9-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> број и датум решења о давању дозволе за обављање делатности и рок на који је дозвола издата;</p>
+										</content>
+									</point>
+									<point id="od2-clan9-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> потпис подносиоца захтева.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="od2-clan10-stav1">
+								<content>
+									<p>Подаци који чине садржину Регистра привредних субјеката који обављају промет дуванских производа по посебном поступку, а који се наводе у захтеву за упис у тај регистар, односе се на:</p>
+									<point id="od2-clan10-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> датум подношења захтева за упис;</p>
+										</content>
+									</point>
+									<point id="od2-clan10-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> назив регистра за који се подноси захтев за упис;</p>
+										</content>
+									</point>
+									<point id="od2-clan10-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> назив привредног субјекта који обавља промет дуванских производа по посебном поступку који подноси захтев за упис;</p>
+										</content>
+									</point>
+									<point id="od2-clan10-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> седиште, адресу, број телефона и адресу електронске поште привредног субјекта;</p>
+										</content>
+									</point>
+									<point id="od2-clan10-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> ПИБ и матични број привредног субјекта;</p>
+										</content>
+									</point>
+									<point id="od2-clan10-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> назив регистра, број и датум акта о упису, ако је привредни субјект уписан и у друге регистре код Управе;</p>
+										</content>
+									</point>
+									<point id="od2-clan10-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> име, презиме и ЈМБГ, односно број пасоша лица овлашћеног за заступање привредног субјекта;</p>
+										</content>
+									</point>
+									<point id="od2-clan10-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> потпис подносиоца захтева.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="od2-clan11-stav1">
+								<content>
+									<p>Подаци који чине садржину Регистра о маркама дуванских производа, а који се наводе у захтеву за упис у тај регистар, односе се на:</p>
+									<point id="od2-clan11-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> датум подношења захтева за упис;</p>
+										</content>
+									</point>
+									<point id="od2-clan11-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> назив регистра за који се подноси захтев за упис;</p>
+										</content>
+									</point>
+									<point id="od2-clan11-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> назив произвођача, односно увозника дуванских производа који подноси захтев за упис;</p>
+										</content>
+									</point>
+									<point id="od2-clan11-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> седиште, адресу, број телефона и адресу електронске поште привредног субјекта;</p>
+										</content>
+									</point>
+									<point id="od2-clan11-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> ПИБ и матични број привредног субјекта;</p>
+										</content>
+									</point>
+									<point id="od2-clan11-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> назив регистра, број и датум акта о упису, ако је привредни субјект уписан и у друге регистре код Управе;</p>
+										</content>
+									</point>
+									<point id="od2-clan11-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> име, презиме и ЈМБГ, односно број пасоша лица овлашћеног за заступање привредног субјекта;</p>
+										</content>
+									</point>
+									<point id="od2-clan11-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> врсту дуванског производа за коју се подноси захтев за упис;</p>
+										</content>
+									</point>
+									<point id="od2-clan11-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> назив робне марке дуванског производа за коју се подноси захтев за упис;</p>
+										</content>
+									</point>
+									<point id="od2-clan11-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> број и датум акта о регистрацији робне марке, ако је донет;</p>
+										</content>
+									</point>
+									<point id="od2-clan11-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> ближи опис изгледа и облика паковања, превод назива робне марке, као и текста наведеног на паковању дуванског производа (фотографија паковања у папиру и одговарајућем електронском формату);</p>
+										</content>
+									</point>
+									<point id="od2-clan11-stav1-tac12">
+										<num>12)</num>
+										<content>
+											<p> потпис подносиоца захтева.</p>
+										</content>
+									</point>
+									<тачка id="od2-clan11-stav1-tac4">
+										<num>4.</num>
+										<content>
+											<p> Садржина евиденционих листа</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="od2-clan12-stav1">
+								<content>
+									<p>Евиденциона листа о физичким лицима – произвођачима дувана води се посебно за сваку производну годину и садржи следеће податке:</p>
+									<point id="od2-clan12-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> име, презиме, ЈМБГ и адресу;</p>
+										</content>
+									</point>
+									<point id="od2-clan12-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> површину земљишта на коме се гаји дуван;</p>
+										</content>
+									</point>
+									<point id="od2-clan12-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> тип и сорту дувана који се гаји;</p>
+										</content>
+									</point>
+									<point id="od2-clan12-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> закључене кооперативне уговоре са произвођачем дувана (пословно име произвођача дувана, број и датум закључења уговора).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od2-clan12-stav2">
+								<content>
+									<p>Евиденциону листу из става 1. овог члана Управа води на основу извештаја које на њен захтев достављају лица уписана у Регистар произвођача дувана, а у складу са чланом 7. став 5. Закона.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="od2-clan13-stav1">
+								<content>
+									<p>Евиденциона листа о трговцима на мало дуванским производима садржи следеће податке:</p>
+									<point id="od2-clan13-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> назив, седиште и адресу привредног субјекта;</p>
+										</content>
+									</point>
+									<point id="od2-clan13-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> име, презиме, адресу и ЈМБГ предузетника;</p>
+										</content>
+									</point>
+									<point id="od2-clan13-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> ПИБ и матични број привредног субјекта;</p>
+										</content>
+									</point>
+									<point id="od2-clan13-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> број и датум решења о давању дозволе за обављање делатности трговине на мало;</p>
+										</content>
+									</point>
+									<point id="od2-clan13-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> број и датум решења о одузимању дозволе за обављање делатности трговине на мало;</p>
+										</content>
+									</point>
+									<point id="od2-clan13-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> назив, седиште и адресу сваког малопродајног објекта;</p>
+										</content>
+									</point>
+									<point id="od2-clan13-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> назив, седиште и адресу угоститељског објекта, односно малопродајног објекта који је по намени специјализован за продају дуванских производа у којем је постављен хјумидор;</p>
+										</content>
+									</point>
+									<point id="od2-clan13-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> закључене предуговоре/уговоре са трговцем на велико дуванским производима (датум закључења предуговора/уговора, пословно име трговца на велико, предмет уговора и рок важења уговора).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od2-clan13-stav2">
+								<content>
+									<p>Евиденциону листу из става 1. овог члана Управа води на основу издате дозволе за трговину на мало дуванским производима за сваки малопродајни објекат, односно хјумидор.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="od2-clan14-stav1">
+								<content>
+									<p>Евиденциона листа о маркама дуванских производа чији се промет обавља по посебном поступку садржи следеће податке:</p>
+									<point id="od2-clan14-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> број и датум подношења пријаве;</p>
+										</content>
+									</point>
+									<point id="od2-clan14-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> назив, седиште и адресу привредног субјекта који подноси пријаву;</p>
+										</content>
+									</point>
+									<point id="od2-clan14-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> ПИБ и матични број привредног субјекта;</p>
+										</content>
+									</point>
+									<point id="od2-clan14-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> врсту и назив робне марке дуванског производа за коју се подноси пријава.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od2-clan14-stav2">
+								<content>
+									<p>Евиденциону листу из става 1. овог члана Управа води на основу пријаве привредног субјекта уписаног у Регистар привредних субјеката који обављају промет дуванских производа по посебном поступку, у складу са чланом 37а Закона.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan14-stav3">
+								<content>
+									<p>На основу поднете пријаве која садржи податке из става 1. овог члана, Управа издаје доказ о упису робне марке дуванског производа у Регистар о маркама дуванских производа, односно Евиденциону листу о маркама дуванских производа чији се промет обавља по посебном поступку.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="od2-clan15-stav1">
+								<content>
+									<p>Лица о којима се воде евиденционе листе из чл. 13. и 14. овог правилника, Управи пријављују сваку насталу промену података уписаних у евиденционе листе у року од 15 дана од дана настале промене.</p>
+									<тачка id="od2-clan15-stav1-tac5">
+										<num>5.</num>
+										<content>
+											<p> Начин вођења евиденционих листа</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="od2-clan16-stav1">
+								<content>
+									<p>Евиденционе листе воде се у електронској форми као јединствена база података.</p>
+									<тачка id="od2-clan16-stav1-tac6">
+										<num>6.</num>
+										<content>
+											<p> Прелазне и завршне одредбе</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="od2-clan17-stav1">
+								<content>
+									<p>Податке који чине садржину регистара, односно евиденционих  листа, а који су уписани у складу са Правилником о садржини и начину вођења регистара и евиденционих листа о производњи, обради и промету дувана и дуванских производа („<ref id="ref10" href="/rs/act/05/114/srp@">Службени гласник РС”, бр. 114/05</ref> и 44/18 – др. закон), Управа за дуван преводи у регистре и евиденционе листе прописане овим правилником.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="od2-clan18-stav1">
+								<content>
+									<p>Даном ступања на снагу овог правилника престаје да важи Правилник о садржини и начину вођења регистара и евиденционих листа о производњи, обради и промету дувана и дуванских производа („<ref id="ref11" href="/rs/act/05/114/srp@">Службени гласник РС”, бр. 114/05</ref> и 44/18 – др. закона).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="od2-clan19-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan19-stav2">
+								<content>
+									<p>Број 110-00-00622/2018-01</p>
+								</content>
+							</clause>
+							<clause id="od2-clan19-stav3">
+								<content>
+									<p>У Београду, 27. децембра 2018. године</p>
+								</content>
+							</clause>
+							<clause id="od2-clan19-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="od2-clan19-stav5">
+								<content>
+									<p>Синиша Мали, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

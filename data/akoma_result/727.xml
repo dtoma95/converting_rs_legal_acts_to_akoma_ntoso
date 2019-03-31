@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2005/13-16/main"/>
+					<FRBRuri value="/rs/act/2005/13-16"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2007/121-7/srp@/main"/>
+					<FRBRuri value="/rs/act/2007/121-7/srp@"/>
+					<FRBRdate date="2007" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2007/121-7/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2007/121-7/srp@.akn"/>
+					<FRBRdate date="2007" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2005-2-11" name="службени гласник рс“" number="13" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="I ДРЖАВНО УРЕЂЕЊЕ" value="i државно уређење"/>
+				<keyword id="grupa" showAs="3. Држављанство" value="3. држављанство"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2005-02-10" id="usvajanje"/>
+				<step date="2005-02-19" id="stupanje_na_snagu"/>
+				<step date="2005-02-19" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="13/2005-16" id="e1" type="generation"/>
+				<eventRef date="121/2007-7" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>Special value.</p>
+			<p>На основу <ref>члана 14. став 5. </ref>Закона о држављанству Републике Србије („<ref id="ref1" href="/rs/act/04/135/srp@">Службени гласник РС&quot;, број 135/04</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар унутрашњих послова доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о обрасцу писмене изјаве да се   Република   Србија  сматра својом државом</title>
+			<date>„Службени   гласник РС“, бр. 13 од 11. фебруара   2005, 121 од 20. децембра   2007.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се образац писмене изјаве да се Република Србија сматра својом државом, која се, у случајевима прописаним Законом о држављанству Републике Србије, предаје заједно са захтевом за стицање држављанства Републике Србије.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Образац писмене изјаве из става 1. овог члана је величине 29 x 21   cm, израђен је од хартије беле боје, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије&quot;.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>01 број 1423/05</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>У Београду, 10. фебруара 2005. године</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav5">
+						<content>
+							<p>Драган Јочић, с. р.</p>
+						</content>
+					</clause>
+					<став id="clan2-stav6">
+						<img border="1" height="624" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/59d9b258-8d96-4a99-b046-f2b901b954e5.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423179&amp;regactid=423179" width="474"/>
+						<content/>
+					</став>
+					<clause id="clan2-stav7">
+						<content>
+							<p>*</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

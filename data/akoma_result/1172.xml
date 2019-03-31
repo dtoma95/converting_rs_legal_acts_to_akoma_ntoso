@@ -1,0 +1,747 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2005/56-50/main"/>
+					<FRBRuri value="/rs/act/2005/56-50"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2005/56-50/srp@/main"/>
+					<FRBRuri value="/rs/act/2005/56-50/srp@"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2005/56-50/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2005/56-50/srp@.akn"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2005-6-30" name="службени гласник рс" number="56" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="VI СВОЈИНСКИ И ОБЛИГАЦИОНИ, ПОРОДИЧНИ И БРАЧНИ ОДНОСИ" value="vi својински и облигациони, породични и брачни односи"/>
+				<keyword id="grupa" showAs="15. Брак, породица и спречавање насиља у породици" value="15. брак, породица и спречавање насиља у породици"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2005-06-29" id="usvajanje"/>
+				<step date="2005-07-08" id="stupanje_na_snagu"/>
+				<step date="2005-07-08" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 289. став 3. </ref>Породичног закона („<ref id="ref3" href="/rs/act/05/18/srp@">Службени гласник РС”, број 18/05</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар рада, запошљавања и социјалне политике доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о евиденцији и документацији о лицима према којима је извршено насиље у породици и о лицима против којих је одређена мера заштите од насиља у породици</title>
+			<date>„Службени гласник РС”, број 56 од 30. јуна 2005.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading> УВОДНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником уређује се начин вођења евиденције и документације о лицима према којима је извршено насиље у породици и о лицима против којих је одређена мера заштите од насиља у породици.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Евиденцију и документацију о лицима према којима је извршено насиље у породици и о лицима против којих је одређена мера заштите од насиља у породици, води орган старатељства на чијој територији има пребивалиште, односно боравиште члана породице према коме је насиље извршено, односно орган старатељства на чијој територији има пребивалиште, односно боравиште лице против кога је одређена мера заштите од насиља у породици.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav2">
+								<content>
+									<p>У евиденцију и документацију о лицима према којима је извршено насиље у породици и о лицима против којих је одређена мера заштите од насиља у породици, уписују се подаци из судске пресуде којом је одређена мера заштите од насиља у породици.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav3">
+								<content>
+									<p>Документацијом у смислу овог правилника сматрају се:</p>
+									<point id="gla1-clan2-stav3-tac1">
+										<num>1)</num>
+										<content>
+											<p> пресуда у спору за заштиту од насиља у породици;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav3-tac2">
+										<num>2)</num>
+										<content>
+											<p> евиденциони картон о лицу према коме је извршено насиље у породици;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav3-tac3">
+										<num>3)</num>
+										<content>
+											<p> евиденциони картон о лицу против кога је одређена мера заштите од насиља у породици;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav3-tac4">
+										<num>4)</num>
+										<content>
+											<p> уверење.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav4">
+								<content>
+									<p>Евиденциони картони из става 3. тач. 2) и 3) и уверење из става 3. тачка 4) овог члана одштампани су уз овај правилник и чине његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading> ЕВИДЕНЦИЈА О ЛИЦИМА ПРЕМА КОЈИМА ЈЕ  ИЗВРШЕНО НАСИЉЕ У ПОРОДИЦИ</heading>
+				<content>
+					<article id="gla2-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla2-clan3-stav1">
+								<content>
+									<p>У евиденцију о лицима према којима је извршено насиље у породици уписују се следећи подаци:</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav2">
+								<content>
+									<p>А. Основни подаци:</p>
+									<point id="gla2-clan3-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> презиме и име, за удате жене и девојачко презиме, надимак, презиме и име једног од родитеља и девојачко презиме мајке;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> јединствени матични број грађана;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> датум и место рођења, општина и република, односно аутономна покрајина, а за лице рођено у иностранству и држава;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> пол;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> држављанство;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> националност;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> занимање;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac8">
+										<num>8)</num>
+										<content>
+											<p> адреса пребивалишта, односно боравишта (општина, место, улица, број),</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac9">
+										<num>9)</num>
+										<content>
+											<p> да ли је према лицу извршено насиље у породици:</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<subsection id="gla2-podod1">
+						<num>а</num>
+						<heading> први пут</heading>
+						<content/>
+					</subsection>
+					<subsection id="gla2-podod2">
+						<num>б</num>
+						<heading> други пут</heading>
+						<content/>
+					</subsection>
+					<subsection id="gla2-podod3">
+						<num>в</num>
+						<heading> више пута.</heading>
+						<content>
+							<clause id="gla2-podod3-clan3-stav1">
+								<content>
+									<p>Б. Подаци о овлашћеном подносиоцу тужбе за одређивање мере заштите од насиља у породици:</p>
+									<point id="gla2-podod3-clan3-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> члан породице према коме је насиље извршено;</p>
+										</content>
+									</point>
+									<point id="gla2-podod3-clan3-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> законски заступник лица према коме је насиље извршено;</p>
+										</content>
+									</point>
+									<point id="gla2-podod3-clan3-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> јавни тужилац;</p>
+										</content>
+									</point>
+									<point id="gla2-podod3-clan3-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> орган старатељства.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-podod3-clan3-stav2">
+								<content>
+									<p>В. Подаци о суду и судској пресуди којом је одређена мера заштите од насиља у породици:</p>
+									<point id="gla2-podod3-clan3-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> назив суда који је донео пресуду о одређеној мери заштите;</p>
+										</content>
+									</point>
+									<point id="gla2-podod3-clan3-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> број и датум доношења пресуде о одређеној мери заштите;</p>
+										</content>
+									</point>
+									<point id="gla2-podod3-clan3-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> датум правноснажности пресуде.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-podod3-clan3-stav3">
+								<content>
+									<p>Г. Подаци о врсти насиља које је претрпео члан породице:</p>
+									<point id="gla2-podod3-clan3-stav3-tac1">
+										<num>1)</num>
+										<content>
+											<p> наношење или покушај наношења телесне повреде;</p>
+										</content>
+									</point>
+									<point id="gla2-podod3-clan3-stav3-tac2">
+										<num>2)</num>
+										<content>
+											<p> изазивање страха претњом убиства или наношења телесне повреде члану породице или њему блиском лицу;</p>
+										</content>
+									</point>
+									<point id="gla2-podod3-clan3-stav3-tac3">
+										<num>3)</num>
+										<content>
+											<p> присиљавање на сексуални однос;</p>
+										</content>
+									</point>
+									<point id="gla2-podod3-clan3-stav3-tac4">
+										<num>4)</num>
+										<content>
+											<p> навођење на сексуални однос или сексуални однос са лицем које није навршило 14. годину живота или немоћним лицем;</p>
+										</content>
+									</point>
+									<point id="gla2-podod3-clan3-stav3-tac5">
+										<num>5)</num>
+										<content>
+											<p> ограничавање слободе кретања или комуницирања са трећим лицима;</p>
+										</content>
+									</point>
+									<point id="gla2-podod3-clan3-stav3-tac6">
+										<num>6)</num>
+										<content>
+											<p> вређање, као и свако друго дрско, безобзирно и злонамерно понашање.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-podod3-clan3-stav4">
+								<content>
+									<p>Д. Подаци о члану породице који је извршио насиље у породици:</p>
+									<point id="gla2-podod3-clan3-stav4-tac1">
+										<num>1)</num>
+										<content>
+											<p> супружник или бивши супружник;</p>
+										</content>
+									</point>
+									<point id="gla2-podod3-clan3-stav4-tac2">
+										<num>2)</num>
+										<content>
+											<p> дете, родитељ, крвни сродник, тазбински или адоптивни сродник, лице које везује хранитељство;</p>
+										</content>
+									</point>
+									<point id="gla2-podod3-clan3-stav4-tac3">
+										<num>3)</num>
+										<content>
+											<p> лице које живи или је живело у истом породичном домаћинству;</p>
+										</content>
+									</point>
+									<point id="gla2-podod3-clan3-stav4-tac4">
+										<num>4)</num>
+										<content>
+											<p> ванбрачни партнер или бивши ванбрачни партнер;</p>
+										</content>
+									</point>
+									<point id="gla2-podod3-clan3-stav4-tac5">
+										<num>5)</num>
+										<content>
+											<p> лице које је било или је још увек у емотивној или сексуалној вези, односно које има заједничко дете, или је дете на путу да буде рођено, иако никада није живело у истом породичном домаћинству.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-podod3-clan3-stav5">
+								<content>
+									<p>Ђ. Подаци о одређеној мери заштите од насиља у породици:</p>
+									<point id="gla2-podod3-clan3-stav5-tac1">
+										<num>1)</num>
+										<content>
+											<p> одређена мера заштите;</p>
+										</content>
+									</point>
+									<point id="gla2-podod3-clan3-stav5-tac2">
+										<num>2)</num>
+										<content>
+											<p> дужина трајања одређене мере заштите;</p>
+										</content>
+									</point>
+									<point id="gla2-podod3-clan3-stav5-tac3">
+										<num>3)</num>
+										<content>
+											<p> датум престанка одређене мере заштите.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<article id="gla2-podod3-clan4">
+								<num>4.</num>
+								<content>
+									<clause id="gla2-podod3-clan4-stav1">
+										<content>
+											<p>Подаци из <ref>члана 3. овог</ref> правилника уписују се у Евиденциони картон о лицу према коме је извршено насиље у породици, који се води на Обрасцу бр. 1, који је одштампан уз овај правилник и чини његов саставни део.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading> ЕВИДЕНЦИЈА О ЛИЦИМА ПРОТИВ КОЈИХ ЈЕ  ОДРЕЂЕНА МЕРА ЗАШТИТЕ ОД НАСИЉА У ПОРОДИЦИ</heading>
+				<content>
+					<article id="gla3-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla3-clan5-stav1">
+								<content>
+									<p>У евиденцију о лицима против којих је одређена мера заштите од насиља у породици уписују се следећи подаци:</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan5-stav2">
+								<content>
+									<p>А. Основни подаци:</p>
+									<point id="gla3-clan5-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> презиме и име, за удате жене и девојачко презиме, надимак, презиме и име једног од родитеља и девојачко презиме мајке;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> јединствени матични број грађана;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> датум и место рођења, општина и република, односно аутономна покрајина, а за лице рођено у иностранству и држава;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> пол;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> држављанство;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> националност;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> занимање;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac8">
+										<num>8)</num>
+										<content>
+											<p> адреса пребивалишта, односно боравишта (општина, место, улица и број);</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac9">
+										<num>9)</num>
+										<content>
+											<p> ранија прекршајна и/или кривична одговорност;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac10">
+										<num>10)</num>
+										<content>
+											<p> раније одређене мере заштите од насиља у породици.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan5-stav3">
+								<content>
+									<p>Б. Подаци о овлашћеном подносиоцу тужбе за одређивање мере заштите од насиља у породици:</p>
+									<point id="gla3-clan5-stav3-tac1">
+										<num>1)</num>
+										<content>
+											<p> члан породице према коме је насиље извршено;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav3-tac2">
+										<num>2)</num>
+										<content>
+											<p> законски заступник лица према коме је насиље извршено;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav3-tac3">
+										<num>3)</num>
+										<content>
+											<p> јавни тужилац;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav3-tac4">
+										<num>4)</num>
+										<content>
+											<p> орган старатељства.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan5-stav4">
+								<content>
+									<p>В. Подаци о суду и судској пресуди којом је одређена мера заштите од насиља у породици:</p>
+									<point id="gla3-clan5-stav4-tac1">
+										<num>1)</num>
+										<content>
+											<p> назив суда који је донео пресуду о одређеној мери заштите;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav4-tac2">
+										<num>2)</num>
+										<content>
+											<p> број и датум доношења пресуде о одређеној мери заштите;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav4-tac3">
+										<num>3)</num>
+										<content>
+											<p> датум правноснажности пресуде.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan5-stav5">
+								<content>
+									<p>Г. Подаци о врсти насиља које је извршено према члану породице:</p>
+									<point id="gla3-clan5-stav5-tac1">
+										<num>1)</num>
+										<content>
+											<p> наношење или покушај наношења телесне повреде;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav5-tac2">
+										<num>2)</num>
+										<content>
+											<p> изазивање страха претњом убиства или наношења телесне повреде члану породице или њему блиском лицу;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav5-tac3">
+										<num>3)</num>
+										<content>
+											<p> присиљавање на сексуални однос;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav5-tac4">
+										<num>4)</num>
+										<content>
+											<p> навођење на сексуални однос или сексуални однос са лицем које није навршило 14. година живота или немоћним лицем;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav5-tac5">
+										<num>5)</num>
+										<content>
+											<p> ограничавање слободе кретања или комуницирања са трећим лицима;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav5-tac6">
+										<num>6)</num>
+										<content>
+											<p> вређање, као и свако друго дрско, безобзирно и злонамерно понашање.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan5-stav6">
+								<content>
+									<p>Д. Подаци о члану породице према коме је извршено насиље у породици:</p>
+									<point id="gla3-clan5-stav6-tac1">
+										<num>1)</num>
+										<content>
+											<p> супружник или бивши супружник;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav6-tac2">
+										<num>2)</num>
+										<content>
+											<p> дете, родитељ, крвни сродник, тазбински или адоптивни сродник, лице које везује хранитељство;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav6-tac3">
+										<num>3)</num>
+										<content>
+											<p> лице које живи или је живело у истом породичном домаћинству;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav6-tac4">
+										<num>4)</num>
+										<content>
+											<p> ванбрачни партнер или бивши ванбрачни партнер;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav6-tac5">
+										<num>5)</num>
+										<content>
+											<p> лице које је било или је још увек у емотивној или сексуалној вези, односно које има заједничко дете или је дете на путу да буде рођено, иако никада није живело у истом породичном домаћинству.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan5-stav7">
+								<content>
+									<p>Ђ. Подаци о одређеној мери заштите од насиља у породици:</p>
+									<point id="gla3-clan5-stav7-tac1">
+										<num>1)</num>
+										<content>
+											<p> одређена мера заштите;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav7-tac2">
+										<num>2)</num>
+										<content>
+											<p> дужина трајања одређене мере заштите;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav7-tac3">
+										<num>3)</num>
+										<content>
+											<p> датум престанка одређене мере заштите.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla3-clan6-stav1">
+								<content>
+									<p>Подаци из <ref>члана 5. овог</ref> правилника уписују се у Евиденциони картон о лицу против кога је одређена мера заштите од насиља у породици, који се води на Обрасцу бр. 2, који је одштампан уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading> ДАВАЊЕ ПОДАТАКА ИЗ ЕВИДЕНЦИЈЕ</heading>
+				<content>
+					<article id="gla4-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla4-clan7-stav1">
+								<content>
+									<p>Орган старатељства може издати уверење из евиденције и документације о лицима према којима је извршено насиље у породици, као и о лицима против којих је одређена мера заштите од насиља у породици, на образложен захтев:</p>
+									<point id="gla4-clan7-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> лицу које је претрпело насиље у породици;</p>
+										</content>
+									</point>
+									<point id="gla4-clan7-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> законском заступнику;</p>
+										</content>
+									</point>
+									<point id="gla4-clan7-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> другом органу старатељства;</p>
+										</content>
+									</point>
+									<point id="gla4-clan7-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> правосудним органима;</p>
+										</content>
+									</point>
+									<point id="gla4-clan7-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> министарству надлежном за унутрашње послове;</p>
+										</content>
+									</point>
+									<point id="gla4-clan7-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> здравственим и образовним установама.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla4-clan7-stav2">
+								<content>
+									<p>Орган старатељства издаје уверење по захтеву из става 1. овог члана на Обрасцу бр. 3, који је одштампан уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading> ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla5-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla5-clan8-stav1">
+								<content>
+									<p>Евиденциони картони у смислу чл. 4. и 6. овог правилника воде се на обрасцима величине 29,5 x 21 cm.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla5-clan9-stav1">
+								<content>
+									<p>Подаци о евиденцији и документацији о лицима према којима је извршено насиље у породици, као и о лицима против којих је одређена мера заштите од насиља у породици, представљају службену тајну.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan9-stav2">
+								<content>
+									<p>Судска пресуда у смислу одредаба овог правилника чува се у архиви органа старатељства у складу са одредбама Уредбе о канцеларијском пословању органа државне управе („<ref id="ref4" href="/rs/act/92/80/srp@">Службени гласник РС”, број 80/92</ref>).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla5-clan10-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan10-stav2">
+								<content>
+									<p>Број 110-00-525/2/2005-14</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan10-stav3">
+								<content>
+									<p>У Београду, 29. јуна 2005. године</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan10-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan10-stav5">
+								<content>
+									<p>Слободан Лаловић, с.р.</p>
+								</content>
+							</clause>
+							<став id="gla5-clan10-stav6">
+								<img height="854" id="Picture 1" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/88ccb431-70a7-467a-9268-9f21faf2abd9.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=328483&amp;regactid=328483" width="335"/>
+								<content/>
+							</став>
+							<став id="gla5-clan10-stav7">
+								<img height="802" id="Picture 4" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/e7aac25d-19bf-4a0a-9164-f4ccec35ef34.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=328483&amp;regactid=328483" width="271"/>
+								<content/>
+							</став>
+							<став id="gla5-clan10-stav8">
+								<img height="799" id="Picture 5" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/72742051-bf60-481c-b1af-181b61d3971f.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=328483&amp;regactid=328483" width="271"/>
+								<content/>
+							</став>
+							<став id="gla5-clan10-stav9">
+								<img height="886" id="Picture 3" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/daacee27-22df-4bfa-b661-67c60abd7e99.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=328483&amp;regactid=328483" width="295"/>
+								<content/>
+							</став>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

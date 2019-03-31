@@ -1,0 +1,602 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1994/71-885/main"/>
+					<FRBRuri value="/rs/act/1994/71-885"/>
+					<FRBRdate date="1994" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1994/81-1024/srp@/main"/>
+					<FRBRuri value="/rs/act/1994/81-1024/srp@"/>
+					<FRBRdate date="1994" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1994/81-1024/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1994/81-1024/srp@.akn"/>
+					<FRBRdate date="1994" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1994-9-23" name="службени лист срј" number="71" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Статут" value="статут"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="2. Војска Србије" value="2. војска србије"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1994-08-30" id="usvajanje"/>
+				<step date="1994-10-01" id="stupanje_na_snagu"/>
+				<step date="1994-10-01" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="71/1994-885" id="e1" type="generation"/>
+				<eventRef date="81/1994-1024" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Статут је донет на основу Уредбе о надлежности, делокругу, организацији и начину пословања Фонда за социјално осигурање војних осигураника (“<ref id="ref3" href="/rs/act/1994/36/srp@">Службени лист СРЈ”, бр. 36/1994</ref>), која је престала да важи даном ступања на снагу Уредбе о надлежности, делокругу, организацији и начину пословања Фонда за социјално осигурање војних осигураника (<ref id="ref4" href="/rs/act/2011/102/srp@">Службени гласник РС, број 102/2011</ref>), односно 8. јануара 2012. године.Статут формалноправно није стављен ван снаге објављивањем у Службеном гласнику РС.</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу  <ref>члана 7. став 1. </ref>Уредбе о надлежности, делокругу, организацији и начину пословања Фонда за социјално осигурање војних осигураника (“<ref id="ref5" href="/rs/act/94/36/srp@">Службени лист СРЈ”, бр. 36/94</ref>), Скупштина Фонда за социјално осигурање војних осигураника доноси</p>
+		</preamble>
+		<preface>
+			<authority>СТАТУТ</authority>
+			<title>Фонда за социјално осигурање војних осигураника</title>
+			<date>„Службени лист СРЈ”, бр. 71 од 23.  септембра 1994, 81 од 11.  новембра 1994   -  исправка</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОСНОВНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим статутом уређује се унутрашња организација и начин рада Фонда за социјално осигурање војних осигураника, начин избора и разрешења чланова Скупштине Фонда и других органа Фонда, учешће осигураника и корисника права у спровођењу социјалног осигурања војних осигураника, критеријуми за улагање слободних средстава Фонда, јавност рада органа Фонда и друга питања значајна за рад органа и пословање Фонда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Фонд за социјално осигурање војних осигураника (у даљем тексту: Фонд) јесте правно лице са седиштем у Београду.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav2">
+								<content>
+									<p>Војним осигураницима, у смислу овог статута, сматрају се професионални војници (у даљем тексту: осигураници) и корисници војне пензије (у даљем тексту: корисници права).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Фонд има печат и штамбиљ.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav2">
+								<content>
+									<p>Печат је округлог облика, пречника 40 mm. На унутрашњој страни круга уписане су, ћириличним писмом, речи: „Фонд за социјално осигурање војних осигураника, Београд”, а у средини круга је грб Савезне Републике Југославије.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav3">
+								<content>
+									<p>Штамбиљ је правоугаоног облика, димензија 60 х 30 mm. Садржи исти текст као и печат и рубрике за датум и број акта.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla1-clan4-stav1">
+								<content>
+									<p>Фонд заступа директор Фонда.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan4-stav2">
+								<content>
+									<p>Директор Фонда може генералним, односно појединачним пуномоћјем своје овлашћење за доношење одлука и заступање пренети на друга лица.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>УНУТРАШЊА ОРГАНИЗАЦИЈА И НАЧИН РАДА ФОНДА</heading>
+				<content>
+					<article id="gla2-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla2-clan5-stav1">
+								<content>
+									<p>Послове Фонда, одређене Уредбом о надлежности, делокругу, организацији и начину пословања Фонда за социјално осигурање војних осигураника (у даљем тексту: Уредба), обављају Скупштина Фонда, Управни одбор Фонда, Надзорни одбор Фонда и директор Фонда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla2-clan6-stav1">
+								<content>
+									<p>Скупштина Фонда, Управни одбор Фонда и Надзорни одбор Фонда (у даљем тексту: органи Фонда) раде на седницама.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav2">
+								<content>
+									<p>Органи Фонда пуноважно раде ако на седници присуствују две трећине од укупног броја чланова, а одлуке се доносе већином гласова присутних чланова.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla2-clan7-stav1">
+								<content>
+									<p>Председник органа Фонда:</p>
+									<point id="gla2-clan7-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> представља орган Фонда и стара се о организовању рада тог органа;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> сазива седнице органа Фонда, предлаже дневни ред за седнице и председавања њиховим радом;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> потписује акта које доноси орган Фонда;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> обавља и друге послове одређене овим статутом и општим актом Скупштине Фонда којим се ближе уређује рад органа Фонда.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav2">
+								<content>
+									<p>Заменик председника органа Фонда помаже председнику у раду и замењује га за време његове одсутности или спречености.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>Директор Фонда руководи стручним, административним и другим пословима за потребе Фонда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>Органи Фонда могу образовати комисије и радна тела за обављање појединих послова из области социјалног осигурања војних осигураника из свог делокруга. Комисије могу бити сталне и повремене.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla2-clan10-stav1">
+								<content>
+									<p>Скупштина Фонда образује Комисију за ревизију и решавање у другом степену о правима из пензијског и инвалидског осигурања војних осигураника, која врши ревизију решења донесених у првом степену о правима из пензијског и инвалидског осигурања војних осигураника против којих није изјављена жалба, односно решава о жалбама изјављеним против тих решења.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav2">
+								<content>
+									<p>Комисија из става 1. овог члана има штамбиљ за ревизију, правоугаоног облика, димензија 60 х 30 mm, са текстом који гласи:</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav3">
+								<content>
+									<p>„Комисија за ревизију и решавање у другом степену о правима из пензијског и инвалидског осигурања војних осигураника, у поступку РЕВИЗИЈЕ даје сагласност на ово решење.</p>
+								</content>
+							</clause>
+							<став id="gla2-clan10-stav4">
+								<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:36.875rem" width="590">
+									
+	
+									<tbody>
+										<tr>
+											
+		
+											<td colspan="2" style="padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top">
+												
+		
+												<p>
+		У
+  Београду, ____________________199______ године Председник комисије</p>
+												
+		
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td colspan="2" style="padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top">
+												
+		
+												<p>
+		_____________________</p>
+												
+		
+												<p>
+		Поступак
+  водио референт</p>
+											</td>
+											
+	
+										</tr>
+										
+	
+										<tr>
+											
+		
+											<td style="width:36.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="36%">
+												
+		
+												<p>
+		_____________________”</p>
+												
+		
+											</td>
+											
+		
+											<td style="width:64.0%;padding:0.4375rem 0.4375rem 0.4375rem 0.4375rem" valign="top" width="64%">
+												
+		
+												<p/>
+											</td>
+										</tr>
+										
+
+									</tbody>
+								</table>
+								
+
+								<content/>
+							</став>
+						</content>
+					</article>
+					<article id="gla2-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla2-clan11-stav1">
+								<content>
+									<p>На рад комисија и радних тела из чл. 9. и 10.* овог статута сходно се примењују одредбе општег акта којима Скупштина Фонда ближе уређује рад органа Фонда, у делу који се односи на начин рада и доношења одлука.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav2">
+								<content>
+									<p>*<ref id="ref6" href="/rs/act/1994/81/srp@">Службени лист СРЈ, број 81/1994</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>НАЧИН ИЗБОРА И РАЗРЕШЕЊА ЧЛАНОВА СКУПШТИНЕ И ДРУГИХ ОРГАНА ФОНДА</heading>
+				<content>
+					<article id="gla3-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla3-clan12-stav1">
+								<content>
+									<p>Предлог за именовање директора Фонда даје Скупштина Фонда.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan12-stav2">
+								<content>
+									<p>Директор Фонда је за свој рад одговоран савезном министру за одбрану и Скупштини Фонда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla3-clan13-stav1">
+								<content>
+									<p>Одлуком Скупштине Фонда о расписивању избора из чланова органа Фонда утврђују се изборне јединице, начин образовања изборних тела у изборној јединици, рокови и друга питања значајна за спровођење избора, односно предлагање за избор чланова органа Фонда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla3-clan14-stav1">
+								<content>
+									<p>Председник и заменик председника органа Фонда бирају се, односно именују тако да први буде из реда осигураника, а други из реда корисника права и обрнуто.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla3-clan15-stav1">
+								<content>
+									<p>Мандат члана органа Фонда траје четири године и изузетно се може продужити за још један мандат.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan15-stav2">
+								<content>
+									<p>Члану органа Фонда престаје мандат и пре истека времена за које је биран губитком својства осигураника, односно корисника права, оставком или разрешењем.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan15-stav3">
+								<content>
+									<p>Ако члан органа Фонда не врши своју функцију, орган Фонда о томе обавештава Скупштину Фонда, с предлогом за његово разрешење.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan15-stav4">
+								<content>
+									<p>У случају престанка мандата члана органа Фонда пре истека времена за које је биран, бира се нови члан, чији мандат траје онолико колико би трајао мандат члана на чије се место бира.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan15-stav5">
+								<content>
+									<p>Избор из става 4. овог члана неће се спроводити ако до престанка мандата члана органа Фонда коме је престао мандат не остаје више од шест месеци, осим ако би због тога број чланова органа фонда био мањи од броја потребног за рад тог органа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>УЧЕШЋЕ ОСИГУРАНИКА И КОРИСНИКА ПРАВА У СПРОВОЂЕЊУ СОЦИЈАЛНОГ ОСИГУРАЊА ВОЈНИХ ОСИГУРАНИКА</heading>
+				<content>
+					<article id="gla4-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="gla4-clan16-stav1">
+								<content>
+									<p>Осигураници и корисници права учествују у спровођењу социјалног осигурања војних осигураника преко својих представника у органима Фонда.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan16-stav2">
+								<content>
+									<p>Сваки осигураник и корисник права може и непосредно органима Фонда упућивати своје примедбе и предлоге о питањима која се тичу спровођења социјалног осигурања војних осигураника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>КРИТЕРИЈУМИ ЗА УЛАГАЊЕ СЛОБОДНИХ СРЕДСТАВА ФОНДА</heading>
+				<content>
+					<article id="gla5-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="gla5-clan17-stav1">
+								<content>
+									<p>Слободним средствима Фонда у смислу овог статута, сматрају се средства Фонда преостала по измирењу обавеза Фонда за намене одређене одредбама <ref>члана 20. </ref>Уредбе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="gla5-clan18-stav1">
+								<content>
+									<p>Постојање слободних средстава Фонда утврђује Управни одбор Фонда по усвојеном завршном рачуну средстава Фонда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="gla5-clan19-stav1">
+								<content>
+									<p>Општим актом Скупштине Фонда ближе се уређују услови, намена и начин коришћења слободних средстава Фонда.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan19-stav2">
+								<content>
+									<p>Упутством директора Фонда регулише се поступак у вези с подрачунима и рачунима издвојених слободних средстава Фонда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>ЈАВОСТ РАДА ОРГАНА ФОНДА</heading>
+				<content>
+					<article id="gla6-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla6-clan20-stav1">
+								<content>
+									<p>Јавност рада Фонда оставрује се јавношћу рада и одлука органа Фонда, подношењем извештаја о раду Фонда и органа Фонда, објављивањем општих и других аката органа Фонда, информисањем осигураника и корисника права и на други погодан начин.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan20-stav2">
+								<content>
+									<p>Информисање из става 1. овог члана врше органи Фонда преко војних јединица и војних установа, организације војних пензионера Југославије и на други погодан начин.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan20-stav3">
+								<content>
+									<p>Ради обавештавања и ближег информисања осигураника и корисника права, Фонд можеимати своје гласило, а може користити и услуге других гласила.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla7">
+				<num>VII</num>
+				<heading>ОСТАЛА ПИТАЊА ЗНАЧАЈНА ЗА РАД ОРГАНА И ПОСЛОВАЊЕ ФОНДА</heading>
+				<content>
+					<clause id="gla7-clan20-stav1">
+						<content>
+							<p>Члан   21.</p>
+						</content>
+					</clause>
+					<clause id="gla7-clan20-stav2">
+						<content>
+							<p>Кориснику права који се, ради стланог боравка, исели у иностранство исплата пензија и других примања може се одобрити и ако то није предвиђено међународним уговором, под следећим условима:</p>
+							<point id="gla7-clan20-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> ако су разлози за такво исељење оправдани с обзиром на породичне и материјалне прилике;</p>
+								</content>
+							</point>
+							<point id="gla7-clan20-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> ако није осуђиван за кривична дела против народа и државе;</p>
+								</content>
+							</point>
+							<point id="gla7-clan20-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> ако се против њега не води кривични поступак;</p>
+								</content>
+							</point>
+							<point id="gla7-clan20-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> ако је територију Савезне Републике Југославије напустио на основу уредне путне исправе.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<article id="gla7-clan22">
+						<num>22.</num>
+						<content>
+							<clause id="gla7-clan22-stav1">
+								<content>
+									<p>Члановима органа Фонда из <ref>члана 5, </ref>односно члановима комсија и радних тела из чл.   9. и   10.* овог статута, као и другим позваним учесницима у њиховом раду, припада накнада путних и других трошкова насталих у вези с њиховим радом у тим оганима, односно комисијама и радним телима, под условима и у износу одређеним прописом о накнади путних и других трошкова у Војсци Југославије.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan22-stav2">
+								<content>
+									<p>*<ref id="ref7" href="/rs/act/1994/81/srp@">Службени лист СРЈ, број 81/1994</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla8">
+				<num>VIII</num>
+				<heading>ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla8-clan23">
+						<num>23.</num>
+						<content>
+							<clause id="gla8-clan23-stav1">
+								<content>
+									<p>Даном ступања на снагу овог статута престаје да важи Статут Заједнице социјалног осигурања војних осигураника („<ref id="ref8" href="/rs/act/78/12/srp@">Службени лист СФРЈ”, бр. 12/78, 18/82, 30/87, 24/89</ref> и 57/90 и „<ref id="ref9" href="/rs/act/92/46/srp@">Службени лист СРЈ”, број 46/92</ref>).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla8-clan24">
+						<num>24.</num>
+						<content>
+							<clause id="gla8-clan24-stav1">
+								<content>
+									<p>Овај статут ступа на снагу осмог дана од дана објављивања у „Службеном листу СРЈ”.</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan24-stav2">
+								<content>
+									<p>Бр. 18-1</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<section id="gla8-od30">
+						<num>30.</num>
+						<heading> августа 1994. године</heading>
+						<content>
+							<clause id="gla8-od30-clan24-stav1">
+								<content>
+									<p>Београд</p>
+								</content>
+							</clause>
+							<clause id="gla8-od30-clan24-stav2">
+								<content>
+									<p>Председник</p>
+								</content>
+							</clause>
+							<clause id="gla8-od30-clan24-stav3">
+								<content>
+									<p>Скупштине Фонда за</p>
+								</content>
+							</clause>
+							<clause id="gla8-od30-clan24-stav4">
+								<content>
+									<p>социјално осигурање војних</p>
+								</content>
+							</clause>
+							<clause id="gla8-od30-clan24-stav5">
+								<content>
+									<p>осигураника,</p>
+								</content>
+							</clause>
+							<clause id="gla8-od30-clan24-stav6">
+								<content>
+									<p>Чедо Ковачевић, с. р.</p>
+								</content>
+							</clause>
+						</content>
+					</section>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

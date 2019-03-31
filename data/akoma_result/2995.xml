@@ -1,0 +1,666 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2010/6-24/main"/>
+					<FRBRuri value="/rs/act/2010/6-24"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/44-27/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/44-27/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/44-27/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/44-27/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2010-2-12" name="службени гласник рс“" number="6" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="I ДРЖАВНО УРЕЂЕЊЕ" value="i државно уређење"/>
+				<keyword id="grupa" showAs="21. Дијаспора и Срби у региону" value="21. дијаспора и срби у региону"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2010-01-22" id="usvajanje"/>
+				<step date="2010-02-20" id="stupanje_na_snagu"/>
+				<step date="2010-02-20" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="6/2010-24" id="e1" type="generation"/>
+				<eventRef date="44/2018-27" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Даном почетка примене Закона о изменама и допунама Закона о привредним друштвима („<ref id="ref5" href="/rs/act/2018/44/srp@">Службени гласник РС“, број 44/2018</ref>), односно 1. октобра 2018. године престају да важе одредбе овог правилника, у обрасцу, у делу у ком се установљава обавеза употребе печата у пословању друштава и предузетника (види <ref>члан 160. </ref>Закона - 44/2018-27).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 40. став 4. </ref>Закона о дијаспори и Србима у региону (<ref id="ref6" href="/rs/act/09/88/srp@">,,Службени гласник РС”, број 88/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар за дијаспору доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о садржају и начину вођења евиденције организација у дијаспори и евиденције организација Срба у региону</title>
+			<date>„Службени гласник РС“, број 6 од 12. фебруара 2010.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником уређује се садржај и начин вођења евиденције организација у дијаспори евиденције организација Срба у региону (у даљем тексту:  евиденција).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>У евиденцију се уписује:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> редни број уписа;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> облик организовања (организација или савез);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> назив и седиште организације;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> имена оснивача организације;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> област деловања организације;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> циљеви организовања;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> врсте активности које организација обавља;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> лично име и пребивалиште заступника организације;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> чланство у савезу или другој асоцијацији у земљи и иностранству;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> број и датум доношења решења о упису у евиденцију;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> број и датум доношења решења о промени података у евиденцији;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> број и датум доношења решења о брисању из евиденције;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> напомене.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Евиденција се воде у писаном облику и као јединствена централна електронска база података о организацијама у дијаспори и организацијама Срба у региону.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Евиденција у писаном и електронском облику мора да садржи идентичне податке.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Евиденција се води у непрекидном низу бројева.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Организације се уписују у евиденцију под редним бројем уписа, почев од броја 1.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>На корици и првој ненумерисаној страни евиденционе књиге одштампан је назив евиденције: ,,Евиденција организација у дијаспори и евиденција организација Срба у региону”, и редни број евиденционе књиге.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Прва ненумерисана страна евиденционе књиге оверава се потписом министра за дијаспору.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>УПИС У ЕВИДЕНЦИЈУ</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Упис организација у евиденцију</heading>
+				<content>
+					<article id="od1-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="od1-clan6-stav1">
+								<content>
+									<p>Упис организација у евиденцију врши се на основу пријаве за упис организација у евиденцију.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="od1-clan7-stav1">
+								<content>
+									<p>Уз пријаву за упис организација у евиденцију подноси се:</p>
+									<point id="od1-clan7-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> решење о упису у регистар организација, као доказ да је организација у дијаспори, односно организација Срба у региону регистрована у складу с прописима стране државе у којој живи дијаспора, односно у складу с прописима државе на основу којих делују организације Срба у региону;</p>
+										</content>
+									</point>
+									<point id="od1-clan7-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> превод решења на српски језик на ћириличком писму обављен код надлежног органа стране државе;</p>
+										</content>
+									</point>
+									<point id="od1-clan7-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> акт о избору лица овлашћеног за заступање организације.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="od1-clan8-stav1">
+								<content>
+									<p>Пријава из <ref>члана 6. овог</ref> правилника подноси се на обрасцу који је приложен уз овај правилник и чини његов саставни део, а може се преузети на интернет страници званичног сајта Министарства за дијаспору.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan8-stav2">
+								<content>
+									<p>Подаци који се уписују у образац пријаве за упис организација у евиденцију морају бити идентични подацима садржаним у <ref>члану 7. овог</ref> правилника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="od1-clan9-stav1">
+								<content>
+									<p>За упис промене података у евиденцију подноси се пријава за промену података.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan9-stav2">
+								<content>
+									<p>Уз пријаву за промену података подноси се и превод акта о промени података, преведен на српски језик и на ћириличком писму код надлежног органа стране државе.</p>
+									<тачка id="od1-clan9-stav2-tac2">
+										<num>2.</num>
+										<content>
+											<p> Упис промене података у евиденцију</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="od1-clan10-stav1">
+								<content>
+									<p>Упис промене података у евиденцију врши се на основу решења о упису промене података у евиденцију, које доноси министар за дијаспору.</p>
+									<тачка id="od1-clan10-stav1-tac3">
+										<num>3.</num>
+										<content>
+											<p> Брисање из евиденција</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="od1-clan11-stav1">
+								<content>
+									<p>За брисање организације из евиденције подноси се пријава за брисање организације из евиденције.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="od1-clan12-stav1">
+								<content>
+									<p>Брисање организација из евиденције врши се на основу решења о брисању организација из евиденције, које доноси министар за дијаспору.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="od1-clan13-stav1">
+								<content>
+									<p>Одредбе овог правилника које се односе на организације, сходно се примењују и на савезе организација у дијаспори и савеза организација Срба у региону.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan14">
+						<num>14.</num>
+						<heading>ЗАВРШНА ОДРЕДБА</heading>
+						<content>
+							<clause id="od1-clan14-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у ,,Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav2">
+								<content>
+									<p>Број 110-00-13/2009-01</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav3">
+								<content>
+									<p>У Београду, 22. јануара 2010. године</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav5">
+								<content>
+									<p>мр Срђан Срећковић, с.р.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav6">
+								<content>
+									<p>НАПОМЕНА ИЗДАВАЧА: Даном почетка примене Закона о изменама и допунама  Закона о привредним друштвима („<ref id="ref7" href="/rs/act/2018/44/srp@">Службени гласник РС“, број 44/2018</ref>), односно 1.  октобра 2018. године престају да важе одредбе овог правилника, у обрасцу, у делу  у ком се установљава обавеза употребе печата у пословању друштава и предузетника  (види <ref>члан 160. </ref>Закона - 44/2018-27).</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav7">
+								<content>
+									<p>ПРИЈАВА</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav8">
+								<content>
+									<p>ЗА УПИС ОРГАНИЗАЦИЈА У ЕВИДЕНЦИЈУ ОРГАНИЗАЦИЈА У ДИЈАСПОРИ И ОРГАНИЗАЦИЈА СРБА У РЕГИОНУ</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav9">
+								<content>
+									<p>Назив организације у дијаспори,  односно организације Срба у региону</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav10">
+								<content>
+									<p>(навести пун назив организације у дијаспори, односно организације Срба у региону на српском језику и на ћириличком писму)</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav11">
+								<content>
+									<p>________________________________________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav12">
+								<content>
+									<p>Назив организације у дијаспори, односно организације Срба у региону на страном језику државе у којој је седиште</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav13">
+								<content>
+									<p>________________________________________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav14">
+								<content>
+									<p>Облик организовања</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav15">
+								<content>
+									<p>________________________________________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav16">
+								<content>
+									<p>Седиште и адреса организације у дијаспори, односно организације Срба у региону</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav17">
+								<content>
+									<p>________________________________________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav18">
+								<content>
+									<p>Област деловања и остваривања циљева организације у дијаспори, односно организације Срба у региону</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav19">
+								<content>
+									<p>(навести уређену статутом област остваривања циљева организације у дијаспори,  односно организације Срба у региону)</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav20">
+								<content>
+									<p>________________________________________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav21">
+								<content>
+									<p>Врсте активности које организација у дијаспори,  односно организација Срба у региону обавља</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav22">
+								<content>
+									<p>(навести уређене статутом  делатности које организација у дијаспори,  односно организација Срба у региону непосредно обављају)</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav23">
+								<content>
+									<p>________________________________________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav24">
+								<content>
+									<p>Заступник организације у дијаспори,  односно организације Срба у региону</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav25">
+								<content>
+									<p>(навести лично име и пребивалиште/адресу заступника организације у дијаспори,  односно организације Срба у региону)</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav26">
+								<content>
+									<p>________________________________________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav27">
+								<content>
+									<p>Чланство у савезу или другој асоцијацији у земљи и иностранству</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav28">
+								<content>
+									<p>(навести пун назив савеза или асоцијације у земљи и иностранству чији је члан  организација у дијаспори,  односно организација Срба у региону)</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav29">
+								<content>
+									<p>________________________________________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav30">
+								<content>
+									<p>Значајни датуми (слава, годишњица и сл.)</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav31">
+								<content>
+									<p>________________________________________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav32">
+								<content>
+									<p>Најзначајније манифестације</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav33">
+								<content>
+									<p>________________________________________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav34">
+								<content>
+									<p>________________________________________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav35">
+								<content>
+									<p>Будући планови</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav36">
+								<content>
+									<p>________________________________________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav37">
+								<content>
+									<p>________________________________________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav38">
+								<content>
+									<p>________________________________________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav39">
+								<content>
+									<p>Успешни појединци/чланови организације у дијаспори, односно организације Срба у региону</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav40">
+								<content>
+									<p>_______________________________________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav41">
+								<content>
+									<p>________________________________________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav42">
+								<content>
+									<p>________________________________________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav43">
+								<content>
+									<p>________________________________________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav44">
+								<content>
+									<p>Просторије организације у дијаспори,  односно организације Срба у региону (закуп или власништво)</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav45">
+								<content>
+									<p>________________________________________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav46">
+								<content>
+									<p>Техничка опремљеност</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav47">
+								<content>
+									<p>________________________________________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav48">
+								<content>
+									<p>________________________________________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav49">
+								<content>
+									<p>У__________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav50">
+								<content>
+									<p>(место)</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav51">
+								<content>
+									<p>__________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav52">
+								<content>
+									<p>(датум)</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav53">
+								<content>
+									<p>__________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav54">
+								<content>
+									<p>(потпис лица овлашћеног</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav55">
+								<content>
+									<p>за заступање организације</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav56">
+								<content>
+									<p>у дијаспори,  односно организације</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav57">
+								<content>
+									<p>Срба у региону)</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav58">
+								<content>
+									<p>___________________________</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav59">
+								<content>
+									<p>(контакт телефон и е-маил адреса)</p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav60">
+								<content>
+									<p>*<ref id="ref8" href="/rs/act/2018/44/srp@">Службени гласник РС, број 44/2018</ref></p>
+								</content>
+							</clause>
+							<clause id="od1-clan14-stav61">
+								<content>
+									<p>Прилог:</p>
+									<point id="od1-clan14-stav61-tac1">
+										<num>1)</num>
+										<content>
+											<p> решење о упису у регистар организације,  као доказ да је организација у дијаспори,  односно организација Срба у региону регистрована у складу с прописима стране државе у којој живи дијаспора,  односно у складу с прописима државе на основу којих  делује организација Срба у региону;</p>
+										</content>
+									</point>
+									<point id="od1-clan14-stav61-tac2">
+										<num>2)</num>
+										<content>
+											<p> превод  решења на српски језик и на ћириличком писмо обављен код надлежног органа стране државе;</p>
+										</content>
+									</point>
+									<point id="od1-clan14-stav61-tac3">
+										<num>3)</num>
+										<content>
+											<p> акт о избору лица овлашћеног за заступање организације.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

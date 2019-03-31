@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2003/9-2/main"/>
+					<FRBRuri value="/rs/act/2003/9-2"/>
+					<FRBRdate date="2003" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2003/9-2/srp@/main"/>
+					<FRBRuri value="/rs/act/2003/9-2/srp@"/>
+					<FRBRdate date="2003" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2003/9-2/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2003/9-2/srp@.akn"/>
+					<FRBRdate date="2003" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2003-3-7" name="службени лист сцг" number="9" showAs="Службени лист СЦГ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Наредба" value="наредба"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="4. Заштита биља" value="4. заштита биља"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2003-03-04" id="usvajanje"/>
+				<step date="2003-03-08" id="stupanje_na_snagu"/>
+				<step date="2003-03-08" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 26. став 2. </ref>Закона о заштити биља (“<ref id="ref1" href="/rs/act/98/24/srp@">Службени лист СРЈ”, бр. 24/98</ref>), савезни министар привреде и унутрашње трговине доноси</p>
+		</preamble>
+		<preface>
+			<authority>НАРЕДБУ</authority>
+			<title>О ПРОГЛАШЕЊУ ПОДРУЧЈА ЗАРАЖЕНИМ КАРАНТИНСКИ ШТЕТНИМ ОРГАНИЗМОМ УЗРОЧНИКА СУШЕЊА ИЗДАНАКА МАЛИНЕ (PHYTOPHTORA FRAGARIE VAR. RUBI)</title>
+			<date>„Службени лист СЦГ”, број 9 од 7. марта 2003.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Ради спречавања ширења карантински штетног организма узрочника сушења изданака малине (Phytophtora fragarie var. rubi) проглашавају се подручја општине Ариље – Вигоште и Вирово и подручје општине Ваљево – Остружањ као подручја заражена наведеним карантински штетним организмом на којима се забрањује производња и промет садног материјала малине.</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Ова наредба ступа на снагу наредног дана од дана објављивања у “Службеном листу СЦГ”.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>Број: 185/1</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> марта 2003.</heading>
+				<content>
+					<clause id="od4-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od4-stav2">
+						<content>
+							<p>Савезни министар</p>
+						</content>
+					</clause>
+					<clause id="od4-stav3">
+						<content>
+							<p>привреде и унутрашње трговине</p>
+						</content>
+					</clause>
+					<clause id="od4-stav4">
+						<content>
+							<p>Петар Тројановић, с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

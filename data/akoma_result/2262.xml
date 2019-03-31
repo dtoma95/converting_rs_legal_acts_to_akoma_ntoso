@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1990/11-607/main"/>
+					<FRBRuri value="/rs/act/1990/11-607"/>
+					<FRBRdate date="1990" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1990/11-607/srp@/main"/>
+					<FRBRuri value="/rs/act/1990/11-607/srp@"/>
+					<FRBRdate date="1990" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1990/11-607/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1990/11-607/srp@.akn"/>
+					<FRBRdate date="1990" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1990-3-2" name="службени лист срј" number="11" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="7. Спољнотрговинско пословање" value="7. спољнотрговинско пословање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1990-03-01" id="usvajanje"/>
+				<step date="1990-03-03" id="stupanje_na_snagu"/>
+				<step date="1990-03-03" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 51. став 4.  </ref>Закона о спољнотрговинском пословању (“<ref id="ref1" href="/rs/act/89/63/srp@">Службени лист СФРЈ”, бр. 63/89</ref>), Савезно извршно веће доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о утврђивању робе која се не може  продавати из слободне царинске продавнице</title>
+			<date>„Службени лист СРЈ”, број 11 од 2.  марта 1990.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Из слободне царинске продавнице не може се продавати роба чија је малопродајна цена већа од 1000 ДЕМ, као ни роба која не одговара стандардима, атестима, нормативима и нормама квалитета прописаним за стављање у промет на југословенском тржишту.</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Одредба тачке 1. ове одлуке не примењује се на робу која је на дан објављивања ове одуке затечена у слободној царинској продавници, као ни на робу која се увози на основу уговора о комисионој продаји, ако је прешла царинску линију на дан објављивања ове одлуке и под условом да се прода у року од 30 дана.</heading>
+				<content/>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Ова одлука ступа на снагу наредног дана од дана објављивања у „Службеном листу СФРЈ”.</heading>
+				<content>
+					<clause id="od3-stav1">
+						<content>
+							<p>Савезно извршно веће</p>
+						</content>
+					</clause>
+					<clause id="od3-stav2">
+						<content>
+							<p>Е п бр 83</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od1">
+				<num>1.</num>
+				<heading> марта 1990. године</heading>
+				<content>
+					<clause id="od1-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od1-stav2">
+						<content>
+							<p>Председник,</p>
+						</content>
+					</clause>
+					<clause id="od1-stav3">
+						<content>
+							<p>Анте Марковић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

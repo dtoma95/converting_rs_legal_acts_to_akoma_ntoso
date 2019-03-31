@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2002/15-8/main"/>
+					<FRBRuri value="/rs/act/2002/15-8"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2002/15-8/srp@/main"/>
+					<FRBRuri value="/rs/act/2002/15-8/srp@"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2002/15-8/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2002/15-8/srp@.akn"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2002-3-29" name="службени гласник рс“" number="15" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="I ДРЖАВНО УРЕЂЕЊЕ" value="i државно уређење"/>
+				<keyword id="grupa" showAs="17. Територијална организација и локална самоуправа" value="17. територијална организација и локална самоуправа"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2002-03-27" id="usvajanje"/>
+				<step date="2002-04-06" id="stupanje_na_snagu"/>
+				<step date="2002-04-06" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 6. априла 2002. године (види <ref>члан 3. </ref>Уредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 7. став 1. </ref>Закона о територијалној организацији Републике Србије („<ref id="ref3" href="/rs/act/91/47/srp@">Службени гласник РС”, бр. 47/91, 79/92, 82/92, 47/94</ref> и 49/99) и <ref>члана 29. </ref>Закона о Влади Републике Србије („<ref id="ref4" href="/rs/act/91/5/srp@">Службени гласник РС”, бр. 5/91</ref> и 45/93),</p>
+		</preamble>
+		<preface>
+			<authority>Влада Републике Србије доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о  промени назива насељеног места Партизани у Даросава</title>
+			<date>„Службени гласник РС“, број 15 од 29. марта 2002.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Назив насељеног места Партизани, на територији општине Аранђеловац, мења се у Даросава.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>На основу ове уредбе Републички геодетски завод ће настале промене спровести на плановима и катастарском операту.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Ова уредба ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>05 број 016-3584/2002</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>У Београду, 27. марта 2002. године</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>Влада Републике Србије</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav5">
+						<content>
+							<p>Потпредседник,</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav6">
+						<content>
+							<p>Јожеф Каса, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

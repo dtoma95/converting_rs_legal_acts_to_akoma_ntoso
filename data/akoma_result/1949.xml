@@ -1,0 +1,327 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2018/103-11/main"/>
+					<FRBRuri value="/rs/act/2018/103-11"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/103-11/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/103-11/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/103-11/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/103-11/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2018-12-26" name="службени гласник рс" number="103" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="3. Војна опрема, наоружање и роба двоструке намене" value="3. војна опрема, наоружање и роба двоструке намене"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2018-12-12" id="usvajanje"/>
+				<step date="2019-01-03" id="stupanje_na_snagu"/>
+				<step date="2019-01-03" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 11. став 3. </ref>и <ref>члана 25. став 3. </ref>Закона о извозу и увозу робе двоструке намене („<ref id="ref2" href="/rs/act/13/95/srp@">Службени гласник РС”, број 95/13</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар трговине, туризма и телекомуникација доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о обрасцу и садржини захтева за издавање дозволе, обрасцу дозволе и другим обрасцима који прате извоз и увоз робе двоструке намене</title>
+			<date>&quot;Службени гласник РС&quot;, број 103 од 26. децембра     2018.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се обрасци и садржина захтева за издавање дозволе, образац дозволе, обрасци и садржај захтева за издавање и обрасци и садржај сертификата и потврде које прате извоз и увоз робе двоструке намене, пружање брокерске услуге и техничке помоћи, и то:</p>
+							<point id="clan1-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> образац захтева за издавање дозволе за извоз и увоз робе двоструке намене, пружање брокерских услуга и техничке помоћи;</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> образац дозволе за извоз робе двоструке намене;</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> образац дозволе за увоз робе двоструке намене;</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> образац дозволе за пружање брокерских услуга;</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> образац дозволе за пружање техничке помоћи;</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> образац дозволе за извоз робе двоструке намене која није наведена у Националној контролној листи робе двоструке намене;</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> образац изјаве о крајњој намени робе;</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> образац изјаве о употреби робе двоструке намене у сопственој производњи;</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> образац захтева за издавање потврде о крајњем кориснику за увоз робе двоструке намене у сопственој производњи;</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> образац потврде о крајњем кориснику за увоз робе двоструке намене у сопственој производњи (End User Certificate);</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> образац захтева за издавање међународног увозног сертификата;</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> образац међународног увозног сертификата (International Import Certificate);</p>
+								</content>
+							</point>
+							<point id="clan1-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> потврда о достави робе двоструке намене (Delivery Verification Certificate);</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Обрасци из става 1. овог члана одштампани су уз овај правилник и чине његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Даном ступања на снагу овог правилника престаје да важи Правилник о обрасцу и садржају захтева за издавање дозволе, обрасцу дозволе и садржају сертификата и потврда који прате извоз и увоз робе двоструке намене („<ref id="ref3" href="/rs/act/14/9/srp@">Службени гласник РС”, бр. 9/14</ref> и 55/14).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Број 335-13-155-1/2018-10</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>У Београду, 12. децембра 2018. године</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav5">
+						<content>
+							<p>Расим Љајић, с.р.</p>
+						</content>
+					</clause>
+					<став id="clan3-stav6">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_01.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						
+				
+			
+			
+						<content/>
+					</став>
+					<став id="clan3-stav7">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_02.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav8">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_03.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav9">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_04.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav10">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_05.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav11">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_06.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav12">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_07.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav13">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_08.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav14">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_09.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav15">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_10.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav16">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_11.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav17">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_12.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav18">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_13.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav19">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_14.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav20">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_15.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav21">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_16.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav22">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_17.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav23">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_18.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav24">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_19.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav25">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_20.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav26">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_21.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav27">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_22.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav28">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_23.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav29">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_24.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav30">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_25.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav31">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_26.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav32">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_27.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav33">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_28.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav34">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_29.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav35">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_30.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav36">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_31.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav37">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_32.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav38">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_33.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+					<став id="clan3-stav39">
+						<img alt="" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/Uvoz_Page_34.png&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427480&amp;regactid=427480"/>
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

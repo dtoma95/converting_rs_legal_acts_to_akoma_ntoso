@@ -1,0 +1,350 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2013/57-61/main"/>
+					<FRBRuri value="/rs/act/2013/57-61"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2013/110-210/srp@/main"/>
+					<FRBRuri value="/rs/act/2013/110-210/srp@"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2013/110-210/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2013/110-210/srp@.akn"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2013-7-3" name="службени гласник рс" number="57" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="VI СВОЈИНСКИ И ОБЛИГАЦИОНИ, ПОРОДИЧНИ И БРАЧНИ ОДНОСИ" value="vi својински и облигациони, породични и брачни односи"/>
+				<keyword id="grupa" showAs="14. Јавно-приватно партнерство и концесије" value="14. јавно-приватно партнерство и концесије"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2013-06-27" id="usvajanje"/>
+				<step date="2013-07-11" id="stupanje_na_snagu"/>
+				<step date="2013-07-11" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="57/2013-61" id="e1" type="generation"/>
+				<eventRef date="110/2013-210" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 74. став 3. </ref>Закона о јавно-приватном партнерству и концесијама („<ref id="ref4" href="/rs/act/11/88/srp@">Службени гласник РС”, број 88/11</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар финансија и привреде доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о начину вођења и садржини Регистра јавних уговора</title>
+			<date>&quot;Службени гласник РС&quot;,      бр. 57 од 3. јула 2013,  110 од 13. децембра 2013.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се садржина и начин вођења Регистра јавних уговора (у даљем тексту: Регистар), рокови у којима се достављају јавни уговори са свим прилозима, начин уписа и лица овлашћених за приступ Регистру, као и подаци којима се може приступити у складу са посебним прописима којима се уређује заштита података и пословна тајна.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Регистар се води као јединствена електронска база података о закљученим јавним уговорима.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Регистар се води на Порталу јавних набавки као подпортал у складу са законом.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Регистар садржи податке о јавном уговору, јавном партнеру, приватном партнеру, објекту и услузи.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Упис података из <ref>члана 3. овог</ref> правилника врши се на основу пријава за упис података из јавног уговора чија је садржина дата на одговарајућим обрасцима, и то:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> Образац 1 – Пријава за упис података из јавног уговора – подаци о уговору;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> Образац 2 – Пријава за упис података из јавног уговора – подаци о јавном партнеру;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> Образац 3 – Пријава за упис података из јавног уговора – подаци о приватном партнеру;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> Образац 3а) – Пријава за упис података из јавног уговора – подаци о Друштву за посебне намене;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> Образац 3б) – Пријава за упис података из јавног уговора – подаци о Заједничком привредном друштву;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> Образац 4 – Пријава за упис података из јавног уговора – подаци о објекту;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> Образац 5 – Пријава за упис података из јавног уговора – подаци о услузи од јавног значаја.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Обрасци из става 1. овог члана одштампани су уз овај правилник и чине његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Пријава промене података из јавног уговора врши се на обрасцима из <ref>члана 4. овог</ref> правилника који се односе на податке који се мењају, с тим што се пријава промене уписа посебно означава у пољу које је назначено у тим обрасцима и уписује идентификациони број уговора (ИД број) на који се промене односе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Обрасци пријаве уписа података, односно пријаве промене уписа података достављају се у писменом или електронском облику, појединачно за сваки јавни уговор.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Обрасци из става 1. овог члана потписују се и оверавају службеним печатом јавног партнера.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>Обрасци прописани овим правилником доступни су на интернет страници Комисије за јавно приватно партнерство и на Порталу јавних набавки.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav4">
+						<content>
+							<p>Обрасци са свим прилозима подносе се лично или препорученом пошиљком са повратницом на адресу министарства, односно органа управе надлежног за послове јавних набавки или путем електронске поште.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav5">
+						<content>
+							<p>Повратница са уписаним датумом, оверена печатом и потписана од стране службеног лица или уз електронски потпис враћа се подносиоцу.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Попуњени обрасци са свим прилозима у изворнику или као препис оверен печатом јавног партнера достављају се ради уписа у Регистар у року од 30 дана од дана закључења уговора.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Уз испуњене обрасце пријаве промене уписа прилаже се свака измена и допуна уговора и додатака, у изворнику или као препис оверен печатом јавног партнера, у року од 30 дана од дана настанка промене.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Ако се провером пријаве за упис података из јавног уговора утврди да пријава или да неки од података не одговарају подацима из јавног уговора о томе се обавештава јавни партнер ради отклањања утврђених недостатака.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Регистар се води уписивањем података у регистрациони лист.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Регистрациони лист има два дела.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<part id="deo1">
+				<num>Први део регистрационог листа по облику и садржини истоветан је са пријавом за упис података из јавног уговора.</num>
+				<content/>
+			</part>
+			<part id="deo2">
+				<num>Други део регистрационог листа по облику и садржини истоветан је са пријавом за упис промена података.</num>
+				<content>
+					<clause id="deo2-clan9-stav1">
+						<content>
+							<p>Уписом у Регистар сваки јавни уговор означава се идентификационим редним бројем уписа у текућој години (ИД број), с тим што означавање почиње од 0001/година уписа.</p>
+						</content>
+					</clause>
+					<clause id="deo2-clan9-stav2">
+						<content>
+							<p>Јавни уговор са свим прилозима, измене уговора са свим прилозима, пријава за упис података из јавног уговора и пријава за упис промена података чине збирку исправа Регистра које се уносе и чувају у архиви министарства, односно органа управе надлежног за послове јавних набавки које у складу са законом води Регистар.</p>
+						</content>
+					</clause>
+					<article id="deo2-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="deo2-clan10-stav1">
+								<content>
+									<p>Подаци садржани у регистрационом листу доступни су свим правним и физичким лицима преко интернет странице Портала јавних набавки – подпорталу, без накнаде и других ограничења.</p>
+								</content>
+							</clause>
+							<clause id="deo2-clan10-stav2">
+								<content>
+									<p>Информатички и други услови за доступност података објављују се на Порталу јавних набавки.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="deo2-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="deo2-clan11-stav1">
+								<content>
+									<p>У складу са чланом 9. овог правилника збирка исправа Регистра, а посебно јавни уговори са свим прилозима чувају се као пословна тајна.</p>
+								</content>
+							</clause>
+							<clause id="deo2-clan11-stav2">
+								<content>
+									<p>Приступ јавном уговору и другој документацији из збирке исправа   Регистра, врши се у складу са законом којим се уређује слободан приступ   информацијама од јавног значаја, а може се ограничити под условима   прописаним тим законом.*</p>
+								</content>
+							</clause>
+							<clause id="deo2-clan11-stav3">
+								<content>
+									<p>Брисан је ранији став 3. (види <ref>члан 1. </ref>Правилника - 110/2013-210)</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="deo2-clan12">
+						<num>12.</num>
+						<heading>*<ref id="ref5" href="/rs/act/2013/110/srp@">Службени гласник РС, број   110/2013</ref></heading>
+						<content>
+							<clause id="deo2-clan12-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="deo2-clan12-stav2">
+								<content>
+									<p>Број 110-00-169/2013-31</p>
+								</content>
+							</clause>
+							<clause id="deo2-clan12-stav3">
+								<content>
+									<p>У Београду, 27. јуна 2013. године</p>
+								</content>
+							</clause>
+							<clause id="deo2-clan12-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="deo2-clan12-stav5">
+								<content>
+									<p>Млађан Динкић, с.р.</p>
+								</content>
+							</clause>
+							<clause id="deo2-clan12-stav6">
+								<content>
+									<p>Листа образаца:</p>
+								</content>
+							</clause>
+							<clause id="deo2-clan12-stav7">
+								<content>
+									<p>Образац 1 – Пријава за упис података из јавног уговора – подаци о уговору</p>
+								</content>
+							</clause>
+							<clause id="deo2-clan12-stav8">
+								<content>
+									<p>Образац 2 – Пријава за упис података из јавног уговора – подаци о јавном партнеру</p>
+								</content>
+							</clause>
+							<clause id="deo2-clan12-stav9">
+								<content>
+									<p>Образац 3 – Пријава за упис података из јавног уговора – подаци о приватном партнеру</p>
+								</content>
+							</clause>
+							<clause id="deo2-clan12-stav10">
+								<content>
+									<p>Образац 3а) – Пријава за упис података из јавног уговора – подаци о Друштву за посебне намене</p>
+								</content>
+							</clause>
+							<clause id="deo2-clan12-stav11">
+								<content>
+									<p>Образац 3б) – Пријава за упис података из јавног уговора – подаци о Заједничком привредном друштву</p>
+								</content>
+							</clause>
+							<clause id="deo2-clan12-stav12">
+								<content>
+									<p>Образац 4 – Пријава за упис података из јавног уговора – подаци о објекту</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</part>
+		</body>
+	</act>
+</akomaNtoso>

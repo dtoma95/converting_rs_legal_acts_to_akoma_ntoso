@@ -1,0 +1,641 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2010/12-86/main"/>
+					<FRBRuri value="/rs/act/2010/12-86"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/44-27/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/44-27/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/44-27/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/44-27/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2010-3-10" name="службени гласник рс“" number="12" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="IV ЈАВНИ ПРИХОДИ" value="iv јавни приходи"/>
+				<keyword id="grupa" showAs="7. Игре на срећу" value="7. игре на срећу"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2010-02-23" id="usvajanje"/>
+				<step date="2010-03-18" id="stupanje_na_snagu"/>
+				<step date="2010-03-18" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="12/2010-86" id="e1" type="generation"/>
+				<eventRef date="44/2018-27" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Даном почетка примене Закона о изменама и допунама Закона о привредним друштвима („<ref id="ref6" href="/rs/act/2018/44/srp@">Службени гласник РС“, број 44/2018</ref>), односно 1. октобра 2018. године престају да важе одредбе <ref>члана 16. став 5. овог</ref> правилника, и у обрасцима, у делу у ком се установљава обавеза употребе печата у пословању друштава и предузетника (види <ref>члан 160. </ref>Закона - 44/2018-27).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу <ref>члана 84. став 2. </ref>Закона о играма на срећу („<ref id="ref7" href="/rs/act/04/84/srp@">Службени гласник РС”, бр. 84/04</ref> и 85/05 – др. закон),</p>
+		</preamble>
+		<preface>
+			<authority>Министар финансија доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о техничким и функционалним карактеристикама и техничкој исправности аутомата и столова за игре на срећу</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 12 од 10. марта 2010, 44 од 8. јуна 2018 - др. закон</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Основне одредбе</heading>
+				<content>
+					<article id="od1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="od1-clan1-stav1">
+								<content>
+									<p>Овим правилником уређују се техничке и функционалне карактеристике и начин утврђивања и одржавања техничке исправности аутомата и столова за игре на срећу (у даљем тексту: апарати).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="od1-clan2-stav1">
+								<content>
+									<p>Апарати морају, сагласно одредбама чл. 84. и 86. Закона о играма на срећу („<ref id="ref8" href="/rs/act/04/84/srp@">Службени гласник РС”, бр. 84/04</ref> и 85/05-др. закон – у даљем тексту: Закон) бити технички исправни и морају имати одговарајуће системе који омогућавају евидентирање рада и бележење промета за сваки аутомат.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Аутомати за игре на срећу</heading>
+				<content>
+					<article id="od2-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="od2-clan3-stav1">
+								<content>
+									<p>Аутомати за игре на срећу (у даљем тексту: аутомати) морају функционисати према корисничком и сервисном упутству.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan3-stav2">
+								<content>
+									<p>Аутомати могу садржати само оне игре које су описане у корисничком упутству.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="od2-clan4-stav1">
+								<content>
+									<p>Резултат игара на аутоматима мора зависити искључиво од случаја који дефинише софтверски или хардверски генератор случајних бројева.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="od2-clan5-stav1">
+								<content>
+									<p>Аутомати морају имати најмање четири контролна електромеханичка или електронска бројчаника (у даљем тексту: бројчаници) од којих један бележи улаз (уплату), други излаз (исплату), трећи износе потрошене у игри, а четврти износе освојене у игри, са местом за постављање фискалне пломбе.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav2">
+								<content>
+									<p>Бројчаници морају да осигуравају тачност и прегледност података прописаних Законом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="od2-clan6-stav1">
+								<content>
+									<p>Аутомати морају бити тако конструисани, односно приређивач игара на срећу (у даљем тексту: приређивач) мора обезбедити такве техничке услове, да у случају прекида или пропада електричног напајања не дође до брисања и губитка података који су сачувани у меморији аутомата, а односе се на игре које аутомат садржи, као и на стање бројчаника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="od2-clan7-stav1">
+								<content>
+									<p>Приступ виталним електронским и механичким склоповима аутомата мора бити обезбеђен сервисерском пломбом, коју поставља и скида овлашћено лице које обавља технички преглед и поправку аутомата (у даљем тексту: овлашћени сервисер).</p>
+								</content>
+							</clause>
+							<clause id="od2-clan7-stav2">
+								<content>
+									<p>Приступ програмској меморији, односно генераторима случајних бројева мора бити обезбеђен програмском пломбом, коју поставља и скида овлашћени радник Пореске управе.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan7-stav3">
+								<content>
+									<p>Приступ бројчаницима мора бити обезбеђен фискалном пломбом, коју поставља и скида овлашћени радник Пореске управе.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan7-stav4">
+								<content>
+									<p>Аутомат се споља једнозначно идентификује налепницом, коју поставља приређивач.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Столови за игре на срећу</heading>
+				<content>
+					<article id="od3-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="od3-clan8-stav1">
+								<content>
+									<p>На столовима за игре на срећу (у даљем тексту: столови) могу се играти само оне игре које су описане у корисничком упутству.</p>
+								</content>
+							</clause>
+							<clause id="od3-clan8-stav2">
+								<content>
+									<p>Столови морају функционисати према корисничком и сервисном упутству.</p>
+								</content>
+							</clause>
+							<clause id="od3-clan8-stav3">
+								<content>
+									<p>Резултат игара на столовима мора зависити искључиво од случаја који дефинишу механичка својства, тј. конструкција и реализација стола, као што су на пример: димензија и нивелација цилиндара на рулету, удаљеност између бројева на бројчанику рулета, висина и дебљина граничника између тих бројева, исправно изведен аутомат за одређену сврху, димензије отвора, распоред и баланс тежине ротирајућих делова, тежина и облик куглице.</p>
+								</content>
+							</clause>
+							<clause id="od3-clan8-stav4">
+								<content>
+									<p>Сто се споља једнозначно идентификује налепницом, коју поставља приређивач.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Технички преглед</heading>
+				<content>
+					<article id="od4-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="od4-clan9-stav1">
+								<content>
+									<p>Утврђивање техничке исправности апарата (технички преглед) обављају сервисери овлашћени од стране министра надлежног за послове финансија.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od4-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="od4-clan10-stav1">
+								<content>
+									<p>Подносилац захтева за обављање техничког прегледа апарата (у даљем тексту: подносилац захтева) доставља овлашћеном сервисеру следеће податке, односно документацију:</p>
+									<point id="od4-clan10-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> назив, седиште, адресу, ПИБ, матични број, имена и презимена одговорних лица, као и њихове контакт телефоне;</p>
+										</content>
+									</point>
+									<point id="od4-clan10-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> податке о апарату (произвођач, врста, тип, месец и година производње, серијски број апарата);</p>
+										</content>
+									</point>
+									<point id="od4-clan10-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> назив, адресу и телефонски број објекта у коме је постављен апарат;</p>
+										</content>
+									</point>
+									<point id="od4-clan10-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> комплетно оригинално корисничко и сервисно упутство;</p>
+										</content>
+									</point>
+									<point id="od4-clan10-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> опис и изглед пломби и начина пломбирања сервисерском и програмском пломбом, ако нису садржани у корисничком, односно сервисном упутству;</p>
+										</content>
+									</point>
+									<point id="od4-clan10-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> опис смештања, функционисања и повезивања електромеханичких или електронских бројчаника, као и пломбирања фискалном пломбом;</p>
+										</content>
+									</point>
+									<point id="od4-clan10-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> гаранцију и уверење произвођача апарата да испуњавају међународне стандарде квалитета и безбедности за апарате који се први пут стављају у употребу или сертификат лабораторије у Републици Србији о безбедности узорка типа апарата, сагласно стандардима из Прилога 1, који је одштампан уз овај правилник и чини његов саставни део;</p>
+										</content>
+									</point>
+									<point id="od4-clan10-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> изјаву да апарати који се стављају у употребу немају скривене функције које нису наведене у документацији из тач. 4), 5) и 6) овог члана.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od4-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="od4-clan11-stav1">
+								<content>
+									<p>Технички преглед може вршити само онај сервисер у Републици Србији кога је за то овластио произвођач апарата, уколико добије и овлашћење од стране министра надлежног за послове финансија у складу са Законом, овим правилником и другим прописима.</p>
+								</content>
+							</clause>
+							<clause id="od4-clan11-stav2">
+								<content>
+									<p>Техничким прегледом из става 1. овог члана утврђује се:</p>
+									<point id="od4-clan11-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> оригиналност и верзија хардверске платформе и софтвера;</p>
+										</content>
+									</point>
+									<point id="od4-clan11-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> да је апарат технички и функционално исправан;</p>
+										</content>
+									</point>
+									<point id="od4-clan11-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> стање контролних електромеханичких или електронских бројчаника;</p>
+										</content>
+									</point>
+									<point id="od4-clan11-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> стање пломби.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od4-clan11-stav3">
+								<content>
+									<p>Уколико се приликом техничког прегледа утврди неоригиналност хардверске платформе или софтвера, приређивачу се налаже да пре поновног достављања на технички преглед отклони утврђену неисправност апарата код правних лица овлашћених од стране произвођача апарата.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od4-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="od4-clan12-stav1">
+								<content>
+									<p>Технички преглед апарата за чије сервисирање произвођач није овластио ниједног сервисера у Републици Србији, могу обављати сервисери овлашћени од стране министра надлежног за послове финансија у складу са Законом, овим правилником и другим прописима.</p>
+								</content>
+							</clause>
+							<clause id="od4-clan12-stav2">
+								<content>
+									<p>Техничким прегледом из става 1. овог члана утврђује се:</p>
+									<point id="od4-clan12-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> верзија хардверске платформе и софтвера;</p>
+										</content>
+									</point>
+									<point id="od4-clan12-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> да је апарат технички и функционално исправан;</p>
+										</content>
+									</point>
+									<point id="od4-clan12-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> стање контролних електромеханичких или електронских бројчаника;</p>
+										</content>
+									</point>
+									<point id="od4-clan12-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> стање пломби.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od4-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="od4-clan13-stav1">
+								<content>
+									<p>Техничком прегледу подлежу сви апарати:</p>
+									<point id="od4-clan13-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> пре првог стављања апарата у употребу;</p>
+										</content>
+									</point>
+									<point id="od4-clan13-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> при годишњем прегледу;</p>
+										</content>
+									</point>
+									<point id="od4-clan13-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> после сваке поправке апарата;</p>
+										</content>
+									</point>
+									<point id="od4-clan13-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> у другим случајевима утврђеним Законом (ванредни технички преглед).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od4-clan13-stav2">
+								<content>
+									<p>Накнаду за обављање техничког прегледа из става 1. овог члана сноси приређивач.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od4-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="od4-clan14-stav1">
+								<content>
+									<p>Технички преглед апарата обавља се у седишту приређивача, у издвојеној пословној јединици приређивача или у пословном простору сервисера овлашћеног од стране министра надлежног за послове финансија (у даљем тексту: овлашћени сервисер).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od4-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="od4-clan15-stav1">
+								<content>
+									<p>По пријему захтева за обављањем првог техничког прегледа апарата из <ref>члана 10. овог</ref> правилника, односно захтева за поправку аутомата која захтева скидање и постављање фискалне или програмске пломбе, овлашћени сервисер обавештава надлежну организациону јединицу Пореске управе о идентификационом броју апарата за који је поднет захтев и месту на коме се апарат налази.</p>
+								</content>
+							</clause>
+							<clause id="od4-clan15-stav2">
+								<content>
+									<p>Овлашћено лице Пореске управе поставља и скида фискалну и програмску пломбу у поступку првог техничког прегледа аутомата, односно у поступку поправке аутомата која захтева скидање и постављање фискалне или програмске пломбе.</p>
+								</content>
+							</clause>
+							<clause id="od4-clan15-stav3">
+								<content>
+									<p>Надлежна организациона јединица Пореске управе по пријему захтева, фискалне и програмске пломбе, обавештава овлашћеног сервисера о датуму и времену постављања пломби.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od4-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="od4-clan16-stav1">
+								<content>
+									<p>Овлашћени сервисер је дужан да води евиденцију о обављеним техничким прегледима апарата у виду потврде у три примерка од којих се по један примерак доставља подносиоцу захтева и Управи за игре на срећу, а један примерак остаје овлашћеном сервисеру, који га улаже у књигу потврда, која је засебна за сваки апарат.</p>
+								</content>
+							</clause>
+							<clause id="od4-clan16-stav2">
+								<content>
+									<p>Потврда о обављеним техничким прегледима апарата из става 1. овог члана мора да садржи:</p>
+									<point id="od4-clan16-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> редни број потврде;</p>
+										</content>
+									</point>
+									<point id="od4-clan16-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> податке о апарату (произвођач, врста, тип, месец и година производње, серијски број апарата);</p>
+										</content>
+									</point>
+									<point id="od4-clan16-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> идентификациони број апарата са налепнице;</p>
+										</content>
+									</point>
+									<point id="od4-clan16-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> назив, адресу, телефонски број, ПИБ и матични број приређивача;</p>
+										</content>
+									</point>
+									<point id="od4-clan16-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> назив, адресу и телефонски број објекта у коме је постављен апарат;</p>
+										</content>
+									</point>
+									<point id="od4-clan16-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> име и презиме подносиоца захтева;</p>
+										</content>
+									</point>
+									<point id="od4-clan16-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> назив, адресу, ПИБ и матични број овлашћеног сервисера;</p>
+										</content>
+									</point>
+									<point id="od4-clan16-stav2-tac8">
+										<num>8)</num>
+										<content>
+											<p> име и презиме овлашћеног лица овлашћеног сервисера;</p>
+										</content>
+									</point>
+									<point id="od4-clan16-stav2-tac9">
+										<num>9)</num>
+										<content>
+											<p> назив, адресу и телефонски број надлежне организационе јединице Пореске управе;</p>
+										</content>
+									</point>
+									<point id="od4-clan16-stav2-tac10">
+										<num>10)</num>
+										<content>
+											<p> датум подношења захтева за обављање техничког прегледа;</p>
+										</content>
+									</point>
+									<point id="od4-clan16-stav2-tac11">
+										<num>11)</num>
+										<content>
+											<p> датум почетка и завршетка техничког прегледа;</p>
+										</content>
+									</point>
+									<point id="od4-clan16-stav2-tac12">
+										<num>12)</num>
+										<content>
+											<p> датум пријема и предаје апарата;</p>
+										</content>
+									</point>
+									<point id="od4-clan16-stav2-tac13">
+										<num>13)</num>
+										<content>
+											<p> датум састављања записника;</p>
+										</content>
+									</point>
+									<point id="od4-clan16-stav2-tac14">
+										<num>14)</num>
+										<content>
+											<p> стање свих бројчаника пре и после обављеног техничког прегледа;</p>
+										</content>
+									</point>
+									<point id="od4-clan16-stav2-tac15">
+										<num>15)</num>
+										<content>
+											<p> стање свих пломби пре и после обављеног техничког прегледа;</p>
+										</content>
+									</point>
+									<point id="od4-clan16-stav2-tac16">
+										<num>16)</num>
+										<content>
+											<p> потврду идентичности саставних делова и веза апарата, према опису из техничке документације и детаљан опис неодговарајућих саставних делова и веза;</p>
+										</content>
+									</point>
+									<point id="od4-clan16-stav2-tac17">
+										<num>17)</num>
+										<content>
+											<p> потврду функционалне исправности апарата и детаљан опис евентуалне неисправности.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od4-clan16-stav3">
+								<content>
+									<p>Потврда о техничком прегледу издаје се на обрасцу ПТП – Потврда о техничком прегледу, који је одштампан уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+							<clause id="od4-clan16-stav4">
+								<content>
+									<p>Подаци о техничком прегледу уписују се у сервисну књижицу апарата, на обрасцу СКА – Сервисна књижица апарата за игре на срећу, који је одштампан уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+							<clause id="od4-clan16-stav5">
+								<content>
+									<p>Потврду о техничком прегледу и сервисну књижицу оверавају потписом овлашћена лица овлашћеног сервисера, подносиоца захтева и Пореске управе.</p>
+								</content>
+							</clause>
+							<clause id="od4-clan16-stav6">
+								<content>
+									<p>Документација везана за обављање техничког прегледа апарата чува се три године од датума састављања записника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od4-clan17">
+						<num>17.</num>
+						<heading>*<ref id="ref9" href="/rs/act/2018/44/srp@">Службени гласник РС, број 44/2018</ref></heading>
+						<content>
+							<clause id="od4-clan17-stav1">
+								<content>
+									<p>Овлашћени сервисер дужан је да потврду о обављеном техничком прегледу достави Управи за игре на срећу у року од седам дана од дана завршетка техничког прегледа.</p>
+								</content>
+							</clause>
+							<clause id="od4-clan17-stav2">
+								<content>
+									<p>Овлашћени сервисер издаје потврду о техничкој и функционалној исправности аутомата, односно столова за игре на срећу са роком важења од једне године од дана издавања потврде, на основу позитивних резултата техничког прегледа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od4-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="od4-clan18-stav1">
+								<content>
+									<p>Даном ступања на снагу овог правилника престаје да важи Правилник о техничким и функционалним карактеристикама и техничкој исправности аутомата и столова за игре на срећу („<ref id="ref10" href="/rs/act/04/129/srp@">Службени гласник РС”, број 129/04</ref>).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od4-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="od4-clan19-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="od4-clan19-stav2">
+								<content>
+									<p>Број 110-00-2/2010-01</p>
+								</content>
+							</clause>
+							<clause id="od4-clan19-stav3">
+								<content>
+									<p>У Београду, 23. фебруара 2010. године</p>
+								</content>
+							</clause>
+							<clause id="od4-clan19-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="od4-clan19-stav5">
+								<content>
+									<p>др Диана Драгутиновић, с.р.</p>
+								</content>
+							</clause>
+							<clause id="od4-clan19-stav6">
+								<content>
+									<p>НАПОМЕНА ИЗДАВАЧА: Даном почетка примене Закона о изменама и допунама   Закона о привредним друштвима („<ref id="ref11" href="/rs/act/2018/44/srp@">Службени гласник РС“, број 44/2018</ref>), односно   1. октобра 2018. године престају да важе одредбе <ref>члана 16. став 5. овог</ref>   правилника, и у обрасцима, у делу у ком се установљава обавеза употребе   печата у пословању друштава и предузетника (види <ref>члан 160. </ref>Закона -   44/2018-27).</p>
+								</content>
+							</clause>
+							<clause id="od4-clan19-stav7">
+								<content>
+									<p>Прилози</p>
+								</content>
+							</clause>
+							<clause id="od4-clan19-stav8">
+								<content>
+									<p>Образац ПТП - Потврда о техничком прегледу бр. ___________</p>
+								</content>
+							</clause>
+							<clause id="od4-clan19-stav9">
+								<content>
+									<p>Образац СКА - Сервисна књижица апарата за игре на срећу</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

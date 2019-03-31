@@ -1,0 +1,2052 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2015/84-77/main"/>
+					<FRBRuri value="/rs/act/2015/84-77"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2015/84-77/srp@/main"/>
+					<FRBRuri value="/rs/act/2015/84-77/srp@"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2015/84-77/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2015/84-77/srp@.akn"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2015-10-6" name="службени гласник рс" number="84" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="6. Путеви" value="6. путеви"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2015-09-30" id="usvajanje"/>
+				<step date="2015-10-14" id="stupanje_na_snagu"/>
+				<step date="2015-10-14" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 11. став 2. </ref>Закона о јавним путевима („<ref id="ref2" href="/rs/act/05/101/srp@">Службени гласник РС”, бр. 101/05, 123/07, 101/11, 93/12</ref> и 104/13),</p>
+		</preamble>
+		<preface>
+			<authority>Министар грађевинарства, саобраћаја и инфраструктуре доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о начину означавања и евиденцији јавних путева</title>
+			<date>&quot;Службени гласник РС&quot;, број 84 од 6. октобра      2015.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>УВОДНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником прописује се начин означавања јавних путева, врста, садржина и начин вођења евиденција о јавним путевима, начин прикупљања односно обнављања података из евиденција о јавним путевима, као и услови коришћења података из евиденција о јавним путевима.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Поједини изрази употребљени у овом правилнику имају следеће значење:</p>
+									<point id="gla1-clan2-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> стационажа означава дужинско растојање од почетка прве деонице посматране трасе пута која се повећава у смеру пружања јавног пута који је одређен категоризацијом јавних путева;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> примарни саобраћајни чворови означавају пресек државних путева, пресек државног пута IА реда са општинским путем, пресек државних путева са државном границом, пресек државних путева IБ и II реда са административном границом покрајине, почетак или крај државног пута, почетак или крај проходног дела државног пута;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> секундарни саобраћајни чворови означавају пресек државних путева IБ и II реда са општинским путевима;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> додатни саобраћајни чворови означавају елементе раскрснице и кретање по њој у зони примарног, секундарног или општинског саобраћајног чвора када је потребно дефинисати све кракове у зони денивелисане раскрснице, у зони раскрснице у нивоу, где се воде посебне саобраћајне траке за маневрисање возила у зони раздвајања коловозних трака по смеровима када треба извршити раздвајање по смеровима;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> општински саобраћајни чворови означавају пресек општинских путева, пресек општинског пута са некатегорисаним путем, пресек општинског пута са административном границом општине, почетак или крај општинског пута, почетак или крај проходног дела општинског пута;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> примарне саобраћајне деонице су деонице које повезују два узастопна примарна саобраћајна чвора дуж државног пута;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> општинске саобраћајне деонице су деонице које повезују дуж мреже општинских путева примарне, секундарне и општинске саобраћајне чворове;</p>
+										</content>
+									</point>
+									<point id="gla1-clan2-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> додатне саобраћајне деонице су деонице које повезују, у зони раскрснице (петље), два саобраћајна чвора.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>НАЧИН ОЗНАЧАВАЊА, ВРСТЕ И САДРЖИНА ЕВИДЕНЦИЈА О ЈАВНИМ ПУТЕВИМА</heading>
+				<content>
+					<article id="gla2-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla2-clan3-stav1">
+								<content>
+									<p>Државни путеви означавају се тако да oзнака државног пута:</p>
+									<point id="gla2-clan3-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> IA реда садржи велико слово „А” и једноцифрени број;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> IБ реда садржи двоцифрен број, од броја 10 до броја 99;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> IIA реда садржи троцифрен број, од броја 100 до броја 299;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> IIБ реда садржи троцифрен број, од броја 300 на даље.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla2-clan4-stav1">
+								<content>
+									<p>Општински путеви означавају се тако да oзнака садржи ознаке локалне самоуправе које су дате у Прилогу 1 – Ознаке локалних самоуправа, који је одштампан уз овај правилник и чини његов саставни део, средњу црту и број општинског пута, при чему нумерација тог пута почиње од броја 1.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla2-clan5-stav1">
+								<content>
+									<p>Евиденције о јавним путевима су:</p>
+									<point id="gla2-clan5-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> подаци о путним правцима, улицама, саобраћајним чворовима и саобраћајним деоницама;</p>
+										</content>
+									</point>
+									<point id="gla2-clan5-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> саобраћајно-технички подаци о јавним путевима.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla2-clan6-stav1">
+								<content>
+									<p>Евиденција података о путним правцима, улицама, саобраћајним чворовима и саобраћајним деоницама (у даљем тексту: Референтни систем) садржи податке о:</p>
+									<point id="gla2-clan6-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> државним и општинским путевима;</p>
+										</content>
+									</point>
+									<point id="gla2-clan6-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> улицама;</p>
+										</content>
+									</point>
+									<point id="gla2-clan6-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> саобраћајним чворовима државних и општинских путева;</p>
+										</content>
+									</point>
+									<point id="gla2-clan6-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> саобраћајним деоницама државних и општинских путева.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla2-clan7-stav1">
+								<content>
+									<p>Евиденција о државним и општинским путевима садржи:</p>
+									<point id="gla2-clan7-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> ознаку пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> назив пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> категорију пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> дужину пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> ознаку (идентификациони број) саобраћајног чвора од кога почиње пут;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> ознаку (идентификациони број) саобраћајног чвора на коме се завршава пут;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> ознаку (идентификациони бројеви) саобраћајних деоница дуж пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> називе саобраћајних деоница дуж пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> редне бројеве саобраћајних деоница дуж пута у смеру раста стационаже;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> дужине саобраћајних деоница дуж трасе пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> стационаже саобраћајних чворова дуж трасе пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac12">
+										<num>12)</num>
+										<content>
+											<p> ознаку пута са којим се преклапа основни путни правац, за деонице у преклопу;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac13">
+										<num>13)</num>
+										<content>
+											<p> датум уноса односно промене података;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac14">
+										<num>14)</num>
+										<content>
+											<p> напомену.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav2">
+								<content>
+									<p>Поред наведених података, евиденција о општинским путевима садржи и назив органа локалне самоуправе којој припадају ти путеви.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>Евиденција о улицама садржи:</p>
+									<point id="gla2-clan8-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> ознаку улице;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> назив улице;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> дужину улице;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> назив органа локалне самоуправе којој припада улица;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> назив насељеног места на чијој територији је улица;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> ознаку почетног саобраћајног чвора улице;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> ознаку крајњег саобраћајног чвора улице;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> ознаку саобраћајних деоница улица према редоследу појављивања у оквиру улице;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> дужину саобраћајних деоница улице;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> датум уноса односно промене података;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> напомену.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>Евиденција о саобраћајним чворовима државних и општинских путева (у табеларном и графичком приказу) садржи:</p>
+									<point id="gla2-clan9-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> ознаку (идентификациони број) саобраћајног чвора;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> назив саобраћајног чвора;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> допунску ознаку саобраћајног чвора (за примарне, секундарне и општинске саобраћајне чворове);</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> карактер саобраћајног чвора (укрштај путева, државна граница, административна граница покрајине, почетак/крај проходног дела пута и административна граница града/општине);</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> ознаку основног путног правца коме припада саобраћајни чвор;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> ознаку путних праваца које се укрштају са основним путним правцем коме припада саобраћајни чвор;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> стационажу саобраћајног чвора дуж пута у односу на стационажу почетка основног путног правца коме припада саобраћајни чвор;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> стационажу саобраћајног чвора у односу на стационаже почетака путних праваца са којима се укршта основни путни правац;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> положај саобраћајног чвора (у насељу и ван насеља);</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> координате (X, Y, Z) саобраћајног чвора у државном координатном систему;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> графички приказ саобраћајних чворова (са подацима о суседним саобраћајним чворовима и деоницама и додатним саобраћајним деоницама);</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac12">
+										<num>12)</num>
+										<content>
+											<p> скицу положаја саобраћајног чвора и орјентација према северу;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac13">
+										<num>13)</num>
+										<content>
+											<p> додатне саобраћајне деонице са дужинама;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac14">
+										<num>14)</num>
+										<content>
+											<p> датум уноса односно промене податка;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac15">
+										<num>15)</num>
+										<content>
+											<p> напомену.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla2-clan10-stav1">
+								<content>
+									<p>Примарни саобраћајни чворови државних путева означавају се тако да:</p>
+									<point id="gla2-clan10-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> за државне путеве IА реда, ознака (идентификациони број) примарног саобраћајног чвора дуж државног пута IА реда садржи три цифре, при чему је прва цифра нумерички део ознаке државног пута, а следеће две цифре број чвора дуж пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> за државне путеве IБ реда, ознака (идентификациони број) примарног саобраћајног чвора дуж државног пута IБ реда садржи четири цифре, при чему су прве две цифре ознака државног пута, а следеће две цифре број чвора дуж пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> за државне путеве II реда, ознака (идентификациони број) примарног саобраћајног чвора дуж државног пута II реда садржи пет цифара, при чему су прве три цифре ознака државног пута, а следеће две цифре број чвора дуж пута.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav2">
+								<content>
+									<p>Додатни саобраћајни чворови државних и општинских путева означавају се тако да ознака (идентификациони број) додатног саобраћајног чвора садржи латинично слово „d”, ознаку примарног односно секундарног саобраћајног чвора и редни број додатног саобраћајног чвора који мора бити већи од 01.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan10-stav3">
+								<content>
+									<p>Секундарни и општински саобраћајни чворови означавају се тако да ознака (идентификациони број) секундарног и општинског саобраћајног чвора дуж општинског пута садржи латинично слово „op” и четири цифре, при чему су прве две цифре су ознака општинског пута, а следеће две цифре број чвора дуж пута.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla2-clan11-stav1">
+								<content>
+									<p>Означавање примарног саобраћајног чвора врши се постављањем челичног клина у коловоз који је дат у Прилогу 2 – Изглед челичног клина, који је одштампан уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav2">
+								<content>
+									<p>Челични клин се поставља на средини коловоза на месту укрштаја државних односно општинских путева.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav3">
+								<content>
+									<p>Челични клин се поставља у зони денивелисаног укрштаја државних путева уз десну ивицу коловоза у смеру раста стационаже, за државне путеве IА реда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla2-clan12-stav1">
+								<content>
+									<p>Допунска ознака примарног, секундарног и општинског саобраћајног чвора државних и општинских путева је:</p>
+									<point id="gla2-clan12-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> 00 – ако у зони примарног, секундарног или општинског саобраћајног чвора не постоје додатни саобраћајни чворови;</p>
+										</content>
+									</point>
+									<point id="gla2-clan12-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> 01 – ако у зони примарног, секундарног или општинског саобраћајног чвора постоје додатни саобраћајни чворови.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan12-stav2">
+								<content>
+									<p>За саобраћајне чворове из става 1. овог члана ознака (идентификациони број) и допунска ознака пишу се одвојено.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla2-clan13-stav1">
+								<content>
+									<p>Означавање саобраћајног чвора на мрежи државних путева врши се утврђивањем:</p>
+									<point id="gla2-clan13-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> места промене саобраћајних токова, које је одређено стварним или замишљеним пресеком: осовина државних путева, осовина државних путева са крацима денивелисаних раскрсница, осовина кракова денивелисаних раскрсница, осовина државних путева са крацима раскрсница у нивоу, осовина кракова раскрсница у нивоу и осовина државних путева са општинским путевима;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> места денивелисаног пресека осовина државних путева, које је одређено непосредном везом путева са денивелисаном раскрсницом, ако је то место део денивелисане раскрснице којом је остварена или планским документом планирана физичка веза путева;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> места пресека осовине државног пута са државном границом;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> места почетка или краја државног пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> места почетка или краја проходног дела државног пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> ознаке (идентификационог броја) саобраћајног чвора;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> допунске ознаке саобраћајног чвора (за примарне и секундарне саобраћајне чворове);</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> назива саобраћајног чвора;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> стационаже у односу на почетак пута (за примарне и секундарне саобраћајне чворове);</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> координата (X, Y, Z) из државног координатног система, одређених геодетским мерењем на терену са тачношћу хоризонталног положаја чвора до једног метра.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan13-stav2">
+								<content>
+									<p>Означавање саобраћајног чвора на мрежи општинских путева врши се утврђивањем:</p>
+									<point id="gla2-clan13-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> места осовина пресека државних путева IБ реда и II реда са општинским путем;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> места осовина пресека општинских путева;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> места пресека осовине општинског пута са државном границом;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> места почетка или краја општинског пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> места почетка или краја проходног дела општинског пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> ознаке (идентификационог броја) општинског саобраћајног чвора;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> назива општинског саобраћајног чвора;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav2-tac8">
+										<num>8)</num>
+										<content>
+											<p> стационаже општинског саобраћајног чвора у односу на почетак пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan13-stav2-tac9">
+										<num>9)</num>
+										<content>
+											<p> координата (X, Y, Z) из државног координатног система, одређених геодетским мерењем на терену са тачношћу хоризонталног положаја чвора до једног метра.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla2-clan14-stav1">
+								<content>
+									<p>Код аутопутева и путева са раздвојеним коловозима по смеровима, саобраћајни чвор се одређује у осовини саобраћајног профила аутопута или пута са раздвојеним коловозом, али се саобраћајне деонице одређују као различите за сваки смер вожње.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan14-stav2">
+								<content>
+									<p>Код аутопутева и путева са раздвојеним коловозима, између два саобраћајна чвора постоје две једносмерне саобраћајне деонице, при чему је почетни чвор једне саобраћајне деонице истовремено и завршни чвор друге саобраћајне деонице у односу на смер вожње.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla2-clan15-stav1">
+								<content>
+									<p>Евиденција о саобраћајним деоницама државних и општинских путева садржи:</p>
+									<point id="gla2-clan15-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> ознаку (идентификациони број) саобраћајне деонице;</p>
+										</content>
+									</point>
+									<point id="gla2-clan15-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> ознаку почетног саобраћајног чвора саобраћајне деонице;</p>
+										</content>
+									</point>
+									<point id="gla2-clan15-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> ознаку крајњег саобраћајног чвора саобраћајне деонице;</p>
+										</content>
+									</point>
+									<point id="gla2-clan15-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> назив саобраћајне деонице дефинисан називом почетног и крајњег саобраћајног чвора;</p>
+										</content>
+									</point>
+									<point id="gla2-clan15-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> дужину саобраћајне деонице;</p>
+										</content>
+									</point>
+									<point id="gla2-clan15-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> ознаку пута којем припада саобраћајна деоница;</p>
+										</content>
+									</point>
+									<point id="gla2-clan15-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> за саобраћајне деонице које су саставни део два и више путних праваца, ознаке пута/путева дуж кога/којих је саобраћајна деоница у преклопу;</p>
+										</content>
+									</point>
+									<point id="gla2-clan15-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> датум уноса односно промене податка;</p>
+										</content>
+									</point>
+									<point id="gla2-clan15-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> напомену.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan16">
+						<num>16.</num>
+						<content>
+							<clause id="gla2-clan16-stav1">
+								<content>
+									<p>Примарне саобраћајне деонице државних путева означавају се тако да:</p>
+									<point id="gla2-clan16-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> за државне путеве IА реда, ознака (идентификациони број) примарне саобраћајне деонице дуж државног пута IА реда садржи четири цифре, при чему је прва цифра нумерички део ознаке државног пута, а следеће три цифре број деонице дуж пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan16-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> за државне путеве IБ реда, ознака (идентификациони број) примарне саобраћајне деонице дуж државног пута IБ реда садржи пет цифара, при чему је прва цифра „нула”, друга и трећа цифра су ознаке државног пута, а следеће две цифре број деонице дуж пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan16-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> за државне путеве II реда, ознака (идентификациони број) примарне саобраћајне деонице дуж државног пута II реда садржи пет цифара, при чему су прве три цифре ознака државног пута, а следеће две цифре број деонице дуж пута.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan16-stav2">
+								<content>
+									<p>Додатне саобраћајне деонице државних и општинских путева означавају се тако да ознака (идентификациони број) додатне саобраћајне деонице садржи латинично слово „D”, ознаку саобраћајног чвора коме припада додатна саобраћајна деоница и редни број додатне саобраћајне деонице који мора бити већи од 1.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="gla2-clan17-stav1">
+								<content>
+									<p>Допунска ознака примарне и општинске саобраћајне деонице је 0, а ако је деоница у преклопу односно, ако је саставни део два или више путних праваца, допунска ознака је 1.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan17-stav2">
+								<content>
+									<p>За саобраћајне деонице из става 1. овог члана ознака (идентификациони број) и допунска ознака пишу се одвојено.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="gla2-clan18-stav1">
+								<content>
+									<p>Знак „број пута, број саобраћајне деонице пута и километража” (III–99) поставља се на почетном саобраћајном чвору пута и на сваких 5 km, а знак „километража пута” (III–98) на сваких 1 km, од почетка пута.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="gla2-clan19-stav1">
+								<content>
+									<p>Евиденција саобраћајно-техничких података о јавним путевима води се на инвентарском листу пута који је дат у Прилогу 3 – Инвентарски лист пута и на графичком инвентарском листу пута који је дат у Прилог 4 – Графички инвентарски лист пута, који су одштампани уз овај правилник и чине његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla2-clan20-stav1">
+								<content>
+									<p>Евиденција из <ref>члана 19. овог</ref> правилника води се мерењем стационаже пута, од почетног саобраћајног чвора пута, при чему је за поједине инвентарске јединице дуж пута могуће вођење и ГПС координата.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan20-stav2">
+								<content>
+									<p>Графички симболи инвентарских јединица обухваћени евиденцијом из става 1. овог члана дати су у Прилогу 5 – Графички симболи инвентарских јединица, који је одштампан уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan21">
+						<num>21.</num>
+						<content>
+							<clause id="gla2-clan21-stav1">
+								<content>
+									<p>Евиденцијa саобраћајно-техничких података о јавним путевима садржи податке о:</p>
+									<point id="gla2-clan21-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> главним тачкама дуж пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan21-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> пружању пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan21-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> трупу пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan21-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> одводњавању дуж пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan21-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> путним објектима;</p>
+										</content>
+									</point>
+									<point id="gla2-clan21-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> саобраћајним прикључцима дуж путева;</p>
+										</content>
+									</point>
+									<point id="gla2-clan21-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> прелазу пута преко железничке пруге;</p>
+										</content>
+									</point>
+									<point id="gla2-clan21-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> насељеним местима дуж пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan21-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> насељима дуж пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan21-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> пешачким и бициклистичким стазама;</p>
+										</content>
+									</point>
+									<point id="gla2-clan21-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> аутобуским стајалиштима;</p>
+										</content>
+									</point>
+									<point id="gla2-clan21-stav1-tac12">
+										<num>12)</num>
+										<content>
+											<p> пратећим садржајима јавног пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan21-stav1-tac13">
+										<num>13)</num>
+										<content>
+											<p> објектима за потребе јавног пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan21-stav1-tac14">
+										<num>14)</num>
+										<content>
+											<p> објектима и опреми за заштиту јавног пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan21-stav1-tac15">
+										<num>15)</num>
+										<content>
+											<p> осталим објектима поред јавног пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan21-stav1-tac16">
+										<num>16)</num>
+										<content>
+											<p> саобраћајним знаковима на путевима;</p>
+										</content>
+									</point>
+									<point id="gla2-clan21-stav1-tac17">
+										<num>17)</num>
+										<content>
+											<p> носачима саобраћајних знакова на путевима;</p>
+										</content>
+									</point>
+									<point id="gla2-clan21-stav1-tac18">
+										<num>18)</num>
+										<content>
+											<p> ознакама на путу;</p>
+										</content>
+									</point>
+									<point id="gla2-clan21-stav1-tac19">
+										<num>19)</num>
+										<content>
+											<p> уређајима за давање светлосних сигнала (семафорима);</p>
+										</content>
+									</point>
+									<point id="gla2-clan21-stav1-tac20">
+										<num>20)</num>
+										<content>
+											<p> светлосним ознакама на путу;</p>
+										</content>
+									</point>
+									<point id="gla2-clan21-stav1-tac21">
+										<num>21)</num>
+										<content>
+											<p> опреми пута;</p>
+										</content>
+									</point>
+									<point id="gla2-clan21-stav1-tac22">
+										<num>22)</num>
+										<content>
+											<p> јавној расвети;</p>
+										</content>
+									</point>
+									<point id="gla2-clan21-stav1-tac23">
+										<num>23)</num>
+										<content>
+											<p> катастарским парцелама јавног пута и суседа.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan22">
+						<num>22.</num>
+						<content>
+							<clause id="gla2-clan22-stav1">
+								<content>
+									<p>Евиденција о главним тачкама дуж пута садржи податке о:</p>
+									<point id="gla2-clan22-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> границама територије (државна граница, административна граница покрајине, административна граница округа, административна граница града/општине, називе суседних територијалних јединица и стационажа);</p>
+										</content>
+									</point>
+									<point id="gla2-clan22-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> границама одржавања (називе суседних предузећа за одржавање путева и стационажа).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan23">
+						<num>23.</num>
+						<content>
+							<clause id="gla2-clan23-stav1">
+								<content>
+									<p>Евиденција о пружању пута садржи податке о:</p>
+									<point id="gla2-clan23-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> хоризонталној кривини (радијус кривине, скретни угао, дужина, почетна и завршна стационажа);</p>
+										</content>
+									</point>
+									<point id="gla2-clan23-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> уздужном нагибу пута (успони и падови) од три и више процената (величина, дужина, почетна и завршна стационажа);</p>
+										</content>
+									</point>
+									<point id="gla2-clan23-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> надморској висини пута (врста: врх превоја и друге карактеристичне тачке пута које се односе на битне промене уздужног нагиба пута, надморска висина (мнм) и стационажа);</p>
+										</content>
+									</point>
+									<point id="gla2-clan23-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> евидентирању зона прегледности за безбедно претицање (почетна и завршна стационажа);</p>
+										</content>
+									</point>
+									<point id="gla2-clan23-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> зонама пута подложне завејавању, плављењу, осулинама, ударима ветра (дужина, почетна и завршна стационажа).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan24">
+						<num>24.</num>
+						<content>
+							<clause id="gla2-clan24-stav1">
+								<content>
+									<p>Евиденција о трупу пута садржи податке о:</p>
+									<point id="gla2-clan24-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> коловозу (основни подаци о коловозу: ширина, врста коловозног застора, дужина, стационажа промене; специјализовани подаци о коловозу: равност, носивост, стање, конструкција);</p>
+										</content>
+									</point>
+									<point id="gla2-clan24-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> банкини (просечна ширина, положај, дужина, почетна и завршна стационажа);</p>
+										</content>
+									</point>
+									<point id="gla2-clan24-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> насипу вишем од 3 m (просечна висина, положај, дужина, почетна и завршна стационажа);</p>
+										</content>
+									</point>
+									<point id="gla2-clan24-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> усеку вишем од 3 m (просечна висина, положај, дужина, почетна и завршна стационажа);</p>
+										</content>
+									</point>
+									<point id="gla2-clan24-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> клизишту (дужина, почетна и завршна стационажа).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan25">
+						<num>25.</num>
+						<content>
+							<clause id="gla2-clan25-stav1">
+								<content>
+									<p>Евиденција о одводњавању дуж пута садржи податке о:</p>
+									<point id="gla2-clan25-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> каналу за одводњавање (положај, материјал, дубина: до 1 m и преко 1m, дужина, почетна и завршна стационажа);</p>
+										</content>
+									</point>
+									<point id="gla2-clan25-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> риголи (положај, материјал, дужина, почетна и завршна стационажа);</p>
+										</content>
+									</point>
+									<point id="gla2-clan25-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> каналета на високим насипима (положај, врста у односу на ивицу пута: управна/коса/управна са успоравањем тока воде (коруб)/паралелна, дужина и стационажа);</p>
+										</content>
+									</point>
+									<point id="gla2-clan25-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> деоници пута са атмосферском канализацијом (положај, дужина, почетна и завршна стационажа).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan26">
+						<num>26.</num>
+						<content>
+							<clause id="gla2-clan26-stav1">
+								<content>
+									<p>Евиденција о путним објектима садржи податке о:</p>
+									<point id="gla2-clan26-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> мосту (основни подаци о мосту: ознака моста, стационажа средине моста, дужина, ширина коловоза, врста премоштавања, пешачке стазе, радне стазе, пешачка ограда, заштитна ограда; специјализовани подаци о мосту: конструкција, стање и носивост). Стање моста се одређује на основу систематског прегледа овлашћених организација или стручњака са одговарајућом лиценцом;</p>
+										</content>
+									</point>
+									<point id="gla2-clan26-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> тунелу (основни подаци о тунелу: ознака тунела, стационажа почетка и краја тунела, дужина, ширина коловоза, слободна висина тунела, расвета; специјализовани подаци о тунелу – стање). Стање тунела се одређује на основу систематског прегледа овлашћених организација или стручњака са одговарајућом лиценцом;</p>
+										</content>
+									</point>
+									<point id="gla2-clan26-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> пропусту (врста: цеваст/плочаст/засведен/гредни, материјал, величина отвора, дужина пропуста и стационажа);</p>
+										</content>
+									</point>
+									<point id="gla2-clan26-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> потпорном зиду (положај, испод нивоа планума/у нивоу планума/изнад нивоа планума, просечна висина, материјал, дужина, почетна и завршна стационажа);</p>
+										</content>
+									</point>
+									<point id="gla2-clan26-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> габион (положај, испод нивоа планума/у нивоу планума/изнад нивоа планума, просечна висина, дужина, почетна и завршна стационажа);</p>
+										</content>
+									</point>
+									<point id="gla2-clan26-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> галерији (положај, слободна висина изнад ивице коловоза, материјал, дужина, почетна и завршна стационажа);</p>
+										</content>
+									</point>
+									<point id="gla2-clan26-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> објекту преко јавног пута (надвожњак и надпутњак: друмски, железнички, пешачки, цевоводни, транспортни; слободна висина изнад ивице коловоза и стационажа).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan27">
+						<num>27.</num>
+						<content>
+							<clause id="gla2-clan27-stav1">
+								<content>
+									<p>Евиденција о саобраћајним прикључцима дуж путева садржи податке о:</p>
+									<point id="gla2-clan27-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> прикључку јавног пута (стационажа, подаци о прикључку јавног пута: врста коловоза, страна и угао укрштања);</p>
+										</content>
+									</point>
+									<point id="gla2-clan27-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> прикључку прилазног пута (стационажа, подаци о прикључку прилазног пута: материјал отресишта, страна, угао укрштања, дужина отресишта, одводњавање у зони прилазног пута).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan28">
+						<num>28.</num>
+						<content>
+							<clause id="gla2-clan28-stav1">
+								<content>
+									<p>Евиденција о прелазу пута преко железничке пруге (укрштаји са пругом у нивоу) дуж путева садржи податке о:</p>
+									<point id="gla2-clan28-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> броју и називу пруге;</p>
+										</content>
+									</point>
+									<point id="gla2-clan28-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> броју колосека;</p>
+										</content>
+									</point>
+									<point id="gla2-clan28-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> врсти пруге (јавна и индустријска);</p>
+										</content>
+									</point>
+									<point id="gla2-clan28-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> врсти коловоза на прелазу пута преко пруге;</p>
+										</content>
+									</point>
+									<point id="gla2-clan28-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> начину обезбеђења прелаза пута преко пруге (браници, полубраници, светлосни сигнали и саобраћајни знакови);</p>
+										</content>
+									</point>
+									<point id="gla2-clan28-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> стационажи.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan29">
+						<num>29.</num>
+						<content>
+							<clause id="gla2-clan29-stav1">
+								<content>
+									<p>Евиденција о насељеним местима дуж пута садржи податке о:</p>
+									<point id="gla2-clan29-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> називу насељеног места;</p>
+										</content>
+									</point>
+									<point id="gla2-clan29-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> положају насељеног места (десно/лево у односу на смер раста стационаже пута);</p>
+										</content>
+									</point>
+									<point id="gla2-clan29-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> дужини насељеног места;</p>
+										</content>
+									</point>
+									<point id="gla2-clan29-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> стационажи почетка и краја насељеног места.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan30">
+						<num>30.</num>
+						<content>
+							<clause id="gla2-clan30-stav1">
+								<content>
+									<p>Евиденција о насељима дуж пута садржи податке о:</p>
+									<point id="gla2-clan30-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> положају насеља (десно/лево у односу на смер раста стационаже пута);</p>
+										</content>
+									</point>
+									<point id="gla2-clan30-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> дужини насеља;</p>
+										</content>
+									</point>
+									<point id="gla2-clan30-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> стационажи почетка и краја насеља.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan31">
+						<num>31.</num>
+						<content>
+							<clause id="gla2-clan31-stav1">
+								<content>
+									<p>Евиденција о пешачким и бициклистичким стазама садржи податке о:</p>
+									<point id="gla2-clan31-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> пешачкој стази (положај десно/лево, просечна ширина, дужина, стационажа почетка и краја);</p>
+										</content>
+									</point>
+									<point id="gla2-clan31-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> бициклистичкој стази (положај десно/лево, просечна ширина, дужина, стационажа почетка и краја).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan32">
+						<num>32.</num>
+						<content>
+							<clause id="gla2-clan32-stav1">
+								<content>
+									<p>Евиденција о аутобуским стајалиштима садржи податке о:</p>
+									<point id="gla2-clan32-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> положају (лево, десно);</p>
+										</content>
+									</point>
+									<point id="gla2-clan32-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> врсти (ван коловоза, на коловозу);</p>
+										</content>
+									</point>
+									<point id="gla2-clan32-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> одлуци органа локалне самоуправе о одобреном стајалишту јавног превоза путника;</p>
+										</content>
+									</point>
+									<point id="gla2-clan32-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> стационажи.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan33">
+						<num>33.</num>
+						<content>
+							<clause id="gla2-clan33-stav1">
+								<content>
+									<p>Евиденција о пратећим садржајима јавног пута садржи податке о:</p>
+									<point id="gla2-clan33-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> станици за снабдевање горивом (ССГ) (положај, заузета јавна површина, назив објекта, стационажа почетка изливне траке са јавног пута и краја уливне траке на јавни пут);</p>
+										</content>
+									</point>
+									<point id="gla2-clan33-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> објектима за пружање услуга корисницима пута (ресторан, мотел, продавница, сервис, објекти за рекреацију, остали објекти намењени пружању услуга корисницима пута: положај, заузета јавна површина, назив објекта, стационажа почетка изливне траке са јавног пута и краја уливне траке на јавни пут);</p>
+										</content>
+									</point>
+									<point id="gla2-clan33-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> изграђено паркиралиште (одмориште) (положај, заузета јавна површина, стационажа почетка изливне траке са јавног пута и краја уливне траке на јавни пут).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan34">
+						<num>34.</num>
+						<content>
+							<clause id="gla2-clan34-stav1">
+								<content>
+									<p>Евиденција о објектима за потребе јавног пута (путна база, наплатна станица и контролна станица) садржи податке о:</p>
+									<point id="gla2-clan34-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> положају;</p>
+										</content>
+									</point>
+									<point id="gla2-clan34-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> заузетој јавној површини;</p>
+										</content>
+									</point>
+									<point id="gla2-clan34-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> називу објекта;</p>
+										</content>
+									</point>
+									<point id="gla2-clan34-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> стационажи.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan35">
+						<num>35.</num>
+						<content>
+							<clause id="gla2-clan35-stav1">
+								<content>
+									<p>Евиденција о објектима и опреми за заштиту јавног пута (снегобран, ветробран, заштита од буке и заштита од других утицаја на околину) садржи податке о:</p>
+									<point id="gla2-clan35-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> положају;</p>
+										</content>
+									</point>
+									<point id="gla2-clan35-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> дужини;</p>
+										</content>
+									</point>
+									<point id="gla2-clan35-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> стационажи почетка и краја објекта.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan36">
+						<num>36.</num>
+						<content>
+							<clause id="gla2-clan36-stav1">
+								<content>
+									<p>Евиденција о осталим објектима поред јавног пута (школа, црква и други верски објекти, болница, амбуланта, полиција, спортски објекат, гробље и сл.) садржи податке о:</p>
+									<point id="gla2-clan36-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> положају (десно, лево);</p>
+										</content>
+									</point>
+									<point id="gla2-clan36-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> стационажи.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan37">
+						<num>37.</num>
+						<content>
+							<clause id="gla2-clan37-stav1">
+								<content>
+									<p>Евиденција о саобраћајним знаковима на путевима садржи податке о:</p>
+									<point id="gla2-clan37-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> шифри знака;</p>
+										</content>
+									</point>
+									<point id="gla2-clan37-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> положају (десно, лево, средина и портал);</p>
+										</content>
+									</point>
+									<point id="gla2-clan37-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> оријентацији знака;</p>
+										</content>
+									</point>
+									<point id="gla2-clan37-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> садржају знака;</p>
+										</content>
+									</point>
+									<point id="gla2-clan37-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> димензијама и површини (за знакове обавештења);</p>
+										</content>
+									</point>
+									<point id="gla2-clan37-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> стационажи.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan38">
+						<num>38.</num>
+						<content>
+							<clause id="gla2-clan38-stav1">
+								<content>
+									<p>Евиденција о носачима саобраћајних знакова на путевима садржи податке о:</p>
+									<point id="gla2-clan38-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> врсти (једностубни, двостубни, решеткасти, полупортални, портални, сигнални стуб носача лантерни, сајла за семафоре и, остали);</p>
+										</content>
+									</point>
+									<point id="gla2-clan38-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> положају (десно, лево и средина);</p>
+										</content>
+									</point>
+									<point id="gla2-clan38-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> стационажи.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan39">
+						<num>39.</num>
+						<content>
+							<clause id="gla2-clan39-stav1">
+								<content>
+									<p>Евиденција о ознакама на путу (уздужне, попречне и остале) садржи податке о:</p>
+									<point id="gla2-clan39-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> дужини/површини;</p>
+										</content>
+									</point>
+									<point id="gla2-clan39-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> стационажи.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan40">
+						<num>40.</num>
+						<content>
+							<clause id="gla2-clan40-stav1">
+								<content>
+									<p>Евиденција о уређајима за давање светлосних сигнала (семафорима) садржи податке о:</p>
+									<point id="gla2-clan40-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> положају;</p>
+										</content>
+									</point>
+									<point id="gla2-clan40-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> врсти;</p>
+										</content>
+									</point>
+									<point id="gla2-clan40-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> броју/димензијама лантерни;</p>
+										</content>
+									</point>
+									<point id="gla2-clan40-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> локацији (у насељу и ван насеља);</p>
+										</content>
+									</point>
+									<point id="gla2-clan40-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> стационажи.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan41">
+						<num>41.</num>
+						<content>
+							<clause id="gla2-clan41-stav1">
+								<content>
+									<p>Евиденција о светлосним ознакама на путу (светлосне ознаке на путу за обележавање ивице коловоза и светлосне ознаке за обележавање путних објекта) садржи податке о:</p>
+									<point id="gla2-clan41-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> положају;</p>
+										</content>
+									</point>
+									<point id="gla2-clan41-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> врсти;</p>
+										</content>
+									</point>
+									<point id="gla2-clan41-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> стационажи.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan42">
+						<num>42.</num>
+						<content>
+							<clause id="gla2-clan42-stav1">
+								<content>
+									<p>Евиденција о опреми пута садржи податке о:</p>
+									<point id="gla2-clan42-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> опреми за означавање саобраћајних површина (положај, врста и стационажа);</p>
+										</content>
+									</point>
+									<point id="gla2-clan42-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> заштитној челичној огради (положај, врста, дужина, стационажа почетка и краја);</p>
+										</content>
+									</point>
+									<point id="gla2-clan42-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> заштитној бетонској огради (положај, врста, дужина, стационажа почетка и краја);</p>
+										</content>
+									</point>
+									<point id="gla2-clan42-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> ублаживачима удара (положај, врста и стационажа);</p>
+										</content>
+									</point>
+									<point id="gla2-clan42-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> заштитној жичаној огради (положај, дужина, стационажа почетка и краја);</p>
+										</content>
+									</point>
+									<point id="gla2-clan42-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> заштитној жичаној мрежи од осипа дуж косине усека (положај, дужина, површина, стационажа почетка и краја);</p>
+										</content>
+									</point>
+									<point id="gla2-clan42-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> пешачкој огради (положај, врста, дужина, стационажа почетка и краја);</p>
+										</content>
+									</point>
+									<point id="gla2-clan42-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> опреми за слепа и слабовида лица (положај, врста и стационажа);</p>
+										</content>
+									</point>
+									<point id="gla2-clan42-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> заштитној опреми у путном појасу (положај, врста, дужина и стационажа);</p>
+										</content>
+									</point>
+									<point id="gla2-clan42-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> техничким средствима за успоравање саобраћаја (врста и стационажа);</p>
+										</content>
+									</point>
+									<point id="gla2-clan42-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> уређајима за контролу саобраћаја (положај; стационажа; врста уређаја: аутоматски бројач саобраћаја, вага за контролу тежине, контрола брзине и видео надзор).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan43">
+						<num>43.</num>
+						<content>
+							<clause id="gla2-clan43-stav1">
+								<content>
+									<p>Евиденција о јавној расвети садржи податке о:</p>
+									<point id="gla2-clan43-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> електричном стубу (положај, врста: јавне расвете/енергетски/мешовити, материјал и стационажа);</p>
+										</content>
+									</point>
+									<point id="gla2-clan43-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> трафо станици (положај, врста: стабилна/на електричном стубу и стационажа).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan44">
+						<num>44.</num>
+						<content>
+							<clause id="gla2-clan44-stav1">
+								<content>
+									<p>Евиденција о катастарским парцелама јавног пута и суседа садржи податке о:</p>
+									<point id="gla2-clan44-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> броју катастарске парцеле;</p>
+										</content>
+									</point>
+									<point id="gla2-clan44-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> катастарској општини.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>НАЧИН ВОЂЕЊА ЕВИДЕНЦИЈА, НАЧИН ПРИКУПЉАЊА, ОДНОСНО ОБНАВЉАЊА ПОДАТАКА, КАО И УСЛОВИ КОРИШЋЕЊА ПОДАТАКА ИЗ ЕВИДЕНЦИЈА О ЈАВНИМ ПУТЕВИМА</heading>
+				<content>
+					<article id="gla3-clan45">
+						<num>45.</num>
+						<content>
+							<clause id="gla3-clan45-stav1">
+								<content>
+									<p>Подаци из евиденције о јавним путевима воде се тако што се приказују на:</p>
+									<point id="gla3-clan45-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> карти Референтног система која садржи ознаку пута, ознаку саобраћајног чвора и ознаку саобраћајне деонице;</p>
+										</content>
+									</point>
+									<point id="gla3-clan45-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> основној карти мреже путева која садржи називе насељених места на саобраћајним чворовима и дужине саобраћајних деоница (km);</p>
+										</content>
+									</point>
+									<point id="gla3-clan45-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> карти мреже путева са врстама коловоза која садржи врсте коловоза, називе насељених места кроз која пролазе путеви и дужине између насељених места (km).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan46">
+						<num>46.</num>
+						<content>
+							<clause id="gla3-clan46-stav1">
+								<content>
+									<p>Референтни систем води се у штампаном и дигиталном облику у формату погодном за коришћење, при чему су подаци јавни, доступни свим корисницима и чувају се трајно.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan47">
+						<num>47.</num>
+						<content>
+							<clause id="gla3-clan47-stav1">
+								<content>
+									<p>Укидањем јавног пута одговарајућа ознака јавног пута више се не користи.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan47-stav2">
+								<content>
+									<p>Укидањем саобраћајног чвора и/или саобраћајне деонице, одговарајући идентификациони број саобраћајног чвора и/или саобраћајне деонице више се не користи.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan48">
+						<num>48.</num>
+						<content>
+							<clause id="gla3-clan48-stav1">
+								<content>
+									<p>Подаци из Референтног система прикупљају се снимањем постојећег стања мреже јавних путева коришћењем електронских и других уређаја и опреме, и то за државне путеве у року од две године, а за општинске путеве у року од три године од дана ступања на снагу овог правилника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan49">
+						<num>49.</num>
+						<content>
+							<clause id="gla3-clan49-stav1">
+								<content>
+									<p>Обнављање података из Референтног система врши се у случају промена на мрежи јавних путева, и то:</p>
+									<point id="gla3-clan49-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> реконструкције постојећих саобраћајних чворова;</p>
+										</content>
+									</point>
+									<point id="gla3-clan49-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> изградње нових саобраћајних чворова;</p>
+										</content>
+									</point>
+									<point id="gla3-clan49-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> престанка коришћења постојећих саобраћајних чворова;</p>
+										</content>
+									</point>
+									<point id="gla3-clan49-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> реконструкције постојећег јавног пута;</p>
+										</content>
+									</point>
+									<point id="gla3-clan49-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> изградње новог јавног пута и његове категоризације;</p>
+										</content>
+									</point>
+									<point id="gla3-clan49-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> прекатегоризације јавног пута;</p>
+										</content>
+									</point>
+									<point id="gla3-clan49-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> престанка коришћења јавног пута;</p>
+										</content>
+									</point>
+									<point id="gla3-clan49-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> промене у територијалној и административној организацији Републике Србије.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan50">
+						<num>50.</num>
+						<content>
+							<clause id="gla3-clan50-stav1">
+								<content>
+									<p>Обнављање саобраћајно-техничких података на јавним путевима обухвата:</p>
+									<point id="gla3-clan50-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> промене саобраћајно-техничких података на јавним путевима које су настале после установљења евиденције;</p>
+										</content>
+									</point>
+									<point id="gla3-clan50-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> промене саобраћајно-техничких података за реконструисане путеве;</p>
+										</content>
+									</point>
+									<point id="gla3-clan50-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> промене саобраћајно-техничких података за јавне путеве на којима су настале измене траса;</p>
+										</content>
+									</point>
+									<point id="gla3-clan50-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> установљење евиденције за новоизграђене путеве.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan51">
+						<num>51.</num>
+						<content>
+							<clause id="gla3-clan51-stav1">
+								<content>
+									<p>Обнављање података из евидениције о јавним путевима врши се у року од 30 дана од дана настале промене.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ЗАВРШНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla4-clan52">
+						<num>52.</num>
+						<content>
+							<clause id="gla4-clan52-stav1">
+								<content>
+									<p>Даном ступања на снагу овог правилника престаје да важи:</p>
+									<point id="gla4-clan52-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> Правилник о евиденцији о јавним путевима и објектима на њима, као и о техничким подацима за те путеве („<ref id="ref3" href="/rs/act/83/52/srp@">Службени лист СФРЈ”, бр. 52/83</ref> и 60/83);</p>
+										</content>
+									</point>
+									<point id="gla4-clan52-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> Правилник о начину означавања државних путева, садржини евиденције, начину вођења евиденције, начину прикупљања, односно обнављања података, као и условима коришћења података из евиденције о државним путевима („<ref id="ref4" href="/rs/act/12/50/srp@">Службени гласник РС”, број 50/12</ref>).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan53">
+						<num>53.</num>
+						<content>
+							<clause id="gla4-clan53-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan53-stav2">
+								<content>
+									<p>Број 119-01-00188/2015-01</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan53-stav3">
+								<content>
+									<p>У Београду, 30. септембра 2015. године</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan53-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan53-stav5">
+								<content>
+									<p>проф. др Зорана Михајловић, с.р.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan53-stav6">
+								<content>
+									<p>Прилог 1 - Ознаке локалних самоуправа</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan53-stav7">
+								<content>
+									<p>Прилог 2 - Изглед челичног клина</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan53-stav8">
+								<content>
+									<p>Прилог 3 - Инвентарски лист пута</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan53-stav9">
+								<content>
+									<p>Прилог 4 - Графички инвентарски лист      пута</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

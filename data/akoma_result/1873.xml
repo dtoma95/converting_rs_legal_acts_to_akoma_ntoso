@@ -1,0 +1,1361 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2009/109-12/main"/>
+					<FRBRuri value="/rs/act/2009/109-12"/>
+					<FRBRdate date="2009" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2010/46-9/srp@/main"/>
+					<FRBRuri value="/rs/act/2010/46-9/srp@"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2010/46-9/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2010/46-9/srp@.akn"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2009-12-25" name="службени гласник рс“" number="109" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="VIII РАЗВОЈ" value="viii развој"/>
+				<keyword id="grupa" showAs="2. Статистика" value="2. статистика"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2009-12-24" id="usvajanje"/>
+				<step date="2010-01-02" id="stupanje_na_snagu"/>
+				<step date="2010-01-02" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="109/2009-12" id="e1" type="generation"/>
+				<eventRef date="46/2010-9" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 2. јануара 2010. године (види <ref>члан 10. </ref>Уредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<authority>Влада доноси</authority>
+			<title>Овом уредбом уређује се Номенклатура статистичких територијалних јединица, као и критеријуми по којима се врши груписање по три нивоа – НСТЈ 1, НСТЈ 2 и НСТЈ 3.</title>
+			<date>Нивои груписања из става 1. овог члана обезбеђују се агрегирањем територијалних јединица.</date>
+		</preface>
+		<body>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Номенклатура статистичких територијалних јединица јесте скуп појмова, назива и симбола који описују групе територијалних јединица са нивоима груписања (у даљем тексту: НСТЈ).</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Нивои груписања територијалних јединица утврђени овом уредбом јесу стандард по коме се кроз статистичке активности прикупљају, обрађују, приказују и анализирају статистички подаци.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Према нивоима НСТЈ из ове уредбе врши се и прикупљање података, информација и показатеља о мерама успешности регионалног развоја.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Критеријуми по којима се врши груписање нивоа НСТЈ, базирају се на општим критеријумима који су утврђени стандардима Европске уније, и то:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> број становника;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> геополитичка позиција;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> природни потенцијали;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> постојећа територијална организација;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> културно-историјско наслеђе.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Основни критеријум при формирању одређених нивоа НСТЈ јесте број становника, тако да се, посматрано по нивоима, величина јединица креће у следећим границама:</p>
+						</content>
+					</clause>
+					<став id="clan4-stav2">
+						<table align="center" border="1" cellpadding="0" cellspacing="0" class="auto-style4" style="width: 32.325008081252rem; height: 6.00000150000037rem;">
+							
+    
+							<tbody>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 8.8125rem; border: 0.0833333333333333rem solid windowtext; padding: 0cm;" valign="top" width="141">
+            Ниво
+            </td>
+									
+            
+									<td style="width: 8.8125rem; border: 0.0833333333333333rem solid windowtext; padding: 0cm;" valign="top" width="141">
+            Најмањи број становника
+            </td>
+									
+            
+									<td style="width: 8.8125rem; border: 0.0833333333333333rem solid windowtext; padding: 0cm;" valign="top" width="141">
+            Највећи број становника
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 8.8125rem; border: 0.0833333333333333rem solid windowtext; padding: 0cm;" valign="top" width="141">
+            НСТЈ   1
+            </td>
+									
+            
+									<td style="width: 8.8125rem; border: 0.0833333333333333rem solid windowtext; padding: 0cm;" valign="top" width="141">
+            3.000.000
+            </td>
+									
+            
+									<td style="width: 8.8125rem; border: 0.0833333333333333rem solid windowtext; padding: 0cm;" valign="top" width="141">
+            7.000.000
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 8.8125rem; border: 0.0833333333333333rem solid windowtext; padding: 0cm;" valign="top" width="141">
+            НСТЈ   2
+            </td>
+									
+            
+									<td style="width: 8.8125rem; border: 0.0833333333333333rem solid windowtext; padding: 0cm;" valign="top" width="141">
+            800.000
+            </td>
+									
+            
+									<td style="width: 8.8125rem; border: 0.0833333333333333rem solid windowtext; padding: 0cm;" valign="top" width="141">
+            3.000.000
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 8.8125rem; border: 0.0833333333333333rem solid windowtext; padding: 0cm;" valign="top" width="141">
+            НСТЈ   3
+            </td>
+									
+            
+									<td style="width: 8.8125rem; border: 0.0833333333333333rem solid windowtext; padding: 0cm;" valign="top" width="141">
+            150.000
+            </td>
+									
+            
+									<td style="width: 8.8125rem; border: 0.0833333333333333rem solid windowtext; padding: 0cm;" valign="top" width="141">
+            800.000
+            </td>
+									
+        
+								</tr>
+								
+    
+							</tbody>
+							
+
+						</table>
+						
+
+Члан 5.
+
+	
+						<content/>
+					</став>
+					<clause id="clan4-stav3">
+						<content>
+							<p>НСТЈ полази од територијалне организације Републике Србије утврђене законом. Основни принцип за успостављање нивоа у номенклатури јесте поштовање постојеће административне поделе.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav4">
+						<content>
+							<p>Нивои у оквиру НСТЈ су статистичке функционалне територијалне целине.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav5">
+						<content>
+							<p>Одређивање статистичких функционалних територијалних целина према нивоима изводи се тако што ниво НСТЈ 1 чине територијалне јединице региони нивоа НСТЈ 2, а њих чине територијалне јединице области нивоа НСТЈ 3.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav6">
+						<content>
+							<p>Ниво НСТЈ 3 чине јединице локалне самоуправе у саставу управних округа.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>На основу критеријума утврђених овом уредбом, у Републици Србији се на нивоу НСТЈ 1 образују следеће функционалне целине:</p>
+							<тачка id="clan6-stav1-tac1">
+								<num>1.</num>
+								<content>
+									<p> Србија – север је јединица на нивоу НСТЈ 1 у чији састав улази Београдски регион и Регион Војводине.</p>
+								</content>
+							</тачка>
+							<тачка id="clan6-stav1-tac2">
+								<num>2.</num>
+								<content>
+									<p> Србија – југ је јединица на нивоу НСТЈ 1 у чији састав улазе: Регион Шумадије и Западне Србије, Регион Јужне и Источне Србије и Регион Косово и Метохија.*</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<heading>*<ref id="ref2" href="/rs/act/2010/46/srp@">Службени гласник РС, број 46/2010</ref></heading>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Функционалне целине нивоа НСТЈ 1 чине територијалне јединице – региони нивоа НСТЈ 2, и то:</p>
+							<тачка id="clan7-stav1-tac1">
+								<num>1.</num>
+								<content>
+									<p> Београдски регион;</p>
+								</content>
+							</тачка>
+							<тачка id="clan7-stav1-tac2">
+								<num>2.</num>
+								<content>
+									<p> Регион Војводине;</p>
+								</content>
+							</тачка>
+							<тачка id="clan7-stav1-tac3">
+								<num>3.</num>
+								<content>
+									<p> Регион Шумадије и Западне Србије;</p>
+								</content>
+							</тачка>
+							<тачка id="clan7-stav1-tac4">
+								<num>4.</num>
+								<content>
+									<p> Регион Јужне и Источне Србије;</p>
+								</content>
+							</тачка>
+							<тачка id="clan7-stav1-tac5">
+								<num>5.</num>
+								<content>
+									<p> Регион Косово и Метохија.*</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<heading>*<ref id="ref3" href="/rs/act/2010/46/srp@">Службени гласник РС, број 46/2010</ref></heading>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Функционалне целине нивоа НСТЈ 2 чине територијалне јединице – области нивоа НСТЈ 3, и то:</p>
+							<тачка id="clan8-stav1-tac1">
+								<num>1.</num>
+								<content>
+									<p> Београдски регион је јединица и на нивоу НСТЈ 3 у чији састав улази територија града Београда;</p>
+								</content>
+							</тачка>
+							<тачка id="clan8-stav1-tac2">
+								<num>2.</num>
+								<content>
+									<p> Регион Војводине чине седам области нивоа НСТЈ 3 у чији састав улазе територије јединице локалне самоуправе у саставу управних округа, и то: Западнобачки управни округ, Јужнобанатски управни округ, Јужнобачки управни округ, Севернобанатски управни округ, Севернобачки управни округ, Средњобанатски управни округ и Сремски управни округ;</p>
+								</content>
+							</тачка>
+							<тачка id="clan8-stav1-tac3">
+								<num>3.</num>
+								<content>
+									<p> Регион Шумадије и Западне Србије чине осам области нивоа НСТЈ 3 у чији састав улазе територијалне јединице локалне самоуправе у саставу управних округа, и то: Златиборски управни округ, Колубарски управни округ, Мачвански управни округ, Моравички управни округ, Поморавски управни округ, Расински управни округ, Рашки управни округ и Шумадијски управни округ;*</p>
+								</content>
+							</тачка>
+							<тачка id="clan8-stav1-tac4">
+								<num>4.</num>
+								<content>
+									<p> Регион Јужне и Источне Србије чине девет области нивоа НСТЈ 3 у чији састав улазе територијалне јединице локалне самоуправе у саставу управних округа, и то: Борски управни округ, Браничевски управни округ, Зајечарски управни округ, Јабланички управни округ, Нишавски управни округ, Пиротски управни округ, Подунавски управни округ, Пчињски управни округ и Топлички управни округ;*</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Брисане су тач. 5. и 6. (види <ref>члан 3. </ref>Уредбе - 46/2010-9).</p>
+							<тачка id="clan8-stav2-tac7">
+								<num>7.</num>
+								<content>
+									<p> Регион Косова и Метохије чине пет области нивоа НСТЈ 3 у чији састав улазе територије јединице локалне самоуправе у саставу управних округа, и то; Косовски управни округ, Косовско-митровачки управни округ, Косовско-поморавски управни округ, Пећки управни округ и Призренски управни округ.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>Називи области нивоа НСТЈ 3 одређују се према називима управних округа чије територије јединице локалне самоуправе улазе у састав одређене области.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<heading>*<ref id="ref4" href="/rs/act/2010/46/srp@">Службени гласник РС, број 46/2010</ref></heading>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Графички приказ статистичких функционалних територијалних јединица по нивоима НСТЈ садржан је у Анексу 1 – Статистичке функционалне територијалне јединице по нивоима НСТЈ, а преглед статистичких функционалних територијалних јединица по нивоима НСТЈ садржан је у Анексу 2 – Преглед статистичких функционалних територијалних јединица по нивоима НСТЈ, који су одштампани уз ову уредбу и чине њен саставни део.*</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<heading>*<ref id="ref5" href="/rs/act/2010/46/srp@">Службени гласник РС, број 46/2010</ref></heading>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Ова уредба ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>05 број 110-8302/2009-2</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>У Београду, 24. децембра 2009. године</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav4">
+						<content>
+							<p>Влада</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav5">
+						<content>
+							<p>Први потпредседник Владе –</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav6">
+						<content>
+							<p>заменик председника Владе,</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav7">
+						<content>
+							<p>Ивица Дачић, с.р.</p>
+						</content>
+					</clause>
+					<став id="clan10-stav8">
+						<img alt="" height="843" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/e68144d5-2f22-4686-ab5d-bac18c050578.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=420078&amp;regactid=420078" width="596"/>
+						<content/>
+					</став>
+					<став id="clan10-stav9">
+						<table border="1" cellpadding="0" style="border: 0.0833333333333333rem solid windowtext;">
+							
+    
+							<tbody>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            НСТЈ 1
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            НСТЈ 2
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            НСТЈ 3
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            СРБИЈА   – СЕВЕР 
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            Београдски   регион
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Београдска   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            Регион   Војводине
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Западнобачка   област 
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Јужнобанатска   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Јужнобачка   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Севернобанатска   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Севернобачка   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Средњобанатска   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Сремска   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            СРБИЈА   – ЈУГ 
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            Регион   Шумадије и Западне Србије
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Златиборска   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Колубарска   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Мачванска   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Моравичка   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Поморавска   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Расинска   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Рашка   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Шумадијска   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            Регион   Јужне и Источне Србије
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Борска   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Браничевска   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Зајечарска   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Јабланичка   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Нишавска   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Пиротска   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Подунавска   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Пчињска   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Топличка   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            Регион   Косово и Метохија
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Косовска   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Косовско-митровачка   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Косовско-поморавска   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Пећка   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            Призренска   област
+            </td>
+									
+        
+								</tr>
+								
+        
+								<tr>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="161">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="168">
+            
+            </td>
+									
+            
+									<td style="width: 33%; border: 0.0833333333333333rem solid windowtext; padding: 0.0625rem;" width="186">
+            
+            </td>
+									
+        
+								</tr>
+								
+    
+							</tbody>
+							
+
+						</table>
+						
+
+
+Анекс 2 – Преглед статистичких функционалних територијалних јединица по нивоима НСТЈ, који је одштампан уз Уредбу о номенклатури статистичких територијалних јединица („<ref id="ref6" href="/rs/act/09/109/srp@">Службени гласник РС”, број 109/09</ref>) замењују се новим Анексом 2 – Преглед статистичких функционалних територијалних јединица по нивоима НСТЈ, који су одштампани уз ову уредбу и чине њен саставни део.
+
+*<ref id="ref7" href="/rs/act/2010/46/srp@">Службени гласник РС, број 46/2010</ref>
+
+
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,435 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2018/31-92/main"/>
+					<FRBRuri value="/rs/act/2018/31-92"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/31-92/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/31-92/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/31-92/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/31-92/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2018-4-27" name="службени гласник рс" number="31" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="VIII РАЗВОЈ" value="viii развој"/>
+				<keyword id="grupa" showAs="3. Информационе технологије" value="3. информационе технологије"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2018-04-11" id="usvajanje"/>
+				<step date="2018-05-05" id="stupanje_na_snagu"/>
+				<step date="2018-05-05" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 47. став 7. </ref>Закона о електронском документу, електронској идентификацији и услугама од поверења у електронском пословању („<ref id="ref6" href="/rs/act/17/94/srp@">Службени гласник РС”, број 94/17</ref>),</p>
+			<p>Министар трговине, туризма и телекомуникација доноси</p>
+		</preamble>
+		<preface>
+			<title>ПРАВИЛНИК</title>
+			<authority>о Регистру квалификованих средстава за креирање електронских потписа и електронских печата</authority>
+			<title>&quot;Службени гласник РС&quot;, број 31 од 27. априла 2018.</title>
+			<date>Предмет</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се садржај и начин вођења Регистра квалификованих средстава за креирање електронских потписа и електронских печата (у даљем тексту: Регистар), начин подношења захтева за упис у Регистар, потребна документација уз захтев и образац захтева.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Регистар води министарство надлежно за послове информационог друштва (у даљем тексту: Министарство).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>Садржај Регистра</heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Регистар садржи следеће податке:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> редни број уписа у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> назив средства за креирање електронских потписа односно печата (у даљем тексту: средство);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> подаци о подносиоцу захтева:</p>
+									<item id="clan2-stav1-tac3-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> пословно име произвођача,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac3-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> пословно име заступника произвођача или увозника средства, уколико захтев подноси заступник произвођача или увозник средства,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac3-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> седиште подносиоца захтева (улица и број, место, поштански број и држава);</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> врста средства:</p>
+									<item id="clan2-stav1-tac4-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> средство за креирање електронског потписа,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac4-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> средство за креирање електронског печата;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> напомена о начину коришћења средства, уколико је предвиђено да се средство користи путем услуге управљања квалификованим средством за креирање електронског потписа односно печата;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> назив тела за оцену усаглашености средстава за креирање квалификованог електронског потписа односно печата (у даљем тексту: именовано тело);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> подаци о потврди о усаглашености средства, односно извештају о оцени усаглашености средства (у даљем тексту: извештај о оцени усаглашености), и то:</p>
+									<item id="clan2-stav1-tac7-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> датум издавања извештај о оцени усаглашености средства,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac7-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> документ извештаја о оцени усаглашености средства,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac7-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> број извештаја о оцени усаглашености,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac7-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> број повлачења извештаја о усаглашености,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac7-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> датум повлачења извештаја о оцени усаглашености;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> други признати начин оцене усаглашености у складу са чланом 30.3 Уредбе Европског парламента и Савета Европске уније број 910/2014 од 23. јула 2014. године о електронској идентификацији и услугама од поверења за електронске трансакције на унутрашњем тржишту, која замењује Директиву 1999/93/EC (у даљем тексту: Уредба eIDAS);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> подаци о извештају о усаглашености у складу са CC (Common Criteria), уколико постоји:</p>
+									<item id="clan2-stav1-tac9-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> број извештаја о усаглашености у складу са CC (Common Criteria), уколико постоји,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac9-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> назив тела које је издало извештај у усаглашености у складу са CC (Common Criteria),</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac9-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> датум издавања извештаја о усаглашености у складу са CC (Common Criteria), уколико постоји,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac9-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> документ извештаја о усаглашености у складу са CC (Common Criteria);</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> број решења о упису у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> датум уписа у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> основ уписа у Регистар, који може да буде:</p>
+									<item id="clan2-stav1-tac12-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> оцена о усаглашености средства од стране тела за оцену усаглашености средстава за креирање квалификованог електронског потписа односно печата (у даљем тексту: именовано тело),</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac12-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> преузимања из списка из <ref>члана 31. </ref>Уредбе eIDAS као SSCD (Secure signature creation device),</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac12-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> преузимања из списка из <ref>члана 31. </ref>Уредбе eIDAS као QSCD (Qualified electronic signature creation device),</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac12-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> на основу <ref>члана 46. став 5. </ref>Закона о електронском документу, електронској идентификацији и услугама од поверења у електронском пословању;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> подаци у упису промена у Регистар и то:</p>
+									<item id="clan2-stav1-tac13-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> број решења о упису промена у Регистар,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac13-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> датум уписа промена у Регистар;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac14">
+								<num>14)</num>
+								<content>
+									<p> подаци о брисању из Регистра и то:</p>
+									<item id="clan2-stav1-tac14-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> број решења о брисању из Регистра,</p>
+										</content>
+									</item>
+									<item id="clan2-stav1-tac14-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> датум брисања из Регистра.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>У Регистар се уписују све промене података из става 1. овог члана.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>У Регистар квалификованих средстава за креирање електронских потписа и електронских печата уписују се и квалификована средства за креирање електронског потписа и електронског печата са списка који, према <ref>члану 31. </ref>Уредбе eIDAS, објављује Европска комисија.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>Начин вођења Регистра и начин објављивања података из Регистра</heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Регистар се води у папирном и електронском облику.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Регистар у електронском облику јавно је доступна на Интернет страни Министарства.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Регистар у електронском облику потписује се напредним електронским потписом министарства.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>Начин подношења захтева</heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Захтев за упис у Регистар (у даљем тексту: захтев) подноси се Министарству, електронским путем, на Обрасцу 1, који је одштампан уз овај правилник и чини његов саставни део, и који се објављује на Интернет страни Министарства.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Захтев из става 1. овог члана и документација која се прилаже уз захтев достављају се у форми електронског документа у оригиналу или у форми овереног дигитализованог акта, у складу са Законом о електронском документу, електронској идентификацији и услугама од поверења у електронском пословању (у даљем тексту: Закон), на електронску адресу Министарства.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Захтев се може поднети и писаним путем, непосредно или поштом, на Обрасцу 1, а документација која се прилаже уз захтев подноси се у оригиналу или се прилаже копија оверена од стране надлежног органа.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<heading>Потребна документација уз захтев</heading>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Подносилац уз Захтев прилаже:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> потврду о усаглашености, односно извештај о оцени усаглашености средства издат од стране именованог тела;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> потврду о уплаћеној административној такси, у складу са законом који уређује републичке административне таксе.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<heading>Промена података уписаних у Регистар</heading>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Захтев за промену података уписаних у Регистар подноси се, у року од осам дана од дана настанка промене, на Обрасцу 2, који је одштампан уз овај правилник и чини његов саставни део и који се објављује на Интернет страни Министарства, на начин из <ref>члана 4. овог</ref> правилника.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<heading>Датум уписа у Регистар</heading>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Упис средства у Регистар Министарство врши на дан доношења решења о упису у Регистар.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<heading>Завршна одредба</heading>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Број 110-00-19/2018-12</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>У Београду, 11. априла 2018. године</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav5">
+						<content>
+							<p>др Расим Љајић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav6">
+						<content>
+							<p>Прилози</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav7">
+						<content>
+							<p>Образац     1 - Захтев за упис у регистар квалификованих средстава за креирање     електронских потписа и електронских печата</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,811 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2014/38-7/main"/>
+					<FRBRuri value="/rs/act/2014/38-7"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2014/38-7/srp@/main"/>
+					<FRBRuri value="/rs/act/2014/38-7/srp@"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2014/38-7/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2014/38-7/srp@.akn"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2014-4-4" name="службени гласник рс" number="38" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="1. Сточарство" value="1. сточарство"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2014-03-31" id="usvajanje"/>
+				<step date="2014-04-12" id="stupanje_na_snagu"/>
+				<step date="2014-04-12" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 37. став 5. </ref>Закона о сточарству („<ref id="ref3" href="/rs/act/09/41/srp@">Службени гласник РС”, бр. 41/09</ref> и 93/12) и <ref>члана 17. став 4. </ref>и <ref>члана 24. став 2. </ref>Закона о Влади („<ref id="ref4" href="/rs/act/05/55/srp@">Службени гласник РС”, бр. 55/05, 71/05</ref> – исправка, 101/07, 65/08, 16/11 – УС, 72/12 и 7/14 – УС),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, шумарства и водопривреде доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о начину обележавања сперме, начину вођења евиденције о производњи сперме, као и о условима које мора да испуњава сперма у погледу квалитета</title>
+			<date>&quot;Службени гласник РС&quot;, број 38 од 4. априла 2014.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се начин обележавања сперме домаћих животиња, начин вођења евиденције о производњи сперме домаћих животиња, као и услови које мора да испуњава сперма домаћих животиња у погледу квалитета.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Одредбе овог правилника не односе се на сперму живине, крзнашица, кунића и пчела.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Сперма домаћих животиња (у даљем тексту: семе) обележава се на начин којим се спречава замена доза семена или било која злоупотреба.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Семе се обележава тако да свака доза која се произведе на спољашњем делу амбалаже садржи следеће податке:</p>
+							<point id="clan2-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> назив центра за репродукцију животиња и вештачко осемењавање који је произвео семе;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> назив расе домаће животиње од које семе потиче;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> број приплодњака у главној матичној евиденцији;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> име приплодњака – ако семе потиче од бикова и пастува;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> датум узимања семена;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac6">
+								<num>6)</num>
+								<content>
+									<p> идентификациони број приплодњака – даваоца семена.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Евиденција о производњи семена води се у писаном и у електронском облику, тако да садржи:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> податке о идентитету домаће животиње даваоца семена;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> датум производње семена, односно његовог преузимања;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> податке о начину обраде семена;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> податке о начину паковања семена;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> број произведених доза по скоку и укупно;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> педигре домаће животиње даваоца семена;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> потврду о крвној групи домаће животиње даваоца семена;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> потврду о квалитету семена у погледу броја сперматозоида прогресивне покретљивости, преживљавања и процента патолошких облика сперматозоида, после добијања доза и после њиховог одмрзавања, издате од стране овлашћене лабораторије, односно интерне лабораторије произвођача семена;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> податке о корисницима семена са приказом броја продатих доза по врстама, расама и приплодњацима;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> потврду надлежне ветеринарске организације да су узорци узети од квалитетне приплодне животиње познатог здравственог статуса над којом су спроведене мере прописане посебним прописом којим се уређује програм мера здравствене заштите животиња;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> потврду надлежне ветеринарске организације о извршеном клиничком прегледу животиње и да на животињи нису уочени симптоми болести које се могу пренети семеном животиње од које је узето.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Евиденција из става 1. овог члана води се за сваку производну серију конзервисаног семена.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Евиденција из става 1. овог члана води се на начин да је у сваком тренутку могуће утврдити порекло семена и чува се најмање пет година од дана стављања у промет последње произведене серије.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Семе испуњава услове у погледу квалитета ако:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> је произведено у центру за репродукцију и вештачко осемењавање;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> испуњава здравствене и хигијенске услове у складу са признатим међународним стандардима;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> потиче од квалитетне приплодне животиње за коју је издато одобрење за приплод;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> је обележено на прописан начин;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> потиче од животиње са позитивном приплодном вредношћу или која доприноси постизању одгајивачког циља;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> је узето од животиње која је клинички прегледана и на којој нису уочени симптоми болести који се могу пренети семеном животиње од које је узето;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> је узето од квалитетне приплодне животиње познатог здравственог статуса над којом су спроведене мере прописане посебним прописом којим се уређује програм мера здравствене заштите животиња;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> испуњава минималне услове за квалитет семена по приплодњацима различитих врста домаћих животиња.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Минимални услови за квалитет семена бика јесу:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> оплодна способност ејакулата за припрему доза семена и за употребу у приплоду:</p>
+									<item id="clan5-stav1-tac1-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> запремина: 2 ml,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac1-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> боја: слоноваче, жута, млечна,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac1-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> конзистенција: као млеко,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac1-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> мирис: специфичан за врсту,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac1-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> прогресивна покретљивост сперматозоида: најмање 65%,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac1-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> вртложна покретљивост: добра,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac1-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> густина: најмање 500 милиона сперматозоида у ml,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac1-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> pH: 6,5 до 7,0,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac1-podtac9">
+										<num>(9)</num>
+										<content>
+											<p> проценат морфолошки промењених сперматозоида: до 20%,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac1-podtac10">
+										<num>(10)</num>
+										<content>
+											<p> укупан број бактерија до 5000 CFU/ml;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> оплодна способност разређеног семена:</p>
+									<item id="clan5-stav1-tac2-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> прогресивна покретљивост сперматозоида: најмање 70%,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac2-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> проценат морфолошки промењених сперматозоида: до 20%,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac2-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> број прогресивно покретних и морфолошки нормалних сперматозоида у дози семена: најмање 5 милиона,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac2-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> укупан број бактерија до 500 CFU/ml;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> оплодна способност семена након одмрзавања:</p>
+									<item id="clan5-stav1-tac3-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> прогресивна покретљивост сперматозоида: најмање 50%,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac3-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> проценат морфолошки промењених сперматозоида: до 30%,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac3-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> прогресивна покретљивост по тесту отпорности: најмање 40%,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac3-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> број прогресивно покретних и морфолошки нормалних сперматозоида у дози после одмрзавања: најмање 10 милиона,</p>
+										</content>
+									</item>
+									<item id="clan5-stav1-tac3-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> укупан број бактерија до 500 CFU/ml.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Минимални услови за квалитет семена нераста јесу:</p>
+							<point id="clan6-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> оплодна способност ејакулата за припрему доза семена и за употребу у приплоду:</p>
+									<item id="clan6-stav1-tac1-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> запремина: 100 ml,</p>
+										</content>
+									</item>
+									<item id="clan6-stav1-tac1-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> боја: млечно бела,</p>
+										</content>
+									</item>
+									<item id="clan6-stav1-tac1-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> конзистенција: као млеко,</p>
+										</content>
+									</item>
+									<item id="clan6-stav1-tac1-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> мирис: специфичан за врсту,</p>
+										</content>
+									</item>
+									<item id="clan6-stav1-tac1-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> прогресивна покретљивост сперматозоида: најмање 60%,</p>
+										</content>
+									</item>
+									<item id="clan6-stav1-tac1-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> одступања у покретљивости: 10 до 20%,</p>
+										</content>
+									</item>
+									<item id="clan6-stav1-tac1-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> удео мртвих сперматозоида: до 20%,</p>
+										</content>
+									</item>
+									<item id="clan6-stav1-tac1-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> проценат патолошки промењених сперматозоида: до 20%,</p>
+										</content>
+									</item>
+									<item id="clan6-stav1-tac1-podtac9">
+										<num>(9)</num>
+										<content>
+											<p> густина: 100 милиона сперматозоида у ml,</p>
+										</content>
+									</item>
+									<item id="clan6-stav1-tac1-podtac10">
+										<num>(10)</num>
+										<content>
+											<p> pH: 7,2 do 7,4;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> оплодна способност разређеног семена:</p>
+									<item id="clan6-stav1-tac2-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> запремина: 80 ml;</p>
+										</content>
+									</item>
+									<item id="clan6-stav1-tac2-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> прогресивна покретљивост сперматозоида: најмање 60%,</p>
+										</content>
+									</item>
+									<item id="clan6-stav1-tac2-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> број прогресивно покретних и морфолошки нормалних сперматозоида у дози за осемењавање: 1,5 милијарди;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> оплодна способност семена након одмрзавања:</p>
+									<item id="clan6-stav1-tac3-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> запремина: 50 ml,</p>
+										</content>
+									</item>
+									<item id="clan6-stav1-tac3-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> број прогресивно покретних и морфолошки нормалних сперматозоида у дози за осемењавање: најмање 3 милијарде.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Минимални услови за квалитет семена пастува јесу:</p>
+							<point id="clan7-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> оплодна способност ејакулата за припрему доза семена и за употребу у приплоду:</p>
+									<item id="clan7-stav1-tac1-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> запремина: 50 ml,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> запремина без слузи: најмање 25 ml,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> боја: сивобела,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> конзистенција: специфична за врсту,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> мирис: специфичан за врсту,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> pH: 7,3 do 7,8,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> прогресивна покретљивост сперматозоида: најмање 60% (зависно од припусне сезоне и старости приплодњака),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> одступања у покретљивости: 10 до 20%,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac9">
+										<num>(9)</num>
+										<content>
+											<p> проценат мртвих сперматозоида: до 25%,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac10">
+										<num>(10)</num>
+										<content>
+											<p> густина: 100 милиона сперматозоида у ml,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac11">
+										<num>(11)</num>
+										<content>
+											<p> проценат патолошки промењених сперматозоида: до 30% (зависно од припусне сезоне и старости приплодњака),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac12">
+										<num>(12)</num>
+										<content>
+											<p> укупан број сперматозоида у ејакулату: најмање 2 милијарде, од тога најмање 1 милијарда прогресивно покретних;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> оплодна способност разређеног семена:</p>
+									<item id="clan7-stav1-tac2-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> прогресивна покретљивост сперматозоида: најмање 60%,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac2-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> број прогресивно покретних и морфолошки нормалних сперматозоида у дози за осемењавање: најмање 500 милиона;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> оплодна способност семена након одмрзавања:</p>
+									<item id="clan7-stav1-tac3-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> прогресивна покретљивост сперматозоида: најмање 40%,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac3-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> број прогресивно покретних и морфолошки нормалних сперматозоида у дози за осемењавање: најмање 500 милиона.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Минимални услови за квалитет семена овнова и јарчева јесу:</p>
+							<point id="clan8-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> оплодна способност ејакулата за припрему доза семена и за употребу у приплоду:</p>
+									<item id="clan8-stav1-tac1-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> запремина: 0,5 ml,</p>
+										</content>
+									</item>
+									<item id="clan8-stav1-tac1-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> боја: слоноваче,</p>
+										</content>
+									</item>
+									<item id="clan8-stav1-tac1-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> конзистенција: кремаста,</p>
+										</content>
+									</item>
+									<item id="clan8-stav1-tac1-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> мирис: специфичан за врсту,</p>
+										</content>
+									</item>
+									<item id="clan8-stav1-tac1-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> pH: 6,0 до 7,0,</p>
+										</content>
+									</item>
+									<item id="clan8-stav1-tac1-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> вртложна покретљивост: добра,</p>
+										</content>
+									</item>
+									<item id="clan8-stav1-tac1-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> прогресивна покретљивост сперматозоида: до 70% (зависно од припусне сезоне и старости приплодњака),</p>
+										</content>
+									</item>
+									<item id="clan8-stav1-tac1-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> одступања у покретљивости: 10 до 20%,</p>
+										</content>
+									</item>
+									<item id="clan8-stav1-tac1-podtac9">
+										<num>(9)</num>
+										<content>
+											<p> проценат мртвих сперматозоида: до 20%,</p>
+										</content>
+									</item>
+									<item id="clan8-stav1-tac1-podtac10">
+										<num>(10)</num>
+										<content>
+											<p> густина: 1 милијарда сперматозоида у ml,</p>
+										</content>
+									</item>
+									<item id="clan8-stav1-tac1-podtac11">
+										<num>(11)</num>
+										<content>
+											<p> проценат патолошки промењених сперматозоида: до 20%;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> оплодна способност разређеног семена:</p>
+									<item id="clan8-stav1-tac2-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> прогресивна покретљивост сперматозоида: најмање 70%,</p>
+										</content>
+									</item>
+									<item id="clan8-stav1-tac2-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> број прогресивно покретних сперматозоида у дози за осемењавање: 70 до 100 милиона,</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> оплодна способност семена након одмрзавања:</p>
+									<item id="clan8-stav1-tac3-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> број прогресивно покретних сперматозоида у дози за осемењавање: 20 милиона;</p>
+										</content>
+									</item>
+									<item id="clan8-stav1-tac3-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> проценат патолошки промењених сперматозоида: до 20%.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Минимални услови за квалитет семена из чл. 5–8. овог правилника могу одступити од прописаних вредности када се семе користи за експерименталне сврхе или увођење нових техника осемењавања.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Када се семе користи за експерименталне сврхе или увођење нових техника осемењавања дозе семена посебно се означавају тако да се наводи да се користе за експерименталне сврхе или за увођење нове технике осемењавања.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Број 110-00-00186/2014-09</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>У Београду, 31. марта 2014. године</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav5">
+						<content>
+							<p>проф. др Драган Гламочић,   с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

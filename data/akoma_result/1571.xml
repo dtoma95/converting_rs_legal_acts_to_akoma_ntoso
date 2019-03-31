@@ -1,0 +1,1495 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1992/4-47/main"/>
+					<FRBRuri value="/rs/act/1992/4-47"/>
+					<FRBRdate date="1992" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2002/60-1/srp@/main"/>
+					<FRBRuri value="/rs/act/2002/60-1/srp@"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2002/60-1/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2002/60-1/srp@.akn"/>
+					<FRBRdate date="2002" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1992-5-8" name="службени лист срј" number="4" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="VIII РАЗВОЈ" value="viii развој"/>
+				<keyword id="grupa" showAs="4. Квалитет предмета опште употребе и животних намирница" value="4. квалитет предмета опште употребе и животних намирница"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1992-04-09" id="usvajanje"/>
+				<step date="1992-05-16" id="stupanje_na_snagu"/>
+				<step date="1992-05-16" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="4/1992-47" id="e1" type="generation"/>
+				<eventRef date="7/2001-2" id="e2" type="amendment"/>
+				<eventRef date="60/2002-1" id="e3" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preface>
+			<authority>На основу <ref>члана 43. став 1. тачка 7</ref>. Закона о здравственој исправности животних намирница и предмета опште употребе (“<ref id="ref3" href="/rs/act/91/53/srp@">Службени лист СФРЈ”, бр. 53/91</ref>), савезни секретар за рад, здравство, борачка питања и социјалну политику доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о условима у погледу стручних кадрова, просторија и опреме које морају да испуњавају здравствене и друге организације за вршење анализа и суперанализа намирница и предмета опште употребе</title>
+			<date>„Службени лист СРЈ&quot;, бр. 4 од 8. маја 1992, 7 од 16. фебруара 2001, 60 од 8. новембра 2002.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се услови које у погледу кадрова, просторија и опреме морају испуњавати здравствене и друге организације које врше анализу и суперанализу здравствене исправности намирница и предмета опште употребе (у даљем тексту: организација).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Организације које врше физичко-хемијску анализу намирница и предмета опште употребе ради утврђивања здравствене исправности морају испуњавати следеће услове:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> у погледу стручних кадрова морају имати раднике са:</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<subsection id="podod1">
+				<num>а</num>
+				<heading> завршеним фармацеутским, технолошким или природно-математичким факултетом (одсек хемије и физичке хемије) од којих један мора бити специјалиста за санитарну хемију, а други специјалиста за санитарну (хемијску) токсикологију;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod2">
+				<num>б</num>
+				<heading> завршеном вишом или средњом хемијском, фармацеутском или медицинском школом, санитарног или лабораторијског смера;</heading>
+				<content>
+					<point id="podod2-clan2-tac2">
+						<num>2)</num>
+						<content>
+							<p> у погледу опреме морају имати:</p>
+						</content>
+					</point>
+				</content>
+			</subsection>
+			<subsection id="podod3">
+				<num>в</num>
+				<heading> вакуум сушницу са терморегулацијом до 200 °С;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod4">
+				<num>б</num>
+				<heading> гасно-течни хроматограф са различитим детекторским системима;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod5">
+				<num>в</num>
+				<heading> течно-течни хроматограф са различитим детекторским системима;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod6">
+				<num>г</num>
+				<heading> атомско-апсорпциони спектрометар са додацима за рад са:</heading>
+				<content>
+					<alinea id="podod6-clan2-ali1">
+						<content>
+							<p>ламеном техником;</p>
+						</content>
+					</alinea>
+					<alinea id="podod6-clan2-ali2">
+						<content>
+							<p>ехником графитне пећи;</p>
+						</content>
+					</alinea>
+					<alinea id="podod6-clan2-ali3">
+						<content>
+							<p>ехником хладне паре;</p>
+						</content>
+					</alinea>
+					<alinea id="podod6-clan2-ali4">
+						<content>
+							<p>идридном техником;</p>
+						</content>
+					</alinea>
+				</content>
+			</subsection>
+			<subsection id="podod7">
+				<num>д</num>
+				<heading> гасно масени хроматограф;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod8">
+				<num>ђ</num>
+				<heading> поларограм (није обавезан ако постоји атомско-апсорпциони спектрометар);</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod9">
+				<num>е</num>
+				<heading> апарат за одређивање етеричног уља по Клевенгеру;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod10">
+				<num>ж</num>
+				<heading> апарат за одређивање воде по Деанстарку;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod11">
+				<num>з</num>
+				<heading> UV–VIS спектрофотометар;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod12">
+				<num>и</num>
+				<heading> pH-метар;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod13">
+				<num>ј</num>
+				<heading> уређај за одређивање азота-микро-Kjeldahl (2 ком);</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod14">
+				<num>к</num>
+				<heading> уређај за екстракцију масти по Soxletu са 4–6 места;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod15">
+				<num>л</num>
+				<heading> пећ за жарење до 900 °С;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod16">
+				<num>љ</num>
+				<heading> прибро за хроматографију на хартији;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod17">
+				<num>м</num>
+				<heading> прибор за хроматографију на танком слоју;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod18">
+				<num>н</num>
+				<heading> прибор за хроматографију на стубу различитих димензија;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod19">
+				<num>њ</num>
+				<heading> уређај за дестилацију;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod20">
+				<num>о</num>
+				<heading> уређај за бидестилацију;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod21">
+				<num>п</num>
+				<heading> прибор за дестилацију под нормалним и сниженим притиском, са и без Виргерове колоне;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod22">
+				<num>р</num>
+				<heading> прибор за дестилацију воденом паром;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod23">
+				<num>с</num>
+				<heading> прецизну вагу, од 300 до 2.000 g;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod24">
+				<num>т</num>
+				<heading> полуаналитичку вагу до 2.000 g;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod25">
+				<num>ћ</num>
+				<heading> аналитичку вагу до ± 0.0001 g;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod26">
+				<num>у</num>
+				<heading> рефрактометре са могућношћу подешавања температуре;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod27">
+				<num>ф</num>
+				<heading> пикнометре различите запремине;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod28">
+				<num>х</num>
+				<heading> хомогенизатор и машину за млевење меса;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod29">
+				<num>ц</num>
+				<heading> млинове за житарице и комбиновани миксер;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod30">
+				<num>ч</num>
+				<heading> фрижидер;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod31">
+				<num>џ</num>
+				<heading> хладњак за дубоко хлађење;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod32">
+				<num>ш</num>
+				<heading> центрифугу, универзалну;</heading>
+				<content>
+					<clause id="podod32-clan2-stav1">
+						<content>
+							<p>ш1) центрифугу до 10.000 о/min;</p>
+						</content>
+					</clause>
+					<clause id="podod32-clan2-stav2">
+						<content>
+							<p>ш2) ротациони вакуум-упаривац (2 ком);</p>
+						</content>
+					</clause>
+					<clause id="podod32-clan2-stav3">
+						<content>
+							<p>ш3) термостат (40° ± 1 °С) – (2 ком);</p>
+						</content>
+					</clause>
+					<clause id="podod32-clan2-stav4">
+						<content>
+							<p>ш4) лабораторијски решо;</p>
+							<point id="podod32-clan2-stav4-tac3">
+								<num>3)</num>
+								<content>
+									<p> у погледу просторија морају имати:</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</subsection>
+			<subsection id="podod33">
+				<num>а</num>
+				<heading> просторију за пријем материјала, вођење и чување документације;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod34">
+				<num>б</num>
+				<heading> просторију за припрему узорака за анализу;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod35">
+				<num>в</num>
+				<heading> две просторије за анализу са дигестором и централном вентилацијом;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod36">
+				<num>г</num>
+				<heading> просторију за ваге;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod37">
+				<num>д</num>
+				<heading> две просторије за апарате;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod38">
+				<num>ђ</num>
+				<heading> просторију за чување компримованих гасова;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod39">
+				<num>е</num>
+				<heading> просторију за чување потрошног материјала са посебним ормаром за чување запаљивих течности;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod40">
+				<num>ж</num>
+				<heading> просторију за прање лабораторијског посуђа са дигестором или вентилацијом;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod41">
+				<num>з</num>
+				<heading> просторију за високи стручни кадар;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod42">
+				<num>и</num>
+				<heading> просторију за руководиоца лабораторије.</heading>
+				<content>
+					<article id="podod42-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="podod42-clan3-stav1">
+								<content>
+									<p>Организације које врше микробиолошку анализу здравствене исправности намирница и предмета опште употребе морају испуњавати следеће услове:</p>
+									<point id="podod42-clan3-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> у погледу стручних кадрова морају имати раднике са:</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</subsection>
+			<subsection id="podod43">
+				<num>а</num>
+				<heading> завршеним медицинским, природно-математичким (смер биологије) ветеринарским, технолошким или пољопривредним факултетом, од којих најмање један мора бити специјалиста за микробиологију са паразитологијом или специјалиста за микробиологију намирница;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod44">
+				<num>б</num>
+				<heading> завршеном вишом или средњом школом здравствене струке, лабораторијског или санитарног смера;</heading>
+				<content>
+					<point id="podod44-clan3-tac2">
+						<num>2)</num>
+						<content>
+							<p> у погледу опреме морају имати:</p>
+						</content>
+					</point>
+				</content>
+			</subsection>
+			<subsection id="podod45">
+				<num>а</num>
+				<heading> pH-метар,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod46">
+				<num>б</num>
+				<heading> термостат за температуру до 37 °С;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod47">
+				<num>в</num>
+				<heading> термостат за температуру до 44 °С;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod48">
+				<num>г</num>
+				<heading> водено купатило;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod49">
+				<num>д</num>
+				<heading> светлосни микроскоп;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod50">
+				<num>ђ</num>
+				<heading> мембран-филтер;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod51">
+				<num>е</num>
+				<heading> Сајцов филтер;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod52">
+				<num>ж</num>
+				<heading> хладњак за дубоко замрзавање;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod53">
+				<num>з</num>
+				<heading> два фрижидера са замрзивачем;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod54">
+				<num>и</num>
+				<heading> Kochov лонац,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod55">
+				<num>ј</num>
+				<heading> техничку вагу, до 1000 g;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod56">
+				<num>к</num>
+				<heading> аналитичку вагу до + 0,0001 g;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod57">
+				<num>л</num>
+				<heading> асептичку комору или UV лампу;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod58">
+				<num>љ</num>
+				<heading> апарат за дестилацију воде;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod59">
+				<num>м</num>
+				<heading> апарат за стварање анаеробних услова;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod60">
+				<num>н</num>
+				<heading> бројач колонија;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod61">
+				<num>њ</num>
+				<heading> центрифуге за велике брзине;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod62">
+				<num>о</num>
+				<heading> апарат за хомогенизацију намирница;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod63">
+				<num>п</num>
+				<heading> водено купатило;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod64">
+				<num>р</num>
+				<heading> уређај за мембран-филтрацију;</heading>
+				<content>
+					<point id="podod64-clan3-tac3">
+						<num>3)</num>
+						<content>
+							<p> у погледу просторија морају имати:</p>
+						</content>
+					</point>
+				</content>
+			</subsection>
+			<subsection id="podod65">
+				<num>а</num>
+				<heading> просторију за пријем материјала;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod66">
+				<num>б</num>
+				<heading> две просторије за примарну обраду и вршење основних микробиолошких анализа (посебна просторија за намирнице, а посебна просторија за предмете опште употребе);</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod67">
+				<num>в</num>
+				<heading> просторију за прање и стерилизацију прљавог прибора;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod68">
+				<num>г</num>
+				<heading> просторију за припрему микробиолошких подлога;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod69">
+				<num>д</num>
+				<heading> просторију за чување потрошног материјала;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod70">
+				<num>ђ</num>
+				<heading> просторију за бактериолошке анализе;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod71">
+				<num>е</num>
+				<heading> просторију за паразитолошке анализе;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod72">
+				<num>ж</num>
+				<heading> просторију за миколошке анализе;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod73">
+				<num>з</num>
+				<heading> просторију за рад са лабораторијским животињама;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod74">
+				<num>и</num>
+				<heading> просторију за високи стручни кадар;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod75">
+				<num>ј</num>
+				<heading> просторију за руководиоца лабораторије.</heading>
+				<content>
+					<article id="podod75-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="podod75-clan4-stav1">
+								<content>
+									<p>Организације које врше вирусолошку анализу намирница и воде за пиће морају испуњавати следеће услове:</p>
+									<point id="podod75-clan4-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> у погледу стручних кадрова морају имати:</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</subsection>
+			<subsection id="podod76">
+				<num>а</num>
+				<heading> најмање једног радника са завршеним медицинским или природно-математичким факултетом (смер биологије), са специјализацијом из микробиологије и искуством од три године у области вирусологије;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod77">
+				<num>б</num>
+				<heading> најмање једног радника са завршеном вишом или средњом школом здравствене струке, лабораторијског смера;</heading>
+				<content>
+					<point id="podod77-clan4-tac2">
+						<num>2)</num>
+						<content>
+							<p> у погледу опремљености морају имати:</p>
+						</content>
+					</point>
+				</content>
+			</subsection>
+			<subsection id="podod78">
+				<num>а</num>
+				<heading> ламинарну комору;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod79">
+				<num>б</num>
+				<heading> различите лабораторијске посуде од неутралног стакла (пипете, епрувете, боце по Rouxu, Demetrovu и Erlenmayeru, микроплоче итд);</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod80">
+				<num>в</num>
+				<heading> хранљиве плодлоге: слани пуферски раствори са серумом и без серума за култивисање ћелија;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod81">
+				<num>г</num>
+				<heading> миксер хомогенизатор са стакленим перилицама или песком;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod82">
+				<num>д</num>
+				<heading> мембранске филтере, ултрафилтере;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod83">
+				<num>ђ</num>
+				<heading> центрифуге, ултрацентрифуге;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod84">
+				<num>е</num>
+				<heading> замрзиваче температуре од –20 °С;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod85">
+				<num>ж</num>
+				<heading> криоскопе од –70 °С и –195 °С;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod86">
+				<num>з</num>
+				<heading> културе ткива (различите и по потреби);</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod87">
+				<num>и</num>
+				<heading> термостат за културу ткива;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod88">
+				<num>ј</num>
+				<heading> апаратуру за адсорпцију на мембрани – помоћу електролита, оксида гвожђа и префилтрације (само за лабораторије које врше вирусолошки преглед воде за пиће);</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod89">
+				<num>к</num>
+				<heading> апарате и прибор за имуноелектрофоретске, имуноензимске и имунофлуоресцентне методе;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod90">
+				<num>л</num>
+				<heading> електронски микроскоп;</heading>
+				<content>
+					<point id="podod90-clan4-tac3">
+						<num>3)</num>
+						<content>
+							<p> у погледу просторија морају имати:</p>
+						</content>
+					</point>
+				</content>
+			</subsection>
+			<subsection id="podod91">
+				<num>а</num>
+				<heading> просторију за пријем материјала;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod92">
+				<num>б</num>
+				<heading> просторију за прање и стерилизацију прљавог прибора;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod93">
+				<num>в</num>
+				<heading> две просторије за вршење вирусолошких анализа;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod94">
+				<num>г</num>
+				<heading> просторију за коначну идентификацију и детерминацију вируса;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod95">
+				<num>д</num>
+				<heading> просторију за рад са лабораторијским животињама.</heading>
+				<content>
+					<article id="podod95-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="podod95-clan5-stav1">
+								<content>
+									<p>Здравствене организације које врше основни физичко-хемијски преглед воде за пиће морају испуњавати следеће услове:</p>
+									<point id="podod95-clan5-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> у погледу стручних кадрова морају имати раднике са:</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</subsection>
+			<subsection id="podod96">
+				<num>а</num>
+				<heading> завршеним фармацеутским, технолошким или природно-математичким факултетом (одсек хемије или физичке хемије), од којих један мора бити специјалиста за санитарну хемију;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod97">
+				<num>б</num>
+				<heading> завршеном вишом или средњом хемијском, фармацеутском или медицинском школом, санитарног или лабораторијског смера;</heading>
+				<content>
+					<point id="podod97-clan5-tac2">
+						<num>2)</num>
+						<content>
+							<p> у погледу опреме морају имати:</p>
+						</content>
+					</point>
+				</content>
+			</subsection>
+			<subsection id="podod98">
+				<num>а</num>
+				<heading> спектрофотометар;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod99">
+				<num>б</num>
+				<heading> кондуктометар;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod100">
+				<num>в</num>
+				<heading> Hellige компаратор или сл.;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod101">
+				<num>г</num>
+				<heading> турбидиметар;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod102">
+				<num>д</num>
+				<heading> pH–метар;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod103">
+				<num>ђ</num>
+				<heading> водено купатило;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod104">
+				<num>е</num>
+				<heading> сушницу;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod105">
+				<num>ж</num>
+				<heading> аналитичку вагу до ± 0,0001 g;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod106">
+				<num>з</num>
+				<heading> термометар до –15 °С до –105 °С;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod107">
+				<num>и</num>
+				<heading> решо;</heading>
+				<content>
+					<point id="podod107-clan5-tac3">
+						<num>3)</num>
+						<content>
+							<p> у погледу просторија морају имати:</p>
+						</content>
+					</point>
+				</content>
+			</subsection>
+			<subsection id="podod108">
+				<num>а</num>
+				<heading> просторију за пријем материјала, вођење и чувањ документације;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod109">
+				<num>б</num>
+				<heading> просторију за вршење анализа;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod110">
+				<num>в</num>
+				<heading> просторију са дигестором и централном вентилацијом;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod111">
+				<num>г</num>
+				<heading> просторију за ваге;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod112">
+				<num>д</num>
+				<heading> просторију за приручни магацин,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod113">
+				<num>ђ</num>
+				<heading> просторију за прање лабораторијског посуђа са дигестором или вентилацијом.</heading>
+				<content>
+					<article id="podod113-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="podod113-clan6-stav1">
+								<content>
+									<p>Здравствене организације које врше периодичне физичко-хемијске прегледе воде за пиће и прегледе воде из нових захвата морају испуњавати следеће услове:</p>
+									<point id="podod113-clan6-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> у погледу стручних кадрова морају имати раднике са:</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</subsection>
+			<subsection id="podod114">
+				<num>а</num>
+				<heading> завршеним фармацеутским, технолошким или природно-математичким факултетом (одсек хемије или физичке хемије), од којих један мора бити специјалиста за санитарну хемију, а други специјалиста за санитарну (хемијску) токсикологију или специјалиста за снабдевање водом и дистрибуцију отпадних вода;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod115">
+				<num>б</num>
+				<heading> завршеном вишом, средњом хемијском, фармацеутском или медицинском школом, санитарног или лабораторијског смера;</heading>
+				<content>
+					<point id="podod115-clan6-tac2">
+						<num>2)</num>
+						<content>
+							<p> у погледу опреме морају, поред опреме из <ref>члана 5. </ref>под б) овог правилника, имати и:</p>
+						</content>
+					</point>
+				</content>
+			</subsection>
+			<subsection id="podod116">
+				<num>а</num>
+				<heading> гасно-техни хромограф или различитим детекторским системима;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod117">
+				<num>б</num>
+				<heading> течно-течни хроматограф са различитим детекторским системима;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod118">
+				<num>в</num>
+				<heading> атомски апсорпциони спектрометар са додацима за рад са:</heading>
+				<content>
+					<alinea id="podod118-clan6-ali1">
+						<content>
+							<p>ламеном техником;</p>
+						</content>
+					</alinea>
+					<alinea id="podod118-clan6-ali2">
+						<content>
+							<p>ехником графитне пећи,</p>
+						</content>
+					</alinea>
+					<alinea id="podod118-clan6-ali3">
+						<content>
+							<p>ехником хладне паре;</p>
+						</content>
+					</alinea>
+					<alinea id="podod118-clan6-ali4">
+						<content>
+							<p>идридном техником;</p>
+						</content>
+					</alinea>
+				</content>
+			</subsection>
+			<subsection id="podod119">
+				<num>г</num>
+				<heading> гасно-масени хроматограф;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod120">
+				<num>д</num>
+				<heading> поларограф којим је могуће извести диференцијално пулсно мерење;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod121">
+				<num>ђ</num>
+				<heading> инфрацрвени спектрофотометар;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod122">
+				<num>е</num>
+				<heading> јон селективне електроде;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod123">
+				<num>ж</num>
+				<heading> електронски микроскоп;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod124">
+				<num>з</num>
+				<heading> апарат за аерацију по Wicklboldu;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod125">
+				<num>и</num>
+				<heading> спектрофлуориметар;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod126">
+				<num>ј</num>
+				<heading> анализатор за укупни угљеник;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod127">
+				<num>к</num>
+				<heading> прибор за хроматографију на хартију;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod128">
+				<num>л</num>
+				<heading> прибор за хроматографију на наком слоју;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod129">
+				<num>љ</num>
+				<heading> прибор за хроматографију на стубу различитих димензија;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod130">
+				<num>м</num>
+				<heading> уређај за дестилацију;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod131">
+				<num>н</num>
+				<heading> уређај за бидестилацију;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod132">
+				<num>њ</num>
+				<heading> прибор за дестилацију воденом паром;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod133">
+				<num>о</num>
+				<heading> прецизну вагу од 300 до 2000 g;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod134">
+				<num>п</num>
+				<heading> полуаналитичку вагу до 2000 g;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod135">
+				<num>р</num>
+				<heading> аналитичку вагу до ± 0,0001 g;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod136">
+				<num>с</num>
+				<heading> термостат чија се температура подешава према потреби (2 ком);</heading>
+				<content>
+					<point id="podod136-clan6-tac3">
+						<num>3)</num>
+						<content>
+							<p> у погледу просторија морају имати:</p>
+						</content>
+					</point>
+				</content>
+			</subsection>
+			<subsection id="podod137">
+				<num>а</num>
+				<heading> просторију за пријем материјала, вођење и чување документације,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod138">
+				<num>б</num>
+				<heading> просторију за вршење анализе;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod139">
+				<num>в</num>
+				<heading> просторију са дигестором и централном вентилацијом;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod140">
+				<num>г</num>
+				<heading> просторију за ваге;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod141">
+				<num>д</num>
+				<heading> две просторије за апарате;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod142">
+				<num>ђ</num>
+				<heading> просторију за чување компримованих гасова;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod143">
+				<num>е</num>
+				<heading> просторију за чување потрошног материјала са посебним ормаром за чување запаљивих течности;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod144">
+				<num>ж</num>
+				<heading> просторију за прање лабораторијског посуђа са дигестором или вентилацијом;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod145">
+				<num>з</num>
+				<heading> просторију за руководиоца лабораторије.</heading>
+				<content>
+					<article id="podod145-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="podod145-clan7-stav1">
+								<content>
+									<p>Здравствене организације које врше основни микробиолошки преглед воде за пиће морају испуњавати следеће услове:</p>
+									<point id="podod145-clan7-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> у погледу стручних кадрова морају имати:</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</subsection>
+			<subsection id="podod146">
+				<num>а</num>
+				<heading> раднике са завршеним медицинским фаултетом и специјализацијом из микробиологије са паразитологијом;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod147">
+				<num>б</num>
+				<heading> раднике са завршеном вишом или средњом спремом, лабораторијског или санитарног смера;</heading>
+				<content>
+					<point id="podod147-clan7-tac2">
+						<num>2)</num>
+						<content>
+							<p> у погледу опреме морају имати:</p>
+						</content>
+					</point>
+				</content>
+			</subsection>
+			<subsection id="podod148">
+				<num>а</num>
+				<heading> термостат за температуру до 37 °С;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod149">
+				<num>б</num>
+				<heading> термостат за температуру до 44 °С:</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod150">
+				<num>в</num>
+				<heading> водено купатило;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod151">
+				<num>г</num>
+				<heading> светлосни микроскоп;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod152">
+				<num>д</num>
+				<heading> мембран филтер;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod153">
+				<num>ђ</num>
+				<heading> фрижидер;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod154">
+				<num>е</num>
+				<heading> Kohov лонац;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod155">
+				<num>ж</num>
+				<heading> асептичку комору или UV-лампу;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod156">
+				<num>з</num>
+				<heading> апарат за дестилацију воде;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod157">
+				<num>и</num>
+				<heading> апарат за стварање анаеробних услова;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod158">
+				<num>ј</num>
+				<heading> бројач колонија;</heading>
+				<content>
+					<point id="podod158-clan7-tac3">
+						<num>3)</num>
+						<content>
+							<p> у погледу просторија морају имати:</p>
+						</content>
+					</point>
+				</content>
+			</subsection>
+			<subsection id="podod159">
+				<num>а</num>
+				<heading> просторију за пријем материјала;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod160">
+				<num>б</num>
+				<heading> просторију за вршење микробиолошких анализа;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod161">
+				<num>в</num>
+				<heading> просторију за прање и стерлизацију прљавог прибора;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod162">
+				<num>г</num>
+				<heading> просторију за припрему микробиолошких подлога;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod163">
+				<num>д</num>
+				<heading> просторију за чување потрошног материјала;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod164">
+				<num>ђ</num>
+				<heading> просторију за високообразовни кадар.</heading>
+				<content>
+					<article id="podod164-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="podod164-clan8-stav1">
+								<content>
+									<p>Здравствене организације за испитивање биолошке исправности воде за пиће морају испуњавати следеће услове:</p>
+									<point id="podod164-clan8-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> у погледу стручних кадрова морају имати:</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</subsection>
+			<subsection id="podod165">
+				<num>а</num>
+				<heading> раднике са завршеним природно-математичким факултетом (одсек биологије), од којих најмање један има научно звање из области биологије микроорганизама или екологије-хидробиологије;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod166">
+				<num>б</num>
+				<heading> раднике са завршеном вишом или средњом школом здравствене струке, лабораторијског смера;</heading>
+				<content>
+					<point id="podod166-clan8-tac2">
+						<num>2)</num>
+						<content>
+							<p> у погледу опреме морају имати:</p>
+						</content>
+					</point>
+				</content>
+			</subsection>
+			<subsection id="podod167">
+				<num>а</num>
+				<heading> pH-метар;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod168">
+				<num>б</num>
+				<heading> уређај за дестилацију;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod169">
+				<num>в</num>
+				<heading> уређај за бидестилацију воде;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod170">
+				<num>г</num>
+				<heading> техничку вагу;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod171">
+				<num>д</num>
+				<heading> аналитичку вагу;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod172">
+				<num>ђ</num>
+				<heading> термостате од 25 до 60 °С;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod173">
+				<num>е</num>
+				<heading> водедно купатило са тресилицом;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod174">
+				<num>ж</num>
+				<heading> мембран-филтер са одговарајућом вакуум-пумпом;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod175">
+				<num>з</num>
+				<heading> Сајцов филтер;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod176">
+				<num>и</num>
+				<heading> бројач колонија;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod177">
+				<num>ј</num>
+				<heading> центрифугу до 10.000 о/min;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod178">
+				<num>к</num>
+				<heading> суви стерилизатор;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod179">
+				<num>л</num>
+				<heading> миксер или хомогенизатор са стакленим перлицама или песком;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod180">
+				<num>љ</num>
+				<heading> специјалне боце за разблаживање, пипете и Бунзенов пламеник;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod181">
+				<num>м</num>
+				<heading> аутоклав;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod182">
+				<num>н</num>
+				<heading> фрижидер и хладњак за дубинско смрзавање или термостатну хладњачу на ±4 °С;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod183">
+				<num>њ</num>
+				<heading> UV-лампу;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod184">
+				<num>о</num>
+				<heading> ламинарну комору,</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod185">
+				<num>п</num>
+				<heading> микроскоп;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod186">
+				<num>р</num>
+				<heading> бинокуларну лупу;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod187">
+				<num>с</num>
+				<heading> планктонске мреже;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod188">
+				<num>т</num>
+				<heading> специјалне боце за дубинско узимање воде;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod189">
+				<num>ђ</num>
+				<heading> специјалне подлоге (селективне, диференцијалне) за обогаћивање култура и квалитативно одређивање микроорганизама;</heading>
+				<content>
+					<point id="podod189-clan8-tac3">
+						<num>3)</num>
+						<content>
+							<p> у погледу просторија морају имати;</p>
+						</content>
+					</point>
+				</content>
+			</subsection>
+			<subsection id="podod190">
+				<num>а</num>
+				<heading> просторију за пријем материјала;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod191">
+				<num>б</num>
+				<heading> просторију за примарну обраду и вршење анализа;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod192">
+				<num>в</num>
+				<heading> просторију за прање и стерилизацију;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod193">
+				<num>г</num>
+				<heading> просторију за припрему подлога;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod194">
+				<num>д</num>
+				<heading> просторију за чување документације;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod195">
+				<num>ђ</num>
+				<heading> просторију за мерне инструменте и микроскопе;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod196">
+				<num>е</num>
+				<heading> просторију за приручни магацин.</heading>
+				<content>
+					<article id="podod196-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="podod196-clan9-stav1">
+								<content>
+									<p>Организације које врше суперанализу намирница и предмета опште употребе морају испуњавати следеће услове:</p>
+									<point id="podod196-clan9-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> у погледу стручних кадрова морају имати:</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</subsection>
+			<subsection id="podod197">
+				<num>а</num>
+				<heading> најмање једног радника са високом стручном спремом и одговарајућом специјализацијом, зависно од врсте испитивања, који има и научно звање или искуство од пет година на пословима анализе, односно суперанализе намирница и предмета опште употребе;</heading>
+				<content/>
+			</subsection>
+			<subsection id="podod198">
+				<num>б</num>
+				<heading> најмање једног радника са вишом или средњом стручном спремом и искуством од три године на пословима анализе, односно суперанализе намирница и предмета опште употребе.</heading>
+				<content>
+					<clause id="podod198-clan9-stav1">
+						<content>
+							<p>Организације из става 1. овог члана морају у погледу опреме и просторија испуњавати услове предвиђене овим правилником за организације које врше анализе здравствене исправности намирница и предмете опште употребе.</p>
+						</content>
+					</clause>
+					<article id="podod198-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="podod198-clan10-stav1">
+								<content>
+									<p>Лабораторије које врше суперанализе појединих врста намирница и/или предмета опште употребе морају бити оспособљене да анализом утврде поједине* параметре здравствене исправности одређене прописима о здравственој исправности за ту врсту намирница и/или предмета опште употребе.</p>
+								</content>
+							</clause>
+							<article id="podod198-clan10.а">
+								<num>10а</num>
+								<heading>*<ref id="ref4" href="/rs/act/2001/7/srp@">Службени лист СРЈ, број  7/2001</ref></heading>
+								<content>
+									<clause id="podod198-clan10.а-stav1">
+										<content>
+											<p>Извештаје о резултатима испитивања појединих параметара здравствене исправности животних намирница и предмета опште употребе потписују стручно лице у организацији које обавља ту врсту испитивања.*</p>
+										</content>
+									</clause>
+									<clause id="podod198-clan10.а-stav2">
+										<content>
+											<p>Стручно мишљење о здравственој исправности намирница и предмета опште употребе на основу извештаја из става 1. овог члана, потписује одговорно лице у тој организацији.*</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</article>
+					<article id="podod198-clan11">
+						<num>11.</num>
+						<heading>*<ref id="ref5" href="/rs/act/2002/60/srp@">Службени лист СРЈ, број  60/2002</ref></heading>
+						<content>
+							<clause id="podod198-clan11-stav1">
+								<content>
+									<p>Уз захтев за утврђивање испуњења услова за вршење анализе, односно суперанализе намирница и предмета опште употребе прилаже се:</p>
+									<point id="podod198-clan11-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> списак радника са врстом и степеном стручне спреме, односно научним звањем;</p>
+										</content>
+									</point>
+									<point id="podod198-clan11-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> списак опреме за евиденционим бројем;</p>
+										</content>
+									</point>
+									<point id="podod198-clan11-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> број и намена просторија;</p>
+										</content>
+									</point>
+									<point id="podod198-clan11-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> списак метода које се примењују за одговарајућа испитивања;</p>
+										</content>
+									</point>
+									<point id="podod198-clan11-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> списак врсте намирница и/или предмета опште употребе, као и параметара здравствене исправности чије анализе, односно суперанализе могу да врше.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod198-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="podod198-clan12-stav1">
+								<content>
+									<p>Утврђивање испуњења услова за вршење анализа, односно суперанализа намирница и предмета опште употребе врши се комисијски.</p>
+								</content>
+							</clause>
+							<clause id="podod198-clan12-stav2">
+								<content>
+									<p>Захтев са прилозима из <ref>члана 13. овог</ref> правилника подноси се у пет примерака.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod198-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="podod198-clan13-stav1">
+								<content>
+									<p>Провера испуњења услова за вршење анализа, односно суперанализа намирница и предмета опште употребе врши се најдоцније по истеку три године од доношења решења.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="podod198-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="podod198-clan14-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном листу СРЈ”.</p>
+								</content>
+							</clause>
+							<clause id="podod198-clan14-stav2">
+								<content>
+									<p>Бр. 4/1-02-007/92-001</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</subsection>
+			<section id="od9">
+				<num>9.</num>
+				<heading> априла 1992. године</heading>
+				<content>
+					<clause id="od9-clan14-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od9-clan14-stav2">
+						<content>
+							<p>Савезни секретар за рад,</p>
+						</content>
+					</clause>
+					<clause id="od9-clan14-stav3">
+						<content>
+							<p>здравство, борачка питања и</p>
+						</content>
+					</clause>
+					<clause id="od9-clan14-stav4">
+						<content>
+							<p>социјалну политику</p>
+						</content>
+					</clause>
+					<clause id="od9-clan14-stav5">
+						<content>
+							<p>Радиша Гачић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,1965 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2013/50-48/main"/>
+					<FRBRuri value="/rs/act/2013/50-48"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2013/50-48/srp@/main"/>
+					<FRBRuri value="/rs/act/2013/50-48/srp@"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2013/50-48/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2013/50-48/srp@.akn"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2013-6-7" name="службени гласник рс" number="50" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="16. Хидрометеоролошки послови" value="16. хидрометеоролошки послови"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2013-05-29" id="usvajanje"/>
+				<step date="2013-06-15" id="stupanje_na_snagu"/>
+				<step date="2013-06-15" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 20. став 6. </ref>Закона о метеоролошкој и хидролошкој делатности („<ref id="ref3" href="/rs/act/10/88/srp@">Службени гласник РС”, број 88/10</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Директор Републичког хидрометеоролошког завода доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о начину и периодичности провере техничке исправности инструмената и опреме из државног метеоролошког и хидролошког осматрачког система</title>
+			<date>&quot;Службени гласник РС&quot;, број 50 од 7. јуна 2013.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОСНОВНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником прописују се нaчин провере техничке исправности инструмената и опреме (у даљем тексту: мерила) и периодичност провере техничке исправности мерила из државног метеоролошког и хидролошког осматрачког система.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Мерила која се користе у државном метеоролошком и хидролошком осматрачком систему морају бити проверена, испитана и еталонирана у лабораторијама акредитованим за еталонирање по стандарду SRPS ISO/IEC 17025:2006, у складу са роковима одређеним овим правилником.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>НАЧИН ПРОВЕРЕ ТЕХНИЧКЕ ИСПРАВНОСТИ МЕРИЛА ИЗ ДРЖАВНОГ МЕТЕОРОЛОШКОГ ОСМАТРАЧКОГ СИСТЕМА</heading>
+				<content>
+					<article id="gla2-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla2-clan3-stav1">
+								<content>
+									<p>Провера техничке исправности мерила из државног метеоролошког осматрачког система врши се по писаном захтеву имаоца мерила, који садржи:</p>
+									<point id="gla2-clan3-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> пословно име и седиште подносиоца захтева садржано у Регистру државних мрежа метеоролошких и хидролошких станица и допунских мрежа метеоролошких и хидролошких станица (у даљем тексту: Регистар);</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> пословно име, тип и ознаку произвођача мерила садржано у Регистру;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> назив мерила;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> податке о типу мерила;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> основне метролошке карактеристике мерила (мерни опсег, класа тачности, референтни услови употребе мерила и др.);</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> техничку документацију о мерилу;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> укупан број мерила;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> име и потпис подносиоца захтева, односно одговорног лица и печат.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla2-clan4-stav1">
+								<content>
+									<p>Провера техничке исправности мерила обухвата:</p>
+									<point id="gla2-clan4-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> визуелни преглед и проверу функционалности мерила;</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> испитивање и проверу метролошких и радних својстава, односно усаглашености мерила са прописаним захтевима за та мерила у тренутку прегледа (еталонирање);</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> вођење записника.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla2-clan5-stav1">
+								<content>
+									<p>Идентификација мерила, провера натписа и ознака на мерилу, провера целовитости, неоштећености и општег стања и функционисања мерила и показивача и приказивача на мерилу врши се визуелним прегледом и провером функционалности мерила.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla2-clan6-stav1">
+								<content>
+									<p>Испитивање и еталонирање мерила из <ref>члана 4. овог</ref> правилника обухвата процес очитавања и поређења очитаних вредности контролисаног мерила са очитаним вредностима мерила исте или више класе тачности (еталон), који има следљивост до националних или међународних еталона за дату област.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla2-clan7-stav1">
+								<content>
+									<p>Записник из <ref>члана 4. тачка 3</ref>) овог правилника по правилу садржи:</p>
+									<point id="gla2-clan7-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> број и датум подношења захтева за проверу мерила;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> податке о подносиоцу захтева за проверу мерила, односно власнику или кориснику мерила садржане у Регистру;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> податке о мерилу који нису у Регистру (назив мерила, име произвођача, серијски број, тип мерила и основне метролошке карактеристике);</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> резултате провере мерила;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> усклађеност са прописаним метролошким захтевима;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> услове у којима је обављен преглед, односно испитивање;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> место и датум прегледа, односно испитивања;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> име и потпис лица које је извршило преглед, односно испитивање мерила.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>Ако се приликом провере техничке исправности мерила утврди да мерило испуњава прописане метролошке захтеве издаће се одговарајуће уверење у складу са стандардом SRPS ISO/IEC 17025:2006.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>Проверу техничке исправности мерила из државног метеоролошког осматрачког система врши Републички хидрометеоролошки завод, у задатим (лабораторијским) или природним условима по процедурама и упутствима система квалитета акредитоване лабораторије за еталонирање по стандарду SRPS ISO/IEC 17025:2006 и у складу са Техничким регулаторним документима Светске метеоролошке организације.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>НАЧИН ПРОВЕРЕ ТЕХНИЧКЕ ИСПРАВНОСТИ МЕРИЛА ИЗ ДРЖАВНОГ ХИДРОЛОШКОГ ОСМАТРАЧКОГ СИСТЕМА</heading>
+				<content>
+					<article id="gla3-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla3-clan10-stav1">
+								<content>
+									<p>Провера техничке исправности мерила из државног хидролошког осматрачког система врши се на начин утврђен међународним стандардима ISO 2537:2007, ISO 3455:2007, ISO/TS 15768:2000 и ENV 14028:2001.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan10-stav2">
+								<content>
+									<p>Начин провере геодетске опреме (нивелира и теодолита који се користе за нивелирање, односно мерење нивоа речног тока), дефинисан је посебним прописом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ПЕРИОДИЧНОСТ ПРОВЕРЕ ТЕХНИЧКЕ ИСПРАВНОСТИ МЕРИЛА</heading>
+				<content>
+					<article id="gla4-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla4-clan11-stav1">
+								<content>
+									<p>Периодичност провере техничке исправности мерила из државнoг метеоролошког осматрачког система утврђује се по врстама мерила, и то:</p>
+								</content>
+							</clause>
+							<став id="gla4-clan11-stav2">
+								<table class="tabela-sa-borderom">
+									
+		
+									<tbody>
+										
+			
+										<tr>
+											
+				
+											<td align="center" valign="top" width="10%">
+												
+				
+												<p>Редни број</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="40%">
+												
+				
+												<p>Назив мерила</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>Период испитивања (година)</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="30%">
+												
+				
+												<p>Опсег мерења</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Температура ваздуха и тла:</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>степен Целзијуса (ºC)</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>1.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Метеоролошки термометри</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>2</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>-35 ºC – 50 ºC</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>2.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Термометри за мерење температуре тла</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>2</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>-25 ºC – 60 ºC</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>3.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Термографи</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>1</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>-35 ºC – 50 ºC</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>4.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Отпорни термометри</p>
+												
+				
+												<p>– на бази метала</p>
+												
+				
+												<p>– на бази полупроводника</p>
+												
+				
+												<p>– показне направе за отпорне термометре</p>
+												
+				
+												<p>– на бази племенитих метала</p>
+												
+				
+												<p>– на бази неплеменитих метала</p>
+												
+				
+												<p>– показне направе за термопарове</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>2</p>
+												
+				
+												<p>2</p>
+												
+				
+												<p>2</p>
+												
+				
+												<p>2</p>
+												
+				
+												<p>1</p>
+												
+				
+												<p>1</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>-35 ºC – 50 ºC</p>
+												
+				
+												<p>-35 ºC – 50 ºC</p>
+												
+				
+												<p>-35 ºC – 50 ºC</p>
+												
+				
+												<p>-35 ºC – 50 ºC</p>
+												
+				
+												<p>-35 ºC – 50 ºC</p>
+												
+				
+												<p>-35 ºC – 50 ºC</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>5.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Стаклени термометри пуњени течношћу</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>2</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>-35 ºC – 50 ºC</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>6.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Термометри за мерење температуре воде</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>2</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>-10 ºC – 60 ºC</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Атмосферски притисак:</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>хектопаскал (hPa)</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>7.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Барометри пуњени живом</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>2</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>800 hPa – 1100 hPa</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>8.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Анероид – барометри</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>1</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>800 hPa – 1100 hPa</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>9.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Барографи и микробарографи</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>1</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>800 hPa – 1100 hPa</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>10.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Електрични барометри са показивачем</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>1</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>800 hPa – 1100 hPa</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>11.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Сензори атмосферског притиска</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>1</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>800 hPa – 1100 hPa</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Релативна влажност ваздуха:</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>проценат (%)</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>12.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Хигрометри и хигрографи</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>1</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>10 % – 98 %</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>13.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Сензори на бази полимера</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>1</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>10 % – 98 %</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>14.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Психрометри</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>2</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>10 % – 98 %</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>15.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Хигроклипови</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>1</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>10 % – 98 %</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Правац и брзина ваздушних струјања:</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>метар у секунди (m/s)</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>16.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Анемометри и анемографи</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>2</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>0 m/s – 40 m/s</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>17.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Сонични сензори правца и брзине</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>1</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>0 m/s – 40 m/s</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Компоненте сунчевог зрачења:</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>ват по квадратном метру (W/m²)</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>18.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Пирхелиометри</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>1</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>0 W/m² – 2000 W/m²</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>19.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Пиранометри</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>1</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>0 W/m² – 2000 W/m²</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>20.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Билансметри</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>1</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>0 W/m² – 2000 W/m²</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Трајање сијања сунца:</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>час (h)</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>21.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Хелиографи</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>5</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>0 h – 24 h</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>22.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Сензори за дужину трајања сијања сунца</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>1</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>0 h – 24 h</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Атмосферске падавине:</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>милиметар (mm)</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>23.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Кишомери</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>2</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>0 mm – 10 mm</p>
+												
+				
+												<p>(мензуре)</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>24.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Плувиографи</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>1</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>0 mm – 10 mm</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>25.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Омбрографи</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>1</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>0 mm – 10 mm</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>26.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Сензор количине падавина за аутоматске метеоролошке станице 
+				</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>5</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>0 mm – 0,2 mm</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>центиметар (cm)</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>27.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Снегомерни лењири</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>1</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>0 cm – 120 cm</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Трансмитивност атмосфере:</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>метар (m)</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>28.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Трансмисиометар</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>1</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>10 m – 10000 m</p>
+											</td>
+											
+			
+										</tr>
+										
+		
+									</tbody>
+									
+	
+								</table>
+								
+	
+								<content/>
+							</став>
+						</content>
+					</article>
+					<article id="gla4-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla4-clan12-stav1">
+								<content>
+									<p>Периодичност провере техничке исправности мерила из државног хидролошког осматрачког система утврђују се по врстама мерила, и то:</p>
+								</content>
+							</clause>
+							<став id="gla4-clan12-stav2">
+								<table class="tabela-sa-borderom">
+									
+		
+									<tbody>
+										
+			
+										<tr>
+											
+				
+											<td align="center" valign="top" width="10%">
+												
+				
+												<p>Редни број</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="40%">
+												
+				
+												<p>Назив мерила</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>Период испитивања (година)</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="30%">
+												
+				
+												<p>Опсег мерења</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Проток:</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>метар у секунди (m/s)</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>1.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Хидрометријско крило са обртним елементом – мини</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>2</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>0 m/s – 3 m/s</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>2.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Хидрометријско крило са обртним елементом – велико</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>2</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>0 m/s – 10 m/s</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>3.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Електромагнетно крило</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>2</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>0 m/s – 2,5 m/s</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Температура воде:</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p/>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>степен Целзијуса (ºC)</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td valign="top" width="10%">
+												
+				
+												<p>4.</p>
+											</td>
+											
+				
+											<td valign="top" width="40%">
+												
+				
+												<p>Термометри за мерење температуре воде</p>
+											</td>
+											
+				
+											<td align="center" valign="top" width="20%">
+												
+				
+												<p>2</p>
+											</td>
+											
+				
+											<td valign="top" width="30%">
+												
+				
+												<p>0 ºC – 40 ºC</p>
+											</td>
+											
+			
+										</tr>
+										
+		
+									</tbody>
+									
+	
+								</table>
+								
+	
+								<content/>
+							</став>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>ЗАВРШНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla5-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla5-clan13-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan13-stav2">
+								<content>
+									<p>Број 92-II-47</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan13-stav3">
+								<content>
+									<p>У Београду, 29. маја 2013. године</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan13-stav4">
+								<content>
+									<p>Директор,</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan13-stav5">
+								<content>
+									<p>Владан Коцић,   с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

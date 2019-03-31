@@ -1,0 +1,708 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2012/121-49/main"/>
+					<FRBRuri value="/rs/act/2012/121-49"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2012/121-49/srp@/main"/>
+					<FRBRuri value="/rs/act/2012/121-49/srp@"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2012/121-49/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2012/121-49/srp@.akn"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2012-12-24" name="службени гласник рс" number="121" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="3. Семе и садни материјал" value="3. семе и садни материјал"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2012-12-12" id="usvajanje"/>
+				<step date="2013-01-01" id="stupanje_na_snagu"/>
+				<step date="2013-01-01" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 5. став 2. </ref>Закона о признавању сорти пољопривредног биља („<ref id="ref5" href="/rs/act/10/30/srp@">Службени гласник РС”, број 30/10</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, шумарства и водопривреде, доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о методама испитивања сорте пшенице, ради признавања сорте</title>
+			<date>&quot;Службени гласник РС&quot;, број 121 од 24.      децембра 2012.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се методе испитивања сорте пшенице (у даљем тексту: сорта), и то: обичне, меке пшенице (Triticum aestivum L.emend. Fiori et Paol); тврде пшенице (Triticum durum Desf.); компактум пшенице (Triticum aestivum L. subsp. compactum) и спелте (Triticum spelta), на огледном пољу и у лабораторији, ради признавања сорте.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Методама из става 1. овог члана испитују се одређене битне особине сорте, ради утврђивања:</p>
+							<point id="clan1-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> различитости, униформности и стабилности сорте (DUS тест);</p>
+								</content>
+							</point>
+							<point id="clan1-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> боље производне и употребне вредност сорте (VCU тест).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Производна и употребна вредност сорте утврђује се на основу резултата испитивања одређених битних особина сорте које се односе на:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> принос зрна;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> квалитет зрна;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> садржај влаге у зрну у моменту жетве;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> отпорност на полегање;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> отпорност или толерантност на болести.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Сорта се испитује тако што се битне особине из става 1. овог члана сорте која се испитује упоређују са битним особинама једне или више сорти стандард, у складу са законом којим се уређује признавање сорти пољопривредног биља.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Сорта се испитује у више одвојених огледа на огледном пољу. Оглед чине елементарне парцеле на којима се врши испитивање.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Огледи из става 1. овог члана се изводе по плану „потпуно случајног блок система” у четири понављања, а рандомизација, односно план огледа је исти за све локалитете.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Сорта се испитује на најмање пет локалитета који чине мрежу огледа.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Сорта се испитује на огледном пољу у складу са захтевом за признавање сорте у коме власник сорте, односно његов овлашћени заступник предлаже да се сорта, ради испитивања разврста у одговарајући оглед према намени (обична, тврда, спелта и компактум) и раностасности (рана или касна).</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Сорта разврстана на начин из става 1. овог члана, ради испитивања сеје се са сортом стандард у одређени оглед.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>За испитивање на огледном пољу доставља се семе сорте које је испитано на квалитет, здравствено исправно и третитано фунгицидима или инсектицидима.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Предусев на целој површини огледног поља на коме се врши испитивање сорте не могу бити стрна жита.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Сорта се испитује на земљишту које је пре сетве испитано на присутност земљишних штеточина, а по потреби, изводи се и предсетвено третирање инсектицидима.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>Количине минералних ђубрива, време и начин њихове примене, као и остале агротехничке мере примењују се приликом испитивања сорте на огледном пољу тако да буду у складу са највишим нивоом технологије гајења пшенице.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Сорта која се испитује сеје се сејачицом на површини од 5 m2, на коначан склоп у 10 редова дужине 4 m, са размаком између редова 12,5 cm, размаком између парцела 30 cm и размаком између блокова 1 m.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>На почетку и на крају сваког огледа сеје се рана сорта у ширини 1–3 m која служи као заштитни појас, као и за узимање узорака за испитивање влаге у зрну на основу чега се одлучује о правовременој жетви усева.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>У току вегетације сорте која се испитује, прати се:</p>
+							<point id="clan7-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> датум сетве и датум ницања (када је 50% биљака никло);</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> број никлих биљака на 1m², у првом понављању;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> проценат презимелих биљака, у првом понављању;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> проценат презимелих биљака у хладним коморама;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> датум класања (када је 50% биљака класало);</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> висина биљака од основе до врха класа (просек мерења из свих понављања);</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> полегање биљака;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> датум жетве.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Отпорност сорте на полегање утврђује се тако што се прати полегање биљака до класања и у млечној зрелости зрна и приказује одговарајућом оценом:</p>
+							<point id="clan7-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> оцена 1 – значи да нема полеглих биљака;</p>
+								</content>
+							</point>
+							<point id="clan7-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> оцена 3 – значи да има до 25% полеглих биљака;</p>
+								</content>
+							</point>
+							<point id="clan7-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> оцена 5 – значи да има од 25% до 50% полеглих биљака;</p>
+								</content>
+							</point>
+							<point id="clan7-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> оцена 7 – значи да има од 50% до 75% полеглих биљака;</p>
+								</content>
+							</point>
+							<point id="clan7-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> оцена 9 – значи да има од 75% до 100% полеглих биљака.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>У току вегетације сорте, на једном локалитету, испитује се:</p>
+							<point id="clan8-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> проценат презимелих биљака у хладним коморама;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> у посебном огледу, у условима вештачке инфекције, отпорност или толерантност на болести пепелницу (Erisiphe graminis tritici) и лисну рђу (Puccinia recondita tritici).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Жетва свих сорти из једног огледа обавља се комбајном, у истом дану, у фази технолошке зрелости зрна сорте у заштитном појасу.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>За сваку сорту која се испитује, на свим елементарним парцелама, приликом жетве утврђује се принос зрна изражен у kg по парцели и садржај влаге у зрну.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>У лабораторији се испитује квалитет зрна сваке сорте, и то:</p>
+							<point id="clan10-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> код обичне, меке пшенице испитују се:</p>
+									<item id="clan10-stav1-tac1-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> физичке особине зрна:</p>
+											<alinea id="clan10-stav1-tac1-podtac1-ali1">
+												<content>
+													<p>ектолитарска маса очишћене пшенице (kg/hl),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac1-podtac1-ali2">
+												<content>
+													<p>аса 1000 зрна (g на суву материју),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac1-podtac1-ali3">
+												<content>
+													<p>таклавост (%),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac1-podtac1-ali4">
+												<content>
+													<p>рупноћа зрна (2,8; 2,5; 2,2 и 2 mm);</p>
+												</content>
+											</alinea>
+										</content>
+									</item>
+									<item id="clan10-stav1-tac1-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> хемијско-технолошке особине зрна и брашна:</p>
+											<alinea id="clan10-stav1-tac1-podtac2-ali1">
+												<content>
+													<p>ирови протеини (% на суву материју),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac1-podtac2-ali2">
+												<content>
+													<p>едиментациона вредност,</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac1-podtac2-ali3">
+												<content>
+													<p>купно избрашњавање (%),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac1-podtac2-ali4">
+												<content>
+													<p>адржај влажног лепка (%),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac1-podtac2-ali5">
+												<content>
+													<p>адржај сувог лепка (%),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac1-podtac2-ali6">
+												<content>
+													<p>рој падања по Хагбергу (sec.);</p>
+												</content>
+											</alinea>
+										</content>
+									</item>
+									<item id="clan10-stav1-tac1-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> фаринограм:</p>
+											<alinea id="clan10-stav1-tac1-podtac3-ali1">
+												<content>
+													<p>оћ упијања воде (% на 13% влаге брашна),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac1-podtac3-ali2">
+												<content>
+													<p>реме развоја теста (min.),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac1-podtac3-ali3">
+												<content>
+													<p>табилитет (min.),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac1-podtac3-ali4">
+												<content>
+													<p>тепен омекшања теста (FJ),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac1-podtac3-ali5">
+												<content>
+													<p>аринограмски квалитетни број и квалитна група,</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac1-podtac3-ali6">
+												<content>
+													<p>ехнолошка група;</p>
+												</content>
+											</alinea>
+										</content>
+									</item>
+									<item id="clan10-stav1-tac1-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> екстензограм:</p>
+											<alinea id="clan10-stav1-tac1-podtac4-ali1">
+												<content>
+													<p>нергија у 135 min. (cm2),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac1-podtac4-ali2">
+												<content>
+													<p>тпор растезања (EJ),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac1-podtac4-ali3">
+												<content>
+													<p>астегљивост (mm),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac1-podtac4-ali4">
+												<content>
+													<p>днос отпора растезања/растегљивост (O/R);</p>
+												</content>
+											</alinea>
+										</content>
+									</item>
+									<item id="clan10-stav1-tac1-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> резултати пробног печења хлеба:</p>
+											<alinea id="clan10-stav1-tac1-podtac5-ali1">
+												<content>
+													<p>ринос хлеба (g/100 g брашна),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac1-podtac5-ali2">
+												<content>
+													<p>апремина хлеба (ml/100 g брашна),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac1-podtac5-ali3">
+												<content>
+													<p>редносни број средине хлеба (ВБС),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac1-podtac5-ali4">
+												<content>
+													<p>собине средине хлеба (еластичност, равномерност пора, структура зидова пора);</p>
+												</content>
+											</alinea>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> код тврде пшенице испитују се:</p>
+									<item id="clan10-stav1-tac2-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> физичке особине зрна:</p>
+											<alinea id="clan10-stav1-tac2-podtac1-ali1">
+												<content>
+													<p>ектолитарска маса очишћене пшенице (kg/hl),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac2-podtac1-ali2">
+												<content>
+													<p>аса 1000 зрна (g на суву материју),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac2-podtac1-ali3">
+												<content>
+													<p>таклавост,</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac2-podtac1-ali4">
+												<content>
+													<p>рупноћа зрна (2,8; 2,5; 2,2 и 2 mm);</p>
+												</content>
+											</alinea>
+										</content>
+									</item>
+									<item id="clan10-stav1-tac2-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> хемијско-технолошке особине зрна:</p>
+											<alinea id="clan10-stav1-tac2-podtac2-ali1">
+												<content>
+													<p>адржај пепела (% на суву материју),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac2-podtac2-ali2">
+												<content>
+													<p>адржај сирових протеина (% на суву материју),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac2-podtac2-ali3">
+												<content>
+													<p>рој падања по Хагбергу (sec.);</p>
+												</content>
+											</alinea>
+										</content>
+									</item>
+									<item id="clan10-stav1-tac2-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> хемијско-технолошке особине крупице:</p>
+											<alinea id="clan10-stav1-tac2-podtac3-ali1">
+												<content>
+													<p>адржај пепела (% на суву материју),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac2-podtac3-ali2">
+												<content>
+													<p>адржај протеина (% на суву материју),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac2-podtac3-ali3">
+												<content>
+													<p>ути пигмент (mg/kg);</p>
+												</content>
+											</alinea>
+										</content>
+									</item>
+									<item id="clan10-stav1-tac2-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> фаринограм (апсорпција: 31,5% H2O):</p>
+											<alinea id="clan10-stav1-tac2-podtac4-ali1">
+												<content>
+													<p>реме образовања мрвица (min.),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac2-podtac4-ali2">
+												<content>
+													<p>аксимална конзистенција (FJ),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac2-podtac4-ali3">
+												<content>
+													<p>олеранција при максималној конзистенцији (min.),</p>
+												</content>
+											</alinea>
+											<alinea id="clan10-stav1-tac2-podtac4-ali4">
+												<content>
+													<p>ирина криве 5 min. после максималне конзистенције (min.);</p>
+												</content>
+											</alinea>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> код спелте испитују се:</p>
+									<item id="clan10-stav1-tac3-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> апсолутна маса (g на суву материју);</p>
+										</content>
+									</item>
+									<item id="clan10-stav1-tac3-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> хектолитарска маса (kg/hl);</p>
+										</content>
+									</item>
+									<item id="clan10-stav1-tac3-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> садржај сирових протеина (% на суву материју);</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan10-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> код компактум пшенице испитује се:</p>
+									<item id="clan10-stav1-tac4-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> сензорно оцењивање квалитета тврдог кекса и чајног пецива.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>За испитивање квалитета зрна сорте у лабораторији потребан је просечан узорак од 8 kg зрна који се добија из свих понављања у микроогледу, а који се узима у првој години испитивања.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>Испитивање квалитета зрна обичне, меке пшенице врши се тако што се узимају се узорци са два локалитета, док се за испитивање квалитета зрна осталих сорти узимају узорци са једног локалитета.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Извођач огледа по завршеном испитивању сорте на огледном пољу евидентира: назив извођача огледа; име лица одговорног за извођење огледа; локалитет на коме се изводи оглед; тип земљишта и садржај храњивих материја у земљишту на коме се налази огледно поље; предусев; обављене агротехничке мере; податке из <ref>члана 7. </ref>и <ref>члана 9. став 2. овог</ref> правилника, као и друге податке који утичу на принос испитиване сорте (оштећења од птица, штеточина, природних непогода и друго).</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Извођач огледа по завршеном испитивању отпорности или толерантности сорте на болести из <ref>члана 8. тачка 2</ref>) овог правилника евидентира податке о резултатима таквог испитивања, као и назив извођача огледа, име лица одговорног за извођење огледа и локалитет на коме се оглед изводи.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav3">
+						<content>
+							<p>Извођач огледа по завршеном испитивању сорте у лабораторији евидентира одговарајуће податке из <ref>члана 10. овог</ref> правилника, као и назив извођача огледа, име лица одговорног за извођење огледа и локалитет на коме се изводи оглед.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav4">
+						<content>
+							<p>Подаци из ст. 1–3. овог члана саставни су део годишњих и коначних резултата испитивања.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Различитост, униформност и стабилност сорте испитује се методом одређеном техничким упутством за тестирање различитости, униформности и стабилности сорте.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav2">
+						<content>
+							<p>Број 110-00-69/2012-09</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav3">
+						<content>
+							<p>У Београду, 12. децембра 2012. године</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav5">
+						<content>
+							<p>Горан Кнежевић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,1016 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2012/56-16/main"/>
+					<FRBRuri value="/rs/act/2012/56-16"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2012/56-16/srp@/main"/>
+					<FRBRuri value="/rs/act/2012/56-16/srp@"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2012/56-16/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2012/56-16/srp@.akn"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2012-6-5" name="службени гласник рс" number="56" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="1. Привредна друштва, предузећа и предузетници" value="1. привредна друштва, предузећа и предузетници"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1800-05-12" id="usvajanje"/>
+				<step date="2012-06-13" id="stupanje_na_snagu"/>
+				<step date="2012-06-13" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 88. став 3. </ref>Закона о привредним друштвима („<ref id="ref8" href="/rs/act/11/36/srp@">Службени гласник РС” бр. 36/11</ref> и 99/11),</p>
+		</preamble>
+		<preface>
+			<authority>Министар економије и регионалног развоја доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о одређивању послова који се сматрају старим и уметничким занатима, односно пословима домаће радиности, начину сертификовања истих и вођењу посебне евиденције издатих сертификата</title>
+			<date>&quot;Службени гласник РС&quot;, број 56 од 5. јуна   2012.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>УВОДНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником ближе се одређују послови који се сматрају старим и уметничким занатима, односно пословима домаће радиности, начин сертификовања истих и вођење посебне евиденције издатих сертификата.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>СТАРИ ЗАНАТИ</heading>
+				<content>
+					<article id="gla2-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla2-clan2-stav1">
+								<content>
+									<p>Старим занатима у смислу овог правилника сматрају се послови израде и дораде предмета на начин, под условима и од материјала којима се чува и одржава израз традиционалног народног стваралаштва.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan2-stav2">
+								<content>
+									<p>Старим занатима из става 1. овог члана, сматрају се:</p>
+									<point id="gla2-clan2-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> лончарски (грнчарски), црепуљарски;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> казанџијски (котларски);</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> коларски;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> бачварски, пинтерски и качарски;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> ткачки (ткање на ручном разбоју ћилима, тепиха, крпара, платна, свиле и др.);</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> терзијско-абаџијски;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> израда народних ношњи;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac8">
+										<num>8)</num>
+										<content>
+											<p> јорганџијски;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac9">
+										<num>9)</num>
+										<content>
+											<p> оштрачки (брусачки);</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac10">
+										<num>10)</num>
+										<content>
+											<p> ковачко-поткивачки;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac11">
+										<num>11)</num>
+										<content>
+											<p> израда звона свих врста (звоноливачки) и прапорака;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac12">
+										<num>12)</num>
+										<content>
+											<p> опанчарски;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac13">
+										<num>13)</num>
+										<content>
+											<p> кожарски (табачки);</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac14">
+										<num>14)</num>
+										<content>
+											<p> кожухарски (ћурчијски);</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac15">
+										<num>15)</num>
+										<content>
+											<p> крзнарски;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac16">
+										<num>16)</num>
+										<content>
+											<p> сарачко-седларски (ручни дуборез у кожи, пресовање у кожи и сл.);</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac17">
+										<num>17)</num>
+										<content>
+											<p> дрводељски;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac18">
+										<num>18)</num>
+										<content>
+											<p> кломпарски и израда нанула;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac19">
+										<num>19)</num>
+										<content>
+											<p> ручна израда уникатне обуће из обућарског заната;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac20">
+										<num>20)</num>
+										<content>
+											<p> сајџијски (поправка, одржавање и ручна израда делова за сатове и часовнике);</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac21">
+										<num>21)</num>
+										<content>
+											<p> асурџијски;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac22">
+										<num>22)</num>
+										<content>
+											<p> папуџијски;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac23">
+										<num>23)</num>
+										<content>
+											<p> мутавџијски;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac24">
+										<num>24)</num>
+										<content>
+											<p> вуновлачарски (дрндарски);</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac25">
+										<num>25)</num>
+										<content>
+											<p> ужарски;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac26">
+										<num>26)</num>
+										<content>
+											<p> каменорезачки (клесарски) и ручна обрада и израда предмета од природног и вештачког камена;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac27">
+										<num>27)</num>
+										<content>
+											<p> корпарско-плетарски и израда предмета од лике, рогоза, комушине, рафије, сламе, трске, сите и сл.;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac28">
+										<num>28)</num>
+										<content>
+											<p> воскарско-лицидерски;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac29">
+										<num>29)</num>
+										<content>
+											<p> гајтанџијски;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac30">
+										<num>30)</num>
+										<content>
+											<p> стаклодувачки;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac31">
+										<num>31)</num>
+										<content>
+											<p> бојаџијски;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac32">
+										<num>32)</num>
+										<content>
+											<p> сапунџијски;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac33">
+										<num>33)</num>
+										<content>
+											<p> власуљарски;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav2-tac34">
+										<num>34)</num>
+										<content>
+											<p> ситарски и решетарски.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan2-stav3">
+								<content>
+									<p>Старим занатима сматрају се и:</p>
+									<point id="gla2-clan2-stav3-tac1">
+										<num>1)</num>
+										<content>
+											<p> печење креча, ћумура и прављење катрана;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav3-tac2">
+										<num>2)</num>
+										<content>
+											<p> израда фењера (ферала);</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav3-tac3">
+										<num>3)</num>
+										<content>
+											<p> израда гребена за гребање вуне и кучине;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav3-tac4">
+										<num>4)</num>
+										<content>
+											<p> израда гребена и брда за ткање;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav3-tac5">
+										<num>5)</num>
+										<content>
+											<p> поправка, калаисање, емајлирање и цинковање посуда;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav3-tac6">
+										<num>6)</num>
+										<content>
+											<p> израда каљева за пећи и ватросталне опеке;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav3-tac7">
+										<num>7)</num>
+										<content>
+											<p> израда и рестаурација народних музичких инструмената на традиционалан начин (гусле, фруле, двојнице, гајде, окарине, виолине и сл.);</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav3-tac8">
+										<num>8)</num>
+										<content>
+											<p> ваљање (ступање) сукна и пустовање вуне;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav3-tac9">
+										<num>9)</num>
+										<content>
+											<p> производња свиле на традиционалан начин;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav3-tac10">
+										<num>10)</num>
+										<content>
+											<p> израда четки, метли и других сличних производа (од длаке, сирка, прућа, жилица и сл.);</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav3-tac11">
+										<num>11)</num>
+										<content>
+											<p> копање бунара;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav3-tac12">
+										<num>12)</num>
+										<content>
+											<p> израда млинских каменова и брусева;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav3-tac13">
+										<num>13)</num>
+										<content>
+											<p> препарирање и пуњење птица и животиња;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav3-tac14">
+										<num>14)</num>
+										<content>
+											<p> пречишћавање перја;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav3-tac15">
+										<num>15)</num>
+										<content>
+											<p> ручно испирање злата на традиционалан начин;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav3-tac16">
+										<num>16)</num>
+										<content>
+											<p> ручно плетење рибарских мрежа;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav3-tac17">
+										<num>17)</num>
+										<content>
+											<p> оџачарски;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav3-tac18">
+										<num>18)</num>
+										<content>
+											<p> превоз фијакером (фијакериста);</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav3-tac19">
+										<num>19)</num>
+										<content>
+											<p> ручна израда чамаца од дрвета, на традиционалан начин;</p>
+										</content>
+									</point>
+									<point id="gla2-clan2-stav3-tac20">
+										<num>20)</num>
+										<content>
+											<p> калдрмџијски.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla2-clan3-stav1">
+								<content>
+									<p>Старим занатима у смислу овог правилника сматрају се и занати којима се припрема и производи храна, на традиционалан начин.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav2">
+								<content>
+									<p>Старим занатима из става 1. овог члана, сматрају се:</p>
+									<point id="gla2-clan3-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> бомбонџијски;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> содаџијски;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> бозаџијски;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> млевење житарица преко воденица – поточара;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> припрема биљних производа на традиционалан начин;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> припрема хлеба под сачем и у црепуљи;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> медичарски;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac8">
+										<num>8)</num>
+										<content>
+											<p> цреварски;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac9">
+										<num>9)</num>
+										<content>
+											<p> припрема појединих производа од меса на традиционалан начин;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac10">
+										<num>10)</num>
+										<content>
+											<p> припрема појединих производа од млека на традиционалан начин.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla2-clan4-stav1">
+								<content>
+									<p>Старим занатима у смислу овог правилника сматрају се и грађевински занати чији су производи у целини (или већим делом) грађевински објекти. Овим занатима одржавају се и/или обнављају споменици традиционалне културе који су под посебном заштитом државе.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav2">
+								<content>
+									<p>Старим занатима из става 1. овог члана, сматрају се:</p>
+									<point id="gla2-clan4-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> градња и/или реконструкција у техници сухозида;</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> градња и/или реконструкција у техници набоја, набијача;</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> градња и/или реконструкција техником бондрука;</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> израда шиндре (за покривање кућа, привредних зграда и цркава брвнара);</p>
+										</content>
+									</point>
+									<point id="gla2-clan4-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> производња ћерпича и зидање ћерпичем.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>УМЕТНИЧКИ ЗАНАТИ</heading>
+				<content>
+					<article id="gla3-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla3-clan5-stav1">
+								<content>
+									<p>Уметничким занатима у смислу овог правилника сматрају се послови обликовања племенитих материјала, камена, метала, дрвета, текстила, стакла и других материјала, при чијој изради долази до изражаја лични укус и вештина произвођача по његовој замисли или нацрту, односно по замисли или нацрту другог лица.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan5-stav2">
+								<content>
+									<p>Уметничким занатима из става 1. овог члана, сматрају се:</p>
+									<point id="gla3-clan5-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> израда таписерија и других уметничких ткања;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> уметничка обрада дрвета, камена, стакла, глине, гипса и сличних материјала;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> уметничка обрада племенитих метала (кујунџијско-филигрански; златарско-јувелирски и сл.);</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> обрада драгог и полудрагог камена (ломљење, сечење, брушење, полирање и др);</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> ручна израда уметничких гравура и печата;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> калиграфско исписивање слова (калиграфија);</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> сатлери (фарбање и украшавање фијакера и кочија ручним писањем, цртањем грбова и сл.);</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac8">
+										<num>8)</num>
+										<content>
+											<p> уметничка израда предмета од кованог гвожђа, бакра и других метала;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac9">
+										<num>9)</num>
+										<content>
+											<p> сликање на текстилу и текстилним влакнима;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac10">
+										<num>10)</num>
+										<content>
+											<p> уметнички вез;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac11">
+										<num>11)</num>
+										<content>
+											<p> уметничко штоповање;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac12">
+										<num>12)</num>
+										<content>
+											<p> израда у дрвету уметничких предмета, интарзија и дубореза;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac13">
+										<num>13)</num>
+										<content>
+											<p> израда и рестаурација стилског намештај и других сличних стилских производа од дрвета;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac14">
+										<num>14)</num>
+										<content>
+											<p> рестаурација старих и раритетних књига, слика и сл.;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac15">
+										<num>15)</num>
+										<content>
+											<p> уметнички књиговезачки занат (уметничка обрада повеза књига, албума и сл.);</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac16">
+										<num>16)</num>
+										<content>
+											<p> израда и рестаурација уметничких фотографија;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac17">
+										<num>17)</num>
+										<content>
+											<p> конзервација, рестаурација и реконструкција покретних и непокретних културних добара;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac18">
+										<num>18)</num>
+										<content>
+											<p> препарација и конзервирање папира, текстила, коже, дрвета, керамике, стакла, камена, метала, зидних и штафелајних слика;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac19">
+										<num>19)</num>
+										<content>
+											<p> сликање на стаклу, керамици, дрвету, камену, јајима, тиквама и сличним предметима и материјалима;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac20">
+										<num>20)</num>
+										<content>
+											<p> израда собних и других светиљки и сенила;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac21">
+										<num>21)</num>
+										<content>
+											<p> ручна израда украсних и уметнички обликованих предмета од папира и картона;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac22">
+										<num>22)</num>
+										<content>
+											<p> уметничка израда, односно дорада сакралних и других украсних и употребних предмета и иконописа, позлаћивањем – ручним обликовањем и наношењем златних листића (позлатарство);</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac23">
+										<num>23)</num>
+										<content>
+											<p> уметничка израда накита од метала (осим племенитих), клирита, стакла, штраса и сличног материјала;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac24">
+										<num>24)</num>
+										<content>
+											<p> уметничка израда витража;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac25">
+										<num>25)</num>
+										<content>
+											<p> модистеријски занат (ручна израда шешира и других врста капа са пратећим детаљима и ручна израда рукавица);</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac26">
+										<num>26)</num>
+										<content>
+											<p> кројење и шивење сценских костима;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac27">
+										<num>27)</num>
+										<content>
+											<p> ручна израда лутки од различитих материјала за луткарска позоришта и сл. (луткарски занат);</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac28">
+										<num>28)</num>
+										<content>
+											<p> ручна израда уметнички обликованих макета (брод, крст и сл.) у стакленим флашама и сличним амбалажама и других уметнички обликованих сувенира;</p>
+										</content>
+									</point>
+									<point id="gla3-clan5-stav2-tac29">
+										<num>29)</num>
+										<content>
+											<p> оружарски занат за израду копија нефункционалног оружја према постојећим музејским узорцима ватреног и хладног оружја, као и пратеће опреме за то „оружје”.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ДОМАЋА РАДИНОСТ</heading>
+				<content>
+					<article id="gla4-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla4-clan6-stav1">
+								<content>
+									<p>Домаћом радиношћу у смислу овог правилника сматрају се послови израде и дораде предмета код којих преовлађује ручни рад и који имају естетско обележје изражено народном уметношћу.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan6-stav2">
+								<content>
+									<p>Домаћом радиношћу из става 1. овог члана, сматрају се:</p>
+									<point id="gla4-clan6-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> плетење;</p>
+										</content>
+									</point>
+									<point id="gla4-clan6-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> кукичање – хеклање и нецовање (израда чипке, столњака, украсних детаља, одевних предмета и сл.);</p>
+										</content>
+									</point>
+									<point id="gla4-clan6-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> вез разних текстилних производа;</p>
+										</content>
+									</point>
+									<point id="gla4-clan6-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> премотавање и упредање (цвирновање) конца и вуне;</p>
+										</content>
+									</point>
+									<point id="gla4-clan6-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> израда сувенира;</p>
+										</content>
+									</point>
+									<point id="gla4-clan6-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> израда предмета са народним везом;</p>
+										</content>
+									</point>
+									<point id="gla4-clan6-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> израда производа дрвне домаће галантерије (вретена, преслице, оклагије, дрвена корита, карлице, чиније и сл.);</p>
+										</content>
+									</point>
+									<point id="gla4-clan6-stav2-tac8">
+										<num>8)</num>
+										<content>
+											<p> ручна израда предмета од ситних отпадака од коже и текстила (пачворк), клирита и сличних материјала.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>НАЧИН СЕРТИФИКОВАЊА</heading>
+				<content>
+					<article id="gla5-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla5-clan7-stav1">
+								<content>
+									<p>Производи из чл. 2–6. овог правилника, поред декларација и ознака прописаних посебним прописима за ту врсту производа, могу бити посебно означени називом: „производ старог заната”, „производ уметничког заната” или „производ домаће радиности”, као и стилизованом ознаком отворене шаке.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan7-stav2">
+								<content>
+									<p>Посебно означавање из става 1. овог члана врши се на основу претходно прибављеног сертификата министарства надлежног за послове привреде (у даљем тексту: Министарство).</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan7-stav3">
+								<content>
+									<p>Посебно означавање и изглед стилизоване ознаке отворене шаке из става 1. овог члана одређује носилац сертификата, по својој замисли, а у складу са врстом сертификованог производа.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan7-stav4">
+								<content>
+									<p>Ако су предмети из <ref>члана 2. овог</ref> правилника истовремено и предмети опште употребе намењени за јавну потрошњу, ти предмети, пре стављања у промет, морају бити снабдевени и исправом произвођача да, на основу лабораторијских испитивања, одговарају прописима о здравственој исправности.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan7-stav5">
+								<content>
+									<p>Ако је храна из <ref>члана 3. овог</ref> правилника намењена за јавну потрошњу, пре стављања у промет, та храна мора бити снабдевена и исправом произвођача да, на основу лабораторијских испитивања, одговара прописима о безбедности хране.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan7-stav6">
+								<content>
+									<p>Произвођач може производе из става 1. овог члана, означити и својим знаком – знаком произвођача, чију садржину, облик и димензије сам одређује, у складу са прописима.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla5-clan8-stav1">
+								<content>
+									<p>Сертификовање из <ref>члана 7. став 2. овог</ref> правилника, врши се по захтеву предузетника, односно другог субјекта, који уз захтев прилаже доказ да је регистрован код надлежног органа, као и доказ о уплати прописане административне таксе.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan8-stav2">
+								<content>
+									<p>Услов за сертификовање јесте да је предузетник, односно други субјект активан, као и да сертификовање тражи за делатност из чл. 2–6. овог правилника, која је регистрована као претежна у седишту субјекта или у простору ван седишта, односно у простору регистрованог огранка.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla5-clan9-stav1">
+								<content>
+									<p>Када се на основу достављене документације (канцеларијска провера), утврди да су испуњени услови из <ref>члана 8. став 2. овог</ref> правилника, приступа се непосредном увиду на лицу места код подносиоца захтева (теренска провера), ради проверавања испуњености услова из <ref>члана 8. став 2. овог</ref> правилника за издавање траженог сертификата.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla5-clan10-stav1">
+								<content>
+									<p>Министарство издаје и свечану форму сертификата.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan10-stav2">
+								<content>
+									<p>Изглед и садржај свечане форме сертификата из става 1. овог члана дати су на обрасцу који је одштампан уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla5-clan11-stav1">
+								<content>
+									<p>Издати сертификат важи десет година од дана издавања.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla5-clan12-stav1">
+								<content>
+									<p>Важност сертификата престаје и пре истека рока на који је издат, уколико дође до престанка обављања делатности предузетника, односно другог субјекта, или уколико дође до промена у обављању делатности из чл. 2–6. овог правилника, које су од значаја за стицање сертификата, као и у другим случајевима прописаним законом и овим правилником.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav2">
+								<content>
+									<p>Када предузетник и други субјект нису у активном статусу (привремени престанак обављања делатности и сл.), немају права да остварују погодности по основу издатог сертификата.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan12-stav3">
+								<content>
+									<p>Време трајања неактивног статуса предузетника и другог субјекта урачунава се у време важења издатог сертификата из <ref>члана 11. овог</ref> правилника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla5-clan13-stav1">
+								<content>
+									<p>По протеку рока важења издатог сертификата из <ref>члана 11. овог</ref> правилника, предузетник, односно други субјект може Министарству да поднесе захтев за продужење важења сертификата.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan13-stav2">
+								<content>
+									<p>Уколико није било промена од значаја за стицање сертификата коме је истекло време за које је издат, Министарство, по поднетом захтеву предузетника, односно другог субјекта, може и без посебног поступка теренске провере издати сертификат о продужењу времена важења сертификата за време од наредних десет година.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan13-stav3">
+								<content>
+									<p>У случају из ст. 1. и 2. овог члана, предузетник, односно други субјект не плаћа административну таксу за продужење важења сертификата.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan13-stav4">
+								<content>
+									<p>Уколико је дошло до промена које могу бити од значаја за стицање сертификата, Министарство по поднетом захтеву врши сертификовање на начин прописан у чл. 8. и 9. овог правилника за издавање сертификата.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>ЕВИДЕНЦИЈА ИЗДАТИХ СЕРТИФИКАТА</heading>
+				<content>
+					<article id="gla6-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla6-clan14-stav1">
+								<content>
+									<p>О издатим сертификатима води се евиденција на интернет страни Министарства, као јединствена, централна, јавна база података, која се редовно ажурира и која је доступна заинтeресованим субјектима (у даљем тексту: Евиденција).</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan14-stav2">
+								<content>
+									<p>Подаци из Евиденције евидентирају се и у одговарајућем регистру Агенције за привредне регистре и објављују се на интернет страни Агенције, у складу са законом.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan14-stav3">
+								<content>
+									<p>Евиденцијa садржи податке о: врсти производа који се сматрају производима старог и уметничког заната, односно производима домаће радиности; предузетнику, односно другом субјекту носиоцу сертификата (назив, лично име и презиме предузетника, седиште са адресом субјекта, ПИБ и матични број субјекта, као и друге податке: број телефона, e-mail и сл.); броју издатог сертификата у свечаној форми; службеном броју из евиденције Министарства, са датумом издавања сертификата.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla7">
+				<num>VII</num>
+				<heading>ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla7-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla7-clan15-stav1">
+								<content>
+									<p>Даном ступања на снагу овог правилника престаје да важи Правилник о одређивању послова који се сматрају уметничким и старим занатима, односно пословима домаће радиности („<ref id="ref9" href="/rs/act/05/21/srp@">Службени гласник РС”, бр. 21/05</ref> и 1/10).</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan15-stav2">
+								<content>
+									<p>Члaн 16.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan15-stav3">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan15-stav4">
+								<content>
+									<p>Број 110-00-00118/2011-09</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan15-stav5">
+								<content>
+									<p>У Београду, 22. маjа 2012. године</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan15-stav6">
+								<content>
+									<p>Министар</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan15-stav7">
+								<content>
+									<p>Небојша Ћирић, с.р.</p>
+								</content>
+							</clause>
+							<став id="gla7-clan15-stav8">
+								<img alt="sertifikat.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/sertifikat_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425336&amp;regactid=425336"/>
+								<content/>
+							</став>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

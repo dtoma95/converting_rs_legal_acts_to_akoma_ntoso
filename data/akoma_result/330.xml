@@ -1,0 +1,997 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2011/28-18/main"/>
+					<FRBRuri value="/rs/act/2011/28-18"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/28-18/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/28-18/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/28-18/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/28-18/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2011-4-26" name="службени гласник рс" number="28" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="15. Спорт" value="15. спорт"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-04-18" id="usvajanje"/>
+				<step date="2011-05-04" id="stupanje_na_snagu"/>
+				<step date="2011-05-04" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 8. става 3. </ref>Закона о спречавању насиља и недоличног понашања на спортским приредбама („<ref id="ref2" href="/rs/act/03/67/srp@">Службени гласник РС”, бр. 67/03, 101/05</ref> – др. закон, 90/07, 72/09 – др. закон и 111/09),</p>
+		</preamble>
+		<preface>
+			<authority>Министар унутрашњих послова доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о програму и начину спровођења обуке за обављање послова редарa на спортској приредби</title>
+			<date>&quot;Службени      гласник РС&quot;, број 28 од 26. априла 2011.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се програм и начин спровођења обуке за обављање послова редара на спортској приредби.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Обуку спроводи Министарствo унутрашњих послова (у даљем тексту: Министарство) у једном од центара за обуку (у даљем тексту: центар).</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Обука из става 1. овог члана, спроводи се у учионици и спортској дворани или сали за наставу физичког образовања, односно полигону за спровођење обуке у практичном поступању и вештинама самоодбране.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Обуку полазника могу вршити предавачи који имају стручну спрему односно звање:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> дипломирани правник, дипломирани криминалиста и криминалиста са пет година радног искуства, или друго лице са високом стручном спремом које има најмање пет године радног искуства на полицијским пословима – за наставну целину Законске основе и Мере за спречавање насиља и недоличног понашања на спортским приредбама;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> високу стручну спрему педагошко-психолошког смера – за наставну целину Етика и основе комуникације;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> високу стручну спрему медицинског смера – за наставну целину Прва помоћ;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> високу стручну спрему техничког смера, са најмање три године радног искуства на пословима из области Заштита од пожара – за наставну целину Заштита од пожара;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> високу стручну спрему, звање професор физичке културе, смер борилачки спортови, или вишу стручну спрему, звање виши спортски тренер, смер борилачки спортови – за наставну целину Употребу средстава принуде – физичке снаге.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Пријаву за обуку подноси организатор спортске приредбе, правно лице или предузетник који обављају послове физичког обезбеђења.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Пријава се подноси полицијској управи надлежној по месту седишта подносиоца.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Министарство евидентира кандидате који су прошли обуку, издата уверења, одржану наставу, односно предаваче који изводе наставу, распоред часова, списак полазника, дневник рада.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav4">
+						<content>
+							<p>Трошкови обуке подразумевају трошкове смештаја, исхране, предавача и трошкове средстава за извођење наставе (литература, свеске, прибор и сл.), трошкове израде уверења.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav5">
+						<content>
+							<p>Предавачи имају право на накнаду у висини коју посебним актом утврђује министар унутрашњих послова.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Основна и додатна обука полазника (у даљем тексту: обука) спроводи се по Програму обуке лица која обављају послове редара на спортској приредби (у даљем тексту: Програм), који је одштампан уз овај правилник и чини његов саставни део (Прилог 1.).</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Основна обука реализује се кроз теоретску и практичну наставу и траје најмање 70 наставних часова.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>Додатна обука траје највише 35 наставних часова.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Провера знања кандидата врши се у току обуке, писменим и усменим испитивањем и практичном провером кандидата.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Практичном провером утврђује се физичка припремљеност и оспособљеност за примену физичке снаге односно вештина самоодбране из стручне области Употреба средстава принуде – примена физичке снаге – самоодбрана.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Полазнику који успешно заврши обуку у складу са Програмом из овог правилника центар ће издати Уверење о обучености за обављање послова редара на спортским приредбама (у даљем тексту: Уверење), које је одштампано уз овај правилник и чини његов саставни део (Прилог 2).</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Послове редара могу обављати само лица која имају Уверење.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>Лица из става 2. овог члана похађају, по Програму из овог правилника, додатну обуку из <ref>члана 5. став 3. овог</ref> правилника:</p>
+							<point id="clan7-stav3-tac1">
+								<num>1)</num>
+								<content>
+									<p> ако дође до промене прописа којима су регулисани послови редара на спортској приредби – из оне стручно-теоријске области у којој је дошло до промене прописа и у трајању које је предвиђено за савладавање те области;</p>
+								</content>
+							</point>
+							<point id="clan7-stav3-tac2">
+								<num>2)</num>
+								<content>
+									<p> ако су у поступку надзора уочени пропусти у обављању послова редарске службе – из одговарајуће области у којој је дошло до пропуста и у трајању које је предвиђено за савладавање те области;</p>
+								</content>
+							</point>
+							<point id="clan7-stav3-tac3">
+								<num>3)</num>
+								<content>
+									<p> по истеку рока од 5 година од дана издавања Уверења – по Програму из овог правилника и у трајању од 35 наставних часова.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Број 01-3603/10-9</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>У Београду, 18. априла 2011. године</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav5">
+						<content>
+							<p>унутрашњих послова,</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav6">
+						<content>
+							<p>Ивица Дачић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav7">
+						<content>
+							<p>Прилог 1.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav8">
+						<content>
+							<p>ПРОГРАМ ОБУКЕ ЛИЦА КОЈА ОБАВЉАЈУ ПОСЛОВЕ РЕДАР НА СПОРТСКИМ ПРИРЕДБАМА</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav9">
+						<content>
+							<p>САДРЖАЈ ПОЈЕДИНИХ СТРУЧНИХ ОБЛАСТИ</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav10">
+						<content>
+							<p>СТРУЧНО-ТЕОРИЈСКА ОБУКА</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ЗАКОНСКЕ ОСНОВЕ</heading>
+				<content>
+					<тачка id="gla1-clan8-tac1">
+						<num>1.</num>
+						<content>
+							<p> Основи безбедности и заштите</p>
+						</content>
+					</тачка>
+					<clause id="gla1-clan8-stav1">
+						<content>
+							<p>Уводно предавање – појам и предмет изучавања</p>
+							<alinea id="gla1-clan8-stav1-ali1">
+								<content>
+									<p>осиоци послова безбедности (државни органи; недржавни и приватни сектор; место, улога, међусобни односи и сарадња; најчешћи облици угрожавања, послови безбедности);</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan8-stav1-ali2">
+								<content>
+									<p>врха и значај обуке за успешно вршење послова редара;</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan8-stav1-ali3">
+								<content>
+									<p>сновни појмови безбедности и заштите;</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan8-stav1-ali4">
+								<content>
+									<p>сновни облици угрожавања безбедности лица и објеката;</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan8-stav1-ali5">
+								<content>
+									<p>есто и улогу државних и недржавних институција и организација које се баве пословима безбедности и који су њихови основни задаци;</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan8-stav1-ali6">
+								<content>
+									<p>арадња између државних и недржавних органа и институција безбедности;</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan8-stav1-ali7">
+								<content>
+									<p>о су овлашћена службена лица;</p>
+								</content>
+							</alinea>
+							<alinea id="gla1-clan8-stav1-ali8">
+								<content>
+									<p>влашћења полиције.</p>
+								</content>
+							</alinea>
+							<тачка id="gla1-clan8-stav1-tac2">
+								<num>2.</num>
+								<content>
+									<p> Законик о кривичном поступку</p>
+									<alinea id="gla1-clan8-stav1-tac2-ali1">
+										<content>
+											<p>ишење слободе и пријављивање кривичног дела и учиниоца.</p>
+										</content>
+									</alinea>
+								</content>
+							</тачка>
+							<тачка id="gla1-clan8-stav1-tac3">
+								<num>3.</num>
+								<content>
+									<p> Кривични законик</p>
+									<alinea id="gla1-clan8-stav1-tac3-ali1">
+										<content>
+											<p>пште одредбе о кривичном делу (кривично дело, извршење кривичног дела нечињењем, нужна одбрана, крајна нужда, умишљај, нехат, покушај, саизвршилаштво, подстрекавање, помагање;</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac3-ali2">
+										<content>
+											<p>ере безбедности (одузимање предмета);</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac3-ali3">
+										<content>
+											<p>начење израза (значење израза у овом Законику);</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac3-ali4">
+										<content>
+											<p>ривична дела против живота и тела (убиство, тешко убиство, убиство на мах, нехатно лишење живота, тешка телесна повреда, лака телесна повреда, учествовање у тучи, угрожавање опасним оруђем при тучи и свађи, излагање опасности, непружање помоћи);</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac3-ali5">
+										<content>
+											<p>ривична дела против слобода и права човека и грађана (повреда равноправности, противправно лишење слободе, принуда, изнуђивањe исказа, злостављање и мучење, угрожавање сигурности, противзаконито претресање, неовлашћено фотографисање, неовлашћено прикупљање личних података, спречавање јавног скупа);</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac3-ali6">
+										<content>
+											<p>ривична дела против части и угледа (увреда, клевета, повреда угледа Србије, повреда угледа због расне, верске, националне или друге припадности, повреда угледа стране државе или међународне организације);</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac3-ali7">
+										<content>
+											<p>ривична дела против имовине (крађа, тешка крађа, разбојничка крађа, разбојништво, утаја, превара, ситна крађа, утаја и превара, одузимање туђе ствари, уништење и оштећење туђе ствари, прикривање);</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac3-ali8">
+										<content>
+											<p>ривична дела против здравља људи (неовлашћена производња и стављање у промет опојних дрога, неовлашћено држање опојних дрога, омогућавање уживања опојних дрога);</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac3-ali9">
+										<content>
+											<p>ривична дела против опште сигурности људи и имовине (изазивање опште опасности, не отклањање опасности, недозвољено поступање са експлозивним и запаљивим материјалом);</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac3-ali10">
+										<content>
+											<p>ривична дела против уставног уређења и безбедности Републике Србије (изазивање националне, расне и верске мржње и нетрпељивости);</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac3-ali11">
+										<content>
+											<p>ривична дела против државних органа (спречавање службеног лица у вршењу службене радње, напад на службено лице у вршењу службене дужности, учествовање у групи која спречи службено лице у вршењу службене радње, неучествовање у отклањању опште опасности);</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac3-ali12">
+										<content>
+											<p>ривична дела против правосуђа (непријављивање припремања кривичног дела, непријављивање кривичног дела и учиниоца, помоћ учиниоцу после извршеног кривичног дела, лажно пријављивање, давање лажног исказа);</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac3-ali13">
+										<content>
+											<p>ривична дела против јавног реда и мира (изазивање панике и нереда, насилничко понашање на спортској приредби или јавном скупу, забрана присуствовања одређеним спортским приредбама, учествовање у групи која изврши кривично дело);</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac3-ali14">
+										<content>
+											<p>ривична дела против човечности и других добара заштићених међународним правом (расна и друга дискриминација).</p>
+										</content>
+									</alinea>
+								</content>
+							</тачка>
+							<тачка id="gla1-clan8-stav1-tac4">
+								<num>4.</num>
+								<content>
+									<p> Закон о прекршајима</p>
+									<alinea id="gla1-clan8-stav1-tac4-ali1">
+										<content>
+											<p>ојам и нормирање прекршаја;</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac4-ali2">
+										<content>
+											<p>реме, место и начин извршења прекршаја;</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac4-ali3">
+										<content>
+											<p>окази у прекршајном поступку;</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac4-ali4">
+										<content>
+											<p>дговорност за прекршаје;</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac4-ali5">
+										<content>
+											<p>анкције за прекршаје;</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac4-ali6">
+										<content>
+											<p>едовни и скраћени прекршајни поступак;</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac4-ali7">
+										<content>
+											<p>астарелост;</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac4-ali8">
+										<content>
+											<p>ачела прекршајног поступка,</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac4-ali9">
+										<content>
+											<p>рекршајна пријава;</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac4-ali10">
+										<content>
+											<p>адржавање лица у прекршајном поступку;</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac4-ali11">
+										<content>
+											<p>равна средства у прекршајном поступку.</p>
+										</content>
+									</alinea>
+								</content>
+							</тачка>
+							<тачка id="gla1-clan8-stav1-tac5">
+								<num>5.</num>
+								<content>
+									<p> Закон о спречавању насиља и недоличног понашања на спортским приредбама</p>
+									<alinea id="gla1-clan8-stav1-tac5-ali1">
+										<content>
+											<p>снове познавања Закона;</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac5-ali2">
+										<content>
+											<p>рекршаји;</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac5-ali3">
+										<content>
+											<p>бавезе организатора и улога полиције.</p>
+										</content>
+									</alinea>
+								</content>
+							</тачка>
+							<тачка id="gla1-clan8-stav1-tac6">
+								<num>6.</num>
+								<content>
+									<p> Закон о јавном реду и миру</p>
+									<alinea id="gla1-clan8-stav1-tac6-ali1">
+										<content>
+											<p>снове познавања Закона;</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac6-ali2">
+										<content>
+											<p>рекршаји и кривично дело.</p>
+										</content>
+									</alinea>
+								</content>
+							</тачка>
+							<тачка id="gla1-clan8-stav1-tac7">
+								<num>7.</num>
+								<content>
+									<p> Закон о окупљању грађана</p>
+									<alinea id="gla1-clan8-stav1-tac7-ali1">
+										<content>
+											<p>снове познавања Закона;</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac7-ali2">
+										<content>
+											<p>бавезе организатора и улога полиције.</p>
+										</content>
+									</alinea>
+								</content>
+							</тачка>
+							<тачка id="gla1-clan8-stav1-tac8">
+								<num>8.</num>
+								<content>
+									<p> Закон о оружју и муницији</p>
+									<alinea id="gla1-clan8-stav1-tac8-ali1">
+										<content>
+											<p>равни аспекти и општи принципи држања, ношења и употребе ватреног оружја;</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac8-ali2">
+										<content>
+											<p>ојам и врсте оружја, експлозивних и пиротехничких средстава;</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac8-ali3">
+										<content>
+											<p>еста где се најчешће могу наћи;</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac8-ali4">
+										<content>
+											<p>изици по безбедност на месту где је пријављено да је пронађено односно где се сумња да је постављена експлозивна направа;</p>
+										</content>
+									</alinea>
+									<alinea id="gla1-clan8-stav1-tac8-ali5">
+										<content>
+											<p>оступање редара на месту сумње да је постављена експлозивна направа.</p>
+										</content>
+									</alinea>
+								</content>
+							</тачка>
+							<тачка id="gla1-clan8-stav1-tac9">
+								<num>9.</num>
+								<content>
+									<p> Закон о безбедности саобраћаја</p>
+									<alinea id="gla1-clan8-stav1-tac9-ali1">
+										<content>
+											<p>аустављање возила.</p>
+										</content>
+									</alinea>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="gla1-clan8-stav2">
+						<content>
+							<p>ПРАКТИЧНА ОБУКА</p>
+						</content>
+					</clause>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>МЕРЕ ЗА СПРЕЧАВАЊЕ НАСИЉА И НЕДОЛИЧНОГ ПОНАШАЊА НА СПОРТСКИМ ПРИРЕДБАМА</heading>
+				<content>
+					<alinea id="gla2-clan8-ali1">
+						<content>
+							<p>ачин вршења послова обезбеђења објеката;</p>
+						</content>
+					</alinea>
+					<alinea id="gla2-clan8-ali2">
+						<content>
+							<p>пецифичности поступања у објекту или подручју рада у посебним ситуацијама.</p>
+						</content>
+					</alinea>
+					<тачка id="gla2-clan8-tac1">
+						<num>1.</num>
+						<content>
+							<p> Мере, дужности и овлашћење редара</p>
+							<alinea id="gla2-clan8-tac1-ali1">
+								<content>
+									<p>ревентивне мере;</p>
+								</content>
+							</alinea>
+							<alinea id="gla2-clan8-tac1-ali2">
+								<content>
+									<p>ере које се предузимају на спортским приредбама;</p>
+								</content>
+							</alinea>
+							<alinea id="gla2-clan8-tac1-ali3">
+								<content>
+									<p>ере које се предузимају на спортским приредбама повећаног ризика;</p>
+								</content>
+							</alinea>
+							<alinea id="gla2-clan8-tac1-ali4">
+								<content>
+									<p>ере које предузимају надлежни државни органи;</p>
+								</content>
+							</alinea>
+							<alinea id="gla2-clan8-tac1-ali5">
+								<content>
+									<p>безбеђење јавних скупова – спортских приредби;</p>
+								</content>
+							</alinea>
+							<alinea id="gla2-clan8-tac1-ali6">
+								<content>
+									<p>сновне мере опрезности;</p>
+								</content>
+							</alinea>
+							<alinea id="gla2-clan8-tac1-ali7">
+								<content>
+									<p>ештина коришћења средства везе и остале опреме и уређаја службе обезбеђења.</p>
+								</content>
+							</alinea>
+							<тачка id="gla2-clan8-tac1">
+								<num>1.</num>
+								<content>
+									<p>1. Издавање упозорења и наређења</p>
+									<тачка id="gla2-clan8-tac1">
+										<num>1.</num>
+										<content>
+											<p>1.1. Практични начин поступања и спровођења:</p>
+											<alinea id="gla2-clan8-tac1-ali1">
+												<content>
+													<p>абранe приступa објекту на коме се одржава спортска приредба лицима која су под утицајем алкохола или других опојних средстава, или се из њиховог понашања може закључити да су склони насилном или недоличном понашању;</p>
+												</content>
+											</alinea>
+											<alinea id="gla2-clan8-tac1-ali2">
+												<content>
+													<p>двајaња гостујућих навијача усмеравањем на посебне улазе и излазе из спортског објекта и посебан део гледалишта који је за њих одређен;</p>
+												</content>
+											</alinea>
+											<alinea id="gla2-clan8-tac1-ali3">
+												<content>
+													<p>безбеђивање да гледалац седи на тачно одређеном месту;</p>
+												</content>
+											</alinea>
+											<alinea id="gla2-clan8-tac1-ali4">
+												<content>
+													<p>немогућавања уласка гледалаца на спортски терен односно у службене просторије и службене пролазе спортског објекта и спречавања њиховог преласка из једног дела гледалишта намењен навијачима једног клуба у други;</p>
+												</content>
+											</alinea>
+											<alinea id="gla2-clan8-tac1-ali5">
+												<content>
+													<p>немогућавања уношења или продаје алкохолних пића у спортском објекту;</p>
+												</content>
+											</alinea>
+											<alinea id="gla2-clan8-tac1-ali6">
+												<content>
+													<p>немогућавања уношења у спортски објекат предмета који се могу употребити у насилничким поступањима (пиротехничка средства, мотке, флаше и сл.), односно којима се може ометати ток спортске приредбе (огледала, ласерски показивачи, звучни уређаји веће снаге, транспаренти или обележја којима се подстиче расна, верска, национална или друга нетрпељивост и мржња, односно чији је садржај увредљив или непристојан и сл.);</p>
+												</content>
+											</alinea>
+											<alinea id="gla2-clan8-tac1-ali7">
+												<content>
+													<p>немогућавања уношења у спортски објекат и истицање навијачких симбола који су већих димензија и могу ометати рад службених лица, осим застава, шалова, капа и дресова са обележјима клуба;</p>
+												</content>
+											</alinea>
+											<alinea id="gla2-clan8-tac1-ali8">
+												<content>
+													<p>позоравања, односно удаљавања гледаоца који својим понашањем или пропуштањем одређене радње може да изазове насиље на спортској приредби, угрози безбедност учесника спортске приредбе или омета њен ток;</p>
+												</content>
+											</alinea>
+											<alinea id="gla2-clan8-tac1-ali9">
+												<content>
+													<p>е дозволи приступ спортском објекту, лицу коме је изречена мера безбедности, односно заштитна мера забране присуствовања одређеним спортским приредбама;</p>
+												</content>
+											</alinea>
+											<alinea id="gla2-clan8-tac1-ali10">
+												<content>
+													<p>пречавање покушаја принудног уласка – изласка из објекта или затицања извршиоца на лицу места кривичног дела или прекршаја;</p>
+												</content>
+											</alinea>
+											<alinea id="gla2-clan8-tac1-ali11">
+												<content>
+													<p>пречавање гледалаца у покушају или чину сваког другог противправног понашања.</p>
+												</content>
+											</alinea>
+											<тачка id="gla2-clan8-tac1">
+												<num>1.</num>
+												<content>
+													<p>2. Преглед</p>
+													<тачка id="gla2-clan8-tac1">
+														<num>1.</num>
+														<content>
+															<p>2.1. Методика спровођења прегледа:</p>
+															<alinea id="gla2-clan8-tac1-ali1">
+																<content>
+																	<p>роцедуре прегледа лица;</p>
+																</content>
+															</alinea>
+															<alinea id="gla2-clan8-tac1-ali2">
+																<content>
+																	<p>реглед лица у стојећем ставу, у клечећем и у лежећем положају;</p>
+																</content>
+															</alinea>
+															<alinea id="gla2-clan8-tac1-ali3">
+																<content>
+																	<p>ица која улази или се налази у спортском објекту уноси или има транспаренте, заставе, симболе и сл. који садрже расистичке или друге поруке које изазивају и подстичу расну, националну, верску или другу неравноправност, мржњу и нетрпељивост, односно чији је садржај увредљив или непристојан;</p>
+																</content>
+															</alinea>
+															<alinea id="gla2-clan8-tac1-ali4">
+																<content>
+																	<p>ица која улази или се налази у спортском објекту уноси или има алкохолних пића, дроге, пиротехничка средства, оружја или предмета погодних за наношење повреда или за стварање нереда и насиља;</p>
+																</content>
+															</alinea>
+															<alinea id="gla2-clan8-tac1-ali5">
+																<content>
+																	<p>реглед лица приликом задржавања;</p>
+																</content>
+															</alinea>
+															<alinea id="gla2-clan8-tac1-ali6">
+																<content>
+																	<p>реглед превозних средстава, пртљага и лица;</p>
+																</content>
+															</alinea>
+															<alinea id="gla2-clan8-tac1-ali7">
+																<content>
+																	<p>ачињавање извештаја о поступању.</p>
+																</content>
+															</alinea>
+															<тачка id="gla2-clan8-tac1">
+																<num>1.</num>
+																<content>
+																	<p>3. Употреба физичке снаге у нужној одбрани</p>
+																	<alinea id="gla2-clan8-tac1-ali1">
+																		<content>
+																			<p>равни основ и општи принципи употребе физичке снаге;</p>
+																		</content>
+																	</alinea>
+																	<alinea id="gla2-clan8-tac1-ali2">
+																		<content>
+																			<p>пшта и посебна физичка припрема редара, основи самоодбране и програми обуке;</p>
+																		</content>
+																	</alinea>
+																	<alinea id="gla2-clan8-tac1-ali3">
+																		<content>
+																			<p>елективна употреба физичке снаге.</p>
+																		</content>
+																	</alinea>
+																	<тачка id="gla2-clan8-tac1">
+																		<num>1.</num>
+																		<content>
+																			<p>3.1. Начин употребе:</p>
+																			<alinea id="gla2-clan8-tac1-ali1">
+																				<content>
+																					<p>ада одбија напад усмерен према себи, према гледаоцима, према такмичарима и другим лицима;</p>
+																				</content>
+																			</alinea>
+																			<alinea id="gla2-clan8-tac1-ali2">
+																				<content>
+																					<p>ада одбија напад на уништење или оштећење делова спортског објекта и његове опреме;</p>
+																				</content>
+																			</alinea>
+																			<alinea id="gla2-clan8-tac1-ali3">
+																				<content>
+																					<p>ојам и дефиниција нужне одбране.</p>
+																				</content>
+																			</alinea>
+																			<тачка id="gla2-clan8-tac1">
+																				<num>1.</num>
+																				<content>
+																					<p>3.2. Отпор:</p>
+																					<alinea id="gla2-clan8-tac1-ali1">
+																						<content>
+																							<p>ктиван отпор;</p>
+																						</content>
+																					</alinea>
+																					<alinea id="gla2-clan8-tac1-ali2">
+																						<content>
+																							<p>асиван отпор;</p>
+																						</content>
+																					</alinea>
+																					<alinea id="gla2-clan8-tac1-ali3">
+																						<content>
+																							<p>оступање код активног и код пасивног отпора.</p>
+																						</content>
+																					</alinea>
+																					<тачка id="gla2-clan8-tac1">
+																						<num>1.</num>
+																						<content>
+																							<p>3.3. Начела у поступању:</p>
+																							<alinea id="gla2-clan8-tac1-ali1">
+																								<content>
+																									<p>азумевање и примена принципа која су битна за закониту примену овлашћења редара (нужност, поступност, пропорционалности);</p>
+																								</content>
+																							</alinea>
+																							<alinea id="gla2-clan8-tac1-ali2">
+																								<content>
+																									<p>ере опрезности;</p>
+																								</content>
+																							</alinea>
+																							<alinea id="gla2-clan8-tac1-ali3">
+																								<content>
+																									<p>ачињавање писменог извештаја који садржи све податке од значаја за оцену оправданости и правилности употребе физичке снаге.</p>
+																								</content>
+																							</alinea>
+																						</content>
+																					</тачка>
+																				</content>
+																			</тачка>
+																		</content>
+																	</тачка>
+																</content>
+															</тачка>
+														</content>
+													</тачка>
+												</content>
+											</тачка>
+										</content>
+									</тачка>
+								</content>
+							</тачка>
+						</content>
+					</тачка>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ЕТИКА И ОСНОВЕ КОМУНИКАЦИЈЕ</heading>
+				<content>
+					<alinea id="gla3-clan8-ali1">
+						<content>
+							<p>тичка правила (култура безбедносног понашања; правила о ношењу униформе, опреме и службене одеће; систем личних вредности; етичка правила; последице непридржавања етичких правила;);</p>
+						</content>
+					</alinea>
+					<alinea id="gla3-clan8-ali2">
+						<content>
+							<p>адноправни и интерни прописи организатора које редари треба да познају и примењују;</p>
+						</content>
+					</alinea>
+					<alinea id="gla3-clan8-ali3">
+						<content>
+							<p>омуникација – основни појмови;</p>
+						</content>
+					</alinea>
+					<alinea id="gla3-clan8-ali4">
+						<content>
+							<p>снове вербалне и не вербалне комуникације;</p>
+						</content>
+					</alinea>
+					<alinea id="gla3-clan8-ali5">
+						<content>
+							<p>оцијална перцепција (опажање особа, грешке у опажању, тестови);</p>
+						</content>
+					</alinea>
+					<alinea id="gla3-clan8-ali6">
+						<content>
+							<p>ндикатори конфликта у комуникацији и начин решавања;</p>
+						</content>
+					</alinea>
+					<alinea id="gla3-clan8-ali7">
+						<content>
+							<p>актичка комуникација.</p>
+						</content>
+					</alinea>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ПРВА ПОМОЋ</heading>
+				<content>
+					<alinea id="gla4-clan8-ali1">
+						<content>
+							<p>снови прве помоћи (сврха и значај прве помоћи, приступ повређеном или оболелом и поступак првог прегледа);</p>
+						</content>
+					</alinea>
+					<alinea id="gla4-clan8-ali2">
+						<content>
+							<p>ере реанимација (вештачко дисање, оживљавање – спољашња масажа срца);</p>
+						</content>
+					</alinea>
+					<alinea id="gla4-clan8-ali3">
+						<content>
+							<p>рварење и прва помоћ (спољашња крварења и методи заустављања, третирање рана, искрвављење и знаци шока);</p>
+						</content>
+					</alinea>
+					<alinea id="gla4-clan8-ali4">
+						<content>
+							<p>елесне повреде – указивање прве помоћи (механичке повреде – озледе и ране, асфиктичне повреде – угушења, хемијске повреде – тровање и отрови);</p>
+						</content>
+					</alinea>
+					<alinea id="gla4-clan8-ali5">
+						<content>
+							<p>овреде костију, зглобова и кичме (имобилизација одређених костију зглобова и кичме);</p>
+						</content>
+					</alinea>
+					<alinea id="gla4-clan8-ali6">
+						<content>
+							<p>ранспорт повређених и оболелих (начин померања и транспорт повређених);</p>
+						</content>
+					</alinea>
+					<alinea id="gla4-clan8-ali7">
+						<content>
+							<p>итни медицински случајеви (срчани и мождани удар, епилептички и астматички напад).</p>
+						</content>
+					</alinea>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>ЗАШТИТА ОД ПОЖАРА</heading>
+				<content>
+					<alinea id="gla5-clan8-ali1">
+						<content>
+							<p>ревентивне мере заштите од пожара;</p>
+						</content>
+					</alinea>
+					<alinea id="gla5-clan8-ali2">
+						<content>
+							<p>редства за гашење пожара;</p>
+						</content>
+					</alinea>
+					<alinea id="gla5-clan8-ali3">
+						<content>
+							<p>снови процеса горења;</p>
+						</content>
+					</alinea>
+					<alinea id="gla5-clan8-ali4">
+						<content>
+							<p>према за гашење пожара;</p>
+						</content>
+					</alinea>
+					<alinea id="gla5-clan8-ali5">
+						<content>
+							<p>ојам и класификација пожара;</p>
+						</content>
+					</alinea>
+					<alinea id="gla5-clan8-ali6">
+						<content>
+							<p>ашење пожара, спасавање и евакуација.</p>
+						</content>
+					</alinea>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>УПОТРЕБА СРЕДСТАВА ПРИНУДЕ – ПРИМЕНА ФИЗИЧКЕ СНАГЕ – САМООДБРАНА</heading>
+				<content>
+					<тачка id="gla6-clan8-tac1">
+						<num>1.</num>
+						<content>
+							<p> Основни елементи вештина одбране и напада</p>
+							<alinea id="gla6-clan8-tac1-ali1">
+								<content>
+									<p>ехнике падова, бацања, удараца, блокова и полуга;</p>
+								</content>
+							</alinea>
+							<alinea id="gla6-clan8-tac1-ali2">
+								<content>
+									<p>дбране од хватова, обухвата, удараца, гушења, напада ножем и претње ватреним оружјем.</p>
+								</content>
+							</alinea>
+						</content>
+					</тачка>
+					<тачка id="gla6-clan8-tac2">
+						<num>2.</num>
+						<content>
+							<p> Вођење лица</p>
+							<alinea id="gla6-clan8-tac2-ali1">
+								<content>
+									<p>ођење лица које не пружа отпор;</p>
+								</content>
+							</alinea>
+							<alinea id="gla6-clan8-tac2-ali2">
+								<content>
+									<p>ођење лица које пружа отпор.</p>
+								</content>
+							</alinea>
+						</content>
+					</тачка>
+					<став id="gla6-clan8-stav1">
+						<img alt="sport.tif" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/sport_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=390779&amp;regactid=390779"/>
+						<content/>
+					</став>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

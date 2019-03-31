@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2005/25-6/main"/>
+					<FRBRuri value="/rs/act/2005/25-6"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2005/25-6/srp@/main"/>
+					<FRBRuri value="/rs/act/2005/25-6/srp@"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2005/25-6/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2005/25-6/srp@.akn"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2005-3-17" name="службени гласник рс" number="25" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Наредба" value="наредба"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="4. Заштита биља" value="4. заштита биља"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2005-03-15" id="usvajanje"/>
+				<step date="2005-03-18" id="stupanje_na_snagu"/>
+				<step date="2005-03-18" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 71. став 1. </ref>Закона о државној управи („<ref id="ref1" href="/rs/act/92/20/srp@">Службени гласник РС”, бр. 20/92</ref> и 48/93), а у вези са чланом 11. тач. 3) и 4) Закона о заштити биља („<ref id="ref2" href="/rs/act/98/24/srp@">Службени лист СРЈ”, бр. 24/98</ref> и 26/98),</p>
+			<p>Министар пољопривреде, шумарства и водопривреде доноси</p>
+		</preamble>
+		<preface>
+			<authority>НАРЕДБУ</authority>
+			<title>о предузимању мера ради спречавања појаве и ширења болести „црна нога” проузроковане фитоплазмом из групе Stolbur</title>
+			<date>„Службени гласник РС&quot;, бр. 25 од 17. марта 2005.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Ради спречавања појаве и ширења болести „црна нога” (у даљем тексту: Bois Noir – BN ) коју проузрокују фитоплазме из групе Stolbur, произвођачи садног материјала винове лозе дужни су да у матичним засадима и прпориштима винове лозе предузимају следеће мере:</heading>
+				<content>
+					<point id="od1-tac1">
+						<num>1)</num>
+						<content>
+							<p> уништавање широколисних корова (нарочито Цонволвулус арвенсис и Уртица диоица) унутар засада, као и око њега на растојању од два метра;</p>
+						</content>
+					</point>
+					<point id="od1-tac2">
+						<num>2)</num>
+						<content>
+							<p> уништавање биљака са симптомима болести Bois Noir – BN ако се лабораторијском анализом потврди присуство фитоплазме из групе Stolbur.</p>
+						</content>
+					</point>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Подручне пољопривредне службе дужне су да обавештавају произвођаче садног материјала винове лозе о присуству, симптомима и штети коју наносе фитоплазме из групе Stolbur, као и о неопходости предузимања мера и расположивим средствима за њено сузбијање.</heading>
+				<content/>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Ова наредба ступа на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”.</heading>
+				<content>
+					<clause id="od3-stav1">
+						<content>
+							<p>Број 321-01-00303/2005-09</p>
+						</content>
+					</clause>
+					<clause id="od3-stav2">
+						<content>
+							<p>У Београду, 15. марта 2005. године</p>
+						</content>
+					</clause>
+					<clause id="od3-stav3">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="od3-stav4">
+						<content>
+							<p>Ивана Дулић-Марковић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

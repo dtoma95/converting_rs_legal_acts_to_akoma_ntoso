@@ -1,0 +1,783 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2018/65-4/main"/>
+					<FRBRuri value="/rs/act/2018/65-4"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/65-4/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/65-4/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/65-4/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/65-4/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2018-8-24" name="службени гласник рс" number="65" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="I ДРЖАВНО УРЕЂЕЊЕ" value="i државно уређење"/>
+				<keyword id="grupa" showAs="19. Матичне књиге" value="19. матичне књиге"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2018-08-14" id="usvajanje"/>
+				<step date="2018-09-01" id="stupanje_na_snagu"/>
+				<step date="2019-01-01" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник је ступио на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 1. септембра 2018. године, а примењује се од 1. јануара 2019. године (види <ref>члан 34. </ref>Правилника).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 86. став 1. тачка 8</ref>) Закона о матичним књигама („<ref id="ref19" href="/rs/act/09/20/srp@">Службени гласник РС”, бр. 20/09, 145/14</ref> и 47/18),</p>
+		</preamble>
+		<preface>
+			<authority>Министар државне управе и локалне самоуправе доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о посебном стручном испиту за матичара</title>
+			<date>&quot;Службени гласник РС&quot;, број 65 од 24. августа     2018.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>УВОДНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<heading>Садржина правилника</heading>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником уређује се програм и начин полагања посебног стручног испита за матичара, изглед и садржина обрасца уверења о положеном посебном стручном испиту за матичара, начин издавања уверења о положеном посебном стручном испиту за матичара и начин вођења евиденције о положеном посебном стручном испиту за матичара.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<heading>Ко полаже посебан стручни испит за матичара</heading>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Посебан стручни испит за матичара полаже лице које је засновало радни однос на неодређено време ради обављања послова матичара или заменика матичара, односно приправник који се прима у радни однос на одређено време у органу из <ref>члана 6. </ref>ст. 2. и 4. Закона о матичним књигама ради оспособљава за самосталан рад, односно обављање послова матичара (у даљем тексту: кандидат).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Посебан стручни испит за матичара могу полагати и лица са којима је, у складу са законом, закључен уговор о стручном оспособљавању без накнаде, рaди стручнoг oспoсoбљaвaњa, oднoснo стицaњa рaднoг искуствa и услoвa зa пoлaгaњe посебног стручног испита за матичара.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan3-stav2">
+								<content>
+									<p>Посебан стручни испит за матичара могу полагати и друга лица која су се оспособила за самосталан рад у струци, односно самостално обављање послова и имају стечено радно искуство у струци у трајању које је услов за обављање послова матичара, а заинтересована су за рад на пословима матичара, односно заменика матичара.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ПРОГРАМ ПОСЕБНОГ СТРУЧНОГ ИСПИТА ЗА МАТИЧАРА</heading>
+				<content>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<heading>Садржина Програма</heading>
+						<content>
+							<clause id="gla2-clan4-stav1">
+								<content>
+									<p>У току испита проверава се познавање важећих прописа којима су уређене области из испитних предмета.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav2">
+								<content>
+									<p>Области које чине садржину испитних предмета наведене су у Програму посебног стручног испита за матичара, који је као Прилог 1 одштампан уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan5">
+						<num>5.</num>
+						<heading>Испитни предмети</heading>
+						<content>
+							<clause id="gla2-clan5-stav1">
+								<content>
+									<p>Посебан стручни испит за матичара садржи следеће испитне предмете:</p>
+									<point id="gla2-clan5-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> Матичне књиге;</p>
+										</content>
+									</point>
+									<point id="gla2-clan5-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> Држављанство;</p>
+										</content>
+									</point>
+									<point id="gla2-clan5-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> Породични односи, брак и лично име;</p>
+										</content>
+									</point>
+									<point id="gla2-clan5-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> Међународне конвенције и статусна питања са иностраним елементом;</p>
+										</content>
+									</point>
+									<point id="gla2-clan5-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> Управни поступак са елементима канцеларијског пословања.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>НАЧИН ПОЛАГАЊА ПОСЕБНОГ СТРУЧНОГ ИСПИТА ЗА МАТИЧАРА</heading>
+				<content>
+					<article id="gla3-clan6">
+						<num>6.</num>
+						<heading>Испитна комисија</heading>
+						<content>
+							<clause id="gla3-clan6-stav1">
+								<content>
+									<p>За спровођење посебног стручног испита за матичара образује се Испитна комисија за полагање посебног стручног испита за матичара (у даљем тексту: Испитна комисија).</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan6-stav2">
+								<content>
+									<p>Испитна комисија одлучује већином гласова од укупног броја чланова.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan7">
+						<num>7.</num>
+						<heading>Састав Испитне комисије</heading>
+						<content>
+							<clause id="gla3-clan7-stav1">
+								<content>
+									<p>Испитна комисија има пет чланова од којих су један председник и један заменик председника.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan7-stav2">
+								<content>
+									<p>Прeдсeдник, зaмeник прeдсeдникa и члaнoви Испитнe кoмисиje мoрajу бити држaвни службeници кojи имajу стeчeнo висoкo oбрaзoвaњe нa oснoвним aкaдeмским студиjaмa у oбиму oд нajмaњe 240 EСПБ бoдoвa, мaстeр aкaдeмским студиjaмa, спeциjaлистичким aкaдeмским студиjaмa, спeциjaлистичким струкoвним студиjaмa, oднoснo нa oснoвним студиjaмa у трajaњу oд нajмaњe чeтири гoдинe или спeциjaлистичким студиjaмa нa фaкултeту и нajмaњe сeдaм гoдинa рaднoг искуствa у струци.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan8">
+						<num>8.</num>
+						<heading>Секретар Испитне комисије</heading>
+						<content>
+							<clause id="gla3-clan8-stav1">
+								<content>
+									<p>Административне послове за Испитну комисију обавља секретар Испитне комисије.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan8-stav2">
+								<content>
+									<p>Секретар Испитне комисије има заменика.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan9">
+						<num>9.</num>
+						<heading>Испитивачи</heading>
+						<content>
+							<clause id="gla3-clan9-stav1">
+								<content>
+									<p>За сваки испитни предмет одређује се најмање два испитивача.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan9-stav2">
+								<content>
+									<p>Председник, заменик председника и чланови Испитне комисије одређују се истовремено и за испитиваче на појединим испитним предметима.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan9-stav3">
+								<content>
+									<p>За испитивача се може одредити:</p>
+									<point id="gla3-clan9-stav3-tac1">
+										<num>1)</num>
+										<content>
+											<p> државни службеник који има стечено висoкo oбрaзoвaњe нa oснoвним aкaдeмским студиjaмa у oбиму oд нajмaњe 240 EСПБ бoдoвa, мaстeр aкaдeмским студиjaмa, спeциjaлистичким aкaдeмским студиjaмa, спeциjaлистичким струкoвним студиjaмa, oднoснo нa oснoвним студиjaмa у трajaњу oд нajмaњe чeтири гoдинe или спeциjaлистичким студиjaмa нa фaкултeту и нajмaњe пет гoдинa рaднoг искуствa у струци;</p>
+										</content>
+									</point>
+									<point id="gla3-clan9-stav3-tac2">
+										<num>2)</num>
+										<content>
+											<p> стручњак у области која је у вези са садржином испитног предмета за коју се одређује за испитивача, који има најмање стечено висoкo oбрaзoвaњe нa oснoвним aкaдeмским студиjaмa у oбиму oд нajмaњe 240 EСПБ бoдoвa, мaстeр aкaдeмским студиjaмa, спeциjaлистичким aкaдeмским студиjaмa, спeциjaлистичким струкoвним студиjaмa, oднoснo нa oснoвним студиjaмa у трajaњу oд нajмaњe чeтири гoдинe или спeциjaлистичким студиjaмa нa фaкултeту.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan10">
+						<num>10.</num>
+						<heading>Образовање Испитне комисије</heading>
+						<content>
+							<clause id="gla3-clan10-stav1">
+								<content>
+									<p>Испитну комисију решењем образује министар надлежан за систем државне управе (у даљем тексту: министар), на период од две године.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan10-stav2">
+								<content>
+									<p>Решењем о образовању Испитне комисије, поред председника, заменика председника и чланова Испитне комисије, одређују се и испитивачи за поједине испитне предмете и секретар, односно заменик секретара Испитне комисије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla3-clan11-stav1">
+								<content>
+									<p>Председнику, заменику председника, члановима Испитне комисије, испитивачима, секретару и заменику секретара Испитне комисије, као и лицима која учествују у организацији и спровођењу посебног стручног испита за матичара припада накнада за рад чију висину решењем утврђује министар.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan12">
+						<num>12.</num>
+						<heading>Захтев за полагање посебног стручног испита за матичара</heading>
+						<content>
+							<clause id="gla3-clan12-stav1">
+								<content>
+									<p>Захтев за полагање посебног стручног испита за матичара подноси се на Обрасцу 1, који је као Прилог 2 одштампан уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan12-stav2">
+								<content>
+									<p>Ако се захтев за полагање посебног стручног испита за матичара подноси сагласно <ref>члану 2. овог</ref> правилника, уз захтев се подноси:</p>
+									<point id="gla3-clan12-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> решење о заснивању радног односа на неодређено време ради обављања послова матичара или заменика матичара, односно решење о заснивању радног односа приправника на одређено време ради оспособљава за самосталан рад, односно обављање послова матичара;</p>
+										</content>
+									</point>
+									<point id="gla3-clan12-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> решење о утврђеној обавези полагања посебног стручног испита за матичара;</p>
+										</content>
+									</point>
+									<point id="gla3-clan12-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> оверена фотокопија дипломе о стеченом образовању из <ref>члана 11. </ref>Закона о матичним књигама;</p>
+										</content>
+									</point>
+									<point id="gla3-clan12-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> фотокопија личне карте.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan12-stav3">
+								<content>
+									<p>Ако се захтев за полагање посебног стручног испита за матичара подноси сагласно <ref>члану 3. став 1. овог</ref> правилника, уз захтев се подноси:</p>
+									<point id="gla3-clan12-stav3-tac1">
+										<num>1)</num>
+										<content>
+											<p> уговор о стручном оспособљавању без накнаде, рaди стручнoг oспoсoбљaвaњa, oднoснo стицaњa рaднoг искуствa и услoвa зa пoлaгaњe посебног стручног испита за матичара;</p>
+										</content>
+									</point>
+									<point id="gla3-clan12-stav3-tac2">
+										<num>2)</num>
+										<content>
+											<p> оверена фотокопија дипломе о стеченом образовању из <ref>члана 11. </ref>Закона о матичним књигама;</p>
+										</content>
+									</point>
+									<point id="gla3-clan12-stav3-tac3">
+										<num>3)</num>
+										<content>
+											<p> фотокопија личне карте.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan12-stav4">
+								<content>
+									<p>Ако се захтев за полагање посебног стручног испита за матичара подноси сагласно <ref>члану 3. став 2. овог</ref> правилника, уз захтев се подноси:</p>
+									<point id="gla3-clan12-stav4-tac1">
+										<num>1)</num>
+										<content>
+											<p> оверена фотокопија дипломе о стеченом образовању из <ref>члана 11. </ref>Закона о матичним књигама;</p>
+										</content>
+									</point>
+									<point id="gla3-clan12-stav4-tac2">
+										<num>2)</num>
+										<content>
+											<p> уверење (потврда) о оспособљености за самосталан рад у струци, односно самостално обављање послова и стеченом радном искуству у струци које је услов за обављање послова матичара;</p>
+										</content>
+									</point>
+									<point id="gla3-clan12-stav4-tac3">
+										<num>3)</num>
+										<content>
+											<p> фотокопија личне карте.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan12-stav5">
+								<content>
+									<p>Електронски образац захтева из става 1. овог члана преузима се на веб презентацији министарства надлежног за систем државне управе (у даљем тексту: Министарство), а подаци у образац захтева уписују се електронским путем.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan13">
+						<num>13.</num>
+						<heading>Подношење захтева за полагање посебног стручног испита за матичара</heading>
+						<content>
+							<clause id="gla3-clan13-stav1">
+								<content>
+									<p>Захтев за полагање посебног стручног испита за матичара за лица из <ref>члана 2. овог</ref> правилника подноси орган из <ref>члана 6. </ref>ст. 2. и 4. Закона о матичним књигама, а може га поднети и само лице које сагласно <ref>члану 2. овог</ref> правилника има обавезу полагања посебног стручног испита за матичара, као и лица из <ref>члана 3. овог</ref> правилника (у даљем тексту: подносилац захтева).</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan13-stav2">
+								<content>
+									<p>Орган из <ref>члана 6. </ref>ст. 2. и 4. Закона о матичним књигама је у обавези да захтев за полагање посебног стручног испита за матичара поднесе најкасније 60 дана пре истека рока у коме је лице из <ref>члана 2. овог</ref> правилника, сагласно закону, обавезно да положи посебан стручни испит за матичара, а ако не поступи у утврђеном року захтев може поднети сам кандидат.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan14">
+						<num>14.</num>
+						<heading>Одлука о захтеву за полагање посебног стручног испита за матичара</heading>
+						<content>
+							<clause id="gla3-clan14-stav1">
+								<content>
+									<p>О захтеву за полагање посебног стручног испита за матичара одлучује овлашћено службено лице.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan15">
+						<num>15.</num>
+						<heading>Трошкови полагања посебног стручног испита за матичара</heading>
+						<content>
+							<clause id="gla3-clan15-stav1">
+								<content>
+									<p>Орган у коме је кандидат запослен, односно подносилац захтева, дужан је да уплати трошкове полагање посебног стручног испита за матичара пре полагања испита.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan15-stav2">
+								<content>
+									<p>Трошкове полагања посебног стручног испита решењем утврђује министар.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan16">
+						<num>16.</num>
+						<heading>Одређивање одржавања испита</heading>
+						<content>
+							<clause id="gla3-clan16-stav1">
+								<content>
+									<p>Испитна комисија, водећи рачуна о року у коме је кандидат обавезан да положи посебан стручни испит за матичара, одређује дан, време и место полагања испита, о чему обавештава подносиоца захтева најкасније седам дана пре полагања испита.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan16-stav2">
+								<content>
+									<p>Испитна комисија одређује и распоред чланова Испитне комисије, односно испитивача за сваки испитни рок.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan17">
+						<num>17.</num>
+						<heading>Ток испита</heading>
+						<content>
+							<clause id="gla3-clan17-stav1">
+								<content>
+									<p>Посебан стручан испит за матичара полаже се усмено.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan17-stav2">
+								<content>
+									<p>Посебан стручан испит за матичара започиње постављањем испитних питања кандидату.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="gla3-clan18-stav1">
+								<content>
+									<p>Знање које је кандидат показао из сваког испитног предмета оцењује се посебно описном оценом „положио” или „није положио”.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="gla3-clan19-stav1">
+								<content>
+									<p>После завршетка посебног стручног испита за матичара Испитна комисија утврђује општи успех који је кандидат постигао на испиту оценом „положио” или „није положио”, након чега секретар Испитне комисије саопштава резултат кандидату.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan19-stav2">
+								<content>
+									<p>Посебан стручни испит за матичара није положио кандидат који је из више од два испитна предмета добио оцену „није положио”.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla3-clan20-stav1">
+								<content>
+									<p>О току посебног стручног испита за матичара води се записник у који се уносе подаци о резултатима испита, на основу појединачних писаних извештаја испитивача.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan20-stav2">
+								<content>
+									<p>Резултат полагања посебног стручног испита за матичара уноси се у записник по утврђивању општег успеха кандидата.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan20-stav3">
+								<content>
+									<p>Записник потписују председник, односно заменик председника, чланови и секретар Испитне комисије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan21">
+						<num>21.</num>
+						<heading>Поправни испит</heading>
+						<content>
+							<clause id="gla3-clan21-stav1">
+								<content>
+									<p>Кандидат који је из једног или два испитна предмета добио оцену „није положио” позива се на поправни испит из тих предмета, у року који не може бити дужи од 60 дана од дана претходног полагања.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan21-stav2">
+								<content>
+									<p>Кандидат који на поправном испиту из једног предмета добије оцену „није положио” или ако уредно позван не приступи полагању испита у року из става 1. овог члана, није положио посебан стручни испит за матичара.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan22">
+						<num>22.</num>
+						<heading>Одлагање испита</heading>
+						<content>
+							<clause id="gla3-clan22-stav1">
+								<content>
+									<p>На захтев кандидата, председник Испитне комисије може одлучити да започети испит одложи за други испитни рок, а најдуже до 30 дана, ако је кандидат због болести или другог оправданог разлога, спречен да настави полагање посебног стручног испита за матичара.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan22-stav2">
+								<content>
+									<p>Кандидат је дужан да разлоге због којих тражи одлагање започетог испита учини вероватним.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan22-stav3">
+								<content>
+									<p>Рок на који је испит одложен рачуна се од дана доношења одлуке о одлагању испита.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan23">
+						<num>23.</num>
+						<heading>Поновно полагање посебног стручног испита за матичара</heading>
+						<content>
+							<clause id="gla3-clan23-stav1">
+								<content>
+									<p>Кандидат који није положио посебан стручни испит за матичара не може поново полагати испит пре истека рока од 15 дана од дана претходног полагања.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan23-stav2">
+								<content>
+									<p>Изузетно, кандидат који је дужан да положи посебан стручни испит за матичара у року утврђеном законом, може полагати испит пре истека рока из става 1. овог члана.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan24">
+						<num>24.</num>
+						<heading>Право на приговор</heading>
+						<content>
+							<clause id="gla3-clan24-stav1">
+								<content>
+									<p>Кандидат који сматра да његов успех из неког предмета није правилно оцењен има право приговора Испитној комисији у року од 48 часова од дана саопштења резултата о полагању посебног стручног испита за матичара.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan25">
+						<num>25.</num>
+						<content>
+							<clause id="gla3-clan25-stav1">
+								<content>
+									<p>Кандидат који је изјавио приговор поново полаже испит из предмета на који се приговор односи пред Испитном комисијом наредног радног дана од дана пријема приговора у време које му саопштава секретар Испитне комисије.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>УВЕРЕЊЕ О ПОЛОЖЕНОМ ПОСЕБНОМ СТРУЧНОМ ИСПИТУ ЗА МАТИЧАРА</heading>
+				<content>
+					<article id="gla4-clan26">
+						<num>26.</num>
+						<heading>Начин издавања уверења</heading>
+						<content>
+							<clause id="gla4-clan26-stav1">
+								<content>
+									<p>На основу резултата испита, кандидату који је положио посебан стручни испит за матичара издаје се Уверење о положеном посебном стручном испиту за матичара.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan26-stav2">
+								<content>
+									<p>Уверење о положеном посебном стручном испиту за матичара издаје министар.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan27">
+						<num>27.</num>
+						<heading>Садржина уверења</heading>
+						<content>
+							<clause id="gla4-clan27-stav1">
+								<content>
+									<p>Уверење о положеном посебном стручном испиту за матичара издаје се на Обрасцу 2, који је као Прилог 3 одштампан уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan27-stav2">
+								<content>
+									<p>Образац из става 1. овог члана израђује се од заштићене 100-грамске хартије са штампом у љубичастој боји и садржи грб Републике Србије, у заглављу и средини обрасца.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>ЕВИДЕНЦИЈА О ПОЛОЖЕНОМ ПОСЕБНОМ СТРУЧНОМ ИСПИТУ ЗА МАТИЧАРА</heading>
+				<content>
+					<article id="gla5-clan28">
+						<num>28.</num>
+						<heading>Начин вођења евиденције</heading>
+						<content>
+							<clause id="gla5-clan28-stav1">
+								<content>
+									<p>Министарство води Евиденцију о положеном посебном стручном испиту за матичара (у даљем тексту: Евиденција).</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan28-stav2">
+								<content>
+									<p>Евиденција се води као јединствена електронска база података.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan29">
+						<num>29.</num>
+						<heading>Садржина евиденције</heading>
+						<content>
+							<clause id="gla5-clan29-stav1">
+								<content>
+									<p>Евиденција се води у непрекидном низу бројева.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan29-stav2">
+								<content>
+									<p>У Евиденцију се уписује:</p>
+									<point id="gla5-clan29-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> име и презиме кандидата;</p>
+										</content>
+									</point>
+									<point id="gla5-clan29-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> јединствени матични број грађана;</p>
+										</content>
+									</point>
+									<point id="gla5-clan29-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> назив високошколске установе, ниво и врста стеченог образовања и стручни назив;</p>
+										</content>
+									</point>
+									<point id="gla5-clan29-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> датум полагања испита;</p>
+										</content>
+									</point>
+									<point id="gla5-clan29-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> подаци о општем успеху на испиту;</p>
+										</content>
+									</point>
+									<point id="gla5-clan29-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> број и датум издатог уверења о положеном посебном стручном испиту за матичара;</p>
+										</content>
+									</point>
+									<point id="gla5-clan29-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> напомена, која садржи број и датум решења којим је одобрено полагање посебног стручног испита за матичара.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>УСЛУГЕ ЕЛЕКТРОНСКЕ УПРАВЕ</heading>
+				<content>
+					<article id="gla6-clan30">
+						<num>30.</num>
+						<content>
+							<clause id="gla6-clan30-stav1">
+								<content>
+									<p>Ради подношења захтева из <ref>члана 12. овог</ref> правилника у електронском облику и електронског управног поступања и електронске комуникације у вези са захтевима из <ref>члана 12. овог</ref> правилника, Министарство успоставља софтверско решење које на једном месту омогућава електронско управно поступање, односно поступање у управним стварима електронским путем.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan30-stav2">
+								<content>
+									<p>Евиденција из <ref>члана 28. овог</ref> правилника саставни је део софтверског решења из става 1. овог члана.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla7">
+				<num>VII</num>
+				<heading>ПРЕЛАЗНЕ И ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla7-clan31">
+						<num>31.</num>
+						<content>
+							<clause id="gla7-clan31-stav1">
+								<content>
+									<p>Кандидат који је започео полагање посебног стручног испита за матичара према програму посебног стручног испита за матичара, који је важио до почетка примене овог правилника, окончаће полагање испита према том програму.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan32">
+						<num>32.</num>
+						<content>
+							<clause id="gla7-clan32-stav1">
+								<content>
+									<p>Министарство ће обезбедити софтверско решење из <ref>члана 30. овог</ref> правилника најкасније у року од 18 месеци од дана почетка примене овог правилника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan33">
+						<num>33.</num>
+						<content>
+							<clause id="gla7-clan33-stav1">
+								<content>
+									<p>Даном почетка примене овог правилника престаје да важи Правилник о програму и начину полагања посебног стручног испита за матичара („<ref id="ref20" href="/rs/act/09/101/srp@">Службени гласник РС”, бр. 101/09, 122/14</ref> и 74/16).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan34">
+						<num>34.</num>
+						<content>
+							<clause id="gla7-clan34-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, а примењује се од 1. јануара 2019. године.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan34-stav2">
+								<content>
+									<p>Број 110-00-178/2018-13</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan34-stav3">
+								<content>
+									<p>У Београду, 14. августа 2018. године</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan34-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan34-stav5">
+								<content>
+									<p>Бранко Ружић, с.р.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan34-stav6">
+								<content>
+									<p>Прилози</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan34-stav7">
+								<content>
+									<p>Прилог 1 -        Програм посебног стручног испита за матичара</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan34-stav8">
+								<content>
+									<p>Прилог 2 -        Захтев за полагање посебног стручног испита за матичара (Образац 1)</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

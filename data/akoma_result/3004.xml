@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2008/55-36/main"/>
+					<FRBRuri value="/rs/act/2008/55-36"/>
+					<FRBRdate date="2008" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2008/55-36/srp@/main"/>
+					<FRBRuri value="/rs/act/2008/55-36/srp@"/>
+					<FRBRdate date="2008" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2008/55-36/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2008/55-36/srp@.akn"/>
+					<FRBRdate date="2008" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2008-5-27" name="службени гласник рс“" number="55" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="I ДРЖАВНО УРЕЂЕЊЕ" value="i државно уређење"/>
+				<keyword id="grupa" showAs="9. Уставни суд" value="9. уставни суд"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2008-05-22" id="usvajanje"/>
+				<step date="2008-06-04" id="stupanje_na_snagu"/>
+				<step date="2008-06-04" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>Уставни суд, на основу <ref>члана 5. став 2. </ref>алинеја 1. Пословника о раду Уставног суда („<ref id="ref1" href="/rs/act/08/24/srp@">Службени гласник РС”, бр. 24/08</ref> и 27/08), на седници одржаној 22. маја 2008. године, донео је</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о радном времену у Уставном суду</title>
+			<date>„Службени гласник РС“, број 55 oд 27. маја 2008.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> У Уставном суду радно време почиње у 8,30 часова и завршава у 16,30 часова.</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Радно време за пријем поднесака у Писарници Уставног суда је радним даном од 9,00 до 14,00 часова.</heading>
+				<content/>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Ступањем на снагу ове одлуке престаје да важи Одлука о радном времену у Уставном суду („<ref id="ref2" href="/rs/act/03/121/srp@">Службени гласник РС”, број 121/03</ref>).</heading>
+				<content/>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Ова одлука ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</heading>
+				<content>
+					<clause id="od4-stav1">
+						<content>
+							<p>Су број И-8/10-1</p>
+						</content>
+					</clause>
+					<clause id="od4-stav2">
+						<content>
+							<p>У Београду, 22. маја 2008. године</p>
+						</content>
+					</clause>
+					<clause id="od4-stav3">
+						<content>
+							<p>Председник</p>
+						</content>
+					</clause>
+					<clause id="od4-stav4">
+						<content>
+							<p>Уставног суда,</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

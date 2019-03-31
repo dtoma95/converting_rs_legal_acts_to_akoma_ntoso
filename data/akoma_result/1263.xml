@@ -1,0 +1,937 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2006/21-27/main"/>
+					<FRBRuri value="/rs/act/2006/21-27"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2006/21-27/srp@/main"/>
+					<FRBRuri value="/rs/act/2006/21-27/srp@"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2006/21-27/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2006/21-27/srp@.akn"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2006-3-14" name="службени гласник рс" number="21" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="5. Високо образовање" value="5. високо образовање"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2006-03-03" id="usvajanje"/>
+				<step date="2006-03-22" id="stupanje_na_snagu"/>
+				<step date="2006-03-22" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 44. став 3. </ref>Закона о високом образовању („<ref id="ref3" href="/rs/act/05/76/srp@">Службени гласник РС”, број 76/05</ref>),</p>
+			<p>Министар просвете и спорта доноси</p>
+		</preamble>
+		<preface>
+			<title>ПРАВИЛНИК</title>
+			<authority>о регистру високошколских установа, студијских програма, наставника,</authority>
+			<title>сарадника и осталих запослених</title>
+			<date>“Службени гласник РС”, број 21 од 14. марта 2006.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се садржај и начин вођења Регистра високошколских установа, Регистра студијских програма и Регистра наставника, сарадника и осталих запослених на високошколској установи.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Регистри из <ref>члана 1. овог</ref> правилника воде се у електронском облику, односно у облику компјутерске базе података.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Регистар високошколских установа садржи следеће податке о високошколској установи:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> број уписа у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> број уписа у надлежни регистар правних лица;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> назив и седиште;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> скраћени назив;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> адреса, телефон, телефакс, електронска пошта, УРЛ;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> пореско-идентификациони број – ПИБ;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> матични број додељен од стране републичког органа надлежног за статистику;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> број подрачуна Трезора;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> висина и давалац банкарске гаранције;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> јавна или приватна високошколска установа;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> име, презиме и пребивалиште, односно назив и седиште оснивача;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> врста високошколске установе (универзитет, факултет, уметничка академија, академија струковних студија, висока школа, висока школа струковних студија);</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> подаци о органу пословођења (име и презиме, стручни, академски и научни назив, наставничко звање, функција, датум ступања на функцију и трајање мандата, број уписа у регистар као наставника);</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac14">
+								<num>14)</num>
+								<content>
+									<p> припадност самосталној високошколској установи;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac15">
+								<num>15)</num>
+								<content>
+									<p> број и датум дозволе за рад;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac16">
+								<num>16)</num>
+								<content>
+									<p> шифра делатности према класификацији делатности;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac17">
+								<num>17)</num>
+								<content>
+									<p> назив, број и датум акта о оснивању;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac18">
+								<num>18)</num>
+								<content>
+									<p> датум почетка рада;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac19">
+								<num>19)</num>
+								<content>
+									<p> називи одобрених студијских програма;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac20">
+								<num>20)</num>
+								<content>
+									<p> укупан број запослених, број наставника са пуним радним временом и број сарадника са пуним радним временом;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac21">
+								<num>21)</num>
+								<content>
+									<p> објекти у којима се обавља делатност;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac22">
+								<num>22)</num>
+								<content>
+									<p> подаци о одобрењу обављања делатности изван седишта и о извођењу студија на даљину;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac23">
+								<num>23)</num>
+								<content>
+									<p> унутрашња организација и органи;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac24">
+								<num>24)</num>
+								<content>
+									<p> образовно-научна, односно образовно-уметничка поља у оквиру којих остварује студијске програме;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac25">
+								<num>25)</num>
+								<content>
+									<p> научне, уметничке и стручне области у оквиру којих остварује студијске програме;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac26">
+								<num>26)</num>
+								<content>
+									<p> укупан број студената, број студената који се финансирају из буџета и број студената који сами финансирају студије;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac27">
+								<num>27)</num>
+								<content>
+									<p> назив, број и датум акта о одузимању дозволе за рад;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac28">
+								<num>28)</num>
+								<content>
+									<p> назив, број и датум акта о привременој забрани обављања делатности;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac29">
+								<num>29)</num>
+								<content>
+									<p> назив, број и датум акта о престанку рада високошколске установе.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Регистар студијских програма садржи следеће податке:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> број уписа у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> назив и седиште високошколске установе која изводи студијски програм;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> назив студијског програма;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> стручни, академски или научни назив који се стиче завршетком студијског програма;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> ниво и врста студија;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> број студената за који је студијски програм одобрен;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> податак о одобрењу за извођење студија на даљину;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> податак о одобрењу за извођење студијског програма изван седишта високошколске установе;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> трајање студијског програма;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> укупан број ЕСПБ бодова;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> услови за упис на студијски програм;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> назив предмета предвиђених студијским програмом и бодовна вредност сваког предмета;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> предвиђеност завршног рада и његова бодовна вредност;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac14">
+								<num>14)</num>
+								<content>
+									<p> предвиђеност студентске праксе и укупно време трајања;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac15">
+								<num>15)</num>
+								<content>
+									<p> број и датум дозволе за рад у којој је наведен студијски програм;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac16">
+								<num>16)</num>
+								<content>
+									<p> назив, број и датум акта о одузимању дозволе за рад у којој је наведен студијски програм.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Регистар наставника, сарадника и осталих запослених на високошколској установи садржи следеће податке о наставницима високошколске установе:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> број уписа у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> име, име једног родитеља и презиме;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> датум, општина и држава рођења;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> пол;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> лични (ЈМБГ) број;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> држављанство;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> адреса становања;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> телефон и електронска пошта;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> високошколска установа у којој је запослен са пуним радним временом;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> високошколска установа у којој је додатно радно ангажован;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> датум запослења у високошколској установи;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> подаци о ранијем запослењу;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> година првог запослења;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac14">
+								<num>14)</num>
+								<content>
+									<p> укупан радни стаж;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac15">
+								<num>15)</num>
+								<content>
+									<p> знање страних језика;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac16">
+								<num>16)</num>
+								<content>
+									<p> стручни, академски и научни назив;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac17">
+								<num>17)</num>
+								<content>
+									<p> назив завршног, односно магистарског рада, име ментора, датум одбране и високошколска установа на којој је рад брањен;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac18">
+								<num>18)</num>
+								<content>
+									<p> назив докторске дисертације, име ментора, датум одбране и високошколска установа на којој је дисертација брањена;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac19">
+								<num>19)</num>
+								<content>
+									<p> назив, број и датум акта о признавању стране високошколске исправе;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac20">
+								<num>20)</num>
+								<content>
+									<p> наставничко звање, датум избора у звање и високошколска установа која је извршила избор у звање;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac21">
+								<num>21)</num>
+								<content>
+									<p> рок за реизбор или избор у више звање;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac22">
+								<num>22)</num>
+								<content>
+									<p> ужа област за коју је наставник биран;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac23">
+								<num>23)</num>
+								<content>
+									<p> чланство у САНУ;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac24">
+								<num>24)</num>
+								<content>
+									<p> обављено научно и стручно усавршавање у иностранству (најмање три месеца);</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac25">
+								<num>25)</num>
+								<content>
+									<p> учешће у научним пројектима (назив пројекта, руководилац пројекта, трајање пројекта, назив носиоца пројекта);</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac26">
+								<num>26)</num>
+								<content>
+									<p> функција на високошколској установи.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Регистар наставника, сарадника и осталих запослених на високошколској установи садржи следеће податке о сарадницима високошколске установе:</p>
+							<point id="clan6-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> број уписа у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> име, име једног родитеља и презиме;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> датум, општина и држава рођења;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> пол;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> лични (ЈМБГ) број;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> држављанство;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> адреса становања;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> телефон и електронска пошта;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> високошколска установа у којој је запослен са пуним радним временом;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> високошколска установа у којој је додатно радно ангажован;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> датум запослења у високошколској установи;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> подаци о ранијем запослењу;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> година првог запослења;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac14">
+								<num>14)</num>
+								<content>
+									<p> укупан радни стаж;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac15">
+								<num>15)</num>
+								<content>
+									<p> знање страних језика;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac16">
+								<num>16)</num>
+								<content>
+									<p> стручни, академски и научни назив;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac17">
+								<num>17)</num>
+								<content>
+									<p> назив завршног, односно магистарског рада, име ментора, датум одбране и високошколска установа на којој је рад брањен;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac18">
+								<num>18)</num>
+								<content>
+									<p> назив, број и датум акта о признавању стране високошколске исправе;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac19">
+								<num>19)</num>
+								<content>
+									<p> сарадничко звање, датум избора у звање и високошколска установа која је извршила избор у звање;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac20">
+								<num>20)</num>
+								<content>
+									<p> рок за реизбор или избор у више звање;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac21">
+								<num>21)</num>
+								<content>
+									<p> научна област за коју је сарадник биран;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac22">
+								<num>22)</num>
+								<content>
+									<p> обављено научно и стручно усавршавање у иностранству (најмање три месеца);</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac23">
+								<num>23)</num>
+								<content>
+									<p> учешће у научним пројектима (назив пројекта, руководилац пројекта, трајање пројекта, назив носиоца пројекта).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Регистар наставника, сарадника и осталих запослених на високошколској установи садржи следеће податке о осталим запосленима високошколске установе:</p>
+							<point id="clan7-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> број уписа у Регистар;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> име, име једног родитеља и презиме;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> датум, општина и држава рођења;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> пол;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> лични (ЈМБГ) број;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> држављанство;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> адреса становања;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> телефон и електронска пошта;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> високошколска установа у којој је запослен са пуним радним временом;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> датум запослења у високошколској установи;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> подаци о ранијем запослењу;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> година првог запослења;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> укупан радни стаж;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac14">
+								<num>14)</num>
+								<content>
+									<p> знање страних језика;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac15">
+								<num>15)</num>
+								<content>
+									<p> стручни, академски и научни назив;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac16">
+								<num>16)</num>
+								<content>
+									<p> радно место на коме је запослен.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Упис у Регистар високошколских установа врши се на основу пријаве коју подноси високошколска установа која је добила дозволу за рад.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Пријава за упис у Регистар високошколских установа подноси се на Обрасцу број 1.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>Упис у Регистар студијских програма врши се на основу пријаве коју подноси високошколска установа која је добила дозволу за рад за одговарајући студијски програм.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav4">
+						<content>
+							<p>Пријава за упис у Регистар студијских програма подноси се на Обрасцу број 2.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav5">
+						<content>
+							<p>Упис података о наставницима, сарадницима и осталим запосленима на високошколској установи врши се на основу пријаве коју подноси високошколска установа у којој су ова лица запослена са пуним радним временом.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav6">
+						<content>
+							<p>Пријава за упис у Регистар наставника, сарадника и осталих запослених на високошколској установи подноси се за наставнике на Обрасцу број 3.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav7">
+						<content>
+							<p>Пријава за упис у Регистар наставника, сарадника и осталих запослених на високошколској установи подноси се за сараднике на Обрасцу број 4.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav8">
+						<content>
+							<p>Пријава за упис у Регистар наставника, сарадника и осталих запослених на високошколској установи подноси се за остале запослене на високошколској установи на Обрасцу број 5.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav9">
+						<content>
+							<p>Високошколска установа доставља пријаву са подацима о радном ангажовању наставника и сарадника који нису запослени на високошколској установи са пуним радним временом.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav10">
+						<content>
+							<p>Пријава из става 9. овог члана подноси се на Обрасцу број 6.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav11">
+						<content>
+							<p>У регистар се пријављује и промена података из чл. 3–7. овог правилника.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Обрасци бр. 1, 2, 3, 4, 5. и 6. одштампани су уз овај правилник и чине његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Пријава за први упис у регистар подноси се у року од 30 дана од дана добијања дозволе за рад.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Пријава за упис промене података у регистар подноси се у року од 30 дана од настанка промене, на одговарајућем обрасцу из <ref>члана 9. овог</ref> правилника.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav3">
+						<content>
+							<p>Уз пријаву за упис у регистар доставља се и пријава у облику електронског (компјутерског) фајла.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Број 110-00-00998/2006-04</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav3">
+						<content>
+							<p>У Београду, 3. марта 2006. године</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan11-stav5">
+						<content>
+							<p>др Слободан Вуксановић, с.р.</p>
+						</content>
+					</clause>
+					<став id="clan11-stav6">
+						<img height="787" id="Picture 1" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/dc975b15-406d-41bd-93ad-2e0f01692008.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417760&amp;regactid=417760" width="604"/>
+						<content/>
+					</став>
+					<став id="clan11-stav7">
+						<img height="838" id="Picture 2" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/738b5aca-670e-4d7c-a72e-d821254b920b.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417760&amp;regactid=417760" width="604"/>
+						<content/>
+					</став>
+					<став id="clan11-stav8">
+						<img height="893" id="Picture 3" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/e5b08918-0c67-4066-b58f-bacd68dd5504.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417760&amp;regactid=417760" width="605"/>
+						<content/>
+					</став>
+					<став id="clan11-stav9">
+						<img height="862" id="Picture 4" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/c0fc76ea-03a9-4456-ae16-63cabe95547c.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417760&amp;regactid=417760" width="604"/>
+						<content/>
+					</став>
+					<став id="clan11-stav10">
+						<img height="928" id="Picture 5" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/87a0da95-71bf-4790-9189-1ad9a7e5f2cd.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417760&amp;regactid=417760" width="604"/>
+						<content/>
+					</став>
+					<став id="clan11-stav11">
+						<img height="883" id="Picture 6" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/6ffd934b-617d-4c46-9933-51e8702694df.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417760&amp;regactid=417760" width="604"/>
+						<content/>
+					</став>
+					<став id="clan11-stav12">
+						<img height="930" id="Picture 7" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/b3355719-26f3-42ab-bde3-78d52a0459d8.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417760&amp;regactid=417760" width="604"/>
+						<content/>
+					</став>
+					<став id="clan11-stav13">
+						<img height="561" id="Picture 8" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/1cfde28b-790a-4d53-84d6-edfb8ac66703.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=417760&amp;regactid=417760" width="605"/>
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

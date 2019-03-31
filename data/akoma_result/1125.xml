@@ -1,0 +1,362 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2010/5-40/main"/>
+					<FRBRuri value="/rs/act/2010/5-40"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/44-27/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/44-27/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/44-27/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/44-27/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2010-2-5" name="службени гласник рс" number="5" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="4. Заштита биља" value="4. заштита биља"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2010-02-01" id="usvajanje"/>
+				<step date="2010-02-13" id="stupanje_na_snagu"/>
+				<step date="2010-02-13" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="5/2010-40" id="e1" type="generation"/>
+				<eventRef date="44/2018-27" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Даном почетка примене Закона о изменама и допунама Закона о привредним друштвима („<ref id="ref5" href="/rs/act/2018/44/srp@">Службени гласник РС“, број 44/2018</ref>), односно 1. октобра 2018. године престају да важе одредбе овог правилника, у обрасцу, у делу у ком се установљава обавеза употребе печата у пословању друштава и предузетника (види <ref>члан 160. </ref>Закона - 44/2018-27).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу <ref>члана 32. став 5. </ref>и <ref>члана 33. став 6. </ref>Закона о средствима за заштиту биља („<ref id="ref6" href="/rs/act/09/41/srp@">Службени гласник РС”, број 41/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, шумарства и водопривреде, доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о обрасцу и садржини захтева за упис у Регистар дистрибутера и увозника средстава за заштиту биља и садржини тог регистра</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 5 од 5. фебруара 2010, 44 од 8. јуна 2018 - др. закон</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>УВОДНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<heading>Предмет уређивања</heading>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником прописује се образац и садржина захтева за упис у Регистар дистрибутера и увозника средстава за заштиту биља (у даљем тексту: Регистар дистрибутера и увозника) и ближа садржина Регистра дистрибутера и увозника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ОБРАЗАЦ И САДРЖИНА ЗАХТЕВА ЗА УПИС У РЕГИСТАР ДИСТРИБУТЕРА И УВОЗНИКА</heading>
+				<content>
+					<article id="gla2-clan2">
+						<num>2.</num>
+						<heading>Подносилац захтева</heading>
+						<content>
+							<clause id="gla2-clan2-stav1">
+								<content>
+									<p>Упис у Регистар дистрибутера и увозника врши се на основу захтева који се подноси министарству надлежном за послове пољопривреде (у даљем тексту: Министарство).</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan2-stav2">
+								<content>
+									<p>Захтев из става 1. овог члана подноси правно лице или предузетник који врши промет или увоз (у даљем тексту: подносилац захтева).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan3">
+						<num>3.</num>
+						<heading>Захтев за упис у Регистар дистрибутера и увозника</heading>
+						<content>
+							<clause id="gla2-clan3-stav1">
+								<content>
+									<p>Захтев из <ref>члана 2. овог</ref> правилника за упис у Регистар дистрибутера и увозника садржи следеће податке:</p>
+									<point id="gla2-clan3-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> назив и седиште, број телефона и електронску адресу подносиоца захтева;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> име и презиме, адресу и јединствени матични број грађана (у даљем тексту: ЈМБГ) за предузетника;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> порески идентификациони број подносиоца захтева (у даљем тексту: ПИБ);</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> место, адресу и број телефона објекта и продајног места (објекат за промет на велико, промет на мало или увоз);</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> датум, потпис и печат подносиоца захтева.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav2">
+								<content>
+									<p>Уз захтев из става 1. овог члана подноси се доказ:</p>
+									<point id="gla2-clan3-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> да је подносилац захтева уписан у Регистар привредних субјеката;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> о пореском идентификационом броју подносиоца захтева (у даљем тексту: ПИБ);</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> о стручној оспособљености кадрова одговорних за стављање у промет средстава за заштиту биља;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> о закупу објекта односно продајног места (објекат за промет на велико, мало или увоз), ако није у својини подносиоца захтева;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> пуномоћје, ако се захтев подноси преко пуномоћника;</p>
+										</content>
+									</point>
+									<point id="gla2-clan3-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> о уплаћеној административној такси, у складу са законом.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav3">
+								<content>
+									<p>Подносилац захтева за упис у Регистар дистрибутера и увозника доставља копије исправа којима се доказују подаци из става 2. овог члана.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan3-stav4">
+								<content>
+									<p>Захтев из става 1. овог члана подноси се на Обрасцу – Захтев за упис у Регистар дистрибутера и увозника средстава за заштиту биља, који је одштампан уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>САДРЖИНА РЕГИСТРА ДИСТРИБУТЕРА И УВОЗНИКА</heading>
+				<content>
+					<article id="gla3-clan4">
+						<num>4.</num>
+						<heading>Садржина Регистра</heading>
+						<content>
+							<clause id="gla3-clan4-stav1">
+								<content>
+									<p>Регистар дистрибутера и увозника садржи следеће податке:</p>
+									<point id="gla3-clan4-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> редни број уписа у Регистар дистрибутера и увозника;</p>
+										</content>
+									</point>
+									<point id="gla3-clan4-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> број и датум решења о упису у Регистар привредних субјеката;</p>
+										</content>
+									</point>
+									<point id="gla3-clan4-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> назив и седиште, матични број, ПИБ, број телефона и електронску адресу правног лица, односно предузетника, као и име и презиме, адресу и ЈМБГ предузетника;</p>
+										</content>
+									</point>
+									<point id="gla3-clan4-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> имена лица овлашћених за заступање;</p>
+										</content>
+									</point>
+									<point id="gla3-clan4-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> број и датум решења о упису, односно решења о брисању из Регистра дистрибутера и увозника;</p>
+										</content>
+									</point>
+									<point id="gla3-clan4-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> податке о делатности (промет на велико, промет на мало, увоз);</p>
+										</content>
+									</point>
+									<point id="gla3-clan4-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> податке о објекту за складиштење, односно продајном месту (место, адреса, број телефона, површина);</p>
+										</content>
+									</point>
+									<point id="gla3-clan4-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> податке о запосленом стручном лицу у објекту за складиштење, односно продајном месту (име и презиме, стручна спрема, ЈМБГ).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan4-stav2">
+								<content>
+									<p>Документа која се подносе уз захтев за упис чине саставни део Регистра дистрибутера и увозника и трајно се чувају, у складу са прописима којима се уређује архивска грађа.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan4-stav3">
+								<content>
+									<p>Увид у податке из става 1. овог члана врши се уз обавезно присуство лица овлашћеног за вођење тог регистра.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan5">
+						<num>5.</num>
+						<heading>Регистарски број</heading>
+						<content>
+							<clause id="gla3-clan5-stav1">
+								<content>
+									<p>Сваком дистрибутеру, односно увознику приликом уписа у Регистар дистрибутера и увозника додељује се регистарски број.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan5-stav2">
+								<content>
+									<p>Дистрибутер, односно увозник може да има само један регистарски број.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan5-stav3">
+								<content>
+									<p>Регистарски број који је једном додељен не може се мењати.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan5-stav4">
+								<content>
+									<p>Регистарски број који је додељен дистрибутеру, односно увознику не може бити додељен неком другом дистрибутеру, односно увознику у случају да тај дистрибутер, односно увозник престане да обавља делатност промета, односно увоза.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan6">
+						<num>6.</num>
+						<heading>Промене података</heading>
+						<content>
+							<clause id="gla3-clan6-stav1">
+								<content>
+									<p>У Регистар дистрибутера и увозника уписују се и промене података.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan6-stav2">
+								<content>
+									<p>Дистрибутер, односно увозник, дужан је да сваку промену података уписаних у Регистар дистрибутера и увозника пријави Министарству у року од 15 дана од дана настале промене и приложи доказе о томе.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ЗАВРШНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla4-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla4-clan7-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan7-stav2">
+								<content>
+									<p>Број 011-00-285/2009-09</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan7-stav3">
+								<content>
+									<p>У Београду, 1. фебруара 2010. године</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan7-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan7-stav5">
+								<content>
+									<p>др Саша Драгин, с.р.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan7-stav6">
+								<content>
+									<p>Прилози</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan7-stav7">
+								<content>
+									<p>НАПОМЕНА ИЗДАВАЧА: Даном   почетка примене Закона о изменама и допунама Закона о привредним друштвима   („<ref id="ref7" href="/rs/act/2018/44/srp@">Службени гласник РС“, број 44/2018</ref>), односно 1. октобра 2018. године   престају да важе одредбе овог правилника, у обрасцу, у делу у ком се   установљава обавеза употребе печата у пословању друштава и предузетника   (види <ref>члан 160. </ref>Закона - 44/2018-27).</p>
+								</content>
+							</clause>
+							<став id="gla4-clan7-stav8">
+								<img height="1005" id="Picture 3" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/8fc00695-78df-4f77-a926-cbc6f4e124d9.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=427144&amp;regactid=427144" width="567"/>
+								<content/>
+							</став>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

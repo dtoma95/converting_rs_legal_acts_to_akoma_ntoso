@@ -1,0 +1,2971 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2012/14-14/main"/>
+					<FRBRuri value="/rs/act/2012/14-14"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2012/14-14/srp@/main"/>
+					<FRBRuri value="/rs/act/2012/14-14/srp@"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2012/14-14/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2012/14-14/srp@.akn"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2012-2-27" name="службени гласник рс" number="14" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="1. Сточарство" value="1. сточарство"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2012-02-03" id="usvajanje"/>
+				<step date="2012-03-06" id="stupanje_na_snagu"/>
+				<step date="2012-03-06" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник је ступио на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 6. марта 2012. године, осим одредбе <ref>члана 28. став 1. </ref>која се примењује од 1. јануара 2013. године (види <ref>члан 29. </ref>Правилника),</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 59. став 5. </ref>Закона о добробити животиња („<ref id="ref4" href="/rs/act/09/41/srp@">Службени гласник РС”, број 41/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, трговине, шумарства и водопривреде, доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о условима које морају да испуњавају одгајивачнице за животиње</title>
+			<date>&quot;Службени гласник РС&quot;, број 14 од 27.   фебруара 2012.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>УВОДНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником прописују се ближи услови за добробит животиња које морају да испуњавају одгајивачнице у погледу простора за животиње, просторија и опреме, садржина и начин вођења евиденције коју води власник, односно држалац одгајивачница, као и програм обуке о добробити животиња за лица која раде у одгајивачницама за животиње.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Одредбе овог правилника не односе се на објекте у којима се држе мање од две женке исте врсте животиња у сврхе узгајања ради продаје.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Поједини изрази употребљени у овом правилнику имају следеће значење:</p>
+									<point id="gla1-clan3-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> кавез јесте простор у коме животиња, узимајући у обзир физиолошке и физичке особине врсте, може да борави привремено (одмарање, спавање) или трајно;</p>
+										</content>
+									</point>
+									<point id="gla1-clan3-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> корисна подна површина јесте подна површина коју животиње могу несметано да користе;</p>
+										</content>
+									</point>
+									<point id="gla1-clan3-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> смештајни простор јесу унутрашње просторије, односно простори, укључујући и спољашње просторе, који зависно од животињске врсте могу да буду за:</p>
+											<item id="gla1-clan3-stav1-tac3-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> птице – кавези/волијере,</p>
+												</content>
+											</item>
+											<item id="gla1-clan3-stav1-tac3-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> рибе – акваријуми/базени,</p>
+												</content>
+											</item>
+											<item id="gla1-clan3-stav1-tac3-podtac3">
+												<num>(3)</num>
+												<content>
+													<p> псе и мачке – кућице, простори или просторије, са спољашњим простором,</p>
+												</content>
+											</item>
+											<item id="gla1-clan3-stav1-tac3-podtac4">
+												<num>(4)</num>
+												<content>
+													<p> остале сисаре – кавези/простори/просторије са спољашњим простором,</p>
+												</content>
+											</item>
+											<item id="gla1-clan3-stav1-tac3-podtac5">
+												<num>(5)</num>
+												<content>
+													<p> гмизавце – тераријуми/други простори уређени на одговарајући начин,</p>
+												</content>
+											</item>
+											<item id="gla1-clan3-stav1-tac3-podtac6">
+												<num>(6)</num>
+												<content>
+													<p> остале животиње – простори, односно просторије уређени на одговарајући начин са спољашњим простором.</p>
+												</content>
+											</item>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>УСЛОВИ ЗА ДОБРОБИТ ЖИВОТИЊА КОЈЕ МОРАЈУ ДА ИСПУЊАВАЈУ ОДГАЈИВАЧНИЦЕ У ПОГЛЕДУ ПРОСТОРА ЗА ЖИВОТИЊЕ, ПРОСТОРИЈА И ОПРЕМЕ</heading>
+				<content>
+					<тачка id="gla2-clan3-tac1">
+						<num>1.</num>
+						<content>
+							<p> Услови у погледу просторија</p>
+						</content>
+					</тачка>
+					<article id="gla2-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="gla2-clan4-stav1">
+								<content>
+									<p>Одгајивачницa мора да буде изграђенa и конструисанa на начин којим се обезбеђују оптимални услови својствени животињама које су у њој смештене, као и добро здравствено стање и добробит животиња.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav2">
+								<content>
+									<p>Одгајивачницa мора да буде конструисанa и одржаванa тако да се на најмању могућу меру смањи ризик од повреда, преношења болести, крађе или бежања животиња или уласка неовлашћених лица.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan4-stav3">
+								<content>
+									<p>Ако се одгајивачницаградиунасељеномместу, одгајивачница мора да буде ограђена чврстом оградом која онемогућава неконтролисани улаз и излаз животиња и људи и да буде повезана са главним саобраћајницама и мора да буде обезбеђена њена звучна и визуелна изолованост од околине.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="gla2-clan5-stav1">
+								<content>
+									<p>Кругодгајивачнице мора да:</p>
+									<point id="gla2-clan5-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> буде површине која обезбеђује функционалност;</p>
+										</content>
+									</point>
+									<point id="gla2-clan5-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> буде изолован од околине и ограђен оградом висине од 2.0 до 2.2 m, како би се спречио неконтролисани улазак и излазак људи и животиња;</p>
+										</content>
+									</point>
+									<point id="gla2-clan5-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> има улаз.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan5-stav2">
+								<content>
+									<p>Улаз у одгајивачницу мора да буде контролисан и под сталним надзором и на њему мора да буде постављена плоча са називом објекта, адресом, бројем телефона и ознаком радног времена.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan6">
+						<num>6.</num>
+						<content>
+							<clause id="gla2-clan6-stav1">
+								<content>
+									<p>Унутар круга одгајивачнице мора да се налази просторија за администрацију (пословна администрација, евиденција и сл.), просторија за боравак, одмор и исхрану лица која раде у одгајивачници и просторија за пресвлачење лица која раде у одгајивачници (гардероба), просторија или простор за припрему хране за животиње, просторија или простор за прање посуда за храну и воду за животиње, просторија или простор за складиштење хране за животиње и санитарни чвор.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan6-stav2">
+								<content>
+									<p>Поред просторија и простора из става 1. овог члана одгајивачница мора да има и смештајни простор за животиње, изолатор за оболеле и повређене животиње и купаоницу за животиње.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan7">
+						<num>7.</num>
+						<content>
+							<clause id="gla2-clan7-stav1">
+								<content>
+									<p>Смештајни објекти, односно просторије у којима се држе животиње морају да буду физички одвојени од других објеката, односно просторија.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav2">
+								<content>
+									<p>Објекти, односно просторије из става 1. овог члана морају да буду изграђени тако да:</p>
+									<point id="gla2-clan7-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> у њима има довољно простора да се животиње могу окренути, ходати, устајати, седати и лежати на начин који је у складу са физиолошким потребама животиње, а у односу на њену расу, пол и величину;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> обезбеђују да се животињеодржавајучистим исувим;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> обезбеђују микроклиматске услове примерене врсти и категорији животиња и заштиту од екстремних температура и неповољних временских услова;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> онемогућавају да друге животиње уђу у одгајивачницу;</p>
+										</content>
+									</point>
+									<point id="gla2-clan7-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> омогућавају несметани преглед и контролу животиња.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav3">
+								<content>
+									<p>Објекти, односно просторије из става 1. овог члана морају да буду конструисани, изграђени, одржавани и коришћени на начин који обезбеђује заштиту животиња од људи и људи од животиња и спречава бежање животиња.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav4">
+								<content>
+									<p>Површине у одгајивачници морају да буду прилагођене врсти животиња које се ту одгајају и морају да буду без оштрих ивица и углова који могу повредити животиње.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan7-stav5">
+								<content>
+									<p>Објекти, односно просторије из става 1. овог члана одржавајусе тако штосе свеповршине које долазе у контакт са животињама редовно чисте, перу и дезинфикују.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan8">
+						<num>8.</num>
+						<content>
+							<clause id="gla2-clan8-stav1">
+								<content>
+									<p>Зидови објеката, односно просторија у којима се држе животиње морају да буду изграђени од одговарајућег грађевинског материјала и, по потреби, а у зависности од врсте и категорије животиња, морају да имају одговарајућу топлотну изолацију.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav2">
+								<content>
+									<p>Под мора да:</p>
+									<point id="gla2-clan8-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> буде израђен од непропусног материјала који се лако пере, чисти и дезинфикује;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> има обезбеђен дренажни систем и пад ка одводном каналу, односно посебан одводни систем за чист, а посебан за нечист део;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> буде израђен тако да се заштите екстремитети паса и мачака од повреда;</p>
+										</content>
+									</point>
+									<point id="gla2-clan8-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> има површински слој који је отпоран на воду, урин, фецес и дезинфицијенсе, који је оцедан и брзо се суши, а пријатан је за кретање и лежање паса и мачака.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan8-stav3">
+								<content>
+									<p>Врата, прозори, односно отвори за ваздух и светло морају да имају оквире заштићене од рђе и да буду заштићени мрежама од уласка грабљивица и инсеката, ако је то применљиво обзиром на врсту животиња.</p>
+									<тачка id="gla2-clan8-stav3-tac2">
+										<num>2.</num>
+										<content>
+											<p> Услови у погледу простора за животиње</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan9">
+						<num>9.</num>
+						<content>
+							<clause id="gla2-clan9-stav1">
+								<content>
+									<p>Одгајивачницa у погледу простора за животиње мора да испуњава услове којима се животињама нарочито обезбеђује:</p>
+									<point id="gla2-clan9-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> довољно пространa површинa за одмор и кретање на којој животиња може удобно да лежи, да стоји, да заузима природне положаје тела и да се креће колико је неопходно за дневну активност;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> довољна количина воде и хране;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> физичка, термичка и психолошка удобност;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> успостављање социјалног контакта са другим животињама;</p>
+										</content>
+									</point>
+									<point id="gla2-clan9-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> испољавање свих облика понашања карактеристичних за врсту, осим испољавања агресивности.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan10">
+						<num>10.</num>
+						<content>
+							<clause id="gla2-clan10-stav1">
+								<content>
+									<p>У смештајном простору мора да буду обезбеђени простори за одвојено држање:</p>
+									<point id="gla2-clan10-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> агресивних животиња;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> оболелих животиња;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> керуша са окотом;</p>
+										</content>
+									</point>
+									<point id="gla2-clan10-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> штенаца млађих од четири месеца, осим држања са мајком или кујом која их храни.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="gla2-clan11-stav1">
+								<content>
+									<p>Капацитет смештајног простора мора да одговара величини и броју смештених животиња.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav2">
+								<content>
+									<p>Смештајни простор за све животиње мора да буде израђен и конструисан тако да се на најмању могућу меру смањи ризик од повреда, обољења или бекства животиња.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav3">
+								<content>
+									<p>Површине кавеза, контејнера или обора морају да буду израђене од нетоксичног материјала који се лако пере, чисти и дезинфикује.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav4">
+								<content>
+									<p>Корисна подна површина објекта, односно смештајног простора мора да одговара врсти, категорији, величини и броју животиња које су у њима смештене и мора да има одговарајући испуст у складу са потребама животиње која је ту смештена.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav5">
+								<content>
+									<p>Величина смештајног простора за псе мора да буде таква да пас може да устане и окрене се око своје осе без проблема.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan11-stav6">
+								<content>
+									<p>Димензије смештајног простора за животиње дате су у Прилогу 1 – Димензије смештајног простора за животиње, који је одштампан уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan12">
+						<num>12.</num>
+						<content>
+							<clause id="gla2-clan12-stav1">
+								<content>
+									<p>Одгајивачница мора да буде снабдевена довољном количином здравствено исправне, питке воде из јавног водовода или властитог бунара за напајање животиња и људи, као и довољном количином воде за спровођење хигијенско-санитарних мера у одгајивачници, одржавање хигијене радника и противпожарну заштиту.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan13">
+						<num>13.</num>
+						<content>
+							<clause id="gla2-clan13-stav1">
+								<content>
+									<p>Сваки кавез или бокс мора да буде опремљен уређајем за затварање који животиње не могу да отворе.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan13-stav2">
+								<content>
+									<p>У одгајивачници морају да се предузимају све потребне мере, како животиње не би могле да побегну из објекта, а безбедносни системи који се користе морају да омогућавају лицима која раде у одгајивачници слободан приступ животињама, као и излаз у случају нужде.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan13-stav3">
+								<content>
+									<p>Одгајивачница мора да има обезбеђену одговарајућу противпожарну опрему, постављену на лако достпуном месту.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan14">
+						<num>14.</num>
+						<content>
+							<clause id="gla2-clan14-stav1">
+								<content>
+									<p>Осветљење у објектима, односно просторијама по трајању и интензитету мора да буде што сличније спољашњем светлу, а по потреби, ради прегледа животиња и чишћења површина у објекту, мора да буде обезбеђено вештачко осветљење.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan14-stav2">
+								<content>
+									<p>У случају рептила, мора да буде обезбеђен фотопериод у трајању од осам сати, у ком периоду се користе сијалице за загревање које су пребојене у црвено или плаво тако да се овим животињама током дана обезбеди мрак.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan14-stav3">
+								<content>
+									<p>У просторијама у којима се налазе кује са штенцима старости до 14 дана током ноћи мора да буде обезбеђено осветљење ниског интензитета.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan14-stav4">
+								<content>
+									<p>За албино животиње потребно је обезбедити 50% мање светлости него за животиње стандардне пигментације.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="gla2-clan15-stav1">
+								<content>
+									<p>У одгајивачницама мора да буде обезбеђена одговарајућа природна или вештачка вентилација, како би се спречилапојава влагеинепријатних мириса.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan15-stav2">
+								<content>
+									<p>Ако су смештајни објекти потпуно затвореног типа, вентилациони систем мора да буде такав да се обезбеђује:</p>
+									<point id="gla2-clan15-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> 8 – 12 измена ваздуха/час у објектима за смештај паса;</p>
+										</content>
+									</point>
+									<point id="gla2-clan15-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> најмање 12 – 15 измена ваздуха/час у објектима за смештај мачака, тако да све смештајне јединице за мачке треба да буду направљене од жичане мреже.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla2-clan15-stav3">
+								<content>
+									<p>Када је то могуће, морају да се обезбеде одвојене просторије за птице и вентилациони систем, како би се уклонило перје, перут и прашина.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan15-stav4">
+								<content>
+									<p>Вентилациони систем мора да буде повезан са алармним системом који упозорава на квар на вентилационом систему, у случају да до квара дође.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan15-stav5">
+								<content>
+									<p>Члан16.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan15-stav6">
+								<content>
+									<p>Животињеу одгајивачници морају да буду заштићене од екстремних температура, а температура околине мора да се контролише како би се смањио стрес на минимум.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan15-stav7">
+								<content>
+									<p>Температура у просторији у којој се држе пси одржава се у распону 15 – 27°С.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan15-stav8">
+								<content>
+									<p>Температура у просторији у којој се држе штенци млађи од две недеље мора да буде 26 – 28°С, а температура у просторији у којој се држе болесне и повређене животиње (изолатор) или штенци и мачићи мора да буде 22 – 24°С.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan15-stav9">
+								<content>
+									<p>У кавезима са рептилима мора свакодневно да се одржава темпeратура у распону 20 – 33°С.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan17">
+						<num>17.</num>
+						<content>
+							<clause id="gla2-clan17-stav1">
+								<content>
+									<p>Смештајне јединице и испусти за животиње морају да се чисте најмање једном дневно, а по потреби и чешће, како би се животиње осећале удобно.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan17-stav2">
+								<content>
+									<p>Урин, фецес, екскрети и остаци хране морају свакодневно да се уклањају.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan17-stav3">
+								<content>
+									<p>Појилице и хранилице морају механички да се чисте и перу најмање једном дневно.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan17-stav4">
+								<content>
+									<p>Дезинфекција смештајних просторија за животиње обавља се редовно, а увек када животиња напушта одгајивачницу и на њено место долази нова животиња.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan18">
+						<num>18.</num>
+						<content>
+							<clause id="gla2-clan18-stav1">
+								<content>
+									<p>Унутар круга одгајивачнице обавља се редовна дератизација најмање два пута годишње, а по потреби и чешће.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan18-stav2">
+								<content>
+									<p>Дезинсекција одгајивачнице обавља се током раздобља активности инсеката, и то најмање једном месечно, а у осталом делу године по потреби.</p>
+									<тачка id="gla2-clan18-stav2-tac3">
+										<num>3.</num>
+										<content>
+											<p> Услови у погледу опреме</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan19">
+						<num>19.</num>
+						<content>
+							<clause id="gla2-clan19-stav1">
+								<content>
+									<p>У одгајивачници мора да буде обезбеђена одговарајућа простирка која одговара животињама које су у њој смештене.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan20">
+						<num>20.</num>
+						<content>
+							<clause id="gla2-clan20-stav1">
+								<content>
+									<p>Простирка за псе мора да буде мека, добрих адсорбентних и термоизолацијских особина и таква да не може оштетити органе за варење пса уколико грижењем и жвакањем доспе у унутрашњост организма.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan20-stav2">
+								<content>
+									<p>Простирка може бити од старог папира, песка или гуме, која се лако дезинфикује.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan20-stav3">
+								<content>
+									<p>Простирка мора да се редовно мења и одржава чистом и сувом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan21">
+						<num>21.</num>
+						<content>
+							<clause id="gla2-clan21-stav1">
+								<content>
+									<p>Мачкама мора да се обезбеди довољнаколичина простирке која мора редовно да се мења и која не сме да буде штетна за мачке.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan22">
+						<num>22.</num>
+						<content>
+							<clause id="gla2-clan22-stav1">
+								<content>
+									<p>Кунићима, заморцима и мишевима мора да се обезбеди мекана простирка која мора да се мења сваки дан.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan23">
+						<num>23.</num>
+						<content>
+							<clause id="gla2-clan23-stav1">
+								<content>
+									<p>У боксовима за псе треба поставити уздигнуту површину за одмор и сан паса на висину од око 20 до 30 cm изнад пода, која може да буде направљена од дрвених дасака, а прекривена гуменом простирком.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan23-stav2">
+								<content>
+									<p>Ако су обезбеђене издигнуте површине за спавање, оне морају да буду димензија које омогућавају одраслом псу да легне на страну без увијања, сасвим испружен.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan24">
+						<num>24.</num>
+						<content>
+							<clause id="gla2-clan24-stav1">
+								<content>
+									<p>Појилицеихранилицеморају да буду израђене од нерђајућег материјала, који се лако пере, чисти и дезинфикује.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan24-stav2">
+								<content>
+									<p>Посуде са храном морају да буду лако доступне свим животињама.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan25">
+						<num>25.</num>
+						<content>
+							<clause id="gla2-clan25-stav1">
+								<content>
+									<p>Животињама се мора обезбедити храна која је чиста, здрава, укусна, удовољној количини и добренутритивне вредности.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan25-stav2">
+								<content>
+									<p>Исхрана мора да буде прилагођена врсти, старости и кондицији животиње.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan25-stav3">
+								<content>
+									<p>Све одрасле животиње, осим рептила, морају да се хране најмање једном дневно.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan25-stav4">
+								<content>
+									<p>Штенце и мачиће старости 6 – 12 недеља треба хранити три пута дневно, а ако су старости 12 недеља – 12 месеци треба их хранити два пута дневно.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan25-stav5">
+								<content>
+									<p>Изнемоглим животињама се мора давати дијета по упутству ветеринара или лица обученог за бригу о животињама.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan25-stav6">
+								<content>
+									<p>Скотним женкама и женкама у лактацији се мора обезбедити дневна количина хране два пута већа од нормалних потреба.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla2-clan26">
+						<num>26.</num>
+						<content>
+							<clause id="gla2-clan26-stav1">
+								<content>
+									<p>Животињама се мора усвакодоба обезбедити вода.</p>
+								</content>
+							</clause>
+							<clause id="gla2-clan26-stav2">
+								<content>
+									<p>Све животиње морају имати приступ води за пиће у свако време, изузев веома младих штенаца.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>САДРЖИНА И НАЧИН ВОЂЕЊА ЕВИДЕНЦИЈЕ КОЈУ ВОДИ ВЛАСНИК, ОДНОСНО ДРЖАЛАЦ ОДГАЈИВАЧНИЦЕ</heading>
+				<content>
+					<article id="gla3-clan27">
+						<num>27.</num>
+						<content>
+							<clause id="gla3-clan27-stav1">
+								<content>
+									<p>Евиденција коју води власник, односно држалац одгајивачнице садржи податке о:</p>
+									<point id="gla3-clan27-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> имену и презимену, адреси и контакт телефону власника, односно држаоца;</p>
+										</content>
+									</point>
+									<point id="gla3-clan27-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> врсти животиње;</p>
+										</content>
+									</point>
+									<point id="gla3-clan27-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> пореклу животиње, са подацима о:</p>
+											<item id="gla3-clan27-stav1-tac3-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> називу, односно имену и презимену узгајивача,</p>
+												</content>
+											</item>
+											<item id="gla3-clan27-stav1-tac3-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> адреси узгајивача;</p>
+												</content>
+											</item>
+										</content>
+									</point>
+									<point id="gla3-clan27-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> броју обележене и евидентиране животиње и броју потврде о вакцинацији против беснила, ако су у питању пси и мачке, односно идентификационој ознаци птица;</p>
+										</content>
+									</point>
+									<point id="gla3-clan27-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> укупном броју животиња у узгоју;</p>
+										</content>
+									</point>
+									<point id="gla3-clan27-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> укупном броју женки;</p>
+										</content>
+									</point>
+									<point id="gla3-clan27-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> укупном броју приплодних женки;</p>
+										</content>
+									</point>
+									<point id="gla3-clan27-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> укупном броју женки које нису у приплоду, и то према врсти и идентификационој ознаци животиње;</p>
+										</content>
+									</point>
+									<point id="gla3-clan27-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> свакој појединачној животињи, и то:</p>
+											<item id="gla3-clan27-stav1-tac9-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> име женке,</p>
+												</content>
+											</item>
+											<item id="gla3-clan27-stav1-tac9-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> старост,</p>
+												</content>
+											</item>
+											<item id="gla3-clan27-stav1-tac9-podtac3">
+												<num>(3)</num>
+												<content>
+													<p> датум рођења,</p>
+												</content>
+											</item>
+											<item id="gla3-clan27-stav1-tac9-podtac4">
+												<num>(4)</num>
+												<content>
+													<p> датум терања,</p>
+												</content>
+											</item>
+											<item id="gla3-clan27-stav1-tac9-podtac5">
+												<num>(5)</num>
+												<content>
+													<p> датум парења (оплођења),</p>
+												</content>
+											</item>
+											<item id="gla3-clan27-stav1-tac9-podtac6">
+												<num>(6)</num>
+												<content>
+													<p> датум порођаја,</p>
+												</content>
+											</item>
+											<item id="gla3-clan27-stav1-tac9-podtac7">
+												<num>(7)</num>
+												<content>
+													<p> број легала, са подацима о полу младунаца, датуму рођења и тежини младунаца, опису младунаца и укупном броју младунаца у сваком леглу,</p>
+												</content>
+											</item>
+											<item id="gla3-clan27-stav1-tac9-podtac8">
+												<num>(8)</num>
+												<content>
+													<p> мужјаци,</p>
+												</content>
+											</item>
+											<item id="gla3-clan27-stav1-tac9-podtac9">
+												<num>(9)</num>
+												<content>
+													<p> датум набавке, односно продаје,</p>
+												</content>
+											</item>
+											<item id="gla3-clan27-stav1-tac9-podtac10">
+												<num>(10)</num>
+												<content>
+													<p> купац,</p>
+												</content>
+											</item>
+											<item id="gla3-clan27-stav1-tac9-podtac11">
+												<num>(11)</num>
+												<content>
+													<p> датум продаје младунаца,</p>
+												</content>
+											</item>
+											<item id="gla3-clan27-stav1-tac9-podtac12">
+												<num>(12)</num>
+												<content>
+													<p> број продатих животиња,</p>
+												</content>
+											</item>
+											<item id="gla3-clan27-stav1-tac9-podtac13">
+												<num>(13)</num>
+												<content>
+													<p> исхрана животиња.</p>
+												</content>
+											</item>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan27-stav2">
+								<content>
+									<p>Евиденција из става 2. овог члана посебно садржи податке које попуњава ветеринар, и то податке о:</p>
+									<point id="gla3-clan27-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> обављеном здравствено-ветеринарском третману (лечење, вакцинација и сл.);</p>
+										</content>
+									</point>
+									<point id="gla3-clan27-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> датуму сваког извршеног третмана;</p>
+										</content>
+									</point>
+									<point id="gla3-clan27-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> обављеној стерилизацији/кастрацији (ако је извршена);</p>
+										</content>
+									</point>
+									<point id="gla3-clan27-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> извршеним вакцинацијама;</p>
+										</content>
+									</point>
+									<point id="gla3-clan27-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> кретању животиња (продаја и сл.);</p>
+										</content>
+									</point>
+									<point id="gla3-clan27-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> угинулим животињама;</p>
+										</content>
+									</point>
+									<point id="gla3-clan27-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> животињама лишеним живота;</p>
+										</content>
+									</point>
+									<point id="gla3-clan27-stav2-tac8">
+										<num>8)</num>
+										<content>
+											<p> имену и презимену, адреси и контакт телефону ветеринара.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla3-clan27-stav3">
+								<content>
+									<p>Евиденција из става 1. овог члана води се у електронском или штампаном облику и чува се најмање годину дана.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ПРОГРАМ ОБУКЕ О ДОБРОБИТИ ЖИВОТИЊА ЗА ЛИЦА КОЈА РАДЕ У ОДГАЈИВАЧНИЦАМА</heading>
+				<content>
+					<article id="gla4-clan28">
+						<num>28.</num>
+						<content>
+							<clause id="gla4-clan28-stav1">
+								<content>
+									<p>Лица која раде у одгајивачницама брину о заштити живота и добробити животиња и морају бити обучена за добробит животиња.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan28-stav2">
+								<content>
+									<p>Обука лица из става 1. овог члана врши се у складу са Програмом обуке за добробит животиња у одгајивачницама датим Прилогу 2 – Програм обуке за добробит животиња у одгајивачницама, који је одштампан уз овај правилник и чини његов саставни део.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>ЗАВРШНА ОДРЕДБА</heading>
+				<content>
+					<article id="gla5-clan29">
+						<num>29.</num>
+						<content>
+							<clause id="gla5-clan29-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, осим одредбе <ref>члана 28. став 1. </ref>која се примењује од 1. јануара 2013. године.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan29-stav2">
+								<content>
+									<p>Број 110-00-00198/2011-09</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan29-stav3">
+								<content>
+									<p>У Београду, 3. фебруара 2012. године</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan29-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan29-stav5">
+								<content>
+									<p>Душан Петровић, с.р.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan29-stav6">
+								<content>
+									<p>Прилог 1</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan29-stav7">
+								<content>
+									<p>ДИМЕНЗИЈЕ СМЕШТАЈНОГ ПРОСТОРА ЗА ЖИВОТИЊЕ</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<section id="gla5-od1">
+						<num>1.</num>
+						<heading> УЗГАЈАЊЕ ПАСА</heading>
+						<content>
+							<тачка id="gla5-od1-clan29-tac1">
+								<num>1.</num>
+								<content>
+									<p> Најмања величина кућице за псе</p>
+								</content>
+							</тачка>
+							<став id="gla5-od1-clan29-stav1">
+								<table class="tabela-sa-borderom">
+									
+		
+									<tbody>
+										
+			
+										<tr>
+											
+				
+											<td align="center" width="50%">
+												
+				
+												<p>Величина пса</p>
+												
+				
+												<p>(висина у гребену) (cm)</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="50%">
+												
+				
+												<p>Величина кућице</p>
+												
+				
+												<p>(ширина x дубина x висина) (cm)</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td align="center" width="50%">
+												
+				
+												<p>до 55</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="50%">
+												
+				
+												<p>100 x 60 x 55</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td align="center" width="50%">
+												
+				
+												<p>од 56 до 65</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="50%">
+												
+				
+												<p>150 x 100 x 70</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td align="center" width="50%">
+												
+				
+												<p>од 65 и више</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="50%">
+												
+				
+												<p>170-180 x 120 x 85</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+		
+									</tbody>
+									
+	
+								</table>
+								
+	
+								<content>
+									<тачка id="gla5-od1-clan29-stav1-tac2">
+										<num>2.</num>
+										<content>
+											<p> Најмање величине испуста за псе</p>
+										</content>
+									</тачка>
+								</content>
+							</став>
+							<clause id="gla5-od1-clan29-stav2">
+								<content>
+									<p>Величина испуста зависи од начина држања паса.</p>
+									<alinea id="gla5-od1-clan29-stav2-ali1">
+										<content>
+											<p>ојединачно држање:</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+							<став id="gla5-od1-clan29-stav3">
+								<table class="tabela-sa-borderom">
+									
+		
+									<tbody>
+										
+			
+										<tr>
+											
+				
+											<td align="center" width="50%">
+												
+				
+												<p>Висина пса у гребену (cm)</p>
+											</td>
+											
+				
+											<td align="center">
+												
+				
+												<p>Површина испуста(m²)</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td align="center" width="50%">
+												
+				
+												<p>дo 40</p>
+											</td>
+											
+				
+											<td align="center">
+												
+				
+												<p>5</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td align="center" width="50%">
+												
+				
+												<p>41 – 55</p>
+											</td>
+											
+				
+											<td align="center">
+												
+				
+												<p>6</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td align="center" width="50%">
+												
+				
+												<p>56 – 65</p>
+											</td>
+											
+				
+											<td align="center">
+												
+				
+												<p>7</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td align="center" width="50%">
+												
+				
+												<p>преко 65</p>
+											</td>
+											
+				
+											<td align="center">
+												
+				
+												<p>8</p>
+											</td>
+											
+			
+										</tr>
+										
+		
+									</tbody>
+									
+	
+								</table>
+								
+	
+								<content>
+									<alinea id="gla5-od1-clan29-stav3-ali1">
+										<content>
+											<p>рупно држање:</p>
+										</content>
+									</alinea>
+								</content>
+							</став>
+							<став id="gla5-od1-clan29-stav4">
+								<table class="tabela-sa-borderom">
+									
+		
+									<tbody>
+										
+			
+										<tr>
+											
+				
+											<td align="center" width="10%">
+												
+				
+												<p>Број паса у објекту</p>
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>Најмања површина за псе висине до 55 cm(m²)</p>
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>Најмања површина за псе висине 55 – 65 cm(m²)</p>
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>Најмања површина за псе више од 65 cm(m²)</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td align="center" width="10%">
+												
+				
+												<p>2</p>
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>8</p>
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>10</p>
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>12</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td align="center" width="10%">
+												
+				
+												<p>3</p>
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>10</p>
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>13</p>
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>15</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td align="center" width="10%">
+												
+				
+												<p>4</p>
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>12</p>
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>15</p>
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>18</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td align="center" width="10%">
+												
+				
+												<p>5</p>
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>14</p>
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>18</p>
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>20</p>
+											</td>
+											
+			
+										</tr>
+										
+		
+									</tbody>
+									
+	
+								</table>
+								
+	
+								<content/>
+							</став>
+							<clause id="gla5-od1-clan29-stav5">
+								<content>
+									<p>Aкo се у заједничком испусту налази више од пет паса, потребно је да се сваком следећем псу обезбеди додатна површина од 2 m².</p>
+								</content>
+							</clause>
+							<clause id="gla5-od1-clan29-stav6">
+								<content>
+									<p>Најмање једна трећина испуста мора да буде наткривена и заштићена од неповољних временских прилика. Површина испуста мора да буде добро дренирана и покривена материјалом који се лако чисти и дезинфикује.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od1-clan29-stav7">
+								<content>
+									<p>У објекту у коме се држе пси ограда мора да буде висока најмање 1,8m с нагибом на врху према унутра од ccа 45˚ или потпуно наткривена.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od1-clan29-stav8">
+								<content>
+									<p>Пси се могу држати у кавезу ограничени временски период предвиђен за спавање и одмарање који не сме да буде дужи од осам сати током дана.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od1-clan29-stav9">
+								<content>
+									<p>Пси не смеју да се држе у кавезима на спрат.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od1-clan29-stav10">
+								<content>
+									<p>Ако се пас држи у кавезу, кавез мора да буде одговарајуће величине како би пас у њему могао несметано да легне и испружи се целом дужином, која се мери од врха носа при испруженој глави до корена репа, устане, стоји у нормалној позицији и окрене се око своје осе.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od1-clan29-stav11">
+								<content>
+									<p>Под у кавезу не сме да буде израђен од мреже и конструисан на начин који може изазвати патњу или повреде животиње.</p>
+									<тачка id="gla5-od1-clan29-stav11-tac2">
+										<num>2.</num>
+										<content>
+											<p> УЗГАЈАЊЕ МАЧАКА</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="gla5-od1-clan29-stav12">
+								<content>
+									<p>Ако се мачке држе у објектима посебно намењеним узгоју морају да се обезбеде следеће површине смештајног простора:</p>
+								</content>
+							</clause>
+							<став id="gla5-od1-clan29-stav13">
+								<table class="tabela-sa-borderom">
+									
+		
+									<tbody>
+										
+			
+										<tr>
+											
+				
+											<td align="center" width="10%">
+												
+				
+												<p>Пол</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>Најмања површина</p>
+												
+				
+												<p>простора (m2)</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>Најмања висина</p>
+												
+				
+												<p>простора (m)</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>Површина заштићена 
+				од неповољних временских прилика (m2)</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td align="center" width="10%">
+												
+				
+												<p>мужјак</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>6 </p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>1,8</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>2 </p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td align="center" width="10%">
+												
+				
+												<p>женка*</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>5 </p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>1,8 </p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>2 </p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+		
+									</tbody>
+									
+	
+								</table>
+								
+	
+								<content/>
+							</став>
+							<clause id="gla5-od1-clan29-stav14">
+								<content>
+									<p>*За сваку додатну женку простор се повећава за 1m2.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od1-clan29-stav15">
+								<content>
+									<p>Мачке могу да се држе у кавезу ограничени временски период предвиђен за спавање и одмарање који не сме да буде дужи од осам сати током дана.</p>
+									<тачка id="gla5-od1-clan29-stav15-tac3">
+										<num>3.</num>
+										<content>
+											<p> УЗГАЈАЊЕ ПИТОМИХ ВРСТА – LAT MUSTELA PUTORIUS FURO (ДОМАЋИ ТВОР, БЕЛИ ТВОР, АФРИЧКИ ТВОР, АМЕРИЧКИ ТВОР, ПИТОМИ ТВОР, ФЕРЕТЕ)</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="gla5-od1-clan29-stav16">
+								<content>
+									<p>За узгој творова у објектима посебно намењеним за узгој свакој животињи мора да се обезбеди простор од најмање 2m дужине, 1m ширине и 1m висине.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od1-clan29-stav17">
+								<content>
+									<p>Ако се твор држи у кавезу, кавез треба да буде најмање 80cm дугачак, 60cm широк и 60cm висок. За сваког додатног твора потребно је да се обезбеди додатна површина од 3000 cm2.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od1-clan29-stav18">
+								<content>
+									<p>Твор може да се држи у кавезу само ако му се обезбеди разгибавање изван кавеза у трајању од најмање 3 сата дневно.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od1-clan29-stav19">
+								<content>
+									<p>Под у кавезу не сме да буде израђен од мреже или конструисан на начин који може да узрокује патњу и повреде животиње.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od1-clan29-stav20">
+								<content>
+									<p>Како би се спречио бег животиња из спољашњег објекта, под треба да буде од бетона, а ограда у испусту треба да има темеље од бетона минимално 60cm дубине и мора да буде наслоњен на ивице објекта.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od1-clan29-stav21">
+								<content>
+									<p>Простор за спавање треба да буде издигнут од тла и да заузима најмање једну трећину површине пода објекта.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od1-clan29-stav22">
+								<content>
+									<p>У одвојеном делу објекта или посебном кавезу мора да се обезбеди простор за легло, односно гнездо у облику дрвене кућице или кутије, тако да је заштићено од погледа, грабљивица, осталих творова и лоших временских прилика.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od1-clan29-stav23">
+								<content>
+									<p>Гнездо мора да буде најмање 30cm високо и 30cm дугачко, а као простирка се користи слама, сено, папир, комадићи платна од природних материјала.</p>
+									<тачка id="gla5-od1-clan29-stav23-tac4">
+										<num>4.</num>
+										<content>
+											<p> УЗГАЈАЊЕ ПТИЦА</p>
+										</content>
+									</тачка>
+									<point id="gla5-od1-clan29-stav23-tac1">
+										<num>1)</num>
+										<content>
+											<p> Услови за држање птица у волијерама</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla5-od1-clan29-stav24">
+								<content>
+									<p>Волијера мора да се састоји од унутрашњег и спољашњег простора.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od1-clan29-stav25">
+								<content>
+									<p>Волијера треба да буде изграђена да заштити птице од неповољних временских прилика, спољашњих утицаја, да спречи улазак других животиња, грабљивица и глодара и спречи бег птица.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od1-clan29-stav26">
+								<content>
+									<p>У унутарњем делу волијере мора да се обезбеде дрвене пречке за стајање птица, различитих дебљина како би се избегле повреде ногу, као и одговарајућа гнезда или места за свијање гнезда и материјал за њих.</p>
+									<point id="gla5-od1-clan29-stav26-tac2">
+										<num>2)</num>
+										<content>
+											<p> Услови за држање птица у кавезима</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla5-od1-clan29-stav27">
+								<content>
+									<p>Поједине врсте птица могу да се узгајају у појединачним кавезима у којима се држе у паровима током лежања на јајима и отхрањивања младих.</p>
+									<point id="gla5-od1-clan29-stav27-tac3">
+										<num>3)</num>
+										<content>
+											<p> Минимална површина и висина кавеза, односно волијере</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<став id="gla5-od1-clan29-stav28">
+								<table class="tabela-sa-borderom">
+									
+		
+									<tbody>
+										
+			
+										<tr>
+											
+				
+											<td align="center" width="30%">
+												
+				
+												<p>Врстаживотиње</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>Најмања 
+				корисна подна површина</p>
+												
+				
+												<p>(cm2)</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>Најмања 
+				висина простора</p>
+												
+				
+												<p>(cm)</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>Број животиња 
+				по површини</p>
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>Површина и висина по свакој следећој доданој животињи у јату (m2/m)</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td width="30%">
+												
+				
+												<p>аустралијска зебраста зеба</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>1000</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>35</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>пар с леглом</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>0,1/2</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td width="30%">
+												
+				
+												<p>канаринац</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>1200</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>35</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>женка с леглом</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>–</p>
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td width="30%">
+												
+				
+												<p>папагај тигрица</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>1200</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>40</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>пар с леглом</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>0,1/2</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td width="30%">
+												
+				
+												<p>папагај нимфа</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>2500</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>50</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>пар с леглом</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>0,2/2</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td width="30%">
+												
+				
+												<p>голуб украсни</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>2000</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>40</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>пар с леглом</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>0,15/2</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td width="30%">
+												
+				
+												<p>голуб летач</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>10 000</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>200</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>пар с леглом</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>0,3/2</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td width="30%">
+												
+				
+												<p>украсна живина</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>10 000</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>100</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>пар с леглом</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>0,4/1</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td width="30%">
+												
+				
+												<p>водена украсна живина*</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>10 000</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>100</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>пар с леглом</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="15%">
+												
+				
+												<p>0,4/1,5</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+		
+									</tbody>
+									
+	
+								</table>
+								
+	
+								<content/>
+							</став>
+							<clause id="gla5-od1-clan29-stav29">
+								<content>
+									<p>* За водене птице треба додатно да се обезбеди водена површина од 0,2 m2 по животињи</p>
+								</content>
+							</clause>
+							<clause id="gla5-od1-clan29-stav30">
+								<content>
+									<p>За врсте птица које нису наведене у овој табели, услови наведени у табели се примењују у складу са величином птица</p>
+								</content>
+							</clause>
+						</content>
+					</section>
+					<section id="gla5-od5">
+						<num>5.</num>
+						<heading> УЗГАЈАЊЕ ГЛОДАРА</heading>
+						<content>
+							<clause id="gla5-od5-clan29-stav1">
+								<content>
+									<p>Глодари намењени за узгој се држе у металним кавезима или стакленим тераријумима одговарајуће величине, у зависности од броја животиња.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od5-clan29-stav2">
+								<content>
+									<p>Кавези морају да се држе у чврстом и топлотно изолованом објекту, односно смештајном простору који обезбеђује оптималну температуру и спречава бег глодара, односно улазак других животиња и грабљивица.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od5-clan29-stav3">
+								<content>
+									<p>Животиње које живе у породицама (мишеви, пацови, заморчићи, чинчиле, неке врсте веверица и сл.) морају да се држе заједно пре полне зрелости, како би успоставиле хијерархију и како би се избегле борбе за положај у породици.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od5-clan29-stav4">
+								<content>
+									<p>Остали глодари који живе у паровима или самостално (хрчци, кунићи, леминзи и сл.) морају да се држе заједно пре полне зрелости, како би се будући партнери упознали и спарили.</p>
+								</content>
+							</clause>
+							<став id="gla5-od5-clan29-stav5">
+								<table class="tabela-sa-borderom">
+									
+		
+									<tbody>
+										
+			
+										<tr>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>Врста животиње</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>Минимална 
+				корисна подна површина</p>
+												
+				
+												<p>(cm2)</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>Минимална</p>
+												
+				
+												<p>висина 
+				простора</p>
+												
+				
+												<p>(cm)</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>Број животиња</p>
+												
+				
+												<p>по површини</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>Површина 
+				по свакој следећој додатој животињи</p>
+												
+				
+												<p>(cm2)</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td width="20%">
+												
+				
+												<p>миш</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>200</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>12</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>пар с леглом</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>150</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td width="20%">
+												
+				
+												<p>пацов</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>900</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>18</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>пар с леглом</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>400</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td width="20%">
+												
+				
+												<p>хрчак</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>600</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>15</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>женка или пар с леглом</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>само млади</p>
+												
+				
+												<p>100</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td width="20%">
+												
+				
+												<p>гербил</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>600</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>18</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>пар с леглом</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>само млади</p>
+												
+				
+												<p>120</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td width="20%">
+												
+				
+												<p>заморац – морско прасе</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>1500</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>23</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>пар с леглом</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>800</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td width="20%">
+												
+				
+												<p>мини кунић 
+				</p>
+												
+				
+												<p>тежине до 1,8 kg</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>2500</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>30</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>женка с леглом</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>само млади</p>
+												
+				
+												<p>600</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td width="20%">
+												
+				
+												<p>чинчила</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>2000</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>40</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>женка с леглом</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>само млади</p>
+												
+				
+												<p>400</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+			
+										<tr>
+											
+				
+											<td width="20%">
+												
+				
+												<p>веверица</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>20 000</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>2000</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>пар с леглом</p>
+												
+				
+											</td>
+											
+				
+											<td align="center" width="20%">
+												
+				
+												<p>5000</p>
+												
+				
+											</td>
+											
+			
+										</tr>
+										
+		
+									</tbody>
+									
+	
+								</table>
+								
+	
+								<content/>
+							</став>
+							<clause id="gla5-od5-clan29-stav6">
+								<content>
+									<p>За врсте глодара који нису наведени у овој табели, услови наведени у табели се примењују у складу са величином животиње</p>
+								</content>
+							</clause>
+						</content>
+					</section>
+					<section id="gla5-od6">
+						<num>6.</num>
+						<heading> УЗГАЈАЊЕ РИБА</heading>
+						<content>
+							<clause id="gla5-od6-clan29-stav1">
+								<content>
+									<p>Рибе се држе у одговарајућим акваријумима опремљеним филтерима, грејачима и осветљењем, у складу са потребама сваке појединачне врсте риба.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od6-clan29-stav2">
+								<content>
+									<p>На сваки центиметар дужине рибе неопходно је да се обезбеди 5l воде, односно запремине простора.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od6-clan29-stav3">
+								<content>
+									<p>Рибе намењене за приплод морају пре полне зрелости да формирају јата ради лакшег прихватања и прилагођавања.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od6-clan29-stav4">
+								<content>
+									<p>Исхрана приплодних животиња мора да буде појачана, односно код неких врста промењена, у зависности од потреба сваке појединачне врсте риба.</p>
+									<тачка id="gla5-od6-clan29-stav4-tac7">
+										<num>7.</num>
+										<content>
+											<p> УЗГАЈАЊЕ ГМИЗАВАЦА И ВОДОЗЕМАЦА</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+							<clause id="gla5-od6-clan29-stav5">
+								<content>
+									<p>Гмизавци и водоземци морају да се држе у одговарајућим тераријумима израђеним од стакла или посебне пластике и нерђајуће мреже, чиме се спречава бег животиња.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od6-clan29-stav6">
+								<content>
+									<p>Величина тераријума, посебно за змије и гуштере, одређује се тако да збир једне дужине и ширине тераријума одговара максималној дужини одрасле животиње.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od6-clan29-stav7">
+								<content>
+									<p>Свакој животињи мора да се обезбеди простор такве величине у којем може да легне, односно устане у својој природној позицији, да се несметано окрене, креће, храни, сакрива и негује.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od6-clan29-stav8">
+								<content>
+									<p>Гмизавцима и водоземцима мора да се обезбеде услови и микроклима у складу са стаништем из кога потичу, и то:</p>
+									<alinea id="gla5-od6-clan29-stav8-ali1">
+										<content>
+											<p>а тропска станишта треба да се обезбеди висока влага и температура,</p>
+										</content>
+									</alinea>
+									<alinea id="gla5-od6-clan29-stav8-ali2">
+										<content>
+											<p>а пустињска станишта треба да се обезбеди висока температура и ниска влажност,</p>
+										</content>
+									</alinea>
+									<alinea id="gla5-od6-clan29-stav8-ali3">
+										<content>
+											<p>а умерена станишта треба да се обезбеди додатно осветљење ако се животиње држе у затвореним просторима.</p>
+										</content>
+									</alinea>
+								</content>
+							</clause>
+							<clause id="gla5-od6-clan29-stav9">
+								<content>
+									<p>Гмизавцима и водоземцима којима је природно станиште и у води и на копну, у тераријуму треба да буде обезбеђенодовољно воде, како би им се омогућило несметано пливање, као и лако доступна сува површина на коју могу да изађу.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od6-clan29-stav10">
+								<content>
+									<p>Прилог 2</p>
+								</content>
+							</clause>
+							<clause id="gla5-od6-clan29-stav11">
+								<content>
+									<p>ПРОГРАМ ОБУКЕ ЗА ДОБРОБИТ ЖИВОТИЊА ЗА ЛИЦА КОЈА РАДЕ У ОДГАЈИВАЧНИЦАМА</p>
+								</content>
+							</clause>
+							<clause id="gla5-od6-clan29-stav12">
+								<content>
+									<p>Програм обуке за добробит животиња за лица која раде у одгајивачницама садржи:</p>
+									<point id="gla5-od6-clan29-stav12-tac1">
+										<num>1)</num>
+										<content>
+											<p> основе из законодавства које се односе на добробит животиња;</p>
+										</content>
+									</point>
+									<point id="gla5-od6-clan29-stav12-tac2">
+										<num>2)</num>
+										<content>
+											<p> основе из области добробити животиња у одгајивачницама и начину поступања са животињама;</p>
+										</content>
+									</point>
+									<point id="gla5-od6-clan29-stav12-tac3">
+										<num>3)</num>
+										<content>
+											<p> основе из физиологије животиња, размножавања животиња, потреба у храни и води, понашања животиња и појму стреса;</p>
+										</content>
+									</point>
+									<point id="gla5-od6-clan29-stav12-tac4">
+										<num>4)</num>
+										<content>
+											<p> основе из помоћи животињама у хитним случајевима;</p>
+										</content>
+									</point>
+									<point id="gla5-od6-clan29-stav12-tac5">
+										<num>5)</num>
+										<content>
+											<p> основе које се односе на услове за заштиту добробити животиња које одгајивачница мора да испуњава у погледу простора за животиње, просторија и опреме;</p>
+										</content>
+									</point>
+									<point id="gla5-od6-clan29-stav12-tac6">
+										<num>6)</num>
+										<content>
+											<p> основе поступања са животињама, пријем животиња, компатибилност животиња, груписање и разврставање животиња и потребе животиња у погледу физичке активности;</p>
+										</content>
+									</point>
+									<point id="gla5-od6-clan29-stav12-tac7">
+										<num>7)</num>
+										<content>
+											<p> основе о начину превоза и поступања са животињама током превоза и способност животиња за превоз;</p>
+										</content>
+									</point>
+									<point id="gla5-od6-clan29-stav12-tac8">
+										<num>8)</num>
+										<content>
+											<p> основе о условима у погледу превозних средстава;</p>
+										</content>
+									</point>
+									<point id="gla5-od6-clan29-stav12-tac9">
+										<num>9)</num>
+										<content>
+											<p> основе о заштити лица која долазе у контакт са животињама;</p>
+										</content>
+									</point>
+									<point id="gla5-od6-clan29-stav12-tac10">
+										<num>10)</num>
+										<content>
+											<p> проверу обучености и период у којем се врши та провера, који не може бити дужи од пет година;</p>
+										</content>
+									</point>
+									<point id="gla5-od6-clan29-stav12-tac11">
+										<num>11)</num>
+										<content>
+											<p> висину трошкова обуке коју сноси власник, односно држалац одгајивачнице.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla5-od6-clan29-stav13">
+								<content>
+									<p>Програм обуке за добробит животиња спроводи министарство надлежно за послове ветеринарства (у даљем тексту: Министарство), односно друго правно или физичко лице.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od6-clan29-stav14">
+								<content>
+									<p>Када обуку спроводи друго правно или физичко лице, ту обуку спроводи по одобреном програму обуке за добробит животиња од стране Министарства, а садржај програма обуке за добробит животиња доставља Министарству.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od6-clan29-stav15">
+								<content>
+									<p>Сваки одобрени програм обуке има јединствени број који се уписује у евиденцију одобрених програма обуке коју води Министарство.</p>
+								</content>
+							</clause>
+							<clause id="gla5-od6-clan29-stav16">
+								<content>
+									<p>По завршеној обуци издаје се потврда о обучености.</p>
+								</content>
+							</clause>
+						</content>
+					</section>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

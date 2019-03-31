@@ -1,0 +1,450 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1992/49-1644/main"/>
+					<FRBRuri value="/rs/act/1992/49-1644"/>
+					<FRBRdate date="1992" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2005/101-28/srp@/main"/>
+					<FRBRuri value="/rs/act/2005/101-28/srp@"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2005/101-28/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2005/101-28/srp@.akn"/>
+					<FRBRdate date="2005" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1992-7-21" name="службени гласник рс" number="49" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Закон" value="закон"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="13. Библиотеке, музеји и архиви" value="13. библиотеке, музеји и архиви"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1992-07-16" id="usvajanje"/>
+				<step date="1992-07-22" id="stupanje_na_snagu"/>
+				<step date="1992-07-22" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="49/1992-1644" id="e1" type="generation"/>
+				<eventRef date="53/1993-2467" id="e2" type="amendment"/>
+				<eventRef date="67/1993-3111" id="e3" type="amendment"/>
+				<eventRef date="48/1994-1497" id="e4" type="amendment"/>
+				<eventRef date="101/2005-28" id="e5" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Закон је ступио на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 22. јула 1992. године (види <ref>члан 22. </ref>Закона).Промењене су висине новчаних казни (види: <ref>члан 24. </ref>Закона – 53/1993-2467, <ref>члан 2. </ref>Закона – 67/1993-3111 и <ref>члан 18. </ref>Закона – 48/1994-1497).Промењене су висине новчаних казни (види <ref>члан 99. </ref>Закона – 101/2005-28).</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<authority>Special value.</authority>
+			<title>ЗАКОН</title>
+			<title>о  оснивању Музеја жртава геноцида</title>
+			<date>„Службени гласник РС”, бр. 49 од 21.   јула 1992, 53 од 16.  јула 1993  - др. закон, 67 од 30.  августа 1993  - др. закон, 48 од 20.  јула 1994  - др. закон, 101 од 21.  новембра 2005  - др. закон</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Ради трајног сећања на жртве геноцида над Србима, прикупљања, обраде и коришћења података о њима и остваривању обавеза из Међународне конвенције о спречавању и кажњавању злочина геноцида, оснива се: „Музеј жртава геноцида”, са седиштем у Крагујевцу (у даљем тексту:Музеј).</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Музеј се може бавити и прикупљањем, обрадом и коришћењем података о геноциду над Јеврејима, Ромима и припадницима других народа и националних мањина.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Ради обележавања сећања на жртве геноцида над Србима, Јеврејима и Ромима установљава се 22. април дан пробоја затвореника усташког логора Јасеновац, 1945. године, као Дан сећања на жртве геноцида.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Музеј:</p>
+							<тачка id="clan3-stav1-tac1">
+								<num>1.</num>
+								<content>
+									<p> Прикупља, обрађује и чува податке о појединачним и групним жртвама злочина геноцида (лични и породични подаци, време, место и начин стрељања, наступиле последице и др.) и другим геноцидним чињеницама (принудно расељавање, узимање талаца, одвођење у логор, принудни рад, пљачка имовине, употреба недозвољених средстава у борби, уништавање и пљачкање културно-историјских споменика и добара и др.);</p>
+								</content>
+							</тачка>
+							<тачка id="clan3-stav1-tac2">
+								<num>2.</num>
+								<content>
+									<p> прикупља, испитује и чува грађу (службена документа, спискове, сведочења, музејске експонате, фотографије, филмове, видео и тонске снимке, књиге, медицинску и другу документацију и др.) о злочину геноцида,</p>
+								</content>
+							</тачка>
+							<тачка id="clan3-stav1-tac3">
+								<num>3.</num>
+								<content>
+									<p> прикупља, обрађује и чува податке од значаја за утврђивање организатора, извршилаца злочина, наредбодаваца и саучесника одговорних за учињене злочине геноцида (лични и породични подаци, време, место и начин извршења злочина и др.);</p>
+								</content>
+							</тачка>
+							<тачка id="clan3-stav1-tac4">
+								<num>4.</num>
+								<content>
+									<p> прикупља, обрађује и чува податке о спасиоцима жртава злочина геноцида (лични и породични подаци, време, место и начин спасавања жртава и др.);</p>
+								</content>
+							</тачка>
+							<тачка id="clan3-stav1-tac5">
+								<num>5.</num>
+								<content>
+									<p> утврђује и ради на обележавању места страдања (логора, јама, стратишта) жртава;</p>
+								</content>
+							</тачка>
+							<тачка id="clan3-stav1-tac6">
+								<num>6.</num>
+								<content>
+									<p> обезбеђује коришћење културно-историјске грађе и сазнања којим располаже у културне, образовне, васпитне, информативне и друге сврхе путем излагања ове грађе у оквиру сталних и повремених изложби, публиковања и на други начин чини доступним јавности;</p>
+								</content>
+							</тачка>
+							<тачка id="clan3-stav1-tac7">
+								<num>7.</num>
+								<content>
+									<p> сарађује са сродним институцијама у земљи и иностранству.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Музеј може образовати сталне збирке и одељења и у месту ван свог седишта.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Статутом Музеја ближе се уређују послови Музеја из става 1. овог члана, као и организација рада на прикупљању и обради података (начин укључивања истакнутих стручњака и научних радника, образовање експертских група за обраду одређених података и др.). Музеј организује стручне и научне скупове посвећене сећању на злочине геноцида.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>Послови из става 1. овог члана су послови од интереса за Републику.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Музеј, податке које у складу са овим законом обрађује и чува, прикупља од грађана, организација и органа.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Државни и други органи, предузећа, установе и друге организације дужни су да Музеју достављају податке и грађу о злочину геноцида којим располажу, а које у складу са овим законом прикупља и обрађује Музеј.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>Надлежни републички органи предузимају мере на обезбеђивању података и друге грађе за Музеј којима располажу органи и организације ван територије Републике Србије, односно одговарајући савезни органи.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>На рад Музеја примењују се прописи који важе за установе, као и прописи о културним добрима, ако овим законом није друкчије одређено.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Средства за оснивање и рад Музеја обезбеђују се у буyету Републике.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Музеј може да стиче средства за остваривање своје делатности и из:поклона, легата, фондова, задужбина, сопствене издавачке делатности и из других извора.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Органи Музеја су директор, управни одбор и надзорни одбор.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Радом Музеја руководи директор.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Директора Музеја именује и разрешава Влада Републике Србије (у даљем тексту: Влада), на време од четири године.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Директор одговара Влади за извршавање послова Музеја и одговоран је за законитост његовог рада.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Управни одбор има пет чланова, од којих су два из реда запослених у Музеју.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Председника и чланове Управног одбора именује и разрешава Влада, на време од четири године.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan11">
+				<num>11.</num>
+				<content>
+					<clause id="clan11-stav1">
+						<content>
+							<p>Управни одбор:</p>
+							<тачка id="clan11-stav1-tac1">
+								<num>1.</num>
+								<content>
+									<p> доноси статут Музеја;</p>
+								</content>
+							</тачка>
+							<тачка id="clan11-stav1-tac2">
+								<num>2.</num>
+								<content>
+									<p> одлучује о пословању Музеја;</p>
+								</content>
+							</тачка>
+							<тачка id="clan11-stav1-tac3">
+								<num>3.</num>
+								<content>
+									<p> усваја годишњи извештај о пословању и годишњи обрачун;</p>
+								</content>
+							</тачка>
+							<тачка id="clan11-stav1-tac4">
+								<num>4.</num>
+								<content>
+									<p> доноси програм рада Музеја;</p>
+								</content>
+							</тачка>
+							<тачка id="clan11-stav1-tac5">
+								<num>5.</num>
+								<content>
+									<p> одлучује о коришћењу средстава, у складу са законом;</p>
+								</content>
+							</тачка>
+							<тачка id="clan11-stav1-tac6">
+								<num>6.</num>
+								<content>
+									<p> врши и друге послове утврђене статутом.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="clan11-stav2">
+						<content>
+							<p>Сагласност на статут и програм рада Музеја даје Влада.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan12">
+				<num>12.</num>
+				<content>
+					<clause id="clan12-stav1">
+						<content>
+							<p>Управни одбор даје одобрење за коришћење и публиковање података или докумената којима располаже Музеј.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan13">
+				<num>13.</num>
+				<content>
+					<clause id="clan13-stav1">
+						<content>
+							<p>Надзорни одбор има три члана, од којих је један из реда запослених у Музеју.</p>
+						</content>
+					</clause>
+					<clause id="clan13-stav2">
+						<content>
+							<p>Председника и чланове Надзорног одбора именује и разрешава Влада, на време од две године.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan14">
+				<num>14.</num>
+				<content>
+					<clause id="clan14-stav1">
+						<content>
+							<p>Надзорни одбор:</p>
+							<тачка id="clan14-stav1-tac1">
+								<num>1.</num>
+								<content>
+									<p> врши надзор над пословањем Музеја, прегледа годишњи извештај и годишњи обрачун;</p>
+								</content>
+							</тачка>
+							<тачка id="clan14-stav1-tac2">
+								<num>2.</num>
+								<content>
+									<p> указује Влади на пропусте управног одбора и директора;</p>
+								</content>
+							</тачка>
+							<тачка id="clan14-stav1-tac3">
+								<num>3.</num>
+								<content>
+									<p> предлаже Влади и управном одбору Музеја мере које треба предузети ради успешнијег пословања на основу нађеног чињеничног стања.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan15">
+				<num>15.</num>
+				<content>
+					<clause id="clan15-stav1">
+						<content>
+							<p>Директор Музеја може образовати, у складу са статутом, савет Музеја, као своје саветодавно тело, кога чине истакнути научни радници.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan16">
+				<num>16.</num>
+				<content>
+					<clause id="clan16-stav1">
+						<content>
+							<p>Надзор над законитошћу рада Музеја врши Министарство културе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan17">
+				<num>17.</num>
+				<content>
+					<clause id="clan17-stav1">
+						<content>
+							<p>Новчаном казном  до 1.000.000 динара* казниће се за прекршај предузеће, установа и друга организација која Музеју не достави податке из <ref>члана 4. став 2. овог</ref> закона.</p>
+						</content>
+					</clause>
+					<clause id="clan17-stav2">
+						<content>
+							<p>За прекршај из става 1. овог члана казниће се и одговорно лице у предузећу, установи и организацији новчаном казном  до 50.000 динара*.</p>
+						</content>
+					</clause>
+					<clause id="clan17-stav3">
+						<content>
+							<p>Новчаном казном  до 50.000 динара* казниће се за прекршај из става 1. овог члана и одговорно лице у државном органу.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan18">
+				<num>18.</num>
+				<heading>*<ref id="ref6" href="/rs/act/2005/101/srp@">Службени гласник РС, број 101/2005</ref></heading>
+				<content>
+					<clause id="clan18-stav1">
+						<content>
+							<p>Министарство културе утврђује испуњеност услова за почетак рада Музеја.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan19">
+				<num>19.</num>
+				<content>
+					<clause id="clan19-stav1">
+						<content>
+							<p>Директор Музеја подноси пријаву за упис Музеја у судски регистар.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan20">
+				<num>20.</num>
+				<content>
+					<clause id="clan20-stav1">
+						<content>
+							<p>Министарство културе и Министарство за везе са Србима изван Србије обављаће административно-стручне послове за Музеј, до његовог уписа у судски регистар.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan21">
+				<num>21.</num>
+				<content>
+					<clause id="clan21-stav1">
+						<content>
+							<p>Музеј почиње са радом у року од осам дана од дана ступања на снагу овог закона.</p>
+						</content>
+					</clause>
+					<clause id="clan21-stav2">
+						<content>
+							<p>Управни одбор је дужан да донесе статут у року од 60 дана од дана почетка рада Музеја.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan22">
+				<num>22.</num>
+				<content>
+					<clause id="clan22-stav1">
+						<content>
+							<p>Овај закон ступа на снагу наредног дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

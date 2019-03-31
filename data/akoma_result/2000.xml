@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2010/95-8/main"/>
+					<FRBRuri value="/rs/act/2010/95-8"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2010/95-8/srp@/main"/>
+					<FRBRuri value="/rs/act/2010/95-8/srp@"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2010/95-8/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2010/95-8/srp@.akn"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2010-12-17" name="службени гласник рс" number="95" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="2. Војска Србије" value="2. војска србије"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2010-12-15" id="usvajanje"/>
+				<step date="2010-12-25" id="stupanje_na_snagu"/>
+				<step date="2011-01-01" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 135. став 4. </ref>Закона о војној, радној и материјалној обавези („<ref id="ref2" href="/rs/act/09/88/srp@">Службени гласник РС”, број 88/09</ref>) и <ref>члана 8. став 1. </ref>Закона о Народној скупштини („<ref id="ref3" href="/rs/act/10/9/srp@">Службени гласник РС”, број 9/10</ref>),</p>
+			<p>Народна скупштина Републике Србије, на Шестој седници Другог редовног заседања у 2010. години, одржаној 15. децембра 2010. године, донела је</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о обустави обавезе служења војног рока</title>
+			<date>&quot;Службени гласник РС&quot;, број 95 од 17. децембра 2010.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Обавеза служења војног рока у Војсци Србије обуставља се одслужењем војног рока последње партије војника упућене у 2010. години.</heading>
+				<content>
+					<clause id="od1-stav1">
+						<content>
+							<p>Одредба става 1. ове тачке односи се и на регруте који су, због приговора савести, служење војног рока заменили цивилном службом.</p>
+						</content>
+					</clause>
+					<clause id="od1-stav2">
+						<content>
+							<p>Упућивање на служење војног рока у Војску Србије, од 1. јануара 2011. године, вршиће се по принципу добровољности, у складу са законом.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Ова одлука ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, а примењиваће се од 1. јануара 2011. године.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>РС број 38</p>
+						</content>
+					</clause>
+					<clause id="od2-stav2">
+						<content>
+							<p>У Београду, 15. децембра 2010. године</p>
+						</content>
+					</clause>
+					<clause id="od2-stav3">
+						<content>
+							<p>Народна скупштина Републике Србије</p>
+						</content>
+					</clause>
+					<clause id="od2-stav4">
+						<content>
+							<p>Председник,</p>
+						</content>
+					</clause>
+					<clause id="od2-stav5">
+						<content>
+							<p>проф. др Славица Ђукић-Дејановић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,951 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2017/79-71/main"/>
+					<FRBRuri value="/rs/act/2017/79-71"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2017/79-71/srp@/main"/>
+					<FRBRuri value="/rs/act/2017/79-71/srp@"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2017/79-71/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2017/79-71/srp@.akn"/>
+					<FRBRdate date="2017" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2017-8-25" name="службени гласник рс" number="79" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="VIII РАЗВОЈ" value="viii развој"/>
+				<keyword id="grupa" showAs="4. Квалитет предмета опште употребе и животних намирница" value="4. квалитет предмета опште употребе и животних намирница"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2017-08-16" id="usvajanje"/>
+				<step date="2017-09-02" id="stupanje_na_snagu"/>
+				<step date="2017-09-02" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>Неважећи акт</p>
+			<p>На основу <ref>члана 69. став 3. </ref>Закона о безбедности хране („<ref id="ref2" href="/rs/act/09/41/srp@">Службени гласник РС”, број 41/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, шумарства и водопривреде доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о утврђивању Програма мониторинга безбедности хране животињског порекла за 2017. годину</title>
+			<date>&quot;Службени гласник РС&quot;, број 79 од 25.      августа 2017.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником утврђује се Програм мониторинга безбедности хране животињског порекла за 2017. годину (у даљем тексту: Програм мониторинга), који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Поједини изрази употребљени у овом правилнику имају следеће значење:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> контаминенти јесу хемијске супстанце које нису намерно додате храни, али могу бити присутне као резултат различитих фаза њене производње, паковања, транспорта или држања, као и пореклом из животне средине;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> микробиолошки критеријум јесте критеријум на основу кога се дефинише прихватљивост производа, производне партије (шарже, серије или лота производа) или производног процеса, заснован на одсуству, присуству или броју микроорганизама, односно на количини њихових токсина или метаболита, по јединици масе, запремине, површине или производне партије;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> мониторинг хране животињског порекла јесте системско спровођење узорковања и испитивања хране животињског порекла, сакупљање, обрада и оценa података о резултатима испитивања ради праћења степена усаглашености са прописима којима се уређује безбедност хране животињског порекла;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> надлежни орган jeсте министарство надлежно за послове ветеринарства;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> овлашћена лабораторија јесте лабораторија овлашћена од стране Министарства пољопривреде, шумарства и водопривреде за обављање испитивања службених узорака у програму мониторинга;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> паковање јесте храна животињског порекла упакована и означена тако да се означени састав и количина не могу променити без отварања тј. код којег се приликом отварања, видно и трајно оштећује амбалажа;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> производна партија (шаржа, серија или лот) јесте група или низ препознатљивих производа који су произведени током одређеног процеса под идентичним условима и на одређеном месту у току једног производног периода;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> службена контрола јесте било који облик контроле који надлежни орган спроводи ради провере усаглашености са прописима којима се уређује безбедност хране животињског порекла;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> службени узорак јесте узорак хране животињског порекла и узорак површина које су од значаја за производњу, прераду и дистрибуцију хране животињског порекла, узет од стране надлежног инспектора или овлашћеног лица;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> узорак јесте једна или више јединица производа или део предмета испитивања, одабран на различите начине из скупа или већег дела скупа, који је намењен да обезбеди информацију о одређеној особини тог производа или предмета испитивања, а на основу које ће се донети одлука о том производу или предмету испитивања или о његовом производном процесу;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> узорковање јесте узимање хране животињског порекла и узорака површина које су од значаја за производњу, прераду и дистрибуцију хране животињског порекла, како би се путем испитивања утврдила усаглашеност са прописима којим се уређује безбедност хране животињског порекла;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> усаглашеност са критеријумима јесте добијање резултата испитивања прописаних овим правилником, на основу критеријума прописаних за узимање узорака, спровођење испитивања и корективних мера у складу са законом којим се уређује безбедност хране;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> храна животињског порекла јесте храна која је намењена за исхрану људи у непрерађеном, делимично прерађеном или прерађеном облику, а потиче од животиња.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Мониторинг из <ref>члана 1. овог</ref> правилника обухвата храну животињског порекла која је произведена на територији Републике Србије и спроводи се у објектима за:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> производњу хране животињског порекла;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> складиштење и дистрибуцију;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> продају на мало производа животињског порекла.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Изузетно од става 1. овог члана мониторинг обухвата и храну животињског порекла која је увезена на територију Републике Србије, и то:</p>
+							<point id="clan3-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> механички сепарисано месо (МСМ);</p>
+								</content>
+							</point>
+							<point id="clan3-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> млеко у праху и сурутку у праху;</p>
+								</content>
+							</point>
+							<point id="clan3-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> производе од јаја – у течном стању;</p>
+								</content>
+							</point>
+							<point id="clan3-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> рибу;</p>
+								</content>
+							</point>
+							<point id="clan3-stav2-tac5">
+								<num>5)</num>
+								<content>
+									<p> производе од рибе, неспецифицирани – кувани;</p>
+								</content>
+							</point>
+							<point id="clan3-stav2-tac6">
+								<num>6)</num>
+								<content>
+									<p> желатин и колаген.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Програм мониторинга израђује се на основу:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> постојећег стања у систему безбедности хране животињског порекла, укључујући и податке о небезбедној храни на локалном тржишту, у региону и из увоза;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> података о производњи и потрошњи хране животињског порекла;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> података о раније утврђеним неусаглашеностима током службених контрола хране животињског порекла;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> информација из Система за брзо обавештавање и узбуњивање за храну (Rapid alert system for food and feed/RASFF).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Циљеви спровођења Програма мониторинга су:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> утврђивање нивоа контаминената и трендова учесталости појаве микроорганизама и осталих штетних материја у храни животињског порекла;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> утврђивање отпорности зоонотских и коменсалних бактерија на антимикробна средства, као и прикупљање и обрада података из ових испитивања;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> прикупљање података из мониторинга који се користе за анализу ризика, за поједине категорије хране и на тај начин доприносе повећању заштите здравља и других интереса потрошача;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> провера важећих стандарда и максимално дозвољених количина прописаних за поједине врсте хране.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Програм мониторинга садржи:</p>
+							<point id="clan6-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> потребна средства за финансирање Програма мониторинга;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> мере које ће се предузети у случају присуства микробиолошких, хемијских и биолошких опасности;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> структуру органа и организација за спровођење Програма мониторинга;</p>
+								</content>
+							</point>
+							<point id="clan6-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> друге параметре од значаја за спровођење Програма мониторинга, и то:</p>
+									<item id="clan6-stav1-tac4-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> План мониторинга којим се одређује узимање узорака за микробилошка и хемијска испитивања,</p>
+										</content>
+									</item>
+									<item id="clan6-stav1-tac4-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> услове и начин узимања и чувања узорка и лабораторијске методе.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Број 110-00-00010/2017-09</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>У Београду, 16. августа 2017. године</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav5">
+						<content>
+							<p>Бранислав Недимовић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav6">
+						<content>
+							<p>ПРОГРАММОНИТОРИНГА БЕЗБЕДНОСТИ ХРАНЕ ЖИВОТИЊСКОГ ПОРЕКЛА ЗА 2017. ГОДИНУ</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>Потребна средства за финансирање Програма мониторинга безбедности хране животињског порекла за 2017. годину</heading>
+				<content>
+					<clause id="gla1-clan7-stav1">
+						<content>
+							<p>Потребна средства за финансирање Програма мониторинга безбедности хране животињског порекла за 2017. годину (у даљем тексту: Програм мониторинга) обезбеђена су Законом о буџету Републике Србије за 2017. годину („<ref id="ref3" href="/rs/act/16/99/srp@">Службени гласник РС”, број 99/16</ref>), у оквиру Раздела 23, министарства надлежног за послове пољопривреде, у Глави 23.2 – Управа за ветерину, Програм 0109 – Безбедност хране, ветеринарска и фитосанитарна политика, Функција 760 – Здравство некласификовано на другом месту, Програмска активност 0002 – Безбедност хране животињског порекла и хране за животиње, Економска класификација 451, Субвенције јавним нефинансијским предузећима и организацијама у износу од 200.000.000 динара.</p>
+						</content>
+					</clause>
+					<clause id="gla1-clan7-stav2">
+						<content>
+							<p>Укупна средства са наведене економске класификације у износу од 200.000.000 динара расподељена су и користе се у складу са Закључком Владе о усвајању Програма распореда и коришћења средстава субвенција у области ветерине за 2017. годину, 05 број 401-1615/2017 од 23. фебруара 2017. године (у даљем тексту: Закључак Владе).</p>
+						</content>
+					</clause>
+					<clause id="gla1-clan7-stav3">
+						<content>
+							<p>У складу са Закључком Владе, од укупног износа од 200.000.000 динара, средства се расподељују у одговарајућим износима, од чега за Програм мониторинга у износу од 80.000.000 динара.</p>
+						</content>
+					</clause>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>Мере које ће се предузети у случају присуства микробиолошких, хемијских и биолошких опасности</heading>
+				<content>
+					<clause id="gla2-clan7-stav1">
+						<content>
+							<p>У случају да се утврди присуство микробиолошких, хемијских и биолошких опасности, односно неусаглашености са прописаним вредностима, надлежни орган спроводи активности како би осигурао да субјект у пословању храном уклони неусаглашеност, узимајући у обзир степен неусаглашености и претходне случајеве неусаглашености истог субјекта у пословању, и то:</p>
+							<point id="gla2-clan7-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> мере, укључујући узимање службеног узорка за које се сматра да су потребне како би се осигурала безбедност хране;</p>
+								</content>
+							</point>
+							<point id="gla2-clan7-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> забрану стављања у промет, ако је примењиво;</p>
+								</content>
+							</point>
+							<point id="gla2-clan7-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> мере којима се дозвољава употреба хране животињског порекла у сврху која се разликује од њене првобитне намене;</p>
+								</content>
+							</point>
+							<point id="gla2-clan7-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> мере којима се забрањује рад или налаже затварања читавог објекта за производњу хране или једног њеног дела на одређен временски период;</p>
+								</content>
+							</point>
+							<point id="gla2-clan7-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> друге мере и предузима друге одговарајуће радње.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>Структура органа и организација за спровођење програма</heading>
+				<content>
+					<clause id="gla3-clan7-stav1">
+						<content>
+							<p>Програм мониторинга спроводи надлежни орган преко ветеринарских инспектора.</p>
+						</content>
+					</clause>
+					<clause id="gla3-clan7-stav2">
+						<content>
+							<p>Лабораторијска испитивања спроводе лабораторијe:</p>
+							<point id="gla3-clan7-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> које су овлашћене за службене контроле у складу са законом којим се уређује област ветеринарства;</p>
+								</content>
+							</point>
+							<point id="gla3-clan7-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> које су изабране путем конкурса у складу са законом којим се уређује безбедност хране.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>Други параметри од значаја за спровођење Програма мониторинга</heading>
+				<content>
+					<тачка id="gla4-clan7-tac1">
+						<num>1.</num>
+						<content>
+							<p> План мониторинга</p>
+						</content>
+					</тачка>
+					<clause id="gla4-clan7-stav1">
+						<content>
+							<p>План мониторинга којим се одређује шифра, предмет и место испитивања, опасност, број јединица са граничним вредностима, као и методе испитивања, дат је у Табели 1 – План узимања узорака за микробилошка испитивања (у даљем тексту: Табела 1) и Табели 2 – План узимања узорака за хемијска испитивања – резидуе пестицида и контаминенти (у даљем тексту: Табела 2), овог програма.</p>
+						</content>
+					</clause>
+					<став id="gla4-clan7-stav2">
+						<img alt="hrana_Page_01.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/hrana_Page_01_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423745&amp;regactid=423745"/>
+						<content/>
+					</став>
+					<став id="gla4-clan7-stav3">
+						<img alt="hrana_Page_02.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/hrana_Page_02_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423745&amp;regactid=423745"/>
+						<content/>
+					</став>
+					<став id="gla4-clan7-stav4">
+						<img alt="hrana_Page_03.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/hrana_Page_03_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423745&amp;regactid=423745"/>
+						<content/>
+					</став>
+					<став id="gla4-clan7-stav5">
+						<img alt="hrana_Page_04.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/hrana_Page_04_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423745&amp;regactid=423745"/>
+						<content/>
+					</став>
+					<став id="gla4-clan7-stav6">
+						<img alt="hrana_Page_05.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/hrana_Page_05_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423745&amp;regactid=423745"/>
+						<content/>
+					</став>
+					<став id="gla4-clan7-stav7">
+						<img alt="hrana_Page_06.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/hrana_Page_06_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423745&amp;regactid=423745"/>
+						<content/>
+					</став>
+					<став id="gla4-clan7-stav8">
+						<img alt="hrana_Page_07.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/hrana_Page_07_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423745&amp;regactid=423745"/>
+						<content/>
+					</став>
+					<став id="gla4-clan7-stav9">
+						<img alt="hrana_Page_08.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/hrana_Page_08_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423745&amp;regactid=423745"/>
+						<content/>
+					</став>
+					<став id="gla4-clan7-stav10">
+						<img alt="hrana_Page_09.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/hrana_Page_09_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423745&amp;regactid=423745"/>
+						<content/>
+					</став>
+					<став id="gla4-clan7-stav11">
+						<img alt="hrana_Page_10.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/hrana_Page_10_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423745&amp;regactid=423745"/>
+						<content/>
+					</став>
+					<став id="gla4-clan7-stav12">
+						<img alt="hrana_Page_11.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/hrana_Page_11_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423745&amp;regactid=423745"/>
+						<content/>
+					</став>
+					<став id="gla4-clan7-stav13">
+						<img alt="hrana_Page_12.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/hrana_Page_12_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423745&amp;regactid=423745"/>
+						<content>
+							<тачка id="gla4-clan7-stav13-tac2">
+								<num>2.</num>
+								<content>
+									<p> Услови и начин узимања и чувања узорка и лабораторијске методе</p>
+									<тачка id="gla4-clan7-stav13-tac2">
+										<num>2.</num>
+										<content>
+											<p>1. Одређивање броја узорака, врсте испитивања и начина извештавања</p>
+										</content>
+									</тачка>
+								</content>
+							</тачка>
+						</content>
+					</став>
+					<clause id="gla4-clan7-stav14">
+						<content>
+							<p>Број узорака и врсту испитивања на нивоу управног округа, одређује надлежни орган у складу са Табелом 1 и Табелом 2 овог програма.</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan7-stav15">
+						<content>
+							<p>Извештај о спровођењу Плана мониторинга доставља се надлежном органу на кварталном нивоу у форми збирне табеле чија је садржина дата у Табели 3 – Извештај о спровођењу Плана мониторинга, овог програма.</p>
+						</content>
+					</clause>
+					<став id="gla4-clan7-stav16">
+						<img alt="hrana_Page_13.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/hrana_Page_13_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423745&amp;regactid=423745"/>
+						<content>
+							<тачка id="gla4-clan7-stav16-tac2">
+								<num>2.</num>
+								<content>
+									<p>2 Поступак за узимање узорака</p>
+								</content>
+							</тачка>
+						</content>
+					</став>
+					<clause id="gla4-clan7-stav17">
+						<content>
+							<p>Узимање узорака хране животињског порекла за потребе спровођења мониторинга обавља ветеринарска инспекција у сарадњи са овлашћеним лабораторијама за испитивање узорака у оквиру мониторинга хране животињског порекла.</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan7-stav18">
+						<content>
+							<p>Инспектор узима службене узорке у складу са условима који су прописани у овом одељку.</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan7-stav19">
+						<content>
+							<p>У случају да се утврди присуство микробиолошких, хемијских и биолошких опасности, инспектор спроводи поновљено (циљано узорковање), у количини од пет јединица узорка.</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan7-stav20">
+						<content>
+							<p>Узорци за микробиолошка испитивања узимају се асептично помоћу стерилног прибора, у стерилне посуде/стерилне кесе, водећи рачуна да не дође до контаминације узорка из околине и/или са површине амбалаже.</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan7-stav21">
+						<content>
+							<p>Узорци за хемијска испитивања пакују се у паковања која су хемијски неутрална.</p>
+							<тачка id="gla4-clan7-stav21-tac2">
+								<num>2.</num>
+								<content>
+									<p>3 Обележавање и паковање узорака</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="gla4-clan7-stav22">
+						<content>
+							<p>Након узорковања, узети узорак обележава се одговарајућом ознаком и шифром.</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan7-stav23">
+						<content>
+							<p>Узорак се доставља лабораторији која је овлашћена за испитивања у оквиру мониторинга, уз записник о узимању узорака хране чија је садржина дата у Табели 4 – Записник о узимању узорака хране, овог програма.</p>
+						</content>
+					</clause>
+					<став id="gla4-clan7-stav24">
+						<img alt="hrana_Page_14.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/hrana_Page_14_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423745&amp;regactid=423745"/>
+						<content/>
+					</став>
+					<став id="gla4-clan7-stav25">
+						<img alt="hrana_Page_15.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/hrana_Page_15_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423745&amp;regactid=423745"/>
+						<content/>
+					</став>
+					<clause id="gla4-clan7-stav26">
+						<content>
+							<p>По пријему узорка у лабораторију, лице на пријему попуњава записник о пријему узорка у лабораторију, чија је садржина дата у Табели 5 – Записник о пријему узорка у лабораторију, овог програма и који попуњен доставља инспектору који је спровео узорковање у оквиру службене контроле.</p>
+						</content>
+					</clause>
+					<став id="gla4-clan7-stav27">
+						<img alt="hrana_Page_16.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/hrana_Page_16_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=423745&amp;regactid=423745"/>
+						<content>
+							<тачка id="gla4-clan7-stav27-tac2">
+								<num>2.</num>
+								<content>
+									<p>4. Чување и транспорт свих врста узорака</p>
+								</content>
+							</тачка>
+						</content>
+					</став>
+					<clause id="gla4-clan7-stav28">
+						<content>
+							<p>Чување и транспорт узорака до почетка лабораторијских испитивања треба да буде такав да не дође до промена интегритета узорка, контаминације узорка, промене његових сензорских карактеристика.</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan7-stav29">
+						<content>
+							<p>Узорци за микробилошка испитивања транспортују се на начин да транспортна посуда и/или возило за транспорт одржавају температуру хране до +4°C, односно замрзнутих производа до –18° C.</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan7-stav30">
+						<content>
+							<p>Узорци за хемијска испитивања се не замрзавају.</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan7-stav31">
+						<content>
+							<p>Узорци морају бити допремљени у лабораторију у што краћем временском периоду, не дужем од 24 часа од тренутка узимања. Током транспорта и чувања незамрзнутих узорака до испитивања не сме доћи до замрзавања. Категорије хране које су подложне квару треба доставити у лабораторију при температури од 0 до 4°C и започети испитивање у периоду не дужем од 36 часова од пријема у лабораторију.</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan7-stav32">
+						<content>
+							<p>Транспорт и чување узорака до почетка испитивања у лабораторији спроводи се у складу са стандардом ISO/DIS 7218: Микробиологија хране и хране за животиње – општа правила за микробиолошка испитивања.</p>
+							<тачка id="gla4-clan7-stav32-tac2">
+								<num>2.</num>
+								<content>
+									<p>5 Узорковање млека и производа од млека за испитивање афлатоксина М1</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="gla4-clan7-stav33">
+						<content>
+							<p>Тежина збирног узорка износи најмање 1kg или 1l, осим ако то није могуће, тј. када се узорак састоји од једне боце.</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan7-stav34">
+						<content>
+							<p>Најмањи број појединачних узорака које треба узети из производне партије дат је у Табели 6 – Најмањи број појединачних узорака које треба узети из производне партије, овог програма (у даљем тексту: Табела 6).</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan7-stav35">
+						<content>
+							<p>Број одређених појединачних узорака је функција уобичајеног облика у којем се производи стављају на тржиште.</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan7-stav36">
+						<content>
+							<p>У случају течних производа у расутом стању, производна партија мора бити добро промешана колико год је то могуће и у мери у којој то не утиче на квалитет производа, било ручно или механичким средствима непосредно пре узорковања.</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan7-stav37">
+						<content>
+							<p>У том случају, постиже се хомогена дистрибуција афлатоксина М1 унутар производне партије. Довољно је узети три појединачна узорка из производне партије како би се формирао збирни узорак.</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan7-stav38">
+						<content>
+							<p>Појединачни узорци, који често могу бити боца или паковање, треба да буду сличне тежине. Тежина појединачног узорка мора бити најмање 100g, што даје збирни узорак од најмање 1kg или 1l. Одступање од ове методе мора се навести у записнику о узимању узорака хране.</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan7-stav39">
+						<content>
+							<p>Табела 6 – Најмањи број појединачних узорака које треба узети из производне партије</p>
+						</content>
+					</clause>
+					<став id="gla4-clan7-stav40">
+						<table class="tabela-sa-borderom">
+							
+					
+							<tbody>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Врста узорка</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>Величина производне партије (у l или kg)</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>Најмањи број појединачних узорака које треба узети</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>Најмања запремина или маса збирног узорка (у l или kg)</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>Млеко из танка</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>–</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>3–5</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>1</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td rowspan="3">
+										
+								
+										<p>Оригинално паковање</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>≤50</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>3</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>1</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>50 до 500</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>5</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>1</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+						
+								<tr>
+									
+							
+									<td>
+										
+								
+										<p>&gt;500</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>10</p>
+										
+							
+									</td>
+									
+							
+									<td>
+										
+								
+										<p>1</p>
+										
+							
+									</td>
+									
+						
+								</tr>
+								
+					
+							</tbody>
+							
+				
+						</table>
+						
+				
+						<content>
+							<тачка id="gla4-clan7-stav40-tac2">
+								<num>2.</num>
+								<content>
+									<p>6. Узорковање у малопродаји</p>
+								</content>
+							</тачка>
+						</content>
+					</став>
+					<clause id="gla4-clan7-stav41">
+						<content>
+							<p>Узорковање хране у малопродаји врши се, ако је могуће, у складу са Табелом 6 овог програма.</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan7-stav42">
+						<content>
+							<p>Ако то није могуће, може се применити алтернативна метода узорковања у малопродаји под условом да се обезбеди да збирни узорак буде довољно репрезентативан за узорковану партију и да је иста у потпуности описана и документована.</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan7-stav43">
+						<content>
+							<p>Усаглашеност производне партије се:</p>
+							<alinea id="gla4-clan7-stav43-ali1">
+								<content>
+									<p>рихвата, ако узорак испуњава прописане максимално дозвољене количине, узимајући у обзир корекцију за опоравак (recovery) и мерну несигурност:</p>
+								</content>
+							</alinea>
+							<alinea id="gla4-clan7-stav43-ali2">
+								<content>
+									<p>дбацује, ако узорак недвосмислено прелази највеће максимално дозвољене количине, узимајући у обзир корекцију за опоравак (recovery) и мерну несигурност.</p>
+								</content>
+							</alinea>
+							<тачка id="gla4-clan7-stav43-tac2">
+								<num>2.</num>
+								<content>
+									<p>7 Испитивање узорака хране животињског порекла</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="gla4-clan7-stav44">
+						<content>
+							<p>Испитивање узорака хране животињског порекла врши се у овлашћеним лабораторијама, које су у обавези да резултате испитивања достављају надлежном органу без одлагања, а најкасније до 14 дана од дана узорковања.</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan7-stav45">
+						<content>
+							<p>У току спровођења Програма мониторинга методе које се користе за испитивање узорака морају бити акредитоване у складу са захтевима прописа којим се уређује безбедност хране и листом метода датих у Табели 1 и Табели 2 овог програма.</p>
+						</content>
+					</clause>
+					<clause id="gla4-clan7-stav46">
+						<content>
+							<p>Овлашћене лабораторије до 31. марта текуће године за претходну годину достављају надлежном органу годишњи извештај о спровођењу мониторинга, резултатима испитивања, броју неусаглашених узорака, броју узорака неадекватних за испитивање, као и методама које су коришћене за испитивање узорака.</p>
+						</content>
+					</clause>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

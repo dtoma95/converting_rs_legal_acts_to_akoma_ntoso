@@ -1,0 +1,1717 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2014/79-15/main"/>
+					<FRBRuri value="/rs/act/2014/79-15"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2014/79-15/srp@/main"/>
+					<FRBRuri value="/rs/act/2014/79-15/srp@"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2014/79-15/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2014/79-15/srp@.akn"/>
+					<FRBRdate date="2014" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2014-7-29" name="службени гласник рс" number="79" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="III ПРАВОСУЂЕ, КАЗНЕНО ЗАКОНОДАВСТВО И ПОСТУПЦИ" value="iii правосуђе, казнено законодавство и поступци"/>
+				<keyword id="grupa" showAs="9. Извршење кривичних санкција и алтернативних санкција и мера" value="9. извршење кривичних санкција и алтернативних санкција и мера"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2014-07-24" id="usvajanje"/>
+				<step date="2014-09-01" id="stupanje_na_snagu"/>
+				<step date="2014-09-01" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник је ступио на снагу 1. септембра 2014. године (види <ref>члан 74. </ref>Правилника).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 176. став 1. </ref>Закона о извршењу кривичних санкција („<ref id="ref7" href="/rs/act/14/55/srp@">Службени гласник РС”, број 55/14</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар правде доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о дисциплинском поступку према осуђеним лицима</title>
+			<date>&quot;Службени гласник РС&quot;, број   79 од 29. јула 2014.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОПШТЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<heading>Предмет правилника</heading>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим правилником ближе се уређује дисциплински поступак, дисциплинска одговорност и изрицање дисциплинских мера према лицу осуђеном на казну затвора (у даљем тексту: осуђени).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<heading>Доступност текста правилника</heading>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Текст овог правилника доступан је осуђеном све време током извршења казне затвора.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<heading>Дисциплински преступ</heading>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Дисциплински преступи су теже и лакше повреде правила реда и безбедности, као и повреда других правила понашања осуђеног утврђенa законом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan4">
+						<num>4.</num>
+						<heading>Овлашћење за изрицање дисциплинске мере</heading>
+						<content>
+							<clause id="gla1-clan4-stav1">
+								<content>
+									<p>Дисциплинску меру може изрећи само надлежан орган.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan5">
+						<num>5.</num>
+						<heading>Покретање дисциплинског поступка</heading>
+						<content>
+							<clause id="gla1-clan5-stav1">
+								<content>
+									<p>Дисциплински поступак се покреће и води на основу предлога за покретање дисциплинског поступка.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan6">
+						<num>6.</num>
+						<heading>Слободна оцена доказа</heading>
+						<content>
+							<clause id="gla1-clan6-stav1">
+								<content>
+									<p>Орган који води дисциплински поступак, на основу слободне оцене доказа, утврђује чињенице које су важне за доношење законите одлуке, како чињенице које терете осуђеног тако и оне које му иду у корист.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan7">
+						<num>7.</num>
+						<heading>Пружање помоћи</heading>
+						<content>
+							<clause id="gla1-clan7-stav1">
+								<content>
+									<p>Орган који води дисциплински поступак стара се да незнање или неукост осуђеног према коме се води поступак не буду на штету његових права.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan8">
+						<num>8.</num>
+						<heading>Хитност</heading>
+						<content>
+							<clause id="gla1-clan8-stav1">
+								<content>
+									<p>Дисциплински поступак је хитан. Хитност поступка не сме бити на штету доношења правилне и законите одлуке.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan9">
+						<num>9.</num>
+						<heading>Језик и писмо</heading>
+						<content>
+							<clause id="gla1-clan9-stav1">
+								<content>
+									<p>Дисциплински поступак се води у складу са одредбама закона којима се уређује службена употреба језика и писма, као и коришћење тумача у кривичном поступку.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ДИСЦИПЛИНСКЕ МЕРЕ И ПОСТУПАК ПРЕМА ОСУЂЕНОМ</heading>
+				<content>
+					<section id="gla2-od1">
+						<num>1.</num>
+						<heading> Дисциплинске мере</heading>
+						<content>
+							<article id="gla2-od1-clan10">
+								<num>10.</num>
+								<content>
+									<clause id="gla2-od1-clan10-stav1">
+										<content>
+											<p>За дисциплински преступ осуђеном се изриче дисциплинска мера.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan10-stav2">
+										<content>
+											<p>Дисциплинске мере су:</p>
+											<point id="gla2-od1-clan10-stav2-tac1">
+												<num>1)</num>
+												<content>
+													<p> укор;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan10-stav2-tac2">
+												<num>2)</num>
+												<content>
+													<p> ограничење или забрана примања пакета до три месеца;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan10-stav2-tac3">
+												<num>3)</num>
+												<content>
+													<p> одузимање додељених проширених права и погодности из <ref>члана 129. </ref>ст. 1. и 2. Закона о извршењу кривичних санкција до три месеца;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan10-stav2-tac4">
+												<num>4)</num>
+												<content>
+													<p> ограничење или забрана располагања новцем у заводу до три месеца;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan10-stav2-tac5">
+												<num>5)</num>
+												<content>
+													<p> упућивање у самицу у слободно време или током целог дана и ноћи.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan10-stav3">
+										<content>
+											<p>Дисциплинске мере из става 2. тач. 4) и 5) овог члана могу се изрећи само за теже дисциплинске преступе.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan10-stav4">
+										<content>
+											<p>Дисциплинске мере из става 2. тач. 3) и 5) могу се изрећи кумулативно.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan11">
+								<num>11.</num>
+								<heading>Укор</heading>
+								<content>
+									<clause id="gla2-od1-clan11-stav1">
+										<content>
+											<p>Укор се изриче када осуђеног због учињеног дисциплинског преступа треба само укорити.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan12">
+								<num>12.</num>
+								<heading>Ограничење или забрана примања пакета</heading>
+								<content>
+									<clause id="gla2-od1-clan12-stav1">
+										<content>
+											<p>Ограничење или забрана примања пакета изриче се као самостална мера, када се укором не може постићи сврха дисциплинске мере. Ограничење или забрана не може се односити на хигијенски пакет.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan12-stav2">
+										<content>
+											<p>Дисциплинска мера из става 1. овог члана изриче се у трајању до три месеца.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan13">
+								<num>13.</num>
+								<heading>Одузимање додељених проширених права и погодности</heading>
+								<content>
+									<clause id="gla2-od1-clan13-stav1">
+										<content>
+											<p>Одузимање додељених проширених права права и погодности из <ref>члана 129. </ref>ст. 1. и 2. Закона о извршењу кривичних санкција изриче се као самостална мера у трајању до три месеца, када се укором или ограничењем или забраном примања пакета не може постићи сврха дисциплинске мере.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan13-stav2">
+										<content>
+											<p>Одузимање додељених посебних права може се изрећи кумулативно са дисциплинском мером упућивања у самицу.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan14">
+								<num>14.</num>
+								<heading>Ограничење или забрана располагања новцем</heading>
+								<content>
+									<clause id="gla2-od1-clan14-stav1">
+										<content>
+											<p>Ограничење или забрана располагања новцем у заводу може се изрећи само за теже дисциплинске преступе, у трајању до три месеца.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan14-stav2">
+										<content>
+											<p>Ограничење или забрана располагања новцем не може се односити на располагање новцем за набавку лекова, ортопедских помагала, пружање неопходних медицинских услуга, средстава за личну хигијену, остваривање права на дописивање и телефонирање и правну помоћ.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan15">
+								<num>15.</num>
+								<heading>Упућивање у самицу</heading>
+								<content>
+									<clause id="gla2-od1-clan15-stav1">
+										<content>
+											<p>Мера упућивања у самицу подразумева издвајање осуђеног из заједничких активности са другим осуђеницима, у слободно време или током целог дана и ноћи.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan15-stav2">
+										<content>
+											<p>Упућивање у самицу у слободно време или током целог дана и ноћи изузетно се изриче за теже дисциплинске преступе, у трајању до 15 дана.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan15-stav3">
+										<content>
+											<p>Мера из става 1. овог члана може се изрећи у трајању до 30 дана за стицај тежих дисциплинских преступа.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan15-stav4">
+										<content>
+											<p>Време издвајања осуђеног се урачунава у трајање дисциплинске мере упућивања у самицу.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan15-stav5">
+										<content>
+											<p>Укупан боравак осуђеног у просторији у којој се извршава дисциплинска мера упућивања у самицу не може трајати дуже од шест месеци у току једне календарске године.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan16">
+								<num>16.</num>
+								<heading>Лекарски преглед</heading>
+								<content>
+									<clause id="gla2-od1-clan16-stav1">
+										<content>
+											<p>Пре извршења дисциплинске мере упућивања у самицу обавезан је лекарски преглед осуђеног ради утврђивања психичке и физичке способности за извршење ове мере.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan16-stav2">
+										<content>
+											<p>Ако се лекарским прегледом утврди да осуђени није способан за извршење дисциплинске мере упућивања у самицу, извршење дисциплинске мере ће се одложити.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan17">
+								<num>17.</num>
+								<heading>Извршење мере упућивања у самицу</heading>
+								<content>
+									<clause id="gla2-od1-clan17-stav1">
+										<content>
+											<p>Просторија у којој се извршава мера упућивања у самицу мора имати најмање четири квадратна метра и десет кубних метара простора. Просторија мора бити прозрачна, осветљена дневним и вештачким осветљењем, загрејана у складу са климатским условима, опремљена креветом и постељином, столом и столицом.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan17-stav2">
+										<content>
+											<p>Осуђеном се мора осигурати неограничен приступ води за пиће и санитарним уређајима.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan17-stav3">
+										<content>
+											<p>Током извршења мере упућивања у самицу осуђени може читати и писати и има право да борави ван просторије на свежем ваздуху у трајању од најмање један сат дневно.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan18">
+								<num>18.</num>
+								<heading>Лекарска контрола и обилазак осуђеног током извршења мере упућивања у самицу</heading>
+								<content>
+									<clause id="gla2-od1-clan18-stav1">
+										<content>
+											<p>Током извршења мере упућивања у самицу обавезна је лекарска контрола осуђеног најмање једном у току дана, а управник завода и васпитач су обавезни да га посете најмање једном у току седам дана.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan18-stav2">
+										<content>
+											<p>Налази и запажања лекара и других овлашћених лица уносе се у књигу извршења мере упућивања у самицу.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan19">
+								<num>19.</num>
+								<heading>Обустава и прекид мере упућивања у самицу</heading>
+								<content>
+									<clause id="gla2-od1-clan19-stav1">
+										<content>
+											<p>Управник завода обуставиће извршење мере упућивања у самицу ако оцени да је дисциплинска мера постигла своју сврху и пре њеног истека.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan19-stav2">
+										<content>
+											<p>Управник завода обавезно прекида извршење мере упућивања у самицу ако по писменом мишљењу лекара даљи боравак у самици угрожава психичко и физичко здравље осуђеног.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan19-stav3">
+										<content>
+											<p>Управник завода може прекинути извршење мере упућивања у самицу и на основу молбе осуђеног којом се позива на здравствено стање и прибављеног мишљења лекара.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan20">
+								<num>20.</num>
+								<heading>Условно одлагање извршења дисциплинске мере</heading>
+								<content>
+									<clause id="gla2-od1-clan20-stav1">
+										<content>
+											<p>Извршење дисциплинске мере, осим укора, могуће је одложити до три месеца под условом да осуђени у том року не учини нови дисциплински преступ.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan20-stav2">
+										<content>
+											<p>Извршење мере ће се одложити ако се, на основу владања осуђеног и природе дисциплинског преступа који је учинио, може очекивати да ће се и одлагањем постићи сврха дисциплинске мере.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan21">
+								<num>21.</num>
+								<heading>Опозив условно одложене дисциплинске мере</heading>
+								<content>
+									<clause id="gla2-od1-clan21-stav1">
+										<content>
+											<p>Условно одложена мера ће се опозвати ако осуђени за време одлагања учини тежи дисциплински преступ, а може се опозвати ако учини лакши дисциплински преступ.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan21-stav2">
+										<content>
+											<p>Условно одложена мера може бити опозвана и ако се накнадно утврди да је осуђени пре изрицања условно одложене дисциплинске мере учинио лакши дисциплински преступ, а биће опозвана ако је учинио тежи дисциплински преступ.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan21-stav3">
+										<content>
+											<p>Ако је условно одложена мера опозвана осуђеном ће се, применом одредаба овог правилника о стицају, изрећи јединствена мера.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan22">
+								<num>22.</num>
+								<heading>Опште правило о изрицању дисциплинске мере</heading>
+								<content>
+									<clause id="gla2-od1-clan22-stav1">
+										<content>
+											<p>При изрицању дисциплинске мере узимају се у обзир све чињенице и околности које могу бити од значаја при избору дисциплинске мере, а нарочито: тежина преступа, околности под којима је учињен, раније изрицање дисциплинских мера, понашање осуђеног током извршења казне затвора, његов однос према раду и радним обавезама и оцена остварења сврхе изрицања дисциплинске мере.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan23">
+								<num>23.</num>
+								<heading>Одмеравање дисциплинске мере за стицај дисциплинских преступа</heading>
+								<content>
+									<clause id="gla2-od1-clan23-stav1">
+										<content>
+											<p>За стицај дисциплинског преступа изриче се јединствена дисциплинска мера, на основу слободне оцене тежине преступа у стицају и других околности које утичу на изрицање јединствене мере.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan23-stav2">
+										<content>
+											<p>Код изрицања мере упућивања у самицу за стицај дисциплинских преступа, укупно трајање јединствене мере не може бити дуже од 30 дана.</p>
+											<тачка id="gla2-od1-clan23-stav2-tac2">
+												<num>2.</num>
+												<content>
+													<p> Дисциплински поступак</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan24">
+								<num>24.</num>
+								<heading>Вођење дисциплинског поступка и доношење одлуке</heading>
+								<content>
+									<clause id="gla2-od1-clan24-stav1">
+										<content>
+											<p>Дисциплински поступак води и одлуку доноси дисциплинска комисија, односно управник завода или лице које он одреди у складу са законом.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan25">
+								<num>25.</num>
+								<heading>Изузеће</heading>
+								<content>
+									<clause id="gla2-od1-clan25-stav1">
+										<content>
+											<p>Члан комисије не може учествовати у раду комисије: ако је подносилац пријаве, предлагач за покретање дисциплинског поступка или ако је у било ком другом својству учесник у дисциплинском поступку (сведок, вештак, оштећени).</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan25-stav2">
+										<content>
+											<p>Ако постоје околности које изазивају оправдану сумњу у непристрасност и објективност члана комисије, управника или лица које он одреди донеће се одлука о изузећу.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan25-stav3">
+										<content>
+											<p>Осуђени или његов бранилац могу тражити изузеће.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan25-stav4">
+										<content>
+											<p>Члан комисије, управник или лице које он одреди, кад оцени да постоје разлози за његово изузеће, предложиће да буде изузет.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan26">
+								<num>26.</num>
+								<heading>Одлука о изузећу</heading>
+								<content>
+									<clause id="gla2-od1-clan26-stav1">
+										<content>
+											<p>Одлуку о изузећу чланова комисије доноси председник комисије.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan26-stav2">
+										<content>
+											<p>Одлуку о изузећу председника комисије или лица које одреди управник, доноси управник завода.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan26-stav3">
+										<content>
+											<p>Одлуку о изузећу управника доноси директор Управе.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan26-stav4">
+										<content>
+											<p>На одлуку о изузећу не може се изјавити жалба.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan27">
+								<num>27.</num>
+								<heading>Дисциплинска пријава</heading>
+								<content>
+									<clause id="gla2-od1-clan27-stav1">
+										<content>
+											<p>Сваки запослени у заводу је обавезан да одмах по сазнању пријави дисциплински преступ који је учинило осуђено лице.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan27-stav2">
+										<content>
+											<p>Осуђени који је оштећен дисциплинским преступом може поднети пријаву писмено и усмено у записник подносиоцу предлога за покретање дисциплинског поступка.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan27-stav3">
+										<content>
+											<p>У случају хитности поступања у вези са преступом, због прикупљања и обезбеђења доказа, као и у циљу спречавања настајања даљих штетних последица, подносилац пријаве ће одмах обавестити дежурну службу завода.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan27-stav4">
+										<content>
+											<p>Ако је дошло до телесне повреде неког лица о томе ће се одмах обавестити лекар, који ће сачинити извештај о повреди и предати га подносиоцу пријаве.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan28">
+								<num>28.</num>
+								<heading>Садржај дисциплинске пријаве</heading>
+								<content>
+									<clause id="gla2-od1-clan28-stav1">
+										<content>
+											<p>Пријава се подноси у писменој форми и садржи:</p>
+											<point id="gla2-od1-clan28-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> име и презиме осуђеног лица;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan28-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> опис, време и место извршења дисциплинског преступа;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan28-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> изјаву осуђеног у вези са догађајем;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan28-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> изјаве сведока и службене белешке у вези са догађајем;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan28-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> податке о сведоцима, извештај лекара о телесним повредама и другим доказима у вези са учињеним преступом;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan28-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> време и потпис подносиоца пријаве.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan29">
+								<num>29.</num>
+								<heading>Предлог за покретање дисциплинског поступка</heading>
+								<content>
+									<clause id="gla2-od1-clan29-stav1">
+										<content>
+											<p>Дисциплински поступак се покреће на основу предлога за покретање дисциплинског поступка.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan29-stav2">
+										<content>
+											<p>Једним предлогом за покретање дисциплинског поступка може да буде обухваћено више осуђених за исти дисциплински преступ, односно више преступа истог осуђеног.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan29-stav3">
+										<content>
+											<p>Предлог подноси руководилац организационе јединице завода у чијем делокругу је преступ учињен или лице које он одреди.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan29-stav4">
+										<content>
+											<p>За тежи дисциплински преступ предлог може поднети и управник завода или лице које он одреди.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan30">
+								<num>30.</num>
+								<heading>Рок за подношење предлога за покретање дисциплинског поступка</heading>
+								<content>
+									<clause id="gla2-od1-clan30-stav1">
+										<content>
+											<p>Предлог за покретање дисциплинског поступка подноси се на основу личног сазнања подносиоца предлога или дисциплинске пријаве.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan30-stav2">
+										<content>
+											<p>Предлог се подноси у року од четрдесет и осам часова од сазнања за учињени преступ.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan30-stav3">
+										<content>
+											<p>Предлог се подноси првостепеном дисциплинском органу који води дисциплински поступак.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan30-stav4">
+										<content>
+											<p>Предлог се доставља осуђеном лицу против кога је поднет.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan31">
+								<num>31.</num>
+								<heading>Одустанак од подношења предлога за покретање дисциплинског поступка</heading>
+								<content>
+									<clause id="gla2-od1-clan31-stav1">
+										<content>
+											<p>Ако руководилац организационе јединице или лице које он одреди утврди да постоји основана сумња да је осуђени учинио лакши дисциплински преступ, али да због природе преступа, околности под којима је учињен, личности осуђеног, његовог односа према оштећеном и преступу, као и његове спремности да убудуће не чини дисциплинске преступе, не би било целисходно да се води дисциплински поступак према осуђеном, одустаће од подношења предлога за покретање дисциплинског поступка. Закључак о одустајању са образложењем доставиће управнику завода, подносиоцу пријаве и оштећеном.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan31-stav2">
+										<content>
+											<p>При одлучивању у случају из става 1. овог члана могу се саслушати и суочити осуђени, подносилац пријаве и оштећени.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan32">
+								<num>32.</num>
+								<heading>Подношење предлога за покретање дисциплинског поступка</heading>
+								<content>
+									<clause id="gla2-od1-clan32-stav1">
+										<content>
+											<p>Ако лице овлашћено за подношење предлога за покретање дисциплинског поступка, утврди да постоји основана сумња да је осуђени учинио дисциплински преступ, а не одустане од подношења предлога, поднеће предлог за покретање дисциплинског поступка.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan33">
+								<num>33.</num>
+								<heading>Садржај предлога за покретање дисциплинског поступка</heading>
+								<content>
+									<clause id="gla2-od1-clan33-stav1">
+										<content>
+											<p>Предлог за покретање дисциплинског поступка подноси се писмено и садржи:</p>
+											<point id="gla2-od1-clan33-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> податак о подносиоцу предлога;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan33-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> назив надлежног органа коме се подноси предлог;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan33-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> основне податке о осуђеном;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan33-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> чињенични опис радње из које произилази правно обележје дисциплинског преступа, време и место преступа и друге чињенице потребне да се преступ што тачније одреди;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan33-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> правну квалификацију преступа;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan33-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> имовинскоправни захтев;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan33-stav1-tac7">
+												<num>7)</num>
+												<content>
+													<p> предлог о доказима које треба извести (сведоци, налази лекара, списи, средства извршења преступа и друго);</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan33-stav1-tac8">
+												<num>8)</num>
+												<content>
+													<p> потпис подносиоца предлога.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan33-stav2">
+										<content>
+											<p>Ако је услед дисциплинског преступа дошло до повреде неког лица, налаз лекара је обавезан.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan34">
+								<num>34.</num>
+								<heading>Поступање по предлогу за вођење дисциплинског поступка</heading>
+								<content>
+									<clause id="gla2-od1-clan34-stav1">
+										<content>
+											<p>Након пријема предлога за покретање дисциплинског поступка, дисциплинска комисија, односно управник завода или лице које он одреди, најпре ће испитати да ли је надлежна (надлежан) за поступање по предлогу, да ли је предлог поднет од овлашћеног лица и да ли је благовремен и потпун.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan34-stav2">
+										<content>
+											<p>Непотпун предлог се враћа на хитну допуну, а у случају утврђене ненадлежности одмах се доставља надлежном органу.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan35">
+								<num>35.</num>
+								<heading>Одбацивање предлога за вођење дисциплинског поступка</heading>
+								<content>
+									<clause id="gla2-od1-clan35-stav1">
+										<content>
+											<p>Предлог за покретање дисциплинског поступка закључком се одбацује ако се утврди:</p>
+											<point id="gla2-od1-clan35-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> да радња описана у предлогу није дисциплински преступ;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan35-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> да постоје околности које искључују дисциплинску одговорност;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan35-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> да је предлог поднесен од неовлашћеног лица;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan35-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> да је предлог непотпун, а да га подносилац није допунио у остављеном року;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan35-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> да је предлог неблаговремен.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan36">
+								<num>36.</num>
+								<heading>Покретање дисциплинског поступка</heading>
+								<content>
+									<clause id="gla2-od1-clan36-stav1">
+										<content>
+											<p>Ако се предлог за покретање дисциплинског поступка не одбаци, закључком ће се покренути поступак и заказати расправа. Против закључка не може се поднети приговор.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan37">
+								<num>37.</num>
+								<heading>Јавност поступка</heading>
+								<content>
+									<clause id="gla2-od1-clan37-stav1">
+										<content>
+											<p>Дисциплински поступак током расправе је јаван.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan37-stav2">
+										<content>
+											<p>Јавност може бити искључена из разлога безбедности, морала, заштите осуђеног или разлога чувања службене тајне.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan38">
+								<num>38.</num>
+								<heading>Положај осуђеног у дисциплинском поступку</heading>
+								<content>
+									<clause id="gla2-od1-clan38-stav1">
+										<content>
+											<p>У дисциплинском поступку поштује се личност осуђеног и његово достојанство.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan38-stav2">
+										<content>
+											<p>Осуђени присуствује расправи у дисциплинском поступку и треба да буде саслушан.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan39">
+								<num>39.</num>
+								<heading>Стручна правна помоћ</heading>
+								<content>
+									<clause id="gla2-od1-clan39-stav1">
+										<content>
+											<p>Стручну правну помоћ осуђеном у дисциплинском поступку може да пружи дипломирани правник.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan39-stav2">
+										<content>
+											<p>Ако осуђени у дисциплинском поступку нема свог пуномоћника, завод му доставља списак дипломираних правника из завода.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan39-stav3">
+										<content>
+											<p>Уз позив за расправу осуђеном се доставља предлог за покретање дисциплинског поступка, уз обавештење о праву на стручну правну помоћ.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan39-stav4">
+										<content>
+											<p>Од пријема позива и достављања предлога из става 3. овог члана до расправе мора да протекне најмање три дана.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan40">
+								<num>40.</num>
+								<heading>Издвајање осуђеног</heading>
+								<content>
+									<clause id="gla2-od1-clan40-stav1">
+										<content>
+											<p>Од момента сазнања за учињени тежи дисциплински преступ до започињања и током дисциплинског поступка, управник завода или лице које он овласти може одлучити да се осуђени издвоји из безбедносних разлога од осталих осуђеника до четрдест осам часова.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan41">
+								<num>41.</num>
+								<heading>Подносилац предлога</heading>
+								<content>
+									<clause id="gla2-od1-clan41-stav1">
+										<content>
+											<p>Подносилац предлога може до краја расправе повући предлог, допунити га или изменити.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan41-stav2">
+										<content>
+											<p>Подносилац предлога може бити саслушан, а мора бити саслушан ако то затражи.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan42">
+								<num>42.</num>
+								<heading>Вођење дисциплинског поступка без подносиоца предлога</heading>
+								<content>
+									<clause id="gla2-od1-clan42-stav1">
+										<content>
+											<p>Дисциплински поступак се може водити и без подносиоца предлога, ако је уредно позван.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan43">
+								<num>43.</num>
+								<heading>Бранилац осуђеног</heading>
+								<content>
+									<clause id="gla2-od1-clan43-stav1">
+										<content>
+											<p>Дисциплински поступак се може водити и без присуства браниоца осуђеног ако је уредно позван, а не оправда свој изостанак.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan43-stav2">
+										<content>
+											<p>Ако бранилац оправда изостанак, поступак се одлаже најдуже до три дана. Ако се ни на новој заказаној расправи не појави, поступак се може водити и без његовог присуства.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan43-stav3">
+										<content>
+											<p>Дисциплински поступак није могуће водити без присуства осуђеног.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan44">
+								<num>44.</num>
+								<heading>Отварање расправе</heading>
+								<content>
+									<clause id="gla2-od1-clan44-stav1">
+										<content>
+											<p>Расправом руководи председник дисциплинске комисије, односно управник завода или лице које он одреди.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan44-stav2">
+										<content>
+											<p>Расправа почиње отварањем и објављивањем предмета расправе, а након тога се утврђује да ли су сва позвана лица присутна. Ако нису, утврђује се да ли су им позиви уредно уручени и да ли су оправдали свој изостанак.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan45">
+								<num>45.</num>
+								<heading>Ток расправе</heading>
+								<content>
+									<clause id="gla2-od1-clan45-stav1">
+										<content>
+											<p>Након утврђивања услова за вођење расправе, чита се предлог за покретање дисциплинског поступка и даје се реч осуђеном да се изјасни о наводима из предлога.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan45-stav2">
+										<content>
+											<p>Саслушавају се сведоци или читају њихове изјаве ако нису присутни.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan45-stav3">
+										<content>
+											<p>Осуђени и његов бранилац имају право да, преко лица које води поступак, постављају питања сведоку и вештаку.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan45-stav4">
+										<content>
+											<p>Даје се реч подносиоцу предлога, а ако је наложено вештачење чита се или усмено саопштава налаз и мишљење вештака. Могуће је суочавање осуђеног и сведока, а могу се изводити и други докази.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan45-stav5">
+										<content>
+											<p>Током расправе утврдиће се све одлучне чињенице, како оне које осуђеног терете тако и оне које му иду у прилог.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan45-stav6">
+										<content>
+											<p>Након изведеног доказног поступка даје се завршна реч најпре подносиоцу предлога, ако је присутан, браниоцу осуђеног ако га има и на крају осуђеном.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan45-stav7">
+										<content>
+											<p>Признање осуђеног да је учинио дисциплински преступ не ослобађа орган који води дисциплински поступак од дужности да изводи и друге доказе.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan46">
+								<num>46.</num>
+								<heading>Прекид поступка</heading>
+								<content>
+									<clause id="gla2-od1-clan46-stav1">
+										<content>
+											<p>Дисциплински поступак се решењем прекида:</p>
+											<point id="gla2-od1-clan46-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> ако је осуђени у бекству;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan46-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> ако је код осуђеног наступило привремено душевно обољење или привремена душевна поремећеност;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan46-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> ако из здравствених разлога није у могућности да присуствује расправи.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan46-stav2">
+										<content>
+											<p>Поступак ће се наставити решењем кад престану разлози за његов прекид.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan46-stav3">
+										<content>
+											<p>Ако током прекида дође до застарелости, поступак ће се обуставити решењем.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan46-stav4">
+										<content>
+											<p>На решења из ст. 1. и 2. овог члана не може се поднети приговор.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan47">
+								<num>47.</num>
+								<heading>Записник о расправи</heading>
+								<content>
+									<clause id="gla2-od1-clan47-stav1">
+										<content>
+											<p>О расправи се води записник.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan47-stav2">
+										<content>
+											<p>Записник садржи податке о саставу дисциплинске комисије, односно име управника или лица које он одреди, датуму и месту расправе, податке о осуђеном и његовом браниоцу, подносиоцу захтева за покретање дисциплинског поступка, правној квалификацији преступа за који се осуђени терети, податак о јавности расправе и податке о записничару. Искази дати током расправе уносе се у записник тако да се верно прикаже њихова садржина.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan47-stav3">
+										<content>
+											<p>Записник се завршава закључењем расправе, а потписују га чланови дисциплинске комисије, односно управник или лице које он одреди, осуђени и записничар.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan47-stav4">
+										<content>
+											<p>Осуђеном се мора омогућити да, пре потписивања, прочита записник односно да буде непосредно и истинито обавештен о његовој садржини.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan47-stav5">
+										<content>
+											<p>Осуђеном се мора омогућити да изнесе примедбе на садржину записника. Примедбе на садржину записника су саставни део записника.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan48">
+								<num>48.</num>
+								<heading>Решење о дисциплинском преступу</heading>
+								<content>
+									<clause id="gla2-od1-clan48-stav1">
+										<content>
+											<p>Дисциплински поступак завршава се доношењем решења о изрицању дисциплинске мере, решења о ослобађању од дисциплинске одговорности или решења о обустављању дисциплинског поступка према осуђеном.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan48-stav2">
+										<content>
+											<p>Решење се објављује усмено одмах након већања и гласања и уз кратко образложење разлога за његово доношење.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan49">
+								<num>49.</num>
+								<heading>Израда и достављање решења о дисциплинском преступу</heading>
+								<content>
+									<clause id="gla2-od1-clan49-stav1">
+										<content>
+											<p>Решење о дисциплинском преступу се заснива на изведеним доказима и чињеницама које су утврђене у расправи.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan49-stav2">
+										<content>
+											<p>Решење се израђује у писменој форми и доставља у року од три дана од дана закључења расправе.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan49-stav3">
+										<content>
+											<p>Решење о изрицању дисциплинске мере упућивање у самицу у слободно време или током целог дана и ноћи, изузетно се из разлога безбедности, може извршити одмах по објављивању, а у писменој форми се доставља најкасније у року од 24 сата од изрицања мере.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan49-stav4">
+										<content>
+											<p>Решење се доставља осуђеном, његовом браниоцу и подносиоцу предлога. Примерак решења улаже се у лични лист осуђеног.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan50">
+								<num>50.</num>
+								<heading>Одлучивање једним решењем у дисциплинском поступку</heading>
+								<content>
+									<clause id="gla2-od1-clan50-stav1">
+										<content>
+											<p>Решење о дисциплинском преступу односи се само на лице које се предлогом за покретање дисциплинског поступка терети и само на преступ који је предмет поднетог предлога.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan50-stav2">
+										<content>
+											<p>Једним решењем обухватају се сви преступи истог лица, као и сви саучесници у истом преступу или у више преступа.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan51">
+								<num>51.</num>
+								<heading>Правна квалификација дисциплинског преступа</heading>
+								<content>
+									<clause id="gla2-od1-clan51-stav1">
+										<content>
+											<p>Орган који води дисциплински поступак није везан за предлоге и оцену у погледу правне квалификације дисциплинског преступа.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan51-stav2">
+										<content>
+											<p>Ако је дисциплинска комисија током расправе или у фази одлучивања оценила да се ради о лакшем дисциплинском преступу, донеће решење о том преступу.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan52">
+								<num>52.</num>
+								<heading>Решење о обустављању дисциплинског поступка</heading>
+								<content>
+									<clause id="gla2-od1-clan52-stav1">
+										<content>
+											<p>Решење о обустављању дисциплинског поступка према осуђеном донеће се кад се утврди:</p>
+											<point id="gla2-od1-clan52-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> да је поступак вођен без предлога за покретање дисциплинског поступка;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan52-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> да не постоји стварна надлежност, осим у случају из <ref>члана 51. став 2. овог</ref> правилника;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan52-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> да је осуђеном за исту радњу већ изречена дисциплинска мера или је дисциплински поступак обустављен, али не због ненадлежности;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan52-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> да је наступила застарелост у току поступка;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan52-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> да је наступила смрт осуђеног;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan52-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> да је подносилац предлога за покретање дисциплинског поступка повукао предлог.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan53">
+								<num>53.</num>
+								<heading>Решење о ослобађању од дисциплинске одговорности</heading>
+								<content>
+									<clause id="gla2-od1-clan53-stav1">
+										<content>
+											<p>Решење о ослобађању од дисциплинске одговорности осуђеног донеће се кад се утврди да:</p>
+											<point id="gla2-od1-clan53-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> радња за коју се терети осуђени није дисциплински преступ;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan53-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> постоје околности које искључују дисциплинску одговорност;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan53-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> није доказано да је осуђени учинио преступ за који је поднет предлог за покретање дисциплинског поступка.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan54">
+								<num>54.</num>
+								<heading>Решење о изрицању дисциплинске мере</heading>
+								<content>
+									<clause id="gla2-od1-clan54-stav1">
+										<content>
+											<p>Решење којим се осуђеном изриче дисциплинска мера доноси се кад се током расправе утврди да постоји дисциплински преступ и одговорност осуђеног за преступ.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan55">
+								<num>55.</num>
+								<heading>Садржај решења о изрицању дисциплинске мере</heading>
+								<content>
+									<clause id="gla2-od1-clan55-stav1">
+										<content>
+											<p>Решење о изрицању дисциплинске мере садржи:</p>
+											<point id="gla2-od1-clan55-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> податке о дисциплинском преступу за који се осуђеном изриче дисциплинска мера и околностима које чине обележја преступа од којих зависи примена одређеног прописа о преступу;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan55-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> позивање на пропис који је примењен;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan55-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> одлуку о дисциплинској одговорности и изреченој мери;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan55-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> одлуку о одузимању имовинске користи;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan55-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> одлуку о урачунавању издвајања осуђеног у трајање дисциплинске мере;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan55-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> одлуку о трошковима дисциплинског поступка;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan55-stav1-tac7">
+												<num>7)</num>
+												<content>
+													<p> одлуку о имовинскоправном захтеву.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan56">
+								<num>56.</num>
+								<heading>Решење којим се одлучује о више дисциплинских преступа</heading>
+								<content>
+									<clause id="gla2-od1-clan56-stav1">
+										<content>
+											<p>Ако се дисциплински поступак води због више дисциплинских преступа, у решењу ће се навести за које дисциплинске преступе се осуђеном изриче дисциплинска мера, за које дисциплинске преступе се ослобађа од дисциплинске одговорности и за које дисциплинске преступе се обуставља дисциплински поступак.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan57">
+								<num>57.</num>
+								<heading>Саставни делови решења</heading>
+								<content>
+									<clause id="gla2-od1-clan57-stav1">
+										<content>
+											<p>Писмено израђено решење о дисциплинском преступу садржи:</p>
+											<point id="gla2-od1-clan57-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> увод;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan57-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> изреку;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan57-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> образложење;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan57-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> упутство о праву на жалбу;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan57-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> број, датум, потпис лица које је водило дисциплински поступак и службени печат.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan58">
+								<num>58.</num>
+								<heading>Одузимање имовинске користи</heading>
+								<content>
+									<clause id="gla2-od1-clan58-stav1">
+										<content>
+											<p>Од осуђеног који је учинио дисциплински преступ у дисциплинском поступку, одузеће се сва имовинска корист коју је прибавио вршењем дисциплинског преступа.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan58-stav2">
+										<content>
+											<p>Из одузете користи надокнадиће се штета која је настала вршењем дисциплинског преступа.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan58-stav3">
+										<content>
+											<p>Одузета корист или преостали део користи, након накнаде штете, припада заводу.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan59">
+								<num>59.</num>
+								<heading>Имовинскоправни захтев</heading>
+								<content>
+									<clause id="gla2-od1-clan59-stav1">
+										<content>
+											<p>Имовинскоправни захтев за накнаду штете, коју је осуђени намерно или грубом непажњом проузроковао заводу вршењем дисциплинског преступа, подноси подносилац предлога за покретање дисциплинског поступка.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan59-stav2">
+										<content>
+											<p>О захтеву из става 1. овог члана одлучује дисциплинска комисија, односно управник завода или лице које одреди, у поступку у којем се одлучује о дисциплинском преступу којим је осуђени нанео штету заводу.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan60">
+								<num>60.</num>
+								<heading>Жалба на решење о дисциплинском преступу</heading>
+								<content>
+									<clause id="gla2-od1-clan60-stav1">
+										<content>
+											<p>У складу са законом осуђени може изјавити жалбу судији за извршење кривичних санкција (у даљем тексту: судија за извршење).</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan61">
+								<num>61.</num>
+								<heading>Садржај жалбе</heading>
+								<content>
+									<clause id="gla2-od1-clan61-stav1">
+										<content>
+											<p>Жалба мора садржати податак о решењу против којег се жалба изјављује, разлоге из којих је подносилац жалбе незадовољан одлуком и потпис подносиоца жалбе.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan61-stav2">
+										<content>
+											<p>Подносилац жалбе може у жалби да предлаже утврђивање нових чињеница и прибављање нових доказа, ако нису били познати у време доношења побијане одлуке.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan62">
+								<num>62.</num>
+								<heading>Основи због којих се решење може побијати</heading>
+								<content>
+									<clause id="gla2-od1-clan62-stav1">
+										<content>
+											<p>Решење о дисциплинском преступу може се побијати због:</p>
+											<point id="gla2-od1-clan62-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> битне повреде дисциплинског поступка;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan62-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> повреде материјалноправних одредаба;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan62-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> погрешно или непотпуно утврђеног чињеничног стања;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan62-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> одлуке о дисциплинској мери;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan62-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> одлуке о одузимању имовинске користи, трошковима дисциплинског поступка и имовинскоправном захтеву.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan63">
+								<num>63.</num>
+								<heading>Битне повреде дисциплинског поступка</heading>
+								<content>
+									<clause id="gla2-od1-clan63-stav1">
+										<content>
+											<p>Битна повреда дисциплинског поступка постоји:</p>
+											<point id="gla2-od1-clan63-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> ако је дисциплински поступак водило или у одлучивању учествовало лице које је изузето или морало бити изузето;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan63-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> ако осуђени у дисциплинском поступку није био присутан или му није омогућено да се брани;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan63-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> ако осуђени није био поучен о праву на употребу језика и писма или му је то право било ускраћено;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan63-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> ако је била искључена јавност расправе без правног основа;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan63-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> ако је решење донето од ненадлежног органа;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan63-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> ако усмено саопштена одлука није унета у записник;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan63-stav1-tac7">
+												<num>7)</num>
+												<content>
+													<p> ако је решењем предлог прекорачен;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan63-stav1-tac8">
+												<num>8)</num>
+												<content>
+													<p> ако се одлука заснивала на незаконито прибављеном доказу;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan63-stav1-tac9">
+												<num>9)</num>
+												<content>
+													<p> ако је изрека одлуке неразумљива;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan63-stav1-tac10">
+												<num>10)</num>
+												<content>
+													<p> ако је изрека противречна сама себи или су разлози одлуке противречни изреци, или ако одлука уопште нема разлоге, или нису наведени разлози о одлучним чињеницама, или ако су ти разлози потпуно нејасни, или постоји противречност између разлога наведених у одлуци и садржине докумената или записника;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan63-stav1-tac11">
+												<num>11)</num>
+												<content>
+													<p> ако је наступила застарелост или је ствар већ коначно решена.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan63-stav2">
+										<content>
+											<p>Битна повреда дисциплинског поступка постоји и ако приликом доношења одлуке није примењена или је погрешно примењена нека одредба овог правилника или је у току поступка повређено право одбране, а то је утицало или је могло утицати на правилно доношење одлуке.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan64">
+								<num>64.</num>
+								<heading>Повреда материјалног права</heading>
+								<content>
+									<clause id="gla2-od1-clan64-stav1">
+										<content>
+											<p>Повреда материјалног права постоји:</p>
+											<point id="gla2-od1-clan64-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> ако радња којом је осуђени оглашен одговорним не представља дисциплински преступ;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan64-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> ако постоје околности које искључују дисциплинску одговорност;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan64-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> ако су повређене одредбе о урачунавању времена издвајања до четрдесет осам часова у дисциплинску меру упућивања у самицу;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan64-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> ако је одлуком о дисциплинској мери прекорачено овлашћење предвиђено Законом о извршењу кривичних санкција и овим правилником.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan65">
+								<num>65.</num>
+								<heading>Погрешно или непотпуно утврђено чињенично стање</heading>
+								<content>
+									<clause id="gla2-od1-clan65-stav1">
+										<content>
+											<p>Решење о дисциплинској одговорности може се побијати због погрешно или непотпуно утврђеног чињеничног стања, кад је нека одлучна чињеница погрешно утврђена или није утврђена.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan65-stav2">
+										<content>
+											<p>Непотпуно утврђено чињенично стање постоји и кад на то указују нове чињенице или нови докази.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan66">
+								<num>66.</num>
+								<heading>Границе испитивања решења о дисциплинском преступу</heading>
+								<content>
+									<clause id="gla2-od1-clan66-stav1">
+										<content>
+											<p>Судија за извршење испитује решење о дисциплинском преступу у делу које се побија жалбом, али мора увек по службеној дужности испитати:</p>
+											<point id="gla2-od1-clan66-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> да ли постоји битна повреда одредаба дисциплинског поступка, осим у случајевима из <ref>члана 63. став 2. овог</ref> правилника;</p>
+												</content>
+											</point>
+											<point id="gla2-od1-clan66-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> да ли је повређено материјално право.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan67">
+								<num>67.</num>
+								<heading>Потврђивање решења о дисциплинском преступу</heading>
+								<content>
+									<clause id="gla2-od1-clan67-stav1">
+										<content>
+											<p>Судија за извршење ће решењем одбити жалбу као неосновану и потврдити решење о дисциплинском преступу, кад утврди да не постоје разлози због којих се решење побија, нити повреде из <ref>члана 66. овог</ref> правилника.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan68">
+								<num>68.</num>
+								<heading>Преиначење решења о дисциплинском преступу</heading>
+								<content>
+									<clause id="gla2-od1-clan68-stav1">
+										<content>
+											<p>Судија за извршење ће усвојити жалбу и решењем преиначити решење о дисциплинском преступу, кад утврди да су одлучне чињенице утврђене и да, с обзиром на утврђено чињенично стање, треба донети другачије решење или ако сматра да постоје такве повреде правилника које се могу отклонити без укидања решења о дисциплинском преступу, или ако нађе да приликом изрицања дисциплинске мере нису узете у обзир све околности које утичу на њено правилно одмеравање или кад околности које су узете у обзир нису правилно оцењене.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan69">
+								<num>69.</num>
+								<heading>Укидање решења о дисциплинском преступу</heading>
+								<content>
+									<clause id="gla2-od1-clan69-stav1">
+										<content>
+											<p>Судија за извршење ће жалбу усвојити и решењем укинути решење о дисциплинском преступу и предмет вратити на поновно одлучивање, ако утврди да је погрешно или непотпуно утврђено чињенично стање или утврди да постоји битна повреда одредаба дисциплинског поступка, која је била или је могла бити од утицаја на законито решавање.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan69-stav2">
+										<content>
+											<p>Поводом жалбе на решење о дисциплинском преступу у поновљеном поступку у случају из става 1. овог члана судија за извршење донеће коначну одлуку о дисциплинском преступу.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan70">
+								<num>70.</num>
+								<heading>Образложење решења о жалби</heading>
+								<content>
+									<clause id="gla2-od1-clan70-stav1">
+										<content>
+											<p>У образложењу решења о жалби судија за извршење цениће жалбене наводе и указаће на повреде правилника које је узео у обзир по службеној дужности.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan70-stav2">
+										<content>
+											<p>Кад се решење о дисциплинском преступу укида због повреде дисциплинског поступка, у образложењу ће се навести које су одредбе повређене и у чему се огледа повреда.</p>
+										</content>
+									</clause>
+									<clause id="gla2-od1-clan70-stav3">
+										<content>
+											<p>Кад се решење о дисциплинском преступу укида због погрешно или непотпуно утврђеног чињеничног стања, навешће се недостаци односно разлози зашто су нови докази и нове чињенице важни за доношење правилне одлуке.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan71">
+								<num>71.</num>
+								<heading>Дејство жалбе у корист саучесника</heading>
+								<content>
+									<clause id="gla2-od1-clan71-stav1">
+										<content>
+											<p>Кад судија за извршење поводом жалбе изјављене против решења о дисциплинском преступу утврди да су разлози због којих је донео решење у корист подносиоца жалбе корисни и за неког од саучесника који није изјавио жалбу или је није изјавио у том правцу, по службеној дужности ће поступити као да таква жалба постоји.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla2-od1-clan72">
+								<num>72.</num>
+								<heading>Сходна примена правилника у дисциплинском поступку према лицу којем је изречена казна затвора за прекршај</heading>
+								<content>
+									<clause id="gla2-od1-clan72-stav1">
+										<content>
+											<p>Одредбе овог правилника сходно се примењују и на лице којем је изречена казна затвора за прекршај, ако посебним правилником није другачије одређено.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla3-clan73">
+						<num>73.</num>
+						<heading>Престанак важења ранијег правилника</heading>
+						<content>
+							<clause id="gla3-clan73-stav1">
+								<content>
+									<p>Даном ступања на снагу овог правилника престаје да важи Правилник о дисциплинским преступима, мерама и поступку према осуђеним лицима („<ref id="ref8" href="/rs/act/06/59/srp@">Службени гласник РС”, број 59/06</ref>).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan74">
+						<num>74.</num>
+						<heading>Ступање правилника на снагу</heading>
+						<content>
+							<clause id="gla3-clan74-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу 1. септембра 2014. године.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan74-stav2">
+								<content>
+									<p>Број 110-00-6/2014-05</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan74-stav3">
+								<content>
+									<p>У Београду, 24. јула 2014. године</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan74-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan74-stav5">
+								<content>
+									<p>Никола Селаковић, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

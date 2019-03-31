@@ -1,0 +1,208 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2015/37-89/main"/>
+					<FRBRuri value="/rs/act/2015/37-89"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2015/37-89/srp@/main"/>
+					<FRBRuri value="/rs/act/2015/37-89/srp@"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2015/37-89/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2015/37-89/srp@.akn"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2015-4-24" name="службени гласник рс" number="37" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="10. Рибарство" value="10. рибарство"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2015-04-08" id="usvajanje"/>
+				<step date="2015-05-02" id="stupanje_na_snagu"/>
+				<step date="2016-01-01" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник је ступио на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, а примењује се од 1. јануара 2016. године (види <ref>члан 8. </ref>Правилника).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 39. став 4. </ref>Закона о заштити и одрживом коришћењу рибљег фонда („<ref id="ref2" href="/rs/act/14/128/srp@">Службени гласник РС”, број 128/14</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде и заштите животне средине доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о изгледу и садржини обрасца евиденције улова привредног рибара и начину вођења евиденције о улову рибе</title>
+			<date>&quot;Службени гласник РС&quot;, број 37 од 24. априла      2015.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником ближе се прописују изглед и садржина обрасца евиденције улова привредног рибара и начин вођења евиденције о улову рибе.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Изглед обрасца евиденције улова привредног рибара дат је на Обрасцу Е – 2, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Образац Е – 2 из става 1. овог члана има облик књиге са повезом димензија 7,5 x 10,5 cm и садржи:</p>
+							<point id="clan2-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> на првој страни: текст „Република Србија”, место за уписивање назива корисника рибарског подручја, текст „Образац евиденције улова привредног рибара” и годину за коју је издат;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> на другој страни: место за уписивање имена и презимена привредног рибара, адресу пребивалишта привредног рибара, ЈМБГ привредног рибара и серијски број дозволе за привредни риболов;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p> на унутрашњој страни: табелу за евиденцију дневног улова која садржи: датум, врсту рибе и kg/комада рибе;</p>
+								</content>
+							</point>
+							<point id="clan2-stav2-tac4">
+								<num>4)</num>
+								<content>
+									<p> на последњој страни, простор за белешке привредног рибара.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Евиденција дневног улова привредног рибара доставља се кориснику рибарског подручја збирно по рибљим врстама, првог радног дана у месецу за претходни месец (у даљем тексту: месечни извештај).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Годишњи извештај о улову привредног рибара сачињава се по рибљим врстама и доставља се кориснику рибарског подручја крајем године за текућу годину, а најкасније до 31. децембра.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Месечни и годишњи извештај о улову рибе достављају се на јединственом Обрасцу Е – 3, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Образац Е – 3 из става 1. овог члана издаје се на белом папиру димензија 29,7 x 21 cm и садржи: име и презиме привредног рибара, адресу пребивалишта привредног рибара, назив корисника рибарског подручја, серијски број дозволе за привредни риболов, месец /годину на коју се евиденција односи, назив врсте рибе, масу рибе у kg, број комада уловљене рибе, место и датум доставе евиденције кориснику и место за потпис привредног рибара.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Евиденција о улову рибе води се читко, уредно и тачно, уз обавезно попуњавање свих рубрика и навођење свих тражених података.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Месечни и годишњи извештај о улову рибе достављају се у два примерка, од којих један примерак задржава корисник рибарског подручја, а други примерак са потписом и печатом корисника рибарског подручја, задржава привредни рибар.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Евиденција о пријему месечног и годишњег извештаја води се тако да се може утврдити тачан датум пријема тих извештаја.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, а примењује се од 1. јануара 2016. године.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Број 119-01-21/2015-17</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>У Београду, 8. априла 2015. године</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav5">
+						<content>
+							<p>проф. др Снежана Богосављевић Бошковић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav6">
+						<content>
+							<p>Прилози</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav7">
+						<content>
+							<p>Образац Е-2 -     Образац евиденције      улова привредног рибара</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

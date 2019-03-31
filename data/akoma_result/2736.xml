@@ -1,0 +1,1653 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2012/55-107/main"/>
+					<FRBRuri value="/rs/act/2012/55-107"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2016/4-93/srp@/main"/>
+					<FRBRuri value="/rs/act/2016/4-93/srp@"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2016/4-93/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2016/4-93/srp@.akn"/>
+					<FRBRdate date="2016" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2012-6-1" name="службени гласник рс" number="55" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="IX ОПШТИ ПРИВРЕДНИ ПРОПИСИ И ЕКОНОМСКИ ОДНОСИ СА ИНОСТРАНСТВОМ" value="ix општи привредни прописи и економски односи са иностранством"/>
+				<keyword id="grupa" showAs="11. Регистрација привредних субјеката" value="11. регистрација привредних субјеката"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2012-05-22" id="usvajanje"/>
+				<step date="2012-06-09" id="stupanje_na_snagu"/>
+				<step date="2012-06-09" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="55/2012-107" id="e1" type="generation"/>
+				<eventRef date="4/2016-93" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Правилник о изменама и допунама Правилника о садржини регистра туризма и документацији потребној за регистрацију и евиденцију (<ref id="ref34" href="/rs/act/2016/4/srp@">Службени гласник РС, број 4/2016</ref>) ступио је на снагу 25. јануара 2016. године (види <ref>члан 19. </ref>Правилника - 4/2016-93).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 44. </ref>Закона о поступку регистрације у Агенцији за привредне регистре („<ref id="ref35" href="/rs/act/11/99/srp@">Службени гласник РС”, брoj 99/11</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар економије и регионалног развоја доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о садржини Регистра туризма и документацији потребној за регистрацију и евиденцију</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 55 од 1. јуна   2012, 4 од 22. јануара 2016.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Основне одредбе</heading>
+				<content>
+					<article id="od1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="od1-clan1-stav1">
+								<content>
+									<p>Овим правилником ближе се прописује садржина Регистра туризма (у даљем тексту: Регистар) и документација потребна за регистрацију и евиденцију података у Регистар.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan1-stav2">
+								<content>
+									<p>Регистар садржи податке који се региструју и податке који се евидентирају.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan1-stav3">
+								<content>
+									<p>Садржину Регистра чине и подаци које у Регистар непосредно уносе надлежни државни органи.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan1-stav4">
+								<content>
+									<p>Садржину Регистра чине и подаци које у Регистар непосредно уносе лица о којима се воде подаци у Регистру (подаци који се односе на интернет страну, адресу електронске поште, број телефона, факса и друге сличне податке о том лицу.)</p>
+								</content>
+							</clause>
+							<clause id="od1-clan1-stav5">
+								<content>
+									<p>Садржину Регистра чине и подаци који се уносе у Регистар преузимањем у електронској форми од других регистара и/или евиденција које се, у складу са прописима, воде у земљи и иностранству.</p>
+								</content>
+							</clause>
+							<clause id="od1-clan1-stav6">
+								<content>
+									<p>Регистар садржи и документе на основу којих је извршена регистрација или евиденција.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="od1-clan2-stav1">
+								<content>
+									<p>Подаци који се региструју односе се на податке о туристичким   агенцијама:*</p>
+									<point id="od1-clan2-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> организаторима туристичког путовања (у даљем тексту: организатор   путовања);*</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> посредницима у продаји туристичких путовања (у даљем тексту:   посредник).*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od1-clan2-stav2">
+								<content>
+									<p>Подаци који се евидентирају односе се на:*</p>
+									<point id="od1-clan2-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> управљаче туристичких простора;*</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> туристичка места;*</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> дестинацијске менаџмент организације;*</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> дестинацијске менаџмент компаније;*</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> професионалне организаторе конгреса;*</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> туристичке организације;*</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> угоститеље;*</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav2-tac8">
+										<num>8)</num>
+										<content>
+											<p> категорисане и некатегорисане угоститељске објекте;*</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav2-tac9">
+										<num>9)</num>
+										<content>
+											<p> лица која пружају услуге у домаћој радиности;*</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav2-tac10">
+										<num>10)</num>
+										<content>
+											<p> лица која пружају услуге у сеоским туристичким домаћинствима;*</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav2-tac11">
+										<num>11)</num>
+										<content>
+											<p> пружаоце наутичких услуга;*</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav2-tac12">
+										<num>12)</num>
+										<content>
+											<p> категорисане и некатегорисане објекте наутичког туризма;*</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav2-tac13">
+										<num>13)</num>
+										<content>
+											<p> пружаоце ловнотуристичких услуга;*</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav2-tac14">
+										<num>14)</num>
+										<content>
+											<p> категорисане и некатегорисане објекте ловног туризма;*</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav2-tac15">
+										<num>15)</num>
+										<content>
+											<p> туристичке водиче;*</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav2-tac16">
+										<num>16)</num>
+										<content>
+											<p> локалне туристичке водиче;*</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav2-tac17">
+										<num>17)</num>
+										<content>
+											<p> туристичке пратиоце;*</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav2-tac18">
+										<num>18)</num>
+										<content>
+											<p> туристичке аниматоре;*</p>
+										</content>
+									</point>
+									<point id="od1-clan2-stav2-tac19">
+										<num>19)</num>
+										<content>
+											<p> привредне субјекте који пружају услуге изнајмљива возила (rent-a-car)   и услуге изнајмљивања возила са услугама возача (limo   service).*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan3">
+						<num>3.</num>
+						<heading>*<ref id="ref36" href="/rs/act/2016/4/srp@">Службени гласник РС, број 4/2016</ref></heading>
+						<content>
+							<clause id="od1-clan3-stav1">
+								<content>
+									<p>Подаци о лицима из <ref>члана 2. овог</ref> правилника који се региструју и евидентирају у Регистар, нарочито се односе на:</p>
+									<point id="od1-clan3-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> статус у одговарајућем регистру;</p>
+										</content>
+									</point>
+									<point id="od1-clan3-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> пословно име, односно име и презиме;</p>
+										</content>
+									</point>
+									<point id="od1-clan3-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> правну форму, односно облик организовања;</p>
+										</content>
+									</point>
+									<point id="od1-clan3-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> матични број за правна лица, јединствени матични број грађана или број избегличке легитимације за физичка лица, број пасоша и земља његовог издавања или лични број за страна физичка лица;</p>
+										</content>
+									</point>
+									<point id="od1-clan3-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> седиште, односно адресу пребивалишта;</p>
+										</content>
+									</point>
+									<point id="od1-clan3-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> шифру и опис претежне делатности;</p>
+										</content>
+									</point>
+									<point id="od1-clan3-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> порески идентификациони број (ПИБ);</p>
+										</content>
+									</point>
+									<point id="od1-clan3-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> бројеве рачуна у банкама;</p>
+										</content>
+									</point>
+									<point id="od1-clan3-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> заступнике правног лица;</p>
+										</content>
+									</point>
+									<point id="od1-clan3-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> огранке правних лица, односно издвојено место предузетника.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od1-clan3-stav2">
+								<content>
+									<p>У Регистар се региструју и евидентирају и подаци о наложеним мерама надлежних инспекцијских и других државних органа на основу овлашћења из закона којим се уређује туризам, као и подаци о броју, датуму и доносиоцу решења којим су наложене мере.</p>
+									<тачка id="od1-clan3-stav2-tac2">
+										<num>2.</num>
+										<content>
+											<p> Подаци који се региструју</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od1-clan4">
+						<num>4.</num>
+						<heading>Подаци о организатору путовања</heading>
+						<content>
+							<clause id="od1-clan4-stav1">
+								<content>
+									<p>У Регистар се, поред података из <ref>члана 3. овог</ref> правилника,   региструју и подаци који се односе на издавање лиценце и брисање   организатора путовања из Регистра.*</p>
+								</content>
+							</clause>
+							<clause id="od1-clan4-stav2">
+								<content>
+									<p>Подаци који се односе на издавање лиценце су подаци о:*</p>
+									<point id="od1-clan4-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> руководиоцу, његовој стручној спреми и страном језику који   познаје;*</p>
+										</content>
+									</point>
+									<point id="od1-clan4-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> прописаним гаранцијама путовања за случај инсолвентности и ради   накнаде штете, са потребним подацима и то:*</p>
+											<item id="od1-clan4-stav2-tac2-podtac1">
+												<num>(1)</num>
+												<content>
+													<p> уговор о осигурању (матични број и пословно име осигуравача или   уговарача осигурања, број и датум закључења уговора, скаденца, подаци о   реосигурању уколико постоји, износ укупног лимита покрића, који не може бити   мањи од 300.000 евра, време трајања полисе) или*</p>
+												</content>
+											</item>
+											<item id="od1-clan4-stav2-tac2-podtac2">
+												<num>(2)</num>
+												<content>
+													<p> писмо о намерама банке (матични број и пословно име банке, број   и датум писма о намерама, износ укупног лимита покрића, који не може бити   мањи од 300.000 еура, време трајања);*</p>
+												</content>
+											</item>
+										</content>
+									</point>
+									<point id="od1-clan4-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> броју лиценце;*</p>
+										</content>
+									</point>
+									<point id="od1-clan4-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> општим условима путовања*</p>
+										</content>
+									</point>
+									<point id="od1-clan4-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> адреси огранка, односно издвојеног места у којем се, на основу одлуке   одговорног лица, води прописана евиденција.*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od1-clan4-stav3">
+								<content>
+									<p>Подаци који се односе на брисање организатора путовања из Регистра   су подаци о:*</p>
+									<point id="od1-clan4-stav3-tac1">
+										<num>1)</num>
+										<content>
+											<p> датуму брисања;*</p>
+										</content>
+									</point>
+									<point id="od1-clan4-stav3-tac2">
+										<num>2)</num>
+										<content>
+											<p> основу брисања.*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od1-clan4-stav4">
+								<content>
+									<p>*<ref id="ref37" href="/rs/act/2016/4/srp@">Службени гласник РС, број 4/2016</ref></p>
+								</content>
+							</clause>
+							<clause id="od1-clan4-stav5">
+								<content>
+									<p>Подаци о посреднику*</p>
+								</content>
+							</clause>
+							<article id="od1-clan4.а">
+								<num>4а</num>
+								<heading>*<ref id="ref38" href="/rs/act/2016/4/srp@">Службени гласник РС, број 4/2016</ref></heading>
+								<content>
+									<clause id="od1-clan4.а-stav1">
+										<content>
+											<p>У Регистар се, поред података из <ref>члана 3. овог</ref> правилника,   региструју и подаци који се односе на брисање посредника из Регистра.*</p>
+										</content>
+									</clause>
+									<clause id="od1-clan4.а-stav2">
+										<content>
+											<p>*<ref id="ref39" href="/rs/act/2016/4/srp@">Службени гласник РС, број 4/2016</ref></p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</article>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Подаци који се евидентирају</heading>
+				<content>
+					<article id="od3-clan5">
+						<num>5.</num>
+						<heading>Брисан је ранији назив изнад <ref>члана 5</ref>. (види <ref>члан 4.   </ref>Правилника - 4/2016-93)</heading>
+						<content>
+							<clause id="od3-clan5-stav1">
+								<content>
+									<p>Брисан је (види <ref>члан 4. </ref>Правилника - 4/2016-93)</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan6">
+						<num>6.</num>
+						<heading>Подаци о управљачима туристичких простора</heading>
+						<content>
+							<clause id="od3-clan6-stav1">
+								<content>
+									<p>У Регистар се, поред података о управљачу туристичког простора из <ref>члана 3. овог</ref> правилника, евидентирају и:</p>
+									<point id="od3-clan6-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> податак о туристичком простору (назив и опис туристичког простора, површина, опис и графички приказ граница, циљеве проглашења, кључне туристичке атракције, податке о власништву и попис катастарских парцела, обавезе у погледу развоја туризма, других облика коришћења простора);</p>
+										</content>
+									</point>
+									<point id="od3-clan6-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> подаци о акту о проглашењу туристичког простора (број акта, датум издавања и датум престанка важења акта.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan7">
+						<num>7.</num>
+						<heading>Подаци о туристичким местима</heading>
+						<content>
+							<clause id="od3-clan7-stav1">
+								<content>
+									<p>У Регистар се евидентирају подаци о категорији туристичког места и други подаци у складу са прописом којим се ближе уређују услови и начин одређивања категорије туристичког места и промене категорије.</p>
+								</content>
+							</clause>
+							<clause id="od3-clan7-stav2">
+								<content>
+									<p>Подаци о дестинацијској менаџмент организацији*</p>
+								</content>
+							</clause>
+							<article id="od3-clan7.а">
+								<num>7а</num>
+								<heading>*<ref id="ref40" href="/rs/act/2016/4/srp@">Службени гласник РС, број 4/2016</ref></heading>
+								<content>
+									<clause id="od3-clan7.а-stav1">
+										<content>
+											<p>У Регистар се евидентирају подаци о дестинацијској менаџмент организацији из   <ref>члана 3. овог</ref> правилника.*</p>
+										</content>
+									</clause>
+									<clause id="od3-clan7.а-stav2">
+										<content>
+											<p>*<ref id="ref41" href="/rs/act/2016/4/srp@">Службени гласник РС, број 4/2016</ref></p>
+										</content>
+									</clause>
+									<clause id="od3-clan7.а-stav3">
+										<content>
+											<p>Подаци о дестинацијској менаџмент компанији (DMC)*</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="od3-clan7.б">
+								<num>7б</num>
+								<heading>*<ref id="ref42" href="/rs/act/2016/4/srp@">Службени гласник РС, број 4/2016</ref></heading>
+								<content>
+									<clause id="od3-clan7.б-stav1">
+										<content>
+											<p>У Регистар се, поред података о дестинацијској менаџмент компанији из члана   3. овог правилника, евидентирају и:*</p>
+											<point id="od3-clan7.б-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> број лиценце организатора туристичког путовања;*</p>
+												</content>
+											</point>
+											<point id="od3-clan7.б-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> решење министра о оствареном права на коришћење скраћенице DMC;*</p>
+												</content>
+											</point>
+											<point id="od3-clan7.б-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> дестинација, односно регија за коју је специјализовано DMC.*</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="od3-clan7.б-stav2">
+										<content>
+											<p>*<ref id="ref43" href="/rs/act/2016/4/srp@">Службени гласник РС, број 4/2016</ref></p>
+										</content>
+									</clause>
+									<clause id="od3-clan7.б-stav3">
+										<content>
+											<p>Подаци о професионалном организатору конгреса (PCO)*</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="od3-clan7.в">
+								<num>7в</num>
+								<heading>*<ref id="ref44" href="/rs/act/2016/4/srp@">Службени гласник РС, број 4/2016</ref></heading>
+								<content>
+									<clause id="od3-clan7.в-stav1">
+										<content>
+											<p>У Регистар се, поред података о професионалном организатору конгреса из   <ref>члана 3. овог</ref> правилника, евидентирају и:*</p>
+											<point id="od3-clan7.в-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> број лиценце организатора туристичког путовања;*</p>
+												</content>
+											</point>
+											<point id="od3-clan7.в-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> решење министра о оствареном праву на коришћење скраћенице PCO.*</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="od3-clan7.в-stav2">
+										<content>
+											<p>*<ref id="ref45" href="/rs/act/2016/4/srp@">Службени гласник РС, број 4/2016</ref></p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</article>
+					<article id="od3-clan8">
+						<num>8.</num>
+						<heading>Подаци о туристичким организацијама</heading>
+						<content>
+							<clause id="od3-clan8-stav1">
+								<content>
+									<p>У Регистар се, поред података о туристичким организацијама из члана   3. овог правилника, евидентирају и:*</p>
+									<point id="od3-clan8-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> податак о оснивачу, односно оснивачима туристичке организације;*</p>
+										</content>
+									</point>
+									<point id="od3-clan8-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> име и матични број директора и/или чланова органа управљања   туристичке организације;*</p>
+										</content>
+									</point>
+									<point id="od3-clan8-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> подаци о директору (о стеченом високом образовању, радном   искуству и активном знању страног језика);*</p>
+										</content>
+									</point>
+									<point id="od3-clan8-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> податак о туристичкој атракцији подручја за које је основана   туристичка организација.*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od3-clan8-stav2">
+								<content>
+									<p>*<ref id="ref46" href="/rs/act/2016/4/srp@">Службени гласник РС, број 4/2016</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan9">
+						<num>9.</num>
+						<heading>Подаци о угоститељу и угоститељским објектима</heading>
+						<content>
+							<clause id="od3-clan9-stav1">
+								<content>
+									<p>У Регистар се, поред података о угоститељу из <ref>члана 3. овог</ref> правилника, евидентирају и подаци о:</p>
+									<point id="od3-clan9-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> врсти угоститељског објекта (угоститељски објекат за смештај, угоститељски објекат за исхрану и пиће   * );</p>
+										</content>
+									</point>
+									<point id="od3-clan9-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> минималним техничким и санитарно-хигијенским условима неопходним за обављање угоститељске делатности;</p>
+										</content>
+									</point>
+									<point id="od3-clan9-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> уређењу и опремању угоститељског објекта у зависности од начина услуживања и врсте услуга које се претежно пружају у угоститељском објекту;</p>
+										</content>
+									</point>
+									<point id="od3-clan9-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> стандардима за категоризацију угоститељских објеката.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od3-clan9-stav2">
+								<content>
+									<p>*<ref id="ref47" href="/rs/act/2016/4/srp@">Службени гласник РС, број 4/2016</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan10">
+						<num>10.</num>
+						<heading>Подаци о угоститељским објектима за смештај</heading>
+						<content>
+							<clause id="od3-clan10-stav1">
+								<content>
+									<p>Подаци који се евидентирају о угоститељским објектима за смештај односе се на:</p>
+									<point id="od3-clan10-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> назив угоститељског објекта за смештај;</p>
+										</content>
+									</point>
+									<point id="od3-clan10-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> адресу угоститељског објекта за смештај;</p>
+										</content>
+									</point>
+									<point id="od3-clan10-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> врсту објекта за смештај (хотел, мотел, туристичко насеље, камп, пансион, хостел, преноћиште, одмаралиште и други објекти за пружање услуга смештаја);</p>
+										</content>
+									</point>
+									<point id="od3-clan10-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> категоризацију објекта за смештај, и то:</p>
+											<alinea id="od3-clan10-stav1-tac4-ali1">
+												<content>
+													<p>атегорија;</p>
+												</content>
+											</alinea>
+											<alinea id="od3-clan10-stav1-tac4-ali2">
+												<content>
+													<p>рој акта о категоризацији;</p>
+												</content>
+											</alinea>
+											<alinea id="od3-clan10-stav1-tac4-ali3">
+												<content>
+													<p>атум издавања акта и датум престанка важења акта,</p>
+												</content>
+											</alinea>
+										</content>
+									</point>
+									<point id="od3-clan10-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> податке о руководиоцу објекта;</p>
+										</content>
+									</point>
+									<point id="od3-clan10-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> период обављања делатности у објекту (сезонски или током целе године);</p>
+										</content>
+									</point>
+									<point id="od3-clan10-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> податке о решењу о одобрењу за пружање услуге смештаја и исхране трећим лицима, уколико је угоститељ установа на коју се примењује Уредба о условима које мора да испуњава здравствена установа за пружање угоститељских услуга трећим лицима („<ref id="ref48" href="/rs/act/12/18/srp@">Службени гласник РС”, број 18/12</ref>) и која је буџетски корисник (број издавања и датум престанка важења решења).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od3-clan10-stav2">
+								<content>
+									<p>Подаци који се евидентирају о угоститељским објектима за смештај могу се односити и на специјализацију хотела који је категорисан са три или више звездица (пословни хотел, конгресни хотел, породични хотел, спортски хотел и spa-wellness хотел), уколико је таква специјализација утврђена у складу са прописима.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan11">
+						<num>11.</num>
+						<content>
+							<clause id="od3-clan11-stav1">
+								<content>
+									<p>У Регистар се евидентирају и други подаци о угоститељском објекту за смештај у складу са прописима којима се уређује туризам, а нарочито:</p>
+									<point id="od3-clan11-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> број смештајних јединица;</p>
+										</content>
+									</point>
+									<point id="od3-clan11-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> врста смештајних јединица;</p>
+										</content>
+									</point>
+									<point id="od3-clan11-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> опис и структура смештајних јединица;</p>
+										</content>
+									</point>
+									<point id="od3-clan11-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> број лежаја;</p>
+										</content>
+									</point>
+									<point id="od3-clan11-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> број стално запослених;</p>
+										</content>
+									</point>
+									<point id="od3-clan11-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> број привремено запослених;</p>
+										</content>
+									</point>
+									<point id="od3-clan11-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> структура запослених (степен образовања (VII, VI, V, IV, III) и звање);</p>
+										</content>
+									</point>
+									<point id="od3-clan11-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> број паркинг места и опис паркинг места;</p>
+										</content>
+									</point>
+									<point id="od3-clan11-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> остали садржаји (базен – затворени и отворени, тенис, фитнес, центар, бизнис центар, интернет клуб и приступ интернету, пушачки и непушачки делови објекта, могућност смештаја кућних љубимаца, теретана, фризер, соларијум, масер, касино, сала за семинаре, банкет сала, спортска дворана, спортски терени и игралишта, аутоматска куглана, билијар сала, мини голф, ноћни клуб, ВИП салон, стрељана, и др.).</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan12">
+						<num>12.</num>
+						<heading>Подаци о угоститељским објектима за исхрану и пиће</heading>
+						<content>
+							<clause id="od3-clan12-stav1">
+								<content>
+									<p>Подаци који се евидентирају о угоститељским објектима за исхрану и пиће односе се на:</p>
+									<point id="od3-clan12-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> назив угоститељског објекта за исхрану;</p>
+										</content>
+									</point>
+									<point id="od3-clan12-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> адресу угоститељског објекта за исхрану.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od3-clan12-stav2">
+								<content>
+									<p>У Регистар се евидентирају и други подаци о угоститељском објекту за исхрану и пиће у складу са прописима којима се уређује туризам , а нарочито:</p>
+									<point id="od3-clan12-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> врста објекта за исхрану (ресторан, кафана, бар, објекат брзе хране, покретни објекат и други објекти);</p>
+										</content>
+									</point>
+									<point id="od3-clan12-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> период обављања делатности у објекту (сезонски или током целе године);</p>
+										</content>
+									</point>
+									<point id="od3-clan12-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> начин услуживања;</p>
+										</content>
+									</point>
+									<point id="od3-clan12-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> врста услуге која се пружа;</p>
+										</content>
+									</point>
+									<point id="od3-clan12-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> врста јела која се услужује у објекту (домаћа кухиња, интернационална кухиња, посебна врста јела и друго);</p>
+										</content>
+									</point>
+									<point id="od3-clan12-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> укупан број конзумних места (стална конзумна места и конзумна места на отвореном);</p>
+										</content>
+									</point>
+									<point id="od3-clan12-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> забавни програм.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan13">
+						<num>13.</num>
+						<heading>Брисан је ранији назив изнад <ref>члана 13</ref>. (види <ref>члан 8.   </ref>Правилника - 4/2016-93)</heading>
+						<content>
+							<clause id="od3-clan13-stav1">
+								<content>
+									<p>Брисан је (види <ref>члан 8. </ref>Правилника - 4/2016-93)</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan14">
+						<num>14.</num>
+						<heading>Подаци о лицима која пружају услуге у домаћој радиности и о објектима у којима се пружају услуге у домаћој радиности</heading>
+						<content>
+							<clause id="od3-clan14-stav1">
+								<content>
+									<p>У Регистар се, поред података о физичком лицу које пружа услуге у домаћој радиности из <ref>члана 3. овог</ref> правилника, евидентирају и подаци о:</p>
+									<point id="od3-clan14-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> угоститељским објектима у којима се пружају услуге у домаћој радиности;</p>
+										</content>
+									</point>
+									<point id="od3-clan14-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> минималним техничким и санитарно-хигијенским условима за обављање услуга у домаћој радиности;</p>
+										</content>
+									</point>
+									<point id="od3-clan14-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> уређењу и опремању тог угоститељског објекта у зависности од начина услуживања и врсте услуга које се претежно пружају у том објекту и врсте угоститељског објекта.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan15">
+						<num>15.</num>
+						<content>
+							<clause id="od3-clan15-stav1">
+								<content>
+									<p>Подаци о угоститељским објектима у којима се пружају услуге у домаћој радиности односе се на:</p>
+									<point id="od3-clan15-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> назив угоститељског објекта;</p>
+										</content>
+									</point>
+									<point id="od3-clan15-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> адресу угоститељског објекта;</p>
+										</content>
+									</point>
+									<point id="od3-clan15-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> врсту објекта за смештај (кућа, апартман или соба);</p>
+										</content>
+									</point>
+									<point id="od3-clan15-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> категоризацију објекта за смештај (категорија, број акта о категоризацији, датум издавања акта и датум престанка важења акта, смештајни капацитети – до 30 лежајева);</p>
+										</content>
+									</point>
+									<point id="od3-clan15-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> податак о уговору који је закључен са локалном туристичком организацијом, туристичком агенцијом, привредним субјектом и другим правним лицем регистрованим за обављање привредне делатности преко ког се издају куће, апартмани или собе.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan16">
+						<num>16.</num>
+						<heading>Подаци о лицима која пружају угоститељске услуге у сеоском туристичком домаћинству и о објектима у којима се пружају услуге у сеоском туристичком домаћинству</heading>
+						<content>
+							<clause id="od3-clan16-stav1">
+								<content>
+									<p>У Регистар се, поред података о физичком лицу које пружа угоститељске услуге у сеоском туристичком домаћинству из <ref>члана 3. овог</ref> правилника, евидентирају и подаци о:</p>
+									<point id="od3-clan16-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> угоститељским објектима у којима се пружају услуге у сеоском туристичком домаћинству;</p>
+										</content>
+									</point>
+									<point id="od3-clan16-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> минималним техничким и санитарно – хигијенским условима за обављање угоститељских услуга у сеоском домаћинству;</p>
+										</content>
+									</point>
+									<point id="od3-clan16-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> уређењу и опремању угоститељског објекта у зависности од начина   услуживања и врсте услуга које се претежно пружају у угоститељском објекту и   врсте угоститељског објекта;</p>
+										</content>
+									</point>
+									<point id="od3-clan16-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> смештајном објекту на отвореном.*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan17">
+						<num>17.</num>
+						<heading>*<ref id="ref49" href="/rs/act/2016/4/srp@">Службени гласник РС, број 4/2016</ref></heading>
+						<content>
+							<clause id="od3-clan17-stav1">
+								<content>
+									<p>Подаци о угоститељским објектима у којима се пружају услуге у сеоском туристичком домаћинству односе се на:</p>
+									<point id="od3-clan17-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> назив сеоског туристичког домаћинства;</p>
+										</content>
+									</point>
+									<point id="od3-clan17-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> место и адресу сеоског туристичког домаћинства;</p>
+										</content>
+									</point>
+									<point id="od3-clan17-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> смештајне капацитете;</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od3-clan17-stav2">
+								<content>
+									<p>3а) смештајни капацитети у смештајном објекту на отвореном (број   камп парцела – до 30 гостију);*</p>
+									<point id="od3-clan17-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> категоризацију сеоског туристичког домаћинства (број акта о категоризацији, датум издавања акта и датум престанка важења акта);</p>
+										</content>
+									</point>
+									<point id="od3-clan17-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> податак о уговору који је закључен са локалном туристичком организацијом, туристичком агенцијом или привредним субјектом и другим правним лицем регистрованим за обављање привредне делатности преко ког се издају куће, апартмани или собе.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan18">
+						<num>18.</num>
+						<heading>*<ref id="ref50" href="/rs/act/2016/4/srp@">Службени гласник РС, број 4/2016</ref></heading>
+						<content>
+							<clause id="od3-clan18-stav1">
+								<content>
+									<p>Податке из <ref>члана 10. </ref>тач. 5. и 6, <ref>члана 11, </ref><ref>члана 12. став 2. </ref>и <ref>члана 13. став 2. овог</ref> правилника, у Регистар непосредно уноси угоститељ на чији објекат се односе подаци, у складу са чланом 1. став 4. овог правилника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan19">
+						<num>19.</num>
+						<heading>Подаци о пружаоцима наутичких услуга и објектима наутичког туризма</heading>
+						<content>
+							<clause id="od3-clan19-stav1">
+								<content>
+									<p>У Регистар се, поред података о пружаоцу наутичких услуга из <ref>члана 3. овог</ref> правилника, евидентирају и подаци о:</p>
+									<point id="od3-clan19-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> врсти објекта наутичког туризма (прихватни и пловни објекат);</p>
+										</content>
+									</point>
+									<point id="od3-clan19-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> врсти услуге која се пружа у тим објектима;</p>
+										</content>
+									</point>
+									<point id="od3-clan19-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> минималним техничким условима у погледу изградње, уређења и опремања објеката наутичког туризма у зависности од врсте објекта и услуга које се пружају;</p>
+										</content>
+									</point>
+									<point id="od3-clan19-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> стандардима за категоризацију марина.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan20">
+						<num>20.</num>
+						<heading>Подаци о прихватним објектима наутичког туризма</heading>
+						<content>
+							<clause id="od3-clan20-stav1">
+								<content>
+									<p>Подаци који се евидентирају о прихватним објектима наутичког туризма односе се на:</p>
+									<point id="od3-clan20-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> локацију прихватног објекта наутичког туризма;</p>
+										</content>
+									</point>
+									<point id="od3-clan20-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> врсту прихватног објекта наутичког туризма (наутичко сидриште, привезиште, туристичко пристаниште, марина и наутичко-туристички центар);</p>
+										</content>
+									</point>
+									<point id="od3-clan20-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> категоризацију прихватног објекта наутичког туризма – марини, и то:</p>
+											<alinea id="od3-clan20-stav1-tac3-ali1">
+												<content>
+													<p>атегорија;</p>
+												</content>
+											</alinea>
+											<alinea id="od3-clan20-stav1-tac3-ali2">
+												<content>
+													<p>рој акта о категоризацији;</p>
+												</content>
+											</alinea>
+											<alinea id="od3-clan20-stav1-tac3-ali3">
+												<content>
+													<p>атум издавања акта и датум престанка важења акта.</p>
+												</content>
+											</alinea>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan21">
+						<num>21.</num>
+						<heading>Подаци о пловним објектима наутичког туризма</heading>
+						<content>
+							<clause id="od3-clan21-stav1">
+								<content>
+									<p>Подаци који се евидентирају о пловним објектима наутичког туризма односе се на врсту пловног објекта наутичког туризма (рекреативно пловни објекат, излетничко пловни објекат, пловни објекат за панорамско разгледање, туристичка јахта и пловни објекат за туристичко крстарење).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan22">
+						<num>22.</num>
+						<content>
+							<clause id="od3-clan22-stav1">
+								<content>
+									<p>Податке из <ref>члана 20. тачка 2</ref>. и <ref>члана 21. овог</ref> правилника у Регистар непосредно уноси пружалац наутичких услуга на чији објекат се односе подаци, у складу са чланом 1. став 4. овог правилника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan23">
+						<num>23.</num>
+						<heading>Подаци о пружаоцима ловнотуристичких услуга и објектима ловног туризма</heading>
+						<content>
+							<clause id="od3-clan23-stav1">
+								<content>
+									<p>У Регистар се, поред података о пружаоцу ловнотуристичких услуга из <ref>члана 3. овог</ref> правилника, евидентирају и подаци о:</p>
+									<point id="od3-clan23-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> врсти објекта ловног туризма (ловачка колиба, ловачка кућа,  ловачки дом* и ловачка вила);</p>
+										</content>
+									</point>
+									<point id="od3-clan23-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> минималним техничким условима у погледу изградње;</p>
+										</content>
+									</point>
+									<point id="od3-clan23-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> уређењу и опремању ловнотуристичких објеката у зависности од врсте услуга које могу да се пружају у њима;</p>
+										</content>
+									</point>
+									<point id="od3-clan23-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> стандардима, условима и начину пружања и коришћења услуга ловног туризма.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan24">
+						<num>24.</num>
+						<heading>*<ref id="ref51" href="/rs/act/2016/4/srp@">Службени гласник РС, број 4/2016</ref></heading>
+						<content>
+							<clause id="od3-clan24-stav1">
+								<content>
+									<p>Подаци који се евидентирају о објектима ловног туризма односе се на:</p>
+									<point id="od3-clan24-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> назив објекта ловног туризма;</p>
+										</content>
+									</point>
+									<point id="od3-clan24-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> локација (адреса) објекта ловног туризма;</p>
+										</content>
+									</point>
+									<point id="od3-clan24-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> врсту објекта ловног туризма (ловачка колиба, ловачка кућа и ловачка вила);</p>
+										</content>
+									</point>
+									<point id="od3-clan24-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> категоризацију објекта ловног туризма – ловачке виле:</p>
+											<alinea id="od3-clan24-stav1-tac4-ali1">
+												<content>
+													<p>атегорија,</p>
+												</content>
+											</alinea>
+											<alinea id="od3-clan24-stav1-tac4-ali2">
+												<content>
+													<p>рој акта о категоризацији,</p>
+												</content>
+											</alinea>
+											<alinea id="od3-clan24-stav1-tac4-ali3">
+												<content>
+													<p>атум издавања акта и датум престанка важења акта.</p>
+												</content>
+											</alinea>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od3-clan24-stav2">
+								<content>
+									<p>У Регистар се евидентирају и други подаци о објекту ловног туризма у складу са прописима којима се уређује туризам, а нарочито:</p>
+									<point id="od3-clan24-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> врста услуге која се пружа;</p>
+										</content>
+									</point>
+									<point id="od3-clan24-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> број, врста и опис смештајних јединица (собе, апартмани и спаваонице);</p>
+										</content>
+									</point>
+									<point id="od3-clan24-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> број конзумних места.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan25">
+						<num>25.</num>
+						<content>
+							<clause id="od3-clan25-stav1">
+								<content>
+									<p>Податке из <ref>члана 24. став 2. овог</ref> правилника, у Регистар непосредно уноси пружалац ловнотуристичких услуга на чији објекат се односе подаци, у складу са чланом 1. став 4. овог правилника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan26">
+						<num>26.</num>
+						<heading>Подаци о туристичким водичима</heading>
+						<content>
+							<clause id="od3-clan26-stav1">
+								<content>
+									<p>У Регистар се, поред података о туристичком водичу из <ref>члана 3. овог</ref>   правилника, евидентирају и подаци који се односе на:*</p>
+									<point id="od3-clan26-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> број уверења о положеном стручном испиту за туристичког водича и   податке из тог уверења;*</p>
+										</content>
+									</point>
+									<point id="od3-clan26-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> датум полагања стручног испита;*</p>
+										</content>
+									</point>
+									<point id="od3-clan26-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> податке о легитимацији (број и датум издавања, са роком важења);*</p>
+										</content>
+									</point>
+									<point id="od3-clan26-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> податак о активном знању страног језика;*</p>
+										</content>
+									</point>
+									<point id="od3-clan26-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> специфична знања.*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od3-clan26-stav2">
+								<content>
+									<p>Подаци из става 1. овог члана уносе се и за туристичке водиче који   су држављани државе чланице Европске уније и Европског економског простора.*</p>
+								</content>
+							</clause>
+							<clause id="od3-clan26-stav3">
+								<content>
+									<p>*<ref id="ref52" href="/rs/act/2016/4/srp@">Службени гласник РС, број 4/2016</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan27">
+						<num>27.</num>
+						<heading>Подаци о локалним туристичким водичима</heading>
+						<content>
+							<clause id="od3-clan27-stav1">
+								<content>
+									<p>У Регистар се, поред података о локалном туристичком водичу из члана   3. овог правилника, евидентирају и подаци који се односе на:*</p>
+									<point id="od3-clan27-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> број уверења о положеном стручном испиту за локалног туристичког   водича и податке из тог уверења;*</p>
+										</content>
+									</point>
+									<point id="od3-clan27-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> датум полагања стручног испита;*</p>
+										</content>
+									</point>
+									<point id="od3-clan27-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> податке о ознаци;*</p>
+										</content>
+									</point>
+									<point id="od3-clan27-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> податак о активном знању страног језика;*</p>
+										</content>
+									</point>
+									<point id="od3-clan27-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> податак о територији – локалитету за који је локални туристички   водич положио стручни испит.*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od3-clan27-stav2">
+								<content>
+									<p>*<ref id="ref53" href="/rs/act/2016/4/srp@">Службени гласник РС, број 4/2016</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan28">
+						<num>28.</num>
+						<heading>Подаци о туристичким пратиоцима</heading>
+						<content>
+							<clause id="od3-clan28-stav1">
+								<content>
+									<p>У Регистар се, поред података о туристичком пратиоцу из <ref>члана 3.   овог</ref> правилника, евидентирају и подаци који се односе на:*</p>
+									<point id="od3-clan28-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> број уверења о положеном стручном испиту за туристичког пратиоца   и податке из тог уверења;*</p>
+										</content>
+									</point>
+									<point id="od3-clan28-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> датум полагања стручног испита;*</p>
+										</content>
+									</point>
+									<point id="od3-clan28-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> податке о легитимацији (број и датум издавања, са роком важења);*</p>
+										</content>
+									</point>
+									<point id="od3-clan28-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> податак о активном знању страног језика;*</p>
+										</content>
+									</point>
+									<point id="od3-clan28-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> специфична знања.*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od3-clan28-stav2">
+								<content>
+									<p>Подаци из става 1. овог члана уносе се и за туристичке пратиоце који   су држављани државе чланице Европске уније и Европског економског простора.*</p>
+								</content>
+							</clause>
+							<clause id="od3-clan28-stav3">
+								<content>
+									<p>*<ref id="ref54" href="/rs/act/2016/4/srp@">Службени гласник РС, број 4/2016</ref></p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan29">
+						<num>29.</num>
+						<heading>Подаци о туристичким аниматорима</heading>
+						<content>
+							<clause id="od3-clan29-stav1">
+								<content>
+									<p>У Регистар се, поред података о туристичком аниматору из <ref>члана 3. овог</ref> правилника, евидентирају и подаци који се односе на:</p>
+									<point id="od3-clan29-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> податак о познавању страног језика;</p>
+										</content>
+									</point>
+									<point id="od3-clan29-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> врсту анимације коју туристички аниматор пружа.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan30">
+						<num>30.</num>
+						<heading>Брисан је ранији назив изнад <ref>члана 30</ref>. (види <ref>члан 16.   </ref>Правилника - 4/2016-93)</heading>
+						<content>
+							<clause id="od3-clan30-stav1">
+								<content>
+									<p>Брисан је (види <ref>члан 16. </ref>Правилника - 4/2016-93)</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan31">
+						<num>31.</num>
+						<heading>Подаци о привредним субјектима који пружају услуге изнајмљивања возила (rent-a-car) и услуге изнајмљивања возила са услугама возача (limo service)</heading>
+						<content>
+							<clause id="od3-clan31-stav1">
+								<content>
+									<p>У Регистар се, поред података о привредним субјектима који пружају услуге изнајмљивања возила (rent -a -car) и услуге изнајмљивања возила са услугама возача (limo service) из <ref>члана 3. овог</ref> правилника, евидентирају и подаци који се односе на:</p>
+									<point id="od3-clan31-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> врсту услуге;</p>
+										</content>
+									</point>
+									<point id="od3-clan31-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> број возила за сваку услугу;</p>
+										</content>
+									</point>
+									<point id="od3-clan31-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> врсту, годину производње и регистарске ознаке возила</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od3-clan31-stav2">
+								<content>
+									<p>У Регистар се евидентирају и други подаци које пружалац услуге уноси у складу са прописима којима се уређује туризам, а нарочито период обављања делатности у објекту (сезонски или током целе године) и подручје пружања услуга.</p>
+									<тачка id="od3-clan31-stav2-tac4">
+										<num>4.</num>
+										<content>
+											<p> Документација која се подноси уз пријаву за регистрацију података</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan32">
+						<num>32.</num>
+						<heading>Регистрација и промена података који се региструју</heading>
+						<content>
+							<clause id="od3-clan32-stav1">
+								<content>
+									<p>Уз пријаву за регистрацију података о руководиоцу туристичке агенцијеорганизатора   туристичког путовања прилаже се:*</p>
+									<point id="od3-clan32-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> одговарајући доказ да је лице које се уписује као руководилац запослен са   пуним радним временом у правном лицу, односно код предузетника које је   носилац лиценце;*</p>
+										</content>
+									</point>
+									<point id="od3-clan32-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> оверена копија или оверени препис дипломе – потврде надлежне школске   установе код које је то лице стекло најмање вишу стручну спрему, односно   високо образовање на основним академским студијама у обиму од најмање 180   ЕСПБ бодова, основним струковним студијама, односно на студијама у трајању   од три године;*</p>
+										</content>
+									</point>
+									<point id="od3-clan32-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> доказ из кога се може утврдити да лице које се уписује као руководилац   има радно искуство у туристичкој делатности од најмање три године за рад код   организатора туристичког путовања – оверена копија или оверени препис радне   књижице, потврда правних лица и предузетника код којих је то радно искуство   стечено или оверена изјава лица које се уписује као руководилац;*</p>
+										</content>
+									</point>
+									<point id="od3-clan32-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> потврда надлежног суда да лицу које се уписује као руководилац није   изречена мера безбедности забране вршења делатности, позива и дужности.*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan33">
+						<num>33.</num>
+						<heading>*<ref id="ref55" href="/rs/act/2016/4/srp@">Службени гласник РС, број 4/2016</ref></heading>
+						<content>
+							<clause id="od3-clan33-stav1">
+								<content>
+									<p>Уз пријаву промене података по основу оставке руководиоца туристичке агенције прилаже се примерак оставке.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan34">
+						<num>34.</num>
+						<content>
+							<clause id="od3-clan34-stav1">
+								<content>
+									<p>Уз пријаву за регистрацију података о гаранцијама путовања туристичке агенције организатора туристичког путовања   прилаже се важећа прописана гаранција путовања* (услед инсолвентности и/или ради накнаде штете) чији се упис тражи.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan35">
+						<num>35.</num>
+						<heading>*<ref id="ref56" href="/rs/act/2016/4/srp@">Службени гласник РС, број 4/2016</ref></heading>
+						<content>
+							<clause id="od3-clan35-stav1">
+								<content>
+									<p>Уз пријаву за регистрацију података о општим условима путовања туристичке агенције организатора туристичког путовања прилажу се важећи општи услови путовања.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan36">
+						<num>36.</num>
+						<content>
+							<clause id="od3-clan36-stav1">
+								<content>
+									<p>Уз пријаву за регистрацију података о адреси на којој туристичка агенција обавља делатност туристичке агенције, прилаже се документација из <ref>члана 32. овог</ref> правилника која се односи на руководиоца те агенције који ће у том својству радити на адреси чији се упис тражи.</p>
+								</content>
+							</clause>
+							<clause id="od3-clan36-stav2">
+								<content>
+									<p>Ако се промена податка о адреси на којој туристичка агенција обавља делатност туристичке агенције односи на промену адресе на којој ће руководилац те агенције који је већ у том својству регистрован у Регистру обављати те послове, за тражену промену подноси се само пријава.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan37">
+						<num>37.</num>
+						<content>
+							<clause id="od3-clan37-stav1">
+								<content>
+									<p>Уз пријаву за регистрацију података о брисању организатора путовања на његов захтев, прилаже се потврда органа надлежног за одузимање лиценце да у тренутку подношења захтева није покренут поступак за одузимање лиценце чије се брисање тражи.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan38">
+						<num>38.</num>
+						<content>
+							<clause id="od3-clan38-stav1">
+								<content>
+									<p>Уз пријаву за регистрацију, промену или брисање података из чл. 32–38. овог правилника прилаже се и доказ о уплати накнаде, у складу са законом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan39">
+						<num>39.</num>
+						<heading>Документација која се прилаже уз захтев за евиденцију података</heading>
+						<content>
+							<clause id="od3-clan39-stav1">
+								<content>
+									<p>Уз захтев за евиденцију, промену или брисање податка који се евидентирају подноси се:</p>
+									<point id="od3-clan39-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> доказ да је подносилац овлашћен за подношење захтева, ако то лице није регистровано као заступник подносиоца захтева у регистрима које води Агенција;</p>
+										</content>
+									</point>
+									<point id="od3-clan39-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> доказ о подацима на основу ког је потребно извршити евидентирање, односно којим се утврђују подаци који се евидентирају, или чије се евидентирање тражи;</p>
+										</content>
+									</point>
+									<point id="od3-clan39-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> доказ о уплаћеној накнади за евидентирање, уколико је за евидентирање податка чији се упис, промена или брисање тражи та накнада прописана.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od3-clan39-stav2">
+								<content>
+									<p>Ако се о податку чије се евидентирање тражи не издаје доказ у форми посебног документа, у захтеву се наводи тај податак и доставља доказ о уплаћеној накнади за евидентирање, уколико је за евидентирање тог податка чији се упис, промена или брисање тражи та накнада прописана.</p>
+									<тачка id="od3-clan39-stav2-tac5">
+										<num>5.</num>
+										<content>
+											<p> Завршна одредба</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan40">
+						<num>40.</num>
+						<content>
+							<clause id="od3-clan40-stav1">
+								<content>
+									<p>Даном ступања на снагу овог правилника престаје да важи Правилник о садржини Регистра туризма („<ref id="ref57" href="/rs/act/10/3/srp@">Службени гласник РС”, број 3/10</ref>).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od3-clan41">
+						<num>41.</num>
+						<content>
+							<clause id="od3-clan41-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="od3-clan41-stav2">
+								<content>
+									<p>Број 110-00-00172/2011-18</p>
+								</content>
+							</clause>
+							<clause id="od3-clan41-stav3">
+								<content>
+									<p>У Београду, 22. маја 2012. године</p>
+								</content>
+							</clause>
+							<clause id="od3-clan41-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="od3-clan41-stav5">
+								<content>
+									<p>Небојша Ћирић, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

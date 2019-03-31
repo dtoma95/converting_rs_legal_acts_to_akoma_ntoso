@@ -1,0 +1,910 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2011/17-19/main"/>
+					<FRBRuri value="/rs/act/2011/17-19"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/17-19/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/17-19/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/17-19/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/17-19/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2011-3-15" name="службени гласник рс" number="17" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="14. Заштита од зрачења и нуклеарна сигурност" value="14. заштита од зрачења и нуклеарна сигурност"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2011-02-09" id="usvajanje"/>
+				<step date="2011-05-23" id="stupanje_na_snagu"/>
+				<step date="2011-05-23" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 19. став 2, </ref><ref>члана 20. став 2. </ref>и <ref>члана 28. став 2. </ref>Закона о заштити од јонизујућих зрачења и о нуклеарној сигурности („<ref id="ref6" href="/rs/act/09/36/srp@">Службени гласник РС”, број 36/09</ref>) и тачке 8. став 5. подтачке 5) Одлуке о оснивању Агенције за заштиту од јонизујућих зрачења и нуклеарну сигурност Србије („<ref id="ref7" href="/rs/act/09/76/srp@">Службени гласник РС”, број 76/09</ref>),</p>
+			<p>Управни одбор Агенције за заштиту од јонизујућих зрачења и нуклеарну сигурност Србије доноси</p>
+		</preamble>
+		<preface>
+			<title>ПРАВИЛНИК</title>
+			<authority>о евиденцији о извршеним пословима из области заштите од јонизујућих зрачења</authority>
+			<title>&quot;Службени гласник РС&quot;, број 17 од 15. марта 2011.</title>
+			<date>ПРЕДМЕТ УРЕЂИВАЊА</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се садржај евиденције коју воде овлашћена правна лица за послове из области заштите од јонизујућих зрачења (у даљем тексту: овлашћена правна лица) као и образац и садржај евиденције коју овлашћена правна лица морају да доставе Агенцији за заштиту од јонизујућих зрачења и нуклеарну сигурност Србије (у даљем тексту: Агенција).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>ПОСЛОВИ ИЗ ОБЛАСТИ ЗАШТИТЕ ОД ЈОНИЗУЈУЋИХ ЗРАЧЕЊА ОВЛАШЋЕНИХ ПРАВНИХ ЛИЦА</heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Обавезу вођења евиденције према овом правилнику имају правнa лица овлашћена за послове из области заштите од јонизујућих зрачења који су наведени у овом члану:</p>
+							<тачка id="clan2-stav1-tac1">
+								<num>1.</num>
+								<content>
+									<p> мониторинг радиоактивности или поједина испитивања у оквиру мониторинга;</p>
+								</content>
+							</тачка>
+							<тачка id="clan2-stav1-tac2">
+								<num>2.</num>
+								<content>
+									<p> мерења садржаја радионуклида у води за пиће, животним намирницама, сточној храни, лековима, предметима опште употребе, грађевинском материјалу и другим робама;</p>
+								</content>
+							</тачка>
+							<тачка id="clan2-stav1-tac3">
+								<num>3.</num>
+								<content>
+									<p> мерења ради правовремене најаве акцидента;</p>
+								</content>
+							</тачка>
+							<тачка id="clan2-stav1-tac4">
+								<num>4.</num>
+								<content>
+									<p> мерења ради процене нивоа излагања јонизујућим зрачењима професионално изложених лица, пацијената и становништва;</p>
+								</content>
+							</тачка>
+							<тачка id="clan2-stav1-tac5">
+								<num>5.</num>
+								<content>
+									<p> мерења ради контроле система управљања квалитетом мера заштите од јонизујућих зрачења;</p>
+								</content>
+							</тачка>
+							<тачка id="clan2-stav1-tac6">
+								<num>6.</num>
+								<content>
+									<p> деконтаминацијa радне и животне средине;</p>
+								</content>
+							</тачка>
+							<тачка id="clan2-stav1-tac7">
+								<num>7.</num>
+								<content>
+									<p> деконтаминацијa лица;</p>
+								</content>
+							</тачка>
+							<тачка id="clan2-stav1-tac8">
+								<num>8.</num>
+								<content>
+									<p> контрола радиоактивности роба.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>САДРЖАЈ ЕВИДЕНЦИЈЕ</heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Овлашћено правно лице обавезно је да води евиденцију о извршеним пословима из области заштите од јонизујућих зрачења према садржају описаном у Прилогу 1. који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Овлашћено прaвно лице дужно је да чува податке из евиденције из <ref>члана 3. овог</ref> правилника у периоду од 30 година.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Овлашћено правно лице је дужно да достави Агенцији податке о извршеним пословима из области заштите од зрачења најкасније до 31. јануара текуће године за претходну годину, према садржају обрасца и Обрасцу бр. 2, датим у Прилогу 2. који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Податке из <ref>члана 5. овог</ref> правилника овлашћено правно лице доставља Агенцији у штампаном и електронском облику.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Овлашћено правно лице дужно је да поред евиденције из <ref>члана 5. овог</ref> правилника достави Агенцији годишњу анализу резултата мерења извршених у циљу спровођења мера заштите од јонизујућих зрачења најкасније до 31. марта текуће године за претходну годину.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Став 1. овог члана не односи се на годишњи извештај о мониторингу радиоактивности за кога је рок достављања 31. мај текуће године за претходну годину.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Овлашћено правно лице је дужно да достави Агенцији извештај о извршеним пословима из области заштите од јонизујућих зрачења са проценом ризика у случајевима када резултати мерења указују на неприхватљив ризик од јонизујућих зрачења за изложена лица, пацијенте или животну средину у најкраћем року, а најкасније 15 дана од дана обављеног мерења којим је констатована неправилност.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<heading>СТУПАЊЕ НА СНАГУ</heading>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Број 110-00-2/2011-01</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav3">
+						<content>
+							<p>У Београду, 9. фебруара 2011. године</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav4">
+						<content>
+							<p>Председник</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav5">
+						<content>
+							<p>Управног одбора,</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav6">
+						<content>
+							<p>проф. др Иштван Бикит, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav7">
+						<content>
+							<p>ПРИЛОГ 1.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav8">
+						<content>
+							<p>ПОДАЦИ КОЈЕ САДРЖИ ЕВИДЕНЦИЈА О ОБАВЉЕНИМ ПОСЛОВИМА У ОБЛАСТИ СПРОВОЂЕЊА МЕРА ЗАШТИТЕ ОД ЗРАЧЕЊА</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Општи подаци о извршеним пословима, и то:</heading>
+				<content>
+					<point id="od1-clan9-tac1">
+						<num>1)</num>
+						<content>
+							<p> Врста посла;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac2">
+						<num>2)</num>
+						<content>
+							<p> Назив правног лица/предузетника код кога је обављен;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac3">
+						<num>3)</num>
+						<content>
+							<p> Адреса правног лица/предузетника: (телефон, факс и електронска адреса);</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac4">
+						<num>4)</num>
+						<content>
+							<p> Број и датум лиценце за обављање радијационе делатности (ако постоји);</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac5">
+						<num>5)</num>
+						<content>
+							<p> Лице одговорно за заштиту од јонизујућих зрачења (телефон, факс и електронска адреса);</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac6">
+						<num>6)</num>
+						<content>
+							<p> Датум мерења.</p>
+						</content>
+					</point>
+					<тачка id="od1-clan9-tac2">
+						<num>2.</num>
+						<content>
+							<p> Подаци према врсти посла</p>
+							<alinea id="od1-clan9-tac2-ali1">
+								<content>
+									<p>виденција о дијагностичким генераторима рендгенског зрачења треба да садржи:</p>
+								</content>
+							</alinea>
+						</content>
+					</тачка>
+					<point id="od1-clan9-tac1">
+						<num>1)</num>
+						<content>
+							<p> назив генератора и додатних уређаја;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac2">
+						<num>2)</num>
+						<content>
+							<p> назив и седиште произвођача;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac3">
+						<num>3)</num>
+						<content>
+							<p> тип и серијски број генератора, односно рендгенске цеви;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac4">
+						<num>4)</num>
+						<content>
+							<p> број и датум издавања решења за набавку;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac5">
+						<num>5)</num>
+						<content>
+							<p> број и датум издавања решења за коришћење;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac6">
+						<num>6)</num>
+						<content>
+							<p> број и датум атеста;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac7">
+						<num>7)</num>
+						<content>
+							<p> врста генератора и намена генератора;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac8">
+						<num>8)</num>
+						<content>
+							<p> врста тубуса;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac9">
+						<num>9)</num>
+						<content>
+							<p> режим рада (просветљавање, снимање);</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac10">
+						<num>10)</num>
+						<content>
+							<p> максимални напон рендгенске цеви и анодна струја;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac11">
+						<num>11)</num>
+						<content>
+							<p> спој генератора;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac12">
+						<num>12)</num>
+						<content>
+							<p> филтрација;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac13">
+						<num>13)</num>
+						<content>
+							<p> поновљивост времена снимања, високог напона и еквивалента дозе;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac14">
+						<num>14)</num>
+						<content>
+							<p> положај референтне осе;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac15">
+						<num>15)</num>
+						<content>
+							<p> врста пријемника слике;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac16">
+						<num>16)</num>
+						<content>
+							<p> промене вршене на уређају (кварови, поправке, сервиси, замена цеви);</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac17">
+						<num>17)</num>
+						<content>
+							<p> датум и разлог престанка коришћења генератора.</p>
+							<alinea id="od1-clan9-tac17-ali1">
+								<content>
+									<p>виденција о радиотерапијским генераторима јонизујућих зрачења треба да садржи:</p>
+								</content>
+							</alinea>
+						</content>
+					</point>
+					<point id="od1-clan9-tac1">
+						<num>1)</num>
+						<content>
+							<p> назив и врста генератора;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac2">
+						<num>2)</num>
+						<content>
+							<p> назив и седиште произвођача;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac3">
+						<num>3)</num>
+						<content>
+							<p> број и датум издавања решења за набавку;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac4">
+						<num>4)</num>
+						<content>
+							<p> број и датум издавања решења за коришћење;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac5">
+						<num>5)</num>
+						<content>
+							<p> број и датум атеста;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac6">
+						<num>6)</num>
+						<content>
+							<p> тип и серијски број генератора;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac7">
+						<num>7)</num>
+						<content>
+							<p> намена генератора;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac8">
+						<num>8)</num>
+						<content>
+							<p> врста и енергија зрачења, односно максимални напон и анодна струја;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac9">
+						<num>9)</num>
+						<content>
+							<p> промене вршене на уређају (кварови, сервисирање и одржавање);</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac10">
+						<num>10)</num>
+						<content>
+							<p> датум и разлози престанка коришћења генератора.</p>
+							<alinea id="od1-clan9-tac10-ali1">
+								<content>
+									<p>виденција о затвореним изворима јонизујућих зрачења треба да садржи:</p>
+								</content>
+							</alinea>
+						</content>
+					</point>
+					<point id="od1-clan9-tac1">
+						<num>1)</num>
+						<content>
+							<p> назив, ознака радионуклида и намена извора зрачења;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac2">
+						<num>2)</num>
+						<content>
+							<p> назив и седиште произвођача;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac3">
+						<num>3)</num>
+						<content>
+							<p> датум и број решења за набавку извора зрачења;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac4">
+						<num>4)</num>
+						<content>
+							<p> датум и број решења за коришћење извора;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac5">
+						<num>5)</num>
+						<content>
+							<p> датум производње и почетна активност;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac6">
+						<num>6)</num>
+						<content>
+							<p> датум почетка коришћења;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac7">
+						<num>7)</num>
+						<content>
+							<p> планирани период коришћења;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac8">
+						<num>8)</num>
+						<content>
+							<p> активност извора зрачења на крају коришћења;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac9">
+						<num>9)</num>
+						<content>
+							<p> врста и ознака контејнера;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac10">
+						<num>10)</num>
+						<content>
+							<p> место за привремено чување извора;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac11">
+						<num>11)</num>
+						<content>
+							<p> датум престанка коришћења;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac12">
+						<num>12)</num>
+						<content>
+							<p> правно лице које преузима извор зрачења.</p>
+							<alinea id="od1-clan9-tac12-ali1">
+								<content>
+									<p>виденција о отвореним изворима јонизујућих зрачења треба да садржи:</p>
+								</content>
+							</alinea>
+						</content>
+					</point>
+					<point id="od1-clan9-tac1">
+						<num>1)</num>
+						<content>
+							<p> назив, ознака радионуклида;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac2">
+						<num>2)</num>
+						<content>
+							<p> назив и намена радиофармацеутика (за медицинску примену);</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac3">
+						<num>3)</num>
+						<content>
+							<p> назив и седиште произвођача и испоручиоца;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac4">
+						<num>4)</num>
+						<content>
+							<p> датум и број решења којим се одобрава рад са отвореним изворима зрачења;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac5">
+						<num>5)</num>
+						<content>
+							<p> класа послова;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac6">
+						<num>6)</num>
+						<content>
+							<p> максималне одобрене месечне и годишње активности по сваком радионуклиду;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac7">
+						<num>7)</num>
+						<content>
+							<p> спремиште за привремено чување радиоактивног отпада;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac8">
+						<num>8)</num>
+						<content>
+							<p> начин ослобађања од контроле.</p>
+							<alinea id="od1-clan9-tac8-ali1">
+								<content>
+									<p>виденција о изложености становништва јонизујућим зрачењима треба да садржи:</p>
+								</content>
+							</alinea>
+						</content>
+					</point>
+					<point id="od1-clan9-tac1">
+						<num>1)</num>
+						<content>
+							<p> назив мерног места;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac2">
+						<num>2)</num>
+						<content>
+							<p> временски период у коме је обављено мерење;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac3">
+						<num>3)</num>
+						<content>
+							<p> јачина амбијенталног еквивалента дозе (минимална, максимална, средња);</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac4">
+						<num>4)</num>
+						<content>
+							<p> амбијентални еквивалент дозе;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac5">
+						<num>5)</num>
+						<content>
+							<p> специфична активност вештачких радионуклида у ваздуху;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac6">
+						<num>6)</num>
+						<content>
+							<p> специфична активност вештачких радионуклида у чврстим и течним падавинама;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac7">
+						<num>7)</num>
+						<content>
+							<p> специфична активност вештачких радионуклида у земљи;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac8">
+						<num>8)</num>
+						<content>
+							<p> специфична активност вештачких радионуклида у намирницама, води за пиће и предметима опште употребе;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac9">
+						<num>9)</num>
+						<content>
+							<p> специфична активност вештачких радионуклида у сточној храни;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac10">
+						<num>10)</num>
+						<content>
+							<p> специфична активност радионуклида у грађевинском материјалу;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac11">
+						<num>11)</num>
+						<content>
+							<p> специфична активност радионуклида у узорцима из боравишних простора;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac12">
+						<num>12)</num>
+						<content>
+							<p> процењена ефективна доза за становништво.</p>
+							<alinea id="od1-clan9-tac12-ali1">
+								<content>
+									<p>виденција о изложености јонизујућим зрачењима професионално изложених лица треба да садржи:</p>
+								</content>
+							</alinea>
+						</content>
+					</point>
+					<point id="od1-clan9-tac1">
+						<num>1)</num>
+						<content>
+							<p> назив и седиште корисника извора јонизујућих зрачења;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac2">
+						<num>2)</num>
+						<content>
+							<p> име, презиме и пол лица;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac3">
+						<num>3)</num>
+						<content>
+							<p> дан, месец и година рођења;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac4">
+						<num>4)</num>
+						<content>
+							<p> јединствени матични број грађана;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac5">
+						<num>5)</num>
+						<content>
+							<p> стручна спрема;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac6">
+						<num>6)</num>
+						<content>
+							<p> радни стаж у зони зрачења;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac7">
+						<num>7)</num>
+						<content>
+							<p> врста извора зрачења коме је лице изложено;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac8">
+						<num>8)</num>
+						<content>
+							<p> појединачне и годишње вредности личног еквивалента дозе Hp(10) и Hp(0.07);</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac9">
+						<num>9)</num>
+						<content>
+							<p> процењену годишњу ефективну дозу;</p>
+						</content>
+					</point>
+					<point id="od1-clan9-tac10">
+						<num>10)</num>
+						<content>
+							<p> процењену ефективну дозу у случају ванредног догађаја.</p>
+						</content>
+					</point>
+					<clause id="od1-clan9-stav1">
+						<content>
+							<p>ПРИЛОГ 2.</p>
+						</content>
+					</clause>
+					<clause id="od1-clan9-stav2">
+						<content>
+							<p>ПОДАЦИ ИЗ ЕВИДЕНЦИЈЕ О ОБАВЉЕНИМ ПОСЛОВИМА У ОБЛАСТИ СПРОВОЂЕЊА МЕРА ЗАШТИТЕ ОД ЗРАЧЕЊА КОЈЕ ОВЛАШЋЕНО ЛИЦЕ ДОСТАВЉА АГЕНЦИЈИ</p>
+						</content>
+					</clause>
+					<section id="od1">
+						<num>1.</num>
+						<heading> Подаци о овлашћеном правном лицу, и то:</heading>
+						<content>
+							<point id="od1-clan9-tac1">
+								<num>1)</num>
+								<content>
+									<p> Назив овлашћеног правног лица;</p>
+								</content>
+							</point>
+							<point id="od1-clan9-tac2">
+								<num>2)</num>
+								<content>
+									<p> Матични број и порески идентификациони број правног лица или предузетника;</p>
+								</content>
+							</point>
+							<point id="od1-clan9-tac3">
+								<num>3)</num>
+								<content>
+									<p> Град, улица и број, телефон, факс и електронска адреса;</p>
+								</content>
+							</point>
+							<point id="od1-clan9-tac4">
+								<num>4)</num>
+								<content>
+									<p> Број и датум решења о овлашћењу за обављање послова из области заштите од јонизујућих зрачења:</p>
+									<item id="od1-clan9-tac4-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> Мониторинг радиоактивности или поједина испитивања у оквиру мониторинга;</p>
+										</content>
+									</item>
+									<item id="od1-clan9-tac4-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> Мерења садржаја радионуклида у води за пиће, животним намирницама, сточној храни, лековима, предметима опште употребе, грађевинском материјалу и другим робама;</p>
+										</content>
+									</item>
+									<item id="od1-clan9-tac4-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> Мерења ради правовремене најаве акцидента;</p>
+										</content>
+									</item>
+									<item id="od1-clan9-tac4-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> Мерења ради процене нивоа излагања јонизујућим зрачењима професионално изложених лица, пацијената и становништва;</p>
+										</content>
+									</item>
+									<item id="od1-clan9-tac4-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> Мерења ради контроле система управљања квалитетом мера заштите од јонизујућих зрачења;</p>
+										</content>
+									</item>
+									<item id="od1-clan9-tac4-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> Деконтаминацијa радне и животне средине;</p>
+										</content>
+									</item>
+									<item id="od1-clan9-tac4-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> Деконтаминацијa лица;</p>
+										</content>
+									</item>
+									<item id="od1-clan9-tac4-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> Контрола радиоактивности роба.</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="od1-clan9-tac5">
+								<num>5)</num>
+								<content>
+									<p> Лице за контакт (телефон, факс и електронска адреса).</p>
+								</content>
+							</point>
+							<тачка id="od1-clan9-tac2">
+								<num>2.</num>
+								<content>
+									<p> Евиденција о извршеним пословима, и то:</p>
+								</content>
+							</тачка>
+							<point id="od1-clan9-tac1">
+								<num>1)</num>
+								<content>
+									<p> Врста посла;</p>
+								</content>
+							</point>
+							<point id="od1-clan9-tac2">
+								<num>2)</num>
+								<content>
+									<p> Назив правног лица/предузетника код кога је обављен;</p>
+								</content>
+							</point>
+							<point id="od1-clan9-tac3">
+								<num>3)</num>
+								<content>
+									<p> Адреса правног лица/предузетника: (телефон, факс и електронска адреса);</p>
+								</content>
+							</point>
+							<point id="od1-clan9-tac4">
+								<num>4)</num>
+								<content>
+									<p> Број и датум лиценце за обављање радијационе делатности/нуклеарне активности;</p>
+								</content>
+							</point>
+							<point id="od1-clan9-tac5">
+								<num>5)</num>
+								<content>
+									<p> Лице одговорно за заштиту од јонизујућих зрачења (телефон, факс и електронска адреса);</p>
+								</content>
+							</point>
+							<point id="od1-clan9-tac6">
+								<num>6)</num>
+								<content>
+									<p> Списак и број обављених послова;</p>
+								</content>
+							</point>
+							<point id="od1-clan9-tac7">
+								<num>7)</num>
+								<content>
+									<p> Списак извора јонизујућих зрачења који не задовољавају законске прописе за коришћење са описом недостатака за послове наведене под подаци о овлашћеном правном лицу, тачка 4) подтачка (4) или списак узорака и врста мерења који указују на повећан ризик од јонизујућих зрачења за послове наведене под подаци о овлашћеном правном лицу, тачка 4) подтачка (1), (2), (3), (5), (6), (7) и (8);</p>
+								</content>
+							</point>
+							<point id="od1-clan9-tac8">
+								<num>8)</num>
+								<content>
+									<p> Напомена.</p>
+								</content>
+							</point>
+							<тачка id="od1-clan9-tac3">
+								<num>3.</num>
+								<content>
+									<p> Oвера евиденције:</p>
+									<alinea id="od1-clan9-tac3-ali1">
+										<content>
+											<p>есто и датум;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan9-tac3-ali2">
+										<content>
+											<p>а овлашћено правно лице;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan9-tac3-ali3">
+										<content>
+											<p>есто печата;</p>
+										</content>
+									</alinea>
+									<alinea id="od1-clan9-tac3-ali4">
+										<content>
+											<p>отпис одговорног лица.</p>
+										</content>
+									</alinea>
+								</content>
+							</тачка>
+							<став id="od1-clan9-stav1">
+								<img alt="pravilnik-jonizacija_Page_1.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik-jonizacija_P_opt.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419398&amp;regactid=419398"/>
+								<content/>
+							</став>
+							<став id="od1-clan9-stav2">
+								<img alt="pravilnik-jonizacija_Page_2.tiff" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/pravilnik-jonizacija__opt1.jpeg&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=419398&amp;regactid=419398"/>
+								<content/>
+							</став>
+						</content>
+					</section>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

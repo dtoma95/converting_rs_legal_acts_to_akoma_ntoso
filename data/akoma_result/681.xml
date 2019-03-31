@@ -1,0 +1,302 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2010/95-27/main"/>
+					<FRBRuri value="/rs/act/2010/95-27"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2015/88-16/srp@/main"/>
+					<FRBRuri value="/rs/act/2015/88-16/srp@"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2015/88-16/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2015/88-16/srp@.akn"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2010-12-17" name="службени гласник рс" number="95" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="15. Управљање отпадом" value="15. управљање отпадом"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2010-12-06" id="usvajanje"/>
+				<step date="2010-12-25" id="stupanje_na_snagu"/>
+				<step date="2010-12-25" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="95/2010-27" id="e1" type="generation"/>
+				<eventRef date="88/2015-16" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 75. став 7. тачка 1</ref>) Закона о управљању  отпадом („<ref id="ref3" href="/rs/act/09/36/srp@">Службени гласник РС”, бр. 36/09</ref> и 88/10),</p>
+		</preamble>
+		<preface>
+			<authority>Министар животне средине и просторног планирања доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о обрасцу дневне евиденције и годишњег извештаја о отпаду  са упутством за његово попуњавање</title>
+			<date>&quot;Службени гласник РС&quot;, број 95 од 17. децембра 2010, 88  од 23. октобра 2015.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописује се образац дневне евиденције  о отпаду и годишњег извештаја о отпаду са упутством за његово попуњавање.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Дневна евиденција о отпаду води се на следећим  обрасцима:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> Образац ДЕО 1 – Дневна евиденција о отпаду  произвођача отпада;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> Образац ДЕО 2 – Дневна евиденција о отпаду оператера  постројења за одлагање отпада;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> Образац ДЕО 3 – Дневна евиденција о отпаду оператера  постројења за поновно искоришћење отпада;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> Образац ДЕО 4 – Дневна евиденција о отпаду извозника  отпада;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> Образац ДЕО 5 – Дневна евиденција о отпаду увозника  отпада;*</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> Образац ДЕО6 – Дневна евиденција о отпаду сакупљача и  других власника отпада.*</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Обрасци дневне евиденције из става 1. овог члана дати су  у Прилогу 1, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>*<ref id="ref4" href="/rs/act/2015/88/srp@">Службени гласник РС, број 88/2015</ref></heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Годишњи извештај о отпаду води се на следећим обрасцима:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> Образац ГИО 1 – Годишњи извештај о отпаду произвођача  отпада;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> Образац ГИО 2 – Годишњи извештај о отпаду оператера  на депонији отпада;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> Образац ГИО 3 – Годишњи извештај о отпаду оператера  постројења за поновно искоришћење отпада;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> Образац ГИО 4 – Годишњи извештај о отпаду извозника  отпада;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> Образац ГИО 5 – Годишњи извештај о отпаду увозника  отпада;</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>5а) Образац ГИО6 – Годишњи извештај о отпаду сакупљача и  других власника отпада.*</p>
+							<point id="clan3-stav2-tac6">
+								<num>6)</num>
+								<content>
+									<p> Образац КОМ 1 – Годишњи извештај о комуналном отпаду.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>Обрасци годишњег извештаја из става 1. овог члана дати  су у Прилогу 2, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>Упутство за попуњавање обрасца годишњег извештаја дато  је у Прилогу 3, који је одштампан уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<heading>*<ref id="ref5" href="/rs/act/2015/88/srp@">Службени гласник РС, број 88/2015</ref></heading>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана  објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Број 110-00-146/2010-05</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav3">
+						<content>
+							<p>У Београду, 6. децембрa 2010. године</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav5">
+						<content>
+							<p>др Оливер Дулић, с.р.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav6">
+						<content>
+							<p>НАПОМЕНА ИЗДАВАЧА: Правилником о изменама и допунама  Правилника о обрасцу дневне евиденције и годишњег извештаја о отпаду са  упутством за његово попуњавање (&quot;<ref id="ref6" href="/rs/act/2015/88/srp@">Службени гласник РС&quot;, број 88/2015</ref>):</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav7">
+						<content>
+							<p>- у  Прилогу 1. - Обрасци дневне евиденције, додат је Образац ДЕО6 – Дневна евиденција о отпаду сакупљача и других власника отпада  (види <ref>члан 1 </ref>Правилника - 88/2015-16).</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav8">
+						<content>
+							<p>- измењену су Прилог 2. - Обрасци годишњег извештаја  и  Прилог 3. - Упутство за попуњавање обрасца годишњег извештаја (види <ref>члан 3. </ref>Правилника - 88/2015-16).</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav9">
+						<content>
+							<p>Прилог 1 - Обрасци дневне евиденције</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav10">
+						<content>
+							<p>Образац ДЕО1 – Дневна евиденција о отпаду  произвођача отпада</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav11">
+						<content>
+							<p>Образац ДЕО2 – Дневна евиденција о отпаду оператера  постројења за одлагање отпада</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav12">
+						<content>
+							<p>Образац ДЕО3 – Дневна евиденција о отпаду оператера  постројења за поновно искоришћење отпада</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav13">
+						<content>
+							<p>Образац ДЕО4 – Дневна евиденција о отпаду извозника  отпада</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav14">
+						<content>
+							<p>Образац ДЕО5 – Дневна евиденција о отпаду увозника  отпада</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav15">
+						<content>
+							<p>Образац ДЕО6 – Дневна евиденција о отпаду сакупљача и  других власника отпада</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav16">
+						<content>
+							<p>Прилог 2 - Обрасци годишњег извештаја</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav17">
+						<content>
+							<p>Образац ГИО1 – Годишњи извештај о отпаду произвођача  отпада</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav18">
+						<content>
+							<p>Образац ГИО2 – Годишњи извештај о отпаду оператера  на депонији отпада</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav19">
+						<content>
+							<p>Образац ГИО3 – Годишњи извештај о отпаду оператера  постројења за поновно искоришћење отпада</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav20">
+						<content>
+							<p>Образац ГИО4 – Годишњи извештај о отпаду извозника  отпада</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav21">
+						<content>
+							<p>Образац ГИО5 – Годишњи извештај о отпаду увозника  отпада</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav22">
+						<content>
+							<p>Образац ГИО6 – Годишњи извештај о отпаду  сакупљача и других власника отпада</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav23">
+						<content>
+							<p>Образац КОМ1 – Годишњи извештај о управљању комуналним отпадом</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

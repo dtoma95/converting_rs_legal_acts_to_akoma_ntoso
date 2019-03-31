@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1982/35-992/main"/>
+					<FRBRuri value="/rs/act/1982/35-992"/>
+					<FRBRdate date="1982" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1993/49-985/srp@/main"/>
+					<FRBRuri value="/rs/act/1993/49-985/srp@"/>
+					<FRBRdate date="1993" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1993/49-985/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1993/49-985/srp@.akn"/>
+					<FRBRdate date="1993" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1982-6-25" name="службени лист сфрј" number="35" showAs="Службени лист СФРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="II ОДБРАНА, ВОЈСКА И УНУТРАШЊИ ПОСЛОВИ" value="ii одбрана, војска и унутрашњи послови"/>
+				<keyword id="grupa" showAs="2. Војска Србије" value="2. војска србије"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1982-06-22" id="usvajanje"/>
+				<step date="1982-07-03" id="stupanje_na_snagu"/>
+				<step date="1982-07-03" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="35/1982-992" id="e1" type="generation"/>
+				<eventRef date="15/1984-461" id="e2" type="amendment"/>
+				<eventRef date="31/1985-965" id="e3" type="amendment"/>
+				<eventRef date="30/1986-930" id="e4" type="amendment"/>
+				<eventRef date="49/1993-985" id="e5" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 46. став 1. </ref>Закона о здравственом осигурању војних осигураника („<ref id="ref1" href="/rs/act/78/32/srp@">Службени лист СФРЈ“, бр. 32/78</ref>), Скупштина Заједнице социјалног осигурања војних осигураника доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о висини накнаде погребних трошкова у случају смрти осигураног лица</title>
+			<date>„Службени лист СФРЈ&quot;, бр. 35 од 25.   јуна 1982, 15 од 30.   марта 1984, 31 од 28.   јуна 1985, 30 од 30.   маја 1986. и „Службени лист СРЈ&quot;, број 49 од 20.   августа 1993.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Накнада погребних трошкова по Закону о здравственом осигурању војних осигураника, исплаћује се у висини уобичајених просечних трошкова потребних услуга (сандук, покров, надробни знак, превоз у месту сахране и ископавање и закопавање гроба) према спецификацији одговарајућег комуналног предузећа.*</heading>
+				<content>
+					<clause id="od1-stav1">
+						<content>
+							<p>*<ref id="ref2" href="/rs/act/1993/49/srp@">Службени лист СРЈ, број 49/1993</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Ако се посмртни остаци војног осигураника – војниог пензионера и корисника новчане накнаде, као и осигураног члана уже породице тих осигураника превезу из места у коме су они умрли у њихово пребивалиште ради сахране, износ из тачке 1. ове одлуке повећава се за висину стварних трошкова превоза.</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>Накнада трошкова из става 1. ове тачке обухвата:</p>
+							<point id="od2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> трошкове превоза посмртних остатака возом или бродом до места сахране, а ако на тој релацији не постоји железнички или бродски саобраћај – стварне трошкове превоза другим превозним средствима;</p>
+								</content>
+							</point>
+							<point id="od2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> трошкови превоза посмртних остатака до станице, односно луке или пристаништа, у месту сахране – од станице, односно луке или пристаништа до места где се врши сахрана посмртних остатака;</p>
+								</content>
+							</point>
+							<point id="od2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> друге трошкове превоза учињене у смислу општих прописа о условима и начину ископавања и преноса мртваца.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="od2-stav2">
+						<content>
+							<p>Пратиоцима посмртних остатака војног осигураника и осигураног члана породице из става 1. ове тачке, припада накнада путних трошкова према одлуци Скупштине Заједнице социјалног осигурања и војних осигураника о висини накнаде путних трошкова у вези са остваривањем права из здравственог осигурања. Та накнада припада највише за два пратиоца.</p>
+							<тачка id="od2-stav2-tac3">
+								<num>3.</num>
+								<content>
+									<p> Ова одлука примењује се од 1. јула 1982. године.</p>
+								</content>
+							</тачка>
+							<тачка id="od2-stav2-tac4">
+								<num>4.</num>
+								<content>
+									<p> Даном почетка примењивања ове одлуке престаје да важи Одлука о висини накнаде потребних трошкова у случају смрти осигураног лица („<ref id="ref3" href="/rs/act/74/4/srp@">Службени лист СРЈ&quot;, бр. 4/74, 43/74, 15/75</ref> и 16/76).</p>
+								</content>
+							</тачка>
+							<тачка id="od2-stav2-tac5">
+								<num>5.</num>
+								<content>
+									<p> Ова одлука ступа на снагу осмог дана од дана објављивања у „Службеном листу СФРЈ&quot;.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="od2-stav3">
+						<content>
+							<p>Бр. 33-1</p>
+						</content>
+					</clause>
+					<section id="od22">
+						<num>22.</num>
+						<heading> јуна 1982. године</heading>
+						<content>
+							<clause id="od22-stav1">
+								<content>
+									<p>Београд</p>
+								</content>
+							</clause>
+							<clause id="od22-stav2">
+								<content>
+									<p>Скупштина заједнице социјалног осигурања војних</p>
+								</content>
+							</clause>
+							<clause id="od22-stav3">
+								<content>
+									<p>осигураника</p>
+								</content>
+							</clause>
+							<clause id="od22-stav4">
+								<content>
+									<p>Председник,</p>
+								</content>
+							</clause>
+							<clause id="od22-stav5">
+								<content>
+									<p>Мирко Нововић, с. р.</p>
+								</content>
+							</clause>
+						</content>
+					</section>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

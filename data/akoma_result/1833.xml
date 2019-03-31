@@ -1,0 +1,813 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1993/7-199/main"/>
+					<FRBRuri value="/rs/act/1993/7-199"/>
+					<FRBRdate date="1993" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2011/90-6/srp@/main"/>
+					<FRBRuri value="/rs/act/2011/90-6/srp@"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2011/90-6/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2011/90-6/srp@.akn"/>
+					<FRBRdate date="2011" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1993-1-25" name="службени гласник рс" number="7" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="8. Ученички и студентски стандард" value="8. ученички и студентски стандард"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1993-01-13" id="usvajanje"/>
+				<step date="1993-02-02" id="stupanje_na_snagu"/>
+				<step date="1993-02-02" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="7/1993-199" id="e1" type="generation"/>
+				<eventRef date="19/1993-629" id="e2" type="amendment"/>
+				<eventRef date="6/1999-164" id="e3" type="amendment"/>
+				<eventRef date="50/2002-6" id="e4" type="amendment"/>
+				<eventRef date="97/2005-5" id="e5" type="amendment"/>
+				<eventRef date="90/2011-6" id="e6" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 25. </ref>Закона о ученичком и студентском  стандарду („<ref id="ref5" href="/rs/act/92/81/srp@">Службени гласник РС”, бр. 81/92</ref>),</p>
+			<p>Влада Републике Србије, на седници одржаној  13. јануара 1993. године,  донела је</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>О МРЕЖИ УСТАНОВА СТУДЕНТСКОГ СТАНДАРДА</title>
+			<date>„Службени гласник РС”, бр. 7 од 25. јануара 1993, 19 од 9. марта 1993, 6 од  12. фебруара 1999,  50 од 23. августа 2002,  97 од 11. новембра 2005, 90 од 30. новембра 2011.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овом одлуком утврђује се мрежа установа студентског  стандарда.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Мрежу установа студентског стандарда из <ref>члана 1. </ref>ове  одлуке чине:*</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>СТУДЕНТСКИ ЦЕНТРИ*</heading>
+				<content>
+					<clause id="gla1-clan2-stav1">
+						<content>
+							<p>I-1) Студентски центар „Београд”, са јединицама:*</p>
+						</content>
+					</clause>
+					<section id="gla1-od1">
+						<num>1.</num>
+						<heading> Студентски град са одељењима:*</heading>
+						<content>
+							<item id="gla1-od1-clan2-podtac1">
+								<num>(1)</num>
+								<content>
+									<p> Студентски дом I,*</p>
+								</content>
+							</item>
+							<item id="gla1-od1-clan2-podtac2">
+								<num>(2)</num>
+								<content>
+									<p> Студентски дом II,*</p>
+								</content>
+							</item>
+							<item id="gla1-od1-clan2-podtac3">
+								<num>(3)</num>
+								<content>
+									<p> Студентски дом III,*</p>
+								</content>
+							</item>
+							<item id="gla1-od1-clan2-podtac4">
+								<num>(4)</num>
+								<content>
+									<p> Студентски дом IV,*</p>
+								</content>
+							</item>
+							<item id="gla1-od1-clan2-podtac5">
+								<num>(5)</num>
+								<content>
+									<p> Студентски ресторан „Студентски град”,*</p>
+								</content>
+							</item>
+							<item id="gla1-od1-clan2-podtac6">
+								<num>(6)</num>
+								<content>
+									<p> Грађевинско-занатска оператива,*</p>
+								</content>
+							</item>
+							<item id="gla1-od1-clan2-podtac7">
+								<num>(7)</num>
+								<content>
+									<p> Котларница са перионицом,*</p>
+								</content>
+							</item>
+							<item id="gla1-od1-clan2-podtac8">
+								<num>(8)</num>
+								<content>
+									<p> Транспортно одељење,*</p>
+								</content>
+							</item>
+							<point id="gla1-od1-clan2-tac2">
+								<num>2)</num>
+								<content>
+									<p> Студентски дом „Жарко Мариновић”,*</p>
+								</content>
+							</point>
+							<point id="gla1-od1-clan2-tac3">
+								<num>3)</num>
+								<content>
+									<p> Студентски дом „Иво Лола Рибар”,*</p>
+								</content>
+							</point>
+							<point id="gla1-od1-clan2-tac4">
+								<num>4)</num>
+								<content>
+									<p> Студентски дом „Карабурма”,*</p>
+								</content>
+							</point>
+							<point id="gla1-od1-clan2-tac5">
+								<num>5)</num>
+								<content>
+									<p> Студентски дом „Патрис Лумумба”,*</p>
+								</content>
+							</point>
+							<point id="gla1-od1-clan2-tac6">
+								<num>6)</num>
+								<content>
+									<p> Студентски дом „Слободан Пенезић”,*</p>
+								</content>
+							</point>
+							<point id="gla1-od1-clan2-tac7">
+								<num>7)</num>
+								<content>
+									<p> Студентски дом „Рифат Бурџевић”,*</p>
+								</content>
+							</point>
+							<point id="gla1-od1-clan2-tac8">
+								<num>8)</num>
+								<content>
+									<p> Студентски дом „Вера Благојевић”,*</p>
+								</content>
+							</point>
+							<point id="gla1-od1-clan2-tac9">
+								<num>9)</num>
+								<content>
+									<p> Студентски дом „4. април”,*</p>
+								</content>
+							</point>
+							<point id="gla1-od1-clan2-tac10">
+								<num>10)</num>
+								<content>
+									<p> Студентски дом „Мика Митровић”,*</p>
+								</content>
+							</point>
+							<point id="gla1-od1-clan2-tac11">
+								<num>11)</num>
+								<content>
+									<p> Студентски дом „Кошутњак”,*</p>
+								</content>
+							</point>
+							<point id="gla1-od1-clan2-tac12">
+								<num>12)</num>
+								<content>
+									<p> Студентски дом у Шапцу,*</p>
+								</content>
+							</point>
+							<point id="gla1-od1-clan2-tac13">
+								<num>13)</num>
+								<content>
+									<p> Студентски ресторан „Земун”,*</p>
+								</content>
+							</point>
+							<point id="gla1-od1-clan2-tac14">
+								<num>14)</num>
+								<content>
+									<p> Студентски ресторан „Три лађара”,*</p>
+								</content>
+							</point>
+							<point id="gla1-od1-clan2-tac15">
+								<num>15)</num>
+								<content>
+									<p> Студентски ресторан „Агроном”,*</p>
+								</content>
+							</point>
+							<point id="gla1-od1-clan2-tac16">
+								<num>16)</num>
+								<content>
+									<p> Студентски ресторан „Обилићев венац”,*</p>
+								</content>
+							</point>
+							<clause id="gla1-od1-clan2-stav1">
+								<content>
+									<p>Брисана је тачка 17) (види  <ref>члан 1. </ref>Одлуке – 97/2005-5)</p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav2">
+								<content>
+									<p>17***) Студентски ресторан „Иво Лола Рибар”,*</p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav3">
+								<content>
+									<p>18***) Студентски ресторан „Карабурма”,*</p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav4">
+								<content>
+									<p>19***) Студентски ресторан „Патрис Лумумба”,*</p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav5">
+								<content>
+									<p>20***) Студентски ресторан „Рифат Бурџевић”,*</p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav6">
+								<content>
+									<p>21***) Студентски ресторан „Машинац”,*</p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav7">
+								<content>
+									<p>22***) Студентски ресторан „Технолог”,*</p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav8">
+								<content>
+									<p>23***) Студентски ресторан „Ђушина”,*</p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav9">
+								<content>
+									<p>24***) Студентски ресторан „Вождовац”,*</p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav10">
+								<content>
+									<p>25***) Студентски ресторан „Мика Митровић”,*</p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav11">
+								<content>
+									<p>26***) Студентски ресторан „Кошутњак”,*</p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav12">
+								<content>
+									<p>27***) Студентски ресторан „Медицинар”,*</p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav13">
+								<content>
+									<p>28***) Студентски ресторан „Гаудеамус”,*</p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav14">
+								<content>
+									<p>29***) Студентски ресторан „Ветеринар”,*</p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav15">
+								<content>
+									<p>30***) Студентски ресторан „Шумар”,*</p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav16">
+								<content>
+									<p>31***) Студентски ресторан „Саобраћајни”,*</p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav17">
+								<content>
+									<p>32***) Студентски ресторан „Фармацеут”,*</p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav18">
+								<content>
+									<p>33***) Студентски ресторан „ФДУ”,*</p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav19">
+								<content>
+									<p>I-2) Студентски центар Крагујевац, са јединицама:*</p>
+									<point id="gla1-od1-clan2-stav19-tac1">
+										<num>1)</num>
+										<content>
+											<p> Студентски дом, Павиљон I,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav19-tac2">
+										<num>2)</num>
+										<content>
+											<p> Студентски дом, Павиљон II,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav19-tac3">
+										<num>3)</num>
+										<content>
+											<p> Студентски дом, Павиљон III,*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav20">
+								<content>
+									<p>Брисана је подтачка 4) (види  <ref>члан 1. </ref>Одлуке – 50/2002-6)</p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav21">
+								<content>
+									<p>4**) Студентски ресторан I,*</p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav22">
+								<content>
+									<p>5**) Студентски ресторан II,*</p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav23">
+								<content>
+									<p>6**) Студентски ресторан III,*</p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav24">
+								<content>
+									<p>I-3) Студентски центар Ниш, са јединицама:*</p>
+									<point id="gla1-od1-clan2-stav24-tac1">
+										<num>1)</num>
+										<content>
+											<p> Студентски дом, Павиљон I и II,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav24-tac2">
+										<num>2)</num>
+										<content>
+											<p> Студентски дом, Павиљон III,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav24-tac3">
+										<num>3)</num>
+										<content>
+											<p> Студентски дом, Павиљон IV,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav24-tac4">
+										<num>4)</num>
+										<content>
+											<p> Студентски дом, Павиљон V,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav24-tac5">
+										<num>5)</num>
+										<content>
+											<p> Линијски ресторан I,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav24-tac6">
+										<num>6)</num>
+										<content>
+											<p> Линијски ресторан II,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav24-tac7">
+										<num>7)</num>
+										<content>
+											<p> Линијски ресторан III,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav24-tac8">
+										<num>8)</num>
+										<content>
+											<p> Централна кухиња,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav24-tac9">
+										<num>9)</num>
+										<content>
+											<p> Ресторан „Индекс”,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav24-tac10">
+										<num>10)</num>
+										<content>
+											<p> Пицерија „10”,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav24-tac11">
+										<num>11)</num>
+										<content>
+											<p> Ресторан „Студент”;*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav25">
+								<content>
+									<p>I-4) Студентски центар Приштина, са јединицама:*</p>
+									<point id="gla1-od1-clan2-stav25-tac1">
+										<num>1)</num>
+										<content>
+											<p> Студентски дом I,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav25-tac2">
+										<num>2)</num>
+										<content>
+											<p> Студентски дом II,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav25-tac3">
+										<num>3)</num>
+										<content>
+											<p> Студентски дом III,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav25-tac4">
+										<num>4)</num>
+										<content>
+											<p> Студентски дом IV,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav25-tac5">
+										<num>5)</num>
+										<content>
+											<p> Студентски дом V,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav25-tac6">
+										<num>6)</num>
+										<content>
+											<p> Студентски дом у Пећи,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav25-tac7">
+										<num>7)</num>
+										<content>
+											<p> Студентски дом „Тодор Милићевић”, К. Митровица,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav25-tac8">
+										<num>8)</num>
+										<content>
+											<p> Објекти I, II и III,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav25-tac9">
+										<num>9)</num>
+										<content>
+											<p> Хала спортова,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav25-tac10">
+										<num>10)</num>
+										<content>
+											<p> Ресторан I,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav25-tac11">
+										<num>11)</num>
+										<content>
+											<p> Ресторан II;*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav26">
+								<content>
+									<p>I-5) Студентски центар Нови Сад, са јединицама:*</p>
+									<point id="gla1-od1-clan2-stav26-tac1">
+										<num>1)</num>
+										<content>
+											<p> Студентски дом „Слободан Бојић”,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav26-tac2">
+										<num>2)</num>
+										<content>
+											<p> Студентски дом „Вељко Влаховић”,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav26-tac3">
+										<num>3)</num>
+										<content>
+											<p> Студентски дом „Фееш Клара”,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav26-tac4">
+										<num>4)</num>
+										<content>
+											<p> Студентски дом „23. октобар”,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav26-tac5">
+										<num>5)</num>
+										<content>
+											<p> Студентски дом „Сајмиште”,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav26-tac6">
+										<num>6)</num>
+										<content>
+											<p> Студентски дом „Нови дом А”,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav26-tac7">
+										<num>7)</num>
+										<content>
+											<p> Студентски дом „Нови дом Б”,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav26-tac8">
+										<num>8)</num>
+										<content>
+											<p> Студентски дом у Зрењанину,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav26-tac9">
+										<num>9)</num>
+										<content>
+											<p> Студентски ресторан I,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav26-tac10">
+										<num>10)</num>
+										<content>
+											<p> Студентски ресторан II,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav26-tac11">
+										<num>11)</num>
+										<content>
+											<p> Студентски ресторан III,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav26-tac12">
+										<num>12)</num>
+										<content>
+											<p> Студентски ресторан IV;*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav27">
+								<content>
+									<p>I-6) Студентски центар Суботица, са јединицама:*</p>
+									<point id="gla1-od1-clan2-stav27-tac1">
+										<num>1)</num>
+										<content>
+											<p> Студентски дом „Иво Лола Рибар”,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav27-tac2">
+										<num>2)</num>
+										<content>
+											<p> Студентски дом „Боса Милићевић”,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav27-tac3">
+										<num>3)</num>
+										<content>
+											<p> Студентски ресторан I,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav27-tac4">
+										<num>4)</num>
+										<content>
+											<p> Студентски ресторан II;*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav28">
+								<content>
+									<p>I-7) Студентски центар Ужице, са јединицама:*</p>
+									<point id="gla1-od1-clan2-stav28-tac1">
+										<num>1)</num>
+										<content>
+											<p> Студентски дом „Турица”,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav28-tac2">
+										<num>2)</num>
+										<content>
+											<p> Студентски ресторан „Студент”;*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav29">
+								<content>
+									<p>I-8) Студентски центар Чачак:*</p>
+									<point id="gla1-od1-clan2-stav29-tac1">
+										<num>1)</num>
+										<content>
+											<p> Студетнски дом;*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav29-tac2">
+										<num>2)</num>
+										<content>
+											<p>  Брисана је (види <ref>члан 1. </ref>Одлуке - 90/2011-6)</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav30">
+								<content>
+									<p>I-9) Студентски центар Бор, са јединицама:*</p>
+									<point id="gla1-od1-clan2-stav30-tac1">
+										<num>1)</num>
+										<content>
+											<p> Студентски дом,*</p>
+										</content>
+									</point>
+									<point id="gla1-od1-clan2-stav30-tac2">
+										<num>2)</num>
+										<content>
+											<p> Студентски ресторан.*</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav31">
+								<content>
+									<p>*<ref id="ref6" href="/rs/act/1993/19/srp@">Службени гласник РС, број 19/1993</ref></p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav32">
+								<content>
+									<p>**<ref id="ref7" href="/rs/act/2002/50/srp@">Службени гласник РС, број   50/2002</ref></p>
+								</content>
+							</clause>
+							<clause id="gla1-od1-clan2-stav33">
+								<content>
+									<p>***<ref id="ref8" href="/rs/act/2005/97/srp@">Службени гласник РС, број   97/2005</ref></p>
+								</content>
+							</clause>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>СТУДЕНТСКА ОПОРАВИЛИШТА*</heading>
+				<content>
+					<point id="gla2-clan2-tac1">
+						<num>1)</num>
+						<content>
+							<p> Студентско опоравилиште, са јединицама:*</p>
+							<item id="gla2-clan2-tac1-podtac1">
+								<num>(1)</num>
+								<content>
+									<p> „Радојка Лакић” на Авали,*</p>
+								</content>
+							</item>
+							<item id="gla2-clan2-tac1-podtac2">
+								<num>(2)</num>
+								<content>
+									<p> „Ратко Митровић” на Златибору,*</p>
+								</content>
+							</item>
+							<item id="gla2-clan2-tac1-podtac3">
+								<num>(3)</num>
+								<content>
+									<p> Радна јединица „Палић” на Палићу.**</p>
+								</content>
+							</item>
+						</content>
+					</point>
+					<clause id="gla2-clan2-stav1">
+						<content>
+							<p>*<ref id="ref9" href="/rs/act/1993/19/srp@">Службени гласник РС, број 19/1993</ref></p>
+						</content>
+					</clause>
+					<clause id="gla2-clan2-stav2">
+						<content>
+							<p>**<ref id="ref10" href="/rs/act/1999/6/srp@">Службени гласник РС, број 6/1999</ref></p>
+						</content>
+					</clause>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>СТУДЕНТСКИ КУЛТУРНИ ЦЕНТРИ*</heading>
+				<content>
+					<point id="gla3-clan2-tac1">
+						<num>1)</num>
+						<content>
+							<p> Студентски културни центар Београд,*</p>
+							<item id="gla3-clan2-tac1-podtac1">
+								<num>(1)</num>
+								<content>
+									<p> Културни центар, радна јединица на Новом Београду**</p>
+								</content>
+							</item>
+						</content>
+					</point>
+					<point id="gla3-clan2-tac2">
+						<num>2)</num>
+						<content>
+							<p> Студентски културни центар Крагујевац,*</p>
+						</content>
+					</point>
+					<point id="gla3-clan2-tac3">
+						<num>3)</num>
+						<content>
+							<p> Студентски културни центар Ниш,*</p>
+						</content>
+					</point>
+					<point id="gla3-clan2-tac4">
+						<num>4)</num>
+						<content>
+							<p> Студентски културни центар Приштина,*</p>
+						</content>
+					</point>
+					<point id="gla3-clan2-tac5">
+						<num>5)</num>
+						<content>
+							<p> Студентски културни центар Нови Сад,*</p>
+						</content>
+					</point>
+					<point id="gla3-clan2-tac6">
+						<num>6)</num>
+						<content>
+							<p> Дом културе „Студентски град”, Београд.*</p>
+						</content>
+					</point>
+					<clause id="gla3-clan2-stav1">
+						<content>
+							<p>*<ref id="ref11" href="/rs/act/1993/19/srp@">Службени гласник РС”, број 19/1993</ref></p>
+						</content>
+					</clause>
+					<article id="gla3-clan3">
+						<num>3.</num>
+						<heading>**<ref id="ref12" href="/rs/act/2005/97/srp@">Службени гласник РС, број 97/2005</ref></heading>
+						<content>
+							<clause id="gla3-clan3-stav1">
+								<content>
+									<p>Ова одлука ступа на снагу осмог дана од дана објављивања у  „Службеном гласнику РС”.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan3-stav2">
+								<content>
+									<p>05 број 06-53/103</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan3-stav3">
+								<content>
+									<p>У Београду, 13. јануара  1993. године</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan3-stav4">
+								<content>
+									<p>Влада Републике Србије</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan3-stav5">
+								<content>
+									<p>Потпредседник,</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan3-stav6">
+								<content>
+									<p>др Зоран Аранђеловић, с.р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

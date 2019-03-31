@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1997/11-16/main"/>
+					<FRBRuri value="/rs/act/1997/11-16"/>
+					<FRBRdate date="1997" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1997/11-16/srp@/main"/>
+					<FRBRuri value="/rs/act/1997/11-16/srp@"/>
+					<FRBRdate date="1997" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1997/11-16/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1997/11-16/srp@.akn"/>
+					<FRBRdate date="1997" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1997-3-14" name="службени лист срј" number="11" showAs="Службени лист СРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="VI СВОЈИНСКИ И ОБЛИГАЦИОНИ, ПОРОДИЧНИ И БРАЧНИ ОДНОСИ" value="vi својински и облигациони, породични и брачни односи"/>
+				<keyword id="grupa" showAs="1. Облици својине" value="1. облици својине"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1997-03-13" id="usvajanje"/>
+				<step date="1997-03-22" id="stupanje_na_snagu"/>
+				<step date="1997-03-22" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 10. став 4. </ref>Закона о имовини Савезне Републике Југославије (“<ref id="ref1" href="/rs/act/93/41/srp@">Службени лист СРЈ”, бр. 41/93, 28/96</ref> и 30/96),</p>
+			<p>Савезна влада доноси</p>
+		</preamble>
+		<preface>
+			<authority>ОДЛУКУ</authority>
+			<title>о продаји гаража и гаражних места у својини   Савезне   Републике   Југославије</title>
+			<date>„Службени лист СРЈ”, број 11 од 14. марта 1997.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Гараже и гаражна места у својини Савезне Републике Југославије који су издати у закуп продаће се непосредном погодбом лицима која их користе, у року од 90 дана од дана достављања обавештења о понуди за њихову продају.</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Цена гаража и гаражних места из тачке 1. ове одлуке утврђује се према обрасцу:</heading>
+				<content>
+					<clause id="od2-stav1">
+						<content>
+							<p>Цг=Јц х Пг х Ка х Кл х Кг</p>
+						</content>
+					</clause>
+					<clause id="od2-stav2">
+						<content>
+							<p>у коме је:</p>
+							<alinea id="od2-stav2-ali1">
+								<content>
+									<p>г – цена гараже и гаражног места;</p>
+								</content>
+							</alinea>
+							<alinea id="od2-stav2-ali2">
+								<content>
+									<p>ц – јединична цена гараже и гаражног места;</p>
+								</content>
+							</alinea>
+							<alinea id="od2-stav2-ali3">
+								<content>
+									<p>г – површина гараже и гаражног места;</p>
+								</content>
+							</alinea>
+							<alinea id="od2-stav2-ali4">
+								<content>
+									<p>а – коефицијент корекције цене зависно од старости гараже и гаражног места (коефицијент амортизације);</p>
+								</content>
+							</alinea>
+							<alinea id="od2-stav2-ali5">
+								<content>
+									<p>л – коефицијент корекције цене зависно од локације гараже и гаражног места;</p>
+								</content>
+							</alinea>
+							<alinea id="od2-stav2-ali6">
+								<content>
+									<p>г – коефицијент корекције цене зависно од врсте и конфорности гараже и гаражног места.</p>
+								</content>
+							</alinea>
+							<тачка id="od2-stav2-tac3">
+								<num>3.</num>
+								<content>
+									<p> Купцима који по закључењу уговора у року од 15 дана једнократно плате купопродајну цену одобрава се попуст од 25%, купцима који плате у року од годину дана – 15%, а купцима који плате у року од две године – 10%.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="od2-stav3">
+						<content>
+							<p>Продајна цена утврђена на основу тачке 2. ове одлуке може се платити највише у 60 месечних рата, с тим што се месечна рата усклађује за шестомесечни обрачунски период јануар–јун, односно јул–децембар са кретањем цена на мало у републици чланици на чијој се територији налази гаража или гаражно место, а највише до висине раста просечне месечне нето зараде у привреди републике чланице за односни период, под условом да је просечан раст цена на мало већи од 5%.</p>
+							<тачка id="od2-stav3-tac4">
+								<num>4.</num>
+								<content>
+									<p> Гараже и гаражна места који се не продају непосредном погодбом, као и друге гараже и гаражна места продаће се јавним надметањем на основу писмено прикупљених понуда, са почетном продајном ценом која се утврђује на основу обрасца из тачке 2. ове одлуке.</p>
+								</content>
+							</тачка>
+							<тачка id="od2-stav3-tac5">
+								<num>5.</num>
+								<content>
+									<p> Порез на промет пада на терет купца.</p>
+								</content>
+							</тачка>
+							<тачка id="od2-stav3-tac6">
+								<num>6.</num>
+								<content>
+									<p> Ближи услови и поступак за реализацију ове одлуке уредиће се упутством савезног министра правде.</p>
+								</content>
+							</тачка>
+							<тачка id="od2-stav3-tac7">
+								<num>7.</num>
+								<content>
+									<p> Ова одлука ступа на снагу осмог дана од дана објављивања у „Службеном листу СРЈ”.</p>
+								</content>
+							</тачка>
+						</content>
+					</clause>
+					<clause id="od2-stav4">
+						<content>
+							<p>Е. п. бр. 79</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od13">
+				<num>13.</num>
+				<heading> марта 1997. године</heading>
+				<content>
+					<clause id="od13-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od13-stav2">
+						<content>
+							<p>Савезна влада</p>
+						</content>
+					</clause>
+					<clause id="od13-stav3">
+						<content>
+							<p>Председник,</p>
+						</content>
+					</clause>
+					<clause id="od13-stav4">
+						<content>
+							<p>др Радоје Контић, с. р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

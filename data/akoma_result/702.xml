@@ -1,0 +1,326 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1995/19-601/main"/>
+					<FRBRuri value="/rs/act/1995/19-601"/>
+					<FRBRdate date="1995" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2006/102-16/srp@/main"/>
+					<FRBRuri value="/rs/act/2006/102-16/srp@"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2006/102-16/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2006/102-16/srp@.akn"/>
+					<FRBRdate date="2006" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1995-6-05" name="службени гласник рс" number="19" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XV ЈАВНЕ УСТАНОВЕ, НАУКА, ПРОСВЕТА, КУЛТУРА, ИНФОРМИСАЊЕ И СПОРТ" value="xv јавне установе, наука, просвета, култура, информисање и спорт"/>
+				<keyword id="grupa" showAs="10. Култура" value="10. култура"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1995-05-19" id="usvajanje"/>
+				<step date="1995-05-13" id="stupanje_na_snagu"/>
+				<step date="1995-05-13" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="19/1995-601" id="e1" type="generation"/>
+				<eventRef date="102/2006-16" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preamble>
+			<p>Special value.</p>
+			<p>На основу <ref>члана 115. став 2. </ref>Закона о културним добрима („<ref id="ref1" href="/rs/act/94/71/srp@">Службени гласник РС“, број 71/94</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар културе доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о обрасцима за документацију која се води о археолошком ископавању и истраживању</title>
+			<date>„Службени гласник РС“, бр. 19 од 05. јуна 1995, 102 од 14. новембра 2006.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником прописују се обрасци за документацију која се води о археолошком ископавању и истраживању.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>О археолошком ископавању и истраживању води се документација на Обрасцу број 1, а о непокретним и покретним налазима, који се ископавају или нађу приликом археолошког ископавања и истраживања води се документација на обрасцима:</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>А, на коме се региструју сви судови или фрагменти посуђа истог типа или с истим особинама, у једној документационој јединици;</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Б, на коме се региструју сви А картони из једне документационе јединице;</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav4">
+						<content>
+							<p>Б-1, Б-2 и Б-3, на којима се региструју резултати синтетичке анализе керамике с дијаграмима, у једној документационој јединици;</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav5">
+						<content>
+							<p>Ц, на коме се региструју сви остали покретни налази;</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav6">
+						<content>
+							<p>Д, на коме се региструју све опеке истог типа, димензија, особина, у једној документационој јединици;</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav7">
+						<content>
+							<p>Д-1, Д-2 и Д-3, на којима се региструје резултат синтетичке и статичке анализе опека с дијаграмима;</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav8">
+						<content>
+							<p>Е, на коме се региструју подаци о прикупљеним узорцима и лабораторијским анализама;</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav9">
+						<content>
+							<p>Ф, који обухвата све податке о једној документационој, односно стратиграфској целини, с описом слоја, датовањем на основу нумизматичких и других налаза и археолошким инвентаром с референцом одговарајућег картона према врсти предмета или групи;</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav10">
+						<content>
+							<p>Г, који региструје податке за гробове инхумираних покојника с описом, антрополошким подацима и скицом;</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav11">
+						<content>
+							<p>Г-1, који региструје податке за гробове са спаљеним покојницима с описом, антрополошким подацима и скицом;</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav12">
+						<content>
+							<p>Ј, који региструје новац и представља нумизматички каталог;</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav13">
+						<content>
+							<p>Ј-1 и Ј-2, који региструје резултат статистичке анализе нумизматичких налаза на локалитету, с дијаграмом, и</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav14">
+						<content>
+							<p>З, који региструје музејски смештај.</p>
+						</content>
+					</clause>
+					<article id="clan2.а">
+						<num>2а</num>
+						<content>
+							<clause id="clan2.а-stav1">
+								<content>
+									<p>О археолошким рекогносцирањима која изводе научне установе или установе заштите на основу добијеног одобрења за ископавање и истраживање археолошког налазишта, у складу са законом, води се документација на Обрасцу број 4 – Картон археолошког налазишта, који садржи листове величине 29,7 х 21 цм и упутство за попуњавање картона археолошког налазишта.*</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<heading>*<ref id="ref2" href="/rs/act/2006/102/srp@">Службени гласник РС, број 102/2006</ref></heading>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Обрасци: 1; Б, Б-1, Б-2 и Б-3; Д-1, Д-2 и Д-3; Ф; Г и Г-1; Ј, Ј-1 и Ј-2 су листови величине 29,7 x 21 cm, а обрасци: А; Ц; Д; Е и З су листови величине 15 x 21 cm.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Обрасци 1 до 3 одштампани су уз овај правилник и чине његов саставни део.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav3">
+						<content>
+							<p>НАПОМЕНА ИЗДАВАЧА:</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav4">
+						<content>
+							<p>Обрасци су одштампани у „Службеном гласнику РС”, број 19/95 на стр. 602 до 615.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Даном ступања на снагу овог правилника престаје да важи Правилник о обрасцима за документацију која се води о археолошким ископавањима и истраживањима („<ref id="ref3" href="/rs/act/91/6/srp@">Службени гласник РС”, број 6/91</ref>).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Број 630-1337/95-02</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>У Београду, 19. маја 1995. године</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav5">
+						<content>
+							<p>др Нада Поповић-Перишић, с. р.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav6">
+						<content>
+							<p>ОДРЕДБЕ КОЈЕ НИСУ УНЕТЕ У „ПРЕЧИШЋЕН ТЕКСТ“ ПРАВИЛНИКА</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>Правилник о допуни Правилника о обрасцима за документацију која се води о археолошком ископавању и истраживању: „<ref id="ref4" href="/rs/act/2006/102/srp@">Службени гласник РС&quot;, број 102/2006</ref></heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Образац број 4 одштампан је уз овај правилник и чини његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије&quot;.</p>
+						</content>
+					</clause>
+					<став id="clan3-stav2">
+						<img height="808" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/b39f6953-a243-46fb-ae9b-1e1d3c7b2e14.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425378&amp;regactid=425378" width="623"/>
+						<content/>
+					</став>
+					<став id="clan3-stav3">
+						<img height="422" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/32f83fdb-b04a-49c2-ae93-91c2c68e3f1e.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425378&amp;regactid=425378" width="624"/>
+						<content/>
+					</став>
+					<став id="clan3-stav4">
+						<img height="863" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/cd4cf610-7ea8-4495-802d-4dd448599be1.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425378&amp;regactid=425378" width="581"/>
+						<content/>
+					</став>
+					<став id="clan3-stav5">
+						<img height="852" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/1c818cb0-56bb-412a-b90c-ee24fec5a9e8.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425378&amp;regactid=425378" width="624"/>
+						<content/>
+					</став>
+					<став id="clan3-stav6">
+						<img height="841" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/a7c95fb1-aa05-4ec3-9ce1-57b8d00602ce.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425378&amp;regactid=425378" width="624"/>
+						<content/>
+					</став>
+					<став id="clan3-stav7">
+						<img height="861" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/8b8c8b1b-a5b9-4ab3-821a-205fd2431011.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425378&amp;regactid=425378" width="624"/>
+						<content/>
+					</став>
+					<став id="clan3-stav8">
+						<img height="863" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/bd673660-a2ec-495d-aec3-edddefa850ae.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425378&amp;regactid=425378" width="624"/>
+						<content/>
+					</став>
+					<став id="clan3-stav9">
+						<img height="452" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/21ec4fdd-e551-4a2c-9f7c-ab7501cc2ead.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425378&amp;regactid=425378" width="624"/>
+						<content/>
+					</став>
+					<став id="clan3-stav10">
+						<img height="863" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/8b857101-9175-49cd-bd3d-7950b345577e.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425378&amp;regactid=425378" width="622"/>
+						<content/>
+					</став>
+					<став id="clan3-stav11">
+						<img height="835" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/e110378a-c543-4beb-a81e-3b2768dde442.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425378&amp;regactid=425378" width="624"/>
+						<content/>
+					</став>
+					<став id="clan3-stav12">
+						<img height="829" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/d8380b57-4396-4c98-93e0-cb8d9846e472.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425378&amp;regactid=425378" width="624"/>
+						<content/>
+					</став>
+					<став id="clan3-stav13">
+						<img height="841" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/b6f5fa19-8cba-4ecc-b74c-c2ae1bc5413c.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425378&amp;regactid=425378" width="624"/>
+						<content/>
+					</став>
+					<став id="clan3-stav14">
+						<img height="832" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/6da6d2d7-f410-4b05-aed0-96f067c175a1.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425378&amp;regactid=425378" width="624"/>
+						<content/>
+					</став>
+					<став id="clan3-stav15">
+						<img height="311" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/62edf350-ee9b-4b8b-84bb-194003c40917.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425378&amp;regactid=425378" width="624"/>
+						<content/>
+					</став>
+					<став id="clan3-stav16">
+						<img height="863" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/ec08a2fd-c28c-4bbb-bc9b-364c781e72db.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425378&amp;regactid=425378" width="579"/>
+						<content/>
+					</став>
+					<став id="clan3-stav17">
+						<img height="863" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/b7e5ceb0-246d-4373-a065-8275bc67fb36.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425378&amp;regactid=425378" width="597"/>
+						<content/>
+					</став>
+					<став id="clan3-stav18">
+						<img height="864" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/0f50f63a-19c3-4232-b336-869bbecaa043.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425378&amp;regactid=425378" width="562"/>
+						<content/>
+					</став>
+					<став id="clan3-stav19">
+						<img height="843" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/5231107d-6b68-42cf-bf33-429bab8e044d.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425378&amp;regactid=425378" width="624"/>
+						<content/>
+					</став>
+					<став id="clan3-stav20">
+						<img height="864" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/52bd5d48-f5c2-46b7-bd5b-adb3a4769759.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425378&amp;regactid=425378" width="616"/>
+						<content/>
+					</став>
+					<став id="clan3-stav21">
+						<img height="616" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/8b2622ea-94a6-4305-94fc-811f91831056.image&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=425378&amp;regactid=425378" width="623"/>
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

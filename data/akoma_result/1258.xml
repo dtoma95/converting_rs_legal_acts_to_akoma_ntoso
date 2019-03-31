@@ -1,0 +1,607 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2015/56-14/main"/>
+					<FRBRuri value="/rs/act/2015/56-14"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/94-40/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/94-40/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/94-40/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/94-40/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2015-6-26" name="службени гласник рс" number="56" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Наредба" value="наредба"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="10. Рибарство" value="10. рибарство"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2015-06-03" id="usvajanje"/>
+				<step date="2015-07-04" id="stupanje_na_snagu"/>
+				<step date="2016-01-01" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="56/2015-14" id="e1" type="generation"/>
+				<eventRef date="94/2018-40" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Наредба је ступила на снагу осмог дана од дана објављивања у ,,Службеном гласнику Републике Србије”, односно 4. јула 2015. године, а примењује се од 1. јануара 2016. године (види тачку 12. Наредбе).Наредба о изменама Наредбе о мерама за очување и заштиту рибљег фонда (<ref id="ref1" href="/rs/act/2018/94/srp@">Службени гласник РС, број 94/2018</ref>) ступила је на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 17. децембра 2018. године, а примењује се од 1. јануара 2019. године (види тачку 2. Нардбе - 94/2018-40).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу <ref>члана 23. став 2. </ref>Закона о заштити и одрживом коришћењу рибљег фонда („<ref id="ref2" href="/rs/act/14/128/srp@">Службени гласник РС”, број 128/14</ref>),</p>
+			<p>Министар пољопривреде и заштите животне средине доноси</p>
+		</preamble>
+		<preface>
+			<authority>НАРЕДБУ</authority>
+			<title>о мерама за очување и заштиту рибљег фонда</title>
+			<date>&quot;Службени гласник РС&quot;, бр. 56 од 26.      јуна 2015, 94 од 7. децембра 2018.</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Трајно се забрањује улов за следеће врсте:</heading>
+				<content>
+					<point id="od1-tac1">
+						<num>1)</num>
+						<content>
+							<p> моруна Huso huso;</p>
+						</content>
+					</point>
+					<point id="od1-tac2">
+						<num>2)</num>
+						<content>
+							<p> сим Acipenser nudiventris;</p>
+						</content>
+					</point>
+					<point id="od1-tac3">
+						<num>3)</num>
+						<content>
+							<p> паструга Acipеnser stellatus;</p>
+						</content>
+					</point>
+					<point id="od1-tac4">
+						<num>4)</num>
+						<content>
+							<p> атлантска јесетра Acipenser sturio;</p>
+						</content>
+					</point>
+					<point id="od1-tac5">
+						<num>5)</num>
+						<content>
+							<p> дунавска јесетра Acipenser gueldenstaedti;</p>
+						</content>
+					</point>
+					<clause id="od1-stav1">
+						<content>
+							<p>5a) кечига Acipenser ruthenus;</p>
+							<point id="od1-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> европска јегуља Anguilla anguilla;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> главатица Salmo marmoratus;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> дунавска харинга Alosa caspia;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> црноморска харинга Alosa immaculata;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> црнка Umbra krameri;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> светлица Telestes souffia;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac12">
+								<num>12)</num>
+								<content>
+									<p> дримски шарадан Pachychilon pictum;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac13">
+								<num>13)</num>
+								<content>
+									<p> лињак Tinca tincа;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac14">
+								<num>14)</num>
+								<content>
+									<p>златни караш Carassius carassius;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac15">
+								<num>15)</num>
+								<content>
+									<p> чиков Misgurnus fossilis;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac16">
+								<num>16)</num>
+								<content>
+									<p> све врсте рода Eudontomyzon spp.;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac17">
+								<num>17)</num>
+								<content>
+									<p> све врсте рода Lampetra spp.;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac18">
+								<num>18)</num>
+								<content>
+									<p> велики вретенар Zingel zingel;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac19">
+								<num>19)</num>
+								<content>
+									<p> мали вретенар Zingel streber;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac20">
+								<num>20)</num>
+								<content>
+									<p> балонов балавац Gymnocephalus baloni;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac21">
+								<num>21)</num>
+								<content>
+									<p> вијун Oxynoemacheilus bureschi;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac22">
+								<num>22)</num>
+								<content>
+									<p> вијуница Cobitis elongata;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac23">
+								<num>23)</num>
+								<content>
+									<p> балкански вијун Sabanejewia balcanica;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac24">
+								<num>24)</num>
+								<content>
+									<p> бугарски вијун Sabanejewia bulgarica;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac25">
+								<num>25)</num>
+								<content>
+									<p> пегунца Alburnus chalcoides;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac26">
+								<num>26)</num>
+								<content>
+									<p> источна мренка Barbus cyclolepis;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac27">
+								<num>27)</num>
+								<content>
+									<p> белка Leucaspius delineatus;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac28">
+								<num>28)</num>
+								<content>
+									<p> караманова бодорка Rutilus karamani;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac29">
+								<num>29)</num>
+								<content>
+									<p> рак речни Astacus astacus;</p>
+								</content>
+							</point>
+							<point id="od1-stav1-tac30">
+								<num>30)</num>
+								<content>
+									<p> рак поточни Austropotamobius torrentium.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="od1-stav2">
+						<content>
+							<p>*<ref id="ref3" href="/rs/act/2018/94/srp@">Службени гласник РС, број 94/2018</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Привремено се забрањује улов за следеће врсте риба, и то у периоду:</heading>
+				<content>
+					<point id="od2-tac1">
+						<num>1)</num>
+						<content>
+							<p> брисана је (види тачку 1. Наредбе      - 94/2018-40)</p>
+						</content>
+					</point>
+					<point id="od2-tac2">
+						<num>2)</num>
+						<content>
+							<p> младица Hucho hucho од 1. марта до 31. августа;</p>
+						</content>
+					</point>
+					<point id="od2-tac3">
+						<num>3)</num>
+						<content>
+							<p> поточна пастрмка Salmo trutta, дримска пастрмка Salmo farioides и македонска пастрмка Salmo macedonicus, од 1. октобра до 1. марта;</p>
+						</content>
+					</point>
+					<point id="od2-tac4">
+						<num>4)</num>
+						<content>
+							<p> липљен Thymallus thymallus од 1. марта до 31. маја;</p>
+						</content>
+					</point>
+					<point id="od2-tac5">
+						<num>5)</num>
+						<content>
+							<p> штука Esox lucius од 1. фебруара до 31. марта;</p>
+						</content>
+					</point>
+					<point id="od2-tac6">
+						<num>6)</num>
+						<content>
+							<p> буцов Aspius aspius од 15. априла до 15. јуна;</p>
+						</content>
+					</point>
+					<point id="od2-tac7">
+						<num>7)</num>
+						<content>
+							<p> шаран Cyprinus carpio од 1. априла до 31. маја;</p>
+						</content>
+					</point>
+					<point id="od2-tac8">
+						<num>8)</num>
+						<content>
+							<p> сом Silurus glanis од 1. маја до 15. јуна;</p>
+						</content>
+					</point>
+					<point id="od2-tac9">
+						<num>9)</num>
+						<content>
+							<p> смуђ Sander lucioperca и смуђ камењар Sander volgensis од 1. марта до 30. априла;</p>
+						</content>
+					</point>
+					<point id="od2-tac10">
+						<num>10)</num>
+						<content>
+							<p> мрена Barbus barbus од 15. априла до 31. маја;</p>
+						</content>
+					</point>
+					<point id="od2-tac11">
+						<num>11)</num>
+						<content>
+							<p> деверика Abramis brama од 15. априла до 31. маја;</p>
+						</content>
+					</point>
+					<point id="od2-tac12">
+						<num>12)</num>
+						<content>
+							<p> плотица Rutilus pigus од 15. априла до 31. маја;</p>
+						</content>
+					</point>
+					<point id="od2-tac13">
+						<num>13)</num>
+						<content>
+							<p> јаз Leuciscus idus од 15. априла до 31. маја;</p>
+						</content>
+					</point>
+					<point id="od2-tac14">
+						<num>14)</num>
+						<content>
+							<p> клен Squalius cephalus од 15. априла до 31. маја;</p>
+						</content>
+					</point>
+					<point id="od2-tac15">
+						<num>15)</num>
+						<content>
+							<p> скобаљ Chondrostoma nasus од 15. априла до 31. маја.</p>
+						</content>
+					</point>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Забрањује се рекреативни риболов младице, поточне пастрмке, македонске пастрмке, дримске пастрмке и липљена током целе године у времену од 21,00 до 3,00 часа у периоду летњег рачунања времена, а од 18,00 до 5,00 часова у периоду зимског рачунања времена.</heading>
+				<content>
+					<clause id="od3-stav1">
+						<content>
+							<p>Забрањује се рекреативни риболов осталих врста риба током целе године у времену од 21,00 до 3,00 часа у периоду летњег рачунања времена, а од 18,00 до 5,00 часова у периоду зимског рачунања времена, осим ако корисник рибарског подручја другачије не одреди.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Приликом обављања рекреативног и привредног риболова дозвољен је неограничен излов свих алохтоних врста: сивог толстолобика Arystichthys nobilis, белог толстолобика Hypophthalmichthys molitrix, амура Ctenopharyngodon idella, обе врсте америчког сомића Ameiurus melas и Ameiurus nebulosus, сунчице Lepomis gibbosus, амурског чебачока Pseudorasbora parva, амурског спавача Perccottus glenii, великоустог баса Micropterus salmoides, бабушке Carassius gibelio, дужичастe пастрмкe Oncorhynchus mykiss, охридске пастрмке Salmo letnica, језерске златовчица Salvelinus alpinus, поточне златовчице Salvelinus fontinalis, свих врста рода Neogobius и краткокљуног шилцета Syngnathus abaster.</heading>
+				<content/>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> Забрањује се лов и промет следећих врста чија је дужина – величина мања од наведених, и то:</heading>
+				<content>
+					<point id="od5-tac1">
+						<num>1)</num>
+						<content>
+							<p> брисана је (види тачку 1. Наредбе      - 94/2018-40)</p>
+						</content>
+					</point>
+					<point id="od5-tac2">
+						<num>2)</num>
+						<content>
+							<p> младица Hucho hucho 100 cm;</p>
+						</content>
+					</point>
+					<point id="od5-tac3">
+						<num>3)</num>
+						<content>
+							<p>поточна пастрмка Salmo trutta 25 cm;</p>
+						</content>
+					</point>
+					<point id="od5-tac4">
+						<num>4)</num>
+						<content>
+							<p>римска пастрмка Salmo farioides 25 cm;</p>
+						</content>
+					</point>
+					<point id="od5-tac5">
+						<num>5)</num>
+						<content>
+							<p> македонска пастрмка Salmo macedonicus 25 cm;</p>
+						</content>
+					</point>
+					<point id="od5-tac6">
+						<num>6)</num>
+						<content>
+							<p> липљен Thymallus thymallus 30 cm;</p>
+						</content>
+					</point>
+					<point id="od5-tac7">
+						<num>7)</num>
+						<content>
+							<p> штука Esox lucius 40 cm;</p>
+						</content>
+					</point>
+					<point id="od5-tac8">
+						<num>8)</num>
+						<content>
+							<p> мрена Barbus barbus 25 cm;</p>
+						</content>
+					</point>
+					<point id="od5-tac9">
+						<num>9)</num>
+						<content>
+							<p> поточна мрена Barbus peloponnesius 15 cm;</p>
+						</content>
+					</point>
+					<point id="od5-tac10">
+						<num>10)</num>
+						<content>
+							<p> шаран Cyprinus carpio 30 cm;</p>
+						</content>
+					</point>
+					<point id="od5-tac11">
+						<num>11)</num>
+						<content>
+							<p> деверика Abramis brama 20 cm;</p>
+						</content>
+					</point>
+					<point id="od5-tac12">
+						<num>12)</num>
+						<content>
+							<p> плотица Rutilus pigus 20 cm;</p>
+						</content>
+					</point>
+					<point id="od5-tac13">
+						<num>13)</num>
+						<content>
+							<p> јаз Leuciscus idus 20 cm;</p>
+						</content>
+					</point>
+					<point id="od5-tac14">
+						<num>14)</num>
+						<content>
+							<p> скобаљ Chondrostoma nasus 20 cm;</p>
+						</content>
+					</point>
+					<point id="od5-tac15">
+						<num>15)</num>
+						<content>
+							<p> клен Squalius cephalus 20 cm;</p>
+						</content>
+					</point>
+					<point id="od5-tac16">
+						<num>16)</num>
+						<content>
+							<p> буцов Aspius aspius 30 cm;</p>
+						</content>
+					</point>
+					<point id="od5-tac17">
+						<num>17)</num>
+						<content>
+							<p> носара Vimba vimba 15 cm;</p>
+						</content>
+					</point>
+					<point id="od5-tac18">
+						<num>18)</num>
+						<content>
+							<p> кркуше Gobio spp. 10 cm;</p>
+						</content>
+					</point>
+					<point id="od5-tac19">
+						<num>19)</num>
+						<content>
+							<p> сом Silurus glanis 60 cm;</p>
+						</content>
+					</point>
+					<point id="od5-tac20">
+						<num>20)</num>
+						<content>
+							<p> смуђ Sander lucioperca 40 cm;</p>
+						</content>
+					</point>
+					<point id="od5-tac21">
+						<num>21)</num>
+						<content>
+							<p> смуђ камењар Sander volgensis 25 cm;</p>
+						</content>
+					</point>
+					<point id="od5-tac22">
+						<num>22)</num>
+						<content>
+							<p> гргеч Perca fluviatilis 10 cm;</p>
+						</content>
+					</point>
+					<point id="od5-tac23">
+						<num>23)</num>
+						<content>
+							<p> манић Lota lota 25 cm;</p>
+						</content>
+					</point>
+					<point id="od5-tac24">
+						<num>24)</num>
+						<content>
+							<p> речна шкољка Unio pictorum 8 cm.</p>
+						</content>
+					</point>
+				</content>
+			</section>
+			<section id="od6">
+				<num>6.</num>
+				<heading> Рекреативни риболовац може дневно уловити највише 5 kg аутохтоних врста риба.</heading>
+				<content/>
+			</section>
+			<section id="od7">
+				<num>7.</num>
+				<heading> Ограничава се дневни улов рекреативног риболовца за следеће врсте риба, и то:</heading>
+				<content>
+					<point id="od7-tac1">
+						<num>1)</num>
+						<content>
+							<p> младица, један комад;</p>
+						</content>
+					</point>
+					<point id="od7-tac2">
+						<num>2)</num>
+						<content>
+							<p> манић, поточна пастрмка, македонска пастрмка, дримска пастрмка, липљен, штука, шаран, сом, смуђ, смуђ камењар и буцов, три комада збирно;</p>
+						</content>
+					</point>
+					<point id="od7-tac3">
+						<num>3)</num>
+						<content>
+							<p> плотица, јаз, скобаљ, мрена, клен и деверика, десет комада збирно.</p>
+						</content>
+					</point>
+					<clause id="od7-stav1">
+						<content>
+							<p>Ако један уловљен примерак прелази масу од 5 kg, за све аутохтонe врсте риба, не важи ограничење дневног улова у комадима, већ се у таквим случајевима сматра да је испуњен дневни улов рекреативног риболовца.</p>
+						</content>
+					</clause>
+					<clause id="od7-stav2">
+						<content>
+							<p>*<ref id="ref4" href="/rs/act/2018/94/srp@">Службени гласник РС, број 94/2018</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od8">
+				<num>8.</num>
+				<heading> Дужина рибе мери се праволинијски од врха губице до средине основе репног пераја, а дужина шкољке мери се од једне до друге ивице дуж најдуже осе љуштуре.</heading>
+				<content/>
+			</section>
+			<section id="od9">
+				<num>9.</num>
+				<heading> Риба уловљена у току ловостаја, као и примерци чија је величина мања од прописане овом наредбом мора се одмах, на месту улова, вратити у риболовну воду са што мање оштећења.</heading>
+				<content/>
+			</section>
+			<section id="od10">
+				<num>10.</num>
+				<heading> Одредбе ове наредбе не односе се на рибу која је произведена у рибњацима и на рибу која је увезена.</heading>
+				<content/>
+			</section>
+			<section id="od11">
+				<num>11.</num>
+				<heading> Даном почетка примене ове наредбе престаје да важи Наредба о мерама за очување и заштиту рибљег фонда (<ref id="ref5" href="/rs/act/09/104/srp@">,,Службени гласник РС”, бр. 104/09</ref> и 49/10).</heading>
+				<content/>
+			</section>
+			<section id="od12">
+				<num>12.</num>
+				<heading> Ова наредба ступа на снагу осмог дана од дана објављивања у ,,Службеном гласнику Републике Србије”, а примењује се од 1. јануара 2016. године.</heading>
+				<content>
+					<clause id="od12-stav1">
+						<content>
+							<p>Број 110-00-100/2015-17</p>
+						</content>
+					</clause>
+					<clause id="od12-stav2">
+						<content>
+							<p>У Београду, 3. јуна 2015. године</p>
+						</content>
+					</clause>
+					<clause id="od12-stav3">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="od12-stav4">
+						<content>
+							<p>проф. др Снежана Богосављевић Бошковић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

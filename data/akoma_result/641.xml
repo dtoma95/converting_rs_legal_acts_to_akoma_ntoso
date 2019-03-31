@@ -1,0 +1,305 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2010/81-3/main"/>
+					<FRBRuri value="/rs/act/2010/81-3"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2010/81-3/srp@/main"/>
+					<FRBRuri value="/rs/act/2010/81-3/srp@"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2010/81-3/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2010/81-3/srp@.akn"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2010-11-5" name="службени гласник рс“" number="81" showAs="Службени гласник РС“"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Уредба" value="уредба"/>
+				<keyword id="oblast" showAs="X ДОБРА ОД ОПШТЕГ ИНТЕРЕСА И ЖИВОТНА СРЕДИНА" value="x добра од општег интереса и животна средина"/>
+				<keyword id="grupa" showAs="3. Ваздух" value="3. ваздух"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2010-10-28" id="usvajanje"/>
+				<step date="2010-11-13" id="stupanje_na_snagu"/>
+				<step date="2010-11-13" id="primena"/>
+			</workflow>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Уредба је ступила на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”, односно 13. новембра 2010. године (види <ref>члан 8. </ref>Уредбе).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 50. став 10. </ref>Закона о заштити ваздуха („<ref id="ref4" href="/rs/act/09/36/srp@">Службени гласник РС”, број 36/09</ref>) и <ref>члана 42. став 1. </ref>Закона о Влади („<ref id="ref5" href="/rs/act/05/55/srp@">Службени гласник РС”, бр. 55/05, 71/05</ref> – исправка, 101/07 и 65/08),</p>
+		</preamble>
+		<preface>
+			<authority>Влада доноси</authority>
+			<title>УРЕДБУ</title>
+			<title>о методологији прикупљања података за Национални инвентар емисијe гасова са ефектом стаклене баште</title>
+			<date>„Службени гласник РС“, број 81 од 5. новембра 2010.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овом уредбом прописује се методологија прикупљања података за Национални инвентар емисије гасова са ефектом стаклене баште (у даљем тексту: Инвентар).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Поједини изрази употребљени у овој уредби имају следеће значење:</p>
+							<point id="clan2-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> антропогене емисије јесу емисије које настају као последица људских активности;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> понори гасова са ефектом стаклене баште јесте процес, активност или механизам којим се из атмосфере уклањају гасови са ефектом стаклене баште, аеросоли или претходници гасова са ефектом стаклене баште, нпр. биљке процесом фотосинтезе;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> податак о активностима јесте бројна вредност која даје укупну количину производа, потрошеног енергента или сировине или количину обављеног посла за одређену делатност, а користи се у прорачуну емисија гасова са ефектом стаклене баште;</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> директни гасови са ефектом стаклене баште јесу гасовити састојци атмосфере који су основни предмет Оквирне конвенције УН о промени климе (у даљем тексту: Конвенција) и обухватају: угљен диоксид (CO2), метан (CH4), азот субоксид (N2O), флуороугљоводоникe (једињења HFC), перфлуороугљоводоникe (једињења PFC), сумпор хексафлуорид (SF6);</p>
+								</content>
+							</point>
+							<point id="clan2-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> индиректни гасови са ефектом стаклене баште јесу гасовити састојци атмосфере који се још називају и прекурсори озона, сулфата или аеросола, а који својим деловањем у атмосфери имају позитивне или негативне утицаје на ублажавање климатских промена и обухватају: азотне оксиде (NOx), сумпор диоксид (SO2), неметанска лакоиспарљива органска једињења (NMVOC), угљен моноксид (CO).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Прикупљање података за Инвентар се врши ради систематског евидентирања и достављања података неопходних за извештавање о антропогеним емисијама из извора и уклањања помоћу понора гасова са ефектом стаклене баште.</p>
+						</content>
+					</clause>
+					<clause id="clan3-stav2">
+						<content>
+							<p>Подаци који се прикупљају у Инвентар односе се на директне и индиректне гасове са ефектом стаклене баште.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Инвентар је секторски организована база података која садржи нарочито:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> прикупљене податке о активностима потребне за извештавање о свим антропогеним емисијама гасова са ефектом стаклене баште из извора, као и уклањања тих гасова помоћу понора;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> примењене емисионе факторе;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> прорачун вредности емисија и уклањања гасова са ефектом стаклене баште;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> додатне информације и претпоставке које се користе за прорачун;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> извештаје о инвентару гасова са ефектом стаклене баште.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Инвентар је саставни део информационог система заштите животне средине Републике Србије који води Агенција за заштиту животне средине (у даљем тексту: Агенција) у складу са законом којим се уређује заштита ваздуха.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Подаци који се прикупљају за Инвентар, у складу са Конвенцијом, сврставају се у шест категорија извора и понора гасова са ефектом стаклене баште:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> енергетика;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> индустријски процеси;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> примена растварача;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> коришћење земљишта и промене у коришћењу земљишта и шумарство;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> пољопривреда;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> управљање отпадом.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Податке у складу са овом уредбом достављају субјекти извештавања који прикупљају и/или имају податке потребне за Инвентар.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Субјекти извештавања податке достављају на прописаним обрасцима.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav3">
+						<content>
+							<p>Субјекти извештавања су државни органи и организације, јавне установе, јединице локалне самоуправе, удружења, привредни субјекти и други субјекти заштите животне средине или субјекти чији је рад у директној или индиректној вези са заштитом животне средине.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav4">
+						<content>
+							<p>Министар надлежан за послове заштите животне средине прописује обрасце из става 2. овог члана.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Субјекти извештавања податке за Инвентар достављају једном годишње, и то најкасније до 31. марта текуће године за претходну календарску годину.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Обрасци из <ref>члана 6. став 2. </ref>ове уредбе достављају се Агенцији у папирној форми, прописно потписани и оверени од стране одговорног лица и у електронској форми на е-mail адресу Агенције или на компакт диску без потписа и овере.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav3">
+						<content>
+							<p>Агенција обезбеђује достављање података за Инвентар, проверу њиховог квалитета, као и квалитета прорачуна, у складу са законом.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav4">
+						<content>
+							<p>Агенција је дужна да изради План обезбеђивања и контроле квалитета података у складу са Kонвенцијом.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav5">
+						<content>
+							<p>Агенција обезбеђује размену података и информација са субјектима извештавања, омогућавањем приступа тим подацима и информацијама путем информационог система заштите животне средине Републике Србије.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Ова уредба ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>05 број 110-7810/2010</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav3">
+						<content>
+							<p>У Београду, 28. октобра 2010. године</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav4">
+						<content>
+							<p>Влада</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav5">
+						<content>
+							<p>Председник,</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav6">
+						<content>
+							<p>др Мирко Цветковић, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2004/55-46/main"/>
+					<FRBRuri value="/rs/act/2004/55-46"/>
+					<FRBRdate date="2004" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2015/90-16/srp@/main"/>
+					<FRBRuri value="/rs/act/2015/90-16/srp@"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2015/90-16/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2015/90-16/srp@.akn"/>
+					<FRBRdate date="2015" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2004-5-21" name="службени гласник рс" number="55" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Одлука" value="одлука"/>
+				<keyword id="oblast" showAs="IV ЈАВНИ ПРИХОДИ" value="iv јавни приходи"/>
+				<keyword id="grupa" showAs="4. Јавни зајмови" value="4. јавни зајмови"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2004-05-13" id="usvajanje"/>
+				<step date="2004-05-29" id="stupanje_na_snagu"/>
+				<step date="2004-05-29" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="55/2004-46" id="e1" type="generation"/>
+				<eventRef date="122/2004-1" id="e2" type="amendment"/>
+				<eventRef date="43/2015-6" id="e3" type="amendment"/>
+				<eventRef date="90/2015-16" id="e4" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<body>
+			<clause id="stav1">
+				<content>
+					<p>На основу <ref>члана 8. став 1. </ref>Закона о регулисању обавеза Републике Србије по основу зајма за привредни развој („<ref id="ref1" href="/rs/act/04/43/srp@">Службени гласник РС”, број 43/04</ref>),</p>
+				</content>
+			</clause>
+			<clause id="stav2">
+				<content>
+					<p>Влада Републике Србије доноси</p>
+				</content>
+			</clause>
+			<clause id="stav3">
+				<content>
+					<p>ОДЛУКА</p>
+				</content>
+			</clause>
+			<clause id="stav4">
+				<content>
+					<p>о образовању   Комисије  за утврђивање висине потраживања лица која остварују права по основу уплате  девизних средстава зајма за привредни развој</p>
+				</content>
+			</clause>
+			<clause id="stav5">
+				<content>
+					<p>„Службени гласник РС”, бр. 55 од 21.  маја 2004, 122 од 12.  новембра 2004,  43 од 15. маја 2015, 90 од 30. октобра 2015.</p>
+				</content>
+			</clause>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Овом одлуком образује се Комисија за утврђивање висине потраживања лица која остварују права по основу уплате девизних средстава зајма за привредни развој (у даљем тексту: Комисија).</heading>
+				<content/>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Комисија има председника и два члана, и то:*</heading>
+				<content>
+					<point id="od2-tac1">
+						<num>1)</num>
+						<content>
+							<p> Гордана Петровић, виши саветник, Министарство финансија – Управа за  трезор, председник Комисије;*</p>
+						</content>
+					</point>
+					<point id="od2-tac2">
+						<num>2)</num>
+						<content>
+							<p> Зоран Сандић, самостални саветник, Министарство финансија – Сектор за  финансијски систем, члан;*</p>
+						</content>
+					</point>
+					<point id="od2-tac3">
+						<num>3)</num>
+						<content>
+							<p> Алма Глишић, дипломирани правник, „Београдска банка” а.д. Београд, у  стечају, члан.*</p>
+						</content>
+					</point>
+					<clause id="od2-stav1">
+						<content>
+							<p>*<ref id="ref2" href="/rs/act/2015/90/srp@">Службени гласник РС, број   90/2015</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od3">
+				<num>3.</num>
+				<heading> Комисија утврђује висину потраживања лица која остварују права по основу уплате девизних средстава зајма за привредни развој, у складу са чланом 8. Закона о регулисању обавеза Републике Србије по основу зајма за привредни развој („<ref id="ref3" href="/rs/act/04/43/srp@">Службени гласник РС”, број 43/04</ref>).</heading>
+				<content/>
+			</section>
+			<section id="od4">
+				<num>4.</num>
+				<heading> Комисија може да тражи од државних органа и организација, Народне банке Србије, банке администратора зајма за привредни развој, као и других организација податке, обавештења и извештаје који су неопходни за обављање послова из тачке 3. ове одлуке.</heading>
+				<content/>
+			</section>
+			<section id="od5">
+				<num>5.</num>
+				<heading> Стручне, административне и техничке послове за потребе Комисије обављаће Министарство финансија  – Управа за трезор, чијим се печатом оверавају акти Комисије*.</heading>
+				<content>
+					<clause id="od5-stav1">
+						<content>
+							<p>*<ref id="ref4" href="/rs/act/2015/43/srp@">Службени гласник РС, број 43/2015</ref></p>
+						</content>
+					</clause>
+				</content>
+			</section>
+			<section id="od6">
+				<num>6.</num>
+				<heading> Ова одлука ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</heading>
+				<content>
+					<clause id="od6-stav1">
+						<content>
+							<p>05 број 119-3448/2004-001</p>
+						</content>
+					</clause>
+					<clause id="od6-stav2">
+						<content>
+							<p>У Београду, 13. маја 2004. године</p>
+						</content>
+					</clause>
+					<clause id="od6-stav3">
+						<content>
+							<p>Влада Републике Србије</p>
+						</content>
+					</clause>
+					<clause id="od6-stav4">
+						<content>
+							<p>Потпредседник,</p>
+						</content>
+					</clause>
+					<clause id="od6-stav5">
+						<content>
+							<p>Мирољуб Лабус, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

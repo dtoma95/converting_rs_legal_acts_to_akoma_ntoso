@@ -1,0 +1,709 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2012/89-5/main"/>
+					<FRBRuri value="/rs/act/2012/89-5"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2012/89-5/srp@/main"/>
+					<FRBRuri value="/rs/act/2012/89-5/srp@"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2012/89-5/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2012/89-5/srp@.akn"/>
+					<FRBRdate date="2012" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2012-9-14" name="службени гласник рс" number="89" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XVI СОЦИЈАЛНО ОСИГУРАЊЕ, ЗДРАВСТВЕНА, СОЦИЈАЛНА И БОРАЧКА ЗАШТИТА" value="xvi социјално осигурање, здравствена, социјална и борачка заштита"/>
+				<keyword id="grupa" showAs="6. Трансплантације и трансфузиолошка делатност" value="6. трансплантације и трансфузиолошка делатност"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2012-07-31" id="usvajanje"/>
+				<step date="2012-09-22" id="stupanje_na_snagu"/>
+				<step date="2012-09-22" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>Неважећи акт</p>
+			<p>На основу <ref>члана 28. став 4. </ref>и <ref>члана 29. став 4. </ref>Закона о трансфузиолошкој делатности („<ref id="ref4" href="/rs/act/09/72/srp@">Службени гласник РС”, брoj 72/09</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар здравља доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>o систему праћења, начину означавања и другим питањима од значаја за идентификацију сваког појединачног узимања крви, односно појединачне јединице крви, као и о начину, поступку и садржају обрасца за пријављивање озбиљних нежељених догађаја, односно озбиљних нежељених реакција</title>
+			<date>&quot;Службени гласник РС&quot;, број 89 од 14.   септембра 2012.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>Овим правилником уређује се систем праћења, начин означавања, као и друга питања од значаја за идентификацију сваког појединачног узимања крви, односно сваке појединачне јединице крви, као и начин, поступак и садржај обрасца за пријављивање озбиљних нежељених догађаја и озбиљних нежељених реакција.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Овлашћене трансфузиолошке установе и болничке банке крви обезбеђују праћење крви и компонената крви путем прецизних поступака идентификације и одговарајућег система означавања.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Систем праћења који се примењује омогућава улажење у траг крви и компонената крви од узете јединице крви даваоца до њиховог трансфундовања, припремања продуката крви и компонената крви или уништавања крви и компонената крви.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>Овлашћене трансфузиолошке установе треба да имају систем јединствене идентификације сваког даваоца, сваке прикупљене јединице крви и сваке компоненте крви, без обзира на њихову намену и без обзира на установу којој ће се крв или компонента крви испоручити.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav4">
+						<content>
+							<p>Свака овлашћена трансфузиолошка установа путем јединственог здравственог информационог система у области трансфузиолошке делатности добија јединствени идентификациони број који омогућава њено прецизно повезивање са сваком појединачном јединицом крви која је у њој прикупљена и сваком компонентом крви која је у њој произведена.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav5">
+						<content>
+							<p>За свако појединачно узимање крви и сваку прикупљену јединицу крви и компонената крви воде се подаци о:</p>
+							<point id="clan2-stav5-tac1">
+								<num>1)</num>
+								<content>
+									<p> овлашћеној трансфузиолошкој установи, и то:</p>
+									<item id="clan2-stav5-tac1-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> називу установе,</p>
+										</content>
+									</item>
+									<item id="clan2-stav5-tac1-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> адреси установе,</p>
+										</content>
+									</item>
+									<item id="clan2-stav5-tac1-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> одговорном трансфузиологу;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav5-tac2">
+								<num>2)</num>
+								<content>
+									<p> даваоцу крви;</p>
+								</content>
+							</point>
+							<point id="clan2-stav5-tac3">
+								<num>3)</num>
+								<content>
+									<p> јединици крви;</p>
+								</content>
+							</point>
+							<point id="clan2-stav5-tac4">
+								<num>4)</num>
+								<content>
+									<p> свакој компоненти крви појединачно;</p>
+								</content>
+							</point>
+							<point id="clan2-stav5-tac5">
+								<num>5)</num>
+								<content>
+									<p> датуму узимања крви и компонената крви (дан, месец, година);</p>
+								</content>
+							</point>
+							<point id="clan2-stav5-tac6">
+								<num>6)</num>
+								<content>
+									<p> датуму истека рока крви и компонената крви;</p>
+								</content>
+							</point>
+							<point id="clan2-stav5-tac7">
+								<num>7)</num>
+								<content>
+									<p> установама којима се дистрибуирају јединице крви и компоненате крви, и то:</p>
+									<item id="clan2-stav5-tac7-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> називу установе,</p>
+										</content>
+									</item>
+									<item id="clan2-stav5-tac7-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> адреси установе,</p>
+										</content>
+									</item>
+									<item id="clan2-stav5-tac7-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> име и презиме одговорног трансфузиолога;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan2-stav5-tac8">
+								<num>8)</num>
+								<content>
+									<p> уништавању јединица крви и компонената крви.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Овлашћене трансфузиолошке установе и болничке банке крви означавају сваку примљену јединицу крви и све примљене компоненте крви, као и коначно одредиште сваке примљене јединице крви, било да се она трансфундује, уништава или враћа овлашћеној трансфузиолошкој установи или болничкој банци крви из које је добијена, тако што о свакој примљеној крви и компоненти крви, поред података из <ref>члана 2. став 5. овог</ref> правилника, воде податке о:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> произвођачу компоненте крви,</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> лицу које је издало крв и компоненте крви,</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> издатој јединици крви,</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> примаоцу трансфузије,</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> накнадном уништавању јединице крви које нису трансфундоване,</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> датуму трансфузије или уништавања (дан, месец, година),</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> броју дистрибуције, односно отпремнице јединице крви или компоненте крви.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Овлашћена трансфузиолошка установа и болничка банка крви успоставља поступак верификације за сваку издату јединицу крви и компоненте крви за трансфузију.</p>
+						</content>
+					</clause>
+					<clause id="clan4-stav2">
+						<content>
+							<p>Верификација из става 1. овог члана означава последњу проверу пре издавања јединице крви или компоненте крви и то усаглашавање индентификације захтева за трансфузију крви или компоненте крви за болесника и индентификације припремљене јединице крви или компоненте крви.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Овлашћена трансфузиолошка установа и болничка банка крви пријављује озбиљне нежељене реакције, односно озбиљне нежељене догађаје у складу са законом.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav2">
+						<content>
+							<p>Надлежни доктор медицине који је приликом употребе крви или компонената крви уочио озбиљну нежељену реакцију, односно озбиљни нежељени догађај дужан је да о томе одмах обавести болничку трансфузиолошку комисију, која прикупља сву релевантну докуменатцију у вези са уоченом озбиљном нежељеном реакцијом, односно озбиљним нежељеним догађајем.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav3">
+						<content>
+							<p>Болничка трансфузиолошка комисија, на основу прикупљене документације и прелиминарно изведеног закључка о узроку озбиљне нежељене реакције, односно озбиљног нежељеног догађаја доставља истог дана министарству надлежном за послове здравља и заводу, односно институту за трансфузију крви основаним за територију Републике Србије обавештење о озбиљној нежељеној реакцији, односно озбиљном нежељеном догађају са пратећом документацијом као и извештај о узроку озбиљне нежељене реакције, односно озбиљног нежељеног догађаја уз предлог отклањања узрока озбиљне нежељене реакције, односно озбиљног нежељеног догађаја.</p>
+						</content>
+					</clause>
+					<clause id="clan5-stav4">
+						<content>
+							<p>Болничка трансфузиолошка комисија у овлашћеним трансфузиолошким установама које обављају трансфузиолошку делатност на територији аутономне покрајине обавештење из става 3. овог члана са пратећом документацијом, као и извештај о узроку озбиљне нежељене реакције, односно озбиљног нежељеног догађаја уз предлог отклањања узрока озбиљне нежељене реакције, односно озбиљног нежељеног догађаја доставља и заводу, односно институту за трансфузију крви основаним за територију аутономне покрајине и покрајинском органу управе надлежном за послове здравља.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Обавештење из <ref>члана 5. овог</ref> правилника доставља се на обрасцу за пријављивање озбиљнe нежељенe реакције, односно обрасцу за пријављивање озбиљног нежељеног догађаја који су одштампани уз овај правилник и чине његов саставни део.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Образац за пријављивање озбиљнe нежељенe реакције садржи рубрике у које се уписују подаци о:</p>
+							<point id="clan7-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> болеснику:</p>
+									<item id="clan7-stav1-tac1-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> име и презиме,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> јединствени матични број,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> пол,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> година рођења,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> дијагноза,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> крвна група,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> претходна трудноћа,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac1-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> претходна трансфузија;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> броју протокола;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> компонентама крви, и то:</p>
+									<item id="clan7-stav1-tac3-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> произвођачу (цела крв; конц. еритроцита; конц. тромбоцита – пул; конц. тромбоцита – афереза; свеже замрзнута плазма, остало),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac3-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> броју компонената крви,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac3-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> АБО/Рх крвна група,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac3-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> додатној обради и установи у којој је рађено (смањен број леукоцита (филтрирани), опрана компонента крви, у малом волумену плазме, озрачен, број трансфундованих јединица: једна или више);</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> реакцији, и то:</p>
+									<item id="clan7-stav1-tac4-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> симтоми, односно знаци (пораст температуре (&gt;1ºЦ), језа, дрхтавица, пораст притиска, пад притиска, тахикардија, брадикардија, бол (дуж вене; у леђима; у грудима; у трбуху; главобоља), мучнина, повраћање, пролив, отежано дисање, шок, осип, свраб, жутица, хемоглобинурија, таман урин, застој бубрега),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac4-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> када се јавила (датум, у току трансфузије, до два сата, након два до седам сати, након осам до 24 сата, након (колико) дана, након (колико) месеци, након (колико) година),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac4-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> исход реакције (опоравак, трајна последица, смрт, реакција у току (накнадно јавити исход), непознато),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac4-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> лечење реакције (антипиретик, антихистаминик, кортикостероид, адреналин, диуретик, остало),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac4-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> ниво сумње повезаности реакције са трансфузијом (не, нема података, нула искључено или није вероватно, један могуће, два вероватно, три сигурно),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac4-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> да ли је реакцију изазвала трансфузија погрешне компоненте крви (да/не),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac4-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> ако да, навести где се у процесу догодила грешка,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac4-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> опис реакције односно остали важни клинички подаци;</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> испитивању узрока реакције и резултатима, и то:</p>
+									<item id="clan7-stav1-tac5-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> имунохематолошко испитивање – АБО неподударност, позитиван директни антиглобулински тест (ДАТ), позитиван индиректни антиглобулински тест (ИАТ),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac5-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> лабораторијска испитивања,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac5-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> врста реакције и опис реакције на полеђини извештаја (алергијска, анафилактоидна, анафилактички. шок, трансфузијом удружено акутно оштећење плућа (ТРАЛИ), посттрансфузијска пурпура (ПТП), трансфузијом удружена болест „калем против домаћина” (ТАГВХД), вирус хепатитиса Б (ХБВ), вирус хепатитиса Ц (ХЦВ), вирус хумане имунодефицијенције (ХИВ), остало),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac5-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> имунизација на (еритроцитне антигене, имуноглобулин А (ИгА), хумани леукоцитни антигени (ХЛА), хумани тромбоцитни антигени (ХПА), хумани нуклеарни антигени (ХНА);</p>
+										</content>
+									</item>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> имену и презимену лица који је пријавио реакцију;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> имену и презимену трансфузиолога који је евалуирао реакцију;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> називу установе;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> адреси и телефону установе;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> датуму попуњавања обрасца;</p>
+								</content>
+							</point>
+							<point id="clan7-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> потврђивању озбиљне нежељене реакције, и то:</p>
+									<item id="clan7-stav1-tac11-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> назив установе која доставља обавештење,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac11-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> идентификација обавештења,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac11-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> датум потврде (дан, месец, година),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac11-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> датум озбиљне нежељене реакције (дан, месец, година),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac11-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> потврђивање озбиљне нежељене реакције (да/не),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac11-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> ниво сумње (НА, нула до три),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac11-podtac7">
+										<num>(7)</num>
+										<content>
+											<p> промена типа озбиљне нежењене реакције (да/не),</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac11-podtac8">
+										<num>(8)</num>
+										<content>
+											<p> ако да, специфицирајте,</p>
+										</content>
+									</item>
+									<item id="clan7-stav1-tac11-podtac9">
+										<num>(9)</num>
+										<content>
+											<p> клинички исход (ако је познат – потпуни опоравак, мања последица, озбиљна последица, смрт).</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Образац за пријављивање озбиљног нежељеног догађаја садржи рубрике у које се уписују подаци о:</p>
+							<point id="clan8-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> установи која доставља обавештење;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> идентификацији обавештења;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> датуму извештаја;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac4">
+								<num>4)</num>
+								<content>
+									<p> датуму када се догодио озбиљан нежељени догађај;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac5">
+								<num>5)</num>
+								<content>
+									<p> озбиљном нежељеном догађају који може утицати на квалитет и безбедност компоненте крви због одступања у (прикупљању целе крви, прикупљању аферезом, тестирању давалаца, обради, чувању, дистрибуцији, материјалима, остало);</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac6">
+								<num>6)</num>
+								<content>
+									<p> спецификацији (грешка производа, квар опреме, људска грешка, остало);</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac7">
+								<num>7)</num>
+								<content>
+									<p> имену и презимену лица који је пријавио реакцију;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac8">
+								<num>8)</num>
+								<content>
+									<p> називу установе;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac9">
+								<num>9)</num>
+								<content>
+									<p> адреси и телефону установе;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac10">
+								<num>10)</num>
+								<content>
+									<p> датуму попуњавања обрасца;</p>
+								</content>
+							</point>
+							<point id="clan8-stav1-tac11">
+								<num>11)</num>
+								<content>
+									<p> потврђивању озбиљног нежељеног догађаја, и то:</p>
+									<item id="clan8-stav1-tac11-podtac1">
+										<num>(1)</num>
+										<content>
+											<p> називу установе која доставља обавештење,</p>
+										</content>
+									</item>
+									<item id="clan8-stav1-tac11-podtac2">
+										<num>(2)</num>
+										<content>
+											<p> идентификацији обавештења,</p>
+										</content>
+									</item>
+									<item id="clan8-stav1-tac11-podtac3">
+										<num>(3)</num>
+										<content>
+											<p> датум потврђивања,</p>
+										</content>
+									</item>
+									<item id="clan8-stav1-tac11-podtac4">
+										<num>(4)</num>
+										<content>
+											<p> датум када се догодио озбиљан нежељени догађај,</p>
+										</content>
+									</item>
+									<item id="clan8-stav1-tac11-podtac5">
+										<num>(5)</num>
+										<content>
+											<p> детаљна анализа узрока (детаљи),</p>
+										</content>
+									</item>
+									<item id="clan8-stav1-tac11-podtac6">
+										<num>(6)</num>
+										<content>
+											<p> предузете коретктивне мере (детаљи).</p>
+										</content>
+									</item>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav2">
+						<content>
+							<p>Број 110-00-5/2012-01</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav3">
+						<content>
+							<p>У Београду, 31. јула 2012. године</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav4">
+						<content>
+							<p>Министар,</p>
+						</content>
+					</clause>
+					<clause id="clan9-stav5">
+						<content>
+							<p>проф. др   Славица Ђукић Дејановић, с.р.</p>
+						</content>
+					</clause>
+					<став id="clan9-stav6">
+						<img border="0" height="877" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/1.htm7.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=422642&amp;regactid=422642" width="685"/>
+						<content/>
+					</став>
+					<став id="clan9-stav7">
+						<img border="0" height="842" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/2.htm8.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=422642&amp;regactid=422642" width="690"/>
+						<content/>
+					</став>
+					<став id="clan9-stav8">
+						<img border="0" height="758" src="http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/slike/3.htm9.gif&amp;doctype=reg&amp;abc=cba&amp;eli=true&amp;eliActId=422642&amp;regactid=422642" width="672"/>
+						<content/>
+					</став>
+				</content>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

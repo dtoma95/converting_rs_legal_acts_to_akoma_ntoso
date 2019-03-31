@@ -1,0 +1,3056 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2013/103-10/main"/>
+					<FRBRuri value="/rs/act/2013/103-10"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2013/103-10/srp@/main"/>
+					<FRBRuri value="/rs/act/2013/103-10/srp@"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2013/103-10/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2013/103-10/srp@.akn"/>
+					<FRBRdate date="2013" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2013-11-26" name="службени гласник рс" number="103" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Пословник" value="пословник"/>
+				<keyword id="oblast" showAs="I ДРЖАВНО УРЕЂЕЊЕ" value="i државно уређење"/>
+				<keyword id="grupa" showAs="9. Уставни суд" value="9. уставни суд"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2013-11-19" id="usvajanje"/>
+				<step date="2013-12-04" id="stupanje_na_snagu"/>
+				<step date="2013-12-04" id="primena"/>
+			</workflow>
+		</meta>
+		<preamble>
+			<p>На основу <ref>члана 10. </ref>Закона о Уставном суду („<ref id="ref15" href="/rs/act/07/109/srp@">Службени гласник РС”, бр. 109/07, 99/11</ref> и 18/13 – Одлука УС),</p>
+			<p>Уставни суд, на седници одржаној 14. новембра 2013. године, донео је</p>
+		</preamble>
+		<preface>
+			<authority>ПОСЛОВНИК</authority>
+			<title>о раду Уставног суда</title>
+			<date>&quot;Службени гласник РС&quot;, број 103 од 26. новембра 2013.</date>
+		</preface>
+		<body>
+			<chapter id="gla1">
+				<num>I</num>
+				<heading>ОСНОВНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla1-clan1">
+						<num>1.</num>
+						<heading>Предмет Пословника</heading>
+						<content>
+							<clause id="gla1-clan1-stav1">
+								<content>
+									<p>Овим пословником се ближе уређује организација, начин рада, поступање и друга питања од значаја за рад Уставног суда (у даљем тексту: Суд).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan2">
+						<num>2.</num>
+						<heading>Обележја Суда</heading>
+						<content>
+							<clause id="gla1-clan2-stav1">
+								<content>
+									<p>Седиште Суда је у Београду.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav2">
+								<content>
+									<p>Назив и седиште Суда истичу се на видном месту судске зграде.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav3">
+								<content>
+									<p>Застава и грб Републике Србије истичу се у просторијама Суда, у складу са законом и актом Суда.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav4">
+								<content>
+									<p>Суд има печат, у складу са законом.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan2-stav5">
+								<content>
+									<p>Суд има знак (лого), чији се облик, садржина и начин употребе уређују актом Суда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan3">
+						<num>3.</num>
+						<heading>Јавност рада Суда</heading>
+						<content>
+							<clause id="gla1-clan3-stav1">
+								<content>
+									<p>Рад Суда је јаван, у складу са Законом о Уставном суду (у даљем тексту: Закон) и овим пословником.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan4">
+						<num>4.</num>
+						<heading>Забрана изношења у јавност података о уставносудском предмету</heading>
+						<content>
+							<clause id="gla1-clan4-stav1">
+								<content>
+									<p>Судије и запослени у Суду не могу јавно износити своје мишљење о питању из уставносудског предмета о којем одлучује Суд, нити на други начин чинити доступним јавности податке о поступању у том предмету.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan5">
+						<num>5.</num>
+						<heading>Имунитет судије Суда</heading>
+						<content>
+							<clause id="gla1-clan5-stav1">
+								<content>
+									<p>Захтев за одобрење за одређивања притвора за судију Суда и захтев за одобрење за покретање кривичног поступка или другог поступка у коме се може изрећи казна затвора, надлежни орган подноси председнику Суда.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan5-stav2">
+								<content>
+									<p>Одобрење за одређивање притвора, односно вођење кривичног или другог поступка у коме се може изрећи казна затвора односи се само на дело поводом којег је захтев поднет.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan5-stav3">
+								<content>
+									<p>Суд одлучује о имунитету судије Суда на првој наредној седници од дана пријема захтева за одлучивање о имунитету судије.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan5-stav4">
+								<content>
+									<p>Судија Суда о чијем се имунитету расправља не може учествовати у гласању.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan5-stav5">
+								<content>
+									<p>У кривичном или другом поступку у коме је успостављен имунитет судије Суда, не теку рокови прописани за тај поступак.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan5-stav6">
+								<content>
+									<p>Непозивање судије Суда на имунитет не искључује право Суда да успостави имунитет.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan6">
+						<num>6.</num>
+						<heading>Службена легитимација</heading>
+						<content>
+							<clause id="gla1-clan6-stav1">
+								<content>
+									<p>Председник, заменик председника и судија Суда имају службену легитимацију.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan6-stav2">
+								<content>
+									<p>Облик и садржину легитимације из става 1. овог члана утврђује Суд.</p>
+								</content>
+							</clause>
+							<clause id="gla1-clan6-stav3">
+								<content>
+									<p>Службена легитимација се по престанку судијске дужности поништава.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla1-clan7">
+						<num>7.</num>
+						<heading>Службена одећа</heading>
+						<content>
+							<clause id="gla1-clan7-stav1">
+								<content>
+									<p>Председник и судија Суда имају службену одећу, чији се изглед и начин коришћења уређују актом Суда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla2">
+				<num>II</num>
+				<heading>ПРЕДСЕДНИК И СУДИЈЕ СУДА</heading>
+				<content>
+					<section id="gla2-od1">
+						<num>1.</num>
+						<heading> Председник, заменик председника и судије Суда</heading>
+						<content>
+							<subsection id="gla2-od1-podod1">
+								<num>а</num>
+								<heading> Председник Суда</heading>
+								<content>
+									<article id="gla2-od1-podod1-clan8">
+										<num>8.</num>
+										<heading>Права и дужности председника Суда</heading>
+										<content>
+											<clause id="gla2-od1-podod1-clan8-stav1">
+												<content>
+													<p>Председник Суда, поред права и дужности утврђених Законом:</p>
+													<point id="gla2-od1-podod1-clan8-stav1-tac1">
+														<num>1)</num>
+														<content>
+															<p> представља Суд пред државним органима Републике Србије, другим домаћим и међународним органима и организацијама;</p>
+														</content>
+													</point>
+													<point id="gla2-od1-podod1-clan8-stav1-tac2">
+														<num>2)</num>
+														<content>
+															<p> стара се о очувању самосталног и независног положаја Суда;</p>
+														</content>
+													</point>
+													<point id="gla2-od1-podod1-clan8-stav1-tac3">
+														<num>3)</num>
+														<content>
+															<p> организује рад Суда;</p>
+														</content>
+													</point>
+													<point id="gla2-od1-podod1-clan8-stav1-tac4">
+														<num>4)</num>
+														<content>
+															<p> одређује судије за дежурство када је то неопходно ради обављања послова из надлежности Суда;</p>
+														</content>
+													</point>
+													<point id="gla2-od1-podod1-clan8-stav1-tac5">
+														<num>5)</num>
+														<content>
+															<p> потписује опште и друге акте Суда;</p>
+														</content>
+													</point>
+													<point id="gla2-od1-podod1-clan8-stav1-tac6">
+														<num>6)</num>
+														<content>
+															<p> доноси појединачне акте, у складу са законом;</p>
+														</content>
+													</point>
+													<point id="gla2-od1-podod1-clan8-stav1-tac7">
+														<num>7)</num>
+														<content>
+															<p> одлучује о располагању финансијским средствима;</p>
+														</content>
+													</point>
+													<point id="gla2-od1-podod1-clan8-stav1-tac8">
+														<num>8)</num>
+														<content>
+															<p> разматра притужбе странака на рад Суда;</p>
+														</content>
+													</point>
+													<point id="gla2-od1-podod1-clan8-stav1-tac9">
+														<num>9)</num>
+														<content>
+															<p> одлучује о правима и дужностима државних службеника и намештеника у Стручној служби Суда, у складу са законом;</p>
+														</content>
+													</point>
+													<point id="gla2-od1-podod1-clan8-stav1-tac10">
+														<num>10)</num>
+														<content>
+															<p> одлучује у поступку јавних набавки, у складу са законом и актом Суда;</p>
+														</content>
+													</point>
+													<point id="gla2-od1-podod1-clan8-stav1-tac11">
+														<num>11)</num>
+														<content>
+															<p> одобрава службена путовања у иностранство;</p>
+														</content>
+													</point>
+													<point id="gla2-od1-podod1-clan8-stav1-tac12">
+														<num>12)</num>
+														<content>
+															<p> обавља и друге послове одређене законом, овим пословником и другим актима Суда.</p>
+														</content>
+													</point>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod1-clan8-stav2">
+												<content>
+													<p>Председник Суда може пренети заменику председника Суда одређене послове из своје надлежности.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla2-od1-podod1-clan9">
+										<num>9.</num>
+										<heading>Покретање поступка избора председника Суда</heading>
+										<content>
+											<clause id="gla2-od1-podod1-clan9-stav1">
+												<content>
+													<p>Суд доноси одлуку о покретању поступка избора председника Суда најкасније 30 дана пре истека мандата председника Суда.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod1-clan9-stav2">
+												<content>
+													<p>У случају престанка функције председника Суда пре истека периода на који је изабран, одлуку из става 1. овог члана Суд доноси на првој седници по престанку функције.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod1-clan9-stav3">
+												<content>
+													<p>Поступак из ст. 1. и 2. овог члана окончаће се најкасније у року од 30 дана од дана доношења одлуке Суда о покретању поступка.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla2-od1-podod1-clan10">
+										<num>10.</num>
+										<heading>Предлагање кандидата</heading>
+										<content>
+											<clause id="gla2-od1-podod1-clan10-stav1">
+												<content>
+													<p>Образложени предлог кандидата за председника Суда, у складу са законом, подноси се председнику Суда у писаном облику, потписан од стране предлагача.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla2-od1-podod1-clan11">
+										<num>11.</num>
+										<heading>Утврђивање листе кандидата</heading>
+										<content>
+											<clause id="gla2-od1-podod1-clan11-stav1">
+												<content>
+													<p>Суд утврђује листу кандидата за председника Суда и образује комисију за спровођење поступка гласања.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod1-clan11-stav2">
+												<content>
+													<p>Комисија из става 1. овог члана има председника и два члана који се бирају из реда судија Суда који нису кандидати за председника.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla2-od1-podod1-clan12">
+										<num>12.</num>
+										<heading>Гласање</heading>
+										<content>
+											<clause id="gla2-od1-podod1-clan12-stav1">
+												<content>
+													<p>Гласање о предложеним кандидатима за председника Суда спроводи се путем гласачких листића, заокруживањем редног броја испред имена кандидата и убацивањем листића у гласачку кутију.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod1-clan12-stav2">
+												<content>
+													<p>Комисија утврђује резултате гласања и о томе сачињава записник.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod1-clan12-stav3">
+												<content>
+													<p>Записник из става 2. овог члана доставља се председнику Суда, ради саопштавања резултата гласања на седници Суда.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla2-od1-podod1-clan13">
+										<num>13.</num>
+										<heading>Понављање поступка избора и гласања</heading>
+										<content>
+											<clause id="gla2-od1-podod1-clan13-stav1">
+												<content>
+													<p>Када је за председника Суда предложен један кандидат који не добије потребну већину гласова, поступак избора председника се понавља у целини, у року који одреди Суд.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod1-clan13-stav2">
+												<content>
+													<p>Када су за председника Суда предложена два кандидата, од којих ниједан у првом кругу гласања не добије потребну већину гласова, гласање се понавља. У другом кругу гласа се о кандидату који је у првом кругу добио већи број гласова.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod1-clan13-stav3">
+												<content>
+													<p>Када је за председника Суда предложено више од два кандидата, од којих ниједан у првом кругу гласања не добије потребну већину гласова, гласање се понавља. У другом кругу гласа се о два кандидата која су у првом кругу добила највећи број гласова, односно о кандидатима који су у првом кругу добили једнак највећи број гласова.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod1-clan13-stav4">
+												<content>
+													<p>Поновљено гласање из ст. 2. и 3. овог члана обавља се најкасније у року од седам дана од дана претходног гласања. Ако у поновљеном гласању ниједан од кандидата не добије потребну већину гласова, поступак избора председника Суда се понавља у целини.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla2-od1-podod1-clan14">
+										<num>14.</num>
+										<heading>Разрешење председника Суда</heading>
+										<content>
+											<clause id="gla2-od1-podod1-clan14-stav1">
+												<content>
+													<p>Поступак разрешења председника Суда покреће се на образложени предлог најмање троје судија и мора се спровести у року од 15 дана од дана подношења предлога.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod1-clan14-stav2">
+												<content>
+													<p>Одлука о разрешењу председника Суда доноси се већином гласова свих судија Суда.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod1-clan14-stav3">
+												<content>
+													<p>На поступак разрешења из става 1. овог члана сходно се примењују одредбе овог пословника о поступку избора председника Суда.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+								</content>
+							</subsection>
+							<subsection id="gla2-od1-podod2">
+								<num>б</num>
+								<heading> Заменик председника Суда</heading>
+								<content>
+									<article id="gla2-od1-podod2-clan15">
+										<num>15.</num>
+										<heading>Заменик председника Суда</heading>
+										<content>
+											<clause id="gla2-od1-podod2-clan15-stav1">
+												<content>
+													<p>Заменик председника Суда замењује председника Суда у случају спречености или одсутности.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod2-clan15-stav2">
+												<content>
+													<p>Заменик председника Суда врши функцију председника Суда и у случају кад председник Суда није изабран.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod2-clan15-stav3">
+												<content>
+													<p>Када заменик председника Суда није изабран, односно када је одсутан или спречен да замењује председника Суда, дужности из ст. 1. и 2. овог члана обавља најстарији судија Суда.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla2-od1-podod2-clan16">
+										<num>16.</num>
+										<heading>Избор и разрешење заменика председника Суда</heading>
+										<content>
+											<clause id="gla2-od1-podod2-clan16-stav1">
+												<content>
+													<p>На избор и разрешење заменика председника Суда сходно се примењују одредбе овог пословника о избору и разрешењу председника Суда.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+								</content>
+							</subsection>
+							<subsection id="gla2-od1-podod3">
+								<num>в</num>
+								<heading> Судија Суда</heading>
+								<content>
+									<article id="gla2-od1-podod3-clan17">
+										<num>17.</num>
+										<heading>Судија Суда</heading>
+										<content>
+											<clause id="gla2-od1-podod3-clan17-stav1">
+												<content>
+													<p>Судија Суда:</p>
+													<point id="gla2-od1-podod3-clan17-stav1-tac1">
+														<num>1)</num>
+														<content>
+															<p> учествује у раду и одлучивању Суда, већа и радних тела Суда чији је члан;</p>
+														</content>
+													</point>
+													<point id="gla2-od1-podod3-clan17-stav1-tac2">
+														<num>2)</num>
+														<content>
+															<p> известилац је и предлагач одлуке у предмету у којем је одређен за судију известиоца;</p>
+														</content>
+													</point>
+													<point id="gla2-od1-podod3-clan17-stav1-tac3">
+														<num>3)</num>
+														<content>
+															<p> предлаже текст одлуке за Редакциону комисију у предмету у којем је био судија известилац;</p>
+														</content>
+													</point>
+													<point id="gla2-od1-podod3-clan17-stav1-tac4">
+														<num>4)</num>
+														<content>
+															<p> предлаже покретање поступка за оцењивање уставности и законитости;</p>
+														</content>
+													</point>
+													<point id="gla2-od1-podod3-clan17-stav1-tac5">
+														<num>5)</num>
+														<content>
+															<p> предлаже да Суд поново размотри, односно преиспита донету одлуку, у складу са овим пословником;</p>
+														</content>
+													</point>
+													<point id="gla2-od1-podod3-clan17-stav1-tac6">
+														<num>6)</num>
+														<content>
+															<p> прибавља стручна мишљења о питањима од значаја за обраду предмета;</p>
+														</content>
+													</point>
+													<point id="gla2-od1-podod3-clan17-stav1-tac7">
+														<num>7)</num>
+														<content>
+															<p> прати и проучава појаве од интереса за остваривање уставности и законитости;</p>
+														</content>
+													</point>
+													<point id="gla2-od1-podod3-clan17-stav1-tac8">
+														<num>8)</num>
+														<content>
+															<p> обавља и друге послове од значаја за рад и одлучивање Суда.</p>
+														</content>
+													</point>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla2-od1-podod3-clan18">
+										<num>18.</num>
+										<heading>Поступак за разрешење судије Суда</heading>
+										<content>
+											<clause id="gla2-od1-podod3-clan18-stav1">
+												<content>
+													<p>Председник Суда заказује седницу Суда за утврђивање испуњености услова за разрешење судије Суда, у року од седам дана од дана пријема захтева овлашћеног предлагача за избор, односно именовање судије.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod3-clan18-stav2">
+												<content>
+													<p>Ако је покренут поступак за разрешење судије који је председник Суда, седницу из става 1. овог члана заказује и њоме руководи заменик председника Суда.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod3-clan18-stav3">
+												<content>
+													<p>За седницу из става 1. овог члана затражиће се писмено изјашњење судије Суда у односу на кога је покренут поступак разрешења.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod3-clan18-stav4">
+												<content>
+													<p>Ради прибављања потребне документације, података и обавештења од значаја за одлучивање о испуњености услова за разрешење судије, Суд може образовати посебну комисију. Актом о образовању комисије утврђују се састав, задаци комисије и рокови за њихово извршење.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod3-clan18-stav5">
+												<content>
+													<p>Суд не може донети одлуку о испуњености услова за разрешење пре него што се судији Суда омогући изјашњење. Уколико се судија не изјасни у остављеном року, Суд ће наставити поступак.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod3-clan18-stav6">
+												<content>
+													<p>У доношењу одлуке о испуњености услова за разрешење судије Суда не учествује судија у односу на кога је покренут поступак за разрешење.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod3-clan18-stav7">
+												<content>
+													<p>Одлука Суда о испуњености услова за разрешење судије Суда доставља се овлашћеном предлагачу, Народној скупштини и судији у односу на кога је покренут поступак за разрешење.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla2-od1-podod3-clan19">
+										<num>19.</num>
+										<heading>Иницијатива за покретање поступка за разрешење судије Суда</heading>
+										<content>
+											<clause id="gla2-od1-podod3-clan19-stav1">
+												<content>
+													<p>Иницијативу за покретање поступка за разрешење судије Суда може да поднесе Суд.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod3-clan19-stav2">
+												<content>
+													<p>Образложен предлог за подношење иницијативе из става 1. овог члана, у писаном облику, могу дати председник, радно тело или најмање троје судија Суда.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod3-clan19-stav3">
+												<content>
+													<p>О предлогу из става 2. овог члана Суд одлучује најкасније у року од 30 дана од дана подношења предлога.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+									<article id="gla2-od1-podod3-clan20">
+										<num>20.</num>
+										<heading>Удаљење судије Суда</heading>
+										<content>
+											<clause id="gla2-od1-podod3-clan20-stav1">
+												<content>
+													<p>У току поступка за утврђивање испуњености услова за разрешење, Суд може донети одлуку о удаљењу судије Суда са дужности.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod3-clan20-stav2">
+												<content>
+													<p>У доношењу одлуке о удаљењу не учествује судија Суда чије је удаљење предложено.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod3-clan20-stav3">
+												<content>
+													<p>На заказивање и руковођење седницом на којој се одлучује о удаљењу председника Суда сходно се примењује одредба <ref>члана 18. став 2. овог</ref> пословника.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod3-clan20-stav4">
+												<content>
+													<p>Ако Суд утврди да нису испуњени услови за разрешење судије Суда, опозваће одлуку о удаљењу судије.</p>
+												</content>
+											</clause>
+											<clause id="gla2-od1-podod3-clan20-stav5">
+												<content>
+													<p>Ако Суд утврди да су испуњени услови за разрешење судије Суда, одлука о удаљењу судије остаје на снази до доношења одлуке о разрешењу судије.</p>
+												</content>
+											</clause>
+										</content>
+									</article>
+								</content>
+							</subsection>
+						</content>
+					</section>
+				</content>
+			</chapter>
+			<chapter id="gla3">
+				<num>III</num>
+				<heading>СТРУЧНА СЛУЖБА СУДА</heading>
+				<content>
+					<тачка id="gla3-clan20-tac1">
+						<num>1.</num>
+						<content>
+							<p> Секретар и заменик секретара Суда</p>
+						</content>
+					</тачка>
+					<article id="gla3-clan21">
+						<num>21.</num>
+						<heading>Секретар Суда</heading>
+						<content>
+							<clause id="gla3-clan21-stav1">
+								<content>
+									<p>Секретар Суда:</p>
+									<point id="gla3-clan21-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> руководи радом Стручне службе Суда и одговоран је за њен рад;</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> помаже председнику Суда у организовању и припремању седнице Суда и Великог већа;</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> стара се о изради и достављању материјала потребних за рад и одлучивање Суда и његових већа и радних тела;</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> стара се и одговоран је за извршавање закључака Суда;</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> стара се о примени закона и овог пословника у оквиру својих овлашћења;</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> припрема предлог плана рада Суда и прати извршавање плана рада и о томе извештава Суд;</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac7">
+										<num>7)</num>
+										<content>
+											<p> припрема годишњи преглед рада Суда;</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac8">
+										<num>8)</num>
+										<content>
+											<p> припрема предлог буџета Суда и предлог кадровског плана Суда;</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac9">
+										<num>9)</num>
+										<content>
+											<p> стара се о припреми и извршењу аката о финансијском пословању Суда;</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac10">
+										<num>10)</num>
+										<content>
+											<p> стара се о обезбеђењу и унапређењу услова за рад Суда;</p>
+										</content>
+									</point>
+									<point id="gla3-clan21-stav1-tac11">
+										<num>11)</num>
+										<content>
+											<p> обавља и друге послове у складу са законом и актима Суда, као и послове по налогу, односно овлашћењу председника Суда.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan22">
+						<num>22.</num>
+						<heading>Заменик секретара Суда</heading>
+						<content>
+							<clause id="gla3-clan22-stav1">
+								<content>
+									<p>Секретар Суда има заменика.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan22-stav2">
+								<content>
+									<p>Заменик секретара Суда замењује секретара у случају спречености или одсутности и обавља друге послове утврђене актом Суда, као и друге послове по налогу, односно овлашћењу председника Суда и секретара Суда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan23">
+						<num>23.</num>
+						<heading>Постављење и разрешење секретара и заменика секретара Суда</heading>
+						<content>
+							<clause id="gla3-clan23-stav1">
+								<content>
+									<p>Суд, у складу са законом, поставља и разрешава секретара и заменика секретара суда, већином гласова свих судија Суда.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan23-stav2">
+								<content>
+									<p>Иницијативу за покретање поступка за разрешење секретара, односно заменика секретара Суда може поднети председник, радно тело или судија Суда.</p>
+									<тачка id="gla3-clan23-stav2-tac2">
+										<num>2.</num>
+										<content>
+											<p> Стручна служба Суда</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan24">
+						<num>24.</num>
+						<heading>Послови Стручне службе</heading>
+						<content>
+							<clause id="gla3-clan24-stav1">
+								<content>
+									<p>У Стручној служби Суда обављају се послови стручне обраде уставноправних питања из надлежности Суда и други са њима повезани послови, као и правни, финансијски, административни и други општи послови за потребе Суда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan25">
+						<num>25.</num>
+						<heading>Организација Стручне службе</heading>
+						<content>
+							<clause id="gla3-clan25-stav1">
+								<content>
+									<p>Унутрашња организација Стручне службе уређује се актом Суда.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan25-stav2">
+								<content>
+									<p>У оквиру Стручне службе постоје основне организационе јединице.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan25-stav3">
+								<content>
+									<p>У оквиру основних организационих јединица Стручне службе могу се образовати уже организационе јединице, у складу са актом Суда.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan25-stav4">
+								<content>
+									<p>Основним организационим јединицама из става 2. овог члана руководе државни службеници на положају.</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan25-stav5">
+								<content>
+									<p>Актом Суда утврђује се које послове из делокруга Стручне службе, у складу са законом, обављају државни службеници на положају.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla3-clan26">
+						<num>26.</num>
+						<heading>Обрађивач предмета</heading>
+						<content>
+							<clause id="gla3-clan26-stav1">
+								<content>
+									<p>Стручну обраду предмета из надлежности Суда, у складу са овим пословником, врши државни службеник у Стручној служби Суда (у даљем тексту: обрађивач предмета).</p>
+								</content>
+							</clause>
+							<clause id="gla3-clan26-stav2">
+								<content>
+									<p>Обрађивач предмета:</p>
+									<point id="gla3-clan26-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> учествује у предузимању радњи у претходном поступку пред Судом;</p>
+										</content>
+									</point>
+									<point id="gla3-clan26-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> учествује у изради предлога одлуке;</p>
+										</content>
+									</point>
+									<point id="gla3-clan26-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> припрема текст одлуке који одобрава судија известилац;</p>
+										</content>
+									</point>
+									<point id="gla3-clan26-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> учествује у раду сталних и повремених радних тела Суда;</p>
+										</content>
+									</point>
+									<point id="gla3-clan26-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> самостално води поступак по поднесцима из <ref>члана 102. овог</ref> пословника;</p>
+										</content>
+									</point>
+									<point id="gla3-clan26-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> обавља и друге стручне послове утврђене актом Суда.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla4">
+				<num>IV</num>
+				<heading>ДЕЛОКРУГ И ОБЛИЦИ РАДА СУДА</heading>
+				<content>
+					<article id="gla4-clan27">
+						<num>27.</num>
+						<heading>Делокруг Суда</heading>
+						<content>
+							<clause id="gla4-clan27-stav1">
+								<content>
+									<p>О питањима из своје Уставом утврђене надлежности Суд одлучује на начин уређен Законом.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan27-stav2">
+								<content>
+									<p>Поред одлучивања о питањима из става 1. овог члана, Суд, на седници, у складу са Законом и другим законом:</p>
+									<point id="gla4-clan27-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> доноси опште акте из своје надлежности;</p>
+										</content>
+									</point>
+									<point id="gla4-clan27-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> доноси периодичне планове рада Суда и усваја годишњи преглед рада Суда;</p>
+										</content>
+									</point>
+									<point id="gla4-clan27-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> одлучује о броју малих већа, образује стална и повремена радна тела Суда и бира председнике и чланове сталних и повремених радних тела и одређује њихове секретаре;</p>
+										</content>
+									</point>
+									<point id="gla4-clan27-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> одлучује о успостављању сарадње са другим уставним судовима и међународним организацијама;</p>
+										</content>
+									</point>
+									<point id="gla4-clan27-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> утврђује коначан предлог буџета Суда, доноси план извршења буџета, годишњи извештај о извршењу буџета и план јавних набавки;</p>
+										</content>
+									</point>
+									<point id="gla4-clan27-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> доноси одлуку о интерној контроли извршења буџета Суда;</p>
+										</content>
+									</point>
+									<point id="gla4-clan27-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> доноси акт о разврставању радних места и послова у Стручној служби Суда и одређивању положаја;</p>
+										</content>
+									</point>
+									<point id="gla4-clan27-stav2-tac8">
+										<num>8)</num>
+										<content>
+											<p> доноси правилник о унутрашњем уређењу и систематизацији радних места у Стручној служби Суда;</p>
+										</content>
+									</point>
+									<point id="gla4-clan27-stav2-tac9">
+										<num>9)</num>
+										<content>
+											<p> доноси програм стручног усавршавања запослених у Стручној служби Суда;</p>
+										</content>
+									</point>
+									<point id="gla4-clan27-stav2-tac10">
+										<num>10)</num>
+										<content>
+											<p> доноси кодекс понашања државних службеника и правила о унутрашњем реду у Суду;</p>
+										</content>
+									</point>
+									<point id="gla4-clan27-stav2-tac11">
+										<num>11)</num>
+										<content>
+											<p> одлучује о правима, обавезама и одговорностима председника, заменика председника и судија Суда, у складу са Уставом и законом;</p>
+										</content>
+									</point>
+									<point id="gla4-clan27-stav2-tac12">
+										<num>12)</num>
+										<content>
+											<p> поставља секретара и заменика секретара Суда, као и друге државне службенике на положају у Стручној служби Суда;</p>
+										</content>
+									</point>
+									<point id="gla4-clan27-stav2-tac13">
+										<num>13)</num>
+										<content>
+											<p> одлучује о правима, обавезама и одговорностима државних службеника на положају у Стручној служби Суда, у складу са законом;</p>
+										</content>
+									</point>
+									<point id="gla4-clan27-stav2-tac14">
+										<num>14)</num>
+										<content>
+											<p> доноси акт о означавању уставносудских предмета;</p>
+										</content>
+									</point>
+									<point id="gla4-clan27-stav2-tac15">
+										<num>15)</num>
+										<content>
+											<p> именује председника и чланове жалбене комисије Суда;</p>
+										</content>
+									</point>
+									<point id="gla4-clan27-stav2-tac16">
+										<num>16)</num>
+										<content>
+											<p> одлучује о другим питањима утврђеним законом, овим пословником и другим актима Суда.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan28">
+						<num>28.</num>
+						<heading>Облици рада Суда</heading>
+						<content>
+							<clause id="gla4-clan28-stav1">
+								<content>
+									<p>Рад Суда одвија се на седници Суда, седници Великог већа, седници Малог већа и седници радног тела Суда.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan28-stav2">
+								<content>
+									<p>По претходно прибављеном мишљењу седнице Суда, председник Суда одређује годишњим распоредом послова судије које чине Велико и Мало веће, председника Малог већа и судије које их замењују у случају одсутности са седнице.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan28-stav3">
+								<content>
+									<p>Суд образује комисије као стална радна тела (у даљем тексту: сталне комисије).</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan28-stav4">
+								<content>
+									<p>Суд образује и одборе за уставне жалбе као стална радна тела.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan28-stav5">
+								<content>
+									<p>Суд може да образује и повремена радна тела.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan29">
+						<num>29.</num>
+						<heading>Остваривање јавности рада Суда</heading>
+						<content>
+							<clause id="gla4-clan29-stav1">
+								<content>
+									<p>Јавност рада Суда остварује се нарочито:</p>
+									<point id="gla4-clan29-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> објављивањем одлуке Суда у „Службеном гласнику Републике Србије”;</p>
+										</content>
+									</point>
+									<point id="gla4-clan29-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> издавањем билтена одлука Суда;</p>
+										</content>
+									</point>
+									<point id="gla4-clan29-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> објављивањем на интернет страници Суда дневног реда седница, времена одржавања јавне расправе, одлука и уставносудске праксе, као и важнијих података везаних за рад Суда;</p>
+										</content>
+									</point>
+									<point id="gla4-clan29-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> присуством акредитованих представника средстава јавног обавештавања јавној расправи у Суду;</p>
+										</content>
+									</point>
+									<point id="gla4-clan29-stav1-tac5">
+										<num>5)</num>
+										<content>
+											<p> достављањем службеног обавештења средствима јавног обавештавања;</p>
+										</content>
+									</point>
+									<point id="gla4-clan29-stav1-tac6">
+										<num>6)</num>
+										<content>
+											<p> одржавањем конференције за представнике средстава јавног обавештавања.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="gla4-clan29-stav2">
+								<content>
+									<p>Представницима средстава јавног обавештавања из става 1. тачка 4) овог члана акредитив издаје секретар Суда, а о месту и времену одржавања јавне расправе обавештавају се преко интернет странице Суда или на други начин.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan29-stav3">
+								<content>
+									<p>О одлукама које имају шири друштвени и правни значај, Суд даје саопштења за јавност, а у случају да је информација о одлуци, односно раду неистинито, непотпуно или нетачно пренета, Суд може захтевати, у складу са законом, да се објави одговор или исправка.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan29-stav4">
+								<content>
+									<p>Конференцију за представнике средстава јавног обавештавања сазива и води председник Суда, односно други судија кога председник одреди, поводом годишњег прегледа рада Суда, као и у другим случајевима када оцени да се ради о питањима од интереса за јавност.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan30">
+						<num>30.</num>
+						<heading>Седница Суда</heading>
+						<content>
+							<clause id="gla4-clan30-stav1">
+								<content>
+									<p>На седници Суд одлучује о питањима из <ref>члана 27. овог</ref> пословника.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan30-stav2">
+								<content>
+									<p>Седница Суда одржава се у седишту Суда, по правилу, једном недељно.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan30-stav3">
+								<content>
+									<p>Седница из става 1. овог члана може се одржати и ван седишта Суда, када то Суд одлучи.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan31">
+						<num>31.</num>
+						<heading>Припремна седница</heading>
+						<content>
+							<clause id="gla4-clan31-stav1">
+								<content>
+									<p>Ради разјашњења сложених уставноправних питања, Суд може одржати припремну седницу.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan31-stav2">
+								<content>
+									<p>Припремну седницу заказује председник Суда по сопственој иницијативи, на предлог судије известиоца или по закључку Суда.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan31-stav3">
+								<content>
+									<p>За припремну седницу судија известилац припрема реферат о спорним уставноправним питањима и, по потреби, предлаже одржавање јавне расправе или консултативног састанка.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan31-stav4">
+								<content>
+									<p>На припремној седници Суд утврђује, у складу са ставом 3. овог члана, потребу одржавања јавне расправе или консултативног састанка, рок и датум одржавања и учеснике које треба позвати на јавну расправу или консултативни састанак.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan31-stav5">
+								<content>
+									<p>У раду припремне седнице учествују и секретар Суда и обрађивач предмета, а по потреби и други државни службеници.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan31-stav6">
+								<content>
+									<p>Записник са припремне седнице води записничар.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla4-clan32">
+						<num>32.</num>
+						<heading>Консултативни састанак</heading>
+						<content>
+							<clause id="gla4-clan32-stav1">
+								<content>
+									<p>Суд може да одржи консултативни састанак о питањима од значаја за одлучивање у уставносудском предмету.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan32-stav2">
+								<content>
+									<p>Консултативни састанак, на предлог судије известиоца или по сопственој иницијативи, заказује и њиме руководи председник Суда.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan32-stav3">
+								<content>
+									<p>На консултативни састанак позивају се представници органа и организација, научни, јавни и други стручни радници.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan32-stav4">
+								<content>
+									<p>Консултативном састанку, ако то Суд одлучи, могу присуствовати и учесници у поступку.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan32-stav5">
+								<content>
+									<p>Састанак из става 1. овог члана може одржати и само судија известилац, по одобрењу председника Суда.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan32-stav6">
+								<content>
+									<p>Учесницима консултативног састанка се, најкасније осам дана пре његовог одржавања, доставља писмени позив и реферат о уставноправном питању које је предмет састанка, са потребним прилозима.</p>
+								</content>
+							</clause>
+							<clause id="gla4-clan32-stav7">
+								<content>
+									<p>О току консултативног састанка се сачињава одговарајући запис, сходно одредбама <ref>члана 52. овог</ref> пословника.</p>
+									<тачка id="gla4-clan32-stav7-tac1">
+										<num>1.</num>
+										<content>
+											<p> Радна тела Суда</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<subsection id="gla4-podod1">
+						<num>а</num>
+						<heading> Стална радна тела</heading>
+						<content>
+							<article id="gla4-podod1-clan33">
+								<num>33.</num>
+								<heading>Сталне комисије</heading>
+								<content>
+									<clause id="gla4-podod1-clan33-stav1">
+										<content>
+											<p>Сталне комисије Суда су:</p>
+											<тачка id="gla4-podod1-clan33-stav1-tac1">
+												<num>1.</num>
+												<content>
+													<p> Редакциона комисија;</p>
+												</content>
+											</тачка>
+											<тачка id="gla4-podod1-clan33-stav1-tac2">
+												<num>2.</num>
+												<content>
+													<p> Комисија за праћење остваривања уставности и законитости;</p>
+												</content>
+											</тачка>
+											<тачка id="gla4-podod1-clan33-stav1-tac3">
+												<num>3.</num>
+												<content>
+													<p> Комисија за организациона и финансијска питања.</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+									<clause id="gla4-podod1-clan33-stav2">
+										<content>
+											<p>Сталне комисије Суда имају председника и три члана.</p>
+										</content>
+									</clause>
+									<clause id="gla4-podod1-clan33-stav3">
+										<content>
+											<p>Председник и чланови сталних комисија бирају се из реда судија Суда, на време од три године и по истеку тог времена могу бити поново бирани за чланове исте комисије.</p>
+										</content>
+									</clause>
+									<clause id="gla4-podod1-clan33-stav4">
+										<content>
+											<p>У случају спречености или одсутности, председника комисије замењује члан комисије по азбучном реду презимена.</p>
+										</content>
+									</clause>
+									<clause id="gla4-podod1-clan33-stav5">
+										<content>
+											<p>Секретаре сталних комисија одређује Суд из реда државних службеника на положају.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla4-podod1-clan34">
+								<num>34.</num>
+								<heading>Редакциона комисија</heading>
+								<content>
+									<clause id="gla4-podod1-clan34-stav1">
+										<content>
+											<p>Редакциона комисија:</p>
+											<point id="gla4-podod1-clan34-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> утврђује коначан текст мериторних одлука Суда, одлука које се објављују у службеним гласилима, као и других аката када то закључи Суд;</p>
+												</content>
+											</point>
+											<point id="gla4-podod1-clan34-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> изузетно од тачке 1) овог члана, не утврђује коначан текст одлука које се заснивају на заузетим ставовима Суда у идентичним чињеничним и правним ситуацијама (типски предмети) и решења из <ref>члана 46. тачка 9</ref>) и <ref>члана 88. </ref>Закона, као и других аката када то закључи Суд;</p>
+												</content>
+											</point>
+											<point id="gla4-podod1-clan34-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> предлаже Суду преиспитивање усавносудских аката пре њиховог отправљања, када оцени да за то постоје разлози;</p>
+												</content>
+											</point>
+											<point id="gla4-podod1-clan34-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> разматра питања у вези са методологијом израде аката Суда, као и издавањем билтена одлука и других публикација Суда.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla4-podod1-clan35">
+								<num>35.</num>
+								<heading>Комисија за праћење остваривања уставности и законитости</heading>
+								<content>
+									<clause id="gla4-podod1-clan35-stav1">
+										<content>
+											<p>Комисија за праћење остваривања уставности и законитости:</p>
+											<point id="gla4-podod1-clan35-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> разматра начелна питања која се односе на остваривање и заштиту уставности и законитости и у вези са тим даје предлоге Суду ради заузимања ставова и утврђивања предлога и мишљења;</p>
+												</content>
+											</point>
+											<point id="gla4-podod1-clan35-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> учествује у организовању саветовања и скупова у Суду и предлаже учешће судија Суда на саветовањима и скуповима;</p>
+												</content>
+											</point>
+											<point id="gla4-podod1-clan35-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> даје Суду предлог тумачења одредаба овог пословника.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla4-podod1-clan36">
+								<num>36.</num>
+								<heading>Комисија за организациона и финансијска питања</heading>
+								<content>
+									<clause id="gla4-podod1-clan36-stav1">
+										<content>
+											<p>Комисија за организациона и финансијска питања:</p>
+											<point id="gla4-podod1-clan36-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> прати и проучава организацију и начин рада Суда и његових радних тела и о томе даје Суду одговарајуће предлоге;</p>
+												</content>
+											</point>
+											<point id="gla4-podod1-clan36-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> утврђује предлог буџета Суда и предлог годишњег извештаја о извршењу буџета;</p>
+												</content>
+											</point>
+											<point id="gla4-podod1-clan36-stav1-tac3">
+												<num>3)</num>
+												<content>
+													<p> утврђује предлоге аката о правима, обавезама и одговорностима председника и судија Суда и државних службеника и намештеника у Стручној служби Суда;</p>
+												</content>
+											</point>
+											<point id="gla4-podod1-clan36-stav1-tac4">
+												<num>4)</num>
+												<content>
+													<p> утврђује предлог акта о разврставању радних места и послова у Стручној служби Суда и о одређивању положаја;</p>
+												</content>
+											</point>
+											<point id="gla4-podod1-clan36-stav1-tac5">
+												<num>5)</num>
+												<content>
+													<p> утврђује предлог правилника о унутрашњем уређењу и систематизацији радних места у Стручној служби Суда;</p>
+												</content>
+											</point>
+											<point id="gla4-podod1-clan36-stav1-tac6">
+												<num>6)</num>
+												<content>
+													<p> утврђује предлог програма стручног усавршавања запослених у Стручној служби Суда;</p>
+												</content>
+											</point>
+											<point id="gla4-podod1-clan36-stav1-tac7">
+												<num>7)</num>
+												<content>
+													<p> разматра предлоге за постављења државних службеника на положаје;</p>
+												</content>
+											</point>
+											<point id="gla4-podod1-clan36-stav1-tac8">
+												<num>8)</num>
+												<content>
+													<p> разматра питања техничко-технолошког унапређења рада Суда и о томе даје предлоге и мишљења Суду;</p>
+												</content>
+											</point>
+											<point id="gla4-podod1-clan36-stav1-tac9">
+												<num>9)</num>
+												<content>
+													<p> даје претходно мишљење на кадровски план;</p>
+												</content>
+											</point>
+											<point id="gla4-podod1-clan36-stav1-tac10">
+												<num>10)</num>
+												<content>
+													<p> утврђује предлог плана јавних набавки;</p>
+												</content>
+											</point>
+											<point id="gla4-podod1-clan36-stav1-tac11">
+												<num>11)</num>
+												<content>
+													<p> разматра питања која се односе на обезбеђивање других услова за рад Суда.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla4-podod1-clan37">
+								<num>37.</num>
+								<heading>Одбори за уставне жалбе</heading>
+								<content>
+									<clause id="gla4-podod1-clan37-stav1">
+										<content>
+											<p>Одбори за уставне жалбе Суда су:</p>
+											<тачка id="gla4-podod1-clan37-stav1-tac1">
+												<num>1.</num>
+												<content>
+													<p> Одбор за уставне жалбе из области грађанског права;</p>
+												</content>
+											</тачка>
+											<тачка id="gla4-podod1-clan37-stav1-tac2">
+												<num>2.</num>
+												<content>
+													<p> Одбор за уставне жалбе из области кривичног права;</p>
+												</content>
+											</тачка>
+											<тачка id="gla4-podod1-clan37-stav1-tac3">
+												<num>3.</num>
+												<content>
+													<p> Одбор за уставне жалбе из области управног права.</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+									<clause id="gla4-podod1-clan37-stav2">
+										<content>
+											<p>Суд може образовати и друге одборе за уставне жалбе, а по потреби и два одбора за исту правну област.</p>
+										</content>
+									</clause>
+									<clause id="gla4-podod1-clan37-stav3">
+										<content>
+											<p>Одбори за уставне жалбе имају председника и два члана, од којих је један заменик председника одбора.</p>
+										</content>
+									</clause>
+									<clause id="gla4-podod1-clan37-stav4">
+										<content>
+											<p>Председник и чланови одбора за уставне жалбе бирају се из реда судија Суда на време од три године и по истеку тог времена могу бити поново бирани за чланове истог одбора.</p>
+										</content>
+									</clause>
+									<clause id="gla4-podod1-clan37-stav5">
+										<content>
+											<p>У случају спречености или одсутности, председника одбора замењује заменик председника, а одсутног члана замењује члан другог одбора према распореду који се утврђује годишњим планом рада.</p>
+										</content>
+									</clause>
+									<clause id="gla4-podod1-clan37-stav6">
+										<content>
+											<p>Секретари одбора за уставне жалбе одређују се из реда државних службеника на положају.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla4-podod1-clan38">
+								<num>38.</num>
+								<heading>Делокруг рада одбора за уставне жалбе</heading>
+								<content>
+									<clause id="gla4-podod1-clan38-stav1">
+										<content>
+											<p>Одбор за уставне жалбе разматра предлог одлуке судије известиоца сачињен у предмету по уставној жалби и даје мишљење о предлогу.</p>
+										</content>
+									</clause>
+									<clause id="gla4-podod1-clan38-stav2">
+										<content>
+											<p>Изузетно од става 1. овог члана, предлог одлуке у типском предмету доставља се, уз службену белешку да одлука испуњава услове за одлучивање без прибављања мишљења одбора и означење одлуке Суда на коју се позива, одговарајућем већу Суда на одлучивање.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+					<subsection id="gla4-podod2">
+						<num>б</num>
+						<heading> Повремена радна тела</heading>
+						<content>
+							<article id="gla4-podod2-clan39">
+								<num>39.</num>
+								<heading>Образовање повремених радних тела</heading>
+								<content>
+									<clause id="gla4-podod2-clan39-stav1">
+										<content>
+											<p>Повремена радна тела Суд образује одлуком, којом се утврђују састав и задаци радног тела.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+				</content>
+			</chapter>
+			<chapter id="gla5">
+				<num>V</num>
+				<heading>ПОСТУПАК ПРЕД СУДОМ</heading>
+				<content>
+					<тачка id="gla5-clan39-tac1">
+						<num>1.</num>
+						<content>
+							<p> Пријем поднесака и распоређивање предмета</p>
+						</content>
+					</тачка>
+					<article id="gla5-clan40">
+						<num>40.</num>
+						<heading>Пријем и евидентирање поднесака</heading>
+						<content>
+							<clause id="gla5-clan40-stav1">
+								<content>
+									<p>Поднесци упућени Суду примају се и евидентирају у писарници, према астрономском рачунању времена.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan40-stav2">
+								<content>
+									<p>Предлог, захтев, уставна жалба и други акт којим се покреће поступак, односно иницијатива, не може се изјавити усмено на записник код Суда.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan40-stav3">
+								<content>
+									<p>Уз уставну жалбу која се изјављује преко пуномоћника доставља се специјално писмено овлашћење за изјављивање уставне жалбе.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan40-stav4">
+								<content>
+									<p>Поднесци и прилози се предају Уставном суду у три примерка.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan40-stav5">
+								<content>
+									<p>Електронска пошта, писмена достављена телефаксом и телеграми упућени Суду не сматрају се поднесцима којима се покреће поступак, односно иницира покретање поступка пред Судом.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan41">
+						<num>41.</num>
+						<heading>Распоређивање предмета</heading>
+						<content>
+							<clause id="gla5-clan41-stav1">
+								<content>
+									<p>Судски предмети распоређују се судији известиоцу према редоследу пријема и врсти уставносудског поступка, врсти оспорених аката и азбучном реду презимена судија.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan41-stav2">
+								<content>
+									<p>Изузетно од става 1. овог члана, председник Суда се не одређује за судију известиоца у предметима образованим по уставним жалбама, а у свим другим уставносудским предметима се одређује за судију известиоца тако што се задужује трећином предмета у односу на друге судије.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan41-stav3">
+								<content>
+									<p>Електронски информациони систем Суда аутоматски одређује судију известиоца у сваком поједином уставносудском предмету према задатом алгоритму, у складу са критеријумима из става 1. овог члана.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan41-stav4">
+								<content>
+									<p>Председник Суда може у складу са Законом одредити једног или више судија коизвестилаца.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan41-stav5">
+								<content>
+									<p>На предлог председника Суда судија може, због посебног ангажовања на одређеном предмету, одлуком Суда бити ослобођен предмета у којима је известилац.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan41-stav6">
+								<content>
+									<p>Секретар Суда одређује обрађивача предмета у уставносудском предмету према врсти уставносудског поступка и врсти оспореног акта.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan41-stav7">
+								<content>
+									<p>Податке о предметима примљеним, по правилу, у периоду од три дана, и одређеним судијама известиоцима и обрађивачима предмета, писарница у електронској форми доставља председнику и судијама Суда, секретару и заменику секретара Суда и обрађивачима предмета, ради информисања.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan41-stav8">
+								<content>
+									<p>Спајање или раздвајање захтева из већ образованих предмета врши се на основу предлога судије известиоца.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan41-stav9">
+								<content>
+									<p>Изузетно од става 1. овог члана, председник Суда може извршити промену судије известиоца у случају када је судија известилац дуже времена одсутан, односно када постоје други оправдани разлози.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan42">
+						<num>42.</num>
+						<heading>Искључење и изузеће</heading>
+						<content>
+							<clause id="gla5-clan42-stav1">
+								<content>
+									<p>Ако постоје услови за искључење или изузеће судије Суда, судија је дужан да о томе писмено обавести председника Суда.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan42-stav2">
+								<content>
+									<p>Искључење или изузеће судије Суда може захтевати подносилац уставне жалбе и жалбе.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan42-stav3">
+								<content>
+									<p>Суд одлучује о испуњености услова за искључење или изузеће судије, сагласно <ref>члану 8. </ref>Закона, без учешћа у одлучивању судије чије искључење или изузеће је тражено.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla5-clan43">
+						<num>43.</num>
+						<heading>Спајање и раздвајање предмета</heading>
+						<content>
+							<clause id="gla5-clan43-stav1">
+								<content>
+									<p>Када постоји више предлога, односно иницијатива за оцену уставности истог закона или уставности и законитости другог општег акта, Суд ће на предлог председника Суда односно судије известиоца, по правилу, спојити све предлоге, односно иницијативе и по њима водити јединствен поступак и донети једну одлуку.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan43-stav2">
+								<content>
+									<p>Ако се предлогом, односно иницијативом оспорава више општих аката истог или различитих доносилаца, или ако различита правна природа односа уређених оспореним општим актом отежава заједничко разматрање и одлучивање, Суд може раздвојити поступак по односним општим актима, односно правним питањима.</p>
+								</content>
+							</clause>
+							<clause id="gla5-clan43-stav3">
+								<content>
+									<p>Одредбе ст. 1. и 2. овог члана сходно се примењују и у другим поступцима пред Судом.</p>
+									<тачка id="gla5-clan43-stav3-tac2">
+										<num>2.</num>
+										<content>
+											<p> Ток поступка</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<subsection id="gla5-podod1">
+						<num>а</num>
+						<heading> Претходни поступак</heading>
+						<content>
+							<article id="gla5-podod1-clan44">
+								<num>44.</num>
+								<heading>Радње у претходном поступку</heading>
+								<content>
+									<clause id="gla5-podod1-clan44-stav1">
+										<content>
+											<p>У претходном поступку се испитује уредност и допуштеност поднесака којима се покреће или иницира поступак пред Судом, достављају акти о покретању поступка, односно иницијативе на одговор и мишљење, прикупљају потребни подаци, обавештења и докази у циљу провере навода из иницијативе за покретање поступка за оцену уставности или законитости и предузимају друге процесне радње од значаја за одлучивање Суда.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod1-clan44-stav2">
+										<content>
+											<p>Претходни поступак води судија известилац, коме у вођењу поступка и предузимању радњи помаже обрађивач предмета.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod1-clan45">
+								<num>45.</num>
+								<heading>Претходно испитивање поднеска</heading>
+								<content>
+									<clause id="gla5-podod1-clan45-stav1">
+										<content>
+											<p>Када су предлог, уставна жалба, захтев или други акт којим се покреће поступак пред Уставним судом, односно иницијатива, неразумљиви, непотпуни, не садрже податке неопходне за вођење поступка или имају друге недостатке који онемогућавају поступање у предмету, судија известилац ће од подносиоца затражити да, у року од 15 дана, отклони недостатке и упозориће га на последице пропуштања утврђене Законом.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod1-clan45-stav2">
+										<content>
+											<p>Ако недостатак буде отклоњен у остављеном року, као дан подношења акта из става 1. овог члана сматра се дан када је акт први пут био поднет Суду.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod1-clan46">
+								<num>46.</num>
+								<heading>Достављање на одговор</heading>
+								<content>
+									<clause id="gla5-podod1-clan46-stav1">
+										<content>
+											<p>Ако су испуњене процесне претпоставке за покретање, односно вођење поступка, судија известилац ће, након претходног испитивања поднеска, акт којим се покреће поступак, односно иницијативу доставити на одговор или мишљење доносиоцу оспореног акта и одредити рок за давање одговора, односно мишљења.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod1-clan46-stav2">
+										<content>
+											<p>На захтев доносиоца оспореног акта, судија известилац може да продужи рок за достављање одговора, односно мишљења, ако за то постоје оправдани разлози.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod1-clan46-stav3">
+										<content>
+											<p>Ако одговор, односно мишљење не буде достављено у остављеном року, судија известилац може наставити поступак.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod1-clan47">
+								<num>47.</num>
+								<heading>Предлог одлуке</heading>
+								<content>
+									<clause id="gla5-podod1-clan47-stav1">
+										<content>
+											<p>После испитивања предлога, захтева, другог акта којим се покреће поступак пред Судом, односно иницијативе, пријема одговора, односно мишљења доносиоца оспореног акта или истека рока за њихово достављање, као и прикупљања потребних података, обавештења и докумената од значаја за одлучивање Суда, судија известилац припрема предлог одлуке и доставља га председнику Суда, односно председнику одговарајућег већа.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod1-clan47-stav2">
+										<content>
+											<p>Предлог одлуке из става 1. овог члана, по правилу, садржи: назив, односно име подносиоца; дан пријема захтева; садржину захтева; садржину одредаба општег акта чија се уставност, односно законитост оспорава, односно садржину оспореног појединачног акта или радње; утврђено чињенично и правно стање у предмету; обраду уставноправног питања; стручна и друга мишљења уколико су у току поступка прибављена и предлог за одлучивање.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod1-clan47-stav3">
+										<content>
+											<p>Уз предлог одлуке из става 1. овог члана прилаже се: предлог, други поднесак којим се покреће поступак, односно иницијатива; одговор, односно мишљење доносиоца оспореног акта; аутентичан текст оспорене одредбе општег акта, односно оспорени појединачни акт; друга прибављена документација од значаја за одлучивање и одредбе аката у односу на које се врши оцена.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod1-clan47-stav4">
+										<content>
+											<p>Предлог одлуке не може се дати на увид јавности пре него што о предлогу буде одлучено на седници.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+					<subsection id="gla5-podod2">
+						<num>б</num>
+						<heading> Јавна расправа</heading>
+						<content>
+							<article id="gla5-podod2-clan48">
+								<num>48.</num>
+								<heading>Заказивање јавне расправе</heading>
+								<content>
+									<clause id="gla5-podod2-clan48-stav1">
+										<content>
+											<p>Суд у случајевима предвиђеним у <ref>члану 37. </ref>Закона одржава јавну расправу.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod2-clan48-stav2">
+										<content>
+											<p>Јавну расправу заказује и њом руководи председник Суда.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod2-clan48-stav3">
+										<content>
+											<p>Писмени позив за јавну расправу доставља се учесницима у поступку и другим позваним лицима, најкасније осам дана пре одржавања јавне расправе.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod2-clan48-stav4">
+										<content>
+											<p>Изузетно, Суд може одредити и краћи рок за достављање писмених позива.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod2-clan49">
+								<num>49.</num>
+								<heading>Позив за јавну расправу</heading>
+								<content>
+									<clause id="gla5-podod2-clan49-stav1">
+										<content>
+											<p>У позиву за јавну расправу наводи се предмет јавне расправе, датум и место одржавања јавне расправе.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod2-clan49-stav2">
+										<content>
+											<p>За јавну расправу судија известилац припрема реферат који се доставља учесницима у поступку и другим лицима која су позвана на јавну расправу.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod2-clan49-stav3">
+										<content>
+											<p>Реферат из става 2. овог члана садржи нарочито: садржину захтева из акта о покретању поступка; садржину одредбе општег акта чија се уставност, односно законитост оспорава; уставноправна питања која су предмет расправе; стручна и друга мишљења уколико су у току поступка прибављена.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod2-clan50">
+								<num>50.</num>
+								<heading>Ток јавне расправе</heading>
+								<content>
+									<clause id="gla5-podod2-clan50-stav1">
+										<content>
+											<p>Председник Суда објављује предмет јавне расправе и констатује присуство учесника у поступку и других позваних лица, а након тога даје реч судији известиоцу.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod2-clan50-stav2">
+										<content>
+											<p>На јавној расправи судија известилац излаже спорна уставноправна питања у предмету о којем се расправља, не износећи предлог одлуке.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod2-clan50-stav3">
+										<content>
+											<p>После излагања судије известиоца, учесници у поступку износе и образлажу мишљења и чињенице од интереса за разјашњење стања ствари.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod2-clan50-stav4">
+										<content>
+											<p>У току јавне расправе судије Суда, без изношења свог мишљења, могу постављати питања и тражити разјашњења од учесника у поступку и других позваних лица о ствари која је предмет јавне расправе.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod2-clan51">
+								<num>51.</num>
+								<heading>Одржавање реда на јавној расправи</heading>
+								<content>
+									<clause id="gla5-podod2-clan51-stav1">
+										<content>
+											<p>О одржавању реда на јавној расправи стара се председник Суда.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod2-clan51-stav2">
+										<content>
+											<p>Учеснику у јавној расправи председник Суда може, после опомене, одузети реч, односно може удаљити учесника или друго присутно лице које омета ред на јавној расправи.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod2-clan52">
+								<num>52.</num>
+								<heading>Тонски запис</heading>
+								<content>
+									<clause id="gla5-podod2-clan52-stav1">
+										<content>
+											<p>Ток јавне расправе се тонски снима, или се сачињава други одговарајући запис о њеном току.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+					<subsection id="gla5-podod3">
+						<num>в</num>
+						<heading> Седница Суда</heading>
+						<content>
+							<article id="gla5-podod3-clan53">
+								<num>53.</num>
+								<heading>Сазивање и одржавање седнице</heading>
+								<content>
+									<clause id="gla5-podod3-clan53-stav1">
+										<content>
+											<p>Седницу Суда сазива председник Суда по сопственој иницијативи, по закључку Суда, на захтев радног тела или најмање троје судија Суда.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan53-stav2">
+										<content>
+											<p>Судија који је спречен да присуствује седници из става 1. овог члана дужан је да о томе обавести председника Суда и наведе разлоге спречености.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod3-clan54">
+								<num>54.</num>
+								<heading>Позив за седницу</heading>
+								<content>
+									<clause id="gla5-podod3-clan54-stav1">
+										<content>
+											<p>Позив за седницу Суда, заједно са предлогом дневног реда, одговарајућим предлогом одлуке, уставносудском документацијом и осталим радним материјалима, доставља се судијама Суда у електронском облику, најкасније пет дана пре одржавања седнице.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan54-stav2">
+										<content>
+											<p>Позив са прилозима из става 1. овог члана доставља се и секретару Суда и државним службеницима који обављају послове из надлежности Суда.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan54-stav3">
+										<content>
+											<p>Рок из става 1. овог члана може бити краћи у поступку за оцену уставности закона пре његовог проглашења, поступку одлучивања о захтевима за одлагање ступања на снагу одлуке органа аутономне покрајине, поступку одлучивања о изборним споровима, поступку одлучивања о уставној жалби која захтева хитно поступање Суда и поступку одлучивања о повреди Устава од стране председника Републике.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod3-clan55">
+								<num>55.</num>
+								<heading>Утврђивање и усвајање дневног реда</heading>
+								<content>
+									<clause id="gla5-podod3-clan55-stav1">
+										<content>
+											<p>Председник Суда отвара седницу Суда и утврђује да ли је присутан потребан број судија за рад и одлучивање.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan55-stav2">
+										<content>
+											<p>Судија Суда који је спречен да присуствује седници из става 1. овог члана може о предложеном дневном реду и предмету о коме се одлучује дати писмено мишљење које ће бити прочитано на седници.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan55-stav3">
+										<content>
+											<p>Сваки судија Суда има право да предложи измену дневног реда који је предложен у позиву за седницу из става 1. овог члана, уз усмено образложење предлога, о чему Суд одлучује већином гласова свих судија.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan55-stav4">
+										<content>
+											<p>О образложеном предлогу судије Суда да се из предложеног дневног реда изостави предмет у коме је судија известилац, не већа се и не гласа, него се записнички утврђује да је предмет изостављен из дневног реда на предлог судије известиоца и одређује рок у којем ће се предмет поново доставити председнику Суда ради одлучивања на седници Суда.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan55-stav5">
+										<content>
+											<p>Дневни ред је усвојен када се за њега изјасни већина од укупног броја судија Суда.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod3-clan56">
+								<num>56.</num>
+								<heading>Излагање судије известиоца</heading>
+								<content>
+									<clause id="gla5-podod3-clan56-stav1">
+										<content>
+											<p>По усвајању дневног реда, председник Суда даје реч судији известиоцу у предмету да, ако сматра да је потребно, образложи предлог одлуке о коме се одлучује.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan56-stav2">
+										<content>
+											<p>На седници Суда судија известилац може допунити, односно изменити предлог одлуке.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan56-stav3">
+										<content>
+											<p>Председник Суда има право да упозори судију на дужину усменог излагања о предмету.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod3-clan57">
+								<num>57.</num>
+								<heading>Већање о предлогу одлуке</heading>
+								<content>
+									<clause id="gla5-podod3-clan57-stav1">
+										<content>
+											<p>Након излагања судије известиоца, председник Суда отвара већање о предлогу одлуке судије известиоца.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan57-stav2">
+										<content>
+											<p>Судија Суда који је учествовао у доношењу општег или појединачног акта, односно у предузимању радње или подношењу иницијативе за оцену уставности или законитости акта о којем се у поступку пред Судом одлучује, не учествује у већању о предлогу одлуке судије известиоца.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan57-stav3">
+										<content>
+											<p>По завршетку већања, председник Суда утврђује предлоге који су изнети у току већања и позива судију известиоца да се о њима изјасни.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan57-stav4">
+										<content>
+											<p>Предлог који судија известилац прихвати сматра се саставним делом предлога одлуке.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod3-clan58">
+								<num>58.</num>
+								<heading>Начин одлучивања</heading>
+								<content>
+									<clause id="gla5-podod3-clan58-stav1">
+										<content>
+											<p>По завршетку већања Суд одлучује гласањем.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan58-stav2">
+										<content>
+											<p>О сваком предлогу се гласа „за” или „против” коришћењем електронског система гласања.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan58-stav3">
+										<content>
+											<p>У случају да није могуће користити електронски систем гласања, гласање о сваком предлогу врши се дизањем руке „за” или „против” предлога.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan58-stav4">
+										<content>
+											<p>Суд може на предлог председника, односно судије Суда одлучити да се гласа поименичним изјашњавањем судија „за” или „против” предлога.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan58-stav5">
+										<content>
+											<p>Суд доноси одлуке већином гласова свих судија, осим кад доноси одлуку да самостално покрене поступак за оцену уставности и законитости, када одлучује двотрећинском већином гласова свих судија.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod3-clan59">
+								<num>59.</num>
+								<heading>Гласање о предлогу</heading>
+								<content>
+									<clause id="gla5-podod3-clan59-stav1">
+										<content>
+											<p>Ако је поднет предлог који се односи на решавање претходног питања, прво се гласа о том предлогу.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan59-stav2">
+										<content>
+											<p>На седници Суда се гласа само о предлогу одлуке судије известиоца.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan59-stav3">
+										<content>
+											<p>Судија Суда који је учествовао у доношењу општег или појединачног акта, односно у предузимању радње или подношењу иницијативе за оцену уставности или законитости акта о којем се у поступку пред Судом одлучује, не учествује у гласању о предлогу одлуке судије известиоца.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan59-stav4">
+										<content>
+											<p>Гласање се, по правилу, обавља о предлогу судије известиоца у целини. На предлог судије известиоца гласање се може обавити и појединачно о свим предложеним тачкама у изреци одлуке, односно о свакој оспореној одредби из изреке.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan59-stav5">
+										<content>
+											<p>Када се предлог одлуке судије известиоца не усвоји, приступа се изради новог предлога одлуке.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan59-stav6">
+										<content>
+											<p>Суд, на образложен предлог судије известиоца, може одредити другог судију известиоца за израду предлога одлуке из става 5. овог члана.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod3-clan60">
+								<num>60.</num>
+								<heading>Издвојено мишљење</heading>
+								<content>
+									<clause id="gla5-podod3-clan60-stav1">
+										<content>
+											<p>Судија који се противи изреци, делу изреке, или образложењу одлуке Суда, има право на издвојено мишљење засновано на аргументима које је изнео у току већања о предложеној одлуци.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan60-stav2">
+										<content>
+											<p>Издвојено мишљење из става 1. овог члана судија је дужан да усмено најави на седници Суда након доношења одлуке.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan60-stav3">
+										<content>
+											<p>Судија је дужан да, у року од седам дана од дана пријема одлуке чији је текст утврђен од стране Редакционе комисије, достави председнику Суда писмено образложење издвојеног мишљења које се са одлуком објављује у „Службеном гласнику Републике Србије” и билтену одлука Суда.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan60-stav4">
+										<content>
+											<p>До достављања писмено образложеног издвојеног мишљења, а најкасније до истека рока из става 3. овог члана, одлука се не отпрема на објављивање.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan60-stav5">
+										<content>
+											<p>Ако издвојено мишљење није достављено председнику Суда до истека рока из става 3. овог члана, одлука се отпрема ради објављивања, а накнадно достављено издвојено мишљење прилаже се уставносудском предмету и чини његов саставни део.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan60-stav6">
+										<content>
+											<p>Издвојено мишљење судије објављује се у билтену одлука Суда у којој је објављена и одлука поводом које је мишљење издвојено.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan60-stav7">
+										<content>
+											<p>Одредбе ст. 1. до 6. овог члана сходно се примењују и на заједничко издвојено мишљење више судија.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod3-clan61">
+								<num>61.</num>
+								<heading>Одржавање реда на седници</heading>
+								<content>
+									<clause id="gla5-podod3-clan61-stav1">
+										<content>
+											<p>Председник Суда стара се о одржавању реда на седници Суда и може да упозори, изрекне опомену, или да одузме реч судији који се у свом излагању не придржава усвојеног дневног реда, односно предмета о коме се већа.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan61-stav2">
+										<content>
+											<p>Председник Суда овлашћен је да прекине или одложи седницу из става 1. овог члана ако оцени да је угрожен несметан ток седнице.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod3-clan62">
+								<num>62.</num>
+								<heading>Записник са седнице</heading>
+								<content>
+									<clause id="gla5-podod3-clan62-stav1">
+										<content>
+											<p>Записник са седнице представља тонски снимак, или други одговарајући запис о њеном току и исходу.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod3-clan63">
+								<num>63.</num>
+								<heading>Извод записника са седнице</heading>
+								<content>
+									<clause id="gla5-podod3-clan63-stav1">
+										<content>
+											<p>Писани извод записника са седнице садржи нарочито: датум одржавања седнице; имена присутних и одсутних судија Суда и државних службеника који по службеној дужности присуствују седници; предмет већања и гласања; изреку одлуке Суда; по потреби кратак преглед већања о предмету одлучивања; резултат гласања. Када је одлука Суда донета већином гласова, у записник се уноси и име и презиме судије са назнаком да ли је гласао „за” или „против”, односно издвојио мишљење, као и име и презиме судије који није учествовао у гласању.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan63-stav2">
+										<content>
+											<p>Нацрт извода записника припрема секретар Суда на основу тонског снимка, односно записа сачињеног на седници Суда.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan63-stav3">
+										<content>
+											<p>Извод записника са седнице усваја се, по правилу, на наредној седници Суда, а потписују га председник и секретар Суда.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod3-clan63-stav4">
+										<content>
+											<p>О предмету о коме је одлучено на седници Суда сачињава се посебан записник о донетој одлуци, који потписује обрађивач и улаже га у списе предмета.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+					<subsection id="gla5-podod4">
+						<num>г</num>
+						<heading> Седница Великог већа и седница Малог већа</heading>
+						<content>
+							<article id="gla5-podod4-clan64">
+								<num>64.</num>
+								<heading>Предлог одлуке о којој се одлучује</heading>
+								<content>
+									<clause id="gla5-podod4-clan64-stav1">
+										<content>
+											<p>На седници Великог, односно Малог већа, већа се и гласа о предлогу одлуке судије известиоца који је члан тог већа.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod4-clan64-stav2">
+										<content>
+											<p>Предлог одлуке у предмету у којем је, сагласно <ref>члану 41. став 2. овог</ref> пословника, одређен за судију известиоца председник Суда износи на седницу Првог великог већа ако је реч о предмету са парним бројем, а предмете са непарним бројем износи на седницу Другог великог већа.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod4-clan64-stav3">
+										<content>
+											<p>Седници Великог, односно Малог већа може присуствовати и учествовати у већању и судија који није члан тог већа.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod4-clan65">
+								<num>65.</num>
+								<heading>Записник са седнице Великог већа</heading>
+								<content>
+									<clause id="gla5-podod4-clan65-stav1">
+										<content>
+											<p>Записник са седнице Великог већа представља тонски снимак, или други одговарајући запис о њеном току и исходу.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod4-clan66">
+								<num>66.</num>
+								<heading>Извод записника са седнице Великог већа</heading>
+								<content>
+									<clause id="gla5-podod4-clan66-stav1">
+										<content>
+											<p>Писани извод записника са седнице Великог већа садржи нарочито: датум и време одржавања седнице; имена судија и име записничара, а по потреби и других лица која присуствују седници; предмет већања и гласања; изреку одлуке Суда; резултат гласања.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod4-clan66-stav2">
+										<content>
+											<p>Када одлука није донета једногласно, у записник се уноси име и презиме судије са назнаком да ли је гласао „за” или „против”.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod4-clan66-stav3">
+										<content>
+											<p>Нацрт извода записника припрема записничар.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod4-clan66-stav4">
+										<content>
+											<p>Извод записника из става 1. овог члана усваја се, по правилу, на наредној седници Великог већа, а потписује га председник Суда.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod4-clan66-stav5">
+										<content>
+											<p>О предмету о коме је одлучено на седници Великог већа сачињава се посебан записник, који потписује обрађивач предмета. Записник се улаже у предмет.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod4-clan67">
+								<num>67.</num>
+								<heading>Записник са седнице Малог већа</heading>
+								<content>
+									<clause id="gla5-podod4-clan67-stav1">
+										<content>
+											<p>Записник са седнице Малог већа садржи нарочито: датум и време одржавања седнице; имена присутних судија и име записничара; предмет већања и гласања; одлуку Суда; резултат гласања.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod4-clan67-stav2">
+										<content>
+											<p>Када одлука није донета, у записник се уноси име и презиме судије са назнаком да ли је гласао „за” или „против”.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod4-clan67-stav3">
+										<content>
+											<p>Нацрт записника припрема секретар Малог већа.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod4-clan67-stav4">
+										<content>
+											<p>Записник са седнице усваја се, по правилу, на наредној седници Малог већа, а потписује га председник већа.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod4-clan67-stav5">
+										<content>
+											<p>О сваком предмету о коме је одлучено на седници Малог већа сачињава се посебан записник, који потписују судије и секретар Малог већа. Овај записник се улаже у предмет.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod4-clan68">
+								<num>68.</num>
+								<heading>Сходна примена одредаба о току седнице Суда</heading>
+								<content>
+									<clause id="gla5-podod4-clan68-stav1">
+										<content>
+											<p>Одредбе чл. 53. до 61. овог пословника сходно се примењују у поступку на седници Великог већа и седници Малог већа.</p>
+											<тачка id="gla5-podod4-clan68-stav1-tac3">
+												<num>3.</num>
+												<content>
+													<p> Посебне одредбе о појединим поступцима</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+					<subsection id="gla5-podod5">
+						<num>а</num>
+						<heading> Поступак за оцењивање уставности или законитости општих аката</heading>
+						<content>
+							<article id="gla5-podod5-clan69">
+								<num>69.</num>
+								<heading>Покретање поступка</heading>
+								<content>
+									<clause id="gla5-podod5-clan69-stav1">
+										<content>
+											<p>Поступак за оцењивање уставности или законитости општег акта покреће се предлогом овлашћеног предлагача или решењем о покретању поступка.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod5-clan69-stav2">
+										<content>
+											<p>Суд може по сопственој иницијативи донети одлуку о покретању поступка за оцењивање уставности или законитости на образложени предлог председника, радног тела или судије Суда.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod5-clan70">
+								<num>70.</num>
+								<heading>Обустава извршења појединачног акта или радње</heading>
+								<content>
+									<clause id="gla5-podod5-clan70-stav1">
+										<content>
+											<p>У случају када се поступак покреће предлогом, Суд ће о захтеву за обуставу извршења појединачног акта или радње која је предузета на основу општег акта чија се уставност или законитост оцењује одлучити у примереном року, водећи рачуна о разлозима и последицама које производи појединачни акт или радња.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod5-clan71">
+								<num>71.</num>
+								<heading>Застој поступка</heading>
+								<content>
+									<clause id="gla5-podod5-clan71-stav1">
+										<content>
+											<p>У току поступка, а на захтев доносиоца оспореног општег акта, Суд може, пре доношења одлуке о уставности или законитости, застати са поступком и дати могућност доносиоцу општег акта, да у одређеном року отклони уочене неуставности или незаконитости.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod5-clan71-stav2">
+										<content>
+											<p>Застој поступка из става 1. овог члана може трајати најдуже шест месеци.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod5-clan71-stav3">
+										<content>
+											<p>Ако у одређеном року неуставност или незаконитост не буде отклоњена, Суд ће наставити поступак.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod5-clan72">
+								<num>72.</num>
+								<heading>Утицај новог акта на ток поступка</heading>
+								<content>
+									<clause id="gla5-podod5-clan72-stav1">
+										<content>
+											<p>Ако доносилац оспореног акта у току поступка пред Уставним судом донесе акт којим се мења или ставља ван снаге оспорени акт, Суд ће обуставити поступак, осим ако оцени да поступак треба наставити ради отклањања последица неуставности или незаконитости.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+					<subsection id="gla5-podod6">
+						<num>б</num>
+						<heading> Поступак за оцену уставности међународних уговора</heading>
+						<content>
+							<article id="gla5-podod6-clan73">
+								<num>73.</num>
+								<heading>Сходна примена одредаба</heading>
+								<content>
+									<clause id="gla5-podod6-clan73-stav1">
+										<content>
+											<p>На поступак оцењивања сагласности међународних уговора са Уставом сходно се примењују одредбе поступка за оцењивање уставности закона утврђене Законом и овим пословником.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+					<subsection id="gla5-podod7">
+						<num>в</num>
+						<heading> Поступак за оцену уставности закона пре његовог проглашења</heading>
+						<content>
+							<article id="gla5-podod7-clan74">
+								<num>74.</num>
+								<heading>Обавештавање председника Републике</heading>
+								<content>
+									<clause id="gla5-podod7-clan74-stav1">
+										<content>
+											<p>Председник Суда без одлагања обавештава председника Републике о томе да је покренут поступак за оцену уставности закона пре његовог проглашења.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+					<subsection id="gla5-podod8">
+						<num>г</num>
+						<heading> Поступак одлучивања о одлагању ступања на снагу одлуке   органа аутономне покрајине</heading>
+						<content>
+							<article id="gla5-podod8-clan75">
+								<num>75.</num>
+								<heading>Предлог за одлагање ступања на снагу одлуке органа аутономне покрајине</heading>
+								<content>
+									<clause id="gla5-podod8-clan75-stav1">
+										<content>
+											<p>О предлогу Владе да се одложи ступање на снагу одлуке органа аутономне покрајине, Суд одлучује у року од 45 дана од дана пријема предлога.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod8-clan75-stav2">
+										<content>
+											<p>Ако Суд донесе решење да се одложи ступање на снагу оспорене одлуке органа аутономне покрајине, одлуку о оцени уставности или законитости оспорене одлуке Суд доноси, по правилу, у року од 60 дана од дана доношења решења.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+					<subsection id="gla5-podod9">
+						<num>д</num>
+						<heading> Поступак по уставној жалби</heading>
+						<content>
+							<article id="gla5-podod9-clan76">
+								<num>76.</num>
+								<heading>Испитивање процесних претпоставки</heading>
+								<content>
+									<clause id="gla5-podod9-clan76-stav1">
+										<content>
+											<p>Судија известилац утврђује да ли су испуњене процесне претпоставке за поступање Суда по уставној жалби.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod9-clan76-stav2">
+										<content>
+											<p>Уставна жалба која има недостатке који онемогућавају поступање Суда, а која је на захтев судије известиоца уређена поднеском предатим по протеку утврђеног рока за уређење уставне жалбе, биће одбачена на основу одредбе <ref>члана 36. став 1. тачка 4</ref>) Закона.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod9-clan76-stav3">
+										<content>
+											<p>Изузетно од става 2. овог члана, повраћај у пређашње стање због пропуштања рока за уређење уставне жалбе може се дозволити под условима из <ref>члана 84. </ref>ст. 1. и 2. Закона.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod9-clan76-stav4">
+										<content>
+											<p>Ако не постоје процесне претпоставке за поступање по уставној жалби, судија известилац припрема предлог решења о одбацивању уставне жалбе и доставља га председнику Малог већа ради заказивања седнице.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod9-clan76-stav5">
+										<content>
+											<p>Судија известилац може одлучити да се уставна жалба достави на одговор државном органу, односно организацији којој су поверена јавна овлашћења, против чијег појединачног акта или радње је жалба изјављена и одредити рок за достављање одговора, списа предмета, других доказа и обавештења неопходних за одлучивање.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod9-clan76-stav6">
+										<content>
+											<p>Ако су испуњене процесне претпоставке за вођење поступка по уставној жалби, судија известилац припрема предлог одлуке који се доставља председнику одговарајућег одбора за уставне жалбе.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod9-clan77">
+								<num>77.</num>
+								<heading>Разматрање уставне жалбе на одбору</heading>
+								<content>
+									<clause id="gla5-podod9-clan77-stav1">
+										<content>
+											<p>Одбор за уставне жалбе може од судије известиоца затражити да прибави додатне податке и обавештења од значаја за одлучивање о уставној жалби.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod9-clan77-stav2">
+										<content>
+											<p>Кад одбор оцени да је у предмету потпуно разјашњено уставноправно питање, даје писмено мишљење о предлогу одлуке.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod9-clan77-stav3">
+										<content>
+											<p>Судија известилац доставља предлог одлуке, са мишљењем одбора и документацијом од значаја за одлучивање, председнику Суда ради одлучивања на седници.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod9-clan78">
+								<num>78.</num>
+								<heading>Одлагање извршења појединачног акта или радње</heading>
+								<content>
+									<clause id="gla5-podod9-clan78-stav1">
+										<content>
+											<p>О предлогу подносиоца уставне жалбе за одлагање извршења појединачног акта или радње против кога је уставна жалба изјављена, Суд ће одлучити у примереном року, водећи рачуна о разлозима и последицама које производи појединачни акт или радња.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+					<subsection id="gla5-podod10">
+						<num>ђ</num>
+						<heading> Поступак по жалби судија, јавних тужилаца и заменика јавних тужилаца</heading>
+						<content>
+							<article id="gla5-podod10-clan79">
+								<num>79.</num>
+								<heading>Расправа</heading>
+								<content>
+									<clause id="gla5-podod10-clan79-stav1">
+										<content>
+											<p>Суд ће одржати расправу о основаности разлога за престанак судијске или јавнотужилачке дужности, односно функције.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod10-clan79-stav2">
+										<content>
+											<p>Расправи поред подносиоца жалбе и доносиоца оспореног акта (учесници у поступку) могу присуствовати акредитовани представници средстава јавног обавештавања и представници стручне јавности до броја расположивих места у сали за седнице, а према редоследу пријављивања секретару Суда.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod10-clan79-stav3">
+										<content>
+											<p>Суд може на предлог учесника у поступку искључити јавност са расправе само у случајевима прописаним у <ref>члану 3. став 2. </ref>Закона.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod10-clan79-stav4">
+										<content>
+											<p>Искључење јавности се не односи на учеснике у поступку и њихове пуномоћнике, односно овлашћене представнике.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod10-clan79-stav5">
+										<content>
+											<p>Суд може, по узимању изјава од учесника у поступку, дозволити да расправи са које је искључена јавност присуствују представници стручне јавности.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod10-clan80">
+								<num>80.</num>
+								<heading>Ток расправе</heading>
+								<content>
+									<clause id="gla5-podod10-clan80-stav1">
+										<content>
+											<p>Расправом руководи председник Суда.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod10-clan80-stav2">
+										<content>
+											<p>Председник Суда отвара расправу, објављује предмет расправе и саопштава планирано време излагања учесника у поступку.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod10-clan80-stav3">
+										<content>
+											<p>Након отварања расправе судија известилац укратко излаже спорна питања у предмету о којем ће се расправљати.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod10-clan80-stav4">
+										<content>
+											<p>Председник Суда затим даје реч овлашћеном представнику доносиоца оспореног акта, а потом подносиоцу жалбе, односно његовом пуномоћнику, уз претходно упозорење да се у излагању изјашњавају само о спорним питањима која су предмет расправе. Планирано време излагања се на захтев учесника у поступку може продужити.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod10-clan80-stav5">
+										<content>
+											<p>Учесници у поступку се изјашњавају о спорним питањима и околностима које су од значаја за одлучивање о конкретним разлозима престанка дужности, односно функције.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod10-clan80-stav6">
+										<content>
+											<p>У току расправе судија Суда може поставити питања и тражити додатна објашњења од учесника у поступку о спорним питањима и околностима од значаја за одлучивање.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod10-clan80-stav7">
+										<content>
+											<p>Расправу закључује председник Суда.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+					<subsection id="gla5-podod11">
+						<num>е</num>
+						<heading> Поступак одлучивања о повреди Устава од стране председника Републике</heading>
+						<content>
+							<article id="gla5-podod11-clan81">
+								<num>81.</num>
+								<heading>Седница за испитивање акта о покретању поступка</heading>
+								<content>
+									<clause id="gla5-podod11-clan81-stav1">
+										<content>
+											<p>Седница Суда за утврђивање да ли је поступак за разрешење председника Републике покренут у складу са Уставом и законом одржаће се у року од седам дана од дана пријема акта Народне скупштине.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan81-stav2">
+										<content>
+											<p>Позив за седницу из става 1. овог члана, са одговарајућом документацијом, доставља се судијама Суда најкасније два дана пре одржавања седнице.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan81-stav3">
+										<content>
+											<p>Ако Суд утврди да поступак за разрешење председника Републике није покренут у складу са Уставом и законом, одбациће акт Народне скупштине о покретању поступка.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan81-stav4">
+										<content>
+											<p>Ако Суд утврди да је поступак за разрешење председника Републике покренут у складу са Уставом и законом, одредиће рок за давање одговора председника Републике на акт Народне скупштине.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod11-clan82">
+								<num>82.</num>
+								<heading>Позив за седницу на којој се расправља о повреди Устава</heading>
+								<content>
+									<clause id="gla5-podod11-clan82-stav1">
+										<content>
+											<p>Позив за седницу на којој се расправља о повреди Устава од стране председника Републике, са одговарајућом документацијом, доставља се судијама Суда, председнику Републике и председнику Народне скупштине, најкасније седам дана пре одржавања седнице Суда.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan82-stav2">
+										<content>
+											<p>У позиву из става 1. овог члана учесници у поступку се упозоравају да ће се седница одржати у њиховом одсуству, уколико седници не приступе без оправданог разлога.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan82-stav3">
+										<content>
+											<p>За седницу Суда из става 1. овог члана судија известилац припрема реферат који се доставља судијама Суда.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod11-clan83">
+								<num>83.</num>
+								<heading>Ток седнице</heading>
+								<content>
+									<clause id="gla5-podod11-clan83-stav1">
+										<content>
+											<p>По отварању седнице и објављивању предмета расправљања, председник Суда констатује да ли су позвана лица присутна, односно да ли су уредно позвана и да ли су оправдала изостанак.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan83-stav2">
+										<content>
+											<p>На седници Народну скупштину заступа председник Народне скупштине, а председник Републике може имати и пуномоћника.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan83-stav3">
+										<content>
+											<p>У случају изостанка са седнице једног или оба учесника у поступку, Суд ће одлучити да ли ће се седница одржати или одложити.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan83-stav4">
+										<content>
+											<p>По утврђивању услова за одржавање седнице, председник Суда позива представника Народне скупштине да изложи разлоге за покретање поступка за одлучивање о повреди Устава од стране председника Републике, а затим позива председника Републике да се изјасни о изнетим разлозима.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan83-stav5">
+										<content>
+											<p>Судије Суда могу у току седнице, без изношења свог мишљења, постављати питања и тражити разјашњења од учесника у поступку и других позваних лица о уставноправном питању које је предмет расправе.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan83-stav6">
+										<content>
+											<p>Ако у току седнице оцени да је потребно прибавити додатне податке од значаја за одлучивање у предмету, председник Суда ће одложити седницу.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan83-stav7">
+										<content>
+											<p>По окончању расправљања, председник Суда позива представника Народне скупштине, а затим и председника Републике да дају завршну реч.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod11-clan84">
+								<num>84.</num>
+								<heading>Записник са седнице</heading>
+								<content>
+									<clause id="gla5-podod11-clan84-stav1">
+										<content>
+											<p>Записник са седнице из <ref>члана 83. овог</ref> пословника представља тонски снимак, или други одговарајући запис о њеном току.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod11-clan85">
+								<num>85.</num>
+								<heading>Седница о већању и гласању</heading>
+								<content>
+									<clause id="gla5-podod11-clan85-stav1">
+										<content>
+											<p>По закључењу седнице из <ref>члана 83. овог</ref> пословника, Суд на седници већа и гласа о повреди Устава од стране председника Републике.</p>
+											<тачка id="gla5-podod11-clan85-stav1-tac4">
+												<num>4.</num>
+												<content>
+													<p> Одлуке Суда</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod11-clan86">
+								<num>86.</num>
+								<heading>Облик и садржина одлуке, решења и закључка</heading>
+								<content>
+									<clause id="gla5-podod11-clan86-stav1">
+										<content>
+											<p>Одлука, решење и закључак Суда садржи: увод, изреку и образложење.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan86-stav2">
+										<content>
+											<p>Увод садржи назив Суда, односно назив Суда и назив већа, име председника, односно судије који је председавао седницом, имена судија Суда који су учествовали у доношењу одлуке по азбучном реду презимена, уставни основ за доношење одлуке, датум одржавања седнице Суда, односно седнице већа, и друге податке зависно од врсте и предмета поступка.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan86-stav3">
+										<content>
+											<p>Изрека садржи одлуку Суда, назив оспореног акта и доносиоца акта, датум доношења и податке о објављивању акта, као и друге податке у зависности од врсте и предмета поступка.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan86-stav4">
+										<content>
+											<p>Образложење садржи захтев и наводе из поднеска којим је, или на основу кога је покренут поступак, наводе из одговора доносиоца оспореног акта, одредбе оспореног акта, правне прописе на којима се заснива одлука Суда, разлоге за одлуку садржану у изреци, као и друге елементе зависно од предмета поступка и врсте одлуке.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod11-clan87">
+								<num>87.</num>
+								<heading>Закључак</heading>
+								<content>
+									<clause id="gla5-podod11-clan87-stav1">
+										<content>
+											<p>Суд, поред случајева утврђених Законом, закључком:</p>
+											<point id="gla5-podod11-clan87-stav1-tac1">
+												<num>1)</num>
+												<content>
+													<p> одбацује акт Народне скупштине о покретању поступка за разрешење председника Републике;</p>
+												</content>
+											</point>
+											<point id="gla5-podod11-clan87-stav1-tac2">
+												<num>2)</num>
+												<content>
+													<p> одлучује о давању предлога или обавештења Народној скупштини.</p>
+												</content>
+											</point>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan87-stav2">
+										<content>
+											<p>Закључак из става 1. тачка 2) овог члана отправља се у облику писма које садржи обавештење о донетом закључку.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod11-clan88">
+								<num>88.</num>
+								<heading>Делимична одлука</heading>
+								<content>
+									<clause id="gla5-podod11-clan88-stav1">
+										<content>
+											<p>Када се у једној уставносудској ствари решава о више питања, а само су нека од њих у довољној мери расправљена, Суд може, ако сматра да је то целисходно, донети одлуку само о тим питањима.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod11-clan89">
+								<num>89.</num>
+								<heading>Јединствена одлука</heading>
+								<content>
+									<clause id="gla5-podod11-clan89-stav1">
+										<content>
+											<p>Кад Суд у предмету одлучује истовремено о различитим захтевима о којима се у смислу чл. 45, 46. и 47. Закона одлучује различитим врстама аката, Суд ће одлучити једном одлуком, односно решењем.</p>
+											<тачка id="gla5-podod11-clan89-stav1-tac5">
+												<num>5.</num>
+												<content>
+													<p> Израда и достављање одлуке Суда</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod11-clan90">
+								<num>90.</num>
+								<heading>Утврђивање коначног текста одлуке</heading>
+								<content>
+									<clause id="gla5-podod11-clan90-stav1">
+										<content>
+											<p>Редакциона комисија утврђује коначан текст одлуке, у складу са чланом 34. тачка 1) овог пословника.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan90-stav2">
+										<content>
+											<p>Текст одлуке који је предложио судија известилац доставља се Редакционој комисији најкасније у року од 15 дана од дана одржавања седнице на којој је одлучено о предмету.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan90-stav3">
+										<content>
+											<p>Председник Редакционе комисије потписом потврђује коначан текст одлуке утврђен на седници Редакционе комисије и доставља га на потпис председнику Суда.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan90-stav4">
+										<content>
+											<p>Коначан текст одлуке који Редакциона комисија не утврђује у складу са чланом 34. тачка 2) овог пословника, потписом потврђује судија известилац.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod11-clan91">
+								<num>91.</num>
+								<heading>Потписивање изворника одлуке</heading>
+								<content>
+									<clause id="gla5-podod11-clan91-stav1">
+										<content>
+											<p>Изворник одлуке донете на седници Суда потписује председник Суда, а изворник одлуке донете на седници већа потписује председник већа.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan91-stav2">
+										<content>
+											<p>У одсуству председника Суда, односно председника већа који је председавао седницом, изворник одлуке потписује заменик председника Суда.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod11-clan92">
+								<num>92.</num>
+								<heading>Достављање одлуке</heading>
+								<content>
+									<clause id="gla5-podod11-clan92-stav1">
+										<content>
+											<p>Учесницима у поступку доставља се писмени отправак одлуке, решења и закључка, који оверава обрађивач предмета, односно овлашћени државни службеник, по правилу, у року од 30 дана од дана доношења.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan92-stav2">
+										<content>
+											<p>Одлука Суда којом је утврђено право на накнаду нематеријалне или материјалне штете доставља се и органу надлежном за исплату.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan92-stav3">
+										<content>
+											<p>Ако се одлука, решење, односно закључак Суда из било ког разлога не може доставити учесницима у поступку, достављање се врши истицањем на огласној табли Суда.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan92-stav4">
+										<content>
+											<p>У случају из става 3. овог члана достављање се сматра извршеним осмог дана од дана истицања одлуке, решења или закључка на огласној табли Суда.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan92-stav5">
+										<content>
+											<p>Ако се одлука или решење Суда, које је објављено у службеном гласилу, из било ког разлога не може доставити учесницима у поступку, достављање се сматра извршеним даном објављивања.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod11-clan93">
+								<num>93.</num>
+								<heading>Објављивање одлуке</heading>
+								<content>
+									<clause id="gla5-podod11-clan93-stav1">
+										<content>
+											<p>Одлука и решење за које Суд одреди да се објављује, доставља се ради објављивања у „Службеном гласнику Републике Србије” и у другом службеном гласилу у коме је објављен акт о којем је Суд одлучивао, по правилу, у року од 30 дана од дана одлучивања.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod11-clan94">
+								<num>94.</num>
+								<heading>Скраћивање имена и назива</heading>
+								<content>
+									<clause id="gla5-podod11-clan94-stav1">
+										<content>
+											<p>Лично име физичког лица и други подаци о личности, односно назив правног лица наведен у изворнику одлуке и решења Суда, пре објављивања у службеном гласилу или објављивања на други одговарајући начин, по правилу се скраћују и означавају почетним словима личног имена, односно назива правног лица, осим ако је то лице дало сагласност за објављивање личних података.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod11-clan95">
+								<num>95.</num>
+								<heading>Исправка одлуке</heading>
+								<content>
+									<clause id="gla5-podod11-clan95-stav1">
+										<content>
+											<p>Када текст одлуке или решења објављен у службеном гласилу није сагласан са изворником достављеним из Суда, исправку даје секретар Суда.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan95-stav2">
+										<content>
+											<p>Исправка из става 1. овог члана доставља се и објављује на исти начин као и акт који се исправља.</p>
+											<тачка id="gla5-podod11-clan95-stav2-tac6">
+												<num>6.</num>
+												<content>
+													<p> Преиспитивање донете одлуке и правног става</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod11-clan96">
+								<num>96.</num>
+								<heading>Захтев за преиспитивање донете одлуке</heading>
+								<content>
+									<clause id="gla5-podod11-clan96-stav1">
+										<content>
+											<p>Суд ће, на образложени писмени захтев председника, судије или радног тела Суда, ставити на дневни ред седнице Суда захтев за преиспитивање донете одлуке, решења или закључка док не буде отправљен.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan96-stav2">
+										<content>
+											<p>Изузетно од става 1. овог члана, Суд може преиспитати одлуку или решење донето по уставној жалби и након што је отправљено, ако је одлука или решење засновано на очигледној грешци која се не може отклонити закључком о исправци или је супротна важећој судској пракси Суда.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan96-stav3">
+										<content>
+											<p>О потреби преиспитивања акта из ст. 1. и 2. овог члана одлучује Суд.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod11-clan97">
+								<num>97.</num>
+								<heading>Захтев за преиспитивање раније заузетог става</heading>
+								<content>
+									<clause id="gla5-podod11-clan97-stav1">
+										<content>
+											<p>Суд ће, на образложени писмени захтев председника, судије или радног тела Суда, ставити на дневни ред седнице Суда захтев за преиспитивање раније заузетог става.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan97-stav2">
+										<content>
+											<p>О захтеву из става 1. овог члана мишљење даје надлежно радно тело Суда.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan97-stav3">
+										<content>
+											<p>На седници Суда се посебно већа и гласа о потреби преиспитивања раније заузетог става, уз изношење разлога за промену става.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan97-stav4">
+										<content>
+											<p>Ако се утврди да став Суда изражен у предлогу одлуке одступа од раније заузетог става о истоветном питању, доношење одлуке ће се одложити ради одлучивања о потреби преиспитивања раније заузетог става.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod11-clan98">
+								<num>98.</num>
+								<heading>Објављивање промене става</heading>
+								<content>
+									<clause id="gla5-podod11-clan98-stav1">
+										<content>
+											<p>Промена става Суда констатује се на записнику са седнице Суда.</p>
+										</content>
+									</clause>
+									<clause id="gla5-podod11-clan98-stav2">
+										<content>
+											<p>Промена става Суда и разлог за промену става наводи се у првој одлуци, односно решењу Суда у коме је одлучено у складу са новим ставом.</p>
+											<тачка id="gla5-podod11-clan98-stav2-tac7">
+												<num>7.</num>
+												<content>
+													<p> Извршење одлука Суда</p>
+												</content>
+											</тачка>
+										</content>
+									</clause>
+								</content>
+							</article>
+							<article id="gla5-podod11-clan99">
+								<num>99.</num>
+								<heading>Обавештење о одређивању начина извршења</heading>
+								<content>
+									<clause id="gla5-podod11-clan99-stav1">
+										<content>
+											<p>Суд доставља подносиоцу захтева за извршење одлуке Суда решење којим је одредио начин извршења те одлуке.</p>
+										</content>
+									</clause>
+								</content>
+							</article>
+						</content>
+					</subsection>
+				</content>
+			</chapter>
+			<chapter id="gla6">
+				<num>VI</num>
+				<heading>ПЛАН И ПРЕГЛЕД РАДА СУДА</heading>
+				<content>
+					<article id="gla6-clan100">
+						<num>100.</num>
+						<heading>План рада</heading>
+						<content>
+							<clause id="gla6-clan100-stav1">
+								<content>
+									<p>Суд на предлог председника Суда доноси периодичне планове рада Суда и прати њихово извршење.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan100-stav2">
+								<content>
+									<p>Пре подношења предлога из става 1. овог члана, председник Суда прибавља мишљење судија Суда о приоритеном решавању предмета за које су задужени.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan100-stav3">
+								<content>
+									<p>Остваривање планова рада Суда се реализује по редоследу пријема предмета који су њиме опредељени за приоритетно решавање.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan100-stav4">
+								<content>
+									<p>Изузетно од става 2. овог члана, на предлог судије известиоца, због природе спора или хитности поступања, председник Суда може одобрити приоритетно решавање предмета.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan100-stav5">
+								<content>
+									<p>У случају непоступања у предмету који је опредељен за приоритетно решавање, председник Суда може, по претходно прибављеном закључку Суда, предузети потребне мере.</p>
+								</content>
+							</clause>
+							<clause id="gla6-clan100-stav6">
+								<content>
+									<p>Председник Суда у складу са ст. 3. и 4. овог члана одређује и дневни ред за седнице Суда и великих већа.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla6-clan101">
+						<num>101.</num>
+						<heading>Годишњи преглед рада</heading>
+						<content>
+							<clause id="gla6-clan101-stav1">
+								<content>
+									<p>Суд, по истеку календарске године, разматра и усваја годишњи преглед рада Суда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla7">
+				<num>VII</num>
+				<heading>ОСТАЛЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla7-clan102">
+						<num>102.</num>
+						<heading>Поступање са поднесцима за које Суд није надлежан</heading>
+						<content>
+							<clause id="gla7-clan102-stav1">
+								<content>
+									<p>Суд не одлучује о поднесцима којима се траже правни савети и мишљења о појединим питањима, помоћ у остваривању права и интереса, изјављују притужбе на рад државних и других органа и организација, као и о другим поднесцима којима се захтева поступање Суда по питањима која нису у његовој надлежности.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan102-stav2">
+								<content>
+									<p>О ненадлежности Суда да поступа по поднесцима из става 1. овог члана секретар Суда писмено обавештава подносиоца.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan103">
+						<num>103.</num>
+						<heading>Правила унутрашњег реда</heading>
+						<content>
+							<clause id="gla7-clan103-stav1">
+								<content>
+									<p>Правила о унутрашњем реду у Суду уређују се актом Суда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan104">
+						<num>104.</num>
+						<heading>Пријем учесника у поступку</heading>
+						<content>
+							<clause id="gla7-clan104-stav1">
+								<content>
+									<p>Суд не врши пријем учесника поступка у предметима у којима је поступак у току.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan105">
+						<num>105.</num>
+						<heading>Радно време</heading>
+						<content>
+							<clause id="gla7-clan105-stav1">
+								<content>
+									<p>Радно време одређује се одлуком Суда.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan105-stav2">
+								<content>
+									<p>Одлуком секретара Суда одређује се начин евидентирања присуства запослених у Суду у току и изван радног времена.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan106">
+						<num>106.</num>
+						<heading>Састанци и саветовања</heading>
+						<content>
+							<clause id="gla7-clan106-stav1">
+								<content>
+									<p>Суд може да организује састанке и саветовања о питањима од интереса за остваривање уставности и законитости и за рад Суда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan107">
+						<num>107.</num>
+						<heading>Накнада за давање стручног мишљења</heading>
+						<content>
+							<clause id="gla7-clan107-stav1">
+								<content>
+									<p>Лицу које на захтев Суда у току поступка даје стручно мишљење, може се одредити накнада трошкова и накнада за учешће у поступку, у складу са актом Суда.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla7-clan108">
+						<num>108.</num>
+						<heading>Поступак измене и допуне Пословника</heading>
+						<content>
+							<clause id="gla7-clan108-stav1">
+								<content>
+									<p>Предлог за измену и допуну овог пословника могу поднети председник, судија или стално радно тело Суда.</p>
+								</content>
+							</clause>
+							<clause id="gla7-clan108-stav2">
+								<content>
+									<p>Предлог из става 1. овог члана, који се подноси у писаном облику, са образложењем, пре разматрања на седници Суда, разматра Комисија за праћење остваривања уставности и законитости.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+			<chapter id="gla8">
+				<num>VIII</num>
+				<heading>ПРЕЛАЗНЕ И ЗАВРШНЕ ОДРЕДБЕ</heading>
+				<content>
+					<article id="gla8-clan109">
+						<num>109.</num>
+						<heading>Доношење општих аката предвиђених Пословником</heading>
+						<content>
+							<clause id="gla8-clan109-stav1">
+								<content>
+									<p>Кодекс понашања државних службеника, правила о унутрашњем реду, одлука о интерној контроли извршења буџета и други општи акти Суда предвиђени овим пословником биће донети у року од шест месеци од дана ступања на снагу овог пословника.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla8-clan110">
+						<num>110.</num>
+						<heading>Наставак рада сталних радних тела</heading>
+						<content>
+							<clause id="gla8-clan110-stav1">
+								<content>
+									<p>Стална радна тела Суда образована до дана ступања на снагу овог пословника настављају са радом, до истека мандата.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla8-clan111">
+						<num>111.</num>
+						<heading>Престанак важења Пословника</heading>
+						<content>
+							<clause id="gla8-clan111-stav1">
+								<content>
+									<p>Даном ступања на снагу овог пословника престаје да важи Пословник о раду Уставног суда („<ref id="ref16" href="/rs/act/08/24/srp@">Службени гласник РС”, бр. 24/08, 27/08</ref> – исправка и 76/11).</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="gla8-clan112">
+						<num>112.</num>
+						<heading>Ступање на снагу</heading>
+						<content>
+							<clause id="gla8-clan112-stav1">
+								<content>
+									<p>Овај пословник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan112-stav2">
+								<content>
+									<p>Су. број 696/1</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan112-stav3">
+								<content>
+									<p>У Београду, 19. новембра 2013. године</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan112-stav4">
+								<content>
+									<p>Председник Уставног суда,</p>
+								</content>
+							</clause>
+							<clause id="gla8-clan112-stav5">
+								<content>
+									<p>др Драгиша Б. Слијепчевић,   с. р.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

@@ -1,0 +1,284 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/1972/33-671/main"/>
+					<FRBRuri value="/rs/act/1972/33-671"/>
+					<FRBRdate date="1972" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/1985/31-1014/srp@/main"/>
+					<FRBRuri value="/rs/act/1985/31-1014/srp@"/>
+					<FRBRdate date="1985" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/1985/31-1014/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/1985/31-1014/srp@.akn"/>
+					<FRBRdate date="1985" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="1972-6-30" name="службени лист сфрј" number="33" showAs="Службени лист СФРЈ"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="IV ЈАВНИ ПРИХОДИ" value="iv јавни приходи"/>
+				<keyword id="grupa" showAs="3. Таксе и друге дажбине" value="3. таксе и друге дажбине"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="1972-05-19" id="usvajanje"/>
+				<step date="1972-07-08" id="stupanje_na_snagu"/>
+				<step date="1972-07-08" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="33/1972-671" id="e1" type="generation"/>
+				<eventRef date="31/1985-1014" id="e2" type="amendment"/>
+			</lifecycle>
+		</meta>
+		<preface>
+			<authority>На основу чл. 32. и 34. Закона о савезним административним таксама („<ref id="ref1" href="/rs/act/72/5/srp@">Службени лист СФРЈ“, бр. 5/72</ref>), у споразуму са савезним секретаром за иностране послове, савезни секретар за финансије прописује</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о начину плаћања савезних административних такса и о емитовању и употреби конзуларних таксених марака</title>
+			<date>„Службени лист СФРЈ”, бр. 33 од 30. јуна 1972, 31 од 28. јуна 1985.</date>
+		</preface>
+		<body>
+			<article id="clan1">
+				<num>1.</num>
+				<content>
+					<clause id="clan1-stav1">
+						<content>
+							<p>За списе и радње код савезних органа и савезних организација у Социјалистичкој Федеративној Републици Југославији* савезне административне таксе (у даљем тексту: таксе) плаћају се у административним таксеним маркама, а за списе и радње код дипломатских и конзуларних представништава Социјалистичке Федеративне Републике Југославије* у иностранству – у конзуларним таксеним маркама.</p>
+						</content>
+					</clause>
+					<clause id="clan1-stav2">
+						<content>
+							<p>Таксе се плаћају и у готовом новцу:</p>
+							<point id="clan1-stav2-tac1">
+								<num>1)</num>
+								<content>
+									<p> ако такса за поједини спис или радњу, осим за спис или радњу код дипломатских и конзуларних представништава Социјалистичке Федеративне Републике Југославије* у иностранству, износи више од 400 динара;*</p>
+								</content>
+							</point>
+							<point id="clan1-stav2-tac2">
+								<num>2)</num>
+								<content>
+									<p> ако конзуларна такса за поједини спис или радњу износи више од 1.000 динара;*</p>
+								</content>
+							</point>
+							<point id="clan1-stav2-tac3">
+								<num>3)</num>
+								<content>
+									<p>* ако је плаћање таксе у готовом новцу прописано Законом о савезним административним таксама односно таксеном тарифом утврђеном посебним савезним законом, без обзира на износ таксе (кад се таксени обвезник са седиштем, пребивалиштем или боравиштем у Социјалистичкој Федеративној Републици Југославији* обраћа из Социјалистичке Федеративне Републике Југославије дипломатском и конзуларном представништву у иностранству; за царинску декларацију којом се царине поштанске пошиљке и за обрачун увозних дажбина за робу коју путник собом носи; за поступак по царинској декларацији којом се пријављује за царињење роба намењена извозу или за царињење увезене робе, и др.).</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan2">
+				<num>2.</num>
+				<heading>*<ref id="ref2" href="/rs/act/1985/31/srp@">Службени лист СФРЈ, број 31/1985</ref></heading>
+				<content>
+					<clause id="clan2-stav1">
+						<content>
+							<p>Ако се такса за списе и радње код савезних органа и савезних организација у Социјалистичкој Федеративној Републици Југославији има платити у готовом новцу, таксени обвезник уплаћује у динарима таксу на одређени уплатни рачун прихода од савезних и административних такса код надлежне Службе друштвеног књиговодства, и прилаже односном спису један примерак потврде о плаћеној такси као доказ да је платио таксу за односни спис или радњу.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav2">
+						<content>
+							<p>Изузетно од одредбе става 1. овог члана. административна такса у готовом новцу за рад царинског органа плаћања се непосредно код царинарнице приликом царињења робе (поштанских пошиљака, по обрачуну увозних дажбина за робу коју путник собом носи, по увозним и извозним декларацијама). Наплаћени износ таксе у готовом новцу царинарница књижи у књиговодствену евиденцију и уплаћује на одговарајући уплатни рачун прихода од савезних административних такса код надлежне Службе друштвеног књиговодства.</p>
+						</content>
+					</clause>
+					<clause id="clan2-stav3">
+						<content>
+							<p>На начин из става 1. овог члана, конзуларну таксу у готовом новцу плаћа таксени обвезник који у Социјалистичкој Федеративној Републици Југославији има седиште, пребивалиште или боравиште – ако се из Социјалистичке Федеративне Републике Југославије обраћа југословенском дипломатском или конзуларном представништву у иностранству.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan3">
+				<num>3.</num>
+				<content>
+					<clause id="clan3-stav1">
+						<content>
+							<p>Такса се плаћа унапред, у тренутку настанка таксене обавезе, и то:</p>
+							<point id="clan3-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> за поднеске – у време кад се предају или изјављују у записник;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> за решења, одобрења, уверења и друге исправе – у време подношења захтева за њихово издавање;</p>
+								</content>
+							</point>
+							<point id="clan3-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> за управне радње – у време подношења захтева за извршење тих радњи.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan4">
+				<num>4.</num>
+				<content>
+					<clause id="clan4-stav1">
+						<content>
+							<p>Такса се плаћа уназад, после настанка таксене обавезе:</p>
+							<point id="clan4-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> списе и радње за које је таксеном тарифом утврђеном посебним савезним законом прописано да се такса плаћа уназад;</p>
+								</content>
+							</point>
+							<point id="clan4-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> ако износ таксе не може унапред бити познат.</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan5">
+				<num>5.</num>
+				<content>
+					<clause id="clan5-stav1">
+						<content>
+							<p>Таксене марке лепе се:</p>
+							<point id="clan5-stav1-tac1">
+								<num>1)</num>
+								<content>
+									<p> за поднесак – на самом поднеску;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac2">
+								<num>2)</num>
+								<content>
+									<p> за решење, одобрење, уверење или другу исправу код савезних органа и савезних организација и дипломатских и конзуларних представништава Социјалистичке Федеративне Републике Југославије у иностранству – на поднеску којим странка тражи издавање односне исправе;</p>
+								</content>
+							</point>
+							<point id="clan5-stav1-tac3">
+								<num>3)</num>
+								<content>
+									<p> за службене радње код савезних органа и савезних организација и дипломатских и конзуларних представништава Социјалистичке Федеративне Републике Југославије у иностранству – на поднеску којим се тражи извршење службене радње.*</p>
+								</content>
+							</point>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan6">
+				<num>6.</num>
+				<heading>*<ref id="ref3" href="/rs/act/1985/31/srp@">Службени лист СФРЈ, број 31/1985</ref></heading>
+				<content>
+					<clause id="clan6-stav1">
+						<content>
+							<p>Поништавање таксених марака које се лепе на поднеску врши савезни орган надлежан за пријем поднеска, а у осталим случајевима – орган који доноси или уручује странци решење или другу исправу односно који врши радњу за коју се такса плаћа.</p>
+						</content>
+					</clause>
+					<clause id="clan6-stav2">
+						<content>
+							<p>Поништавање таксених марака врши се печатом органа из става 1. овог члана.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan7">
+				<num>7.</num>
+				<content>
+					<clause id="clan7-stav1">
+						<content>
+							<p>Решење о емитовању и пуштању у течај конзуларних таксених марака извршава Народна банка Југославије или организација удруженог рада којој тај посао буде на основу уговора поверен.</p>
+						</content>
+					</clause>
+					<clause id="clan7-stav2">
+						<content>
+							<p>Народној банци или другој организацији удруженог рада припада право на провизију у вези са пословима по ставу 1. овог члана и са вршењем дистрибуције конзуларних таксених марака.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan8">
+				<num>8.</num>
+				<content>
+					<clause id="clan8-stav1">
+						<content>
+							<p>Конзуларне таксене марке раније емисије престају да важе даном који је одређен решењем Савезног секретаријата за финансије.</p>
+						</content>
+					</clause>
+					<clause id="clan8-stav2">
+						<content>
+							<p>Уништавање конзуларних таксених марака раније емисије врши комисија Народне банке Југославије односно организација из <ref>члана 7. став 1. овог</ref> правилника.</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan9">
+				<num>9.</num>
+				<content>
+					<clause id="clan9-stav1">
+						<content>
+							<p>Даном ступања на снагу овог правилника престаје да важи Правилник о начину плаћања административних такса и о емитовању и употреби таксених марака („<ref id="ref4" href="/rs/act/65/30/srp@">Службени лист СФРЈ”, бр. 30/65</ref>).</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<article id="clan10">
+				<num>10.</num>
+				<content>
+					<clause id="clan10-stav1">
+						<content>
+							<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном листу СФРЈ”.</p>
+						</content>
+					</clause>
+					<clause id="clan10-stav2">
+						<content>
+							<p>Бр. 5-4254/28</p>
+						</content>
+					</clause>
+				</content>
+			</article>
+			<section id="od19">
+				<num>19.</num>
+				<heading> маја 1972. године</heading>
+				<content>
+					<clause id="od19-clan10-stav1">
+						<content>
+							<p>Београд</p>
+						</content>
+					</clause>
+					<clause id="od19-clan10-stav2">
+						<content>
+							<p>Савезни секретар за</p>
+						</content>
+					</clause>
+					<clause id="od19-clan10-stav3">
+						<content>
+							<p>Финансије</p>
+						</content>
+					</clause>
+					<clause id="od19-clan10-stav4">
+						<content>
+							<p>Јанко Смоле, с.р.</p>
+						</content>
+					</clause>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

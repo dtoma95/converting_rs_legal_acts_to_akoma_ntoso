@@ -1,0 +1,722 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+	
+
+	<act>
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="/rs/act/2010/53-35/main"/>
+					<FRBRuri value="/rs/act/2010/53-35"/>
+					<FRBRdate date="2010" name="Generation"/>
+					<FRBRauthor as="#author" href="#somebody"/>
+					<FRBRcountry value="rs"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="/rs/act/2018/44-27/srp@/main"/>
+					<FRBRuri value="/rs/act/2018/44-27/srp@"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language="srp"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="/rs/act/2018/44-27/srp@/main.xml"/>
+					<FRBRuri value="/rs/act/2018/44-27/srp@.akn"/>
+					<FRBRdate date="2018" name="Generation"/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRformat value="xml"/>
+				</FRBRManifestation>
+			</identification>
+			<publication date="2010-7-29" name="службени гласник рс" number="53" showAs="Службени гласник РС"/>
+			<classification source="#somebody">
+				<keyword id="vrsta" showAs="Правилник" value="правилник"/>
+				<keyword id="oblast" showAs="XIII ПОЉОПРИВРЕДНА ДЕЛАТНОСТ" value="xiii пољопривредна делатност"/>
+				<keyword id="grupa" showAs="3. Семе и садни материјал" value="3. семе и садни материјал"/>
+			</classification>
+			<workflow source="#somebody">
+				<step date="2010-07-20" id="usvajanje"/>
+				<step date="2010-08-07" id="stupanje_na_snagu"/>
+				<step date="2010-08-07" id="primena"/>
+			</workflow>
+			<lifecycle source="#somebody">
+				<eventRef date="53/2010-35" id="e1" type="generation"/>
+				<eventRef date="44/2018-27" id="e2" type="amendment"/>
+			</lifecycle>
+			<notes source="#somebody">
+				<note id="not1">
+					<p>Даном почетка примене Закона о изменама и допунама Закона о привредним друштвима („<ref id="ref4" href="/rs/act/2018/44/srp@">Службени гласник РС“, број 44/2018</ref>), односно 1. октобра 2018. године престају да важе одредбе овог правилника, у обрасцу, у делу у ком се установљава обавеза употребе печата у пословању друштава и предузетника (види <ref>члан 160. </ref>Закона - 44/2018-27).</p>
+				</note>
+			</notes>
+		</meta>
+		<preamble>
+			<p>Редакцијски пречишћен текст</p>
+			<p>На основу <ref>члана 9. став 5. </ref>Закона о признавању сорти пољопривредног биља („<ref id="ref5" href="/rs/act/10/30/srp@">Службени гласник РС”, број 30/10</ref>),</p>
+		</preamble>
+		<preface>
+			<authority>Министар пољопривреде, шумарства и водопривреде доноси</authority>
+			<title>ПРАВИЛНИК</title>
+			<title>о садржини и обрасцу захтева за признавање сорте  пољопривредног биља, као и документацији која се  уз тај захтев прилаже</title>
+			<date>&quot;Службени гласник РС&quot;, број 53 од 29. јула 2010, 44 од 8. јуна 2018 - др. закон</date>
+		</preface>
+		<body>
+			<section id="od1">
+				<num>1.</num>
+				<heading> Уводна одредба</heading>
+				<content>
+					<article id="od1-clan1">
+						<num>1.</num>
+						<content>
+							<clause id="od1-clan1-stav1">
+								<content>
+									<p>Овим правилником прописује се садржина и образац захтева за признавање сорте пољопривредног биља, као и документација која се уз тај захтев прилаже.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+			<section id="od2">
+				<num>2.</num>
+				<heading> Садржина и образац захтева за признавање сорте пољопривредног биља</heading>
+				<content>
+					<article id="od2-clan2">
+						<num>2.</num>
+						<content>
+							<clause id="od2-clan2-stav1">
+								<content>
+									<p>Поступак за признавање сорте покреће се на основу захтева за признавање сорте пољопривредног биља, који власник сорте, односно његов овлашћени заступник (у даљем тексту: подносилац захтева) подноси министарству надлежном за послове пољопривредe, у складу са законом којим се уређује признавање сорти пољопривредног биља.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan2-stav2">
+								<content>
+									<p>Захтев из става 1. овог члана садржи податке о:</p>
+									<point id="od2-clan2-stav2-tac1">
+										<num>1)</num>
+										<content>
+											<p> биљној врсти (српски и латински назив);</p>
+										</content>
+									</point>
+									<point id="od2-clan2-stav2-tac2">
+										<num>2)</num>
+										<content>
+											<p> предложеном имену или оплемењивачкој ознаци сорте;</p>
+										</content>
+									</point>
+									<point id="od2-clan2-stav2-tac3">
+										<num>3)</num>
+										<content>
+											<p> имену и презимену, односно називу и адреси, односно седишту власника сорте (телефон, факс, e-mail адреса);</p>
+										</content>
+									</point>
+									<point id="od2-clan2-stav2-tac4">
+										<num>4)</num>
+										<content>
+											<p> имену и презимену, односно називу и адреси, односно седишту подносиоца захтева, односно овлашћеног заступника (телефон, факс, e-mail адреса);</p>
+										</content>
+									</point>
+									<point id="od2-clan2-stav2-tac5">
+										<num>5)</num>
+										<content>
+											<p> изворном материјалу сорте, имену и пореклу сорте, а код укрштања и податке о родитељима и методу укрштања;</p>
+										</content>
+									</point>
+									<point id="od2-clan2-stav2-tac6">
+										<num>6)</num>
+										<content>
+											<p> поднетом захтеву за признавање сорте у другим земљама, са податком о називу земље и години подношења захтева за признавање сорте;</p>
+										</content>
+									</point>
+									<point id="od2-clan2-stav2-tac7">
+										<num>7)</num>
+										<content>
+											<p> чињеници да ли је урађен DUS тест у некој од земаља чланица UPOV, и уколико јесте податак о називу те земље;</p>
+										</content>
+									</point>
+									<point id="od2-clan2-stav2-tac8">
+										<num>8)</num>
+										<content>
+											<p> чињеници да ли је сорта призната, и уколико јесте податке о називу земље, имену и години;</p>
+										</content>
+									</point>
+									<point id="od2-clan2-stav2-tac9">
+										<num>9)</num>
+										<content>
+											<p> чињеници да ли је сорта заштићена, и уколико јесте податке о називу земље, имену и години;</p>
+										</content>
+									</point>
+									<point id="od2-clan2-stav2-tac10">
+										<num>10)</num>
+										<content>
+											<p> специфичним својствима сорте, а ако та својства нису предвиђена техничким упитником, и податке о типу, сезони гајења, групи зрења у нашим условима, отпорности на болести и штеточине и слично;</p>
+										</content>
+									</point>
+									<point id="od2-clan2-stav2-tac11">
+										<num>11)</num>
+										<content>
+											<p> циљу селекције, односно намени сорте;</p>
+										</content>
+									</point>
+									<point id="od2-clan2-stav2-tac12">
+										<num>12)</num>
+										<content>
+											<p> имену и презимену, односно називу и адреси, односно седишту одржаваоца сорте после признавања;</p>
+										</content>
+									</point>
+									<point id="od2-clan2-stav2-tac13">
+										<num>13)</num>
+										<content>
+											<p> чињеници да ли је сорта генетички модификована;</p>
+										</content>
+									</point>
+									<point id="od2-clan2-stav2-tac14">
+										<num>14)</num>
+										<content>
+											<p> именима оплемењивача који су учествовали у процесу стварања сорте, у случају да се ради о домаћој сорти;</p>
+										</content>
+									</point>
+									<point id="od2-clan2-stav2-tac15">
+										<num>15)</num>
+										<content>
+											<p> напоменама.</p>
+										</content>
+									</point>
+								</content>
+							</clause>
+							<clause id="od2-clan2-stav3">
+								<content>
+									<p>Захтев из става 1. овог члана подноси се на обрасцу – Захтев за признавање сорте, који је одштампан уз овај правилник и чини његов саставни део.</p>
+									<тачка id="od2-clan2-stav3-tac3">
+										<num>3.</num>
+										<content>
+											<p> Документација која се прилаже уз захтев за признавање сорте</p>
+										</content>
+									</тачка>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan3">
+						<num>3.</num>
+						<content>
+							<clause id="od2-clan3-stav1">
+								<content>
+									<p>Уз захтев из <ref>члана 2. овог</ref> правилника доставља се следећа документација, и то:</p>
+									<point id="od2-clan3-stav1-tac1">
+										<num>1)</num>
+										<content>
+											<p> овлашћење о заступању издато од стране власника сорте;</p>
+										</content>
+									</point>
+									<point id="od2-clan3-stav1-tac2">
+										<num>2)</num>
+										<content>
+											<p> попуњен технички упитник за пријављену сорту;</p>
+										</content>
+									</point>
+									<point id="od2-clan3-stav1-tac3">
+										<num>3)</num>
+										<content>
+											<p> изјава да сорта није генетички модификована;</p>
+										</content>
+									</point>
+									<point id="od2-clan3-stav1-tac4">
+										<num>4)</num>
+										<content>
+											<p> доказ о уплаћеној административној такси.</p>
+											<тачка id="od2-clan3-stav1-tac4">
+												<num>4.</num>
+												<content>
+													<p> Завршне одредбе</p>
+												</content>
+											</тачка>
+										</content>
+									</point>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan4">
+						<num>4.</num>
+						<content>
+							<clause id="od2-clan4-stav1">
+								<content>
+									<p>Даном ступања на снагу овог правилника престају да важе одредбе Правилника о обрасцу и садржини захтева за признавање сорте, критеријумима за одређивање назива сорте и садржини Регистра сорти пољопривредног биља („<ref id="ref6" href="/rs/act/07/29/srp@">Службени гласник РС”, број 29/07</ref>) које се односе на образац и садржину захтева за признавање сорте пољопривредног биља.</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+					<article id="od2-clan5">
+						<num>5.</num>
+						<content>
+							<clause id="od2-clan5-stav1">
+								<content>
+									<p>Овај правилник ступа на снагу осмог дана од дана објављивања у „Службеном гласнику Републике Србије”.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav2">
+								<content>
+									<p>Број 110-00-00174/2010-09</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav3">
+								<content>
+									<p>У Београду, 27. јула 2010. године</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav4">
+								<content>
+									<p>Министар,</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav5">
+								<content>
+									<p>др Саша Драгин, с.р.</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav6">
+								<content>
+									<p>НАПОМЕНА ИЗДАВАЧА: Даном почетка примене Закона о изменама и допунама  Закона о привредним друштвима („<ref id="ref7" href="/rs/act/2018/44/srp@">Службени гласник РС“, број 44/2018</ref>), односно 1.  октобра 2018. године престају да важе одредбе овог правилника, у обрасцу, у делу  у ком се установљава обавеза употребе печата у пословању друштава и предузетника  (види <ref>члан 160. </ref>Закона - 44/2018-27).</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav7">
+								<content>
+									<p>Образац</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav8">
+								<content>
+									<p>Република Србија</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav9">
+								<content>
+									<p>Министарство пољопривреде, шумарства и водопривреде</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav10">
+								<content>
+									<p>Управа за заштиту биља</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav11">
+								<content>
+									<p>Омладинских Бригада 1, 11070 Београд</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav12">
+								<content>
+									<p>Захтев за признавање сорте</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav13">
+								<content>
+									<p>Регистарски број:____________________</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav14">
+								<content>
+									<p>Датум подношења захтева: ___________</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav15">
+								<content>
+									<p>(не попуњава подносилац захтева)</p>
+								</content>
+							</clause>
+							<став id="od2-clan5-stav16">
+								<table border="1" cellpadding="0">
+									
+    
+									<tbody>
+										
+        
+										<tr>
+											
+            
+											<td>
+												
+            
+												<p>1. Биљна врста (српски и латински назив)</p>
+												
+            
+											</td>
+											
+            
+											<td>
+												
+            
+												<p/>
+												
+            
+											</td>
+											
+        
+										</tr>
+										
+        
+										<tr>
+											
+            
+											<td>
+												
+            
+												<p>2. Предложено имe или оплемењивачка ознака сорте</p>
+												
+            
+											</td>
+											
+            
+											<td>
+												
+            
+												<p/>
+												
+            
+											</td>
+											
+        
+										</tr>
+										
+        
+										<tr>
+											
+            
+											<td>
+												
+            
+												<p>3. Назив и адреса власника сорте (телефон, факс,   E-mail)</p>
+												
+            
+											</td>
+											
+            
+											<td>
+												
+            
+												<p/>
+												
+            
+											</td>
+											
+        
+										</tr>
+										
+        
+										<tr>
+											
+            
+											<td>
+												
+            
+												<p>4. Назив и адреса подносиоца захтева (телефон, факс,   E-mail)</p>
+												
+            
+											</td>
+											
+            
+											<td>
+												
+            
+												<p/>
+												
+            
+											</td>
+											
+        
+										</tr>
+										
+        
+										<tr>
+											
+            
+											<td>
+												
+            
+												<p>5. Изворни материјал, име и порекло (код укрштања   навести родитеље и метод укрштања)</p>
+												
+            
+											</td>
+											
+            
+											<td>
+												
+            
+												<p/>
+												
+            
+											</td>
+											
+        
+										</tr>
+										
+        
+										<tr>
+											
+            
+											<td>
+												
+            
+												<p>6. Поднети захтеви за признавање у другим земљама   (навести земљу и годину подношења)</p>
+												
+            
+											</td>
+											
+        
+										</tr>
+										
+        
+										<tr>
+											
+            
+											<td>
+												
+            
+												<p>7. Да ли је урађен DUS тест у некој од земаља   чланица UPOV (навести земљу)</p>
+												
+            
+											</td>
+											
+            
+											<td>
+												
+            
+												<p/>
+												
+            
+											</td>
+											
+        
+										</tr>
+										
+        
+										<tr>
+											
+            
+											<td>
+												
+            
+												<p>8. Сорта призната (земља, име, година)</p>
+												
+            
+											</td>
+											
+            
+											<td>
+												
+            
+												<p/>
+												
+            
+											</td>
+											
+        
+										</tr>
+										
+        
+										<tr>
+											
+            
+											<td>
+												
+            
+												<p>9. Сорта заштићена (земља, име, година)</p>
+												
+            
+											</td>
+											
+            
+											<td>
+												
+            
+												<p/>
+												
+            
+											</td>
+											
+        
+										</tr>
+										
+        
+										<tr>
+											
+            
+											<td>
+												
+            
+												<p>10. Специфична својства сорте</p>
+												
+            
+												<p>(ако нису предвиђена техничким упитником: тип,   сезона гајења, група зрења у нашим условима, отпорност на болести и штеточине   и слично)</p>
+												
+            
+											</td>
+											
+            
+											<td>
+												
+            
+												<p/>
+												
+            
+											</td>
+											
+        
+										</tr>
+										
+        
+										<tr>
+											
+            
+											<td>
+												
+            
+												<p>11. Циљ селекције (намена сорте)</p>
+												
+            
+											</td>
+											
+            
+											<td>
+												
+            
+												<p/>
+												
+            
+											</td>
+											
+        
+										</tr>
+										
+        
+										<tr>
+											
+            
+											<td>
+												
+            
+												<p>12. Назив и адреса одржаваоца сорте након признавања   </p>
+												
+            
+											</td>
+											
+            
+											<td>
+												
+            
+												<p/>
+												
+            
+											</td>
+											
+        
+										</tr>
+										
+        
+										<tr>
+											
+            
+											<td>
+												
+            
+												<p>13. Да ли је сорта генетички модификована?</p>
+												
+            
+											</td>
+											
+            
+											<td>
+												
+            
+												<p>( ) да ( ) не</p>
+												
+            
+											</td>
+											
+        
+										</tr>
+										
+        
+										<tr>
+											
+            
+											<td>
+												
+            
+												<p>14. За домаће сорте навести имена оплемењивача који   су учествовали у процесу стварања сорте (ради могућности стицања услова за   научна звања у ресорном министарству за област научног истраживања)</p>
+												
+            
+											</td>
+											
+            
+											<td>
+												
+            
+												<p/>
+												
+            
+											</td>
+											
+        
+										</tr>
+										
+        
+										<tr>
+											
+            
+											<td>
+												
+            
+												<p>15. Напомена: ако постоји потреба за било каквом   додатном информацијом навести у овој тачки. </p>
+												
+            
+											</td>
+											
+            
+											<td>
+												
+            
+												<p/>
+												
+            
+											</td>
+											
+        
+										</tr>
+										
+    
+									</tbody>
+									
+
+								</table>
+								
+
+								<content>
+									<alinea id="od2-clan5-stav16-ali1">
+										<content>
+											<p>зјављујемо да су подаци у захтеву тачни</p>
+										</content>
+									</alinea>
+								</content>
+							</став>
+							<clause id="od2-clan5-stav17">
+								<content>
+									<p>Датум: ____________________</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav18">
+								<content>
+									<p>_______________________</p>
+								</content>
+							</clause>
+							<clause id="od2-clan5-stav19">
+								<content>
+									<p>Потпис подносиоца захтева</p>
+								</content>
+							</clause>
+						</content>
+					</article>
+				</content>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>
